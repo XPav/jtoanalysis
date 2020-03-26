@@ -1,1 +1,62 @@
-{"faction":"firstorder","pilots":[{"id":"lieutenanttavson","ship":"upsilonclasscommandshuttle","points":97,"upgrades":{"tech":["biohexacryptcodes","targetingsynchronizer"],"crew":["pettyofficerthanisson","captainphasma","novicetechnician"],"cannon":["ioncannon"],"sensor":["trajectorysimulator"],"modification":["munitionsfailsafe"]}},{"id":"static","ship":"tiefofighter","points":40,"upgrades":{"talent":["debrisgambit"],"modification":["targetingcomputer"]}},{"id":"firstordertestpilot","ship":"tievnsilencer","points":60,"upgrades":{"tech":["advancedoptics"]}}],"points":197,"vendor":{},"version":"2.0.0","name":"Random Squad"}
+{
+    "name": "Desco34_NES",
+    "number": 2,
+    "xws": {
+        "faction": "firstorder",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "lieutenanttavson",
+                "points": 97,
+                "ship": "upsilonclasscommandshuttle",
+                "upgrades": {
+                    "cannon": [
+                        "ioncannon"
+                    ],
+                    "crew": [
+                        "pettyofficerthanisson",
+                        "captainphasma",
+                        "novicetechnician"
+                    ],
+                    "modification": [
+                        "munitionsfailsafe"
+                    ],
+                    "sensor": [
+                        "trajectorysimulator"
+                    ],
+                    "tech": [
+                        "biohexacryptcodes",
+                        "targetingsynchronizer"
+                    ]
+                }
+            },
+            {
+                "id": "static",
+                "points": 40,
+                "ship": "tiefofighter",
+                "upgrades": {
+                    "modification": [
+                        "targetingcomputer"
+                    ],
+                    "talent": [
+                        "debrisgambit"
+                    ]
+                }
+            },
+            {
+                "id": "firstordertestpilot",
+                "points": 60,
+                "ship": "tievnsilencer",
+                "upgrades": {
+                    "tech": [
+                        "advancedoptics"
+                    ]
+                }
+            }
+        ],
+        "points": 197,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=First%20Order&d=v8ZsZ200Z289X202W177W194W183W53W11W114W108Y264X118WW249Y287XW186WW&sn=Random%20Squad&obs="
+}

@@ -1,1 +1,61 @@
-{"faction":"scumandvillainy","pilots":[{"id":"toranikulda","ship":"m12lkimogilafighter","points":63,"upgrades":{"missile":["concussionmissiles"],"astromech":["r2astromech"],"modification":["stealthdevice"]}},{"id":"blacksunenforcer","ship":"starviperclassattackplatform","points":72,"upgrades":{"sensor":["advancedsensors"],"torpedo":["advprotontorpedoes"],"title":["virago"],"modification":["targetingcomputer"]}},{"id":"sarcoplank","ship":"quadrijettransferspacetug","points":32,"upgrades":{}},{"id":"jakkugunrunner","ship":"quadrijettransferspacetug","points":30,"upgrades":{}}],"points":197,"vendor":{},"version":"2.0.0","name":"Random Squad"}
+{
+    "name": "Yellow Snow Kangaroo",
+    "number": 1,
+    "xws": {
+        "faction": "scumandvillainy",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "toranikulda",
+                "points": 63,
+                "ship": "m12lkimogilafighter",
+                "upgrades": {
+                    "astromech": [
+                        "r2astromech"
+                    ],
+                    "missile": [
+                        "concussionmissiles"
+                    ],
+                    "modification": [
+                        "stealthdevice"
+                    ]
+                }
+            },
+            {
+                "id": "blacksunenforcer",
+                "points": 72,
+                "ship": "starviperclassattackplatform",
+                "upgrades": {
+                    "modification": [
+                        "targetingcomputer"
+                    ],
+                    "sensor": [
+                        "advancedsensors"
+                    ],
+                    "title": [
+                        "virago"
+                    ],
+                    "torpedo": [
+                        "advprotontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "sarcoplank",
+                "points": 32,
+                "ship": "quadrijettransferspacetug",
+                "upgrades": {}
+            },
+            {
+                "id": "jakkugunrunner",
+                "points": 30,
+                "ship": "quadrijettransferspacetug",
+                "upgrades": {}
+            }
+        ],
+        "points": 197,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Scum%20and%20Villainy&d=v8ZsZ200Z129XWW99W2WW166Y151X111W134WW163W249Y141XWWWWY143XWWWW&sn=Random%20Squad&obs="
+}

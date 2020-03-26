@@ -1,1 +1,69 @@
-{"faction":"rebelalliance","pilots":[{"id":"esegetuketu","ship":"btls8kwing","points":78,"upgrades":{"torpedo":["plasmatorpedoes"],"missile":["ionmissiles","concussionmissiles"],"crew":["bazemalbus"],"device":["electroprotonbomb"]}},{"id":"talasquadronpilot","ship":"z95af4headhunter","points":26,"upgrades":{"talent":["crackshot"],"modification":["delayedfuses"]}},{"id":"talasquadronpilot","ship":"z95af4headhunter","points":24,"upgrades":{}},{"id":"talasquadronpilot","ship":"z95af4headhunter","points":24,"upgrades":{}},{"id":"wardensquadronpilot","ship":"btls8kwing","points":46,"upgrades":{"missile":["barragerockets"]}}],"points":198,"vendor":{},"version":"2.0.0","name":"Random Squad"}
+{
+    "name": "B_Squidgy",
+    "number": 2,
+    "xws": {
+        "faction": "rebelalliance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "esegetuketu",
+                "points": 78,
+                "ship": "btls8kwing",
+                "upgrades": {
+                    "crew": [
+                        "bazemalbus"
+                    ],
+                    "device": [
+                        "electroprotonbomb"
+                    ],
+                    "missile": [
+                        "ionmissiles",
+                        "concussionmissiles"
+                    ],
+                    "torpedo": [
+                        "plasmatorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "talasquadronpilot",
+                "points": 26,
+                "ship": "z95af4headhunter",
+                "upgrades": {
+                    "modification": [
+                        "delayedfuses"
+                    ],
+                    "talent": [
+                        "crackshot"
+                    ]
+                }
+            },
+            {
+                "id": "talasquadronpilot",
+                "points": 24,
+                "ship": "z95af4headhunter",
+                "upgrades": {}
+            },
+            {
+                "id": "talasquadronpilot",
+                "points": 24,
+                "ship": "z95af4headhunter",
+                "upgrades": {}
+            },
+            {
+                "id": "wardensquadronpilot",
+                "points": 46,
+                "ship": "btls8kwing",
+                "upgrades": {
+                    "missile": [
+                        "barragerockets"
+                    ]
+                }
+            }
+        ],
+        "points": 198,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Rebel%20Alliance&d=v8ZsZ200Z18X234W101W99WW17WW235WY56X116WW236Y56XWWY56XWWY20XWW97WWWWW&sn=Random%20Squad&obs="
+}

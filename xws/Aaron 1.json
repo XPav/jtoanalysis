@@ -1,1 +1,61 @@
-{"faction":"rebelalliance","pilots":[{"id":"norrawexley-btla4ywing","ship":"btla4ywing","points":79,"upgrades":{"talent":["elusive"],"torpedo":["plasmatorpedoes"],"gunner":["lukeskywalker"]}},{"id":"ezrabridger-sheathipedeclassshuttle","ship":"sheathipedeclassshuttle","points":59,"upgrades":{"crew":["kananjarrus"],"modification":["electronicbaffle"],"astromech":["r3astromech"],"title":["phantom"]}},{"id":"talasquadronpilot","ship":"z95af4headhunter","points":24,"upgrades":{}},{"id":"airencracken","ship":"z95af4headhunter","points":36,"upgrades":{}}],"points":198,"vendor":{},"version":"2.0.0","name":"Random Squad"}
+{
+    "name": "Aaron",
+    "number": 1,
+    "xws": {
+        "faction": "rebelalliance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "norrawexley-btla4ywing",
+                "points": 79,
+                "ship": "btla4ywing",
+                "upgrades": {
+                    "gunner": [
+                        "lukeskywalker"
+                    ],
+                    "talent": [
+                        "elusive"
+                    ],
+                    "torpedo": [
+                        "plasmatorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "ezrabridger-sheathipedeclassshuttle",
+                "points": 59,
+                "ship": "sheathipedeclassshuttle",
+                "upgrades": {
+                    "astromech": [
+                        "r3astromech"
+                    ],
+                    "crew": [
+                        "kananjarrus"
+                    ],
+                    "modification": [
+                        "electronicbaffle"
+                    ],
+                    "title": [
+                        "phantom"
+                    ]
+                }
+            },
+            {
+                "id": "talasquadronpilot",
+                "points": 24,
+                "ship": "z95af4headhunter",
+                "upgrades": {}
+            },
+            {
+                "id": "airencracken",
+                "points": 36,
+                "ship": "z95af4headhunter",
+                "upgrades": {}
+            }
+        ],
+        "points": 198,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Rebel%20Alliance&d=v8ZsZ200Z25X119WW234WWWW87Y70XW41W106W4W167Y56XWWY54XWW&sn=Random%20Squad&obs="
+}

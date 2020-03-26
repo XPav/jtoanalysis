@@ -1,1 +1,70 @@
-{"faction":"galacticempire","pilots":[{"id":"majorvynder","ship":"alphaclassstarwing","points":79,"upgrades":{"talent":["composure"],"sensor":["passivesensors"],"torpedo":["protontorpedoes","advprotontorpedoes"],"missile":["ionmissiles","magpulsewarheads"],"modification":["hullupgrade"],"configuration":["os1arsenalloadout"]}},{"id":"nusquadronpilot","ship":"alphaclassstarwing","points":38,"upgrades":{"configuration":["os1arsenalloadout"],"torpedo":["advprotontorpedoes"]}},{"id":"blacksquadronscout","ship":"tieskstriker","points":42,"upgrades":{"gunner":["agilegunner"]}},{"id":"idenversio","ship":"tielnfighter","points":41,"upgrades":{}}],"points":200,"vendor":{},"version":"2.0.0","name":"Random Squad"}
+{
+    "name": "MJN248",
+    "number": 2,
+    "xws": {
+        "faction": "galacticempire",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "majorvynder",
+                "points": 79,
+                "ship": "alphaclassstarwing",
+                "upgrades": {
+                    "configuration": [
+                        "os1arsenalloadout"
+                    ],
+                    "missile": [
+                        "ionmissiles",
+                        "magpulsewarheads"
+                    ],
+                    "modification": [
+                        "hullupgrade"
+                    ],
+                    "sensor": [
+                        "passivesensors"
+                    ],
+                    "talent": [
+                        "composure"
+                    ],
+                    "torpedo": [
+                        "protontorpedoes",
+                        "advprotontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "nusquadronpilot",
+                "points": 38,
+                "ship": "alphaclassstarwing",
+                "upgrades": {
+                    "configuration": [
+                        "os1arsenalloadout"
+                    ],
+                    "torpedo": [
+                        "advprotontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "blacksquadronscout",
+                "points": 42,
+                "ship": "tieskstriker",
+                "upgrades": {
+                    "gunner": [
+                        "agilegunner"
+                    ]
+                }
+            },
+            {
+                "id": "idenversio",
+                "points": 41,
+                "ship": "tielnfighter",
+                "upgrades": {}
+            }
+        ],
+        "points": 200,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Galactic%20Empire&d=v8ZsZ200Z161X115W240W136W101W164W139W134W311Y164XWWWW139W134WY212XW76WWY218XW&sn=Random%20Squad&obs="
+}

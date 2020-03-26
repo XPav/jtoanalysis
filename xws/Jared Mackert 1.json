@@ -1,1 +1,66 @@
-{"faction":"separatistalliance","pilots":[{"id":"066","ship":"sithinfiltrator","points":80,"upgrades":{"torpedo":["protontorpedoes"],"crew":["freelanceslicer"],"modification":["shieldupgrade"],"tacticalrelay":["ta175"]}},{"id":"skakoanace","ship":"belbullab22starfighter","points":46,"upgrades":{"talent":["squadleader"]}},{"id":"dfs311","ship":"vultureclassdroidfighter","points":27,"upgrades":{"missile":["ionmissiles"]}},{"id":"dbs32c","ship":"hyenaclassdroidbomber","points":43,"upgrades":{"sensor":["firecontrolsystem"],"configuration":["landingstruts"]}}],"points":196,"vendor":{},"version":"2.0.0","name":"Random Squad"}
+{
+    "name": "Jared Mackert",
+    "number": 1,
+    "xws": {
+        "faction": "separatistalliance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "066",
+                "points": 80,
+                "ship": "sithinfiltrator",
+                "upgrades": {
+                    "crew": [
+                        "freelanceslicer"
+                    ],
+                    "modification": [
+                        "shieldupgrade"
+                    ],
+                    "tacticalrelay": [
+                        "ta175"
+                    ],
+                    "torpedo": [
+                        "protontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "skakoanace",
+                "points": 46,
+                "ship": "belbullab22starfighter",
+                "upgrades": {
+                    "talent": [
+                        "squadleader"
+                    ]
+                }
+            },
+            {
+                "id": "dfs311",
+                "points": 27,
+                "ship": "vultureclassdroidfighter",
+                "upgrades": {
+                    "missile": [
+                        "ionmissiles"
+                    ]
+                }
+            },
+            {
+                "id": "dbs32c",
+                "points": 43,
+                "ship": "hyenaclassdroidbomber",
+                "upgrades": {
+                    "configuration": [
+                        "landingstruts"
+                    ],
+                    "sensor": [
+                        "firecontrolsystem"
+                    ]
+                }
+            }
+        ],
+        "points": 196,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Separatist%20Alliance&d=v8ZsZ200Z335XWW136WW30WW165WW239Y344X131WWWY337X101WWY328X113WWW237&sn=Random%20Squad&obs="
+}

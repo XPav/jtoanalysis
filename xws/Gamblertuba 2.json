@@ -1,1 +1,67 @@
-{"faction":"rebelalliance","pilots":[{"id":"bladesquadronveteran","ship":"asf01bwing","points":51,"upgrades":{"sensor":["firecontrolsystem"],"cannon":["tractorbeam","jammingbeam"],"modification":["electronicbaffle"],"configuration":["stabilizedsfoils"]}},{"id":"kananjarrus","ship":"vcx100lightfreighter","points":112,"upgrades":{"sensor":["advancedsensors"],"turret":["dorsalturret"],"crew":["chewbacca","k2so"],"gunner":["hotshotgunner"],"title":["ghost"]}},{"id":"lieutenantblount","ship":"z95af4headhunter","points":33,"upgrades":{"talent":["swarmtactics"]}}],"points":196,"vendor":{},"version":"2.0.0","name":"Random Squad"}
+{
+    "name": "Gamblertuba",
+    "number": 2,
+    "xws": {
+        "faction": "rebelalliance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "bladesquadronveteran",
+                "points": 51,
+                "ship": "asf01bwing",
+                "upgrades": {
+                    "cannon": [
+                        "tractorbeam",
+                        "jammingbeam"
+                    ],
+                    "configuration": [
+                        "stabilizedsfoils"
+                    ],
+                    "modification": [
+                        "electronicbaffle"
+                    ],
+                    "sensor": [
+                        "firecontrolsystem"
+                    ]
+                }
+            },
+            {
+                "id": "kananjarrus",
+                "points": 112,
+                "ship": "vcx100lightfreighter",
+                "upgrades": {
+                    "crew": [
+                        "chewbacca",
+                        "k2so"
+                    ],
+                    "gunner": [
+                        "hotshotgunner"
+                    ],
+                    "sensor": [
+                        "advancedsensors"
+                    ],
+                    "title": [
+                        "ghost"
+                    ],
+                    "turret": [
+                        "dorsalturret"
+                    ]
+                }
+            },
+            {
+                "id": "lieutenantblount",
+                "points": 33,
+                "ship": "z95af4headhunter",
+                "upgrades": {
+                    "talent": [
+                        "swarmtactics"
+                    ]
+                }
+            }
+        ],
+        "points": 196,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Rebel%20Alliance&d=v8ZsZ200Z75XW113W13W12WW106W313Y62XW111WW137W21W314WW86W148Y55X132WW&sn=Random%20Squad&obs="
+}

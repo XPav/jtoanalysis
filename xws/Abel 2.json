@@ -1,1 +1,68 @@
-{"faction":"rebelalliance","pilots":[{"id":"kylekatarn","ship":"hwk290lightfreighter","points":74,"upgrades":{"talent":["selfless"],"device":["connernets"],"crew":["leiaorgana"],"modification":["afterburners"],"title":["moldycrow"]}},{"id":"ibtisam","ship":"arc170starfighter","points":69,"upgrades":{"talent":["snapshot"],"torpedo":["advprotontorpedoes"],"crew":["sabinewren"],"modification":["angleddeflectors"]}},{"id":"bladesquadronveteran","ship":"asf01bwing","points":55,"upgrades":{"sensor":["advancedsensors"],"cannon":["tractorbeam"]}}],"points":198,"vendor":{},"version":"2.0.0","name":"Random Squad"}
+{
+    "name": "Abel",
+    "number": 2,
+    "xws": {
+        "faction": "rebelalliance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "kylekatarn",
+                "points": 74,
+                "ship": "hwk290lightfreighter",
+                "upgrades": {
+                    "crew": [
+                        "leiaorgana"
+                    ],
+                    "device": [
+                        "connernets"
+                    ],
+                    "modification": [
+                        "afterburners"
+                    ],
+                    "talent": [
+                        "selfless"
+                    ],
+                    "title": [
+                        "moldycrow"
+                    ]
+                }
+            },
+            {
+                "id": "ibtisam",
+                "points": 69,
+                "ship": "arc170starfighter",
+                "upgrades": {
+                    "crew": [
+                        "sabinewren"
+                    ],
+                    "modification": [
+                        "angleddeflectors"
+                    ],
+                    "talent": [
+                        "snapshot"
+                    ],
+                    "torpedo": [
+                        "advprotontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "bladesquadronveteran",
+                "points": 55,
+                "ship": "asf01bwing",
+                "upgrades": {
+                    "cannon": [
+                        "tractorbeam"
+                    ],
+                    "sensor": [
+                        "advancedsensors"
+                    ]
+                }
+            }
+        ],
+        "points": 198,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Rebel%20Alliance&d=v8ZsZ200Z48X130W68W46WW105W156Y80X256W134W57WWW247Y75XW111WW13WWW&sn=Random%20Squad&obs="
+}

@@ -1,1 +1,70 @@
-{"faction":"separatistalliance","pilots":[{"id":"technounionbomber","ship":"hyenaclassdroidbomber","points":30,"upgrades":{"missile":["clustermissiles"]}},{"id":"generalgrievous","ship":"belbullab22starfighter","points":58,"upgrades":{"talent":["composure"],"tacticalrelay":["kraken"],"modification":["targetingcomputer"]}},{"id":"separatistdrone","ship":"vultureclassdroidfighter","points":27,"upgrades":{"missile":["concussionmissiles"]}},{"id":"technounionbomber","ship":"hyenaclassdroidbomber","points":37,"upgrades":{"device":["electroprotonbomb"]}},{"id":"skakoanace","ship":"belbullab22starfighter","points":44,"upgrades":{"modification":["shieldupgrade"]}}],"points":196,"vendor":{},"version":"2.0.0","name":"Random Squad"}
+{
+    "name": "unfassbarnathan",
+    "number": 1,
+    "xws": {
+        "faction": "separatistalliance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "technounionbomber",
+                "points": 30,
+                "ship": "hyenaclassdroidbomber",
+                "upgrades": {
+                    "missile": [
+                        "clustermissiles"
+                    ]
+                }
+            },
+            {
+                "id": "generalgrievous",
+                "points": 58,
+                "ship": "belbullab22starfighter",
+                "upgrades": {
+                    "modification": [
+                        "targetingcomputer"
+                    ],
+                    "tacticalrelay": [
+                        "kraken"
+                    ],
+                    "talent": [
+                        "composure"
+                    ]
+                }
+            },
+            {
+                "id": "separatistdrone",
+                "points": 27,
+                "ship": "vultureclassdroidfighter",
+                "upgrades": {
+                    "missile": [
+                        "concussionmissiles"
+                    ]
+                }
+            },
+            {
+                "id": "technounionbomber",
+                "points": 37,
+                "ship": "hyenaclassdroidbomber",
+                "upgrades": {
+                    "device": [
+                        "electroprotonbomb"
+                    ]
+                }
+            },
+            {
+                "id": "skakoanace",
+                "points": 44,
+                "ship": "belbullab22starfighter",
+                "upgrades": {
+                    "modification": [
+                        "shieldupgrade"
+                    ]
+                }
+            }
+        ],
+        "points": 196,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Separatist%20Alliance&d=v8ZsZ200Z324XW98WWWY305X115W222W249WY343X99WWY324XWW235WWY344XWW165W&sn=Random%20Squad&obs="
+}

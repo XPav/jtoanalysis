@@ -1,1 +1,52 @@
-{"faction":"scumandvillainy","pilots":[{"id":"4lom","ship":"g1astarfighter","points":57,"upgrades":{"sensor":["passivesensors"],"modification":["shieldupgrade"],"title":["misthunter"]}},{"id":"joyrekkoff","ship":"fangfighter","points":52,"upgrades":{}},{"id":"sabinewren-lancerclasspursuitcraft","ship":"lancerclasspursuitcraft","points":63,"upgrades":{"crew":["tobiasbeckett"]}},{"id":"blacksunsoldier","ship":"z95af4headhunter","points":24,"upgrades":{}}],"points":196,"vendor":{},"version":"2.0.0","name":"Random Squad"}
+{
+    "name": "Luke Paulson",
+    "number": 2,
+    "xws": {
+        "faction": "scumandvillainy",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "4lom",
+                "points": 57,
+                "ship": "g1astarfighter",
+                "upgrades": {
+                    "modification": [
+                        "shieldupgrade"
+                    ],
+                    "sensor": [
+                        "passivesensors"
+                    ],
+                    "title": [
+                        "misthunter"
+                    ]
+                }
+            },
+            {
+                "id": "joyrekkoff",
+                "points": 52,
+                "ship": "fangfighter",
+                "upgrades": {}
+            },
+            {
+                "id": "sabinewren-lancerclasspursuitcraft",
+                "points": 63,
+                "ship": "lancerclasspursuitcraft",
+                "upgrades": {
+                    "crew": [
+                        "tobiasbeckett"
+                    ]
+                }
+            },
+            {
+                "id": "blacksunsoldier",
+                "points": 24,
+                "ship": "z95af4headhunter",
+                "upgrades": {}
+            }
+        ],
+        "points": 196,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Scum%20and%20Villainy&d=v8ZsZ200Z109XW240WWW165W155WY100XWY127XW62WWWWY158XWWW&sn=Random%20Squad&obs="
+}

@@ -1,1 +1,59 @@
-{"faction":"galacticrepublic","pilots":[{"id":"swoop","ship":"v19torrentstarfighter","points":45,"upgrades":{"talent":["snapshot"],"missile":["protonrockets"]}},{"id":"dineeellberger","ship":"nabooroyaln1starfighter","points":46,"upgrades":{"sensor":["passivesensors"],"astromech":["r4p17"]}},{"id":"sinker","ship":"arc170starfighter","points":63,"upgrades":{"astromech":["c110p"],"modification":["electronicbaffle"]}},{"id":"naboohandmaiden","ship":"nabooroyaln1starfighter","points":42,"upgrades":{}}],"points":196,"vendor":{},"version":"2.0.0","name":"Random Squad"}
+{
+    "name": "Aaron",
+    "number": 2,
+    "xws": {
+        "faction": "galacticrepublic",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "swoop",
+                "points": 45,
+                "ship": "v19torrentstarfighter",
+                "upgrades": {
+                    "missile": [
+                        "protonrockets"
+                    ],
+                    "talent": [
+                        "snapshot"
+                    ]
+                }
+            },
+            {
+                "id": "dineeellberger",
+                "points": 46,
+                "ship": "nabooroyaln1starfighter",
+                "upgrades": {
+                    "astromech": [
+                        "r4p17"
+                    ],
+                    "sensor": [
+                        "passivesensors"
+                    ]
+                }
+            },
+            {
+                "id": "sinker",
+                "points": 63,
+                "ship": "arc170starfighter",
+                "upgrades": {
+                    "astromech": [
+                        "c110p"
+                    ],
+                    "modification": [
+                        "electronicbaffle"
+                    ]
+                }
+            },
+            {
+                "id": "naboohandmaiden",
+                "points": 42,
+                "ship": "nabooroyaln1starfighter",
+                "upgrades": {}
+            }
+        ],
+        "points": 196,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Galactic%20Republic&d=v8ZsZ200Z317X256W102WY331XW240W214WY280XWWW252W106Y330XWW&sn=Random%20Squad&obs="
+}

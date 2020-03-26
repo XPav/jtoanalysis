@@ -1,1 +1,85 @@
-{"faction":"resistance","pilots":[{"id":"colossusstationmechanic","ship":"fireball","points":48,"upgrades":{"missile":["ionmissiles"],"astromech":["r2astromech"],"illicit":["inertialdampeners"],"modification":["stealthdevice","munitionsfailsafe"],"title":["kazsfireball"]}},{"id":"vimoradi","ship":"resistancetransportpod","points":32,"upgrades":{"tech":["patternanalyzer"]}},{"id":"r1j5","ship":"fireball","points":42,"upgrades":{"missile":["homingmissiles"],"crew":["kaydelconnix"],"illicit":["contrabandcybernetics"],"modification":["munitionsfailsafe"]}},{"id":"blacksquadronace-t70xwing","ship":"t70xwing","points":51,"upgrades":{"talent":["trickshot"],"configuration":["integratedsfoils"]}},{"id":"rosetico","ship":"resistancetransportpod","points":26,"upgrades":{}}],"points":199,"vendor":{},"version":"2.0.0","name":"Random Squad"}
+{
+    "name": "Helpme87",
+    "number": 1,
+    "xws": {
+        "faction": "resistance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "colossusstationmechanic",
+                "points": 48,
+                "ship": "fireball",
+                "upgrades": {
+                    "astromech": [
+                        "r2astromech"
+                    ],
+                    "illicit": [
+                        "inertialdampeners"
+                    ],
+                    "missile": [
+                        "ionmissiles"
+                    ],
+                    "modification": [
+                        "stealthdevice",
+                        "munitionsfailsafe"
+                    ],
+                    "title": [
+                        "kazsfireball"
+                    ]
+                }
+            },
+            {
+                "id": "vimoradi",
+                "points": 32,
+                "ship": "resistancetransportpod",
+                "upgrades": {
+                    "tech": [
+                        "patternanalyzer"
+                    ]
+                }
+            },
+            {
+                "id": "r1j5",
+                "points": 42,
+                "ship": "fireball",
+                "upgrades": {
+                    "crew": [
+                        "kaydelconnix"
+                    ],
+                    "illicit": [
+                        "contrabandcybernetics"
+                    ],
+                    "missile": [
+                        "homingmissiles"
+                    ],
+                    "modification": [
+                        "munitionsfailsafe"
+                    ]
+                }
+            },
+            {
+                "id": "blacksquadronace-t70xwing",
+                "points": 51,
+                "ship": "t70xwing",
+                "upgrades": {
+                    "configuration": [
+                        "integratedsfoils"
+                    ],
+                    "talent": [
+                        "trickshot"
+                    ]
+                }
+            },
+            {
+                "id": "rosetico",
+                "points": 26,
+                "ship": "resistancetransportpod",
+                "upgrades": {}
+            }
+        ],
+        "points": 199,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Resistance&d=v8ZsZ200Z380X101W2W95W166W108W315Y348X206WWY379X100W231W92WW108WY256X133WWW175WWWY345XWWW&sn=Random%20Squad&obs="
+}

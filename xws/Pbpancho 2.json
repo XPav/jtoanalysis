@@ -1,1 +1,65 @@
-{"faction":"galacticempire","pilots":[{"id":"gammasquadronace","ship":"tiesabomber","points":59,"upgrades":{"talent":["predator"],"torpedo":["advprotontorpedoes"],"missile":["magpulsewarheads"],"gunner":["hotshotgunner"],"device":["ionbombs"],"modification":["electronicbaffle"]}},{"id":"imdaartestpilot","ship":"tiephphantom","points":55,"upgrades":{"gunner":["hotshotgunner"],"modification":["hullupgrade"]}},{"id":"captainoicunn","ship":"vt49decimator","points":85,"upgrades":{"crew":["isbslicer"],"device":["clustermines"]}}],"points":199,"vendor":{},"version":"2.0.0","name":"Random Squad"}
+{
+    "name": "Pbpancho",
+    "number": 2,
+    "xws": {
+        "faction": "galacticempire",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "gammasquadronace",
+                "points": 59,
+                "ship": "tiesabomber",
+                "upgrades": {
+                    "device": [
+                        "ionbombs"
+                    ],
+                    "gunner": [
+                        "hotshotgunner"
+                    ],
+                    "missile": [
+                        "magpulsewarheads"
+                    ],
+                    "modification": [
+                        "electronicbaffle"
+                    ],
+                    "talent": [
+                        "predator"
+                    ],
+                    "torpedo": [
+                        "advprotontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "imdaartestpilot",
+                "points": 55,
+                "ship": "tiephphantom",
+                "upgrades": {
+                    "gunner": [
+                        "hotshotgunner"
+                    ],
+                    "modification": [
+                        "hullupgrade"
+                    ]
+                }
+            },
+            {
+                "id": "captainoicunn",
+                "points": 85,
+                "ship": "vt49decimator",
+                "upgrades": {
+                    "crew": [
+                        "isbslicer"
+                    ],
+                    "device": [
+                        "clustermines"
+                    ]
+                }
+            }
+        ],
+        "points": 199,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Galactic%20Empire&d=v8ZsZ200Z207X127W134W311WW86W317WW106Y202XW86W164Y215XWWWW38WW316WW&sn=Random%20Squad&obs="
+}

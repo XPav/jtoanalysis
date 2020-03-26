@@ -1,1 +1,49 @@
-{"faction":"resistance","pilots":[{"id":"cobaltsquadronbomber","ship":"mg100starfortress","points":65,"upgrades":{"tech":["patternanalyzer"],"device":["clustermines"]}},{"id":"edonkappehl","ship":"mg100starfortress","points":66,"upgrades":{"device":["proximitymines"]}},{"id":"finn","ship":"resistancetransportpod","points":29,"upgrades":{}},{"id":"pammichnerrogoode","ship":"resistancetransport","points":36,"upgrades":{}}],"points":196,"vendor":{},"version":"2.0.0","name":"Random Squad"}
+{
+    "name": "Tsukuda_Joe",
+    "number": 1,
+    "xws": {
+        "faction": "resistance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "cobaltsquadronbomber",
+                "points": 65,
+                "ship": "mg100starfortress",
+                "upgrades": {
+                    "device": [
+                        "clustermines"
+                    ],
+                    "tech": [
+                        "patternanalyzer"
+                    ]
+                }
+            },
+            {
+                "id": "edonkappehl",
+                "points": 66,
+                "ship": "mg100starfortress",
+                "upgrades": {
+                    "device": [
+                        "proximitymines"
+                    ]
+                }
+            },
+            {
+                "id": "finn",
+                "points": 29,
+                "ship": "resistancetransportpod",
+                "upgrades": {}
+            },
+            {
+                "id": "pammichnerrogoode",
+                "points": 36,
+                "ship": "resistancetransport",
+                "upgrades": {}
+            }
+        ],
+        "points": 196,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Resistance&d=v8ZsZ200Z260XW206WWWW316WWY293XWWWWWW70WY350XWWWY347XWWWWWW&sn=Random%20Squad&obs="
+}

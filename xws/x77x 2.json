@@ -1,1 +1,66 @@
-{"faction":"galacticrepublic","pilots":[{"id":"naboohandmaiden","ship":"nabooroyaln1starfighter","points":48,"upgrades":{"torpedo":["advprotontorpedoes"]}},{"id":"naboohandmaiden","ship":"nabooroyaln1starfighter","points":54,"upgrades":{"sensor":["firecontrolsystem"],"astromech":["r5astromech"],"torpedo":["iontorpedoes"]}},{"id":"104thbattalionpilot","ship":"arc170starfighter","points":51,"upgrades":{"torpedo":["advprotontorpedoes"],"crew":["freelanceslicer"]}},{"id":"barrissoffee","ship":"delta7aethersprite","points":42,"upgrades":{"force-power":["instinctiveaim"],"configuration":["calibratedlasertargeting"]}}],"points":195,"vendor":{},"version":"2.0.0","name":"Random Squad"}
+{
+    "name": "x77x",
+    "number": 2,
+    "xws": {
+        "faction": "galacticrepublic",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "naboohandmaiden",
+                "points": 48,
+                "ship": "nabooroyaln1starfighter",
+                "upgrades": {
+                    "torpedo": [
+                        "advprotontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "naboohandmaiden",
+                "points": 54,
+                "ship": "nabooroyaln1starfighter",
+                "upgrades": {
+                    "astromech": [
+                        "r5astromech"
+                    ],
+                    "sensor": [
+                        "firecontrolsystem"
+                    ],
+                    "torpedo": [
+                        "iontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "104thbattalionpilot",
+                "points": 51,
+                "ship": "arc170starfighter",
+                "upgrades": {
+                    "crew": [
+                        "freelanceslicer"
+                    ],
+                    "torpedo": [
+                        "advprotontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "barrissoffee",
+                "points": 42,
+                "ship": "delta7aethersprite",
+                "upgrades": {
+                    "configuration": [
+                        "calibratedlasertargeting"
+                    ],
+                    "force-power": [
+                        "instinctiveaim"
+                    ]
+                }
+            }
+        ],
+        "points": 195,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Galactic%20Republic&d=v8ZsZ200Z330XWW134Y330X113W6W135Y341X134W30WWWY275X73WW200W&sn=Random%20Squad&obs="
+}

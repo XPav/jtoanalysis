@@ -1,1 +1,56 @@
-{"faction":"rebelalliance","pilots":[{"id":"roguesquadronescort","ship":"ewing","points":56,"upgrades":{"astromech":["r3astromech"]}},{"id":"captainrex","ship":"tielnfighter","points":36,"upgrades":{"modification":["staticdischargevanes"]}},{"id":"arvelcrynyd","ship":"rz1awing","points":34,"upgrades":{}},{"id":"bodhirook","ship":"ut60duwing","points":48,"upgrades":{"configuration":["pivotwing"]}},{"id":"zeborrelios-tielnfighter","ship":"tielnfighter","points":24,"upgrades":{}}],"points":198,"vendor":{},"version":"2.0.0","name":"Random Squad"}
+{
+    "name": "bluerook17",
+    "number": 2,
+    "xws": {
+        "faction": "rebelalliance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "roguesquadronescort",
+                "points": 56,
+                "ship": "ewing",
+                "upgrades": {
+                    "astromech": [
+                        "r3astromech"
+                    ]
+                }
+            },
+            {
+                "id": "captainrex",
+                "points": 36,
+                "ship": "tielnfighter",
+                "upgrades": {
+                    "modification": [
+                        "staticdischargevanes"
+                    ]
+                }
+            },
+            {
+                "id": "arvelcrynyd",
+                "points": 34,
+                "ship": "rz1awing",
+                "upgrades": {}
+            },
+            {
+                "id": "bodhirook",
+                "points": 48,
+                "ship": "ut60duwing",
+                "upgrades": {
+                    "configuration": [
+                        "pivotwing"
+                    ]
+                }
+            },
+            {
+                "id": "zeborrelios-tielnfighter",
+                "points": 24,
+                "ship": "tielnfighter",
+                "upgrades": {}
+            }
+        ],
+        "points": 198,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Rebel%20Alliance&d=v8ZsZ200Z23XWWW4WY16X109Y51XWWY31XWWWWW140Y15X&sn=Random%20Squad&obs="
+}

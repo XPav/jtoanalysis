@@ -1,1 +1,42 @@
-{"faction":"scumandvillainy","pilots":[{"id":"captainjostero","ship":"kihraxzfighter","points":42,"upgrades":{}},{"id":"zuckuss","ship":"g1astarfighter","points":45,"upgrades":{}},{"id":"gandfindsman","ship":"g1astarfighter","points":45,"upgrades":{"illicit":["riggedcargochute"]}},{"id":"ig88d","ship":"aggressorassaultfighter","points":63,"upgrades":{}}],"points":195,"vendor":{},"version":"2.0.0","name":"Random Squad"}
+{
+    "name": "Legionthree",
+    "number": 1,
+    "xws": {
+        "faction": "scumandvillainy",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "captainjostero",
+                "points": 42,
+                "ship": "kihraxzfighter",
+                "upgrades": {}
+            },
+            {
+                "id": "zuckuss",
+                "points": 45,
+                "ship": "g1astarfighter",
+                "upgrades": {}
+            },
+            {
+                "id": "gandfindsman",
+                "points": 45,
+                "ship": "g1astarfighter",
+                "upgrades": {
+                    "illicit": [
+                        "riggedcargochute"
+                    ]
+                }
+            },
+            {
+                "id": "ig88d",
+                "points": 63,
+                "ship": "aggressorassaultfighter",
+                "upgrades": {}
+            }
+        ],
+        "points": 195,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Scum%20and%20Villainy&d=v8ZsZ200Z122XWWWWY110XWWWWWY111XWW96WWY84XWWWWWWW&sn=Random%20Squad&obs="
+}

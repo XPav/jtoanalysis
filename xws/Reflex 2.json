@@ -1,1 +1,72 @@
-{"faction":"separatistalliance","pilots":[{"id":"separatistdrone","ship":"vultureclassdroidfighter","points":25,"upgrades":{"missile":["discordmissiles"]}},{"id":"dfs081","ship":"vultureclassdroidfighter","points":38,"upgrades":{"missile":["clustermissiles"],"configuration":["grapplingstruts"],"modification":["staticdischargevanes"]}},{"id":"stalgasinhiveguard","ship":"nantexclassstarfighter","points":34,"upgrades":{}},{"id":"countdooku","ship":"sithinfiltrator","points":78,"upgrades":{"device":["clustermines"],"modification":["electronicbaffle"],"tacticalrelay":["k2b4"]}},{"id":"tradefederationdrone","ship":"vultureclassdroidfighter","points":20,"upgrades":{"configuration":["grapplingstruts"]}}],"points":195,"vendor":{},"version":"2.0.0","name":"Random Squad"}
+{
+    "name": "Reflex",
+    "number": 2,
+    "xws": {
+        "faction": "separatistalliance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "separatistdrone",
+                "points": 25,
+                "ship": "vultureclassdroidfighter",
+                "upgrades": {
+                    "missile": [
+                        "discordmissiles"
+                    ]
+                }
+            },
+            {
+                "id": "dfs081",
+                "points": 38,
+                "ship": "vultureclassdroidfighter",
+                "upgrades": {
+                    "configuration": [
+                        "grapplingstruts"
+                    ],
+                    "missile": [
+                        "clustermissiles"
+                    ],
+                    "modification": [
+                        "staticdischargevanes"
+                    ]
+                }
+            },
+            {
+                "id": "stalgasinhiveguard",
+                "points": 34,
+                "ship": "nantexclassstarfighter",
+                "upgrades": {}
+            },
+            {
+                "id": "countdooku",
+                "points": 78,
+                "ship": "sithinfiltrator",
+                "upgrades": {
+                    "device": [
+                        "clustermines"
+                    ],
+                    "modification": [
+                        "electronicbaffle"
+                    ],
+                    "tacticalrelay": [
+                        "k2b4"
+                    ]
+                }
+            },
+            {
+                "id": "tradefederationdrone",
+                "points": 20,
+                "ship": "vultureclassdroidfighter",
+                "upgrades": {
+                    "configuration": [
+                        "grapplingstruts"
+                    ]
+                }
+            }
+        ],
+        "points": 195,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Separatist%20Alliance&d=v8ZsZ200Z343X224WWY311X98W208W109Y353XY334XWWWWW316W106WW220Y279XW208W&sn=Random%20Squad&obs="
+}

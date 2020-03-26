@@ -1,1 +1,50 @@
-{"faction":"firstorder","pilots":[{"id":"rush","ship":"tievnsilencer","points":63,"upgrades":{"tech":["primedthrusters"]}},{"id":"firstorderprovocateur","ship":"tiebainterceptor","points":50,"upgrades":{"missile":["clustermissiles"]}},{"id":"firstorderprovocateur","ship":"tiebainterceptor","points":51,"upgrades":{"tech":["targetingsynchronizer"]}},{"id":"scorch","ship":"tiefofighter","points":33,"upgrades":{}}],"points":197,"vendor":{},"version":"2.0.0","name":"Random Squad"}
+{
+    "name": "pekka",
+    "number": 2,
+    "xws": {
+        "faction": "firstorder",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "rush",
+                "points": 63,
+                "ship": "tievnsilencer",
+                "upgrades": {
+                    "tech": [
+                        "primedthrusters"
+                    ]
+                }
+            },
+            {
+                "id": "firstorderprovocateur",
+                "points": 50,
+                "ship": "tiebainterceptor",
+                "upgrades": {
+                    "missile": [
+                        "clustermissiles"
+                    ]
+                }
+            },
+            {
+                "id": "firstorderprovocateur",
+                "points": 51,
+                "ship": "tiebainterceptor",
+                "upgrades": {
+                    "tech": [
+                        "targetingsynchronizer"
+                    ]
+                }
+            },
+            {
+                "id": "scorch",
+                "points": 33,
+                "ship": "tiefofighter",
+                "upgrades": {}
+            }
+        ],
+        "points": 197,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=First%20Order&d=v8ZsZ200Z386X178WWY384XWW98WY384XW177WWY262XWW&sn=Random%20Squad&obs="
+}

@@ -1,1 +1,63 @@
-{"faction":"separatistalliance","pilots":[{"id":"wattambor","ship":"belbullab22starfighter","points":42,"upgrades":{}},{"id":"generalgrievous","ship":"belbullab22starfighter","points":50,"upgrades":{"title":["soullessone"]}},{"id":"dfs081","ship":"vultureclassdroidfighter","points":27,"upgrades":{"configuration":["grapplingstruts"]}},{"id":"precisehunter","ship":"vultureclassdroidfighter","points":31,"upgrades":{"missile":["protonrockets"],"configuration":["grapplingstruts"]}},{"id":"berwerkret","ship":"nantexclassstarfighter","points":45,"upgrades":{"talent":["lonewolf"]}}],"points":195,"vendor":{},"version":"2.0.0","name":"Random Squad"}
+{
+    "name": "Gamblertuba",
+    "number": 1,
+    "xws": {
+        "faction": "separatistalliance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "wattambor",
+                "points": 42,
+                "ship": "belbullab22starfighter",
+                "upgrades": {}
+            },
+            {
+                "id": "generalgrievous",
+                "points": 50,
+                "ship": "belbullab22starfighter",
+                "upgrades": {
+                    "title": [
+                        "soullessone"
+                    ]
+                }
+            },
+            {
+                "id": "dfs081",
+                "points": 27,
+                "ship": "vultureclassdroidfighter",
+                "upgrades": {
+                    "configuration": [
+                        "grapplingstruts"
+                    ]
+                }
+            },
+            {
+                "id": "precisehunter",
+                "points": 31,
+                "ship": "vultureclassdroidfighter",
+                "upgrades": {
+                    "configuration": [
+                        "grapplingstruts"
+                    ],
+                    "missile": [
+                        "protonrockets"
+                    ]
+                }
+            },
+            {
+                "id": "berwerkret",
+                "points": 45,
+                "ship": "nantexclassstarfighter",
+                "upgrades": {
+                    "talent": [
+                        "lonewolf"
+                    ]
+                }
+            }
+        ],
+        "points": 195,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Separatist%20Alliance&d=v8ZsZ200Z306XWWWY305XWWW229Y311XW208WY309X102W208WY358X124W&sn=Random%20Squad&obs="
+}

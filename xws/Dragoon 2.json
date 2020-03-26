@@ -1,1 +1,46 @@
-{"faction":"scumandvillainy","pilots":[{"id":"sarcoplank","ship":"quadrijettransferspacetug","points":40,"upgrades":{"crew":["landocalrissian-crew"]}},{"id":"fennrau","ship":"fangfighter","points":77,"upgrades":{"torpedo":["plasmatorpedoes"]}},{"id":"toranikulda","ship":"m12lkimogilafighter","points":48,"upgrades":{}},{"id":"dacebonearm","ship":"hwk290lightfreighter","points":33,"upgrades":{}}],"points":198,"vendor":{},"version":"2.0.0","name":"Random Squad"}
+{
+    "name": "Dragoon",
+    "number": 2,
+    "xws": {
+        "faction": "scumandvillainy",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "sarcoplank",
+                "points": 40,
+                "ship": "quadrijettransferspacetug",
+                "upgrades": {
+                    "crew": [
+                        "landocalrissian-crew"
+                    ]
+                }
+            },
+            {
+                "id": "fennrau",
+                "points": 77,
+                "ship": "fangfighter",
+                "upgrades": {
+                    "torpedo": [
+                        "plasmatorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "toranikulda",
+                "points": 48,
+                "ship": "m12lkimogilafighter",
+                "upgrades": {}
+            },
+            {
+                "id": "dacebonearm",
+                "points": 33,
+                "ship": "hwk290lightfreighter",
+                "upgrades": {}
+            }
+        ],
+        "points": 198,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Scum%20and%20Villainy&d=v8ZsZ200Z141XW45WWWY97XW234Y129XWWWWWY113XWWWWWW&sn=Random%20Squad&obs="
+}

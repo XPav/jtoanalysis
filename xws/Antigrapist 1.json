@@ -1,1 +1,75 @@
-{"faction":"separatistalliance","pilots":[{"id":"technounionbomber","ship":"hyenaclassdroidbomber","points":44,"upgrades":{"missile":["concussionmissiles"],"device":["proximitymines"],"modification":["shieldupgrade"],"configuration":["landingstruts"]}},{"id":"wattambor","ship":"belbullab22starfighter","points":60,"upgrades":{"talent":["daredevil"],"tacticalrelay":["kraken"],"title":["soullessone"]}},{"id":"separatistbomber","ship":"hyenaclassdroidbomber","points":29,"upgrades":{"configuration":["landingstruts"]}},{"id":"skakoanace","ship":"belbullab22starfighter","points":45,"upgrades":{"talent":["juke"]}},{"id":"tradefederationdrone","ship":"vultureclassdroidfighter","points":19,"upgrades":{}}],"points":197,"vendor":{},"version":"2.0.0","name":"Random Squad"}
+{
+    "name": "Antigrapist",
+    "number": 1,
+    "xws": {
+        "faction": "separatistalliance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "technounionbomber",
+                "points": 44,
+                "ship": "hyenaclassdroidbomber",
+                "upgrades": {
+                    "configuration": [
+                        "landingstruts"
+                    ],
+                    "device": [
+                        "proximitymines"
+                    ],
+                    "missile": [
+                        "concussionmissiles"
+                    ],
+                    "modification": [
+                        "shieldupgrade"
+                    ]
+                }
+            },
+            {
+                "id": "wattambor",
+                "points": 60,
+                "ship": "belbullab22starfighter",
+                "upgrades": {
+                    "tacticalrelay": [
+                        "kraken"
+                    ],
+                    "talent": [
+                        "daredevil"
+                    ],
+                    "title": [
+                        "soullessone"
+                    ]
+                }
+            },
+            {
+                "id": "separatistbomber",
+                "points": 29,
+                "ship": "hyenaclassdroidbomber",
+                "upgrades": {
+                    "configuration": [
+                        "landingstruts"
+                    ]
+                }
+            },
+            {
+                "id": "skakoanace",
+                "points": 45,
+                "ship": "belbullab22starfighter",
+                "upgrades": {
+                    "talent": [
+                        "juke"
+                    ]
+                }
+            },
+            {
+                "id": "tradefederationdrone",
+                "points": 19,
+                "ship": "vultureclassdroidfighter",
+                "upgrades": {}
+            }
+        ],
+        "points": 197,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Separatist%20Alliance&d=v8ZsZ200Z324XW99W70W165W237Y306X117W222WW229Y327XWWWW237Y344X123WWWY279XWW&sn=Random%20Squad&obs="
+}

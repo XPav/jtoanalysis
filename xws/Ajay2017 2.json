@@ -1,1 +1,71 @@
-{"faction":"rebelalliance","pilots":[{"id":"braylenstramm","ship":"asf01bwing","points":81,"upgrades":{"talent":["elusive"],"sensor":["collisiondetector"],"cannon":["ioncannon"],"torpedo":["plasmatorpedoes"],"modification":["targetingcomputer"],"configuration":["stabilizedsfoils"]}},{"id":"ezrabridger","ship":"attackshuttle","points":51,"upgrades":{"modification":["afterburners"],"turret":["ioncannonturret"],"title":["phantom"]}},{"id":"zeborrelios-tielnfighter","ship":"tielnfighter","points":24,"upgrades":{}},{"id":"hortonsalm","ship":"btla4ywing","points":39,"upgrades":{"astromech":["r4astromech"]}}],"points":195,"vendor":{},"version":"2.0.0","name":"Random Squad"}
+{
+    "name": "Ajay2017",
+    "number": 2,
+    "xws": {
+        "faction": "rebelalliance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "braylenstramm",
+                "points": 81,
+                "ship": "asf01bwing",
+                "upgrades": {
+                    "cannon": [
+                        "ioncannon"
+                    ],
+                    "configuration": [
+                        "stabilizedsfoils"
+                    ],
+                    "modification": [
+                        "targetingcomputer"
+                    ],
+                    "sensor": [
+                        "collisiondetector"
+                    ],
+                    "talent": [
+                        "elusive"
+                    ],
+                    "torpedo": [
+                        "plasmatorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "ezrabridger",
+                "points": 51,
+                "ship": "attackshuttle",
+                "upgrades": {
+                    "modification": [
+                        "afterburners"
+                    ],
+                    "title": [
+                        "phantom"
+                    ],
+                    "turret": [
+                        "ioncannonturret"
+                    ]
+                }
+            },
+            {
+                "id": "zeborrelios-tielnfighter",
+                "points": 24,
+                "ship": "tielnfighter",
+                "upgrades": {}
+            },
+            {
+                "id": "hortonsalm",
+                "points": 39,
+                "ship": "btla4ywing",
+                "upgrades": {
+                    "astromech": [
+                        "r4astromech"
+                    ]
+                }
+            }
+        ],
+        "points": 195,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Rebel%20Alliance&d=v8ZsZ200Z73X119W112W11WW234W249W313Y67XWW105W138W167Y15XY26XWWW5WWW&sn=Random%20Squad&obs="
+}

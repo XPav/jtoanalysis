@@ -1,1 +1,60 @@
-{"faction":"scumandvillainy","pilots":[{"id":"overseeryushyn","ship":"modifiedtielnfighter","points":26,"upgrades":{}},{"id":"toranikulda","ship":"m12lkimogilafighter","points":59,"upgrades":{"talent":["marksmanship"],"illicit":["inertialdampeners"],"modification":["ablativeplating"]}},{"id":"unkarplutt","ship":"quadrijettransferspacetug","points":35,"upgrades":{"tech":["patternanalyzer"]}},{"id":"ketsuonyo","ship":"lancerclasspursuitcraft","points":75,"upgrades":{"illicit":["deadmansswitch","contrabandcybernetics"],"modification":["tacticalscrambler"]}}],"points":195,"vendor":{},"version":"2.0.0","name":"Random Squad"}
+{
+    "name": "x77x",
+    "number": 1,
+    "xws": {
+        "faction": "scumandvillainy",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "overseeryushyn",
+                "points": 26,
+                "ship": "modifiedtielnfighter",
+                "upgrades": {}
+            },
+            {
+                "id": "toranikulda",
+                "points": 59,
+                "ship": "m12lkimogilafighter",
+                "upgrades": {
+                    "illicit": [
+                        "inertialdampeners"
+                    ],
+                    "modification": [
+                        "ablativeplating"
+                    ],
+                    "talent": [
+                        "marksmanship"
+                    ]
+                }
+            },
+            {
+                "id": "unkarplutt",
+                "points": 35,
+                "ship": "quadrijettransferspacetug",
+                "upgrades": {
+                    "tech": [
+                        "patternanalyzer"
+                    ]
+                }
+            },
+            {
+                "id": "ketsuonyo",
+                "points": 75,
+                "ship": "lancerclasspursuitcraft",
+                "upgrades": {
+                    "illicit": [
+                        "deadmansswitch",
+                        "contrabandcybernetics"
+                    ],
+                    "modification": [
+                        "tacticalscrambler"
+                    ]
+                }
+            }
+        ],
+        "points": 195,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Scum%20and%20Villainy&d=v8ZsZ200Z303XY129X125WWWW95W103Y142X206WWWWY126XWW93W92W110W&sn=Random%20Squad&obs="
+}

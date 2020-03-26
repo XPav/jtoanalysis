@@ -1,1 +1,62 @@
-{"faction":"resistance","pilots":[{"id":"logisticsdivisionpilot","ship":"resistancetransport","points":46,"upgrades":{"cannon":["ioncannon"],"crew":["amilynholdo"]}},{"id":"vimoradi","ship":"resistancetransportpod","points":27,"upgrades":{}},{"id":"rosetico","ship":"resistancetransportpod","points":30,"upgrades":{"crew":["novicetechnician"]}},{"id":"jophseastriker","ship":"t70xwing","points":57,"upgrades":{"talent":["outmaneuver"],"configuration":["integratedsfoils"]}},{"id":"greersonnel","ship":"rz2awing","points":36,"upgrades":{}}],"points":196,"vendor":{},"version":"2.0.0","name":"Random Squad"}
+{
+    "name": "Zach Johnson",
+    "number": 2,
+    "xws": {
+        "faction": "resistance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "logisticsdivisionpilot",
+                "points": 46,
+                "ship": "resistancetransport",
+                "upgrades": {
+                    "cannon": [
+                        "ioncannon"
+                    ],
+                    "crew": [
+                        "amilynholdo"
+                    ]
+                }
+            },
+            {
+                "id": "vimoradi",
+                "points": 27,
+                "ship": "resistancetransportpod",
+                "upgrades": {}
+            },
+            {
+                "id": "rosetico",
+                "points": 30,
+                "ship": "resistancetransportpod",
+                "upgrades": {
+                    "crew": [
+                        "novicetechnician"
+                    ]
+                }
+            },
+            {
+                "id": "jophseastriker",
+                "points": 57,
+                "ship": "t70xwing",
+                "upgrades": {
+                    "configuration": [
+                        "integratedsfoils"
+                    ],
+                    "talent": [
+                        "outmaneuver"
+                    ]
+                }
+            },
+            {
+                "id": "greersonnel",
+                "points": 36,
+                "ship": "rz2awing",
+                "upgrades": {}
+            }
+        ],
+        "points": 196,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Resistance&d=v8ZsZ200Z346XW11WWW242WWY348XWWY345XWW53WY253X126WWW175WWWY270XWWW&sn=Random%20Squad&obs="
+}

@@ -1,1 +1,69 @@
-{"faction":"separatistalliance","pilots":[{"id":"darkcourier","ship":"sithinfiltrator","points":81,"upgrades":{"cannon":["heavylasercannon"],"torpedo":["protontorpedoes"],"crew":["perceptivecopilot"],"title":["scimitar"]}},{"id":"technounionbomber","ship":"hyenaclassdroidbomber","points":36,"upgrades":{"torpedo":["advprotontorpedoes"],"missile":["homingmissiles"]}},{"id":"dfs311","ship":"vultureclassdroidfighter","points":25,"upgrades":{"modification":["electronicbaffle"]}},{"id":"generalgrievous","ship":"belbullab22starfighter","points":55,"upgrades":{"tacticalrelay":["tv94"],"title":["soullessone"]}}],"points":197,"vendor":{},"version":"2.0.0","name":"Random Squad"}
+{
+    "name": "Furious George ",
+    "number": 1,
+    "xws": {
+        "faction": "separatistalliance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "darkcourier",
+                "points": 81,
+                "ship": "sithinfiltrator",
+                "upgrades": {
+                    "cannon": [
+                        "heavylasercannon"
+                    ],
+                    "crew": [
+                        "perceptivecopilot"
+                    ],
+                    "title": [
+                        "scimitar"
+                    ],
+                    "torpedo": [
+                        "protontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "technounionbomber",
+                "points": 36,
+                "ship": "hyenaclassdroidbomber",
+                "upgrades": {
+                    "missile": [
+                        "homingmissiles"
+                    ],
+                    "torpedo": [
+                        "advprotontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "dfs311",
+                "points": 25,
+                "ship": "vultureclassdroidfighter",
+                "upgrades": {
+                    "modification": [
+                        "electronicbaffle"
+                    ]
+                }
+            },
+            {
+                "id": "generalgrievous",
+                "points": 55,
+                "ship": "belbullab22starfighter",
+                "upgrades": {
+                    "tacticalrelay": [
+                        "tv94"
+                    ],
+                    "title": [
+                        "soullessone"
+                    ]
+                }
+            }
+        ],
+        "points": 197,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Separatist%20Alliance&d=v8ZsZ200Z336X10W136WW54WWW216WY324X134W100WWWY337XWW106Y305XW223WW229&sn=Random%20Squad&obs="
+}

@@ -1,1 +1,72 @@
-{"faction":"scumandvillainy","pilots":[{"id":"outerrimpioneer","ship":"escapecraft","points":35,"upgrades":{"talent":["snapshot"]}},{"id":"solsixxa","ship":"scurrgh6bomber","points":59,"upgrades":{"talent":["composure"],"gunner":["bossk"],"modification":["tacticalscrambler"]}},{"id":"kaatoleeachos","ship":"z95af4headhunter","points":32,"upgrades":{"missile":["clustermissiles"]}},{"id":"landocalrissian-escapecraft","ship":"escapecraft","points":29,"upgrades":{}},{"id":"l337-escapecraft","ship":"escapecraft","points":29,"upgrades":{"modification":["angleddeflectors"]}},{"id":"autopilotdrone","ship":"escapecraft","points":12,"upgrades":{}}],"points":196,"vendor":{},"version":"2.0.0","name":"Random Squad"}
+{
+    "name": "Chrisburnett",
+    "number": 2,
+    "xws": {
+        "faction": "scumandvillainy",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "outerrimpioneer",
+                "points": 35,
+                "ship": "escapecraft",
+                "upgrades": {
+                    "talent": [
+                        "snapshot"
+                    ]
+                }
+            },
+            {
+                "id": "solsixxa",
+                "points": 59,
+                "ship": "scurrgh6bomber",
+                "upgrades": {
+                    "gunner": [
+                        "bossk"
+                    ],
+                    "modification": [
+                        "tacticalscrambler"
+                    ],
+                    "talent": [
+                        "composure"
+                    ]
+                }
+            },
+            {
+                "id": "kaatoleeachos",
+                "points": 32,
+                "ship": "z95af4headhunter",
+                "upgrades": {
+                    "missile": [
+                        "clustermissiles"
+                    ]
+                }
+            },
+            {
+                "id": "landocalrissian-escapecraft",
+                "points": 29,
+                "ship": "escapecraft",
+                "upgrades": {}
+            },
+            {
+                "id": "l337-escapecraft",
+                "points": 29,
+                "ship": "escapecraft",
+                "upgrades": {
+                    "modification": [
+                        "angleddeflectors"
+                    ]
+                }
+            },
+            {
+                "id": "autopilotdrone",
+                "points": 12,
+                "ship": "escapecraft",
+                "upgrades": {}
+            }
+        ],
+        "points": 196,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Scum%20and%20Villainy&d=v8ZsZ200Z94X256WWY145X115WWW78WWW110WY157XW98WWY93XWWY95XWW247Y96X&sn=Random%20Squad&obs="
+}

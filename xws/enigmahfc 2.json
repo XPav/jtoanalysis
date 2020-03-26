@@ -1,1 +1,59 @@
-{"faction":"rebelalliance","pilots":[{"id":"leebo","ship":"yt2400lightfreighter","points":115,"upgrades":{"missile":["protonrockets"],"gunner":["veteranturretgunner"],"title":["outrider"],"illicit":["feedbackarray"]}},{"id":"talasquadronpilot","ship":"z95af4headhunter","points":43,"upgrades":{"talent":["snapshot"],"missile":["concussionmissiles"],"modification":["shieldupgrade"]}},{"id":"kylekatarn","ship":"hwk290lightfreighter","points":37,"upgrades":{"modification":["targetingcomputer"]}}],"points":195,"vendor":{},"version":"2.0.0","name":"Random Squad"}
+{
+    "name": "enigmahfc",
+    "number": 2,
+    "xws": {
+        "faction": "rebelalliance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "leebo",
+                "points": 115,
+                "ship": "yt2400lightfreighter",
+                "upgrades": {
+                    "gunner": [
+                        "veteranturretgunner"
+                    ],
+                    "illicit": [
+                        "feedbackarray"
+                    ],
+                    "missile": [
+                        "protonrockets"
+                    ],
+                    "title": [
+                        "outrider"
+                    ]
+                }
+            },
+            {
+                "id": "talasquadronpilot",
+                "points": 43,
+                "ship": "z95af4headhunter",
+                "upgrades": {
+                    "missile": [
+                        "concussionmissiles"
+                    ],
+                    "modification": [
+                        "shieldupgrade"
+                    ],
+                    "talent": [
+                        "snapshot"
+                    ]
+                }
+            },
+            {
+                "id": "kylekatarn",
+                "points": 37,
+                "ship": "hwk290lightfreighter",
+                "upgrades": {
+                    "modification": [
+                        "targetingcomputer"
+                    ]
+                }
+            }
+        ],
+        "points": 195,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Rebel%20Alliance&d=v8ZsZ200Z40X102W90WW157W94Y56X256W99W165Y48XWWW249WW&sn=Random%20Squad&obs="
+}

@@ -1,1 +1,57 @@
-{"faction":"rebelalliance","pilots":[{"id":"norrawexley-btla4ywing","ship":"btla4ywing","points":50,"upgrades":{"turret":["dorsalturret"],"torpedo":["iontorpedoes"]}},{"id":"sabinewren-tielnfighter","ship":"tielnfighter","points":37,"upgrades":{"modification":["shieldupgrade"]}},{"id":"ibtisam","ship":"arc170starfighter","points":53,"upgrades":{"talent":["juke"]}},{"id":"wedgeantilles","ship":"t65xwing","points":55,"upgrades":{"configuration":["servomotorsfoils"]}}],"points":195,"vendor":{},"version":"2.0.0","name":"Random Squad"}
+{
+    "name": "McDLT",
+    "number": 2,
+    "xws": {
+        "faction": "rebelalliance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "norrawexley-btla4ywing",
+                "points": 50,
+                "ship": "btla4ywing",
+                "upgrades": {
+                    "torpedo": [
+                        "iontorpedoes"
+                    ],
+                    "turret": [
+                        "dorsalturret"
+                    ]
+                }
+            },
+            {
+                "id": "sabinewren-tielnfighter",
+                "points": 37,
+                "ship": "tielnfighter",
+                "upgrades": {
+                    "modification": [
+                        "shieldupgrade"
+                    ]
+                }
+            },
+            {
+                "id": "ibtisam",
+                "points": 53,
+                "ship": "arc170starfighter",
+                "upgrades": {
+                    "talent": [
+                        "juke"
+                    ]
+                }
+            },
+            {
+                "id": "wedgeantilles",
+                "points": 55,
+                "ship": "t65xwing",
+                "upgrades": {
+                    "configuration": [
+                        "servomotorsfoils"
+                    ]
+                }
+            }
+        ],
+        "points": 195,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Rebel%20Alliance&d=v8ZsZ200Z25XW137W135WWWWY13XW165Y80X123WWWWWY5XWWWW142&sn=Random%20Squad&obs="
+}

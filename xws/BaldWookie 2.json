@@ -1,1 +1,63 @@
-{"faction":"resistance","pilots":[{"id":"hansolo-scavengedyt1300","ship":"scavengedyt1300","points":84,"upgrades":{"talent":["outmaneuver"],"crew":["novicetechnician","rosetico"]}},{"id":"pammichnerrogoode","ship":"resistancetransport","points":63,"upgrades":{"cannon":["tractorbeam"],"crew":["leiaorgana-resistance"],"astromech":["bbastromech"],"modification":["shieldupgrade"]}},{"id":"kazudaxiono","ship":"fireball","points":52,"upgrades":{"missile":["ionmissiles"],"modification":["afterburners"],"title":["kazsfireball"]}}],"points":199,"vendor":{},"version":"2.0.0","name":"Random Squad"}
+{
+    "name": "BaldWookie",
+    "number": 2,
+    "xws": {
+        "faction": "resistance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "hansolo-scavengedyt1300",
+                "points": 84,
+                "ship": "scavengedyt1300",
+                "upgrades": {
+                    "crew": [
+                        "novicetechnician",
+                        "rosetico"
+                    ],
+                    "talent": [
+                        "outmaneuver"
+                    ]
+                }
+            },
+            {
+                "id": "pammichnerrogoode",
+                "points": 63,
+                "ship": "resistancetransport",
+                "upgrades": {
+                    "astromech": [
+                        "bbastromech"
+                    ],
+                    "cannon": [
+                        "tractorbeam"
+                    ],
+                    "crew": [
+                        "leiaorgana-resistance"
+                    ],
+                    "modification": [
+                        "shieldupgrade"
+                    ]
+                }
+            },
+            {
+                "id": "kazudaxiono",
+                "points": 52,
+                "ship": "fireball",
+                "upgrades": {
+                    "missile": [
+                        "ionmissiles"
+                    ],
+                    "modification": [
+                        "afterburners"
+                    ],
+                    "title": [
+                        "kazsfireball"
+                    ]
+                }
+            }
+        ],
+        "points": 199,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Resistance&d=v8ZsZ200Z245X126WW53W173WWWWY347XW13WWW244W196W165Y378XW101WWW105WW315&sn=Random%20Squad&obs="
+}

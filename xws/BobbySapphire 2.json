@@ -1,1 +1,62 @@
-{"faction":"separatistalliance","pilots":[{"id":"wattambor","ship":"belbullab22starfighter","points":56,"upgrades":{"talent":["treacherous"],"modification":["staticdischargevanes"],"title":["soullessone"]}},{"id":"captainsear","ship":"belbullab22starfighter","points":54,"upgrades":{"tacticalrelay":["ta175"]}},{"id":"chertek","ship":"nantexclassstarfighter","points":45,"upgrades":{"talent":["outmaneuver"]}},{"id":"tradefederationdrone","ship":"vultureclassdroidfighter","points":19,"upgrades":{}},{"id":"dfs081","ship":"vultureclassdroidfighter","points":26,"upgrades":{}}],"points":200,"vendor":{},"version":"2.0.0","name":"Random Squad"}
+{
+    "name": "BobbySapphire",
+    "number": 2,
+    "xws": {
+        "faction": "separatistalliance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "wattambor",
+                "points": 56,
+                "ship": "belbullab22starfighter",
+                "upgrades": {
+                    "modification": [
+                        "staticdischargevanes"
+                    ],
+                    "talent": [
+                        "treacherous"
+                    ],
+                    "title": [
+                        "soullessone"
+                    ]
+                }
+            },
+            {
+                "id": "captainsear",
+                "points": 54,
+                "ship": "belbullab22starfighter",
+                "upgrades": {
+                    "tacticalrelay": [
+                        "ta175"
+                    ]
+                }
+            },
+            {
+                "id": "chertek",
+                "points": 45,
+                "ship": "nantexclassstarfighter",
+                "upgrades": {
+                    "talent": [
+                        "outmaneuver"
+                    ]
+                }
+            },
+            {
+                "id": "tradefederationdrone",
+                "points": 19,
+                "ship": "vultureclassdroidfighter",
+                "upgrades": {}
+            },
+            {
+                "id": "dfs081",
+                "points": 26,
+                "ship": "vultureclassdroidfighter",
+                "upgrades": {}
+            }
+        ],
+        "points": 200,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Separatist%20Alliance&d=v8ZsZ200Z306X228WW109W229Y308X239WWY356X126WY279XWWY311XWW&sn=Random%20Squad&obs="
+}

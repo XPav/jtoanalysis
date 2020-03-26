@@ -1,1 +1,58 @@
-{"faction":"galacticempire","pilots":[{"id":"sigmasquadronace","ship":"tiephphantom","points":70,"upgrades":{"sensor":["advancedsensors"],"gunner":["hotshotgunner"],"modification":["hullupgrade"]}},{"id":"vedfoslo","ship":"tieadvancedx1","points":62,"upgrades":{"talent":["juke"],"missile":["clustermissiles"],"modification":["staticdischargevanes"]}},{"id":"doubleedge","ship":"tieagaggressor","points":29,"upgrades":{}},{"id":"cutlasssquadronpilot","ship":"tiecapunisher","points":36,"upgrades":{}}],"points":197,"vendor":{},"version":"2.0.0","name":"Random Squad"}
+{
+    "name": "XPav",
+    "number": 2,
+    "xws": {
+        "faction": "galacticempire",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "sigmasquadronace",
+                "points": 70,
+                "ship": "tiephphantom",
+                "upgrades": {
+                    "gunner": [
+                        "hotshotgunner"
+                    ],
+                    "modification": [
+                        "hullupgrade"
+                    ],
+                    "sensor": [
+                        "advancedsensors"
+                    ]
+                }
+            },
+            {
+                "id": "vedfoslo",
+                "points": 62,
+                "ship": "tieadvancedx1",
+                "upgrades": {
+                    "missile": [
+                        "clustermissiles"
+                    ],
+                    "modification": [
+                        "staticdischargevanes"
+                    ],
+                    "talent": [
+                        "juke"
+                    ]
+                }
+            },
+            {
+                "id": "doubleedge",
+                "points": 29,
+                "ship": "tieagaggressor",
+                "upgrades": {}
+            },
+            {
+                "id": "cutlasssquadronpilot",
+                "points": 36,
+                "ship": "tiecapunisher",
+                "upgrades": {}
+            }
+        ],
+        "points": 197,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Galactic%20Empire&d=v8ZsZ200Z201XW111W86W164Y175X123WW98W109Y188XWWWWWY193XWWWWWWW&sn=Random%20Squad&obs="
+}

@@ -1,1 +1,75 @@
-{"faction":"rebelalliance","pilots":[{"id":"sabinewren","ship":"attackshuttle","points":46,"upgrades":{"talent":["crackshot"],"modification":["munitionsfailsafe"],"turret":["dorsalturret"],"title":["phantom"]}},{"id":"bluesquadronscout","ship":"ut60duwing","points":60,"upgrades":{"sensor":["firecontrolsystem"],"crew":["k2so","zeborrelios"],"modification":["ablativeplating"],"configuration":["pivotwing"]}},{"id":"alexsandrkallus","ship":"vcx100lightfreighter","points":90,"upgrades":{"torpedo":["protontorpedoes"],"turret":["dorsalturret"],"modification":["shieldupgrade"],"gunner":["skilledbombardier"],"title":["ghost"]}}],"points":196,"vendor":{},"version":"2.0.0","name":"Random Squad"}
+{
+    "name": "Timathius",
+    "number": 1,
+    "xws": {
+        "faction": "rebelalliance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "sabinewren",
+                "points": 46,
+                "ship": "attackshuttle",
+                "upgrades": {
+                    "modification": [
+                        "munitionsfailsafe"
+                    ],
+                    "talent": [
+                        "crackshot"
+                    ],
+                    "title": [
+                        "phantom"
+                    ],
+                    "turret": [
+                        "dorsalturret"
+                    ]
+                }
+            },
+            {
+                "id": "bluesquadronscout",
+                "points": 60,
+                "ship": "ut60duwing",
+                "upgrades": {
+                    "configuration": [
+                        "pivotwing"
+                    ],
+                    "crew": [
+                        "k2so",
+                        "zeborrelios"
+                    ],
+                    "modification": [
+                        "ablativeplating"
+                    ],
+                    "sensor": [
+                        "firecontrolsystem"
+                    ]
+                }
+            },
+            {
+                "id": "alexsandrkallus",
+                "points": 90,
+                "ship": "vcx100lightfreighter",
+                "upgrades": {
+                    "gunner": [
+                        "skilledbombardier"
+                    ],
+                    "modification": [
+                        "shieldupgrade"
+                    ],
+                    "title": [
+                        "ghost"
+                    ],
+                    "torpedo": [
+                        "protontorpedoes"
+                    ],
+                    "turret": [
+                        "dorsalturret"
+                    ]
+                }
+            }
+        ],
+        "points": 196,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Rebel%20Alliance&d=v8ZsZ200Z66X116WW108W137W167Y37X113W314W65W103W140Y392XW136WW137WWW165W88W148&sn=Random%20Squad&obs="
+}

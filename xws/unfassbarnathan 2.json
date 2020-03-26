@@ -1,1 +1,65 @@
-{"faction":"resistance","pilots":[{"id":"temminwexley","ship":"t70xwing","points":66,"upgrades":{"talent":["intimidation"],"astromech":["bbastromech"],"configuration":["integratedsfoils"],"cannon":["ioncannon"]}},{"id":"vimoradi","ship":"resistancetransportpod","points":33,"upgrades":{"tech":["targetingsynchronizer"]}},{"id":"elloasty","ship":"t70xwing","points":65,"upgrades":{"modification":["afterburners"],"configuration":["integratedsfoils"],"missile":["ionmissiles"]}},{"id":"jarekyeager","ship":"fireball","points":33,"upgrades":{}}],"points":197,"vendor":{},"version":"2.0.0","name":"Random Squad"}
+{
+    "name": "unfassbarnathan",
+    "number": 2,
+    "xws": {
+        "faction": "resistance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "temminwexley",
+                "points": 66,
+                "ship": "t70xwing",
+                "upgrades": {
+                    "astromech": [
+                        "bbastromech"
+                    ],
+                    "cannon": [
+                        "ioncannon"
+                    ],
+                    "configuration": [
+                        "integratedsfoils"
+                    ],
+                    "talent": [
+                        "intimidation"
+                    ]
+                }
+            },
+            {
+                "id": "vimoradi",
+                "points": 33,
+                "ship": "resistancetransportpod",
+                "upgrades": {
+                    "tech": [
+                        "targetingsynchronizer"
+                    ]
+                }
+            },
+            {
+                "id": "elloasty",
+                "points": 65,
+                "ship": "t70xwing",
+                "upgrades": {
+                    "configuration": [
+                        "integratedsfoils"
+                    ],
+                    "missile": [
+                        "ionmissiles"
+                    ],
+                    "modification": [
+                        "afterburners"
+                    ]
+                }
+            },
+            {
+                "id": "jarekyeager",
+                "points": 33,
+                "ship": "fireball",
+                "upgrades": {}
+            }
+        ],
+        "points": 197,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Resistance&d=v8ZsZ200Z297X122W196WW175WWW11Y348X177WWY299XWW105W175WWW101Y377XWWWWWW&sn=Random%20Squad&obs="
+}

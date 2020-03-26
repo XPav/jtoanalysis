@@ -1,1 +1,64 @@
-{"faction":"rebelalliance","pilots":[{"id":"outerrimsmuggler","ship":"modifiedyt1300lightfreighter","points":78,"upgrades":{"crew":["chewbacca","bazemalbus"],"modification":["delayedfuses"],"title":["millenniumfalcon"]}},{"id":"zeborrelios-sheathipedeclassshuttle","ship":"sheathipedeclassshuttle","points":44,"upgrades":{"modification":["targetingcomputer"],"astromech":["r2astromech"]}},{"id":"janors","ship":"hwk290lightfreighter","points":78,"upgrades":{"talent":["swarmtactics"],"device":["connernets"],"modification":["afterburners","targetingcomputer"],"title":["moldycrow"]}}],"points":200,"vendor":{},"version":"2.0.0","name":"Random Squad"}
+{
+    "name": "Legionthree",
+    "number": 2,
+    "xws": {
+        "faction": "rebelalliance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "outerrimsmuggler",
+                "points": 78,
+                "ship": "modifiedyt1300lightfreighter",
+                "upgrades": {
+                    "crew": [
+                        "chewbacca",
+                        "bazemalbus"
+                    ],
+                    "modification": [
+                        "delayedfuses"
+                    ],
+                    "title": [
+                        "millenniumfalcon"
+                    ]
+                }
+            },
+            {
+                "id": "zeborrelios-sheathipedeclassshuttle",
+                "points": 44,
+                "ship": "sheathipedeclassshuttle",
+                "upgrades": {
+                    "astromech": [
+                        "r2astromech"
+                    ],
+                    "modification": [
+                        "targetingcomputer"
+                    ]
+                }
+            },
+            {
+                "id": "janors",
+                "points": 78,
+                "ship": "hwk290lightfreighter",
+                "upgrades": {
+                    "device": [
+                        "connernets"
+                    ],
+                    "modification": [
+                        "afterburners",
+                        "targetingcomputer"
+                    ],
+                    "talent": [
+                        "swarmtactics"
+                    ],
+                    "title": [
+                        "moldycrow"
+                    ]
+                }
+            }
+        ],
+        "points": 200,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Rebel%20Alliance&d=v8ZsZ200Z45XWW21W17W236WW154Y71XWW249W2WY46X132W68WW105W249W156&sn=Random%20Squad&obs="
+}

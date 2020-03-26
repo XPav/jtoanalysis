@@ -1,1 +1,52 @@
-{"faction":"scumandvillainy","pilots":[{"id":"guri","ship":"starviperclassattackplatform","points":73,"upgrades":{"talent":["marksmanship"],"title":["virago"]}},{"id":"4lom","ship":"g1astarfighter","points":57,"upgrades":{"talent":["juke"],"title":["misthunter"]}},{"id":"serissu","ship":"m3ainterceptor","points":41,"upgrades":{}},{"id":"bossk-z95af4headhunter","ship":"z95af4headhunter","points":29,"upgrades":{}}],"points":200,"vendor":{},"version":"2.0.0","name":"Random Squad"}
+{
+    "name": "Le pirate non binaire ",
+    "number": 1,
+    "xws": {
+        "faction": "scumandvillainy",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "guri",
+                "points": 73,
+                "ship": "starviperclassattackplatform",
+                "upgrades": {
+                    "talent": [
+                        "marksmanship"
+                    ],
+                    "title": [
+                        "virago"
+                    ]
+                }
+            },
+            {
+                "id": "4lom",
+                "points": 57,
+                "ship": "g1astarfighter",
+                "upgrades": {
+                    "talent": [
+                        "juke"
+                    ],
+                    "title": [
+                        "misthunter"
+                    ]
+                }
+            },
+            {
+                "id": "serissu",
+                "points": 41,
+                "ship": "m3ainterceptor",
+                "upgrades": {}
+            },
+            {
+                "id": "bossk-z95af4headhunter",
+                "points": 29,
+                "ship": "z95af4headhunter",
+                "upgrades": {}
+            }
+        ],
+        "points": 200,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Scum%20and%20Villainy&d=v8ZsZ200Z147X125WWWW163WY109X123WWWWW155WY132XWWY398XWWW&sn=Random%20Squad&obs="
+}

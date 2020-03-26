@@ -1,1 +1,58 @@
-{"faction":"firstorder","pilots":[{"id":"holo","ship":"tiebainterceptor","points":64,"upgrades":{"talent":["debrisgambit"],"tech":["advancedoptics"],"modification":["electronicbaffle"]}},{"id":"tn3465","ship":"tiefofighter","points":28,"upgrades":{}},{"id":"zetasquadronpilot","ship":"tiefofighter","points":26,"upgrades":{}},{"id":"quickdraw","ship":"tiesffighter","points":46,"upgrades":{"talent":["crackshot"]}},{"id":"scorch","ship":"tiefofighter","points":33,"upgrades":{}}],"points":197,"vendor":{},"version":"2.0.0","name":"Random Squad"}
+{
+    "name": "Android",
+    "number": 1,
+    "xws": {
+        "faction": "firstorder",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "holo",
+                "points": 64,
+                "ship": "tiebainterceptor",
+                "upgrades": {
+                    "modification": [
+                        "electronicbaffle"
+                    ],
+                    "talent": [
+                        "debrisgambit"
+                    ],
+                    "tech": [
+                        "advancedoptics"
+                    ]
+                }
+            },
+            {
+                "id": "tn3465",
+                "points": 28,
+                "ship": "tiefofighter",
+                "upgrades": {}
+            },
+            {
+                "id": "zetasquadronpilot",
+                "points": 26,
+                "ship": "tiefofighter",
+                "upgrades": {}
+            },
+            {
+                "id": "quickdraw",
+                "points": 46,
+                "ship": "tiesffighter",
+                "upgrades": {
+                    "talent": [
+                        "crackshot"
+                    ]
+                }
+            },
+            {
+                "id": "scorch",
+                "points": 33,
+                "ship": "tiefofighter",
+                "upgrades": {}
+            }
+        ],
+        "points": 197,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=First%20Order&d=v8ZsZ200Z382X118W186WW106Y261XWY268XWY243X116WWWWWY262XWW&sn=Random%20Squad&obs="
+}

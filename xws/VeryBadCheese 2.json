@@ -1,1 +1,52 @@
-{"faction":"galacticrepublic","pilots":[{"id":"sinker","ship":"arc170starfighter","points":67,"upgrades":{"gunner":["ahsokatano"],"modification":["munitionsfailsafe"]}},{"id":"tucker","ship":"v19torrentstarfighter","points":35,"upgrades":{"missile":["clustermissiles"],"modification":["munitionsfailsafe"]}},{"id":"oddball-arc170starfighter","ship":"arc170starfighter","points":51,"upgrades":{}},{"id":"matchstick","ship":"btlbywing","points":43,"upgrades":{}}],"points":196,"vendor":{},"version":"2.0.0","name":"Random Squad"}
+{
+    "name": "VeryBadCheese",
+    "number": 2,
+    "xws": {
+        "faction": "galacticrepublic",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "sinker",
+                "points": 67,
+                "ship": "arc170starfighter",
+                "upgrades": {
+                    "gunner": [
+                        "ahsokatano"
+                    ],
+                    "modification": [
+                        "munitionsfailsafe"
+                    ]
+                }
+            },
+            {
+                "id": "tucker",
+                "points": 35,
+                "ship": "v19torrentstarfighter",
+                "upgrades": {
+                    "missile": [
+                        "clustermissiles"
+                    ],
+                    "modification": [
+                        "munitionsfailsafe"
+                    ]
+                }
+            },
+            {
+                "id": "oddball-arc170starfighter",
+                "points": 51,
+                "ship": "arc170starfighter",
+                "upgrades": {}
+            },
+            {
+                "id": "matchstick",
+                "points": 43,
+                "ship": "btlbywing",
+                "upgrades": {}
+            }
+        ],
+        "points": 196,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Galactic%20Republic&d=v8ZsZ200Z280XWW253WW108Y319X98W108Y338XWWWWWY365XWWWWWW&sn=Random%20Squad&obs="
+}

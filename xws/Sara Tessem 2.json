@@ -1,1 +1,59 @@
-{"faction":"separatistalliance","pilots":[{"id":"wattambor","ship":"belbullab22starfighter","points":54,"upgrades":{"talent":["marksmanship"],"tacticalrelay":["tv94"],"title":["soullessone"]}},{"id":"darthmaul","ship":"sithinfiltrator","points":79,"upgrades":{"crew":["countdooku"],"title":["scimitar"]}},{"id":"precisehunter","ship":"vultureclassdroidfighter","points":24,"upgrades":{"configuration":["grapplingstruts"]}},{"id":"petranakiarenaace","ship":"nantexclassstarfighter","points":38,"upgrades":{}}],"points":195,"vendor":{},"version":"2.0.0","name":"Random Squad"}
+{
+    "name": "Sara Tessem",
+    "number": 2,
+    "xws": {
+        "faction": "separatistalliance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "wattambor",
+                "points": 54,
+                "ship": "belbullab22starfighter",
+                "upgrades": {
+                    "tacticalrelay": [
+                        "tv94"
+                    ],
+                    "talent": [
+                        "marksmanship"
+                    ],
+                    "title": [
+                        "soullessone"
+                    ]
+                }
+            },
+            {
+                "id": "darthmaul",
+                "points": 79,
+                "ship": "sithinfiltrator",
+                "upgrades": {
+                    "crew": [
+                        "countdooku"
+                    ],
+                    "title": [
+                        "scimitar"
+                    ]
+                }
+            },
+            {
+                "id": "precisehunter",
+                "points": 24,
+                "ship": "vultureclassdroidfighter",
+                "upgrades": {
+                    "configuration": [
+                        "grapplingstruts"
+                    ]
+                }
+            },
+            {
+                "id": "petranakiarenaace",
+                "points": 38,
+                "ship": "nantexclassstarfighter",
+                "upgrades": {}
+            }
+        ],
+        "points": 195,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Separatist%20Alliance&d=v8ZsZ200Z306X125W223WW229Y272XWWWW218WWW216WY309XW208WY354XW&sn=Random%20Squad&obs="
+}

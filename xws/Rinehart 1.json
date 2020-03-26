@@ -1,1 +1,53 @@
-{"faction":"scumandvillainy","pilots":[{"id":"ig88c","ship":"aggressorassaultfighter","points":68,"upgrades":{"talent":["intimidation"],"modification":["delayedfuses"]}},{"id":"captainjostero","ship":"kihraxzfighter","points":48,"upgrades":{"modification":["stealthdevice"]}},{"id":"overseeryushyn","ship":"modifiedtielnfighter","points":26,"upgrades":{}},{"id":"skullsquadronpilot","ship":"fangfighter","points":56,"upgrades":{"torpedo":["plasmatorpedoes"]}}],"points":198,"vendor":{},"version":"2.0.0","name":"Random Squad"}
+{
+    "name": "Rinehart",
+    "number": 1,
+    "xws": {
+        "faction": "scumandvillainy",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "ig88c",
+                "points": 68,
+                "ship": "aggressorassaultfighter",
+                "upgrades": {
+                    "modification": [
+                        "delayedfuses"
+                    ],
+                    "talent": [
+                        "intimidation"
+                    ]
+                }
+            },
+            {
+                "id": "captainjostero",
+                "points": 48,
+                "ship": "kihraxzfighter",
+                "upgrades": {
+                    "modification": [
+                        "stealthdevice"
+                    ]
+                }
+            },
+            {
+                "id": "overseeryushyn",
+                "points": 26,
+                "ship": "modifiedtielnfighter",
+                "upgrades": {}
+            },
+            {
+                "id": "skullsquadronpilot",
+                "points": 56,
+                "ship": "fangfighter",
+                "upgrades": {
+                    "torpedo": [
+                        "plasmatorpedoes"
+                    ]
+                }
+            }
+        ],
+        "points": 198,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Scum%20and%20Villainy&d=v8ZsZ200Z83X122WWWWWW236WY122XWWW166WY303XY101XW234&sn=Random%20Squad&obs="
+}

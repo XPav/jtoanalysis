@@ -1,1 +1,72 @@
-{"faction":"galacticrepublic","pilots":[{"id":"bravoflightofficer","ship":"nabooroyaln1starfighter","points":41,"upgrades":{"sensor":["passivesensors"],"astromech":["r4p44"]}},{"id":"kickback","ship":"v19torrentstarfighter","points":43,"upgrades":{"talent":["trickshot"],"missile":["concussionmissiles"]}},{"id":"oddball-arc170starfighter","ship":"arc170starfighter","points":77,"upgrades":{"talent":["debrisgambit"],"torpedo":["plasmatorpedoes"],"crew":["novicetechnician"],"astromech":["r3astromech"],"modification":["angleddeflectors"]}},{"id":"swoop","ship":"v19torrentstarfighter","points":36,"upgrades":{"modification":["hullupgrade"]}}],"points":197,"vendor":{},"version":"2.0.0","name":"Random Squad"}
+{
+    "name": "schdarr",
+    "number": 2,
+    "xws": {
+        "faction": "galacticrepublic",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "bravoflightofficer",
+                "points": 41,
+                "ship": "nabooroyaln1starfighter",
+                "upgrades": {
+                    "astromech": [
+                        "r4p44"
+                    ],
+                    "sensor": [
+                        "passivesensors"
+                    ]
+                }
+            },
+            {
+                "id": "kickback",
+                "points": 43,
+                "ship": "v19torrentstarfighter",
+                "upgrades": {
+                    "missile": [
+                        "concussionmissiles"
+                    ],
+                    "talent": [
+                        "trickshot"
+                    ]
+                }
+            },
+            {
+                "id": "oddball-arc170starfighter",
+                "points": 77,
+                "ship": "arc170starfighter",
+                "upgrades": {
+                    "astromech": [
+                        "r3astromech"
+                    ],
+                    "crew": [
+                        "novicetechnician"
+                    ],
+                    "modification": [
+                        "angleddeflectors"
+                    ],
+                    "talent": [
+                        "debrisgambit"
+                    ],
+                    "torpedo": [
+                        "plasmatorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "swoop",
+                "points": 36,
+                "ship": "v19torrentstarfighter",
+                "upgrades": {
+                    "modification": [
+                        "hullupgrade"
+                    ]
+                }
+            }
+        ],
+        "points": 197,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Galactic%20Republic&d=v8ZsZ200Z323X240W226WY315X133W99WY338X118W234W53WW4W247Y317XWW164&sn=Random%20Squad&obs="
+}

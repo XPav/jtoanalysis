@@ -1,1 +1,63 @@
-{"faction":"rebelalliance","pilots":[{"id":"ginamoonsong","ship":"asf01bwing","points":72,"upgrades":{"talent":["composure"],"sensor":["collisiondetector"],"cannon":["ioncannon","tractorbeam"],"torpedo":["iontorpedoes"]}},{"id":"wardensquadronpilot","ship":"btls8kwing","points":45,"upgrades":{"missile":["protonrockets"]}},{"id":"rebelscout","ship":"hwk290lightfreighter","points":30,"upgrades":{}},{"id":"ezrabridger-sheathipedeclassshuttle","ship":"sheathipedeclassshuttle","points":50,"upgrades":{"force-power":["heightenedperception"],"crew":["seasonednavigator"]}}],"points":197,"vendor":{},"version":"2.0.0","name":"Random Squad"}
+{
+    "name": "RebelJP",
+    "number": 1,
+    "xws": {
+        "faction": "rebelalliance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "ginamoonsong",
+                "points": 72,
+                "ship": "asf01bwing",
+                "upgrades": {
+                    "cannon": [
+                        "ioncannon",
+                        "tractorbeam"
+                    ],
+                    "sensor": [
+                        "collisiondetector"
+                    ],
+                    "talent": [
+                        "composure"
+                    ],
+                    "torpedo": [
+                        "iontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "wardensquadronpilot",
+                "points": 45,
+                "ship": "btls8kwing",
+                "upgrades": {
+                    "missile": [
+                        "protonrockets"
+                    ]
+                }
+            },
+            {
+                "id": "rebelscout",
+                "points": 30,
+                "ship": "hwk290lightfreighter",
+                "upgrades": {}
+            },
+            {
+                "id": "ezrabridger-sheathipedeclassshuttle",
+                "points": 50,
+                "ship": "sheathipedeclassshuttle",
+                "upgrades": {
+                    "crew": [
+                        "seasonednavigator"
+                    ],
+                    "force-power": [
+                        "heightenedperception"
+                    ]
+                }
+            }
+        ],
+        "points": 197,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Rebel%20Alliance&d=v8ZsZ200Z391X115W112W11W13W135WWY20XW102WWWWWWY49XWWWWY70X72W59WWW&sn=Random%20Squad&obs="
+}

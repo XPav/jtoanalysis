@@ -1,1 +1,54 @@
-{"faction":"scumandvillainy","pilots":[{"id":"oldteroch","ship":"fangfighter","points":62,"upgrades":{"torpedo":["iontorpedoes"]}},{"id":"koshkafrost","ship":"firesprayclasspatrolcraft","points":72,"upgrades":{"illicit":["deadmansswitch"]}},{"id":"jakkugunrunner","ship":"quadrijettransferspacetug","points":36,"upgrades":{"device":["proximitymines"]}},{"id":"binayrepirate","ship":"z95af4headhunter","points":25,"upgrades":{"illicit":["feedbackarray"]}}],"points":195,"vendor":{},"version":"2.0.0","name":"Random Squad"}
+{
+    "name": "Azaghal",
+    "number": 1,
+    "xws": {
+        "faction": "scumandvillainy",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "oldteroch",
+                "points": 62,
+                "ship": "fangfighter",
+                "upgrades": {
+                    "torpedo": [
+                        "iontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "koshkafrost",
+                "points": 72,
+                "ship": "firesprayclasspatrolcraft",
+                "upgrades": {
+                    "illicit": [
+                        "deadmansswitch"
+                    ]
+                }
+            },
+            {
+                "id": "jakkugunrunner",
+                "points": 36,
+                "ship": "quadrijettransferspacetug",
+                "upgrades": {
+                    "device": [
+                        "proximitymines"
+                    ]
+                }
+            },
+            {
+                "id": "binayrepirate",
+                "points": 25,
+                "ship": "z95af4headhunter",
+                "upgrades": {
+                    "illicit": [
+                        "feedbackarray"
+                    ]
+                }
+            }
+        ],
+        "points": 195,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Scum%20and%20Villainy&d=v8ZsZ200Z98XW135Y106XWWWWW93WWY143XWW70WWY159XW94W&sn=Random%20Squad&obs="
+}

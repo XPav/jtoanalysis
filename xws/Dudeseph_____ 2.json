@@ -1,1 +1,63 @@
-{"faction":"galacticrepublic","pilots":[{"id":"swoop","ship":"v19torrentstarfighter","points":32,"upgrades":{"modification":["munitionsfailsafe"]}},{"id":"ricolie","ship":"nabooroyaln1starfighter","points":49,"upgrades":{"talent":["crackshot"],"sensor":["collisiondetector"]}},{"id":"sinker","ship":"arc170starfighter","points":77,"upgrades":{"torpedo":["protontorpedoes"],"gunner":["hotshotgunner"],"modification":["targetingcomputer"]}},{"id":"shadowsquadronveteran","ship":"btlbywing","points":41,"upgrades":{"torpedo":["plasmatorpedoes"]}}],"points":199,"vendor":{},"version":"2.0.0","name":"Random Squad"}
+{
+    "name": "Dudeseph_____",
+    "number": 2,
+    "xws": {
+        "faction": "galacticrepublic",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "swoop",
+                "points": 32,
+                "ship": "v19torrentstarfighter",
+                "upgrades": {
+                    "modification": [
+                        "munitionsfailsafe"
+                    ]
+                }
+            },
+            {
+                "id": "ricolie",
+                "points": 49,
+                "ship": "nabooroyaln1starfighter",
+                "upgrades": {
+                    "sensor": [
+                        "collisiondetector"
+                    ],
+                    "talent": [
+                        "crackshot"
+                    ]
+                }
+            },
+            {
+                "id": "sinker",
+                "points": 77,
+                "ship": "arc170starfighter",
+                "upgrades": {
+                    "gunner": [
+                        "hotshotgunner"
+                    ],
+                    "modification": [
+                        "targetingcomputer"
+                    ],
+                    "torpedo": [
+                        "protontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "shadowsquadronveteran",
+                "points": 41,
+                "ship": "btlbywing",
+                "upgrades": {
+                    "torpedo": [
+                        "plasmatorpedoes"
+                    ]
+                }
+            }
+        ],
+        "points": 199,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Galactic%20Republic&d=v8ZsZ200Z317XWW108Y333X116W112WWY280X136WW86WW249Y360XWW234WWWW&sn=Random%20Squad&obs="
+}

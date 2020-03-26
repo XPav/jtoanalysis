@@ -1,1 +1,62 @@
-{"faction":"firstorder","pilots":[{"id":"captainphasma","ship":"tiesffighter","points":64,"upgrades":{"talent":["fanatical"],"tech":["advancedoptics"],"missile":["clustermissiles"],"gunner":["hotshotgunner"],"sensor":["trajectorysimulator"],"modification":["munitionsfailsafe"]}},{"id":"avenger","ship":"tievnsilencer","points":68,"upgrades":{"talent":["elusive"],"torpedo":["plasmatorpedoes"]}},{"id":"pettyofficerthanisson","ship":"upsilonclasscommandshuttle","points":68,"upgrades":{"tech":["deuteriumpowercells"]}}],"points":200,"vendor":{},"version":"2.0.0","name":"Random Squad"}
+{
+    "name": "Evcameron",
+    "number": 1,
+    "xws": {
+        "faction": "firstorder",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "captainphasma",
+                "points": 64,
+                "ship": "tiesffighter",
+                "upgrades": {
+                    "gunner": [
+                        "hotshotgunner"
+                    ],
+                    "missile": [
+                        "clustermissiles"
+                    ],
+                    "modification": [
+                        "munitionsfailsafe"
+                    ],
+                    "sensor": [
+                        "trajectorysimulator"
+                    ],
+                    "talent": [
+                        "fanatical"
+                    ],
+                    "tech": [
+                        "advancedoptics"
+                    ]
+                }
+            },
+            {
+                "id": "avenger",
+                "points": 68,
+                "ship": "tievnsilencer",
+                "upgrades": {
+                    "talent": [
+                        "elusive"
+                    ],
+                    "torpedo": [
+                        "plasmatorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "pettyofficerthanisson",
+                "points": 68,
+                "ship": "upsilonclasscommandshuttle",
+                "upgrades": {
+                    "tech": [
+                        "deuteriumpowercells"
+                    ]
+                }
+            }
+        ],
+        "points": 200,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=First%20Order&d=v8ZsZ200Z385X181W186W98W86W114W108Y283X119WW234WY281X318WWWWWWW&sn=Random%20Squad&obs="
+}

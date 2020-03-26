@@ -1,1 +1,53 @@
-{"faction":"rebelalliance","pilots":[{"id":"wullffwarro","ship":"auzituckgunship","points":60,"upgrades":{"crew":["zeborrelios"],"modification":["targetingcomputer"]}},{"id":"rebelscout","ship":"hwk290lightfreighter","points":48,"upgrades":{"title":["moldycrow"]}},{"id":"knavesquadronescort","ship":"ewing","points":52,"upgrades":{"sensor":["firecontrolsystem"]}},{"id":"evaanverlaine","ship":"btla4ywing","points":35,"upgrades":{}}],"points":195,"vendor":{},"version":"2.0.0","name":"Random Squad"}
+{
+    "name": "Lee 7 Suns",
+    "number": 2,
+    "xws": {
+        "faction": "rebelalliance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "wullffwarro",
+                "points": 60,
+                "ship": "auzituckgunship",
+                "upgrades": {
+                    "crew": [
+                        "zeborrelios"
+                    ],
+                    "modification": [
+                        "targetingcomputer"
+                    ]
+                }
+            },
+            {
+                "id": "rebelscout",
+                "points": 48,
+                "ship": "hwk290lightfreighter",
+                "upgrades": {
+                    "title": [
+                        "moldycrow"
+                    ]
+                }
+            },
+            {
+                "id": "knavesquadronescort",
+                "points": 52,
+                "ship": "ewing",
+                "upgrades": {
+                    "sensor": [
+                        "firecontrolsystem"
+                    ]
+                }
+            },
+            {
+                "id": "evaanverlaine",
+                "points": 35,
+                "ship": "btla4ywing",
+                "upgrades": {}
+            }
+        ],
+        "points": 195,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Rebel%20Alliance&d=v8ZsZ200Z58XW65WW249Y49XWWWW156Y24X113WWWY28XWWWWWW&sn=Random%20Squad&obs="
+}

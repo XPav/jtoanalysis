@@ -1,1 +1,65 @@
-{"faction":"firstorder","pilots":[{"id":"holo","ship":"tiebainterceptor","points":73,"upgrades":{"talent":["trickshot"],"tech":["deuteriumpowercells"],"missile":["magpulsewarheads"]}},{"id":"pettyofficerthanisson","ship":"upsilonclasscommandshuttle","points":87,"upgrades":{"tech":["hyperspacetrackingdata","advancedoptics"],"crew":["captainphasma","seasonednavigator","freelanceslicer"],"cannon":["jammingbeam"],"sensor":["firecontrolsystem"],"modification":["munitionsfailsafe"]}},{"id":"longshot","ship":"tiefofighter","points":37,"upgrades":{"tech":["targetingsynchronizer"]}}],"points":197,"vendor":{},"version":"2.0.0","name":"Random Squad"}
+{
+    "name": "VeryBadCheese",
+    "number": 1,
+    "xws": {
+        "faction": "firstorder",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "holo",
+                "points": 73,
+                "ship": "tiebainterceptor",
+                "upgrades": {
+                    "missile": [
+                        "magpulsewarheads"
+                    ],
+                    "talent": [
+                        "trickshot"
+                    ],
+                    "tech": [
+                        "deuteriumpowercells"
+                    ]
+                }
+            },
+            {
+                "id": "pettyofficerthanisson",
+                "points": 87,
+                "ship": "upsilonclasscommandshuttle",
+                "upgrades": {
+                    "cannon": [
+                        "jammingbeam"
+                    ],
+                    "crew": [
+                        "captainphasma",
+                        "seasonednavigator",
+                        "freelanceslicer"
+                    ],
+                    "modification": [
+                        "munitionsfailsafe"
+                    ],
+                    "sensor": [
+                        "firecontrolsystem"
+                    ],
+                    "tech": [
+                        "hyperspacetrackingdata",
+                        "advancedoptics"
+                    ]
+                }
+            },
+            {
+                "id": "longshot",
+                "points": 37,
+                "ship": "tiefofighter",
+                "upgrades": {
+                    "tech": [
+                        "targetingsynchronizer"
+                    ]
+                }
+            }
+        ],
+        "points": 197,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=First%20Order&d=v8ZsZ200Z382X133W318W311WY281X185W186W183W59W30W12W113W108Y263XW177W&sn=Random%20Squad&obs="
+}

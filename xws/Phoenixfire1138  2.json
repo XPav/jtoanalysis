@@ -1,1 +1,56 @@
-{"faction":"separatistalliance","pilots":[{"id":"bombardmentdrone","ship":"hyenaclassdroidbomber","points":52,"upgrades":{"sensor":["collisiondetector"],"device":["connernets","proximitymines"],"modification":["hullupgrade"]}},{"id":"precisehunter","ship":"vultureclassdroidfighter","points":23,"upgrades":{}},{"id":"captainsear","ship":"belbullab22starfighter","points":45,"upgrades":{}},{"id":"darthmaul","ship":"sithinfiltrator","points":76,"upgrades":{"torpedo":["plasmatorpedoes"],"modification":["electronicbaffle"]}}],"points":196,"vendor":{},"version":"2.0.0","name":"Random Squad"}
+{
+    "name": "Phoenixfire1138 ",
+    "number": 2,
+    "xws": {
+        "faction": "separatistalliance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "bombardmentdrone",
+                "points": 52,
+                "ship": "hyenaclassdroidbomber",
+                "upgrades": {
+                    "device": [
+                        "connernets",
+                        "proximitymines"
+                    ],
+                    "modification": [
+                        "hullupgrade"
+                    ],
+                    "sensor": [
+                        "collisiondetector"
+                    ]
+                }
+            },
+            {
+                "id": "precisehunter",
+                "points": 23,
+                "ship": "vultureclassdroidfighter",
+                "upgrades": {}
+            },
+            {
+                "id": "captainsear",
+                "points": 45,
+                "ship": "belbullab22starfighter",
+                "upgrades": {}
+            },
+            {
+                "id": "darthmaul",
+                "points": 76,
+                "ship": "sithinfiltrator",
+                "upgrades": {
+                    "modification": [
+                        "electronicbaffle"
+                    ],
+                    "torpedo": [
+                        "plasmatorpedoes"
+                    ]
+                }
+            }
+        ],
+        "points": 196,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Separatist%20Alliance&d=v8ZsZ200Z325X112W68W70W164WY309XWWY308XWWY272XWW234WWWW106WW&sn=Random%20Squad&obs="
+}

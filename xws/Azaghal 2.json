@@ -1,1 +1,68 @@
-{"faction":"firstorder","pilots":[{"id":"holo","ship":"tiebainterceptor","points":71,"upgrades":{"talent":["daredevil"],"tech":["deuteriumpowercells"],"missile":["magpulsewarheads"]}},{"id":"ember","ship":"tiebainterceptor","points":73,"upgrades":{"talent":["daredevil"],"tech":["targetingsynchronizer"],"missile":["clustermissiles"],"modification":["stealthdevice"]}},{"id":"backdraft","ship":"tiesffighter","points":55,"upgrades":{"talent":["swarmtactics"],"missile":["homingmissiles"],"gunner":["hotshotgunner"],"modification":["munitionsfailsafe"]}}],"points":199,"vendor":{},"version":"2.0.0","name":"Random Squad"}
+{
+    "name": "Azaghal",
+    "number": 2,
+    "xws": {
+        "faction": "firstorder",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "holo",
+                "points": 71,
+                "ship": "tiebainterceptor",
+                "upgrades": {
+                    "missile": [
+                        "magpulsewarheads"
+                    ],
+                    "talent": [
+                        "daredevil"
+                    ],
+                    "tech": [
+                        "deuteriumpowercells"
+                    ]
+                }
+            },
+            {
+                "id": "ember",
+                "points": 73,
+                "ship": "tiebainterceptor",
+                "upgrades": {
+                    "missile": [
+                        "clustermissiles"
+                    ],
+                    "modification": [
+                        "stealthdevice"
+                    ],
+                    "talent": [
+                        "daredevil"
+                    ],
+                    "tech": [
+                        "targetingsynchronizer"
+                    ]
+                }
+            },
+            {
+                "id": "backdraft",
+                "points": 55,
+                "ship": "tiesffighter",
+                "upgrades": {
+                    "gunner": [
+                        "hotshotgunner"
+                    ],
+                    "missile": [
+                        "homingmissiles"
+                    ],
+                    "modification": [
+                        "munitionsfailsafe"
+                    ],
+                    "talent": [
+                        "swarmtactics"
+                    ]
+                }
+            }
+        ],
+        "points": 199,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=First%20Order&d=v8ZsZ200Z382X117W318W311WY383X117W177W98W166Y242X132WW100W86WW108&sn=Random%20Squad&obs="
+}

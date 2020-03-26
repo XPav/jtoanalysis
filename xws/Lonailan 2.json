@@ -1,1 +1,57 @@
-{"faction":"rebelalliance","pilots":[{"id":"ezrabridger","ship":"attackshuttle","points":40,"upgrades":{"title":["phantom"]}},{"id":"wullffwarro","ship":"auzituckgunship","points":59,"upgrades":{"talent":["intimidation"]}},{"id":"greensquadronpilot","ship":"rz1awing","points":38,"upgrades":{"talent":["outmaneuver"]}},{"id":"ginamoonsong","ship":"asf01bwing","points":62,"upgrades":{"cannon":["ioncannon"],"torpedo":["advprotontorpedoes"]}}],"points":199,"vendor":{},"version":"2.0.0","name":"Random Squad"}
+{
+    "name": "Lonailan",
+    "number": 2,
+    "xws": {
+        "faction": "rebelalliance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "ezrabridger",
+                "points": 40,
+                "ship": "attackshuttle",
+                "upgrades": {
+                    "title": [
+                        "phantom"
+                    ]
+                }
+            },
+            {
+                "id": "wullffwarro",
+                "points": 59,
+                "ship": "auzituckgunship",
+                "upgrades": {
+                    "talent": [
+                        "intimidation"
+                    ]
+                }
+            },
+            {
+                "id": "greensquadronpilot",
+                "points": 38,
+                "ship": "rz1awing",
+                "upgrades": {
+                    "talent": [
+                        "outmaneuver"
+                    ]
+                }
+            },
+            {
+                "id": "ginamoonsong",
+                "points": 62,
+                "ship": "asf01bwing",
+                "upgrades": {
+                    "cannon": [
+                        "ioncannon"
+                    ],
+                    "torpedo": [
+                        "advprotontorpedoes"
+                    ]
+                }
+            }
+        ],
+        "points": 199,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Rebel%20Alliance&d=v8ZsZ200Z67XWWWW167Y58X122WWWY52X126WWY391XWW11WW134WW&sn=Random%20Squad&obs="
+}

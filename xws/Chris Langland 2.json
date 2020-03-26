@@ -1,1 +1,46 @@
-{"faction":"firstorder","pilots":[{"id":"rush","ship":"tievnsilencer","points":64,"upgrades":{"missile":["protonrockets"]}},{"id":"lieutenantrivas","ship":"tiefofighter","points":28,"upgrades":{"tech":["biohexacryptcodes"]}},{"id":"firstorderprovocateur","ship":"tiebainterceptor","points":45,"upgrades":{}},{"id":"pettyofficerthanisson","ship":"upsilonclasscommandshuttle","points":59,"upgrades":{}}],"points":196,"vendor":{},"version":"2.0.0","name":"Random Squad"}
+{
+    "name": "Chris Langland",
+    "number": 2,
+    "xws": {
+        "faction": "firstorder",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "rush",
+                "points": 64,
+                "ship": "tievnsilencer",
+                "upgrades": {
+                    "missile": [
+                        "protonrockets"
+                    ]
+                }
+            },
+            {
+                "id": "lieutenantrivas",
+                "points": 28,
+                "ship": "tiefofighter",
+                "upgrades": {
+                    "tech": [
+                        "biohexacryptcodes"
+                    ]
+                }
+            },
+            {
+                "id": "firstorderprovocateur",
+                "points": 45,
+                "ship": "tiebainterceptor",
+                "upgrades": {}
+            },
+            {
+                "id": "pettyofficerthanisson",
+                "points": 59,
+                "ship": "upsilonclasscommandshuttle",
+                "upgrades": {}
+            }
+        ],
+        "points": 196,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=First%20Order&d=v8ZsZ200Z386XWW102Y265X202WY384XWWWY281XWWWWWWW&sn=Random%20Squad&obs="
+}

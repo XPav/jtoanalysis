@@ -1,1 +1,70 @@
-{"faction":"separatistalliance","pilots":[{"id":"skakoanace","ship":"belbullab22starfighter","points":51,"upgrades":{"talent":["predator"],"modification":["hullupgrade"],"title":["soullessone"]}},{"id":"petranakiarenaace","ship":"nantexclassstarfighter","points":51,"upgrades":{"talent":["juke","outmaneuver"]}},{"id":"skakoanace","ship":"belbullab22starfighter","points":50,"upgrades":{"talent":["predator"],"tacticalrelay":["kraken"]}},{"id":"dbs32c","ship":"hyenaclassdroidbomber","points":48,"upgrades":{"sensor":["trajectorysimulator"],"modification":["munitionsfailsafe"],"configuration":["landingstruts"]}}],"points":200,"vendor":{},"version":"2.0.0","name":"Random Squad"}
+{
+    "name": "EvanPaul",
+    "number": 2,
+    "xws": {
+        "faction": "separatistalliance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "skakoanace",
+                "points": 51,
+                "ship": "belbullab22starfighter",
+                "upgrades": {
+                    "modification": [
+                        "hullupgrade"
+                    ],
+                    "talent": [
+                        "predator"
+                    ],
+                    "title": [
+                        "soullessone"
+                    ]
+                }
+            },
+            {
+                "id": "petranakiarenaace",
+                "points": 51,
+                "ship": "nantexclassstarfighter",
+                "upgrades": {
+                    "talent": [
+                        "juke",
+                        "outmaneuver"
+                    ]
+                }
+            },
+            {
+                "id": "skakoanace",
+                "points": 50,
+                "ship": "belbullab22starfighter",
+                "upgrades": {
+                    "tacticalrelay": [
+                        "kraken"
+                    ],
+                    "talent": [
+                        "predator"
+                    ]
+                }
+            },
+            {
+                "id": "dbs32c",
+                "points": 48,
+                "ship": "hyenaclassdroidbomber",
+                "upgrades": {
+                    "configuration": [
+                        "landingstruts"
+                    ],
+                    "modification": [
+                        "munitionsfailsafe"
+                    ],
+                    "sensor": [
+                        "trajectorysimulator"
+                    ]
+                }
+            }
+        ],
+        "points": 200,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Separatist%20Alliance&d=v8ZsZ200Z344X127WW164W229Y354X123W126Y344X127W222WWY328X114WW108W237&sn=Random%20Squad&obs="
+}

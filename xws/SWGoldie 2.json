@@ -1,1 +1,52 @@
-{"faction":"galacticempire","pilots":[{"id":"inquisitor","ship":"tieadvancedv1","points":40,"upgrades":{"force-power":["sense"]}},{"id":"omicrongrouppilot","ship":"lambdaclasst4ashuttle","points":43,"upgrades":{}},{"id":"vizier","ship":"tiereaper","points":45,"upgrades":{}},{"id":"wampa","ship":"tielnfighter","points":36,"upgrades":{"modification":["hullupgrade"]}},{"id":"maulermithel","ship":"tielnfighter","points":31,"upgrades":{}}],"points":195,"vendor":{},"version":"2.0.0","name":"Random Squad"}
+{
+    "name": "SWGoldie",
+    "number": 2,
+    "xws": {
+        "faction": "galacticempire",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "inquisitor",
+                "points": 40,
+                "ship": "tieadvancedv1",
+                "upgrades": {
+                    "force-power": [
+                        "sense"
+                    ]
+                }
+            },
+            {
+                "id": "omicrongrouppilot",
+                "points": 43,
+                "ship": "lambdaclasst4ashuttle",
+                "upgrades": {}
+            },
+            {
+                "id": "vizier",
+                "points": 45,
+                "ship": "tiereaper",
+                "upgrades": {}
+            },
+            {
+                "id": "wampa",
+                "points": 36,
+                "ship": "tielnfighter",
+                "upgrades": {
+                    "modification": [
+                        "hullupgrade"
+                    ]
+                }
+            },
+            {
+                "id": "maulermithel",
+                "points": 31,
+                "ship": "tielnfighter",
+                "upgrades": {}
+            }
+        ],
+        "points": 195,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Galactic%20Empire&d=v8ZsZ200Z171X75WWY168XWWWWWY185XWWY221X164Y219XW&sn=Random%20Squad&obs="
+}

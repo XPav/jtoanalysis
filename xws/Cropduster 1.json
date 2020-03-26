@@ -1,1 +1,52 @@
-{"faction":"galacticempire","pilots":[{"id":"vedfoslo","ship":"tieadvancedx1","points":52,"upgrades":{"talent":["predator"],"missile":["ionmissiles"],"modification":["electronicbaffle"]}},{"id":"zertikstrom","ship":"tieadvancedx1","points":41,"upgrades":{}},{"id":"darthvader","ship":"tieadvancedx1","points":73,"upgrades":{"sensor":["collisiondetector"]}},{"id":"baronoftheempire","ship":"tieadvancedv1","points":30,"upgrades":{}}],"points":196,"vendor":{},"version":"2.0.0","name":"Random Squad"}
+{
+    "name": "Cropduster",
+    "number": 1,
+    "xws": {
+        "faction": "galacticempire",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "vedfoslo",
+                "points": 52,
+                "ship": "tieadvancedx1",
+                "upgrades": {
+                    "missile": [
+                        "ionmissiles"
+                    ],
+                    "modification": [
+                        "electronicbaffle"
+                    ],
+                    "talent": [
+                        "predator"
+                    ]
+                }
+            },
+            {
+                "id": "zertikstrom",
+                "points": 41,
+                "ship": "tieadvancedx1",
+                "upgrades": {}
+            },
+            {
+                "id": "darthvader",
+                "points": 73,
+                "ship": "tieadvancedx1",
+                "upgrades": {
+                    "sensor": [
+                        "collisiondetector"
+                    ]
+                }
+            },
+            {
+                "id": "baronoftheempire",
+                "points": 30,
+                "ship": "tieadvancedv1",
+                "upgrades": {}
+            }
+        ],
+        "points": 196,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Galactic%20Empire&d=v8ZsZ200Z175X127WW101W106Y176XWWY173XW112WWY172XWW&sn=Random%20Squad&obs="
+}

@@ -1,1 +1,61 @@
-{"faction":"rebelalliance","pilots":[{"id":"rebelscout","ship":"hwk290lightfreighter","points":50,"upgrades":{"modification":["engineupgrade"],"title":["moldycrow"]}},{"id":"ibtisam","ship":"arc170starfighter","points":82,"upgrades":{"talent":["outmaneuver"],"torpedo":["advprotontorpedoes"],"crew":["c3po"],"gunner":["hansolo"],"modification":["electronicbaffle"]}},{"id":"airencracken","ship":"z95af4headhunter","points":36,"upgrades":{}},{"id":"phoenixsquadronpilot","ship":"rz1awing","points":29,"upgrades":{}}],"points":197,"vendor":{},"version":"2.0.0","name":"Random Squad"}
+{
+    "name": "funwok",
+    "number": 2,
+    "xws": {
+        "faction": "rebelalliance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "rebelscout",
+                "points": 50,
+                "ship": "hwk290lightfreighter",
+                "upgrades": {
+                    "modification": [
+                        "engineupgrade"
+                    ],
+                    "title": [
+                        "moldycrow"
+                    ]
+                }
+            },
+            {
+                "id": "ibtisam",
+                "points": 82,
+                "ship": "arc170starfighter",
+                "upgrades": {
+                    "crew": [
+                        "c3po"
+                    ],
+                    "gunner": [
+                        "hansolo"
+                    ],
+                    "modification": [
+                        "electronicbaffle"
+                    ],
+                    "talent": [
+                        "outmaneuver"
+                    ],
+                    "torpedo": [
+                        "advprotontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "airencracken",
+                "points": 36,
+                "ship": "z95af4headhunter",
+                "upgrades": {}
+            },
+            {
+                "id": "phoenixsquadronpilot",
+                "points": 29,
+                "ship": "rz1awing",
+                "upgrades": {}
+            }
+        ],
+        "points": 197,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Rebel%20Alliance&d=v8ZsZ200Z49XWW107WW156Y80X126W134W18W84WW106Y54XWWY53XW&sn=Random%20Squad&obs="
+}

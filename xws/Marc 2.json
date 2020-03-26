@@ -1,1 +1,69 @@
-{"faction":"scumandvillainy","pilots":[{"id":"contractedscout","ship":"jumpmaster5000","points":57,"upgrades":{"torpedo":["iontorpedoes"],"illicit":["riggedcargochute"],"modification":["shieldupgrade"]}},{"id":"crymorahgoon","ship":"btla4ywing","points":35,"upgrades":{"turret":["dorsalturret"],"astromech":["r4astromech"]}},{"id":"lattsrazzi","ship":"yv666lightfreighter","points":73,"upgrades":{"missile":["magpulsewarheads"],"crew":["l337","freelanceslicer"],"illicit":["contrabandcybernetics"],"title":["houndstooth"]}},{"id":"jakkugunrunner","ship":"quadrijettransferspacetug","points":30,"upgrades":{}}],"points":195,"vendor":{},"version":"2.0.0","name":"Random Squad"}
+{
+    "name": "Marc",
+    "number": 2,
+    "xws": {
+        "faction": "scumandvillainy",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "contractedscout",
+                "points": 57,
+                "ship": "jumpmaster5000",
+                "upgrades": {
+                    "illicit": [
+                        "riggedcargochute"
+                    ],
+                    "modification": [
+                        "shieldupgrade"
+                    ],
+                    "torpedo": [
+                        "iontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "crymorahgoon",
+                "points": 35,
+                "ship": "btla4ywing",
+                "upgrades": {
+                    "astromech": [
+                        "r4astromech"
+                    ],
+                    "turret": [
+                        "dorsalturret"
+                    ]
+                }
+            },
+            {
+                "id": "lattsrazzi",
+                "points": 73,
+                "ship": "yv666lightfreighter",
+                "upgrades": {
+                    "crew": [
+                        "l337",
+                        "freelanceslicer"
+                    ],
+                    "illicit": [
+                        "contrabandcybernetics"
+                    ],
+                    "missile": [
+                        "magpulsewarheads"
+                    ],
+                    "title": [
+                        "houndstooth"
+                    ]
+                }
+            },
+            {
+                "id": "jakkugunrunner",
+                "points": 30,
+                "ship": "quadrijettransferspacetug",
+                "upgrades": {}
+            }
+        ],
+        "points": 195,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Scum%20and%20Villainy&d=v8ZsZ200Z118X135WWWW96W165WY88X137WWW5WWWY154XWW311W43W30WW92WW150Y143XWWWW&sn=Random%20Squad&obs="
+}

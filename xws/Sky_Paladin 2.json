@@ -1,1 +1,62 @@
-{"faction":"galacticrepublic","pilots":[{"id":"goldsquadrontrooper","ship":"v19torrentstarfighter","points":25,"upgrades":{}},{"id":"104thbattalionpilot","ship":"arc170starfighter","points":53,"upgrades":{"crew":["seasonednavigator"],"astromech":["r2a6"],"modification":["munitionsfailsafe"]}},{"id":"barrissoffee","ship":"delta7aethersprite","points":46,"upgrades":{"force-power":["battlemeditation"]}},{"id":"oddball","ship":"v19torrentstarfighter","points":41,"upgrades":{"talent":["juke"]}},{"id":"redsquadronbomber","ship":"btlbywing","points":30,"upgrades":{}}],"points":195,"vendor":{},"version":"2.0.0","name":"Random Squad"}
+{
+    "name": "Sky_Paladin",
+    "number": 2,
+    "xws": {
+        "faction": "galacticrepublic",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "goldsquadrontrooper",
+                "points": 25,
+                "ship": "v19torrentstarfighter",
+                "upgrades": {}
+            },
+            {
+                "id": "104thbattalionpilot",
+                "points": 53,
+                "ship": "arc170starfighter",
+                "upgrades": {
+                    "astromech": [
+                        "r2a6"
+                    ],
+                    "crew": [
+                        "seasonednavigator"
+                    ],
+                    "modification": [
+                        "munitionsfailsafe"
+                    ]
+                }
+            },
+            {
+                "id": "barrissoffee",
+                "points": 46,
+                "ship": "delta7aethersprite",
+                "upgrades": {
+                    "force-power": [
+                        "battlemeditation"
+                    ]
+                }
+            },
+            {
+                "id": "oddball",
+                "points": 41,
+                "ship": "v19torrentstarfighter",
+                "upgrades": {
+                    "talent": [
+                        "juke"
+                    ]
+                }
+            },
+            {
+                "id": "redsquadronbomber",
+                "points": 30,
+                "ship": "btlbywing",
+                "upgrades": {}
+            }
+        ],
+        "points": 195,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Galactic%20Republic&d=v8ZsZ200Z321XWY341XW59WW241W108Y275X212WWWY316X123WWY361XWWWWW&sn=Random%20Squad&obs="
+}

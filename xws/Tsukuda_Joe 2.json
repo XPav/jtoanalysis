@@ -1,1 +1,52 @@
-{"faction":"scumandvillainy","pilots":[{"id":"sabinewren-lancerclasspursuitcraft","ship":"lancerclasspursuitcraft","points":63,"upgrades":{"crew":["zuckuss"]}},{"id":"gandfindsman","ship":"g1astarfighter","points":41,"upgrades":{}},{"id":"torkilmux","ship":"hwk290lightfreighter","points":38,"upgrades":{}},{"id":"gandfindsman","ship":"g1astarfighter","points":44,"upgrades":{"sensor":["passivesensors"]}},{"id":"autopilotdrone","ship":"escapecraft","points":12,"upgrades":{}}],"points":198,"vendor":{},"version":"2.0.0","name":"Random Squad"}
+{
+    "name": "Tsukuda_Joe",
+    "number": 2,
+    "xws": {
+        "faction": "scumandvillainy",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "sabinewren-lancerclasspursuitcraft",
+                "points": 63,
+                "ship": "lancerclasspursuitcraft",
+                "upgrades": {
+                    "crew": [
+                        "zuckuss"
+                    ]
+                }
+            },
+            {
+                "id": "gandfindsman",
+                "points": 41,
+                "ship": "g1astarfighter",
+                "upgrades": {}
+            },
+            {
+                "id": "torkilmux",
+                "points": 38,
+                "ship": "hwk290lightfreighter",
+                "upgrades": {}
+            },
+            {
+                "id": "gandfindsman",
+                "points": 44,
+                "ship": "g1astarfighter",
+                "upgrades": {
+                    "sensor": [
+                        "passivesensors"
+                    ]
+                }
+            },
+            {
+                "id": "autopilotdrone",
+                "points": 12,
+                "ship": "escapecraft",
+                "upgrades": {}
+            }
+        ],
+        "points": 198,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Scum%20and%20Villainy&d=v8ZsZ200Z127XW66WWWWY111XWWWWY114XWWWWWY111X240WWWWY96X&sn=Random%20Squad&obs="
+}

@@ -1,1 +1,63 @@
-{"faction":"rebelalliance","pilots":[{"id":"bluesquadronescort","ship":"t65xwing","points":48,"upgrades":{"torpedo":["iontorpedoes"],"astromech":["chopper"],"configuration":["servomotorsfoils"]}},{"id":"bluesquadronescort","ship":"t65xwing","points":45,"upgrades":{"modification":["hullupgrade"],"configuration":["servomotorsfoils"]}},{"id":"leiaorgana","ship":"modifiedyt1300lightfreighter","points":104,"upgrades":{"force-power":["foresight"],"missile":["concussionmissiles"],"crew":["perceptivecopilot"],"modification":["staticdischargevanes","munitionsfailsafe"]}}],"points":197,"vendor":{},"version":"2.0.0","name":"Random Squad"}
+{
+    "name": "BittyBumbo",
+    "number": 2,
+    "xws": {
+        "faction": "rebelalliance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "bluesquadronescort",
+                "points": 48,
+                "ship": "t65xwing",
+                "upgrades": {
+                    "astromech": [
+                        "chopper"
+                    ],
+                    "configuration": [
+                        "servomotorsfoils"
+                    ],
+                    "torpedo": [
+                        "iontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "bluesquadronescort",
+                "points": 45,
+                "ship": "t65xwing",
+                "upgrades": {
+                    "configuration": [
+                        "servomotorsfoils"
+                    ],
+                    "modification": [
+                        "hullupgrade"
+                    ]
+                }
+            },
+            {
+                "id": "leiaorgana",
+                "points": 104,
+                "ship": "modifiedyt1300lightfreighter",
+                "upgrades": {
+                    "crew": [
+                        "perceptivecopilot"
+                    ],
+                    "force-power": [
+                        "foresight"
+                    ],
+                    "missile": [
+                        "concussionmissiles"
+                    ],
+                    "modification": [
+                        "staticdischargevanes",
+                        "munitionsfailsafe"
+                    ]
+                }
+            }
+        ],
+        "points": 197,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Rebel%20Alliance&d=v8ZsZ200Z1X135W0WW142Y1XWW164W142Y393X251W99WWW54W109W108W&sn=Random%20Squad&obs="
+}

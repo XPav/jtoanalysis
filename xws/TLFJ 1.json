@@ -1,1 +1,50 @@
-{"faction":"rebelalliance","pilots":[{"id":"captainrex","ship":"tielnfighter","points":30,"upgrades":{}},{"id":"outerrimsmuggler","ship":"modifiedyt1300lightfreighter","points":76,"upgrades":{"missile":["clustermissiles"],"crew":["sabinewren","chopper-crew"]}},{"id":"corranhorn","ship":"ewing","points":72,"upgrades":{"modification":["staticdischargevanes"]}},{"id":"banditsquadronpilot","ship":"z95af4headhunter","points":22,"upgrades":{}}],"points":200,"vendor":{},"version":"2.0.0","name":"Random Squad"}
+{
+    "name": "TLFJ",
+    "number": 1,
+    "xws": {
+        "faction": "rebelalliance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "captainrex",
+                "points": 30,
+                "ship": "tielnfighter",
+                "upgrades": {}
+            },
+            {
+                "id": "outerrimsmuggler",
+                "points": 76,
+                "ship": "modifiedyt1300lightfreighter",
+                "upgrades": {
+                    "crew": [
+                        "sabinewren",
+                        "chopper-crew"
+                    ],
+                    "missile": [
+                        "clustermissiles"
+                    ]
+                }
+            },
+            {
+                "id": "corranhorn",
+                "points": 72,
+                "ship": "ewing",
+                "upgrades": {
+                    "modification": [
+                        "staticdischargevanes"
+                    ]
+                }
+            },
+            {
+                "id": "banditsquadronpilot",
+                "points": 22,
+                "ship": "z95af4headhunter",
+                "upgrades": {}
+            }
+        ],
+        "points": 200,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Rebel%20Alliance&d=v8ZsZ200Z16XY45X98WW57W23WWWY21XWWWW109Y57XW&sn=Random%20Squad&obs="
+}

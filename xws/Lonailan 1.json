@@ -1,1 +1,56 @@
-{"faction":"galacticrepublic","pilots":[{"id":"padmeamidala","ship":"nabooroyaln1starfighter","points":57,"upgrades":{"sensor":["firecontrolsystem"],"astromech":["r5astromech"],"torpedo":["advprotontorpedoes"]}},{"id":"ricolie","ship":"nabooroyaln1starfighter","points":51,"upgrades":{"torpedo":["plasmatorpedoes"]}},{"id":"wolffe","ship":"arc170starfighter","points":53,"upgrades":{"modification":["hullupgrade"]}},{"id":"r2d2","ship":"btlbywing","points":35,"upgrades":{}}],"points":196,"vendor":{},"version":"2.0.0","name":"Random Squad"}
+{
+    "name": "Lonailan",
+    "number": 1,
+    "xws": {
+        "faction": "galacticrepublic",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "padmeamidala",
+                "points": 57,
+                "ship": "nabooroyaln1starfighter",
+                "upgrades": {
+                    "astromech": [
+                        "r5astromech"
+                    ],
+                    "sensor": [
+                        "firecontrolsystem"
+                    ],
+                    "torpedo": [
+                        "advprotontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "ricolie",
+                "points": 51,
+                "ship": "nabooroyaln1starfighter",
+                "upgrades": {
+                    "torpedo": [
+                        "plasmatorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "wolffe",
+                "points": 53,
+                "ship": "arc170starfighter",
+                "upgrades": {
+                    "modification": [
+                        "hullupgrade"
+                    ]
+                }
+            },
+            {
+                "id": "r2d2",
+                "points": 35,
+                "ship": "btlbywing",
+                "upgrades": {}
+            }
+        ],
+        "points": 196,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Galactic%20Republic&d=v8ZsZ200Z332XW113W6W134Y333XWWW234Y342XWWWWW164Y362XWWWWWW&sn=Random%20Squad&obs="
+}

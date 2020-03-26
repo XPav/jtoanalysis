@@ -1,1 +1,69 @@
-{"faction":"galacticempire","pilots":[{"id":"baronoftheempire","ship":"tieadvancedv1","points":36,"upgrades":{"sensor":["collisiondetector"]}},{"id":"lieutenantsai","ship":"lambdaclasst4ashuttle","points":54,"upgrades":{"cannon":["tractorbeam"],"title":["st321"]}},{"id":"majorvynder","ship":"alphaclassstarwing","points":74,"upgrades":{"sensor":["advancedsensors"],"torpedo":["protontorpedoes"],"missile":["ionmissiles"],"configuration":["xg1assaultconfiguration"],"cannon":["ioncannon"]}},{"id":"sienarspecialist","ship":"tieagaggressor","points":31,"upgrades":{"turret":["ioncannonturret"]}}],"points":195,"vendor":{},"version":"2.0.0","name":"Random Squad"}
+{
+    "name": "Niklas God",
+    "number": 2,
+    "xws": {
+        "faction": "galacticempire",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "baronoftheempire",
+                "points": 36,
+                "ship": "tieadvancedv1",
+                "upgrades": {
+                    "sensor": [
+                        "collisiondetector"
+                    ]
+                }
+            },
+            {
+                "id": "lieutenantsai",
+                "points": 54,
+                "ship": "lambdaclasst4ashuttle",
+                "upgrades": {
+                    "cannon": [
+                        "tractorbeam"
+                    ],
+                    "title": [
+                        "st321"
+                    ]
+                }
+            },
+            {
+                "id": "majorvynder",
+                "points": 74,
+                "ship": "alphaclassstarwing",
+                "upgrades": {
+                    "cannon": [
+                        "ioncannon"
+                    ],
+                    "configuration": [
+                        "xg1assaultconfiguration"
+                    ],
+                    "missile": [
+                        "ionmissiles"
+                    ],
+                    "sensor": [
+                        "advancedsensors"
+                    ],
+                    "torpedo": [
+                        "protontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "sienarspecialist",
+                "points": 31,
+                "ship": "tieagaggressor",
+                "upgrades": {
+                    "turret": [
+                        "ioncannonturret"
+                    ]
+                }
+            }
+        ],
+        "points": 195,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Galactic%20Empire&d=v8ZsZ200Z172XW112WY166XW13WWWW162Y161XW111W136W101WW144W11Y190X138WWWW&sn=Random%20Squad&obs="
+}

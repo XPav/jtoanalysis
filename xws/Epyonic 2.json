@@ -1,1 +1,63 @@
-{"faction":"galacticempire","pilots":[{"id":"majorrhymer","ship":"tiesabomber","points":51,"upgrades":{"talent":["trickshot"],"missile":["clustermissiles"],"device":["bombletgenerator"]}},{"id":"turrphennir","ship":"tieininterceptor","points":46,"upgrades":{"modification":["targetingcomputer","munitionsfailsafe"]}},{"id":"vagabond","ship":"tieskstriker","points":35,"upgrades":{}},{"id":"captainjonus","ship":"tiesabomber","points":66,"upgrades":{"torpedo":["protontorpedoes"],"missile":["magpulsewarheads"],"modification":["electronicbaffle"]}}],"points":198,"vendor":{},"version":"2.0.0","name":"Random Squad"}
+{
+    "name": "Epyonic",
+    "number": 2,
+    "xws": {
+        "faction": "galacticempire",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "majorrhymer",
+                "points": 51,
+                "ship": "tiesabomber",
+                "upgrades": {
+                    "device": [
+                        "bombletgenerator"
+                    ],
+                    "missile": [
+                        "clustermissiles"
+                    ],
+                    "talent": [
+                        "trickshot"
+                    ]
+                }
+            },
+            {
+                "id": "turrphennir",
+                "points": 46,
+                "ship": "tieininterceptor",
+                "upgrades": {
+                    "modification": [
+                        "targetingcomputer",
+                        "munitionsfailsafe"
+                    ]
+                }
+            },
+            {
+                "id": "vagabond",
+                "points": 35,
+                "ship": "tieskstriker",
+                "upgrades": {}
+            },
+            {
+                "id": "captainjonus",
+                "points": 66,
+                "ship": "tiesabomber",
+                "upgrades": {
+                    "missile": [
+                        "magpulsewarheads"
+                    ],
+                    "modification": [
+                        "electronicbaffle"
+                    ],
+                    "torpedo": [
+                        "protontorpedoes"
+                    ]
+                }
+            }
+        ],
+        "points": 198,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Galactic%20Empire&d=v8ZsZ200Z204X133WW98WWW67WWY180XW249W108Y395XWWWY203XW136WW311WWWW106&sn=Random%20Squad&obs="
+}

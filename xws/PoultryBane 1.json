@@ -1,1 +1,78 @@
-{"faction":"galacticempire","pilots":[{"id":"rhosquadronpilot","ship":"alphaclassstarwing","points":64,"upgrades":{"talent":["swarmtactics"],"sensor":["firecontrolsystem"],"torpedo":["plasmatorpedoes"],"missile":["concussionmissiles"],"modification":["afterburners"],"configuration":["xg1assaultconfiguration"],"cannon":["autoblasters"]}},{"id":"nightbeast","ship":"tielnfighter","points":31,"upgrades":{"modification":["afterburners"]}},{"id":"planetarysentinel","ship":"tieskstriker","points":56,"upgrades":{"gunner":["fifthbrother"],"device":["clustermines"],"modification":["stealthdevice"]}},{"id":"vedfoslo","ship":"tieadvancedx1","points":47,"upgrades":{"sensor":["passivesensors"]}}],"points":198,"vendor":{},"version":"2.0.0","name":"Random Squad"}
+{
+    "name": "PoultryBane",
+    "number": 1,
+    "xws": {
+        "faction": "galacticempire",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "rhosquadronpilot",
+                "points": 64,
+                "ship": "alphaclassstarwing",
+                "upgrades": {
+                    "cannon": [
+                        "autoblasters"
+                    ],
+                    "configuration": [
+                        "xg1assaultconfiguration"
+                    ],
+                    "missile": [
+                        "concussionmissiles"
+                    ],
+                    "modification": [
+                        "afterburners"
+                    ],
+                    "sensor": [
+                        "firecontrolsystem"
+                    ],
+                    "talent": [
+                        "swarmtactics"
+                    ],
+                    "torpedo": [
+                        "plasmatorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "nightbeast",
+                "points": 31,
+                "ship": "tielnfighter",
+                "upgrades": {
+                    "modification": [
+                        "afterburners"
+                    ]
+                }
+            },
+            {
+                "id": "planetarysentinel",
+                "points": 56,
+                "ship": "tieskstriker",
+                "upgrades": {
+                    "device": [
+                        "clustermines"
+                    ],
+                    "gunner": [
+                        "fifthbrother"
+                    ],
+                    "modification": [
+                        "stealthdevice"
+                    ]
+                }
+            },
+            {
+                "id": "vedfoslo",
+                "points": 47,
+                "ship": "tieadvancedx1",
+                "upgrades": {
+                    "sensor": [
+                        "passivesensors"
+                    ]
+                }
+            }
+        ],
+        "points": 198,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Galactic%20Empire&d=v8ZsZ200Z163X132W113W234W99W105W144W232Y226X105Y213X82W316W166Y175XW240WW&sn=Random%20Squad&obs="
+}

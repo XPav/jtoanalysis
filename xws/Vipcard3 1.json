@@ -1,1 +1,65 @@
-{"faction":"rebelalliance","pilots":[{"id":"braylenstramm","ship":"asf01bwing","points":62,"upgrades":{"talent":["marksmanship"],"sensor":["trajectorysimulator"],"cannon":["jammingbeam"],"modification":["delayedfuses"],"configuration":["stabilizedsfoils"]}},{"id":"norrawexley","ship":"arc170starfighter","points":68,"upgrades":{"talent":["squadleader"],"modification":["munitionsfailsafe"]}},{"id":"janors","ship":"hwk290lightfreighter","points":43,"upgrades":{"crew":["jynerso"]}},{"id":"banditsquadronpilot","ship":"z95af4headhunter","points":22,"upgrades":{}}],"points":195,"vendor":{},"version":"2.0.0","name":"Random Squad"}
+{
+    "name": "Vipcard3",
+    "number": 1,
+    "xws": {
+        "faction": "rebelalliance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "braylenstramm",
+                "points": 62,
+                "ship": "asf01bwing",
+                "upgrades": {
+                    "cannon": [
+                        "jammingbeam"
+                    ],
+                    "configuration": [
+                        "stabilizedsfoils"
+                    ],
+                    "modification": [
+                        "delayedfuses"
+                    ],
+                    "sensor": [
+                        "trajectorysimulator"
+                    ],
+                    "talent": [
+                        "marksmanship"
+                    ]
+                }
+            },
+            {
+                "id": "norrawexley",
+                "points": 68,
+                "ship": "arc170starfighter",
+                "upgrades": {
+                    "modification": [
+                        "munitionsfailsafe"
+                    ],
+                    "talent": [
+                        "squadleader"
+                    ]
+                }
+            },
+            {
+                "id": "janors",
+                "points": 43,
+                "ship": "hwk290lightfreighter",
+                "upgrades": {
+                    "crew": [
+                        "jynerso"
+                    ]
+                }
+            },
+            {
+                "id": "banditsquadronpilot",
+                "points": 22,
+                "ship": "z95af4headhunter",
+                "upgrades": {}
+            }
+        ],
+        "points": 195,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Rebel%20Alliance&d=v8ZsZ200Z73X125W114W12WWW236W313Y77X131WWWWW108Y46XWW40WWWY57XW&sn=Random%20Squad&obs="
+}

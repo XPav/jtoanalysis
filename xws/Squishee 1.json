@@ -1,1 +1,60 @@
-{"faction":"rebelalliance","pilots":[{"id":"kylekatarn","ship":"hwk290lightfreighter","points":46,"upgrades":{"modification":["stealthdevice","shieldupgrade"]}},{"id":"esegetuketu","ship":"btls8kwing","points":63,"upgrades":{"torpedo":["protontorpedoes"],"missile":["diamondboronmissiles"]}},{"id":"greensquadronpilot","ship":"rz1awing","points":32,"upgrades":{}},{"id":"ibtisam","ship":"arc170starfighter","points":55,"upgrades":{"talent":["composure"],"torpedo":["iontorpedoes"],"gunner":["skilledbombardier"]}}],"points":196,"vendor":{},"version":"2.0.0","name":"Random Squad"}
+{
+    "name": "Squishee",
+    "number": 1,
+    "xws": {
+        "faction": "rebelalliance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "kylekatarn",
+                "points": 46,
+                "ship": "hwk290lightfreighter",
+                "upgrades": {
+                    "modification": [
+                        "stealthdevice",
+                        "shieldupgrade"
+                    ]
+                }
+            },
+            {
+                "id": "esegetuketu",
+                "points": 63,
+                "ship": "btls8kwing",
+                "upgrades": {
+                    "missile": [
+                        "diamondboronmissiles"
+                    ],
+                    "torpedo": [
+                        "protontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "greensquadronpilot",
+                "points": 32,
+                "ship": "rz1awing",
+                "upgrades": {}
+            },
+            {
+                "id": "ibtisam",
+                "points": 55,
+                "ship": "arc170starfighter",
+                "upgrades": {
+                    "gunner": [
+                        "skilledbombardier"
+                    ],
+                    "talent": [
+                        "composure"
+                    ],
+                    "torpedo": [
+                        "iontorpedoes"
+                    ]
+                }
+            }
+        ],
+        "points": 196,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Rebel%20Alliance&d=v8ZsZ200Z48XWWW166W165WY18X136WW238WWWWWY52XWWY80X115W135WW88WW&sn=Random%20Squad&obs="
+}

@@ -1,1 +1,74 @@
-{"faction":"resistance","pilots":[{"id":"hansolo-scavengedyt1300","ship":"scavengedyt1300","points":76,"upgrades":{"talent":["trickshot"],"crew":["freelanceslicer"],"gunner":["skilledbombardier"],"title":["reysmillenniumfalcon"]}},{"id":"covanell","ship":"resistancetransport","points":60,"upgrades":{"talent":["elusive"],"tech":["advancedoptics"],"cannon":["heavylasercannon"],"crew":["ga97"],"astromech":["r2ha"]}},{"id":"vimoradi","ship":"resistancetransportpod","points":33,"upgrades":{"crew":["kaydelconnix"],"modification":["delayedfuses"]}},{"id":"rosetico","ship":"resistancetransportpod","points":26,"upgrades":{}}],"points":195,"vendor":{},"version":"2.0.0","name":"Random Squad"}
+{
+    "name": "Epyonic",
+    "number": 1,
+    "xws": {
+        "faction": "resistance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "hansolo-scavengedyt1300",
+                "points": 76,
+                "ship": "scavengedyt1300",
+                "upgrades": {
+                    "crew": [
+                        "freelanceslicer"
+                    ],
+                    "gunner": [
+                        "skilledbombardier"
+                    ],
+                    "talent": [
+                        "trickshot"
+                    ],
+                    "title": [
+                        "reysmillenniumfalcon"
+                    ]
+                }
+            },
+            {
+                "id": "covanell",
+                "points": 60,
+                "ship": "resistancetransport",
+                "upgrades": {
+                    "astromech": [
+                        "r2ha"
+                    ],
+                    "cannon": [
+                        "heavylasercannon"
+                    ],
+                    "crew": [
+                        "ga97"
+                    ],
+                    "talent": [
+                        "elusive"
+                    ],
+                    "tech": [
+                        "advancedoptics"
+                    ]
+                }
+            },
+            {
+                "id": "vimoradi",
+                "points": 33,
+                "ship": "resistancetransportpod",
+                "upgrades": {
+                    "crew": [
+                        "kaydelconnix"
+                    ],
+                    "modification": [
+                        "delayedfuses"
+                    ]
+                }
+            },
+            {
+                "id": "rosetico",
+                "points": 26,
+                "ship": "resistancetransportpod",
+                "upgrades": {}
+            }
+        ],
+        "points": 195,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Resistance&d=v8ZsZ200Z245X133WWW30W88WWW193Y351X119W186W10WW230WW190WY348XW231W236Y345XWWW&sn=Random%20Squad&obs="
+}

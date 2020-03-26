@@ -1,1 +1,83 @@
-{"faction":"separatistalliance","pilots":[{"id":"separatistdrone","ship":"vultureclassdroidfighter","points":31,"upgrades":{"missile":["discordmissiles"],"configuration":["grapplingstruts"],"modification":["hullupgrade"]}},{"id":"tradefederationdrone","ship":"vultureclassdroidfighter","points":30,"upgrades":{"missile":["discordmissiles"],"configuration":["grapplingstruts"],"modification":["stealthdevice"]}},{"id":"darkcourier","ship":"sithinfiltrator","points":94,"upgrades":{"cannon":["heavylasercannon"],"torpedo":["plasmatorpedoes"],"crew":["gnkgonkdroid","novicetechnician"],"device":["connernets"],"title":["scimitar"],"tacticalrelay":["tv94"]}},{"id":"petranakiarenaace","ship":"nantexclassstarfighter","points":44,"upgrades":{"talent":["composure","graviticdeflection"]}}],"points":199,"vendor":{},"version":"2.0.0","name":"Random Squad"}
+{
+    "name": "MegaSilver",
+    "number": 2,
+    "xws": {
+        "faction": "separatistalliance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "separatistdrone",
+                "points": 31,
+                "ship": "vultureclassdroidfighter",
+                "upgrades": {
+                    "configuration": [
+                        "grapplingstruts"
+                    ],
+                    "missile": [
+                        "discordmissiles"
+                    ],
+                    "modification": [
+                        "hullupgrade"
+                    ]
+                }
+            },
+            {
+                "id": "tradefederationdrone",
+                "points": 30,
+                "ship": "vultureclassdroidfighter",
+                "upgrades": {
+                    "configuration": [
+                        "grapplingstruts"
+                    ],
+                    "missile": [
+                        "discordmissiles"
+                    ],
+                    "modification": [
+                        "stealthdevice"
+                    ]
+                }
+            },
+            {
+                "id": "darkcourier",
+                "points": 94,
+                "ship": "sithinfiltrator",
+                "upgrades": {
+                    "cannon": [
+                        "heavylasercannon"
+                    ],
+                    "crew": [
+                        "gnkgonkdroid",
+                        "novicetechnician"
+                    ],
+                    "device": [
+                        "connernets"
+                    ],
+                    "tacticalrelay": [
+                        "tv94"
+                    ],
+                    "title": [
+                        "scimitar"
+                    ],
+                    "torpedo": [
+                        "plasmatorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "petranakiarenaace",
+                "points": 44,
+                "ship": "nantexclassstarfighter",
+                "upgrades": {
+                    "talent": [
+                        "composure",
+                        "graviticdeflection"
+                    ]
+                }
+            }
+        ],
+        "points": 199,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Separatist%20Alliance&d=v8ZsZ200Z343X224W208W164Y279X224W208W166Y336X10W234W32W53W68WW216W223Y354X115W255&sn=Random%20Squad&obs="
+}

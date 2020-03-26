@@ -1,1 +1,46 @@
-{"faction":"rebelalliance","pilots":[{"id":"herasyndulla-vcx100lightfreighter","ship":"vcx100lightfreighter","points":105,"upgrades":{"crew":["niennunb"],"modification":["tacticalscrambler"],"gunner":["lukeskywalker"],"title":["ghost"]}},{"id":"wildspacefringer","ship":"yt2400lightfreighter","points":95,"upgrades":{"crew":["novicetechnician"],"title":["outrider"]}}],"points":200,"vendor":{},"version":"2.0.0","name":"Random Squad"}
+{
+    "name": "Furious George ",
+    "number": 2,
+    "xws": {
+        "faction": "rebelalliance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "herasyndulla-vcx100lightfreighter",
+                "points": 105,
+                "ship": "vcx100lightfreighter",
+                "upgrades": {
+                    "crew": [
+                        "niennunb"
+                    ],
+                    "gunner": [
+                        "lukeskywalker"
+                    ],
+                    "modification": [
+                        "tacticalscrambler"
+                    ],
+                    "title": [
+                        "ghost"
+                    ]
+                }
+            },
+            {
+                "id": "wildspacefringer",
+                "points": 95,
+                "ship": "yt2400lightfreighter",
+                "upgrades": {
+                    "crew": [
+                        "novicetechnician"
+                    ],
+                    "title": [
+                        "outrider"
+                    ]
+                }
+            }
+        ],
+        "points": 200,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Rebel%20Alliance&d=v8ZsZ200Z61XWWWWW52W110W87W148Y41XWW53WW157W&sn=Random%20Squad&obs="
+}

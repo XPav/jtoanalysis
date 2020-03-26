@@ -1,1 +1,84 @@
-{"faction":"scumandvillainy","pilots":[{"id":"sarcoplank","ship":"quadrijettransferspacetug","points":43,"upgrades":{"crew":["landocalrissian-crew"],"illicit":["contrabandcybernetics"],"modification":["delayedfuses"]}},{"id":"captainnym","ship":"scurrgh6bomber","points":69,"upgrades":{"talent":["debrisgambit"],"turret":["dorsalturret"],"gunner":["greedo"],"device":["protonbombs"],"modification":["tacticalscrambler"],"title":["havoc"],"astromech":["r5p8"]}},{"id":"blacksunsoldier","ship":"z95af4headhunter","points":25,"upgrades":{"talent":["marksmanship"]}},{"id":"ahhav","ship":"modifiedtielnfighter","points":31,"upgrades":{"talent":["composure"]}},{"id":"hiredgun","ship":"btla4ywing","points":32,"upgrades":{}}],"points":200,"vendor":{},"version":"2.0.0","name":"Random Squad"}
+{
+    "name": "Roninaurne",
+    "number": 1,
+    "xws": {
+        "faction": "scumandvillainy",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "sarcoplank",
+                "points": 43,
+                "ship": "quadrijettransferspacetug",
+                "upgrades": {
+                    "crew": [
+                        "landocalrissian-crew"
+                    ],
+                    "illicit": [
+                        "contrabandcybernetics"
+                    ],
+                    "modification": [
+                        "delayedfuses"
+                    ]
+                }
+            },
+            {
+                "id": "captainnym",
+                "points": 69,
+                "ship": "scurrgh6bomber",
+                "upgrades": {
+                    "astromech": [
+                        "r5p8"
+                    ],
+                    "device": [
+                        "protonbombs"
+                    ],
+                    "gunner": [
+                        "greedo"
+                    ],
+                    "modification": [
+                        "tacticalscrambler"
+                    ],
+                    "talent": [
+                        "debrisgambit"
+                    ],
+                    "title": [
+                        "havoc"
+                    ],
+                    "turret": [
+                        "dorsalturret"
+                    ]
+                }
+            },
+            {
+                "id": "blacksunsoldier",
+                "points": 25,
+                "ship": "z95af4headhunter",
+                "upgrades": {
+                    "talent": [
+                        "marksmanship"
+                    ]
+                }
+            },
+            {
+                "id": "ahhav",
+                "points": 31,
+                "ship": "modifiedtielnfighter",
+                "upgrades": {
+                    "talent": [
+                        "composure"
+                    ]
+                }
+            },
+            {
+                "id": "hiredgun",
+                "points": 32,
+                "ship": "btla4ywing",
+                "upgrades": {}
+            }
+        ],
+        "points": 200,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Scum%20and%20Villainy&d=v8ZsZ200Z141XW45WW92W236Y144X118W137WW83WW69W110W149WW8Y158X125WWWY249X115WY87XWWWWWWW&sn=Random%20Squad&obs="
+}

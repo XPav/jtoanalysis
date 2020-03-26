@@ -1,1 +1,56 @@
-{"faction":"firstorder","pilots":[{"id":"firstorderprovocateur","ship":"tiebainterceptor","points":61,"upgrades":{"talent":["trickshot"],"tech":["targetingsynchronizer"],"missile":["concussionmissiles"]}},{"id":"pettyofficerthanisson","ship":"upsilonclasscommandshuttle","points":81,"upgrades":{"tech":["hyperspacetrackingdata"],"cannon":["ioncannon"],"sensor":["trajectorysimulator"]}},{"id":"ember","ship":"tiebainterceptor","points":57,"upgrades":{"tech":["patternanalyzer"]}}],"points":199,"vendor":{},"version":"2.0.0","name":"Random Squad"}
+{
+    "name": "Lee 7 Suns",
+    "number": 1,
+    "xws": {
+        "faction": "firstorder",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "firstorderprovocateur",
+                "points": 61,
+                "ship": "tiebainterceptor",
+                "upgrades": {
+                    "missile": [
+                        "concussionmissiles"
+                    ],
+                    "talent": [
+                        "trickshot"
+                    ],
+                    "tech": [
+                        "targetingsynchronizer"
+                    ]
+                }
+            },
+            {
+                "id": "pettyofficerthanisson",
+                "points": 81,
+                "ship": "upsilonclasscommandshuttle",
+                "upgrades": {
+                    "cannon": [
+                        "ioncannon"
+                    ],
+                    "sensor": [
+                        "trajectorysimulator"
+                    ],
+                    "tech": [
+                        "hyperspacetrackingdata"
+                    ]
+                }
+            },
+            {
+                "id": "ember",
+                "points": 57,
+                "ship": "tiebainterceptor",
+                "upgrades": {
+                    "tech": [
+                        "patternanalyzer"
+                    ]
+                }
+            }
+        ],
+        "points": 199,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=First%20Order&d=v8ZsZ200Z384X133W177W99WY281X185WWWWW11W114WY383XW206WW&sn=Random%20Squad&obs="
+}

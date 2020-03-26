@@ -1,1 +1,61 @@
-{"faction":"scumandvillainy","pilots":[{"id":"dacebonearm","ship":"hwk290lightfreighter","points":45,"upgrades":{"talent":["lonewolf"],"modification":["hullupgrade","electronicbaffle"]}},{"id":"toranikulda","ship":"m12lkimogilafighter","points":55,"upgrades":{"missile":["concussionmissiles"],"modification":["delayedfuses"]}},{"id":"palobgodalhi","ship":"hwk290lightfreighter","points":45,"upgrades":{"modification":["hullupgrade"]}},{"id":"manaroo","ship":"jumpmaster5000","points":54,"upgrades":{"torpedo":["plasmatorpedoes"]}}],"points":199,"vendor":{},"version":"2.0.0","name":"Random Squad"}
+{
+    "name": "Marcel GS",
+    "number": 2,
+    "xws": {
+        "faction": "scumandvillainy",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "dacebonearm",
+                "points": 45,
+                "ship": "hwk290lightfreighter",
+                "upgrades": {
+                    "modification": [
+                        "hullupgrade",
+                        "electronicbaffle"
+                    ],
+                    "talent": [
+                        "lonewolf"
+                    ]
+                }
+            },
+            {
+                "id": "toranikulda",
+                "points": 55,
+                "ship": "m12lkimogilafighter",
+                "upgrades": {
+                    "missile": [
+                        "concussionmissiles"
+                    ],
+                    "modification": [
+                        "delayedfuses"
+                    ]
+                }
+            },
+            {
+                "id": "palobgodalhi",
+                "points": 45,
+                "ship": "hwk290lightfreighter",
+                "upgrades": {
+                    "modification": [
+                        "hullupgrade"
+                    ]
+                }
+            },
+            {
+                "id": "manaroo",
+                "points": 54,
+                "ship": "jumpmaster5000",
+                "upgrades": {
+                    "torpedo": [
+                        "plasmatorpedoes"
+                    ]
+                }
+            }
+        ],
+        "points": 199,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Scum%20and%20Villainy&d=v8ZsZ200Z113X124WWWW164W106WY129XWW99WWW236Y112XWWWWW164WY117XW234WWWWWW&sn=Random%20Squad&obs="
+}

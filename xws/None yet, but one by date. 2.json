@@ -1,1 +1,58 @@
-{"faction":"galacticempire","pilots":[{"id":"majorvynder","ship":"alphaclassstarwing","points":60,"upgrades":{"torpedo":["advprotontorpedoes"],"missile":["protonrockets"],"modification":["staticdischargevanes"]}},{"id":"blacksquadronscout","ship":"tieskstriker","points":34,"upgrades":{}},{"id":"alphasquadronpilot","ship":"tieininterceptor","points":31,"upgrades":{}},{"id":"alphasquadronpilot","ship":"tieininterceptor","points":37,"upgrades":{"modification":["afterburners"]}},{"id":"tempestsquadronpilot","ship":"tieadvancedx1","points":36,"upgrades":{}}],"points":198,"vendor":{},"version":"2.0.0","name":"Random Squad"}
+{
+    "name": "None yet, but one by date.",
+    "number": 2,
+    "xws": {
+        "faction": "galacticempire",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "majorvynder",
+                "points": 60,
+                "ship": "alphaclassstarwing",
+                "upgrades": {
+                    "missile": [
+                        "protonrockets"
+                    ],
+                    "modification": [
+                        "staticdischargevanes"
+                    ],
+                    "torpedo": [
+                        "advprotontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "blacksquadronscout",
+                "points": 34,
+                "ship": "tieskstriker",
+                "upgrades": {}
+            },
+            {
+                "id": "alphasquadronpilot",
+                "points": 31,
+                "ship": "tieininterceptor",
+                "upgrades": {}
+            },
+            {
+                "id": "alphasquadronpilot",
+                "points": 37,
+                "ship": "tieininterceptor",
+                "upgrades": {
+                    "modification": [
+                        "afterburners"
+                    ]
+                }
+            },
+            {
+                "id": "tempestsquadronpilot",
+                "points": 36,
+                "ship": "tieadvancedx1",
+                "upgrades": {}
+            }
+        ],
+        "points": 198,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Galactic%20Empire&d=v8ZsZ200Z161XWW134W102W109WY212XWWWY182XWY182XW105Y178XWW&sn=Random%20Squad&obs="
+}

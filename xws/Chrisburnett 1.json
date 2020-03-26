@@ -1,1 +1,62 @@
-{"faction":"rebelalliance","pilots":[{"id":"rebelscout","ship":"hwk290lightfreighter","points":66,"upgrades":{"device":["protonbombs"],"crew":["leiaorgana"],"modification":["staticdischargevanes"],"title":["moldycrow"]}},{"id":"lieutenantblount","ship":"z95af4headhunter","points":37,"upgrades":{"talent":["crackshot"],"missile":["concussionmissiles"]}},{"id":"arvelcrynyd","ship":"rz1awing","points":42,"upgrades":{"talent":["squadleader"]}},{"id":"norrawexley","ship":"arc170starfighter","points":55,"upgrades":{}}],"points":200,"vendor":{},"version":"2.0.0","name":"Random Squad"}
+{
+    "name": "Chrisburnett",
+    "number": 1,
+    "xws": {
+        "faction": "rebelalliance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "rebelscout",
+                "points": 66,
+                "ship": "hwk290lightfreighter",
+                "upgrades": {
+                    "crew": [
+                        "leiaorgana"
+                    ],
+                    "device": [
+                        "protonbombs"
+                    ],
+                    "modification": [
+                        "staticdischargevanes"
+                    ],
+                    "title": [
+                        "moldycrow"
+                    ]
+                }
+            },
+            {
+                "id": "lieutenantblount",
+                "points": 37,
+                "ship": "z95af4headhunter",
+                "upgrades": {
+                    "missile": [
+                        "concussionmissiles"
+                    ],
+                    "talent": [
+                        "crackshot"
+                    ]
+                }
+            },
+            {
+                "id": "arvelcrynyd",
+                "points": 42,
+                "ship": "rz1awing",
+                "upgrades": {
+                    "talent": [
+                        "squadleader"
+                    ]
+                }
+            },
+            {
+                "id": "norrawexley",
+                "points": 55,
+                "ship": "arc170starfighter",
+                "upgrades": {}
+            }
+        ],
+        "points": 200,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Rebel%20Alliance&d=v8ZsZ200Z49X69W46W109WW156Y55X116W99WY51X131WWY77XWWWWW&sn=Random%20Squad&obs="
+}

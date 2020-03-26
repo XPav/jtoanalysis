@@ -1,1 +1,53 @@
-{"faction":"rebelalliance","pilots":[{"id":"airencracken","ship":"z95af4headhunter","points":52,"upgrades":{"talent":["swarmtactics"],"missile":["concussionmissiles"],"modification":["stealthdevice"]}},{"id":"greensquadronpilot","ship":"rz1awing","points":32,"upgrades":{}},{"id":"kashyyykdefender","ship":"auzituckgunship","points":59,"upgrades":{"crew":["leiaorgana","k2so"]}},{"id":"lowhhrick","ship":"auzituckgunship","points":52,"upgrades":{}}],"points":195,"vendor":{},"version":"2.0.0","name":"Random Squad"}
+{
+    "name": "pekka",
+    "number": 1,
+    "xws": {
+        "faction": "rebelalliance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "airencracken",
+                "points": 52,
+                "ship": "z95af4headhunter",
+                "upgrades": {
+                    "missile": [
+                        "concussionmissiles"
+                    ],
+                    "modification": [
+                        "stealthdevice"
+                    ],
+                    "talent": [
+                        "swarmtactics"
+                    ]
+                }
+            },
+            {
+                "id": "greensquadronpilot",
+                "points": 32,
+                "ship": "rz1awing",
+                "upgrades": {}
+            },
+            {
+                "id": "kashyyykdefender",
+                "points": 59,
+                "ship": "auzituckgunship",
+                "upgrades": {
+                    "crew": [
+                        "leiaorgana",
+                        "k2so"
+                    ]
+                }
+            },
+            {
+                "id": "lowhhrick",
+                "points": 52,
+                "ship": "auzituckgunship",
+                "upgrades": {}
+            }
+        ],
+        "points": 195,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Rebel%20Alliance&d=v8ZsZ200Z54X132W99W166Y52XWWY60X46W314WY59XWWW&sn=Random%20Squad&obs="
+}

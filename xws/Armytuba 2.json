@@ -1,1 +1,68 @@
-{"faction":"resistance","pilots":[{"id":"covanell","ship":"resistancetransport","points":53,"upgrades":{"talent":["composure"],"crew":["perceptivecopilot"],"modification":["staticdischargevanes"]}},{"id":"niennunb","ship":"t70xwing","points":64,"upgrades":{"talent":["debrisgambit"],"configuration":["integratedsfoils"],"title":["blackone"],"cannon":["autoblasters"]}},{"id":"blacksquadronace-t70xwing","ship":"t70xwing","points":53,"upgrades":{"astromech":["bb8"],"configuration":["integratedsfoils"]}},{"id":"rosetico","ship":"resistancetransportpod","points":26,"upgrades":{}}],"points":196,"vendor":{},"version":"2.0.0","name":"Random Squad"}
+{
+    "name": "Armytuba",
+    "number": 2,
+    "xws": {
+        "faction": "resistance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "covanell",
+                "points": 53,
+                "ship": "resistancetransport",
+                "upgrades": {
+                    "crew": [
+                        "perceptivecopilot"
+                    ],
+                    "modification": [
+                        "staticdischargevanes"
+                    ],
+                    "talent": [
+                        "composure"
+                    ]
+                }
+            },
+            {
+                "id": "niennunb",
+                "points": 64,
+                "ship": "t70xwing",
+                "upgrades": {
+                    "cannon": [
+                        "autoblasters"
+                    ],
+                    "configuration": [
+                        "integratedsfoils"
+                    ],
+                    "talent": [
+                        "debrisgambit"
+                    ],
+                    "title": [
+                        "blackone"
+                    ]
+                }
+            },
+            {
+                "id": "blacksquadronace-t70xwing",
+                "points": 53,
+                "ship": "t70xwing",
+                "upgrades": {
+                    "astromech": [
+                        "bb8"
+                    ],
+                    "configuration": [
+                        "integratedsfoils"
+                    ]
+                }
+            },
+            {
+                "id": "rosetico",
+                "points": 26,
+                "ship": "resistancetransportpod",
+                "upgrades": {}
+            }
+        ],
+        "points": 196,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Resistance&d=v8ZsZ200Z351X115WWWWW54WW109Y298X118WWW175WW171W232Y256XW195WW175WWWY345XWWW&sn=Random%20Squad&obs="
+}

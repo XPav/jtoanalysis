@@ -1,1 +1,49 @@
-{"faction":"resistance","pilots":[{"id":"bluesquadronrecruit","ship":"rz2awing","points":41,"upgrades":{"talent":["lonewolf"],"missile":["ionmissiles"]}},{"id":"chewbacca-scavengedyt1300","ship":"scavengedyt1300","points":63,"upgrades":{}},{"id":"rosetico","ship":"resistancetransportpod","points":31,"upgrades":{"tech":["patternanalyzer"]}},{"id":"resistancesympathizer","ship":"scavengedyt1300","points":60,"upgrades":{}}],"points":195,"vendor":{},"version":"2.0.0","name":"Random Squad"}
+{
+    "name": "funwok",
+    "number": 1,
+    "xws": {
+        "faction": "resistance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "bluesquadronrecruit",
+                "points": 41,
+                "ship": "rz2awing",
+                "upgrades": {
+                    "missile": [
+                        "ionmissiles"
+                    ],
+                    "talent": [
+                        "lonewolf"
+                    ]
+                }
+            },
+            {
+                "id": "chewbacca-scavengedyt1300",
+                "points": 63,
+                "ship": "scavengedyt1300",
+                "upgrades": {}
+            },
+            {
+                "id": "rosetico",
+                "points": 31,
+                "ship": "resistancetransportpod",
+                "upgrades": {
+                    "tech": [
+                        "patternanalyzer"
+                    ]
+                }
+            },
+            {
+                "id": "resistancesympathizer",
+                "points": 60,
+                "ship": "scavengedyt1300",
+                "upgrades": {}
+            }
+        ],
+        "points": 195,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Resistance&d=v8ZsZ200Z301X124W101WY246XWWWWWWWY345XW206WWY295XWWWWWW&sn=Random%20Squad&obs="
+}

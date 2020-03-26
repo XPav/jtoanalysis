@@ -1,1 +1,62 @@
-{"faction":"firstorder","pilots":[{"id":"avenger","ship":"tievnsilencer","points":71,"upgrades":{"talent":["fanatical"],"torpedo":["protontorpedoes"]}},{"id":"firstorderprovocateur","ship":"tiebainterceptor","points":59,"upgrades":{"talent":["predator"],"missile":["clustermissiles"],"modification":["hullupgrade"]}},{"id":"commandermalarus","ship":"tiefofighter","points":42,"upgrades":{"talent":["intimidation"],"modification":["munitionsfailsafe"]}},{"id":"lieutenantrivas","ship":"tiefofighter","points":27,"upgrades":{}}],"points":199,"vendor":{},"version":"2.0.0","name":"Random Squad"}
+{
+    "name": "WookieShepherd",
+    "number": 1,
+    "xws": {
+        "faction": "firstorder",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "avenger",
+                "points": 71,
+                "ship": "tievnsilencer",
+                "upgrades": {
+                    "talent": [
+                        "fanatical"
+                    ],
+                    "torpedo": [
+                        "protontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "firstorderprovocateur",
+                "points": 59,
+                "ship": "tiebainterceptor",
+                "upgrades": {
+                    "missile": [
+                        "clustermissiles"
+                    ],
+                    "modification": [
+                        "hullupgrade"
+                    ],
+                    "talent": [
+                        "predator"
+                    ]
+                }
+            },
+            {
+                "id": "commandermalarus",
+                "points": 42,
+                "ship": "tiefofighter",
+                "upgrades": {
+                    "modification": [
+                        "munitionsfailsafe"
+                    ],
+                    "talent": [
+                        "intimidation"
+                    ]
+                }
+            },
+            {
+                "id": "lieutenantrivas",
+                "points": 27,
+                "ship": "tiefofighter",
+                "upgrades": {}
+            }
+        ],
+        "points": 199,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=First%20Order&d=v8ZsZ200Z283X181WW136WY384X127WW98W164Y266X122WW108Y265XW&sn=Random%20Squad&obs="
+}

@@ -1,1 +1,48 @@
-{"faction":"rebelalliance","pilots":[{"id":"evaanverlaine","ship":"btla4ywing","points":76,"upgrades":{"turret":["dorsalturret"],"torpedo":["advprotontorpedoes"],"astromech":["r3astromech"],"device":["seismiccharges"],"gunner":["lukeskywalker"]}},{"id":"lothalrebel","ship":"vcx100lightfreighter","points":67,"upgrades":{}},{"id":"lowhhrick","ship":"auzituckgunship","points":52,"upgrades":{}}],"points":195,"vendor":{},"version":"2.0.0","name":"Random Squad"}
+{
+    "name": "ptown",
+    "number": 1,
+    "xws": {
+        "faction": "rebelalliance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "evaanverlaine",
+                "points": 76,
+                "ship": "btla4ywing",
+                "upgrades": {
+                    "astromech": [
+                        "r3astromech"
+                    ],
+                    "device": [
+                        "seismiccharges"
+                    ],
+                    "gunner": [
+                        "lukeskywalker"
+                    ],
+                    "torpedo": [
+                        "advprotontorpedoes"
+                    ],
+                    "turret": [
+                        "dorsalturret"
+                    ]
+                }
+            },
+            {
+                "id": "lothalrebel",
+                "points": 67,
+                "ship": "vcx100lightfreighter",
+                "upgrades": {}
+            },
+            {
+                "id": "lowhhrick",
+                "points": 52,
+                "ship": "auzituckgunship",
+                "upgrades": {}
+            }
+        ],
+        "points": 195,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Rebel%20Alliance&d=v8ZsZ200Z28XW137W134W4WW71W87Y64XWWWWWWWY59XWWW&sn=Random%20Squad&obs="
+}

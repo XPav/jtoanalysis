@@ -1,1 +1,60 @@
-{"faction":"firstorder","pilots":[{"id":"ember","ship":"tiebainterceptor","points":61,"upgrades":{"talent":["trickshot"],"tech":["patternanalyzer"]}},{"id":"blackout","ship":"tievnsilencer","points":69,"upgrades":{"talent":["composure"],"tech":["patternanalyzer"]}},{"id":"epsilonsquadroncadet","ship":"tiefofighter","points":33,"upgrades":{"modification":["shieldupgrade"]}},{"id":"null","ship":"tiefofighter","points":35,"upgrades":{"tech":["patternanalyzer"]}}],"points":198,"vendor":{},"version":"2.0.0","name":"Random Squad"}
+{
+    "name": "bluerook17",
+    "number": 1,
+    "xws": {
+        "faction": "firstorder",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "ember",
+                "points": 61,
+                "ship": "tiebainterceptor",
+                "upgrades": {
+                    "talent": [
+                        "trickshot"
+                    ],
+                    "tech": [
+                        "patternanalyzer"
+                    ]
+                }
+            },
+            {
+                "id": "blackout",
+                "points": 69,
+                "ship": "tievnsilencer",
+                "upgrades": {
+                    "talent": [
+                        "composure"
+                    ],
+                    "tech": [
+                        "patternanalyzer"
+                    ]
+                }
+            },
+            {
+                "id": "epsilonsquadroncadet",
+                "points": 33,
+                "ship": "tiefofighter",
+                "upgrades": {
+                    "modification": [
+                        "shieldupgrade"
+                    ]
+                }
+            },
+            {
+                "id": "null",
+                "points": 35,
+                "ship": "tiefofighter",
+                "upgrades": {
+                    "tech": [
+                        "patternanalyzer"
+                    ]
+                }
+            }
+        ],
+        "points": 198,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=First%20Order&d=v8ZsZ200Z383X133W206WWY237X115W206WWY269XW165Y290X206W&sn=Random%20Squad&obs="
+}

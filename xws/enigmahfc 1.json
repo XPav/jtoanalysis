@@ -1,1 +1,47 @@
-{"faction":"scumandvillainy","pilots":[{"id":"ig88c","ship":"aggressorassaultfighter","points":64,"upgrades":{}},{"id":"captainseevor","ship":"modifiedtielnfighter","points":30,"upgrades":{}},{"id":"hansolo","ship":"customizedyt1300lightfreighter","points":68,"upgrades":{"crew":["gnkgonkdroid","l337"]}},{"id":"crymorahgoon","ship":"btla4ywing","points":33,"upgrades":{"device":["seismiccharges"]}}],"points":195,"vendor":{},"version":"2.0.0","name":"Random Squad"}
+{
+    "name": "enigmahfc",
+    "number": 1,
+    "xws": {
+        "faction": "scumandvillainy",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "ig88c",
+                "points": 64,
+                "ship": "aggressorassaultfighter",
+                "upgrades": {}
+            },
+            {
+                "id": "captainseevor",
+                "points": 30,
+                "ship": "modifiedtielnfighter",
+                "upgrades": {}
+            },
+            {
+                "id": "hansolo",
+                "points": 68,
+                "ship": "customizedyt1300lightfreighter",
+                "upgrades": {
+                    "crew": [
+                        "gnkgonkdroid",
+                        "l337"
+                    ]
+                }
+            },
+            {
+                "id": "crymorahgoon",
+                "points": 33,
+                "ship": "btla4ywing",
+                "upgrades": {
+                    "device": [
+                        "seismiccharges"
+                    ]
+                }
+            }
+        ],
+        "points": 195,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Scum%20and%20Villainy&d=v8ZsZ200Z83XWWWWWWWY247XWY89XWW32W43WWWWY88XWWWW71WW&sn=Random%20Squad&obs="
+}

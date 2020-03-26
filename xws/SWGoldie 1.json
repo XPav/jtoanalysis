@@ -1,1 +1,57 @@
-{"faction":"rebelalliance","pilots":[{"id":"leebo","ship":"yt2400lightfreighter","points":88,"upgrades":{"missile":["clustermissiles"],"illicit":["deadmansswitch"]}},{"id":"jakefarrell","ship":"rz1awing","points":45,"upgrades":{"talent":["juke","daredevil"]}},{"id":"wardensquadronpilot","ship":"btls8kwing","points":66,"upgrades":{"torpedo":["protontorpedoes"],"missile":["diamondboronmissiles"],"device":["ionbombs"],"modification":["advancedslam"]}}],"points":199,"vendor":{},"version":"2.0.0","name":"Random Squad"}
+{
+    "name": "SWGoldie",
+    "number": 1,
+    "xws": {
+        "faction": "rebelalliance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "leebo",
+                "points": 88,
+                "ship": "yt2400lightfreighter",
+                "upgrades": {
+                    "illicit": [
+                        "deadmansswitch"
+                    ],
+                    "missile": [
+                        "clustermissiles"
+                    ]
+                }
+            },
+            {
+                "id": "jakefarrell",
+                "points": 45,
+                "ship": "rz1awing",
+                "upgrades": {
+                    "talent": [
+                        "juke",
+                        "daredevil"
+                    ]
+                }
+            },
+            {
+                "id": "wardensquadronpilot",
+                "points": 66,
+                "ship": "btls8kwing",
+                "upgrades": {
+                    "device": [
+                        "ionbombs"
+                    ],
+                    "missile": [
+                        "diamondboronmissiles"
+                    ],
+                    "modification": [
+                        "advancedslam"
+                    ],
+                    "torpedo": [
+                        "protontorpedoes"
+                    ]
+                }
+            }
+        ],
+        "points": 199,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Rebel%20Alliance&d=v8ZsZ200Z40X98WWWW93Y50X123W117WY20X136W238WWWWW317W104&sn=Random%20Squad&obs="
+}

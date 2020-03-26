@@ -1,1 +1,65 @@
-{"faction":"firstorder","pilots":[{"id":"ember","ship":"tiebainterceptor","points":60,"upgrades":{"talent":["elusive"],"tech":["biohexacryptcodes"],"missile":["ionmissiles"]}},{"id":"captaincardinal","ship":"upsilonclasscommandshuttle","points":88,"upgrades":{"tech":["advancedoptics"],"crew":["kyloren"],"cannon":["autoblasters"],"sensor":["trajectorysimulator"],"modification":["tacticalscrambler"]}},{"id":"midnight","ship":"tiefofighter","points":48,"upgrades":{"tech":["patternanalyzer"],"modification":["munitionsfailsafe"]}}],"points":196,"vendor":{},"version":"2.0.0","name":"Random Squad"}
+{
+    "name": "Raph",
+    "number": 1,
+    "xws": {
+        "faction": "firstorder",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "ember",
+                "points": 60,
+                "ship": "tiebainterceptor",
+                "upgrades": {
+                    "missile": [
+                        "ionmissiles"
+                    ],
+                    "talent": [
+                        "elusive"
+                    ],
+                    "tech": [
+                        "biohexacryptcodes"
+                    ]
+                }
+            },
+            {
+                "id": "captaincardinal",
+                "points": 88,
+                "ship": "upsilonclasscommandshuttle",
+                "upgrades": {
+                    "cannon": [
+                        "autoblasters"
+                    ],
+                    "crew": [
+                        "kyloren"
+                    ],
+                    "modification": [
+                        "tacticalscrambler"
+                    ],
+                    "sensor": [
+                        "trajectorysimulator"
+                    ],
+                    "tech": [
+                        "advancedoptics"
+                    ]
+                }
+            },
+            {
+                "id": "midnight",
+                "points": 48,
+                "ship": "tiefofighter",
+                "upgrades": {
+                    "modification": [
+                        "munitionsfailsafe"
+                    ],
+                    "tech": [
+                        "patternanalyzer"
+                    ]
+                }
+            }
+        ],
+        "points": 196,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=First%20Order&d=v8ZsZ200Z383X119W202W101WY282XW186W179WWW232W114W110Y233XW206W108&sn=Random%20Squad&obs="
+}

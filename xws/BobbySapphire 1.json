@@ -1,1 +1,72 @@
-{"faction":"galacticempire","pilots":[{"id":"rhosquadronpilot","ship":"alphaclassstarwing","points":41,"upgrades":{"talent":["intimidation"],"sensor":["firecontrolsystem"],"modification":["munitionsfailsafe"],"configuration":["xg1assaultconfiguration"]}},{"id":"sigmasquadronace","ship":"tiephphantom","points":59,"upgrades":{"sensor":["advancedsensors"],"modification":["delayedfuses"]}},{"id":"alphasquadronpilot","ship":"tieininterceptor","points":39,"upgrades":{"modification":["shieldupgrade"]}},{"id":"valenrudor","ship":"tielnfighter","points":30,"upgrades":{"talent":["intimidation"]}},{"id":"gideonhask","ship":"tielnfighter","points":30,"upgrades":{}}],"points":199,"vendor":{},"version":"2.0.0","name":"Random Squad"}
+{
+    "name": "BobbySapphire",
+    "number": 1,
+    "xws": {
+        "faction": "galacticempire",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "rhosquadronpilot",
+                "points": 41,
+                "ship": "alphaclassstarwing",
+                "upgrades": {
+                    "configuration": [
+                        "xg1assaultconfiguration"
+                    ],
+                    "modification": [
+                        "munitionsfailsafe"
+                    ],
+                    "sensor": [
+                        "firecontrolsystem"
+                    ],
+                    "talent": [
+                        "intimidation"
+                    ]
+                }
+            },
+            {
+                "id": "sigmasquadronace",
+                "points": 59,
+                "ship": "tiephphantom",
+                "upgrades": {
+                    "modification": [
+                        "delayedfuses"
+                    ],
+                    "sensor": [
+                        "advancedsensors"
+                    ]
+                }
+            },
+            {
+                "id": "alphasquadronpilot",
+                "points": 39,
+                "ship": "tieininterceptor",
+                "upgrades": {
+                    "modification": [
+                        "shieldupgrade"
+                    ]
+                }
+            },
+            {
+                "id": "valenrudor",
+                "points": 30,
+                "ship": "tielnfighter",
+                "upgrades": {
+                    "talent": [
+                        "intimidation"
+                    ]
+                }
+            },
+            {
+                "id": "gideonhask",
+                "points": 30,
+                "ship": "tielnfighter",
+                "upgrades": {}
+            }
+        ],
+        "points": 199,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Galactic%20Empire&d=v8ZsZ200Z163X122W113WWW108W144WY201XW111WW236Y182X165WY225X122WY223XW&sn=Random%20Squad&obs="
+}

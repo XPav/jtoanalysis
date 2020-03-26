@@ -1,1 +1,55 @@
-{"faction":"galacticrepublic","pilots":[{"id":"wolffe","ship":"arc170starfighter","points":69,"upgrades":{"talent":["intimidation"],"crew":["perceptivecopilot"],"astromech":["r2a6"],"modification":["electronicbaffle"]}},{"id":"goldsquadrontrooper","ship":"v19torrentstarfighter","points":31,"upgrades":{"modification":["afterburners"]}},{"id":"r2d2","ship":"btlbywing","points":35,"upgrades":{}},{"id":"anakinskywalker-btlbywing","ship":"btlbywing","points":60,"upgrades":{}}],"points":195,"vendor":{},"version":"2.0.0","name":"Random Squad"}
+{
+    "name": "Kerbocat",
+    "number": 1,
+    "xws": {
+        "faction": "galacticrepublic",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "wolffe",
+                "points": 69,
+                "ship": "arc170starfighter",
+                "upgrades": {
+                    "astromech": [
+                        "r2a6"
+                    ],
+                    "crew": [
+                        "perceptivecopilot"
+                    ],
+                    "modification": [
+                        "electronicbaffle"
+                    ],
+                    "talent": [
+                        "intimidation"
+                    ]
+                }
+            },
+            {
+                "id": "goldsquadrontrooper",
+                "points": 31,
+                "ship": "v19torrentstarfighter",
+                "upgrades": {
+                    "modification": [
+                        "afterburners"
+                    ]
+                }
+            },
+            {
+                "id": "r2d2",
+                "points": 35,
+                "ship": "btlbywing",
+                "upgrades": {}
+            },
+            {
+                "id": "anakinskywalker-btlbywing",
+                "points": 60,
+                "ship": "btlbywing",
+                "upgrades": {}
+            }
+        ],
+        "points": 195,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Galactic%20Republic&d=v8ZsZ200Z342X122WW54WW241W106Y321XW105Y362XWWWWWWY359XWWWWWW&sn=Random%20Squad&obs="
+}

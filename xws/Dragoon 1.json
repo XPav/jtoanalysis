@@ -1,1 +1,62 @@
-{"faction":"separatistalliance","pilots":[{"id":"generalgrievous","ship":"belbullab22starfighter","points":61,"upgrades":{"talent":["treacherous"],"tacticalrelay":["ta175"],"title":["soullessone"]}},{"id":"stalgasinhiveguard","ship":"nantexclassstarfighter","points":40,"upgrades":{"talent":["outmaneuver"]}},{"id":"darkcourier","ship":"sithinfiltrator","points":77,"upgrades":{"cannon":["autoblasters"],"torpedo":["protontorpedoes"],"crew":["countdooku"]}},{"id":"haorchallprototype","ship":"vultureclassdroidfighter","points":21,"upgrades":{}}],"points":199,"vendor":{},"version":"2.0.0","name":"Random Squad"}
+{
+    "name": "Dragoon",
+    "number": 1,
+    "xws": {
+        "faction": "separatistalliance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "generalgrievous",
+                "points": 61,
+                "ship": "belbullab22starfighter",
+                "upgrades": {
+                    "tacticalrelay": [
+                        "ta175"
+                    ],
+                    "talent": [
+                        "treacherous"
+                    ],
+                    "title": [
+                        "soullessone"
+                    ]
+                }
+            },
+            {
+                "id": "stalgasinhiveguard",
+                "points": 40,
+                "ship": "nantexclassstarfighter",
+                "upgrades": {
+                    "talent": [
+                        "outmaneuver"
+                    ]
+                }
+            },
+            {
+                "id": "darkcourier",
+                "points": 77,
+                "ship": "sithinfiltrator",
+                "upgrades": {
+                    "cannon": [
+                        "autoblasters"
+                    ],
+                    "crew": [
+                        "countdooku"
+                    ],
+                    "torpedo": [
+                        "protontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "haorchallprototype",
+                "points": 21,
+                "ship": "vultureclassdroidfighter",
+                "upgrades": {}
+            }
+        ],
+        "points": 199,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Separatist%20Alliance&d=v8ZsZ200Z305X228W239WW229Y353X126Y336X232W136WW218WWWWY310XWW&sn=Random%20Squad&obs="
+}

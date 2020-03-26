@@ -1,1 +1,66 @@
-{"faction":"separatistalliance","pilots":[{"id":"dfs311","ship":"vultureclassdroidfighter","points":23,"upgrades":{}},{"id":"sunfac","ship":"nantexclassstarfighter","points":59,"upgrades":{"talent":["lonewolf"]}},{"id":"generalgrievous","ship":"belbullab22starfighter","points":50,"upgrades":{"title":["soullessone"]}},{"id":"separatistbomber","ship":"hyenaclassdroidbomber","points":41,"upgrades":{"torpedo":["advprotontorpedoes"],"modification":["shieldupgrade"],"configuration":["landingstruts"]}},{"id":"tradefederationdrone","ship":"vultureclassdroidfighter","points":26,"upgrades":{"missile":["protonrockets"]}}],"points":199,"vendor":{},"version":"2.0.0","name":"Random Squad"}
+{
+    "name": "ptown",
+    "number": 2,
+    "xws": {
+        "faction": "separatistalliance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "dfs311",
+                "points": 23,
+                "ship": "vultureclassdroidfighter",
+                "upgrades": {}
+            },
+            {
+                "id": "sunfac",
+                "points": 59,
+                "ship": "nantexclassstarfighter",
+                "upgrades": {
+                    "talent": [
+                        "lonewolf"
+                    ]
+                }
+            },
+            {
+                "id": "generalgrievous",
+                "points": 50,
+                "ship": "belbullab22starfighter",
+                "upgrades": {
+                    "title": [
+                        "soullessone"
+                    ]
+                }
+            },
+            {
+                "id": "separatistbomber",
+                "points": 41,
+                "ship": "hyenaclassdroidbomber",
+                "upgrades": {
+                    "configuration": [
+                        "landingstruts"
+                    ],
+                    "modification": [
+                        "shieldupgrade"
+                    ],
+                    "torpedo": [
+                        "advprotontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "tradefederationdrone",
+                "points": 26,
+                "ship": "vultureclassdroidfighter",
+                "upgrades": {
+                    "missile": [
+                        "protonrockets"
+                    ]
+                }
+            }
+        ],
+        "points": 199,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Separatist%20Alliance&d=v8ZsZ200Z337XWWY357XW124Y305XWWW229Y327X134WWW165W237Y279X102WW&sn=Random%20Squad&obs="
+}

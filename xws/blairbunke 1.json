@@ -1,1 +1,50 @@
-{"faction":"rebelalliance","pilots":[{"id":"wullffwarro","ship":"auzituckgunship","points":63,"upgrades":{"talent":["juke"]}},{"id":"ezrabridger","ship":"attackshuttle","points":43,"upgrades":{"turret":["dorsalturret"]}},{"id":"lieutenantblount","ship":"z95af4headhunter","points":30,"upgrades":{}},{"id":"lukeskywalker","ship":"t65xwing","points":62,"upgrades":{"configuration":["servomotorsfoils"]}}],"points":198,"vendor":{},"version":"2.0.0","name":"Random Squad"}
+{
+    "name": "blairbunke",
+    "number": 1,
+    "xws": {
+        "faction": "rebelalliance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "wullffwarro",
+                "points": 63,
+                "ship": "auzituckgunship",
+                "upgrades": {
+                    "talent": [
+                        "juke"
+                    ]
+                }
+            },
+            {
+                "id": "ezrabridger",
+                "points": 43,
+                "ship": "attackshuttle",
+                "upgrades": {
+                    "turret": [
+                        "dorsalturret"
+                    ]
+                }
+            },
+            {
+                "id": "lieutenantblount",
+                "points": 30,
+                "ship": "z95af4headhunter",
+                "upgrades": {}
+            },
+            {
+                "id": "lukeskywalker",
+                "points": 62,
+                "ship": "t65xwing",
+                "upgrades": {
+                    "configuration": [
+                        "servomotorsfoils"
+                    ]
+                }
+            }
+        ],
+        "points": 198,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Rebel%20Alliance&d=v8ZsZ200Z58X123WWWY67XWWW137WY55XWWY4XWWWW142&sn=Random%20Squad&obs="
+}

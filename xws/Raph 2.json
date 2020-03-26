@@ -1,1 +1,39 @@
-{"faction":"rebelalliance","pilots":[{"id":"outerrimsmuggler","ship":"modifiedyt1300lightfreighter","points":67,"upgrades":{}},{"id":"corranhorn","ship":"ewing","points":66,"upgrades":{}},{"id":"esegetuketu","ship":"btls8kwing","points":65,"upgrades":{"gunner":["hansolo"],"crew":["leiaorgana"]}}],"points":198,"vendor":{},"version":"2.0.0","name":"Random Squad"}
+{
+    "name": "Raph",
+    "number": 2,
+    "xws": {
+        "faction": "rebelalliance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "outerrimsmuggler",
+                "points": 67,
+                "ship": "modifiedyt1300lightfreighter",
+                "upgrades": {}
+            },
+            {
+                "id": "corranhorn",
+                "points": 66,
+                "ship": "ewing",
+                "upgrades": {}
+            },
+            {
+                "id": "esegetuketu",
+                "points": 65,
+                "ship": "btls8kwing",
+                "upgrades": {
+                    "crew": [
+                        "leiaorgana"
+                    ],
+                    "gunner": [
+                        "hansolo"
+                    ]
+                }
+            }
+        ],
+        "points": 198,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Rebel%20Alliance&d=v8ZsZ200Z45XWWWWWWY21XWWWWY18XWWW84W46WWW&sn=Random%20Squad&obs="
+}

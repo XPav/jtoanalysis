@@ -1,1 +1,68 @@
-{"faction":"galacticrepublic","pilots":[{"id":"broadside","ship":"btlbywing","points":48,"upgrades":{"torpedo":["plasmatorpedoes"],"modification":["targetingcomputer"]}},{"id":"oddball-btlbywing","ship":"btlbywing","points":59,"upgrades":{"turret":["ioncannonturret"],"torpedo":["advprotontorpedoes"],"gunner":["skilledbombardier"],"astromech":["r4astromech"]}},{"id":"wolffe","ship":"arc170starfighter","points":57,"upgrades":{"talent":["elusive"],"crew":["freelanceslicer"],"modification":["munitionsfailsafe"]}},{"id":"swoop","ship":"v19torrentstarfighter","points":31,"upgrades":{}}],"points":195,"vendor":{},"version":"2.0.0","name":"Random Squad"}
+{
+    "name": "JDLNZ",
+    "number": 1,
+    "xws": {
+        "faction": "galacticrepublic",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "broadside",
+                "points": 48,
+                "ship": "btlbywing",
+                "upgrades": {
+                    "modification": [
+                        "targetingcomputer"
+                    ],
+                    "torpedo": [
+                        "plasmatorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "oddball-btlbywing",
+                "points": 59,
+                "ship": "btlbywing",
+                "upgrades": {
+                    "astromech": [
+                        "r4astromech"
+                    ],
+                    "gunner": [
+                        "skilledbombardier"
+                    ],
+                    "torpedo": [
+                        "advprotontorpedoes"
+                    ],
+                    "turret": [
+                        "ioncannonturret"
+                    ]
+                }
+            },
+            {
+                "id": "wolffe",
+                "points": 57,
+                "ship": "arc170starfighter",
+                "upgrades": {
+                    "crew": [
+                        "freelanceslicer"
+                    ],
+                    "modification": [
+                        "munitionsfailsafe"
+                    ],
+                    "talent": [
+                        "elusive"
+                    ]
+                }
+            },
+            {
+                "id": "swoop",
+                "points": 31,
+                "ship": "v19torrentstarfighter",
+                "upgrades": {}
+            }
+        ],
+        "points": 195,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Galactic%20Republic&d=v8ZsZ200Z364XWW234WWWW249Y366XW138W134W88W5WWY342X119WW30WWW108Y317XWW&sn=Random%20Squad&obs="
+}

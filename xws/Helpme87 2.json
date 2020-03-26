@@ -1,1 +1,58 @@
-{"faction":"rebelalliance","pilots":[{"id":"leiaorgana","ship":"modifiedyt1300lightfreighter","points":106,"upgrades":{"missile":["concussionmissiles"],"gunner":["ezrabridger"],"crew":["chewbacca"],"title":["millenniumfalcon"]}},{"id":"mirandadoni","ship":"btls8kwing","points":63,"upgrades":{"gunner":["skilledbombardier"],"crew":["gnkgonkdroid"],"device":["ionbombs"],"modification":["advancedslam"]}},{"id":"sabinewren-tielnfighter","ship":"tielnfighter","points":29,"upgrades":{}}],"points":198,"vendor":{},"version":"2.0.0","name":"Random Squad"}
+{
+    "name": "Helpme87",
+    "number": 2,
+    "xws": {
+        "faction": "rebelalliance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "leiaorgana",
+                "points": 106,
+                "ship": "modifiedyt1300lightfreighter",
+                "upgrades": {
+                    "crew": [
+                        "chewbacca"
+                    ],
+                    "gunner": [
+                        "ezrabridger"
+                    ],
+                    "missile": [
+                        "concussionmissiles"
+                    ],
+                    "title": [
+                        "millenniumfalcon"
+                    ]
+                }
+            },
+            {
+                "id": "mirandadoni",
+                "points": 63,
+                "ship": "btls8kwing",
+                "upgrades": {
+                    "crew": [
+                        "gnkgonkdroid"
+                    ],
+                    "device": [
+                        "ionbombs"
+                    ],
+                    "gunner": [
+                        "skilledbombardier"
+                    ],
+                    "modification": [
+                        "advancedslam"
+                    ]
+                }
+            },
+            {
+                "id": "sabinewren-tielnfighter",
+                "points": 29,
+                "ship": "tielnfighter",
+                "upgrades": {}
+            }
+        ],
+        "points": 198,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Rebel%20Alliance&d=v8ZsZ200Z393XW99W81W21WWWW154Y17XWWW88W32W317WW104Y13XW&sn=Random%20Squad&obs="
+}

@@ -1,1 +1,65 @@
-{"faction":"scumandvillainy","pilots":[{"id":"overseeryushyn","ship":"modifiedtielnfighter","points":32,"upgrades":{"modification":["staticdischargevanes"]}},{"id":"koshkafrost","ship":"firesprayclasspatrolcraft","points":86,"upgrades":{"cannon":["autoblasters"],"device":["ionbombs"],"illicit":["cloakingdevice"],"modification":["angleddeflectors"]}},{"id":"l337-escapecraft","ship":"escapecraft","points":29,"upgrades":{"talent":["intimidation"]}},{"id":"autopilotdrone","ship":"escapecraft","points":12,"upgrades":{}},{"id":"palobgodalhi","ship":"hwk290lightfreighter","points":40,"upgrades":{}}],"points":199,"vendor":{},"version":"2.0.0","name":"Random Squad"}
+{
+    "name": "Squishee",
+    "number": 2,
+    "xws": {
+        "faction": "scumandvillainy",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "overseeryushyn",
+                "points": 32,
+                "ship": "modifiedtielnfighter",
+                "upgrades": {
+                    "modification": [
+                        "staticdischargevanes"
+                    ]
+                }
+            },
+            {
+                "id": "koshkafrost",
+                "points": 86,
+                "ship": "firesprayclasspatrolcraft",
+                "upgrades": {
+                    "cannon": [
+                        "autoblasters"
+                    ],
+                    "device": [
+                        "ionbombs"
+                    ],
+                    "illicit": [
+                        "cloakingdevice"
+                    ],
+                    "modification": [
+                        "angleddeflectors"
+                    ]
+                }
+            },
+            {
+                "id": "l337-escapecraft",
+                "points": 29,
+                "ship": "escapecraft",
+                "upgrades": {
+                    "talent": [
+                        "intimidation"
+                    ]
+                }
+            },
+            {
+                "id": "autopilotdrone",
+                "points": 12,
+                "ship": "escapecraft",
+                "upgrades": {}
+            },
+            {
+                "id": "palobgodalhi",
+                "points": 40,
+                "ship": "hwk290lightfreighter",
+                "upgrades": {}
+            }
+        ],
+        "points": 199,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Scum%20and%20Villainy&d=v8ZsZ200Z303X109Y106XW232WWW317W91W247WY95X122WWY96XY112XWWWWWW&sn=Random%20Squad&obs="
+}

@@ -1,1 +1,61 @@
-{"faction":"galacticrepublic","pilots":[{"id":"104thbattalionpilot","ship":"arc170starfighter","points":71,"upgrades":{"torpedo":["advprotontorpedoes"],"crew":["gnkgonkdroid"],"gunner":["seventhfleetgunner"],"modification":["stealthdevice"]}},{"id":"macewindu","ship":"delta7aethersprite","points":66,"upgrades":{"force-power":["supernaturalreflexes"],"astromech":["r4astromech"],"configuration":["calibratedlasertargeting"]}},{"id":"oddball","ship":"v19torrentstarfighter","points":34,"upgrades":{}},{"id":"bluesquadronprotector","ship":"v19torrentstarfighter","points":27,"upgrades":{}}],"points":198,"vendor":{},"version":"2.0.0","name":"Random Squad"}
+{
+    "name": "Evcameron",
+    "number": 2,
+    "xws": {
+        "faction": "galacticrepublic",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "104thbattalionpilot",
+                "points": 71,
+                "ship": "arc170starfighter",
+                "upgrades": {
+                    "crew": [
+                        "gnkgonkdroid"
+                    ],
+                    "gunner": [
+                        "seventhfleetgunner"
+                    ],
+                    "modification": [
+                        "stealthdevice"
+                    ],
+                    "torpedo": [
+                        "advprotontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "macewindu",
+                "points": 66,
+                "ship": "delta7aethersprite",
+                "upgrades": {
+                    "astromech": [
+                        "r4astromech"
+                    ],
+                    "configuration": [
+                        "calibratedlasertargeting"
+                    ],
+                    "force-power": [
+                        "supernaturalreflexes"
+                    ]
+                }
+            },
+            {
+                "id": "oddball",
+                "points": 34,
+                "ship": "v19torrentstarfighter",
+                "upgrades": {}
+            },
+            {
+                "id": "bluesquadronprotector",
+                "points": 27,
+                "ship": "v19torrentstarfighter",
+                "upgrades": {}
+            }
+        ],
+        "points": 198,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Galactic%20Republic&d=v8ZsZ200Z341X134W32W227WW166Y314X74W5W200WY316XWWY320XWW&sn=Random%20Squad&obs="
+}

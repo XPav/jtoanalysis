@@ -1,1 +1,48 @@
-{"faction":"firstorder","pilots":[{"id":"null","ship":"tiefofighter","points":30,"upgrades":{}},{"id":"holo","ship":"tiebainterceptor","points":54,"upgrades":{}},{"id":"majorvonreg","ship":"tiebainterceptor","points":57,"upgrades":{}},{"id":"zetasquadronsurvivor","ship":"tiesffighter","points":34,"upgrades":{"sensor":["firecontrolsystem"]}},{"id":"epsilonsquadroncadet","ship":"tiefofighter","points":25,"upgrades":{}}],"points":200,"vendor":{},"version":"2.0.0","name":"Random Squad"}
+{
+    "name": "Academy Kryger",
+    "number": 2,
+    "xws": {
+        "faction": "firstorder",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "null",
+                "points": 30,
+                "ship": "tiefofighter",
+                "upgrades": {}
+            },
+            {
+                "id": "holo",
+                "points": 54,
+                "ship": "tiebainterceptor",
+                "upgrades": {}
+            },
+            {
+                "id": "majorvonreg",
+                "points": 57,
+                "ship": "tiebainterceptor",
+                "upgrades": {}
+            },
+            {
+                "id": "zetasquadronsurvivor",
+                "points": 34,
+                "ship": "tiesffighter",
+                "upgrades": {
+                    "sensor": [
+                        "firecontrolsystem"
+                    ]
+                }
+            },
+            {
+                "id": "epsilonsquadroncadet",
+                "points": 25,
+                "ship": "tiefofighter",
+                "upgrades": {}
+            }
+        ],
+        "points": 200,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=First%20Order&d=v8ZsZ200Z290XWY382XWWWY381XWWWY259XWWW113WY269XW&sn=Random%20Squad&obs="
+}

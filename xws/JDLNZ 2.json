@@ -1,1 +1,73 @@
-{"faction":"separatistalliance","pilots":[{"id":"precisehunter","ship":"vultureclassdroidfighter","points":29,"upgrades":{"missile":["homingmissiles"],"configuration":["grapplingstruts"]}},{"id":"generalgrievous","ship":"belbullab22starfighter","points":50,"upgrades":{"title":["soullessone"]}},{"id":"dbs32c","ship":"hyenaclassdroidbomber","points":45,"upgrades":{"tacticalrelay":["tv94"]}},{"id":"dfs311","ship":"vultureclassdroidfighter","points":29,"upgrades":{"modification":["staticdischargevanes"]}},{"id":"separatistdrone","ship":"vultureclassdroidfighter","points":22,"upgrades":{"configuration":["grapplingstruts"]}},{"id":"precisehunter","ship":"vultureclassdroidfighter","points":23,"upgrades":{}}],"points":198,"vendor":{},"version":"2.0.0","name":"Random Squad"}
+{
+    "name": "JDLNZ",
+    "number": 2,
+    "xws": {
+        "faction": "separatistalliance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "precisehunter",
+                "points": 29,
+                "ship": "vultureclassdroidfighter",
+                "upgrades": {
+                    "configuration": [
+                        "grapplingstruts"
+                    ],
+                    "missile": [
+                        "homingmissiles"
+                    ]
+                }
+            },
+            {
+                "id": "generalgrievous",
+                "points": 50,
+                "ship": "belbullab22starfighter",
+                "upgrades": {
+                    "title": [
+                        "soullessone"
+                    ]
+                }
+            },
+            {
+                "id": "dbs32c",
+                "points": 45,
+                "ship": "hyenaclassdroidbomber",
+                "upgrades": {
+                    "tacticalrelay": [
+                        "tv94"
+                    ]
+                }
+            },
+            {
+                "id": "dfs311",
+                "points": 29,
+                "ship": "vultureclassdroidfighter",
+                "upgrades": {
+                    "modification": [
+                        "staticdischargevanes"
+                    ]
+                }
+            },
+            {
+                "id": "separatistdrone",
+                "points": 22,
+                "ship": "vultureclassdroidfighter",
+                "upgrades": {
+                    "configuration": [
+                        "grapplingstruts"
+                    ]
+                }
+            },
+            {
+                "id": "precisehunter",
+                "points": 23,
+                "ship": "vultureclassdroidfighter",
+                "upgrades": {}
+            }
+        ],
+        "points": 198,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Separatist%20Alliance&d=v8ZsZ200Z309X100W208WY305XWWW229Y328XW223WWY337XWW109Y343XW208WY309XWW&sn=Random%20Squad&obs="
+}

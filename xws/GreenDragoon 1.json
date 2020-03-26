@@ -1,1 +1,63 @@
-{"faction":"galacticrepublic","pilots":[{"id":"dineeellberger","ship":"nabooroyaln1starfighter","points":52,"upgrades":{"talent":["marksmanship"],"astromech":["r2astromech"],"torpedo":["iontorpedoes"]}},{"id":"axe","ship":"v19torrentstarfighter","points":37,"upgrades":{"talent":["lonewolf"]}},{"id":"obiwankenobi","ship":"delta7aethersprite","points":57,"upgrades":{"astromech":["r4p17"],"configuration":["calibratedlasertargeting"]}},{"id":"macewindu","ship":"delta7aethersprite","points":50,"upgrades":{"astromech":["r2c4"]}}],"points":196,"vendor":{},"version":"2.0.0","name":"Random Squad"}
+{
+    "name": "GreenDragoon",
+    "number": 1,
+    "xws": {
+        "faction": "galacticrepublic",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "dineeellberger",
+                "points": 52,
+                "ship": "nabooroyaln1starfighter",
+                "upgrades": {
+                    "astromech": [
+                        "r2astromech"
+                    ],
+                    "talent": [
+                        "marksmanship"
+                    ],
+                    "torpedo": [
+                        "iontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "axe",
+                "points": 37,
+                "ship": "v19torrentstarfighter",
+                "upgrades": {
+                    "talent": [
+                        "lonewolf"
+                    ]
+                }
+            },
+            {
+                "id": "obiwankenobi",
+                "points": 57,
+                "ship": "delta7aethersprite",
+                "upgrades": {
+                    "astromech": [
+                        "r4p17"
+                    ],
+                    "configuration": [
+                        "calibratedlasertargeting"
+                    ]
+                }
+            },
+            {
+                "id": "macewindu",
+                "points": 50,
+                "ship": "delta7aethersprite",
+                "upgrades": {
+                    "astromech": [
+                        "r2c4"
+                    ]
+                }
+            }
+        ],
+        "points": 196,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Galactic%20Republic&d=v8ZsZ200Z331X125WW2W135Y318X124WWY278XW214W200WY314XW233WW&sn=Random%20Squad&obs="
+}

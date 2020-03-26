@@ -1,1 +1,61 @@
-{"faction":"galacticrepublic","pilots":[{"id":"axe","ship":"v19torrentstarfighter","points":45,"upgrades":{"talent":["juke"],"missile":["magpulsewarheads"]}},{"id":"oddball-btlbywing","ship":"btlbywing","points":76,"upgrades":{"turret":["ioncannonturret"],"gunner":["ahsokatano"],"astromech":["r3astromech"],"device":["ionbombs"],"modification":["angleddeflectors"]}},{"id":"matchstick","ship":"btlbywing","points":43,"upgrades":{}},{"id":"goji","ship":"btlbywing","points":32,"upgrades":{}}],"points":196,"vendor":{},"version":"2.0.0","name":"Random Squad"}
+{
+    "name": "Sara Tessem",
+    "number": 1,
+    "xws": {
+        "faction": "galacticrepublic",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "axe",
+                "points": 45,
+                "ship": "v19torrentstarfighter",
+                "upgrades": {
+                    "missile": [
+                        "magpulsewarheads"
+                    ],
+                    "talent": [
+                        "juke"
+                    ]
+                }
+            },
+            {
+                "id": "oddball-btlbywing",
+                "points": 76,
+                "ship": "btlbywing",
+                "upgrades": {
+                    "astromech": [
+                        "r3astromech"
+                    ],
+                    "device": [
+                        "ionbombs"
+                    ],
+                    "gunner": [
+                        "ahsokatano"
+                    ],
+                    "modification": [
+                        "angleddeflectors"
+                    ],
+                    "turret": [
+                        "ioncannonturret"
+                    ]
+                }
+            },
+            {
+                "id": "matchstick",
+                "points": 43,
+                "ship": "btlbywing",
+                "upgrades": {}
+            },
+            {
+                "id": "goji",
+                "points": 32,
+                "ship": "btlbywing",
+                "upgrades": {}
+            }
+        ],
+        "points": 196,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Galactic%20Republic&d=v8ZsZ200Z318X123W311WY366XW138WW253W4W317W247Y365XWWWWWWY363XWWWWW&sn=Random%20Squad&obs="
+}

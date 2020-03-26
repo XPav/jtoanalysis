@@ -1,1 +1,60 @@
-{"faction":"firstorder","pilots":[{"id":"firstorderprovocateur","ship":"tiebainterceptor","points":53,"upgrades":{"talent":["debrisgambit"],"missile":["ionmissiles"]}},{"id":"lieutenanttavson","ship":"upsilonclasscommandshuttle","points":83,"upgrades":{"tech":["biohexacryptcodes"],"crew":["informant","gnkgonkdroid"],"sensor":["passivesensors"]}},{"id":"ember","ship":"tiebainterceptor","points":64,"upgrades":{"talent":["marksmanship"],"tech":["targetingsynchronizer"],"missile":["clustermissiles"]}}],"points":200,"vendor":{},"version":"2.0.0","name":"Random Squad"}
+{
+    "name": "MegaSilver",
+    "number": 1,
+    "xws": {
+        "faction": "firstorder",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "firstorderprovocateur",
+                "points": 53,
+                "ship": "tiebainterceptor",
+                "upgrades": {
+                    "missile": [
+                        "ionmissiles"
+                    ],
+                    "talent": [
+                        "debrisgambit"
+                    ]
+                }
+            },
+            {
+                "id": "lieutenanttavson",
+                "points": 83,
+                "ship": "upsilonclasscommandshuttle",
+                "upgrades": {
+                    "crew": [
+                        "informant",
+                        "gnkgonkdroid"
+                    ],
+                    "sensor": [
+                        "passivesensors"
+                    ],
+                    "tech": [
+                        "biohexacryptcodes"
+                    ]
+                }
+            },
+            {
+                "id": "ember",
+                "points": 64,
+                "ship": "tiebainterceptor",
+                "upgrades": {
+                    "missile": [
+                        "clustermissiles"
+                    ],
+                    "talent": [
+                        "marksmanship"
+                    ],
+                    "tech": [
+                        "targetingsynchronizer"
+                    ]
+                }
+            }
+        ],
+        "points": 200,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=First%20Order&d=v8ZsZ200Z384X118WW101WY289X202WW37WW32WW240WY383X125W177W98W&sn=Random%20Squad&obs="
+}

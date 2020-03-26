@@ -1,1 +1,53 @@
-{"faction":"rebelalliance","pilots":[{"id":"bluesquadronscout","ship":"ut60duwing","points":43,"upgrades":{"configuration":["pivotwing"]}},{"id":"leebo","ship":"yt2400lightfreighter","points":111,"upgrades":{"gunner":["veteranturretgunner"],"modification":["targetingcomputer"],"title":["outrider"],"illicit":["feedbackarray"]}},{"id":"benthictwotubes","ship":"ut60duwing","points":46,"upgrades":{"configuration":["pivotwing"]}}],"points":200,"vendor":{},"version":"2.0.0","name":"Random Squad"}
+{
+    "name": "schdarr",
+    "number": 1,
+    "xws": {
+        "faction": "rebelalliance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "bluesquadronscout",
+                "points": 43,
+                "ship": "ut60duwing",
+                "upgrades": {
+                    "configuration": [
+                        "pivotwing"
+                    ]
+                }
+            },
+            {
+                "id": "leebo",
+                "points": 111,
+                "ship": "yt2400lightfreighter",
+                "upgrades": {
+                    "gunner": [
+                        "veteranturretgunner"
+                    ],
+                    "illicit": [
+                        "feedbackarray"
+                    ],
+                    "modification": [
+                        "targetingcomputer"
+                    ],
+                    "title": [
+                        "outrider"
+                    ]
+                }
+            },
+            {
+                "id": "benthictwotubes",
+                "points": 46,
+                "ship": "ut60duwing",
+                "upgrades": {
+                    "configuration": [
+                        "pivotwing"
+                    ]
+                }
+            }
+        ],
+        "points": 200,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Rebel%20Alliance&d=v8ZsZ200Z37XWWWW140Y40XW90W249W157W94Y36XWWWWW140&sn=Random%20Squad&obs="
+}

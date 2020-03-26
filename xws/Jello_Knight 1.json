@@ -1,1 +1,72 @@
-{"faction":"galacticrepublic","pilots":[{"id":"dineeellberger","ship":"nabooroyaln1starfighter","points":46,"upgrades":{"talent":["crackshot"],"sensor":["passivesensors"],"astromech":["r5astromech"]}},{"id":"macewindu","ship":"delta7aethersprite","points":69,"upgrades":{"force-power":["predictiveshot"],"astromech":["r4pastromech"],"configuration":["delta7b"],"modification":["synchronizedconsole"]}},{"id":"oddball","ship":"v19torrentstarfighter","points":41,"upgrades":{"talent":["juke"]}},{"id":"swoop","ship":"v19torrentstarfighter","points":40,"upgrades":{"talent":["lonewolf"],"missile":["ionmissiles"]}}],"points":196,"vendor":{},"version":"2.0.0","name":"Random Squad"}
+{
+    "name": "Jello_Knight",
+    "number": 1,
+    "xws": {
+        "faction": "galacticrepublic",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "dineeellberger",
+                "points": 46,
+                "ship": "nabooroyaln1starfighter",
+                "upgrades": {
+                    "astromech": [
+                        "r5astromech"
+                    ],
+                    "sensor": [
+                        "passivesensors"
+                    ],
+                    "talent": [
+                        "crackshot"
+                    ]
+                }
+            },
+            {
+                "id": "macewindu",
+                "points": 69,
+                "ship": "delta7aethersprite",
+                "upgrades": {
+                    "astromech": [
+                        "r4pastromech"
+                    ],
+                    "configuration": [
+                        "delta7b"
+                    ],
+                    "force-power": [
+                        "predictiveshot"
+                    ],
+                    "modification": [
+                        "synchronizedconsole"
+                    ]
+                }
+            },
+            {
+                "id": "oddball",
+                "points": 41,
+                "ship": "v19torrentstarfighter",
+                "upgrades": {
+                    "talent": [
+                        "juke"
+                    ]
+                }
+            },
+            {
+                "id": "swoop",
+                "points": 40,
+                "ship": "v19torrentstarfighter",
+                "upgrades": {
+                    "missile": [
+                        "ionmissiles"
+                    ],
+                    "talent": [
+                        "lonewolf"
+                    ]
+                }
+            }
+        ],
+        "points": 196,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Galactic%20Republic&d=v8ZsZ200Z331X116W240W6WY314X203W213W201W211Y316X123WWY317X124W101W&sn=Random%20Squad&obs="
+}

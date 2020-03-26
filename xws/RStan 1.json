@@ -1,1 +1,51 @@
-{"faction":"firstorder","pilots":[{"id":"captainphasma","ship":"tiesffighter","points":46,"upgrades":{"talent":["composure"],"tech":["biohexacryptcodes"],"sensor":["firecontrolsystem"],"modification":["targetingcomputer"]}},{"id":"midnight","ship":"tiefofighter","points":42,"upgrades":{}},{"id":"firstordertestpilot","ship":"tievnsilencer","points":56,"upgrades":{}},{"id":"ember","ship":"tiebainterceptor","points":52,"upgrades":{}}],"points":196,"vendor":{},"version":"2.0.0","name":"Random Squad"}
+{
+    "name": "RStan",
+    "number": 1,
+    "xws": {
+        "faction": "firstorder",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "captainphasma",
+                "points": 46,
+                "ship": "tiesffighter",
+                "upgrades": {
+                    "modification": [
+                        "targetingcomputer"
+                    ],
+                    "sensor": [
+                        "firecontrolsystem"
+                    ],
+                    "talent": [
+                        "composure"
+                    ],
+                    "tech": [
+                        "biohexacryptcodes"
+                    ]
+                }
+            },
+            {
+                "id": "midnight",
+                "points": 42,
+                "ship": "tiefofighter",
+                "upgrades": {}
+            },
+            {
+                "id": "firstordertestpilot",
+                "points": 56,
+                "ship": "tievnsilencer",
+                "upgrades": {}
+            },
+            {
+                "id": "ember",
+                "points": 52,
+                "ship": "tiebainterceptor",
+                "upgrades": {}
+            }
+        ],
+        "points": 196,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=First%20Order&d=v8ZsZ200Z385X115W202WWW113W249Y233XWWY287XWWWY383XWWW&sn=Random%20Squad&obs="
+}

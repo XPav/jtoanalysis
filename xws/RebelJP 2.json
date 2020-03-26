@@ -1,1 +1,57 @@
-{"faction":"galacticempire","pilots":[{"id":"deathrain","ship":"tiecapunisher","points":77,"upgrades":{"sensor":["collisiondetector"],"torpedo":["protontorpedoes"],"missile":["clustermissiles","homingmissiles"],"modification":["stealthdevice"]}},{"id":"majorvynder","ship":"alphaclassstarwing","points":46,"upgrades":{"missile":["clustermissiles"]}},{"id":"patrolleader","ship":"vt49decimator","points":73,"upgrades":{"crew":["seasonednavigator"],"modification":["tacticalscrambler"]}}],"points":196,"vendor":{},"version":"2.0.0","name":"Random Squad"}
+{
+    "name": "RebelJP",
+    "number": 2,
+    "xws": {
+        "faction": "galacticempire",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "deathrain",
+                "points": 77,
+                "ship": "tiecapunisher",
+                "upgrades": {
+                    "missile": [
+                        "clustermissiles",
+                        "homingmissiles"
+                    ],
+                    "modification": [
+                        "stealthdevice"
+                    ],
+                    "sensor": [
+                        "collisiondetector"
+                    ],
+                    "torpedo": [
+                        "protontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "majorvynder",
+                "points": 46,
+                "ship": "alphaclassstarwing",
+                "upgrades": {
+                    "missile": [
+                        "clustermissiles"
+                    ]
+                }
+            },
+            {
+                "id": "patrolleader",
+                "points": 73,
+                "ship": "vt49decimator",
+                "upgrades": {
+                    "crew": [
+                        "seasonednavigator"
+                    ],
+                    "modification": [
+                        "tacticalscrambler"
+                    ]
+                }
+            }
+        ],
+        "points": 196,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Galactic%20Empire&d=v8ZsZ200Z192X112W136W98W100WWWW166Y161XWWW98WWY216XWWW59WWW110W&sn=Random%20Squad&obs="
+}

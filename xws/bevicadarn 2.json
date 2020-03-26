@@ -1,1 +1,59 @@
-{"faction":"galacticempire","pilots":[{"id":"zertikstrom","ship":"tieadvancedx1","points":60,"upgrades":{"sensor":["trajectorysimulator"],"missile":["homingmissiles"],"modification":["stealthdevice"]}},{"id":"darthvader","ship":"tieadvancedx1","points":70,"upgrades":{"sensor":["passivesensors"]}},{"id":"doubleedge","ship":"tieagaggressor","points":39,"upgrades":{"turret":["dorsalturret"],"gunner":["hotshotgunner"]}},{"id":"lieutenantkestal","ship":"tieagaggressor","points":31,"upgrades":{}}],"points":200,"vendor":{},"version":"2.0.0","name":"Random Squad"}
+{
+    "name": "bevicadarn",
+    "number": 2,
+    "xws": {
+        "faction": "galacticempire",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "zertikstrom",
+                "points": 60,
+                "ship": "tieadvancedx1",
+                "upgrades": {
+                    "missile": [
+                        "homingmissiles"
+                    ],
+                    "modification": [
+                        "stealthdevice"
+                    ],
+                    "sensor": [
+                        "trajectorysimulator"
+                    ]
+                }
+            },
+            {
+                "id": "darthvader",
+                "points": 70,
+                "ship": "tieadvancedx1",
+                "upgrades": {
+                    "sensor": [
+                        "passivesensors"
+                    ]
+                }
+            },
+            {
+                "id": "doubleedge",
+                "points": 39,
+                "ship": "tieagaggressor",
+                "upgrades": {
+                    "gunner": [
+                        "hotshotgunner"
+                    ],
+                    "turret": [
+                        "dorsalturret"
+                    ]
+                }
+            },
+            {
+                "id": "lieutenantkestal",
+                "points": 31,
+                "ship": "tieagaggressor",
+                "upgrades": {}
+            }
+        ],
+        "points": 200,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Galactic%20Empire&d=v8ZsZ200Z176X114W100W166Y173XW240WWY188XW137WWW86WY187XWWWWW&sn=Random%20Squad&obs="
+}

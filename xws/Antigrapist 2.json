@@ -1,1 +1,68 @@
-{"faction":"scumandvillainy","pilots":[{"id":"shadowporthunter","ship":"lancerclasspursuitcraft","points":65,"upgrades":{"crew":["tobiasbeckett"],"illicit":["riggedcargochute","deadmansswitch"],"title":["shadowcaster"]}},{"id":"drearenthal","ship":"btla4ywing","points":80,"upgrades":{"talent":["trickshot"],"turret":["ioncannonturret"],"torpedo":["advprotontorpedoes"],"device":["ionbombs"],"illicit":["inertialdampeners"],"modification":["afterburners"]}},{"id":"captainseevor","ship":"modifiedtielnfighter","points":30,"upgrades":{}},{"id":"binayrepirate","ship":"z95af4headhunter","points":22,"upgrades":{}}],"points":197,"vendor":{},"version":"2.0.0","name":"Random Squad"}
+{
+    "name": "Antigrapist",
+    "number": 2,
+    "xws": {
+        "faction": "scumandvillainy",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "shadowporthunter",
+                "points": 65,
+                "ship": "lancerclasspursuitcraft",
+                "upgrades": {
+                    "crew": [
+                        "tobiasbeckett"
+                    ],
+                    "illicit": [
+                        "riggedcargochute",
+                        "deadmansswitch"
+                    ],
+                    "title": [
+                        "shadowcaster"
+                    ]
+                }
+            },
+            {
+                "id": "drearenthal",
+                "points": 80,
+                "ship": "btla4ywing",
+                "upgrades": {
+                    "device": [
+                        "ionbombs"
+                    ],
+                    "illicit": [
+                        "inertialdampeners"
+                    ],
+                    "modification": [
+                        "afterburners"
+                    ],
+                    "talent": [
+                        "trickshot"
+                    ],
+                    "torpedo": [
+                        "advprotontorpedoes"
+                    ],
+                    "turret": [
+                        "ioncannonturret"
+                    ]
+                }
+            },
+            {
+                "id": "captainseevor",
+                "points": 30,
+                "ship": "modifiedtielnfighter",
+                "upgrades": {}
+            },
+            {
+                "id": "binayrepirate",
+                "points": 22,
+                "ship": "z95af4headhunter",
+                "upgrades": {}
+            }
+        ],
+        "points": 197,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Scum%20and%20Villainy&d=v8ZsZ200Z128X62W96W93WW160Y86X133W138W134WWW317W95W105Y247XWY159XWW&sn=Random%20Squad&obs="
+}

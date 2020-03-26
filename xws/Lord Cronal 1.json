@@ -1,1 +1,66 @@
-{"faction":"galacticempire","pilots":[{"id":"deathfire","ship":"tiesabomber","points":46,"upgrades":{"missile":["protonrockets","homingmissiles"],"gunner":["skilledbombardier"]}},{"id":"deathrain","ship":"tiecapunisher","points":59,"upgrades":{"torpedo":["advprotontorpedoes"],"missile":["concussionmissiles"],"device":["seismiccharges"]}},{"id":"tomaxbren","ship":"tiesabomber","points":50,"upgrades":{"talent":["trickshot"],"device":["connernets"],"modification":["hullupgrade"]}},{"id":"imdaartestpilot","ship":"tiephphantom","points":43,"upgrades":{}}],"points":198,"vendor":{},"version":"2.0.0","name":"Random Squad"}
+{
+    "name": "Lord Cronal",
+    "number": 1,
+    "xws": {
+        "faction": "galacticempire",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "deathfire",
+                "points": 46,
+                "ship": "tiesabomber",
+                "upgrades": {
+                    "gunner": [
+                        "skilledbombardier"
+                    ],
+                    "missile": [
+                        "protonrockets",
+                        "homingmissiles"
+                    ]
+                }
+            },
+            {
+                "id": "deathrain",
+                "points": 59,
+                "ship": "tiecapunisher",
+                "upgrades": {
+                    "device": [
+                        "seismiccharges"
+                    ],
+                    "missile": [
+                        "concussionmissiles"
+                    ],
+                    "torpedo": [
+                        "advprotontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "tomaxbren",
+                "points": 50,
+                "ship": "tiesabomber",
+                "upgrades": {
+                    "device": [
+                        "connernets"
+                    ],
+                    "modification": [
+                        "hullupgrade"
+                    ],
+                    "talent": [
+                        "trickshot"
+                    ]
+                }
+            },
+            {
+                "id": "imdaartestpilot",
+                "points": 43,
+                "ship": "tiephphantom",
+                "upgrades": {}
+            }
+        ],
+        "points": 198,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Galactic%20Empire&d=v8ZsZ200Z206XW102W100W88WWWY192XW134WW99WWW71WY205X133WWWWWW68W164Y202XWW&sn=Random%20Squad&obs="
+}

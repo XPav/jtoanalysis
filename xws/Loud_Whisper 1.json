@@ -1,1 +1,59 @@
-{"faction":"resistance","pilots":[{"id":"greensquadronexpert","ship":"rz2awing","points":34,"upgrades":{}},{"id":"lulolampar","ship":"rz2awing","points":53,"upgrades":{"talent":["lonewolf"],"missile":["clustermissiles"]}},{"id":"temminwexley","ship":"t70xwing","points":59,"upgrades":{"astromech":["r2ha"],"configuration":["integratedsfoils"],"title":["blackone"]}},{"id":"karekun","ship":"t70xwing","points":51,"upgrades":{"configuration":["integratedsfoils"]}}],"points":197,"vendor":{},"version":"2.0.0","name":"Random Squad"}
+{
+    "name": "Loud_Whisper",
+    "number": 1,
+    "xws": {
+        "faction": "resistance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "greensquadronexpert",
+                "points": 34,
+                "ship": "rz2awing",
+                "upgrades": {}
+            },
+            {
+                "id": "lulolampar",
+                "points": 53,
+                "ship": "rz2awing",
+                "upgrades": {
+                    "missile": [
+                        "clustermissiles"
+                    ],
+                    "talent": [
+                        "lonewolf"
+                    ]
+                }
+            },
+            {
+                "id": "temminwexley",
+                "points": 59,
+                "ship": "t70xwing",
+                "upgrades": {
+                    "astromech": [
+                        "r2ha"
+                    ],
+                    "configuration": [
+                        "integratedsfoils"
+                    ],
+                    "title": [
+                        "blackone"
+                    ]
+                }
+            },
+            {
+                "id": "karekun",
+                "points": 51,
+                "ship": "t70xwing",
+                "upgrades": {
+                    "configuration": [
+                        "integratedsfoils"
+                    ]
+                }
+            }
+        ],
+        "points": 197,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Resistance&d=v8ZsZ200Z300XWWWY239XW124W98WY297XW190WW175WW171WY252XWWW175WWW&sn=Random%20Squad&obs="
+}

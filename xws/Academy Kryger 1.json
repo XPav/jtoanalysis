@@ -1,1 +1,74 @@
-{"faction":"galacticempire","pilots":[{"id":"fifthbrother","ship":"tieadvancedv1","points":51,"upgrades":{"force-power":["brilliantevasion"],"missile":["magpulsewarheads"]}},{"id":"nusquadronpilot","ship":"alphaclassstarwing","points":54,"upgrades":{"sensor":["passivesensors"],"torpedo":["iontorpedoes"],"missile":["clustermissiles"],"modification":["electronicbaffle"],"configuration":["xg1assaultconfiguration"],"cannon":["ioncannon"]}},{"id":"sabersquadronace","ship":"tieininterceptor","points":36,"upgrades":{}},{"id":"gideonhask","ship":"tielnfighter","points":33,"upgrades":{"modification":["targetingcomputer"]}},{"id":"obsidiansquadronpilot","ship":"tielnfighter","points":23,"upgrades":{}}],"points":197,"vendor":{},"version":"2.0.0","name":"Random Squad"}
+{
+    "name": "Academy Kryger",
+    "number": 1,
+    "xws": {
+        "faction": "galacticempire",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "fifthbrother",
+                "points": 51,
+                "ship": "tieadvancedv1",
+                "upgrades": {
+                    "force-power": [
+                        "brilliantevasion"
+                    ],
+                    "missile": [
+                        "magpulsewarheads"
+                    ]
+                }
+            },
+            {
+                "id": "nusquadronpilot",
+                "points": 54,
+                "ship": "alphaclassstarwing",
+                "upgrades": {
+                    "cannon": [
+                        "ioncannon"
+                    ],
+                    "configuration": [
+                        "xg1assaultconfiguration"
+                    ],
+                    "missile": [
+                        "clustermissiles"
+                    ],
+                    "modification": [
+                        "electronicbaffle"
+                    ],
+                    "sensor": [
+                        "passivesensors"
+                    ],
+                    "torpedo": [
+                        "iontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "sabersquadronace",
+                "points": 36,
+                "ship": "tieininterceptor",
+                "upgrades": {}
+            },
+            {
+                "id": "gideonhask",
+                "points": 33,
+                "ship": "tielnfighter",
+                "upgrades": {
+                    "modification": [
+                        "targetingcomputer"
+                    ]
+                }
+            },
+            {
+                "id": "obsidiansquadronpilot",
+                "points": 23,
+                "ship": "tielnfighter",
+                "upgrades": {}
+            }
+        ],
+        "points": 197,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Galactic%20Empire&d=v8ZsZ200Z394X199WW311Y164X240W135W98W106W144W11Y181XWWY223XW249Y228X&sn=Random%20Squad&obs="
+}

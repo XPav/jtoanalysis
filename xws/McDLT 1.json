@@ -1,1 +1,63 @@
-{"faction":"separatistalliance","pilots":[{"id":"darkcourier","ship":"sithinfiltrator","points":65,"upgrades":{"cannon":["jammingbeam"],"crew":["generalgrievous","novicetechnician"],"modification":["targetingcomputer"],"title":["scimitar"]}},{"id":"wattambor","ship":"belbullab22starfighter","points":47,"upgrades":{"talent":["lonewolf"]}},{"id":"feethanottrawautopilot","ship":"belbullab22starfighter","points":51,"upgrades":{"tacticalrelay":["kraken"],"title":["soullessone"]}},{"id":"feethanottrawautopilot","ship":"belbullab22starfighter","points":35,"upgrades":{}}],"points":198,"vendor":{},"version":"2.0.0","name":"Random Squad"}
+{
+    "name": "McDLT",
+    "number": 1,
+    "xws": {
+        "faction": "separatistalliance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "darkcourier",
+                "points": 65,
+                "ship": "sithinfiltrator",
+                "upgrades": {
+                    "cannon": [
+                        "jammingbeam"
+                    ],
+                    "crew": [
+                        "generalgrievous",
+                        "novicetechnician"
+                    ],
+                    "modification": [
+                        "targetingcomputer"
+                    ],
+                    "title": [
+                        "scimitar"
+                    ]
+                }
+            },
+            {
+                "id": "wattambor",
+                "points": 47,
+                "ship": "belbullab22starfighter",
+                "upgrades": {
+                    "talent": [
+                        "lonewolf"
+                    ]
+                }
+            },
+            {
+                "id": "feethanottrawautopilot",
+                "points": 51,
+                "ship": "belbullab22starfighter",
+                "upgrades": {
+                    "tacticalrelay": [
+                        "kraken"
+                    ],
+                    "title": [
+                        "soullessone"
+                    ]
+                }
+            },
+            {
+                "id": "feethanottrawautopilot",
+                "points": 35,
+                "ship": "belbullab22starfighter",
+                "upgrades": {}
+            }
+        ],
+        "points": 198,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Separatist%20Alliance&d=v8ZsZ200Z336X12WW219W53WW249W216WY306X124WWWY307X222WW229Y307XWW&sn=Random%20Squad&obs="
+}

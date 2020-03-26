@@ -1,1 +1,65 @@
-{"faction":"galacticempire","pilots":[{"id":"rhosquadronpilot","ship":"alphaclassstarwing","points":61,"upgrades":{"talent":["juke"],"sensor":["firecontrolsystem"],"torpedo":["iontorpedoes"],"missile":["magpulsewarheads"],"modification":["hullupgrade"]}},{"id":"fifthbrother","ship":"tieadvancedv1","points":58,"upgrades":{"force-power":["supernaturalreflexes"]}},{"id":"sienarspecialist","ship":"tieagaggressor","points":39,"upgrades":{"missile":["homingmissiles"],"gunner":["agilegunner"]}},{"id":"lieutenantkarsabi","ship":"alphaclassstarwing","points":37,"upgrades":{}}],"points":195,"vendor":{},"version":"2.0.0","name":"Random Squad"}
+{
+    "name": "Sky_Paladin",
+    "number": 1,
+    "xws": {
+        "faction": "galacticempire",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "rhosquadronpilot",
+                "points": 61,
+                "ship": "alphaclassstarwing",
+                "upgrades": {
+                    "missile": [
+                        "magpulsewarheads"
+                    ],
+                    "modification": [
+                        "hullupgrade"
+                    ],
+                    "sensor": [
+                        "firecontrolsystem"
+                    ],
+                    "talent": [
+                        "juke"
+                    ],
+                    "torpedo": [
+                        "iontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "fifthbrother",
+                "points": 58,
+                "ship": "tieadvancedv1",
+                "upgrades": {
+                    "force-power": [
+                        "supernaturalreflexes"
+                    ]
+                }
+            },
+            {
+                "id": "sienarspecialist",
+                "points": 39,
+                "ship": "tieagaggressor",
+                "upgrades": {
+                    "gunner": [
+                        "agilegunner"
+                    ],
+                    "missile": [
+                        "homingmissiles"
+                    ]
+                }
+            },
+            {
+                "id": "lieutenantkarsabi",
+                "points": 37,
+                "ship": "alphaclassstarwing",
+                "upgrades": {}
+            }
+        ],
+        "points": 195,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Galactic%20Empire&d=v8ZsZ200Z163X123W113W135W311W164WY394X74WWY190XW100WW76WY162XWWWWW&sn=Random%20Squad&obs="
+}

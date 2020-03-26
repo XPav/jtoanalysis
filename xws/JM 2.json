@@ -1,1 +1,45 @@
-{"faction":"resistance","pilots":[{"id":"finchdallow","ship":"mg100starfortress","points":73,"upgrades":{"crew":["kaydelconnix"],"gunner":["agilegunner"]}},{"id":"hansolo-scavengedyt1300","ship":"scavengedyt1300","points":65,"upgrades":{}},{"id":"bluesquadronrecruit","ship":"rz2awing","points":32,"upgrades":{}},{"id":"finn","ship":"resistancetransportpod","points":29,"upgrades":{}}],"points":199,"vendor":{},"version":"2.0.0","name":"Random Squad"}
+{
+    "name": "JM",
+    "number": 2,
+    "xws": {
+        "faction": "resistance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "finchdallow",
+                "points": 73,
+                "ship": "mg100starfortress",
+                "upgrades": {
+                    "crew": [
+                        "kaydelconnix"
+                    ],
+                    "gunner": [
+                        "agilegunner"
+                    ]
+                }
+            },
+            {
+                "id": "hansolo-scavengedyt1300",
+                "points": 65,
+                "ship": "scavengedyt1300",
+                "upgrades": {}
+            },
+            {
+                "id": "bluesquadronrecruit",
+                "points": 32,
+                "ship": "rz2awing",
+                "upgrades": {}
+            },
+            {
+                "id": "finn",
+                "points": 29,
+                "ship": "resistancetransportpod",
+                "upgrades": {}
+            }
+        ],
+        "points": 199,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Resistance&d=v8ZsZ200Z250XWW231W76WWWWY245XWWWWWWWY301XWWY350XWWW&sn=Random%20Squad&obs="
+}

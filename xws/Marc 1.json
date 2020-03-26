@@ -1,1 +1,57 @@
-{"faction":"rebelalliance","pilots":[{"id":"zeborrelios-sheathipedeclassshuttle","ship":"sheathipedeclassshuttle","points":43,"upgrades":{"modification":["electronicbaffle"],"astromech":["r2astromech"],"title":["phantom"]}},{"id":"leiaorgana","ship":"modifiedyt1300lightfreighter","points":90,"upgrades":{"force-power":["brilliantevasion"],"crew":["landocalrissian","cassianandor"]}},{"id":"roguesquadronescort","ship":"ewing","points":62,"upgrades":{"talent":["intimidation"],"torpedo":["advprotontorpedoes"]}}],"points":195,"vendor":{},"version":"2.0.0","name":"Random Squad"}
+{
+    "name": "Marc",
+    "number": 1,
+    "xws": {
+        "faction": "rebelalliance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "zeborrelios-sheathipedeclassshuttle",
+                "points": 43,
+                "ship": "sheathipedeclassshuttle",
+                "upgrades": {
+                    "astromech": [
+                        "r2astromech"
+                    ],
+                    "modification": [
+                        "electronicbaffle"
+                    ],
+                    "title": [
+                        "phantom"
+                    ]
+                }
+            },
+            {
+                "id": "leiaorgana",
+                "points": 90,
+                "ship": "modifiedyt1300lightfreighter",
+                "upgrades": {
+                    "crew": [
+                        "landocalrissian",
+                        "cassianandor"
+                    ],
+                    "force-power": [
+                        "brilliantevasion"
+                    ]
+                }
+            },
+            {
+                "id": "roguesquadronescort",
+                "points": 62,
+                "ship": "ewing",
+                "upgrades": {
+                    "talent": [
+                        "intimidation"
+                    ],
+                    "torpedo": [
+                        "advprotontorpedoes"
+                    ]
+                }
+            }
+        ],
+        "points": 195,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Rebel%20Alliance&d=v8ZsZ200Z71XWW106W2W167Y393X199WWW44W19WWWY23X122WW134WW&sn=Random%20Squad&obs="
+}

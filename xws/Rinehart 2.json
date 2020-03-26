@@ -1,1 +1,72 @@
-{"faction":"separatistalliance","pilots":[{"id":"generalgrievous","ship":"belbullab22starfighter","points":47,"upgrades":{"talent":["daredevil"],"modification":["munitionsfailsafe"]}},{"id":"dbs32c","ship":"hyenaclassdroidbomber","points":46,"upgrades":{"tacticalrelay":["tv94"],"configuration":["landingstruts"]}},{"id":"dbs404","ship":"hyenaclassdroidbomber","points":43,"upgrades":{"missile":["discordmissiles"],"device":["clustermines"],"configuration":["landingstruts"]}},{"id":"separatistbomber","ship":"hyenaclassdroidbomber","points":35,"upgrades":{"missile":["protonrockets"]}},{"id":"baktoidprototype","ship":"hyenaclassdroidbomber","points":28,"upgrades":{}}],"points":199,"vendor":{},"version":"2.0.0","name":"Random Squad"}
+{
+    "name": "Rinehart",
+    "number": 2,
+    "xws": {
+        "faction": "separatistalliance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "generalgrievous",
+                "points": 47,
+                "ship": "belbullab22starfighter",
+                "upgrades": {
+                    "modification": [
+                        "munitionsfailsafe"
+                    ],
+                    "talent": [
+                        "daredevil"
+                    ]
+                }
+            },
+            {
+                "id": "dbs32c",
+                "points": 46,
+                "ship": "hyenaclassdroidbomber",
+                "upgrades": {
+                    "configuration": [
+                        "landingstruts"
+                    ],
+                    "tacticalrelay": [
+                        "tv94"
+                    ]
+                }
+            },
+            {
+                "id": "dbs404",
+                "points": 43,
+                "ship": "hyenaclassdroidbomber",
+                "upgrades": {
+                    "configuration": [
+                        "landingstruts"
+                    ],
+                    "device": [
+                        "clustermines"
+                    ],
+                    "missile": [
+                        "discordmissiles"
+                    ]
+                }
+            },
+            {
+                "id": "separatistbomber",
+                "points": 35,
+                "ship": "hyenaclassdroidbomber",
+                "upgrades": {
+                    "missile": [
+                        "protonrockets"
+                    ]
+                }
+            },
+            {
+                "id": "baktoidprototype",
+                "points": 28,
+                "ship": "hyenaclassdroidbomber",
+                "upgrades": {}
+            }
+        ],
+        "points": 199,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Separatist%20Alliance&d=v8ZsZ200Z305X117WW108WY328XW223WW237Y326XW224W316WW237Y327XW102WWWY329XWWWW&sn=Random%20Squad&obs="
+}

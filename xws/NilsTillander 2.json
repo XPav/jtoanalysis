@@ -1,1 +1,56 @@
-{"faction":"rebelalliance","pilots":[{"id":"phoenixsquadronpilot","ship":"rz1awing","points":33,"upgrades":{"missile":["ionmissiles"]}},{"id":"bluesquadronescort","ship":"t65xwing","points":51,"upgrades":{"torpedo":["plasmatorpedoes"],"astromech":["chopper"],"configuration":["servomotorsfoils"]}},{"id":"wildspacefringer","ship":"yt2400lightfreighter","points":89,"upgrades":{"crew":["kananjarrus"]}},{"id":"zeborrelios-tielnfighter","ship":"tielnfighter","points":24,"upgrades":{}}],"points":197,"vendor":{},"version":"2.0.0","name":"Random Squad"}
+{
+    "name": "NilsTillander",
+    "number": 2,
+    "xws": {
+        "faction": "rebelalliance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "phoenixsquadronpilot",
+                "points": 33,
+                "ship": "rz1awing",
+                "upgrades": {
+                    "missile": [
+                        "ionmissiles"
+                    ]
+                }
+            },
+            {
+                "id": "bluesquadronescort",
+                "points": 51,
+                "ship": "t65xwing",
+                "upgrades": {
+                    "astromech": [
+                        "chopper"
+                    ],
+                    "configuration": [
+                        "servomotorsfoils"
+                    ],
+                    "torpedo": [
+                        "plasmatorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "wildspacefringer",
+                "points": 89,
+                "ship": "yt2400lightfreighter",
+                "upgrades": {
+                    "crew": [
+                        "kananjarrus"
+                    ]
+                }
+            },
+            {
+                "id": "zeborrelios-tielnfighter",
+                "points": 24,
+                "ship": "tielnfighter",
+                "upgrades": {}
+            }
+        ],
+        "points": 197,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Rebel%20Alliance&d=v8ZsZ200Z53XW101Y1X234W0WW142Y41XWW41WWWY15X&sn=Random%20Squad&obs="
+}

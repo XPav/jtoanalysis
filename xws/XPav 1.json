@@ -1,1 +1,62 @@
-{"faction":"galacticrepublic","pilots":[{"id":"swoop","ship":"v19torrentstarfighter","points":39,"upgrades":{"talent":["intimidation"],"missile":["homingmissiles"]}},{"id":"wolffe","ship":"arc170starfighter","points":68,"upgrades":{"talent":["lonewolf"],"torpedo":["iontorpedoes"],"gunner":["hotshotgunner"]}},{"id":"anakinskywalker-btlbywing","ship":"btlbywing","points":67,"upgrades":{"force-power":["predictiveshot"],"torpedo":["iontorpedoes"]}},{"id":"goldsquadrontrooper","ship":"v19torrentstarfighter","points":25,"upgrades":{}}],"points":199,"vendor":{},"version":"2.0.0","name":"Random Squad"}
+{
+    "name": "XPav",
+    "number": 1,
+    "xws": {
+        "faction": "galacticrepublic",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "swoop",
+                "points": 39,
+                "ship": "v19torrentstarfighter",
+                "upgrades": {
+                    "missile": [
+                        "homingmissiles"
+                    ],
+                    "talent": [
+                        "intimidation"
+                    ]
+                }
+            },
+            {
+                "id": "wolffe",
+                "points": 68,
+                "ship": "arc170starfighter",
+                "upgrades": {
+                    "gunner": [
+                        "hotshotgunner"
+                    ],
+                    "talent": [
+                        "lonewolf"
+                    ],
+                    "torpedo": [
+                        "iontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "anakinskywalker-btlbywing",
+                "points": 67,
+                "ship": "btlbywing",
+                "upgrades": {
+                    "force-power": [
+                        "predictiveshot"
+                    ],
+                    "torpedo": [
+                        "iontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "goldsquadrontrooper",
+                "points": 25,
+                "ship": "v19torrentstarfighter",
+                "upgrades": {}
+            }
+        ],
+        "points": 199,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Galactic%20Republic&d=v8ZsZ200Z317X122W100WY342X124W135WW86WWY359X203WW135WWWWY321XW&sn=Random%20Squad&obs="
+}

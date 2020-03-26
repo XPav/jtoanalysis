@@ -1,1 +1,52 @@
-{"faction":"rebelalliance","pilots":[{"id":"leebo","ship":"yt2400lightfreighter","points":100,"upgrades":{"gunner":["skilledbombardier"],"title":["outrider"],"illicit":["feedbackarray"]}},{"id":"k2so","ship":"ut60duwing","points":52,"upgrades":{"sensor":["passivesensors"],"crew":["freelanceslicer"],"configuration":["pivotwing"]}},{"id":"esegetuketu","ship":"btls8kwing","points":44,"upgrades":{}}],"points":196,"vendor":{},"version":"2.0.0","name":"Random Squad"}
+{
+    "name": "Roninaurne",
+    "number": 2,
+    "xws": {
+        "faction": "rebelalliance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "leebo",
+                "points": 100,
+                "ship": "yt2400lightfreighter",
+                "upgrades": {
+                    "gunner": [
+                        "skilledbombardier"
+                    ],
+                    "illicit": [
+                        "feedbackarray"
+                    ],
+                    "title": [
+                        "outrider"
+                    ]
+                }
+            },
+            {
+                "id": "k2so",
+                "points": 52,
+                "ship": "ut60duwing",
+                "upgrades": {
+                    "configuration": [
+                        "pivotwing"
+                    ],
+                    "crew": [
+                        "freelanceslicer"
+                    ],
+                    "sensor": [
+                        "passivesensors"
+                    ]
+                }
+            },
+            {
+                "id": "esegetuketu",
+                "points": 44,
+                "ship": "btls8kwing",
+                "upgrades": {}
+            }
+        ],
+        "points": 196,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Rebel%20Alliance&d=v8ZsZ200Z40XW88WW157W94Y390XW240WW30WW140Y18XWWWWWWW&sn=Random%20Squad&obs="
+}

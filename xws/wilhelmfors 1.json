@@ -1,1 +1,46 @@
-{"faction":"firstorder","pilots":[{"id":"firstorderprovocateur","ship":"tiebainterceptor","points":48,"upgrades":{"talent":["elusive"]}},{"id":"firstordertestpilot","ship":"tievnsilencer","points":62,"upgrades":{"tech":["targetingsynchronizer"]}},{"id":"ember","ship":"tiebainterceptor","points":52,"upgrades":{}},{"id":"commandermalarus","ship":"tiefofighter","points":38,"upgrades":{}}],"points":200,"vendor":{},"version":"2.0.0","name":"Random Squad"}
+{
+    "name": "wilhelmfors",
+    "number": 1,
+    "xws": {
+        "faction": "firstorder",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "firstorderprovocateur",
+                "points": 48,
+                "ship": "tiebainterceptor",
+                "upgrades": {
+                    "talent": [
+                        "elusive"
+                    ]
+                }
+            },
+            {
+                "id": "firstordertestpilot",
+                "points": 62,
+                "ship": "tievnsilencer",
+                "upgrades": {
+                    "tech": [
+                        "targetingsynchronizer"
+                    ]
+                }
+            },
+            {
+                "id": "ember",
+                "points": 52,
+                "ship": "tiebainterceptor",
+                "upgrades": {}
+            },
+            {
+                "id": "commandermalarus",
+                "points": 38,
+                "ship": "tiefofighter",
+                "upgrades": {}
+            }
+        ],
+        "points": 200,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=First%20Order&d=v8ZsZ200Z384X119WWWY287XW177WWY383XWWWY266XWW&sn=Random%20Squad&obs="
+}

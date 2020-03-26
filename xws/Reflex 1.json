@@ -1,1 +1,50 @@
-{"faction":"resistance","pilots":[{"id":"rey","ship":"scavengedyt1300","points":96,"upgrades":{"crew":["chewbacca-crew-swz19","korrsella"],"gunner":["hotshotgunner"],"modification":["ablativeplating"],"title":["reysmillenniumfalcon"]}},{"id":"poedameron","ship":"t70xwing","points":68,"upgrades":{"configuration":["integratedsfoils"]}},{"id":"jarekyeager","ship":"fireball","points":33,"upgrades":{}}],"points":197,"vendor":{},"version":"2.0.0","name":"Random Squad"}
+{
+    "name": "Reflex",
+    "number": 1,
+    "xws": {
+        "faction": "resistance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "rey",
+                "points": 96,
+                "ship": "scavengedyt1300",
+                "upgrades": {
+                    "crew": [
+                        "chewbacca-crew-swz19",
+                        "korrsella"
+                    ],
+                    "gunner": [
+                        "hotshotgunner"
+                    ],
+                    "modification": [
+                        "ablativeplating"
+                    ],
+                    "title": [
+                        "reysmillenniumfalcon"
+                    ]
+                }
+            },
+            {
+                "id": "poedameron",
+                "points": 68,
+                "ship": "t70xwing",
+                "upgrades": {
+                    "configuration": [
+                        "integratedsfoils"
+                    ]
+                }
+            },
+            {
+                "id": "jarekyeager",
+                "points": 33,
+                "ship": "fireball",
+                "upgrades": {}
+            }
+        ],
+        "points": 197,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Resistance&d=v8ZsZ200Z244XWW188W245W86WW103W193Y231XWWW175WWWY377XWWWWWW&sn=Random%20Squad&obs="
+}

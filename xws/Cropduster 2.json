@@ -1,1 +1,69 @@
-{"faction":"scumandvillainy","pilots":[{"id":"captainnym","ship":"scurrgh6bomber","points":64,"upgrades":{"talent":["marksmanship"],"turret":["dorsalturret"],"device":["clustermines"],"modification":["tacticalscrambler"],"title":["havoc"]}},{"id":"miningguildsentry","ship":"modifiedtielnfighter","points":29,"upgrades":{"modification":["hullupgrade"]}},{"id":"ig88b","ship":"aggressorassaultfighter","points":70,"upgrades":{"talent":["crackshot"],"device":["ionbombs"]}},{"id":"hiredgun","ship":"btla4ywing","points":34,"upgrades":{"gunner":["skilledbombardier"]}}],"points":197,"vendor":{},"version":"2.0.0","name":"Random Squad"}
+{
+    "name": "Cropduster",
+    "number": 2,
+    "xws": {
+        "faction": "scumandvillainy",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "captainnym",
+                "points": 64,
+                "ship": "scurrgh6bomber",
+                "upgrades": {
+                    "device": [
+                        "clustermines"
+                    ],
+                    "modification": [
+                        "tacticalscrambler"
+                    ],
+                    "talent": [
+                        "marksmanship"
+                    ],
+                    "title": [
+                        "havoc"
+                    ],
+                    "turret": [
+                        "dorsalturret"
+                    ]
+                }
+            },
+            {
+                "id": "miningguildsentry",
+                "points": 29,
+                "ship": "modifiedtielnfighter",
+                "upgrades": {
+                    "modification": [
+                        "hullupgrade"
+                    ]
+                }
+            },
+            {
+                "id": "ig88b",
+                "points": 70,
+                "ship": "aggressorassaultfighter",
+                "upgrades": {
+                    "device": [
+                        "ionbombs"
+                    ],
+                    "talent": [
+                        "crackshot"
+                    ]
+                }
+            },
+            {
+                "id": "hiredgun",
+                "points": 34,
+                "ship": "btla4ywing",
+                "upgrades": {
+                    "gunner": [
+                        "skilledbombardier"
+                    ]
+                }
+            }
+        ],
+        "points": 197,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Scum%20and%20Villainy&d=v8ZsZ200Z144X125W137WWWW316W110W149WWY304X164Y82X116WWWW317WWWY87XWWW88WWWW&sn=Random%20Squad&obs="
+}

@@ -1,1 +1,68 @@
-{"faction":"firstorder","pilots":[{"id":"pettyofficerthanisson","ship":"upsilonclasscommandshuttle","points":98,"upgrades":{"tech":["deuteriumpowercells","patternanalyzer"],"crew":["captainphasma","novicetechnician","informant"],"cannon":["heavylasercannon"],"sensor":["trajectorysimulator"]}},{"id":"lieutenantlehuse","ship":"tiesffighter","points":68,"upgrades":{"talent":["outmaneuver"],"tech":["biohexacryptcodes"],"missile":["ionmissiles"],"gunner":["agilegunner"],"sensor":["advancedsensors"]}},{"id":"zetasquadronsurvivor","ship":"tiesffighter","points":34,"upgrades":{"sensor":["firecontrolsystem"]}}],"points":200,"vendor":{},"version":"2.0.0","name":"Random Squad"}
+{
+    "name": "RonPon",
+    "number": 1,
+    "xws": {
+        "faction": "firstorder",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "pettyofficerthanisson",
+                "points": 98,
+                "ship": "upsilonclasscommandshuttle",
+                "upgrades": {
+                    "cannon": [
+                        "heavylasercannon"
+                    ],
+                    "crew": [
+                        "captainphasma",
+                        "novicetechnician",
+                        "informant"
+                    ],
+                    "sensor": [
+                        "trajectorysimulator"
+                    ],
+                    "tech": [
+                        "deuteriumpowercells",
+                        "patternanalyzer"
+                    ]
+                }
+            },
+            {
+                "id": "lieutenantlehuse",
+                "points": 68,
+                "ship": "tiesffighter",
+                "upgrades": {
+                    "gunner": [
+                        "agilegunner"
+                    ],
+                    "missile": [
+                        "ionmissiles"
+                    ],
+                    "sensor": [
+                        "advancedsensors"
+                    ],
+                    "talent": [
+                        "outmaneuver"
+                    ],
+                    "tech": [
+                        "biohexacryptcodes"
+                    ]
+                }
+            },
+            {
+                "id": "zetasquadronsurvivor",
+                "points": 34,
+                "ship": "tiesffighter",
+                "upgrades": {
+                    "sensor": [
+                        "firecontrolsystem"
+                    ]
+                }
+            }
+        ],
+        "points": 200,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=First%20Order&d=v8ZsZ200Z281X318W206W183W53W37W10W114WY397X126W202W101W76W111WY259XWWW113W&sn=Random%20Squad&obs="
+}

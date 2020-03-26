@@ -1,1 +1,53 @@
-{"faction":"resistance","pilots":[{"id":"zaribangel","ship":"rz2awing","points":45,"upgrades":{"missile":["ionmissiles"],"tech":["targetingsynchronizer"]}},{"id":"lulolampar","ship":"rz2awing","points":43,"upgrades":{}},{"id":"pammichnerrogoode","ship":"resistancetransport","points":42,"upgrades":{"tech":["targetingsynchronizer"]}},{"id":"hansolo-scavengedyt1300","ship":"scavengedyt1300","points":67,"upgrades":{"title":["reysmillenniumfalcon"]}}],"points":197,"vendor":{},"version":"2.0.0","name":"Random Squad"}
+{
+    "name": "Quack_Shot",
+    "number": 1,
+    "xws": {
+        "faction": "resistance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "zaribangel",
+                "points": 45,
+                "ship": "rz2awing",
+                "upgrades": {
+                    "missile": [
+                        "ionmissiles"
+                    ],
+                    "tech": [
+                        "targetingsynchronizer"
+                    ]
+                }
+            },
+            {
+                "id": "lulolampar",
+                "points": 43,
+                "ship": "rz2awing",
+                "upgrades": {}
+            },
+            {
+                "id": "pammichnerrogoode",
+                "points": 42,
+                "ship": "resistancetransport",
+                "upgrades": {
+                    "tech": [
+                        "targetingsynchronizer"
+                    ]
+                }
+            },
+            {
+                "id": "hansolo-scavengedyt1300",
+                "points": 67,
+                "ship": "scavengedyt1300",
+                "upgrades": {
+                    "title": [
+                        "reysmillenniumfalcon"
+                    ]
+                }
+            }
+        ],
+        "points": 197,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Resistance&d=v8ZsZ200Z271XWW101W177Y239XWWWY347X177WWWWWWY245XWWWWWWW193&sn=Random%20Squad&obs="
+}

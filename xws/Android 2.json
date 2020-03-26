@@ -1,1 +1,36 @@
-{"faction":"rebelalliance","pilots":[{"id":"lowhhrick","ship":"auzituckgunship","points":53,"upgrades":{"crew":["chopper-crew"]}},{"id":"wildspacefringer","ship":"yt2400lightfreighter","points":77,"upgrades":{}},{"id":"corranhorn","ship":"ewing","points":66,"upgrades":{}}],"points":196,"vendor":{},"version":"2.0.0","name":"Random Squad"}
+{
+    "name": "Android",
+    "number": 2,
+    "xws": {
+        "faction": "rebelalliance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "lowhhrick",
+                "points": 53,
+                "ship": "auzituckgunship",
+                "upgrades": {
+                    "crew": [
+                        "chopper-crew"
+                    ]
+                }
+            },
+            {
+                "id": "wildspacefringer",
+                "points": 77,
+                "ship": "yt2400lightfreighter",
+                "upgrades": {}
+            },
+            {
+                "id": "corranhorn",
+                "points": 66,
+                "ship": "ewing",
+                "upgrades": {}
+            }
+        ],
+        "points": 196,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Rebel%20Alliance&d=v8ZsZ200Z59XWW23WY41XWWWWWY21XWWWW&sn=Random%20Squad&obs="
+}

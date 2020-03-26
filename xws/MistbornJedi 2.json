@@ -1,1 +1,65 @@
-{"faction":"galacticrepublic","pilots":[{"id":"anakinskywalker-btlbywing","ship":"btlbywing","points":75,"upgrades":{"force-power":["foresight"],"gunner":["agilegunner"],"astromech":["r3astromech"]}},{"id":"oddball-btlbywing","ship":"btlbywing","points":60,"upgrades":{"turret":["dorsalturret"],"torpedo":["advprotontorpedoes"],"device":["ionbombs"],"modification":["delayedfuses"]}},{"id":"goldsquadrontrooper","ship":"v19torrentstarfighter","points":25,"upgrades":{}},{"id":"kickback","ship":"v19torrentstarfighter","points":39,"upgrades":{"modification":["afterburners"]}}],"points":199,"vendor":{},"version":"2.0.0","name":"Random Squad"}
+{
+    "name": "MistbornJedi",
+    "number": 2,
+    "xws": {
+        "faction": "galacticrepublic",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "anakinskywalker-btlbywing",
+                "points": 75,
+                "ship": "btlbywing",
+                "upgrades": {
+                    "astromech": [
+                        "r3astromech"
+                    ],
+                    "force-power": [
+                        "foresight"
+                    ],
+                    "gunner": [
+                        "agilegunner"
+                    ]
+                }
+            },
+            {
+                "id": "oddball-btlbywing",
+                "points": 60,
+                "ship": "btlbywing",
+                "upgrades": {
+                    "device": [
+                        "ionbombs"
+                    ],
+                    "modification": [
+                        "delayedfuses"
+                    ],
+                    "torpedo": [
+                        "advprotontorpedoes"
+                    ],
+                    "turret": [
+                        "dorsalturret"
+                    ]
+                }
+            },
+            {
+                "id": "goldsquadrontrooper",
+                "points": 25,
+                "ship": "v19torrentstarfighter",
+                "upgrades": {}
+            },
+            {
+                "id": "kickback",
+                "points": 39,
+                "ship": "v19torrentstarfighter",
+                "upgrades": {
+                    "modification": [
+                        "afterburners"
+                    ]
+                }
+            }
+        ],
+        "points": 199,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Galactic%20Republic&d=v8ZsZ200Z359X251WWW76W4WWY366XW137W134WWW317W236Y321XWY315XWW105&sn=Random%20Squad&obs="
+}

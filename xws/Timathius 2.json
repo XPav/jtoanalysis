@@ -1,1 +1,65 @@
-{"faction":"galacticrepublic","pilots":[{"id":"redsquadronbomber","ship":"btlbywing","points":46,"upgrades":{"turret":["ioncannonturret"],"gunner":["hotshotgunner"],"astromech":["r4pastromech"]}},{"id":"dineeellberger","ship":"nabooroyaln1starfighter","points":38,"upgrades":{}},{"id":"104thbattalionpilot","ship":"arc170starfighter","points":48,"upgrades":{"astromech":["r2a6"]}},{"id":"oddball-btlbywing","ship":"btlbywing","points":63,"upgrades":{"turret":["ioncannonturret"],"torpedo":["iontorpedoes"],"gunner":["skilledbombardier"],"device":["proximitymines"]}}],"points":195,"vendor":{},"version":"2.0.0","name":"Random Squad"}
+{
+    "name": "Timathius",
+    "number": 2,
+    "xws": {
+        "faction": "galacticrepublic",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "redsquadronbomber",
+                "points": 46,
+                "ship": "btlbywing",
+                "upgrades": {
+                    "astromech": [
+                        "r4pastromech"
+                    ],
+                    "gunner": [
+                        "hotshotgunner"
+                    ],
+                    "turret": [
+                        "ioncannonturret"
+                    ]
+                }
+            },
+            {
+                "id": "dineeellberger",
+                "points": 38,
+                "ship": "nabooroyaln1starfighter",
+                "upgrades": {}
+            },
+            {
+                "id": "104thbattalionpilot",
+                "points": 48,
+                "ship": "arc170starfighter",
+                "upgrades": {
+                    "astromech": [
+                        "r2a6"
+                    ]
+                }
+            },
+            {
+                "id": "oddball-btlbywing",
+                "points": 63,
+                "ship": "btlbywing",
+                "upgrades": {
+                    "device": [
+                        "proximitymines"
+                    ],
+                    "gunner": [
+                        "skilledbombardier"
+                    ],
+                    "torpedo": [
+                        "iontorpedoes"
+                    ],
+                    "turret": [
+                        "ioncannonturret"
+                    ]
+                }
+            }
+        ],
+        "points": 195,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Galactic%20Republic&d=v8ZsZ200Z361X138WW86W213WWY331XWWWY341XWWW241WY366XW138W135W88WW70W&sn=Random%20Squad&obs="
+}

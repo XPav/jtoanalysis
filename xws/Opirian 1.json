@@ -1,1 +1,68 @@
-{"faction":"scumandvillainy","pilots":[{"id":"hiredgun","ship":"btla4ywing","points":58,"upgrades":{"talent":["composure"],"torpedo":["protontorpedoes"],"astromech":["r5tk"],"device":["ionbombs"],"modification":["angleddeflectors"]}},{"id":"solsixxa","ship":"scurrgh6bomber","points":65,"upgrades":{"talent":["swarmtactics"],"turret":["ioncannonturret"],"gunner":["hotshotgunner"],"title":["havoc"],"astromech":["genius"]}},{"id":"kathscarlet","ship":"firesprayclasspatrolcraft","points":75,"upgrades":{"device":["seismiccharges"]}}],"points":198,"vendor":{},"version":"2.0.0","name":"Random Squad"}
+{
+    "name": "Opirian",
+    "number": 1,
+    "xws": {
+        "faction": "scumandvillainy",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "hiredgun",
+                "points": 58,
+                "ship": "btla4ywing",
+                "upgrades": {
+                    "astromech": [
+                        "r5tk"
+                    ],
+                    "device": [
+                        "ionbombs"
+                    ],
+                    "modification": [
+                        "angleddeflectors"
+                    ],
+                    "talent": [
+                        "composure"
+                    ],
+                    "torpedo": [
+                        "protontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "solsixxa",
+                "points": 65,
+                "ship": "scurrgh6bomber",
+                "upgrades": {
+                    "astromech": [
+                        "genius"
+                    ],
+                    "gunner": [
+                        "hotshotgunner"
+                    ],
+                    "talent": [
+                        "swarmtactics"
+                    ],
+                    "title": [
+                        "havoc"
+                    ],
+                    "turret": [
+                        "ioncannonturret"
+                    ]
+                }
+            },
+            {
+                "id": "kathscarlet",
+                "points": 75,
+                "ship": "firesprayclasspatrolcraft",
+                "upgrades": {
+                    "device": [
+                        "seismiccharges"
+                    ]
+                }
+            }
+        ],
+        "points": 198,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Scum%20and%20Villainy&d=v8ZsZ200Z87X115WW136WW9W317WW247Y145X132W138WW86WWWW149WW1Y105XWWWW71WWW&sn=Random%20Squad&obs="
+}

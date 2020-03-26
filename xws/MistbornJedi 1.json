@@ -1,1 +1,70 @@
-{"faction":"resistance","pilots":[{"id":"nodinchavdri","ship":"resistancetransport","points":63,"upgrades":{"cannon":["tractorbeam"],"torpedo":["advprotontorpedoes"],"crew":["novicetechnician","perceptivecopilot"],"astromech":["r5x3"],"modification":["delayedfuses"]}},{"id":"resistancesympathizer","ship":"scavengedyt1300","points":81,"upgrades":{"crew":["amilynholdo","freelanceslicer"],"illicit":["inertialdampeners"],"modification":["ablativeplating"],"title":["reysmillenniumfalcon"]}},{"id":"lulolampar","ship":"rz2awing","points":53,"upgrades":{"talent":["swarmtactics"],"tech":["ferrospherepaint"]}}],"points":197,"vendor":{},"version":"2.0.0","name":"Random Squad"}
+{
+    "name": "MistbornJedi",
+    "number": 1,
+    "xws": {
+        "faction": "resistance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "nodinchavdri",
+                "points": 63,
+                "ship": "resistancetransport",
+                "upgrades": {
+                    "astromech": [
+                        "r5x3"
+                    ],
+                    "cannon": [
+                        "tractorbeam"
+                    ],
+                    "crew": [
+                        "novicetechnician",
+                        "perceptivecopilot"
+                    ],
+                    "modification": [
+                        "delayedfuses"
+                    ],
+                    "torpedo": [
+                        "advprotontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "resistancesympathizer",
+                "points": 81,
+                "ship": "scavengedyt1300",
+                "upgrades": {
+                    "crew": [
+                        "amilynholdo",
+                        "freelanceslicer"
+                    ],
+                    "illicit": [
+                        "inertialdampeners"
+                    ],
+                    "modification": [
+                        "ablativeplating"
+                    ],
+                    "title": [
+                        "reysmillenniumfalcon"
+                    ]
+                }
+            },
+            {
+                "id": "lulolampar",
+                "points": 53,
+                "ship": "rz2awing",
+                "upgrades": {
+                    "talent": [
+                        "swarmtactics"
+                    ],
+                    "tech": [
+                        "ferrospherepaint"
+                    ]
+                }
+            }
+        ],
+        "points": 197,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Resistance&d=v8ZsZ200Z352XW13W134W53W54W205W236Y295XW242W30WW95W103W193Y239XW132WW198&sn=Random%20Squad&obs="
+}

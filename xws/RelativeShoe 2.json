@@ -1,1 +1,56 @@
-{"faction":"scumandvillainy","pilots":[{"id":"torkilmux","ship":"hwk290lightfreighter","points":73,"upgrades":{"crew":["freelanceslicer"],"device":["ionbombs"],"modification":["afterburners","engineupgrade"],"title":["moldycrow"]}},{"id":"gandfindsman","ship":"g1astarfighter","points":41,"upgrades":{}},{"id":"outerrimpioneer","ship":"escapecraft","points":28,"upgrades":{}},{"id":"captainnym","ship":"scurrgh6bomber","points":53,"upgrades":{"device":["bombletgenerator"]}}],"points":195,"vendor":{},"version":"2.0.0","name":"Random Squad"}
+{
+    "name": "RelativeShoe",
+    "number": 2,
+    "xws": {
+        "faction": "scumandvillainy",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "torkilmux",
+                "points": 73,
+                "ship": "hwk290lightfreighter",
+                "upgrades": {
+                    "crew": [
+                        "freelanceslicer"
+                    ],
+                    "device": [
+                        "ionbombs"
+                    ],
+                    "modification": [
+                        "afterburners",
+                        "engineupgrade"
+                    ],
+                    "title": [
+                        "moldycrow"
+                    ]
+                }
+            },
+            {
+                "id": "gandfindsman",
+                "points": 41,
+                "ship": "g1astarfighter",
+                "upgrades": {}
+            },
+            {
+                "id": "outerrimpioneer",
+                "points": 28,
+                "ship": "escapecraft",
+                "upgrades": {}
+            },
+            {
+                "id": "captainnym",
+                "points": 53,
+                "ship": "scurrgh6bomber",
+                "upgrades": {
+                    "device": [
+                        "bombletgenerator"
+                    ]
+                }
+            }
+        ],
+        "points": 195,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Scum%20and%20Villainy&d=v8ZsZ200Z114X30W317WW105W107W156Y111XWWWWY94XWWY144XWWWW67WWW&sn=Random%20Squad&obs="
+}

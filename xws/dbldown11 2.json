@@ -1,1 +1,59 @@
-{"faction":"separatistalliance","pilots":[{"id":"darkcourier","ship":"sithinfiltrator","points":64,"upgrades":{"cannon":["autoblasters"],"crew":["seasonednavigator"],"device":["ionbombs"]}},{"id":"countdooku","ship":"sithinfiltrator","points":79,"upgrades":{"torpedo":["plasmatorpedoes"],"modification":["hullupgrade"],"title":["scimitar"]}},{"id":"captainsear","ship":"belbullab22starfighter","points":56,"upgrades":{"tacticalrelay":["tv94"],"title":["soullessone"]}}],"points":199,"vendor":{},"version":"2.0.0","name":"Random Squad"}
+{
+    "name": "dbldown11",
+    "number": 2,
+    "xws": {
+        "faction": "separatistalliance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "darkcourier",
+                "points": 64,
+                "ship": "sithinfiltrator",
+                "upgrades": {
+                    "cannon": [
+                        "autoblasters"
+                    ],
+                    "crew": [
+                        "seasonednavigator"
+                    ],
+                    "device": [
+                        "ionbombs"
+                    ]
+                }
+            },
+            {
+                "id": "countdooku",
+                "points": 79,
+                "ship": "sithinfiltrator",
+                "upgrades": {
+                    "modification": [
+                        "hullupgrade"
+                    ],
+                    "title": [
+                        "scimitar"
+                    ],
+                    "torpedo": [
+                        "plasmatorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "captainsear",
+                "points": 56,
+                "ship": "belbullab22starfighter",
+                "upgrades": {
+                    "tacticalrelay": [
+                        "tv94"
+                    ],
+                    "title": [
+                        "soullessone"
+                    ]
+                }
+            }
+        ],
+        "points": 199,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Separatist%20Alliance&d=v8ZsZ200Z336X232WW59WW317WWWY334XWW234WWWW164W216WY308X223WW229&sn=Random%20Squad&obs="
+}

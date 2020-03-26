@@ -1,1 +1,66 @@
-{"faction":"resistance","pilots":[{"id":"kazudaxiono","ship":"fireball","points":59,"upgrades":{"talent":["trickshot"],"missile":["magpulsewarheads"],"modification":["delayedfuses","staticdischargevanes"],"title":["kazsfireball"]}},{"id":"tallissanlintra","ship":"rz2awing","points":43,"upgrades":{"missile":["protonrockets"]}},{"id":"blacksquadronace-t70xwing","ship":"t70xwing","points":58,"upgrades":{"astromech":["bb8"],"configuration":["integratedsfoils"],"cannon":["heavylasercannon"]}},{"id":"zaribangel","ship":"rz2awing","points":35,"upgrades":{}}],"points":195,"vendor":{},"version":"2.0.0","name":"Random Squad"}
+{
+    "name": "Vipcard3",
+    "number": 2,
+    "xws": {
+        "faction": "resistance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "kazudaxiono",
+                "points": 59,
+                "ship": "fireball",
+                "upgrades": {
+                    "missile": [
+                        "magpulsewarheads"
+                    ],
+                    "modification": [
+                        "delayedfuses",
+                        "staticdischargevanes"
+                    ],
+                    "talent": [
+                        "trickshot"
+                    ],
+                    "title": [
+                        "kazsfireball"
+                    ]
+                }
+            },
+            {
+                "id": "tallissanlintra",
+                "points": 43,
+                "ship": "rz2awing",
+                "upgrades": {
+                    "missile": [
+                        "protonrockets"
+                    ]
+                }
+            },
+            {
+                "id": "blacksquadronace-t70xwing",
+                "points": 58,
+                "ship": "t70xwing",
+                "upgrades": {
+                    "astromech": [
+                        "bb8"
+                    ],
+                    "cannon": [
+                        "heavylasercannon"
+                    ],
+                    "configuration": [
+                        "integratedsfoils"
+                    ]
+                }
+            },
+            {
+                "id": "zaribangel",
+                "points": 35,
+                "ship": "rz2awing",
+                "upgrades": {}
+            }
+        ],
+        "points": 195,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Resistance&d=v8ZsZ200Z378X133W311WWW236W109W315Y240XWW102WY256XW195WW175WWW10Y271XWWW&sn=Random%20Squad&obs="
+}

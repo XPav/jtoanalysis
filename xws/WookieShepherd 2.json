@@ -1,1 +1,56 @@
-{"faction":"rebelalliance","pilots":[{"id":"chewbacca","ship":"modifiedyt1300lightfreighter","points":80,"upgrades":{"missile":["concussionmissiles"],"modification":["hullupgrade"]}},{"id":"zeborrelios","ship":"attackshuttle","points":32,"upgrades":{}},{"id":"leevantenza","ship":"t65xwing","points":47,"upgrades":{"talent":["selfless"],"configuration":["servomotorsfoils"]}},{"id":"cavernangelszealot","ship":"t65xwing","points":39,"upgrades":{"configuration":["servomotorsfoils"]}}],"points":198,"vendor":{},"version":"2.0.0","name":"Random Squad"}
+{
+    "name": "WookieShepherd",
+    "number": 2,
+    "xws": {
+        "faction": "rebelalliance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "chewbacca",
+                "points": 80,
+                "ship": "modifiedyt1300lightfreighter",
+                "upgrades": {
+                    "missile": [
+                        "concussionmissiles"
+                    ],
+                    "modification": [
+                        "hullupgrade"
+                    ]
+                }
+            },
+            {
+                "id": "zeborrelios",
+                "points": 32,
+                "ship": "attackshuttle",
+                "upgrades": {}
+            },
+            {
+                "id": "leevantenza",
+                "points": 47,
+                "ship": "t65xwing",
+                "upgrades": {
+                    "configuration": [
+                        "servomotorsfoils"
+                    ],
+                    "talent": [
+                        "selfless"
+                    ]
+                }
+            },
+            {
+                "id": "cavernangelszealot",
+                "points": 39,
+                "ship": "t65xwing",
+                "upgrades": {
+                    "configuration": [
+                        "servomotorsfoils"
+                    ]
+                }
+            }
+        ],
+        "points": 198,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Rebel%20Alliance&d=v8ZsZ200Z44XW99WWWW164WWY68XWWWY10XW130WWWW142Y0XWWWW142&sn=Random%20Squad&obs="
+}

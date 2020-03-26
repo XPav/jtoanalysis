@@ -1,1 +1,68 @@
-{"faction":"resistance","pilots":[{"id":"jarekyeager","ship":"fireball","points":56,"upgrades":{"talent":["juke"],"missile":["concussionmissiles"],"astromech":["bb8"],"modification":["delayedfuses"],"title":["kazsfireball"]}},{"id":"colossusstationmechanic","ship":"fireball","points":36,"upgrades":{"astromech":["r5astromech"],"modification":["shieldupgrade"]}},{"id":"rey","ship":"scavengedyt1300","points":77,"upgrades":{"crew":["informant"],"title":["reysmillenniumfalcon"]}},{"id":"rosetico","ship":"resistancetransportpod","points":26,"upgrades":{}}],"points":195,"vendor":{},"version":"2.0.0","name":"Random Squad"}
+{
+    "name": "bevicadarn",
+    "number": 1,
+    "xws": {
+        "faction": "resistance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "jarekyeager",
+                "points": 56,
+                "ship": "fireball",
+                "upgrades": {
+                    "astromech": [
+                        "bb8"
+                    ],
+                    "missile": [
+                        "concussionmissiles"
+                    ],
+                    "modification": [
+                        "delayedfuses"
+                    ],
+                    "talent": [
+                        "juke"
+                    ],
+                    "title": [
+                        "kazsfireball"
+                    ]
+                }
+            },
+            {
+                "id": "colossusstationmechanic",
+                "points": 36,
+                "ship": "fireball",
+                "upgrades": {
+                    "astromech": [
+                        "r5astromech"
+                    ],
+                    "modification": [
+                        "shieldupgrade"
+                    ]
+                }
+            },
+            {
+                "id": "rey",
+                "points": 77,
+                "ship": "scavengedyt1300",
+                "upgrades": {
+                    "crew": [
+                        "informant"
+                    ],
+                    "title": [
+                        "reysmillenniumfalcon"
+                    ]
+                }
+            },
+            {
+                "id": "rosetico",
+                "points": 26,
+                "ship": "resistancetransportpod",
+                "upgrades": {}
+            }
+        ],
+        "points": 195,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Resistance&d=v8ZsZ200Z377X123W99W195WW236WW315Y380XW6WW165WWY244XWW37WWWWW193Y345XWWW&sn=Random%20Squad&obs="
+}

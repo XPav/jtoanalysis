@@ -1,1 +1,69 @@
-{"faction":"galacticrepublic","pilots":[{"id":"luminaraunduli","ship":"delta7aethersprite","points":47,"upgrades":{"force-power":["foresight"]}},{"id":"matchstick","ship":"btlbywing","points":66,"upgrades":{"turret":["ioncannonturret"],"torpedo":["plasmatorpedoes"],"astromech":["r5astromech"],"device":["protonbombs"]}},{"id":"goldsquadrontrooper","ship":"v19torrentstarfighter","points":28,"upgrades":{"modification":["targetingcomputer"]}},{"id":"squadsevenveteran","ship":"arc170starfighter","points":58,"upgrades":{"torpedo":["plasmatorpedoes"],"astromech":["r5astromech"],"modification":["synchronizedconsole"]}}],"points":199,"vendor":{},"version":"2.0.0","name":"Random Squad"}
+{
+    "name": "wilhelmfors",
+    "number": 2,
+    "xws": {
+        "faction": "galacticrepublic",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "luminaraunduli",
+                "points": 47,
+                "ship": "delta7aethersprite",
+                "upgrades": {
+                    "force-power": [
+                        "foresight"
+                    ]
+                }
+            },
+            {
+                "id": "matchstick",
+                "points": 66,
+                "ship": "btlbywing",
+                "upgrades": {
+                    "astromech": [
+                        "r5astromech"
+                    ],
+                    "device": [
+                        "protonbombs"
+                    ],
+                    "torpedo": [
+                        "plasmatorpedoes"
+                    ],
+                    "turret": [
+                        "ioncannonturret"
+                    ]
+                }
+            },
+            {
+                "id": "goldsquadrontrooper",
+                "points": 28,
+                "ship": "v19torrentstarfighter",
+                "upgrades": {
+                    "modification": [
+                        "targetingcomputer"
+                    ]
+                }
+            },
+            {
+                "id": "squadsevenveteran",
+                "points": 58,
+                "ship": "arc170starfighter",
+                "upgrades": {
+                    "astromech": [
+                        "r5astromech"
+                    ],
+                    "modification": [
+                        "synchronizedconsole"
+                    ],
+                    "torpedo": [
+                        "plasmatorpedoes"
+                    ]
+                }
+            }
+        ],
+        "points": 199,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Galactic%20Republic&d=v8ZsZ200Z274X251WWWY365XW138W234WW6W69WY321XW249Y340XW234WWW6W211&sn=Random%20Squad&obs="
+}

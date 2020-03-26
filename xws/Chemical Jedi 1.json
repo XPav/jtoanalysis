@@ -1,1 +1,63 @@
-{"faction":"rebelalliance","pilots":[{"id":"kylekatarn","ship":"hwk290lightfreighter","points":77,"upgrades":{"talent":["lonewolf"],"device":["proximitymines"],"crew":["leiaorgana"],"modification":["munitionsfailsafe","shieldupgrade"],"title":["moldycrow"]}},{"id":"wardensquadronpilot","ship":"btls8kwing","points":46,"upgrades":{"gunner":["agilegunner"]}},{"id":"ezrabridger-tielnfighter","ship":"tielnfighter","points":39,"upgrades":{"force-power":["supernaturalreflexes"]}},{"id":"evaanverlaine","ship":"btla4ywing","points":35,"upgrades":{}}],"points":197,"vendor":{},"version":"2.0.0","name":"Random Squad"}
+{
+    "name": "Chemical Jedi",
+    "number": 1,
+    "xws": {
+        "faction": "rebelalliance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "kylekatarn",
+                "points": 77,
+                "ship": "hwk290lightfreighter",
+                "upgrades": {
+                    "crew": [
+                        "leiaorgana"
+                    ],
+                    "device": [
+                        "proximitymines"
+                    ],
+                    "modification": [
+                        "munitionsfailsafe",
+                        "shieldupgrade"
+                    ],
+                    "talent": [
+                        "lonewolf"
+                    ],
+                    "title": [
+                        "moldycrow"
+                    ]
+                }
+            },
+            {
+                "id": "wardensquadronpilot",
+                "points": 46,
+                "ship": "btls8kwing",
+                "upgrades": {
+                    "gunner": [
+                        "agilegunner"
+                    ]
+                }
+            },
+            {
+                "id": "ezrabridger-tielnfighter",
+                "points": 39,
+                "ship": "tielnfighter",
+                "upgrades": {
+                    "force-power": [
+                        "supernaturalreflexes"
+                    ]
+                }
+            },
+            {
+                "id": "evaanverlaine",
+                "points": 35,
+                "ship": "btla4ywing",
+                "upgrades": {}
+            }
+        ],
+        "points": 197,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Rebel%20Alliance&d=v8ZsZ200Z48X124W70W46W108W165W156Y20XWWW76WWWWY14X74WY28XWWWWWW&sn=Random%20Squad&obs="
+}

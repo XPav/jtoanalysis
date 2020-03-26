@@ -1,1 +1,46 @@
-{"faction":"firstorder","pilots":[{"id":"commandermalarus","ship":"tiefofighter","points":47,"upgrades":{"tech":["deuteriumpowercells"]}},{"id":"recoil","ship":"tievnsilencer","points":65,"upgrades":{"tech":["primedthrusters"]}},{"id":"holo","ship":"tiebainterceptor","points":54,"upgrades":{}},{"id":"omegasquadronexpert","ship":"tiesffighter","points":34,"upgrades":{}}],"points":200,"vendor":{},"version":"2.0.0","name":"Random Squad"}
+{
+    "name": "Lord Cronal",
+    "number": 2,
+    "xws": {
+        "faction": "firstorder",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "commandermalarus",
+                "points": 47,
+                "ship": "tiefofighter",
+                "upgrades": {
+                    "tech": [
+                        "deuteriumpowercells"
+                    ]
+                }
+            },
+            {
+                "id": "recoil",
+                "points": 65,
+                "ship": "tievnsilencer",
+                "upgrades": {
+                    "tech": [
+                        "primedthrusters"
+                    ]
+                }
+            },
+            {
+                "id": "holo",
+                "points": 54,
+                "ship": "tiebainterceptor",
+                "upgrades": {}
+            },
+            {
+                "id": "omegasquadronexpert",
+                "points": 34,
+                "ship": "tiesffighter",
+                "upgrades": {}
+            }
+        ],
+        "points": 200,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=First%20Order&d=v8ZsZ200Z266XW318WY284XW178WWY382XWWWY285XWWWWW&sn=Random%20Squad&obs="
+}

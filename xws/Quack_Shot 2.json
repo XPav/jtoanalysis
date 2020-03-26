@@ -1,1 +1,62 @@
-{"faction":"galacticrepublic","pilots":[{"id":"redsquadronbomber","ship":"btlbywing","points":48,"upgrades":{"turret":["ioncannonturret"],"astromech":["c110p"],"device":["protonbombs"],"modification":["munitionsfailsafe"]}},{"id":"macewindu","ship":"delta7aethersprite","points":57,"upgrades":{"force-power":["battlemeditation"],"astromech":["r5astromech"]}},{"id":"jag","ship":"arc170starfighter","points":50,"upgrades":{"modification":["electronicbaffle"]}},{"id":"anakinskywalker-nabooroyaln1starfighter","ship":"nabooroyaln1starfighter","points":41,"upgrades":{}}],"points":196,"vendor":{},"version":"2.0.0","name":"Random Squad"}
+{
+    "name": "Quack_Shot",
+    "number": 2,
+    "xws": {
+        "faction": "galacticrepublic",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "redsquadronbomber",
+                "points": 48,
+                "ship": "btlbywing",
+                "upgrades": {
+                    "astromech": [
+                        "c110p"
+                    ],
+                    "device": [
+                        "protonbombs"
+                    ],
+                    "modification": [
+                        "munitionsfailsafe"
+                    ],
+                    "turret": [
+                        "ioncannonturret"
+                    ]
+                }
+            },
+            {
+                "id": "macewindu",
+                "points": 57,
+                "ship": "delta7aethersprite",
+                "upgrades": {
+                    "astromech": [
+                        "r5astromech"
+                    ],
+                    "force-power": [
+                        "battlemeditation"
+                    ]
+                }
+            },
+            {
+                "id": "jag",
+                "points": 50,
+                "ship": "arc170starfighter",
+                "upgrades": {
+                    "modification": [
+                        "electronicbaffle"
+                    ]
+                }
+            },
+            {
+                "id": "anakinskywalker-nabooroyaln1starfighter",
+                "points": 41,
+                "ship": "nabooroyaln1starfighter",
+                "upgrades": {}
+            }
+        ],
+        "points": 196,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Galactic%20Republic&d=v8ZsZ200Z361X138WWW252W69W108Y314X212W6WWY339XWWWW106Y322XWWW&sn=Random%20Squad&obs="
+}

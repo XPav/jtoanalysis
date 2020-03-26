@@ -1,1 +1,65 @@
-{"faction":"scumandvillainy","pilots":[{"id":"dalanoberos-starviperclassattackplatform","ship":"starviperclassattackplatform","points":63,"upgrades":{"torpedo":["iontorpedoes"],"modification":["targetingcomputer"]}},{"id":"lattsrazzi","ship":"yv666lightfreighter","points":72,"upgrades":{"cannon":["ioncannon"],"missile":["homingmissiles"],"crew":["tobiasbeckett"],"modification":["electronicbaffle"]}},{"id":"toranikulda","ship":"m12lkimogilafighter","points":60,"upgrades":{"torpedo":["iontorpedoes"],"astromech":["r5tk"],"illicit":["deadmansswitch"],"modification":["shieldupgrade"]}}],"points":195,"vendor":{},"version":"2.0.0","name":"Random Squad"}
+{
+    "name": "Ajay2017",
+    "number": 1,
+    "xws": {
+        "faction": "scumandvillainy",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "dalanoberos-starviperclassattackplatform",
+                "points": 63,
+                "ship": "starviperclassattackplatform",
+                "upgrades": {
+                    "modification": [
+                        "targetingcomputer"
+                    ],
+                    "torpedo": [
+                        "iontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "lattsrazzi",
+                "points": 72,
+                "ship": "yv666lightfreighter",
+                "upgrades": {
+                    "cannon": [
+                        "ioncannon"
+                    ],
+                    "crew": [
+                        "tobiasbeckett"
+                    ],
+                    "missile": [
+                        "homingmissiles"
+                    ],
+                    "modification": [
+                        "electronicbaffle"
+                    ]
+                }
+            },
+            {
+                "id": "toranikulda",
+                "points": 60,
+                "ship": "m12lkimogilafighter",
+                "upgrades": {
+                    "astromech": [
+                        "r5tk"
+                    ],
+                    "illicit": [
+                        "deadmansswitch"
+                    ],
+                    "modification": [
+                        "shieldupgrade"
+                    ],
+                    "torpedo": [
+                        "iontorpedoes"
+                    ]
+                }
+            }
+        ],
+        "points": 195,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Scum%20and%20Villainy&d=v8ZsZ200Z149XWW135W249WY154XW11W100W62WWWW106WY129XW135WW9W93W165&sn=Random%20Squad&obs="
+}

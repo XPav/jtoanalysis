@@ -1,1 +1,79 @@
-{"faction":"resistance","pilots":[{"id":"jarekyeager","ship":"fireball","points":47,"upgrades":{"astromech":["r2astromech"],"illicit":["inertialdampeners"],"title":["kazsfireball"]}},{"id":"colossusstationmechanic","ship":"fireball","points":37,"upgrades":{"missile":["ionmissiles"],"astromech":["m9g8"]}},{"id":"pammichnerrogoode","ship":"resistancetransport","points":54,"upgrades":{"tech":["ferrospherepaint"],"cannon":["autoblasters"],"crew":["chewbacca-crew-swz19","larmadacy"]}},{"id":"jaycristubbs","ship":"t70xwing","points":57,"upgrades":{"astromech":["bbastromech"],"configuration":["integratedsfoils"],"title":["blackone"],"missile":["concussionmissiles"]}}],"points":195,"vendor":{},"version":"2.0.0","name":"Random Squad"}
+{
+    "name": "higgo",
+    "number": 2,
+    "xws": {
+        "faction": "resistance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "jarekyeager",
+                "points": 47,
+                "ship": "fireball",
+                "upgrades": {
+                    "astromech": [
+                        "r2astromech"
+                    ],
+                    "illicit": [
+                        "inertialdampeners"
+                    ],
+                    "title": [
+                        "kazsfireball"
+                    ]
+                }
+            },
+            {
+                "id": "colossusstationmechanic",
+                "points": 37,
+                "ship": "fireball",
+                "upgrades": {
+                    "astromech": [
+                        "m9g8"
+                    ],
+                    "missile": [
+                        "ionmissiles"
+                    ]
+                }
+            },
+            {
+                "id": "pammichnerrogoode",
+                "points": 54,
+                "ship": "resistancetransport",
+                "upgrades": {
+                    "cannon": [
+                        "autoblasters"
+                    ],
+                    "crew": [
+                        "chewbacca-crew-swz19",
+                        "larmadacy"
+                    ],
+                    "tech": [
+                        "ferrospherepaint"
+                    ]
+                }
+            },
+            {
+                "id": "jaycristubbs",
+                "points": 57,
+                "ship": "t70xwing",
+                "upgrades": {
+                    "astromech": [
+                        "bbastromech"
+                    ],
+                    "configuration": [
+                        "integratedsfoils"
+                    ],
+                    "missile": [
+                        "concussionmissiles"
+                    ],
+                    "title": [
+                        "blackone"
+                    ]
+                }
+            }
+        ],
+        "points": 195,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Resistance&d=v8ZsZ200Z377XWW2W95WWW315Y380X101W197WWWWY347X198W232WW188W243WWY255X196WW175WW171W99&sn=Random%20Squad&obs="
+}

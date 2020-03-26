@@ -1,1 +1,65 @@
-{"faction":"scumandvillainy","pilots":[{"id":"dalanoberos-starviperclassattackplatform","ship":"starviperclassattackplatform","points":63,"upgrades":{"torpedo":["advprotontorpedoes"],"modification":["targetingcomputer"]}},{"id":"binayrepirate","ship":"z95af4headhunter","points":25,"upgrades":{"modification":["angleddeflectors"]}},{"id":"ahhav","ship":"modifiedtielnfighter","points":30,"upgrades":{}},{"id":"landocalrissian-escapecraft","ship":"escapecraft","points":29,"upgrades":{}},{"id":"hiredgun","ship":"btla4ywing","points":48,"upgrades":{"torpedo":["advprotontorpedoes"],"astromech":["r5p8"],"modification":["staticdischargevanes"]}}],"points":195,"vendor":{},"version":"2.0.0","name":"Random Squad"}
+{
+    "name": "TruksonSWE",
+    "number": 2,
+    "xws": {
+        "faction": "scumandvillainy",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "dalanoberos-starviperclassattackplatform",
+                "points": 63,
+                "ship": "starviperclassattackplatform",
+                "upgrades": {
+                    "modification": [
+                        "targetingcomputer"
+                    ],
+                    "torpedo": [
+                        "advprotontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "binayrepirate",
+                "points": 25,
+                "ship": "z95af4headhunter",
+                "upgrades": {
+                    "modification": [
+                        "angleddeflectors"
+                    ]
+                }
+            },
+            {
+                "id": "ahhav",
+                "points": 30,
+                "ship": "modifiedtielnfighter",
+                "upgrades": {}
+            },
+            {
+                "id": "landocalrissian-escapecraft",
+                "points": 29,
+                "ship": "escapecraft",
+                "upgrades": {}
+            },
+            {
+                "id": "hiredgun",
+                "points": 48,
+                "ship": "btla4ywing",
+                "upgrades": {
+                    "astromech": [
+                        "r5p8"
+                    ],
+                    "modification": [
+                        "staticdischargevanes"
+                    ],
+                    "torpedo": [
+                        "advprotontorpedoes"
+                    ]
+                }
+            }
+        ],
+        "points": 195,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Scum%20and%20Villainy&d=v8ZsZ200Z149XWW134W249WY159XWW247Y249XWY93XWWY87XWW134WW8WWW109&sn=Random%20Squad&obs="
+}

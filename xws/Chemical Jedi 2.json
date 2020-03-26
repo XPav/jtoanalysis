@@ -1,1 +1,66 @@
-{"faction":"galacticrepublic","pilots":[{"id":"bravoflightofficer","ship":"nabooroyaln1starfighter","points":48,"upgrades":{"sensor":["passivesensors"],"astromech":["r2a6"],"torpedo":["iontorpedoes"]}},{"id":"ricolie","ship":"nabooroyaln1starfighter","points":49,"upgrades":{"talent":["crackshot"],"torpedo":["advprotontorpedoes"]}},{"id":"saeseetiin","ship":"delta7aethersprite","points":49,"upgrades":{"astromech":["r3astromech"],"configuration":["calibratedlasertargeting"]}},{"id":"luminaraunduli","ship":"delta7aethersprite","points":52,"upgrades":{"astromech":["r2astromech"]}}],"points":198,"vendor":{},"version":"2.0.0","name":"Random Squad"}
+{
+    "name": "Chemical Jedi",
+    "number": 2,
+    "xws": {
+        "faction": "galacticrepublic",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "bravoflightofficer",
+                "points": 48,
+                "ship": "nabooroyaln1starfighter",
+                "upgrades": {
+                    "astromech": [
+                        "r2a6"
+                    ],
+                    "sensor": [
+                        "passivesensors"
+                    ],
+                    "torpedo": [
+                        "iontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "ricolie",
+                "points": 49,
+                "ship": "nabooroyaln1starfighter",
+                "upgrades": {
+                    "talent": [
+                        "crackshot"
+                    ],
+                    "torpedo": [
+                        "advprotontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "saeseetiin",
+                "points": 49,
+                "ship": "delta7aethersprite",
+                "upgrades": {
+                    "astromech": [
+                        "r3astromech"
+                    ],
+                    "configuration": [
+                        "calibratedlasertargeting"
+                    ]
+                }
+            },
+            {
+                "id": "luminaraunduli",
+                "points": 52,
+                "ship": "delta7aethersprite",
+                "upgrades": {
+                    "astromech": [
+                        "r2astromech"
+                    ]
+                }
+            }
+        ],
+        "points": 198,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Galactic%20Republic&d=v8ZsZ200Z323X240W241W135Y333X116WWW134Y313XW4W200WY274XW2WW&sn=Random%20Squad&obs="
+}

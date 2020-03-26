@@ -1,1 +1,50 @@
-{"faction":"rebelalliance","pilots":[{"id":"captainrex","ship":"tielnfighter","points":30,"upgrades":{}},{"id":"outerrimsmuggler","ship":"modifiedyt1300lightfreighter","points":95,"upgrades":{"missile":["clustermissiles"],"crew":["perceptivecopilot","sawgerrera"],"modification":["hullupgrade"],"title":["millenniumfalcon"]}},{"id":"outerrimsmuggler","ship":"modifiedyt1300lightfreighter","points":73,"upgrades":{"missile":["concussionmissiles"]}}],"points":198,"vendor":{},"version":"2.0.0","name":"Random Squad"}
+{
+    "name": "Earthworm",
+    "number": 1,
+    "xws": {
+        "faction": "rebelalliance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "captainrex",
+                "points": 30,
+                "ship": "tielnfighter",
+                "upgrades": {}
+            },
+            {
+                "id": "outerrimsmuggler",
+                "points": 95,
+                "ship": "modifiedyt1300lightfreighter",
+                "upgrades": {
+                    "crew": [
+                        "perceptivecopilot",
+                        "sawgerrera"
+                    ],
+                    "missile": [
+                        "clustermissiles"
+                    ],
+                    "modification": [
+                        "hullupgrade"
+                    ],
+                    "title": [
+                        "millenniumfalcon"
+                    ]
+                }
+            },
+            {
+                "id": "outerrimsmuggler",
+                "points": 73,
+                "ship": "modifiedyt1300lightfreighter",
+                "upgrades": {
+                    "missile": [
+                        "concussionmissiles"
+                    ]
+                }
+            }
+        ],
+        "points": 198,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Rebel%20Alliance&d=v8ZsZ200Z16XY45X98WW54W58WW164W154Y45X99WWWWWW&sn=Random%20Squad&obs="
+}

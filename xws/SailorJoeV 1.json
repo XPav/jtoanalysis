@@ -1,1 +1,75 @@
-{"faction":"resistance","pilots":[{"id":"jaycristubbs","ship":"t70xwing","points":67,"upgrades":{"astromech":["r5x3"],"modification":["sparepartscanisters"],"configuration":["integratedsfoils"],"tech":["primedthrusters"],"title":["blackone"],"cannon":["tractorbeam"]}},{"id":"cobaltsquadronbomber","ship":"mg100starfortress","points":86,"upgrades":{"sensor":["advancedsensors"],"tech":["advancedoptics"],"crew":["freelanceslicer"],"gunner":["finn","skilledbombardier"],"device":["protonbombs"]}},{"id":"greensquadronexpert","ship":"rz2awing","points":42,"upgrades":{"talent":["crackshot"],"tech":["primedthrusters"]}}],"points":195,"vendor":{},"version":"2.0.0","name":"Random Squad"}
+{
+    "name": "SailorJoeV",
+    "number": 1,
+    "xws": {
+        "faction": "resistance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "jaycristubbs",
+                "points": 67,
+                "ship": "t70xwing",
+                "upgrades": {
+                    "astromech": [
+                        "r5x3"
+                    ],
+                    "cannon": [
+                        "tractorbeam"
+                    ],
+                    "configuration": [
+                        "integratedsfoils"
+                    ],
+                    "modification": [
+                        "sparepartscanisters"
+                    ],
+                    "tech": [
+                        "primedthrusters"
+                    ],
+                    "title": [
+                        "blackone"
+                    ]
+                }
+            },
+            {
+                "id": "cobaltsquadronbomber",
+                "points": 86,
+                "ship": "mg100starfortress",
+                "upgrades": {
+                    "crew": [
+                        "freelanceslicer"
+                    ],
+                    "device": [
+                        "protonbombs"
+                    ],
+                    "gunner": [
+                        "finn",
+                        "skilledbombardier"
+                    ],
+                    "sensor": [
+                        "advancedsensors"
+                    ],
+                    "tech": [
+                        "advancedoptics"
+                    ]
+                }
+            },
+            {
+                "id": "greensquadronexpert",
+                "points": 42,
+                "ship": "rz2awing",
+                "upgrades": {
+                    "talent": [
+                        "crackshot"
+                    ],
+                    "tech": [
+                        "primedthrusters"
+                    ]
+                }
+            }
+        ],
+        "points": 195,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Resistance&d=v8ZsZ200Z255X205W215W175W178W171W13Y260X111W186W30W174W88W69WWY300X116WWW178&sn=Random%20Squad&obs="
+}

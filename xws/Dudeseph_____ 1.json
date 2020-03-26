@@ -1,1 +1,55 @@
-{"faction":"scumandvillainy","pilots":[{"id":"constablezuvio","ship":"quadrijettransferspacetug","points":52,"upgrades":{"tech":["primedthrusters"],"crew":["informant"],"device":["seismiccharges"],"illicit":["feedbackarray"]}},{"id":"ig88a","ship":"aggressorassaultfighter","points":68,"upgrades":{"title":["ig2000"]}},{"id":"4lom","ship":"g1astarfighter","points":49,"upgrades":{}},{"id":"spicerunner","ship":"hwk290lightfreighter","points":30,"upgrades":{}}],"points":199,"vendor":{},"version":"2.0.0","name":"Random Squad"}
+{
+    "name": "Dudeseph_____",
+    "number": 1,
+    "xws": {
+        "faction": "scumandvillainy",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "constablezuvio",
+                "points": 52,
+                "ship": "quadrijettransferspacetug",
+                "upgrades": {
+                    "crew": [
+                        "informant"
+                    ],
+                    "device": [
+                        "seismiccharges"
+                    ],
+                    "illicit": [
+                        "feedbackarray"
+                    ],
+                    "tech": [
+                        "primedthrusters"
+                    ]
+                }
+            },
+            {
+                "id": "ig88a",
+                "points": 68,
+                "ship": "aggressorassaultfighter",
+                "upgrades": {
+                    "title": [
+                        "ig2000"
+                    ]
+                }
+            },
+            {
+                "id": "4lom",
+                "points": 49,
+                "ship": "g1astarfighter",
+                "upgrades": {}
+            },
+            {
+                "id": "spicerunner",
+                "points": 30,
+                "ship": "hwk290lightfreighter",
+                "upgrades": {}
+            }
+        ],
+        "points": 199,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Scum%20and%20Villainy&d=v8ZsZ200Z140XW178W37W71W94WY81XWWWWWWW151Y109XWWWWWY230XWWWWW&sn=Random%20Squad&obs="
+}

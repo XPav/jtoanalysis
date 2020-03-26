@@ -1,1 +1,60 @@
-{"faction":"resistance","pilots":[{"id":"jarekyeager","ship":"fireball","points":43,"upgrades":{"astromech":["r2ha"],"illicit":["coaxiumhyperfuel"],"modification":["munitionsfailsafe","advancedslam"]}},{"id":"hansolo-scavengedyt1300","ship":"scavengedyt1300","points":84,"upgrades":{"crew":["leiaorgana-resistance"],"title":["reysmillenniumfalcon"]}},{"id":"colossusstationmechanic","ship":"fireball","points":26,"upgrades":{}},{"id":"nodinchavdri","ship":"resistancetransport","points":42,"upgrades":{"crew":["tacticalofficer"]}}],"points":195,"vendor":{},"version":"2.0.0","name":"Random Squad"}
+{
+    "name": "GreenDragoon",
+    "number": 2,
+    "xws": {
+        "faction": "resistance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "jarekyeager",
+                "points": 43,
+                "ship": "fireball",
+                "upgrades": {
+                    "astromech": [
+                        "r2ha"
+                    ],
+                    "illicit": [
+                        "coaxiumhyperfuel"
+                    ],
+                    "modification": [
+                        "munitionsfailsafe",
+                        "advancedslam"
+                    ]
+                }
+            },
+            {
+                "id": "hansolo-scavengedyt1300",
+                "points": 84,
+                "ship": "scavengedyt1300",
+                "upgrades": {
+                    "crew": [
+                        "leiaorgana-resistance"
+                    ],
+                    "title": [
+                        "reysmillenniumfalcon"
+                    ]
+                }
+            },
+            {
+                "id": "colossusstationmechanic",
+                "points": 26,
+                "ship": "fireball",
+                "upgrades": {}
+            },
+            {
+                "id": "nodinchavdri",
+                "points": 42,
+                "ship": "resistancetransport",
+                "upgrades": {
+                    "crew": [
+                        "tacticalofficer"
+                    ]
+                }
+            }
+        ],
+        "points": 195,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Resistance&d=v8ZsZ200Z377XWW190W310W108W104WY245XWWW244WWWW193Y380XWWWWWY352XWWW61WWW&sn=Random%20Squad&obs="
+}

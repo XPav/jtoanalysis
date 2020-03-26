@@ -1,1 +1,51 @@
-{"faction":"rebelalliance","pilots":[{"id":"alexsandrkallus","ship":"vcx100lightfreighter","points":92,"upgrades":{"torpedo":["protontorpedoes"],"sensor":["advancedsensors"],"title":["ghost"]}},{"id":"knavesquadronescort","ship":"ewing","points":56,"upgrades":{"sensor":["trajectorysimulator"]}},{"id":"kashyyykdefender","ship":"auzituckgunship","points":50,"upgrades":{"crew":["novicetechnician","landocalrissian"]}}],"points":198,"vendor":{},"version":"2.0.0","name":"Random Squad"}
+{
+    "name": "Joel Springle",
+    "number": 2,
+    "xws": {
+        "faction": "rebelalliance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "alexsandrkallus",
+                "points": 92,
+                "ship": "vcx100lightfreighter",
+                "upgrades": {
+                    "sensor": [
+                        "advancedsensors"
+                    ],
+                    "title": [
+                        "ghost"
+                    ],
+                    "torpedo": [
+                        "protontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "knavesquadronescort",
+                "points": 56,
+                "ship": "ewing",
+                "upgrades": {
+                    "sensor": [
+                        "trajectorysimulator"
+                    ]
+                }
+            },
+            {
+                "id": "kashyyykdefender",
+                "points": 50,
+                "ship": "auzituckgunship",
+                "upgrades": {
+                    "crew": [
+                        "novicetechnician",
+                        "landocalrissian"
+                    ]
+                }
+            }
+        ],
+        "points": 198,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Rebel%20Alliance&d=v8ZsZ200Z392XW136W111WWWWWW148Y24X114WWWY60X53W44W&sn=Random%20Squad&obs="
+}

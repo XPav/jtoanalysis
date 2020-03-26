@@ -1,1 +1,56 @@
-{"faction":"resistance","pilots":[{"id":"paigetico","ship":"mg100starfortress","points":74,"upgrades":{"tech":["patternanalyzer"],"gunner":["hotshotgunner"],"modification":["electronicbaffle"]}},{"id":"cat","ship":"mg100starfortress","points":64,"upgrades":{"crew":["chewbacca-crew-swz19"],"device":["bombletgenerator"]}},{"id":"karekun","ship":"t70xwing","points":57,"upgrades":{"astromech":["bb8"],"configuration":["integratedsfoils"]}}],"points":195,"vendor":{},"version":"2.0.0","name":"Random Squad"}
+{
+    "name": "Jared Mackert",
+    "number": 2,
+    "xws": {
+        "faction": "resistance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "paigetico",
+                "points": 74,
+                "ship": "mg100starfortress",
+                "upgrades": {
+                    "gunner": [
+                        "hotshotgunner"
+                    ],
+                    "modification": [
+                        "electronicbaffle"
+                    ],
+                    "tech": [
+                        "patternanalyzer"
+                    ]
+                }
+            },
+            {
+                "id": "cat",
+                "points": 64,
+                "ship": "mg100starfortress",
+                "upgrades": {
+                    "crew": [
+                        "chewbacca-crew-swz19"
+                    ],
+                    "device": [
+                        "bombletgenerator"
+                    ]
+                }
+            },
+            {
+                "id": "karekun",
+                "points": 57,
+                "ship": "t70xwing",
+                "upgrades": {
+                    "astromech": [
+                        "bb8"
+                    ],
+                    "configuration": [
+                        "integratedsfoils"
+                    ]
+                }
+            }
+        ],
+        "points": 195,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Resistance&d=v8ZsZ200Z389XWW206WW86WWWW106Y291XWW188WWW67WWY252XW195WW175WWW&sn=Random%20Squad&obs="
+}

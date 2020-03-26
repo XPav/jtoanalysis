@@ -1,1 +1,59 @@
-{"faction":"scumandvillainy","pilots":[{"id":"l337-escapecraft","ship":"escapecraft","points":32,"upgrades":{"talent":["marksmanship"],"modification":["hullupgrade"]}},{"id":"serissu","ship":"m3ainterceptor","points":47,"upgrades":{"missile":["magpulsewarheads"]}},{"id":"lokrevenant","ship":"scurrgh6bomber","points":45,"upgrades":{}},{"id":"kaatoleeachos","ship":"z95af4headhunter","points":33,"upgrades":{"talent":["outmaneuver"]}},{"id":"gandfindsman","ship":"g1astarfighter","points":41,"upgrades":{}}],"points":198,"vendor":{},"version":"2.0.0","name":"Random Squad"}
+{
+    "name": "Niklas God",
+    "number": 1,
+    "xws": {
+        "faction": "scumandvillainy",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "l337-escapecraft",
+                "points": 32,
+                "ship": "escapecraft",
+                "upgrades": {
+                    "modification": [
+                        "hullupgrade"
+                    ],
+                    "talent": [
+                        "marksmanship"
+                    ]
+                }
+            },
+            {
+                "id": "serissu",
+                "points": 47,
+                "ship": "m3ainterceptor",
+                "upgrades": {
+                    "missile": [
+                        "magpulsewarheads"
+                    ]
+                }
+            },
+            {
+                "id": "lokrevenant",
+                "points": 45,
+                "ship": "scurrgh6bomber",
+                "upgrades": {}
+            },
+            {
+                "id": "kaatoleeachos",
+                "points": 33,
+                "ship": "z95af4headhunter",
+                "upgrades": {
+                    "talent": [
+                        "outmaneuver"
+                    ]
+                }
+            },
+            {
+                "id": "gandfindsman",
+                "points": 41,
+                "ship": "g1astarfighter",
+                "upgrades": {}
+            }
+        ],
+        "points": 198,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Scum%20and%20Villainy&d=v8ZsZ200Z95X125WW164Y132XWW311Y146XWWWWWWY157X126WWWY111XWWWW&sn=Random%20Squad&obs="
+}

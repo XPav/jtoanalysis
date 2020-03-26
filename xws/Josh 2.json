@@ -1,1 +1,49 @@
-{"faction":"galacticempire","pilots":[{"id":"patrolleader","ship":"vt49decimator","points":71,"upgrades":{"title":["dauntless"]}},{"id":"coloneljendon","ship":"lambdaclasst4ashuttle","points":60,"upgrades":{"sensor":["collisiondetector"],"crew":["deathtroopers"]}},{"id":"planetarysentinel","ship":"tieskstriker","points":31,"upgrades":{}},{"id":"tempestsquadronpilot","ship":"tieadvancedx1","points":36,"upgrades":{}}],"points":198,"vendor":{},"version":"2.0.0","name":"Random Squad"}
+{
+    "name": "Josh",
+    "number": 2,
+    "xws": {
+        "faction": "galacticempire",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "patrolleader",
+                "points": 71,
+                "ship": "vt49decimator",
+                "upgrades": {
+                    "title": [
+                        "dauntless"
+                    ]
+                }
+            },
+            {
+                "id": "coloneljendon",
+                "points": 60,
+                "ship": "lambdaclasst4ashuttle",
+                "upgrades": {
+                    "crew": [
+                        "deathtroopers"
+                    ],
+                    "sensor": [
+                        "collisiondetector"
+                    ]
+                }
+            },
+            {
+                "id": "planetarysentinel",
+                "points": 31,
+                "ship": "tieskstriker",
+                "upgrades": {}
+            },
+            {
+                "id": "tempestsquadronpilot",
+                "points": 36,
+                "ship": "tieadvancedx1",
+                "upgrades": {}
+            }
+        ],
+        "points": 198,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Galactic%20Empire&d=v8ZsZ200Z216XWWWWWWW147Y167X112WWW27WWY213XWWY178XWW&sn=Random%20Squad&obs="
+}

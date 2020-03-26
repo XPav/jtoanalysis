@@ -1,1 +1,69 @@
-{"faction":"separatistalliance","pilots":[{"id":"066","ship":"sithinfiltrator","points":94,"upgrades":{"talent":["squadleader"],"cannon":["heavylasercannon"],"crew":["perceptivecopilot","gnkgonkdroid"],"device":["ionbombs"],"modification":["electronicbaffle"],"title":["scimitar"]}},{"id":"feethanottrawautopilot","ship":"belbullab22starfighter","points":46,"upgrades":{"tacticalrelay":["k2b4"],"title":["soullessone"]}},{"id":"separatistbomber","ship":"hyenaclassdroidbomber","points":29,"upgrades":{"modification":["delayedfuses"]}},{"id":"dfs081","ship":"vultureclassdroidfighter","points":26,"upgrades":{}}],"points":195,"vendor":{},"version":"2.0.0","name":"Random Squad"}
+{
+    "name": "Chris Allen",
+    "number": 2,
+    "xws": {
+        "faction": "separatistalliance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "066",
+                "points": 94,
+                "ship": "sithinfiltrator",
+                "upgrades": {
+                    "cannon": [
+                        "heavylasercannon"
+                    ],
+                    "crew": [
+                        "perceptivecopilot",
+                        "gnkgonkdroid"
+                    ],
+                    "device": [
+                        "ionbombs"
+                    ],
+                    "modification": [
+                        "electronicbaffle"
+                    ],
+                    "talent": [
+                        "squadleader"
+                    ],
+                    "title": [
+                        "scimitar"
+                    ]
+                }
+            },
+            {
+                "id": "feethanottrawautopilot",
+                "points": 46,
+                "ship": "belbullab22starfighter",
+                "upgrades": {
+                    "tacticalrelay": [
+                        "k2b4"
+                    ],
+                    "title": [
+                        "soullessone"
+                    ]
+                }
+            },
+            {
+                "id": "separatistbomber",
+                "points": 29,
+                "ship": "hyenaclassdroidbomber",
+                "upgrades": {
+                    "modification": [
+                        "delayedfuses"
+                    ]
+                }
+            },
+            {
+                "id": "dfs081",
+                "points": 26,
+                "ship": "vultureclassdroidfighter",
+                "upgrades": {}
+            }
+        ],
+        "points": 195,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Separatist%20Alliance&d=v8ZsZ200Z335X131W10WW54W32W317W106W216WY307X220WW229Y327XWWW236WY311XWW&sn=Random%20Squad&obs="
+}

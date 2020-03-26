@@ -1,1 +1,53 @@
-{"faction":"rebelalliance","pilots":[{"id":"talasquadronpilot","ship":"z95af4headhunter","points":35,"upgrades":{"talent":["intimidation"],"missile":["concussionmissiles"],"modification":["electronicbaffle"]}},{"id":"dashrendar","ship":"yt2400lightfreighter","points":111,"upgrades":{"modification":["staticdischargevanes"],"title":["outrider"]}},{"id":"kashyyykdefender","ship":"auzituckgunship","points":52,"upgrades":{"crew":["perceptivecopilot"]}}],"points":198,"vendor":{},"version":"2.0.0","name":"Random Squad"}
+{
+    "name": "Pbpancho",
+    "number": 1,
+    "xws": {
+        "faction": "rebelalliance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "talasquadronpilot",
+                "points": 35,
+                "ship": "z95af4headhunter",
+                "upgrades": {
+                    "missile": [
+                        "concussionmissiles"
+                    ],
+                    "modification": [
+                        "electronicbaffle"
+                    ],
+                    "talent": [
+                        "intimidation"
+                    ]
+                }
+            },
+            {
+                "id": "dashrendar",
+                "points": 111,
+                "ship": "yt2400lightfreighter",
+                "upgrades": {
+                    "modification": [
+                        "staticdischargevanes"
+                    ],
+                    "title": [
+                        "outrider"
+                    ]
+                }
+            },
+            {
+                "id": "kashyyykdefender",
+                "points": 52,
+                "ship": "auzituckgunship",
+                "upgrades": {
+                    "crew": [
+                        "perceptivecopilot"
+                    ]
+                }
+            }
+        ],
+        "points": 198,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Rebel%20Alliance&d=v8ZsZ200Z56X122W99W106Y39XWWWW109W157WY60XW54W&sn=Random%20Squad&obs="
+}

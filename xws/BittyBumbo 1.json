@@ -1,1 +1,75 @@
-{"faction":"scumandvillainy","pilots":[{"id":"genesisred","ship":"m3ainterceptor","points":34,"upgrades":{"modification":["angleddeflectors"]}},{"id":"solsixxa","ship":"scurrgh6bomber","points":64,"upgrades":{"talent":["predator"],"crew":["cadbane"],"gunner":["dengar"],"device":["ionbombs"]}},{"id":"captainnym","ship":"scurrgh6bomber","points":75,"upgrades":{"turret":["dorsalturret"],"gunner":["hotshotgunner"],"device":["seismiccharges","proximitymines"],"modification":["tacticalscrambler"],"title":["havoc"],"astromech":["r5p8"]}},{"id":"blacksunsoldier","ship":"z95af4headhunter","points":24,"upgrades":{}}],"points":197,"vendor":{},"version":"2.0.0","name":"Random Squad"}
+{
+    "name": "BittyBumbo",
+    "number": 1,
+    "xws": {
+        "faction": "scumandvillainy",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "genesisred",
+                "points": 34,
+                "ship": "m3ainterceptor",
+                "upgrades": {
+                    "modification": [
+                        "angleddeflectors"
+                    ]
+                }
+            },
+            {
+                "id": "solsixxa",
+                "points": 64,
+                "ship": "scurrgh6bomber",
+                "upgrades": {
+                    "crew": [
+                        "cadbane"
+                    ],
+                    "device": [
+                        "ionbombs"
+                    ],
+                    "gunner": [
+                        "dengar"
+                    ],
+                    "talent": [
+                        "predator"
+                    ]
+                }
+            },
+            {
+                "id": "captainnym",
+                "points": 75,
+                "ship": "scurrgh6bomber",
+                "upgrades": {
+                    "astromech": [
+                        "r5p8"
+                    ],
+                    "device": [
+                        "seismiccharges",
+                        "proximitymines"
+                    ],
+                    "gunner": [
+                        "hotshotgunner"
+                    ],
+                    "modification": [
+                        "tacticalscrambler"
+                    ],
+                    "title": [
+                        "havoc"
+                    ],
+                    "turret": [
+                        "dorsalturret"
+                    ]
+                }
+            },
+            {
+                "id": "blacksunsoldier",
+                "points": 24,
+                "ship": "z95af4headhunter",
+                "upgrades": {}
+            }
+        ],
+        "points": 197,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Scum%20and%20Villainy&d=v8ZsZ200Z133XW247WY145X127WW20W80WW317WWY144XW137WW86W71W70W110W149WW8Y158XWWW&sn=Random%20Squad&obs="
+}

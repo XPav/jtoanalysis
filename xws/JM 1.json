@@ -1,1 +1,78 @@
-{"faction":"scumandvillainy","pilots":[{"id":"crymorahgoon","ship":"btla4ywing","points":58,"upgrades":{"turret":["ioncannonturret"],"torpedo":["iontorpedoes"],"astromech":["r3astromech"],"device":["connernets"],"illicit":["contrabandcybernetics"],"modification":["afterburners"]}},{"id":"sarcoplank","ship":"quadrijettransferspacetug","points":60,"upgrades":{"tech":["primedthrusters"],"crew":["maul"],"illicit":["cloakingdevice"],"modification":["staticdischargevanes"]}},{"id":"blacksunsoldier","ship":"z95af4headhunter","points":29,"upgrades":{"missile":["homingmissiles"]}},{"id":"toranikulda","ship":"m12lkimogilafighter","points":51,"upgrades":{"talent":["elusive"]}}],"points":198,"vendor":{},"version":"2.0.0","name":"Random Squad"}
+{
+    "name": "JM",
+    "number": 1,
+    "xws": {
+        "faction": "scumandvillainy",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "crymorahgoon",
+                "points": 58,
+                "ship": "btla4ywing",
+                "upgrades": {
+                    "astromech": [
+                        "r3astromech"
+                    ],
+                    "device": [
+                        "connernets"
+                    ],
+                    "illicit": [
+                        "contrabandcybernetics"
+                    ],
+                    "modification": [
+                        "afterburners"
+                    ],
+                    "torpedo": [
+                        "iontorpedoes"
+                    ],
+                    "turret": [
+                        "ioncannonturret"
+                    ]
+                }
+            },
+            {
+                "id": "sarcoplank",
+                "points": 60,
+                "ship": "quadrijettransferspacetug",
+                "upgrades": {
+                    "crew": [
+                        "maul"
+                    ],
+                    "illicit": [
+                        "cloakingdevice"
+                    ],
+                    "modification": [
+                        "staticdischargevanes"
+                    ],
+                    "tech": [
+                        "primedthrusters"
+                    ]
+                }
+            },
+            {
+                "id": "blacksunsoldier",
+                "points": 29,
+                "ship": "z95af4headhunter",
+                "upgrades": {
+                    "missile": [
+                        "homingmissiles"
+                    ]
+                }
+            },
+            {
+                "id": "toranikulda",
+                "points": 51,
+                "ship": "m12lkimogilafighter",
+                "upgrades": {
+                    "talent": [
+                        "elusive"
+                    ]
+                }
+            }
+        ],
+        "points": 198,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Scum%20and%20Villainy&d=v8ZsZ200Z88X138W135WW4W68W92W105Y141X178W48WW91W109Y158XW100WWY129X119WWWWW&sn=Random%20Squad&obs="
+}

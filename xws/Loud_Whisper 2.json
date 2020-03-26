@@ -1,1 +1,59 @@
-{"faction":"rebelalliance","pilots":[{"id":"knavesquadronescort","ship":"ewing","points":60,"upgrades":{"astromech":["r2d2"]}},{"id":"janors","ship":"hwk290lightfreighter","points":59,"upgrades":{"title":["moldycrow"]}},{"id":"norrawexley-btla4ywing","ship":"btla4ywing","points":77,"upgrades":{"talent":["squadleader"],"turret":["ioncannonturret"],"torpedo":["iontorpedoes"],"modification":["munitionsfailsafe"],"device":["protonbombs"],"gunner":["hotshotgunner"]}}],"points":196,"vendor":{},"version":"2.0.0","name":"Random Squad"}
+{
+    "name": "Loud_Whisper",
+    "number": 2,
+    "xws": {
+        "faction": "rebelalliance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "knavesquadronescort",
+                "points": 60,
+                "ship": "ewing",
+                "upgrades": {
+                    "astromech": [
+                        "r2d2"
+                    ]
+                }
+            },
+            {
+                "id": "janors",
+                "points": 59,
+                "ship": "hwk290lightfreighter",
+                "upgrades": {
+                    "title": [
+                        "moldycrow"
+                    ]
+                }
+            },
+            {
+                "id": "norrawexley-btla4ywing",
+                "points": 77,
+                "ship": "btla4ywing",
+                "upgrades": {
+                    "device": [
+                        "protonbombs"
+                    ],
+                    "gunner": [
+                        "hotshotgunner"
+                    ],
+                    "modification": [
+                        "munitionsfailsafe"
+                    ],
+                    "talent": [
+                        "squadleader"
+                    ],
+                    "torpedo": [
+                        "iontorpedoes"
+                    ],
+                    "turret": [
+                        "ioncannonturret"
+                    ]
+                }
+            }
+        ],
+        "points": 196,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Rebel%20Alliance&d=v8ZsZ200Z24XWW3WY46XWWWWW156Y25X131W138W135WW108W69W86&sn=Random%20Squad&obs="
+}

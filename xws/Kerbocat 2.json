@@ -1,1 +1,78 @@
-{"faction":"scumandvillainy","pilots":[{"id":"autopilotdrone","ship":"escapecraft","points":12,"upgrades":{}},{"id":"landocalrissian-escapecraft","ship":"escapecraft","points":33,"upgrades":{"talent":["marksmanship"],"crew":["freelanceslicer"]}},{"id":"lattsrazzi","ship":"yv666lightfreighter","points":66,"upgrades":{"crew":["chewbacca-crew"],"gunner":["bt1"],"illicit":["deadmansswitch"],"title":["houndstooth"]}},{"id":"unkarplutt","ship":"quadrijettransferspacetug","points":43,"upgrades":{"tech":["patternanalyzer"],"device":["ionbombs"],"illicit":["deadmansswitch"]}},{"id":"serissu","ship":"m3ainterceptor","points":44,"upgrades":{"modification":["targetingcomputer"]}}],"points":198,"vendor":{},"version":"2.0.0","name":"Random Squad"}
+{
+    "name": "Kerbocat",
+    "number": 2,
+    "xws": {
+        "faction": "scumandvillainy",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "autopilotdrone",
+                "points": 12,
+                "ship": "escapecraft",
+                "upgrades": {}
+            },
+            {
+                "id": "landocalrissian-escapecraft",
+                "points": 33,
+                "ship": "escapecraft",
+                "upgrades": {
+                    "crew": [
+                        "freelanceslicer"
+                    ],
+                    "talent": [
+                        "marksmanship"
+                    ]
+                }
+            },
+            {
+                "id": "lattsrazzi",
+                "points": 66,
+                "ship": "yv666lightfreighter",
+                "upgrades": {
+                    "crew": [
+                        "chewbacca-crew"
+                    ],
+                    "gunner": [
+                        "bt1"
+                    ],
+                    "illicit": [
+                        "deadmansswitch"
+                    ],
+                    "title": [
+                        "houndstooth"
+                    ]
+                }
+            },
+            {
+                "id": "unkarplutt",
+                "points": 43,
+                "ship": "quadrijettransferspacetug",
+                "upgrades": {
+                    "device": [
+                        "ionbombs"
+                    ],
+                    "illicit": [
+                        "deadmansswitch"
+                    ],
+                    "tech": [
+                        "patternanalyzer"
+                    ]
+                }
+            },
+            {
+                "id": "serissu",
+                "points": 44,
+                "ship": "m3ainterceptor",
+                "upgrades": {
+                    "modification": [
+                        "targetingcomputer"
+                    ]
+                }
+            }
+        ],
+        "points": 198,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Scum%20and%20Villainy&d=v8ZsZ200Z96XY93X125W30WY154XWWWW22W79W93WW150Y142X206WW317W93WY132XW249W&sn=Random%20Squad&obs="
+}

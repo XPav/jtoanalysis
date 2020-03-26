@@ -1,1 +1,78 @@
-{"faction":"separatistalliance","pilots":[{"id":"dbs32c","ship":"hyenaclassdroidbomber","points":41,"upgrades":{"configuration":["landingstruts"]}},{"id":"baktoidprototype","ship":"hyenaclassdroidbomber","points":37,"upgrades":{"missile":["protonrockets"],"modification":["delayedfuses"],"configuration":["landingstruts"]}},{"id":"separatistdrone","ship":"vultureclassdroidfighter","points":33,"upgrades":{"missile":["clustermissiles"],"configuration":["grapplingstruts"],"modification":["shieldupgrade"]}},{"id":"066","ship":"sithinfiltrator","points":69,"upgrades":{"crew":["seasonednavigator"],"device":["clustermines"],"tacticalrelay":["k2b4"]}},{"id":"tradefederationdrone","ship":"vultureclassdroidfighter","points":19,"upgrades":{}}],"points":199,"vendor":{},"version":"2.0.0","name":"Random Squad"}
+{
+    "name": "Armytuba",
+    "number": 1,
+    "xws": {
+        "faction": "separatistalliance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "dbs32c",
+                "points": 41,
+                "ship": "hyenaclassdroidbomber",
+                "upgrades": {
+                    "configuration": [
+                        "landingstruts"
+                    ]
+                }
+            },
+            {
+                "id": "baktoidprototype",
+                "points": 37,
+                "ship": "hyenaclassdroidbomber",
+                "upgrades": {
+                    "configuration": [
+                        "landingstruts"
+                    ],
+                    "missile": [
+                        "protonrockets"
+                    ],
+                    "modification": [
+                        "delayedfuses"
+                    ]
+                }
+            },
+            {
+                "id": "separatistdrone",
+                "points": 33,
+                "ship": "vultureclassdroidfighter",
+                "upgrades": {
+                    "configuration": [
+                        "grapplingstruts"
+                    ],
+                    "missile": [
+                        "clustermissiles"
+                    ],
+                    "modification": [
+                        "shieldupgrade"
+                    ]
+                }
+            },
+            {
+                "id": "066",
+                "points": 69,
+                "ship": "sithinfiltrator",
+                "upgrades": {
+                    "crew": [
+                        "seasonednavigator"
+                    ],
+                    "device": [
+                        "clustermines"
+                    ],
+                    "tacticalrelay": [
+                        "k2b4"
+                    ]
+                }
+            },
+            {
+                "id": "tradefederationdrone",
+                "points": 19,
+                "ship": "vultureclassdroidfighter",
+                "upgrades": {}
+            }
+        ],
+        "points": 199,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Separatist%20Alliance&d=v8ZsZ200Z328XWWW237Y329XWW102W236W237Y343X98W208W165Y335XWWWW59W316WWW220Y279XWW&sn=Random%20Squad&obs="
+}

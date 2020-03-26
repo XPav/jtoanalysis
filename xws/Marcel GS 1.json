@@ -1,1 +1,52 @@
-{"faction":"firstorder","pilots":[{"id":"majorvonreg","ship":"tiebainterceptor","points":65,"upgrades":{"talent":["snapshot"],"modification":["delayedfuses"]}},{"id":"starkillerbasepilot","ship":"upsilonclasscommandshuttle","points":91,"upgrades":{"tech":["targetingsynchronizer","patternanalyzer"],"crew":["pettyofficerthanisson","novicetechnician","seasonednavigator"],"sensor":["advancedsensors"]}},{"id":"captainphasma","ship":"tiesffighter","points":39,"upgrades":{}}],"points":195,"vendor":{},"version":"2.0.0","name":"Random Squad"}
+{
+    "name": "Marcel GS",
+    "number": 1,
+    "xws": {
+        "faction": "firstorder",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "majorvonreg",
+                "points": 65,
+                "ship": "tiebainterceptor",
+                "upgrades": {
+                    "modification": [
+                        "delayedfuses"
+                    ],
+                    "talent": [
+                        "snapshot"
+                    ]
+                }
+            },
+            {
+                "id": "starkillerbasepilot",
+                "points": 91,
+                "ship": "upsilonclasscommandshuttle",
+                "upgrades": {
+                    "crew": [
+                        "pettyofficerthanisson",
+                        "novicetechnician",
+                        "seasonednavigator"
+                    ],
+                    "sensor": [
+                        "advancedsensors"
+                    ],
+                    "tech": [
+                        "targetingsynchronizer",
+                        "patternanalyzer"
+                    ]
+                }
+            },
+            {
+                "id": "captainphasma",
+                "points": 39,
+                "ship": "tiesffighter",
+                "upgrades": {}
+            }
+        ],
+        "points": 195,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=First%20Order&d=v8ZsZ200Z381X256WWW236Y288X177W206W194W53W59WW111WY385XWWWWW&sn=Random%20Squad&obs="
+}

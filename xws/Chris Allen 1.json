@@ -1,1 +1,54 @@
-{"faction":"firstorder","pilots":[{"id":"rush","ship":"tievnsilencer","points":68,"upgrades":{"tech":["targetingsynchronizer"],"missile":["clustermissiles"]}},{"id":"lieutenanttavson","ship":"upsilonclasscommandshuttle","points":90,"upgrades":{"crew":["gnkgonkdroid","generalhux"],"cannon":["jammingbeam"],"sensor":["advancedsensors"]}},{"id":"zetasquadronsurvivor","ship":"tiesffighter","points":38,"upgrades":{"modification":["staticdischargevanes"]}}],"points":196,"vendor":{},"version":"2.0.0","name":"Random Squad"}
+{
+    "name": "Chris Allen",
+    "number": 1,
+    "xws": {
+        "faction": "firstorder",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "rush",
+                "points": 68,
+                "ship": "tievnsilencer",
+                "upgrades": {
+                    "missile": [
+                        "clustermissiles"
+                    ],
+                    "tech": [
+                        "targetingsynchronizer"
+                    ]
+                }
+            },
+            {
+                "id": "lieutenanttavson",
+                "points": 90,
+                "ship": "upsilonclasscommandshuttle",
+                "upgrades": {
+                    "cannon": [
+                        "jammingbeam"
+                    ],
+                    "crew": [
+                        "gnkgonkdroid",
+                        "generalhux"
+                    ],
+                    "sensor": [
+                        "advancedsensors"
+                    ]
+                }
+            },
+            {
+                "id": "zetasquadronsurvivor",
+                "points": 38,
+                "ship": "tiesffighter",
+                "upgrades": {
+                    "modification": [
+                        "staticdischargevanes"
+                    ]
+                }
+            }
+        ],
+        "points": 196,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=First%20Order&d=v8ZsZ200Z386X177WW98Y289XWW32WW180W12W111WY259XWWWW109&sn=Random%20Squad&obs="
+}

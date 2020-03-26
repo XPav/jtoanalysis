@@ -1,1 +1,50 @@
-{"faction":"scumandvillainy","pilots":[{"id":"dalanoberos","ship":"m12lkimogilafighter","points":61,"upgrades":{"talent":["experthandling"],"torpedo":["advprotontorpedoes"],"missile":["protonrockets"]}},{"id":"ig88a","ship":"aggressorassaultfighter","points":73,"upgrades":{"sensor":["trajectorysimulator"]}},{"id":"sabinewren-lancerclasspursuitcraft","ship":"lancerclasspursuitcraft","points":63,"upgrades":{"illicit":["contrabandcybernetics"]}}],"points":197,"vendor":{},"version":"2.0.0","name":"Random Squad"}
+{
+    "name": "arctic_rogue",
+    "number": 1,
+    "xws": {
+        "faction": "scumandvillainy",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "dalanoberos",
+                "points": 61,
+                "ship": "m12lkimogilafighter",
+                "upgrades": {
+                    "missile": [
+                        "protonrockets"
+                    ],
+                    "talent": [
+                        "experthandling"
+                    ],
+                    "torpedo": [
+                        "advprotontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "ig88a",
+                "points": 73,
+                "ship": "aggressorassaultfighter",
+                "upgrades": {
+                    "sensor": [
+                        "trajectorysimulator"
+                    ]
+                }
+            },
+            {
+                "id": "sabinewren-lancerclasspursuitcraft",
+                "points": 63,
+                "ship": "lancerclasspursuitcraft",
+                "upgrades": {
+                    "illicit": [
+                        "contrabandcybernetics"
+                    ]
+                }
+            }
+        ],
+        "points": 197,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Scum%20and%20Villainy&d=v8ZsZ200Z130X120W134W102WWWY81XW114WWWWWWY127XWWW92WW&sn=Random%20Squad&obs="
+}

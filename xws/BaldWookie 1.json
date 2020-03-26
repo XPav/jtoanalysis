@@ -1,1 +1,60 @@
-{"faction":"firstorder","pilots":[{"id":"epsilonsquadroncadet","ship":"tiefofighter","points":31,"upgrades":{"tech":["targetingsynchronizer"]}},{"id":"lieutenanttavson","ship":"upsilonclasscommandshuttle","points":74,"upgrades":{"crew":["captainphasma"],"cannon":["tractorbeam"],"sensor":["firecontrolsystem"]}},{"id":"lieutenantlehuse","ship":"tiesffighter","points":49,"upgrades":{"gunner":["specialforcesgunner"]}},{"id":"zetasquadronsurvivor","ship":"tiesffighter","points":42,"upgrades":{"sensor":["advancedsensors"]}}],"points":196,"vendor":{},"version":"2.0.0","name":"Random Squad"}
+{
+    "name": "BaldWookie",
+    "number": 1,
+    "xws": {
+        "faction": "firstorder",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "epsilonsquadroncadet",
+                "points": 31,
+                "ship": "tiefofighter",
+                "upgrades": {
+                    "tech": [
+                        "targetingsynchronizer"
+                    ]
+                }
+            },
+            {
+                "id": "lieutenanttavson",
+                "points": 74,
+                "ship": "upsilonclasscommandshuttle",
+                "upgrades": {
+                    "cannon": [
+                        "tractorbeam"
+                    ],
+                    "crew": [
+                        "captainphasma"
+                    ],
+                    "sensor": [
+                        "firecontrolsystem"
+                    ]
+                }
+            },
+            {
+                "id": "lieutenantlehuse",
+                "points": 49,
+                "ship": "tiesffighter",
+                "upgrades": {
+                    "gunner": [
+                        "specialforcesgunner"
+                    ]
+                }
+            },
+            {
+                "id": "zetasquadronsurvivor",
+                "points": 42,
+                "ship": "tiesffighter",
+                "upgrades": {
+                    "sensor": [
+                        "advancedsensors"
+                    ]
+                }
+            }
+        ],
+        "points": 196,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=First%20Order&d=v8ZsZ200Z269X177WY289XWW183WWW13W113WY397XWWW182WWY259XWWW111W&sn=Random%20Squad&obs="
+}

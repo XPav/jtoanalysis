@@ -1,1 +1,53 @@
-{"faction":"firstorder","pilots":[{"id":"ember","ship":"tiebainterceptor","points":59,"upgrades":{"tech":["biohexacryptcodes"],"modification":["staticdischargevanes"]}},{"id":"avenger","ship":"tievnsilencer","points":64,"upgrades":{"tech":["biohexacryptcodes"],"missile":["protonrockets"]}},{"id":"lieutenanttavson","ship":"upsilonclasscommandshuttle","points":76,"upgrades":{"crew":["kyloren"],"modification":["munitionsfailsafe"]}}],"points":199,"vendor":{},"version":"2.0.0","name":"Random Squad"}
+{
+    "name": "EvanPaul",
+    "number": 1,
+    "xws": {
+        "faction": "firstorder",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "ember",
+                "points": 59,
+                "ship": "tiebainterceptor",
+                "upgrades": {
+                    "modification": [
+                        "staticdischargevanes"
+                    ],
+                    "tech": [
+                        "biohexacryptcodes"
+                    ]
+                }
+            },
+            {
+                "id": "avenger",
+                "points": 64,
+                "ship": "tievnsilencer",
+                "upgrades": {
+                    "missile": [
+                        "protonrockets"
+                    ],
+                    "tech": [
+                        "biohexacryptcodes"
+                    ]
+                }
+            },
+            {
+                "id": "lieutenanttavson",
+                "points": 76,
+                "ship": "upsilonclasscommandshuttle",
+                "upgrades": {
+                    "crew": [
+                        "kyloren"
+                    ],
+                    "modification": [
+                        "munitionsfailsafe"
+                    ]
+                }
+            }
+        ],
+        "points": 199,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=First%20Order&d=v8ZsZ200Z383XW202WW109Y283XW202WW102Y289XWWW179WWWW108&sn=Random%20Squad&obs="
+}

@@ -1,1 +1,58 @@
-{"faction":"scumandvillainy","pilots":[{"id":"dacebonearm","ship":"hwk290lightfreighter","points":40,"upgrades":{"device":["connernets"],"modification":["delayedfuses"]}},{"id":"ig88c","ship":"aggressorassaultfighter","points":68,"upgrades":{"sensor":["passivesensors"],"title":["ig2000"]}},{"id":"constablezuvio","ship":"quadrijettransferspacetug","points":33,"upgrades":{}},{"id":"viktorhel","ship":"kihraxzfighter","points":44,"upgrades":{}},{"id":"autopilotdrone","ship":"escapecraft","points":12,"upgrades":{}}],"points":197,"vendor":{},"version":"2.0.0","name":"Random Squad"}
+{
+    "name": "duhtch",
+    "number": 1,
+    "xws": {
+        "faction": "scumandvillainy",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "dacebonearm",
+                "points": 40,
+                "ship": "hwk290lightfreighter",
+                "upgrades": {
+                    "device": [
+                        "connernets"
+                    ],
+                    "modification": [
+                        "delayedfuses"
+                    ]
+                }
+            },
+            {
+                "id": "ig88c",
+                "points": 68,
+                "ship": "aggressorassaultfighter",
+                "upgrades": {
+                    "sensor": [
+                        "passivesensors"
+                    ],
+                    "title": [
+                        "ig2000"
+                    ]
+                }
+            },
+            {
+                "id": "constablezuvio",
+                "points": 33,
+                "ship": "quadrijettransferspacetug",
+                "upgrades": {}
+            },
+            {
+                "id": "viktorhel",
+                "points": 44,
+                "ship": "kihraxzfighter",
+                "upgrades": {}
+            },
+            {
+                "id": "autopilotdrone",
+                "points": 12,
+                "ship": "escapecraft",
+                "upgrades": {}
+            }
+        ],
+        "points": 197,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Scum%20and%20Villainy&d=v8ZsZ200Z113XWW68WWW236WY83XW240WWWWWW151Y140XWWWWWY121XWWWWWY96X&sn=Random%20Squad&obs="
+}

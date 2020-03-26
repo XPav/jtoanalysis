@@ -1,1 +1,61 @@
-{"faction":"rebelalliance","pilots":[{"id":"wullffwarro","ship":"auzituckgunship","points":65,"upgrades":{"talent":["elusive"],"crew":["sabinewren","landocalrissian"],"modification":["delayedfuses"]}},{"id":"partisanrenegade","ship":"ut60duwing","points":74,"upgrades":{"sensor":["advancedsensors"],"crew":["k2so","leiaorgana"],"modification":["shieldupgrade"],"configuration":["pivotwing"]}},{"id":"ibtisam","ship":"arc170starfighter","points":59,"upgrades":{"torpedo":["protontorpedoes"]}}],"points":198,"vendor":{},"version":"2.0.0","name":"Random Squad"}
+{
+    "name": "AKarlsson(Swe)",
+    "number": 1,
+    "xws": {
+        "faction": "rebelalliance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "wullffwarro",
+                "points": 65,
+                "ship": "auzituckgunship",
+                "upgrades": {
+                    "crew": [
+                        "sabinewren",
+                        "landocalrissian"
+                    ],
+                    "modification": [
+                        "delayedfuses"
+                    ],
+                    "talent": [
+                        "elusive"
+                    ]
+                }
+            },
+            {
+                "id": "partisanrenegade",
+                "points": 74,
+                "ship": "ut60duwing",
+                "upgrades": {
+                    "configuration": [
+                        "pivotwing"
+                    ],
+                    "crew": [
+                        "k2so",
+                        "leiaorgana"
+                    ],
+                    "modification": [
+                        "shieldupgrade"
+                    ],
+                    "sensor": [
+                        "advancedsensors"
+                    ]
+                }
+            },
+            {
+                "id": "ibtisam",
+                "points": 59,
+                "ship": "arc170starfighter",
+                "upgrades": {
+                    "torpedo": [
+                        "protontorpedoes"
+                    ]
+                }
+            }
+        ],
+        "points": 198,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Rebel%20Alliance&d=v8ZsZ200Z58X119W57W44W236Y38XW111W314W46W165W140Y80XW136WWWW&sn=Random%20Squad&obs="
+}

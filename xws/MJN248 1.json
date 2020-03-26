@@ -1,1 +1,56 @@
-{"faction":"resistance","pilots":[{"id":"covanell","ship":"resistancetransport","points":52,"upgrades":{"tech":["advancedoptics"],"crew":["larmadacy","tacticalofficer"]}},{"id":"poedameron","ship":"t70xwing","points":86,"upgrades":{"talent":["daredevil"],"astromech":["r2astromech"],"configuration":["integratedsfoils"],"title":["blackone"],"missile":["protonrockets"]}},{"id":"resistancesympathizer","ship":"scavengedyt1300","points":60,"upgrades":{}}],"points":198,"vendor":{},"version":"2.0.0","name":"Random Squad"}
+{
+    "name": "MJN248",
+    "number": 1,
+    "xws": {
+        "faction": "resistance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "covanell",
+                "points": 52,
+                "ship": "resistancetransport",
+                "upgrades": {
+                    "crew": [
+                        "larmadacy",
+                        "tacticalofficer"
+                    ],
+                    "tech": [
+                        "advancedoptics"
+                    ]
+                }
+            },
+            {
+                "id": "poedameron",
+                "points": 86,
+                "ship": "t70xwing",
+                "upgrades": {
+                    "astromech": [
+                        "r2astromech"
+                    ],
+                    "configuration": [
+                        "integratedsfoils"
+                    ],
+                    "missile": [
+                        "protonrockets"
+                    ],
+                    "talent": [
+                        "daredevil"
+                    ],
+                    "title": [
+                        "blackone"
+                    ]
+                }
+            },
+            {
+                "id": "resistancesympathizer",
+                "points": 60,
+                "ship": "scavengedyt1300",
+                "upgrades": {}
+            }
+        ],
+        "points": 198,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Resistance&d=v8ZsZ200Z351XW186WWW243W61WWY231X117W2WW175WW171W102Y295XWWWWWW&sn=Random%20Squad&obs="
+}

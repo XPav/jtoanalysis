@@ -1,1 +1,63 @@
-{"faction":"galacticrepublic","pilots":[{"id":"bluesquadronprotector","ship":"v19torrentstarfighter","points":38,"upgrades":{"talent":["outmaneuver"],"missile":["homingmissiles"]}},{"id":"kickback","ship":"v19torrentstarfighter","points":38,"upgrades":{"talent":["marksmanship"],"missile":["ionmissiles"]}},{"id":"anakinskywalker","ship":"delta7aethersprite","points":73,"upgrades":{"force-power":["foresight"],"astromech":["c110p"]}},{"id":"plokoon","ship":"delta7aethersprite","points":48,"upgrades":{"configuration":["calibratedlasertargeting"]}}],"points":197,"vendor":{},"version":"2.0.0","name":"Random Squad"}
+{
+    "name": "Mu0n",
+    "number": 2,
+    "xws": {
+        "faction": "galacticrepublic",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "bluesquadronprotector",
+                "points": 38,
+                "ship": "v19torrentstarfighter",
+                "upgrades": {
+                    "missile": [
+                        "homingmissiles"
+                    ],
+                    "talent": [
+                        "outmaneuver"
+                    ]
+                }
+            },
+            {
+                "id": "kickback",
+                "points": 38,
+                "ship": "v19torrentstarfighter",
+                "upgrades": {
+                    "missile": [
+                        "ionmissiles"
+                    ],
+                    "talent": [
+                        "marksmanship"
+                    ]
+                }
+            },
+            {
+                "id": "anakinskywalker",
+                "points": 73,
+                "ship": "delta7aethersprite",
+                "upgrades": {
+                    "astromech": [
+                        "c110p"
+                    ],
+                    "force-power": [
+                        "foresight"
+                    ]
+                }
+            },
+            {
+                "id": "plokoon",
+                "points": 48,
+                "ship": "delta7aethersprite",
+                "upgrades": {
+                    "configuration": [
+                        "calibratedlasertargeting"
+                    ]
+                }
+            }
+        ],
+        "points": 197,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Galactic%20Republic&d=v8ZsZ200Z320X126W100WY315X125W101WY273X251W252WWY312XWW200W&sn=Random%20Squad&obs="
+}

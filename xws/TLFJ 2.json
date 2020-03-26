@@ -1,1 +1,64 @@
-{"faction":"galacticempire","pilots":[{"id":"majorvynder","ship":"alphaclassstarwing","points":67,"upgrades":{"talent":["elusive"],"sensor":["passivesensors"],"torpedo":["protontorpedoes"],"missile":["ionmissiles"],"modification":["advancedslam"],"configuration":["xg1assaultconfiguration"]}},{"id":"idenversio","ship":"tielnfighter","points":41,"upgrades":{}},{"id":"coloneljendon","ship":"lambdaclasst4ashuttle","points":55,"upgrades":{"modification":["hullupgrade"],"title":["st321"]}},{"id":"blacksquadronscout","ship":"tieskstriker","points":34,"upgrades":{}}],"points":197,"vendor":{},"version":"2.0.0","name":"Random Squad"}
+{
+    "name": "TLFJ",
+    "number": 2,
+    "xws": {
+        "faction": "galacticempire",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "majorvynder",
+                "points": 67,
+                "ship": "alphaclassstarwing",
+                "upgrades": {
+                    "configuration": [
+                        "xg1assaultconfiguration"
+                    ],
+                    "missile": [
+                        "ionmissiles"
+                    ],
+                    "modification": [
+                        "advancedslam"
+                    ],
+                    "sensor": [
+                        "passivesensors"
+                    ],
+                    "talent": [
+                        "elusive"
+                    ],
+                    "torpedo": [
+                        "protontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "idenversio",
+                "points": 41,
+                "ship": "tielnfighter",
+                "upgrades": {}
+            },
+            {
+                "id": "coloneljendon",
+                "points": 55,
+                "ship": "lambdaclasst4ashuttle",
+                "upgrades": {
+                    "modification": [
+                        "hullupgrade"
+                    ],
+                    "title": [
+                        "st321"
+                    ]
+                }
+            },
+            {
+                "id": "blacksquadronscout",
+                "points": 34,
+                "ship": "tieskstriker",
+                "upgrades": {}
+            }
+        ],
+        "points": 197,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Galactic%20Empire&d=v8ZsZ200Z161X119W240W136W101W104W144WY218XWY167XWWWW164W162Y212XWWW&sn=Random%20Squad&obs="
+}
