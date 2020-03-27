@@ -56,20 +56,39 @@ with open('combined.json', 'r') as combinedf:
 fields = [ 'id', 'ship', 'points', 'initiative', 'agility','hull', 'shields', 'attack' ]
 
 oships = []
+olists = []
 
 # One line per
 for l in combined:
+    shipcount = 0
+    upgradecount = 0
+    init = 0
+    health = 0
+    
+    olist = {}
     for p in l['xws']['pilots']:
         oship = {}
         oship['listid'] = l['name'] + '#' + str(l['number'])
         oship['faction'] =l['xws']['faction'] 
         oship['yasb'] = l['yasb']
+        olist = oship.copy()
 
         for f in fields:
             oship[f] = p[f]
 
+        for u in p['upgrades']:
+            upgradecount += 1
+
+        init = init + oship['initiative']
+
         oships.append(oship)
 
+        shipcount += 1
+    olist['shipcount'] = shipcount
+    olist['upgradecount'] = upgradecount
+    olist['avginitiative'] = init / shipcount
+
+    olists.append(olist)
 
 with open('ships.csv', 'w', newline='') as csvfile:
     fieldnames = ['listid', 'faction', 'yasb' ]
@@ -80,5 +99,14 @@ with open('ships.csv', 'w', newline='') as csvfile:
     for os in oships:
         writer.writerow(os)
 
+with open('lists.csv', 'w', newline='') as csvfile:
+    lfieldnames = ['listid', 'faction', 'shipcount', 'upgradecount', 'avginitiative', 'yasb'  ]
+
+    writer = csv.DictWriter(csvfile, fieldnames=lfieldnames)
+    writer.writeheader()
+    for ol in olists:
+        writer.writerow(ol)
+
  
+
 
