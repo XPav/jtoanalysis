@@ -1,7 +1,7 @@
 In process software to pull the JTO lists and make pretty stats.
 
-`Combined.json` has all the lists combined.
-`ships.xlsx` is an Excel file ready to PIVOT to your hearts content.
+`combined.json` has all the lists combined.
+`charts and stuff.xlsx` is an Excel file ready to PIVOT to your hearts content.
 
 Upgrades aren't factored in yet.
 
