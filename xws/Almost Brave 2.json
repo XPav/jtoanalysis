@@ -1,0 +1,65 @@
+{
+    "name": "Almost Brave",
+    "number": 2,
+    "xws": {
+        "faction": "scumandvillainy",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "l337-escapecraft",
+                "points": 32,
+                "ship": "escapecraft",
+                "upgrades": {
+                    "crew": [
+                        "cadbane"
+                    ],
+                    "modification": [
+                        "munitionsfailsafe"
+                    ],
+                    "talent": [
+                        "crackshot"
+                    ]
+                }
+            },
+            {
+                "id": "kavil",
+                "points": 54,
+                "ship": "btla4ywing",
+                "upgrades": {
+                    "gunner": [
+                        "agilegunner"
+                    ],
+                    "modification": [
+                        "hullupgrade"
+                    ]
+                }
+            },
+            {
+                "id": "quinnjast",
+                "points": 31,
+                "ship": "m3ainterceptor",
+                "upgrades": {}
+            },
+            {
+                "id": "landocalrissian-escapecraft",
+                "points": 32,
+                "ship": "escapecraft",
+                "upgrades": {
+                    "modification": [
+                        "targetingcomputer"
+                    ]
+                }
+            },
+            {
+                "id": "drearenthal",
+                "points": 49,
+                "ship": "btla4ywing",
+                "upgrades": {}
+            }
+        ],
+        "points": 198,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Scum%20and%20Villainy&d=v8ZsZ200Z95X116W20W108Y85XWWW76WWWW164Y135XWWY93XWW249Y86XWWWWWWW&sn=Random%20Squad&obs="
+}

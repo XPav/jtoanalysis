@@ -1,0 +1,60 @@
+{
+    "name": "fivepoingOMG",
+    "number": 2,
+    "xws": {
+        "faction": "galacticrepublic",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "tucker",
+                "points": 36,
+                "ship": "v19torrentstarfighter",
+                "upgrades": {
+                    "missile": [
+                        "clustermissiles"
+                    ],
+                    "modification": [
+                        "electronicbaffle"
+                    ]
+                }
+            },
+            {
+                "id": "axe",
+                "points": 44,
+                "ship": "v19torrentstarfighter",
+                "upgrades": {
+                    "missile": [
+                        "magpulsewarheads"
+                    ],
+                    "talent": [
+                        "outmaneuver"
+                    ]
+                }
+            },
+            {
+                "id": "anakinskywalker",
+                "points": 66,
+                "ship": "delta7aethersprite",
+                "upgrades": {
+                    "force-power": [
+                        "foresight"
+                    ]
+                }
+            },
+            {
+                "id": "oddball-btlbywing",
+                "points": 49,
+                "ship": "btlbywing",
+                "upgrades": {
+                    "astromech": [
+                        "r4p44"
+                    ]
+                }
+            }
+        ],
+        "points": 195,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Galactic%20Republic&d=v8ZsZ200Z319X98W106Y318X126W311WY273X251WWWY366XWWWW226WW&sn=Random%20Squad&obs="
+}

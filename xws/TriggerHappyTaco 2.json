@@ -1,0 +1,56 @@
+{
+    "name": "TriggerHappyTaco",
+    "number": 2,
+    "xws": {
+        "faction": "rebelalliance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "mirandadoni",
+                "points": 53,
+                "ship": "btls8kwing",
+                "upgrades": {
+                    "device": [
+                        "bombletgenerator"
+                    ],
+                    "missile": [
+                        "ionmissiles"
+                    ],
+                    "modification": [
+                        "electronicbaffle"
+                    ]
+                }
+            },
+            {
+                "id": "ezrabridger-tielnfighter",
+                "points": 31,
+                "ship": "tielnfighter",
+                "upgrades": {}
+            },
+            {
+                "id": "ginamoonsong",
+                "points": 56,
+                "ship": "asf01bwing",
+                "upgrades": {
+                    "torpedo": [
+                        "iontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "lowhhrick",
+                "points": 60,
+                "ship": "auzituckgunship",
+                "upgrades": {
+                    "crew": [
+                        "magvayarro"
+                    ]
+                }
+            }
+        ],
+        "points": 200,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Rebel%20Alliance&d=v8ZsZ200Z17XW101WWWWW67W106Y14XWY391XWWWW135WWY59XW51WW&sn=Random%20Squad&obs="
+}

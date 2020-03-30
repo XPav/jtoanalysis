@@ -1,0 +1,58 @@
+{
+    "name": "ctsjohnz",
+    "number": 2,
+    "xws": {
+        "faction": "galacticrepublic",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "oddball",
+                "points": 37,
+                "ship": "v19torrentstarfighter",
+                "upgrades": {
+                    "talent": [
+                        "elusive"
+                    ]
+                }
+            },
+            {
+                "id": "bluesquadronprotector",
+                "points": 28,
+                "ship": "v19torrentstarfighter",
+                "upgrades": {
+                    "talent": [
+                        "crackshot"
+                    ]
+                }
+            },
+            {
+                "id": "redsquadronbomber",
+                "points": 30,
+                "ship": "btlbywing",
+                "upgrades": {}
+            },
+            {
+                "id": "shadowsquadronveteran",
+                "points": 32,
+                "ship": "btlbywing",
+                "upgrades": {}
+            },
+            {
+                "id": "ahsokatano",
+                "points": 44,
+                "ship": "delta7aethersprite",
+                "upgrades": {}
+            },
+            {
+                "id": "bluesquadronprotector",
+                "points": 27,
+                "ship": "v19torrentstarfighter",
+                "upgrades": {}
+            }
+        ],
+        "points": 198,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Galactic%20Republic&d=v8ZsZ200Z316X119WWY320X116WWY361XWWWWWY360XWWWWWWY276XWWWY320XWW&sn=Random%20Squad&obs="
+}

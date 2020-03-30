@@ -1,0 +1,53 @@
+{
+    "name": "rc4b2",
+    "number": 1,
+    "xws": {
+        "faction": "scumandvillainy",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "ahhav",
+                "points": 40,
+                "ship": "modifiedtielnfighter",
+                "upgrades": {
+                    "modification": [
+                        "targetingcomputer"
+                    ],
+                    "talent": [
+                        "snapshot"
+                    ]
+                }
+            },
+            {
+                "id": "shadowporthunter",
+                "points": 60,
+                "ship": "lancerclasspursuitcraft",
+                "upgrades": {
+                    "crew": [
+                        "novicetechnician"
+                    ]
+                }
+            },
+            {
+                "id": "shadowporthunter",
+                "points": 58,
+                "ship": "lancerclasspursuitcraft",
+                "upgrades": {
+                    "illicit": [
+                        "contrabandcybernetics"
+                    ]
+                }
+            },
+            {
+                "id": "cartelexecutioner",
+                "points": 41,
+                "ship": "m12lkimogilafighter",
+                "upgrades": {}
+            }
+        ],
+        "points": 199,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Scum%20and%20Villainy&d=v8ZsZ200Z249X256W249Y128X53WWWWY128XWW92WWY131XWWWWW&sn=Random%20Squad&obs="
+}

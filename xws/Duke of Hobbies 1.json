@@ -1,0 +1,66 @@
+{
+    "name": "Duke of Hobbies",
+    "number": 1,
+    "xws": {
+        "faction": "rebelalliance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "mirandadoni",
+                "points": 101,
+                "ship": "btls8kwing",
+                "upgrades": {
+                    "crew": [
+                        "c3po"
+                    ],
+                    "device": [
+                        "clustermines"
+                    ],
+                    "gunner": [
+                        "bistan"
+                    ],
+                    "missile": [
+                        "clustermissiles",
+                        "homingmissiles"
+                    ],
+                    "modification": [
+                        "angleddeflectors"
+                    ],
+                    "torpedo": [
+                        "protontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "zeborrelios-tielnfighter",
+                "points": 32,
+                "ship": "tielnfighter",
+                "upgrades": {
+                    "modification": [
+                        "shieldupgrade"
+                    ]
+                }
+            },
+            {
+                "id": "airencracken",
+                "points": 42,
+                "ship": "z95af4headhunter",
+                "upgrades": {
+                    "missile": [
+                        "magpulsewarheads"
+                    ]
+                }
+            },
+            {
+                "id": "talasquadronpilot",
+                "points": 24,
+                "ship": "z95af4headhunter",
+                "upgrades": {}
+            }
+        ],
+        "points": 199,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Rebel%20Alliance&d=v8ZsZ200Z17X136W98W100W77W18WW316W247Y15X165Y54XW311WY56XWW&sn=Random%20Squad&obs="
+}

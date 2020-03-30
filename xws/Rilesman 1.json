@@ -1,0 +1,56 @@
+{
+    "name": "Rilesman",
+    "number": 1,
+    "xws": {
+        "faction": "separatistalliance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "darkcourier",
+                "points": 81,
+                "ship": "sithinfiltrator",
+                "upgrades": {
+                    "crew": [
+                        "freelanceslicer",
+                        "perceptivecopilot"
+                    ],
+                    "device": [
+                        "connernets"
+                    ],
+                    "torpedo": [
+                        "protontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "generalgrievous",
+                "points": 54,
+                "ship": "belbullab22starfighter",
+                "upgrades": {
+                    "modification": [
+                        "delayedfuses"
+                    ],
+                    "tacticalrelay": [
+                        "ta175"
+                    ]
+                }
+            },
+            {
+                "id": "wattambor",
+                "points": 42,
+                "ship": "belbullab22starfighter",
+                "upgrades": {}
+            },
+            {
+                "id": "separatistdrone",
+                "points": 21,
+                "ship": "vultureclassdroidfighter",
+                "upgrades": {}
+            }
+        ],
+        "points": 198,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Separatist%20Alliance&d=v8ZsZ200Z336XW136W30W54W68WWWY305XW239W236WY306XWWWY343XWW&sn=Random%20Squad&obs="
+}

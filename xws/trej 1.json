@@ -1,0 +1,48 @@
+{
+    "name": "trej",
+    "number": 1,
+    "xws": {
+        "faction": "firstorder",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "sienarjaemusengineer",
+                "points": 71,
+                "ship": "tievnsilencer",
+                "upgrades": {
+                    "missile": [
+                        "magpulsewarheads"
+                    ],
+                    "tech": [
+                        "primedthrusters"
+                    ],
+                    "torpedo": [
+                        "plasmatorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "omegasquadronace",
+                "points": 28,
+                "ship": "tiefofighter",
+                "upgrades": {}
+            },
+            {
+                "id": "captainphasma",
+                "points": 39,
+                "ship": "tiesffighter",
+                "upgrades": {}
+            },
+            {
+                "id": "starkillerbasepilot",
+                "points": 58,
+                "ship": "upsilonclasscommandshuttle",
+                "upgrades": {}
+            }
+        ],
+        "points": 196,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=First%20Order&d=v8ZsZ200Z286X178W234W311Y267XWWY385XWWWWWY288XWWWWWWW&sn=Random%20Squad&obs="
+}

@@ -1,0 +1,70 @@
+{
+    "name": "Travis Foss",
+    "number": 2,
+    "xws": {
+        "faction": "galacticempire",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "gammasquadronace",
+                "points": 43,
+                "ship": "tiesabomber",
+                "upgrades": {
+                    "device": [
+                        "proximitymines"
+                    ],
+                    "missile": [
+                        "protonrockets"
+                    ]
+                }
+            },
+            {
+                "id": "gideonhask",
+                "points": 31,
+                "ship": "tielnfighter",
+                "upgrades": {
+                    "talent": [
+                        "marksmanship"
+                    ]
+                }
+            },
+            {
+                "id": "omicrongrouppilot",
+                "points": 62,
+                "ship": "lambdaclasst4ashuttle",
+                "upgrades": {
+                    "crew": [
+                        "admiralsloane",
+                        "novicetechnician"
+                    ],
+                    "sensor": [
+                        "trajectorysimulator"
+                    ]
+                }
+            },
+            {
+                "id": "doubleedge",
+                "points": 38,
+                "ship": "tieagaggressor",
+                "upgrades": {
+                    "modification": [
+                        "stealthdevice"
+                    ],
+                    "turret": [
+                        "dorsalturret"
+                    ]
+                }
+            },
+            {
+                "id": "blacksquadronace",
+                "points": 25,
+                "ship": "tielnfighter",
+                "upgrades": {}
+            }
+        ],
+        "points": 199,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Galactic%20Empire&d=v8ZsZ200Z207XWWW102WW70WWY223X125WY168X114WW14W53WWY188XW137WWWW166Y227XW&sn=Random%20Squad&obs="
+}

@@ -1,0 +1,76 @@
+{
+    "name": "balindamood",
+    "number": 2,
+    "xws": {
+        "faction": "resistance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "colossusstationmechanic",
+                "points": 38,
+                "ship": "fireball",
+                "upgrades": {
+                    "astromech": [
+                        "r4astromech"
+                    ],
+                    "illicit": [
+                        "cloakingdevice"
+                    ],
+                    "missile": [
+                        "ionmissiles"
+                    ],
+                    "title": [
+                        "kazsfireball"
+                    ]
+                }
+            },
+            {
+                "id": "cat",
+                "points": 92,
+                "ship": "mg100starfortress",
+                "upgrades": {
+                    "crew": [
+                        "freelanceslicer"
+                    ],
+                    "device": [
+                        "electroprotonbomb"
+                    ],
+                    "gunner": [
+                        "agilegunner",
+                        "veteranturretgunner"
+                    ],
+                    "tech": [
+                        "patternanalyzer"
+                    ]
+                }
+            },
+            {
+                "id": "vimoradi",
+                "points": 34,
+                "ship": "resistancetransportpod",
+                "upgrades": {
+                    "crew": [
+                        "larmadacy"
+                    ],
+                    "modification": [
+                        "targetingcomputer"
+                    ]
+                }
+            },
+            {
+                "id": "finn",
+                "points": 31,
+                "ship": "resistancetransportpod",
+                "upgrades": {
+                    "modification": [
+                        "electronicbaffle"
+                    ]
+                }
+            }
+        ],
+        "points": 195,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Resistance&d=v8ZsZ200Z380X101W5W91WWW315Y291XW206W30W76W90W235WWY348XW243W249Y350XWWW106&sn=Random%20Squad&obs="
+}

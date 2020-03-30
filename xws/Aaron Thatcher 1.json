@@ -1,0 +1,55 @@
+{
+    "name": "Aaron Thatcher",
+    "number": 1,
+    "xws": {
+        "faction": "rebelalliance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "lowhhrick",
+                "points": 57,
+                "ship": "auzituckgunship",
+                "upgrades": {
+                    "crew": [
+                        "seasonednavigator"
+                    ]
+                }
+            },
+            {
+                "id": "greensquadronpilot",
+                "points": 32,
+                "ship": "rz1awing",
+                "upgrades": {}
+            },
+            {
+                "id": "goldsquadronveteran",
+                "points": 39,
+                "ship": "btla4ywing",
+                "upgrades": {
+                    "astromech": [
+                        "chopper"
+                    ],
+                    "turret": [
+                        "ioncannonturret"
+                    ]
+                }
+            },
+            {
+                "id": "phoenixsquadronpilot",
+                "points": 29,
+                "ship": "rz1awing",
+                "upgrades": {}
+            },
+            {
+                "id": "herasyndulla",
+                "points": 38,
+                "ship": "attackshuttle",
+                "upgrades": {}
+            }
+        ],
+        "points": 195,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Rebel%20Alliance&d=v8ZsZ200Z59XW59WWY52XWWY29XW138WW0WWWY53XWY65XWWWW&sn=Random%20Squad&obs="
+}

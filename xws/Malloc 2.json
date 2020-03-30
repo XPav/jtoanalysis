@@ -1,0 +1,56 @@
+{
+    "name": "Malloc",
+    "number": 2,
+    "xws": {
+        "faction": "rebelalliance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "knavesquadronescort",
+                "points": 50,
+                "ship": "ewing",
+                "upgrades": {}
+            },
+            {
+                "id": "zeborrelios-sheathipedeclassshuttle",
+                "points": 34,
+                "ship": "sheathipedeclassshuttle",
+                "upgrades": {
+                    "title": [
+                        "phantom"
+                    ]
+                }
+            },
+            {
+                "id": "sabinewren",
+                "points": 44,
+                "ship": "attackshuttle",
+                "upgrades": {
+                    "turret": [
+                        "dorsalturret"
+                    ]
+                }
+            },
+            {
+                "id": "kylekatarn",
+                "points": 68,
+                "ship": "hwk290lightfreighter",
+                "upgrades": {
+                    "crew": [
+                        "r2d2-crew"
+                    ],
+                    "modification": [
+                        "afterburners"
+                    ],
+                    "title": [
+                        "moldycrow"
+                    ]
+                }
+            }
+        ],
+        "points": 196,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Rebel%20Alliance&d=v8ZsZ200Z24XWWWY71XWWWW167Y66XWWW137WY48XWW56W105WW156&sn=Random%20Squad&obs="
+}

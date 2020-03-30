@@ -1,0 +1,56 @@
+{
+    "name": "CatchySlim",
+    "number": 1,
+    "xws": {
+        "faction": "galacticempire",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "omicrongrouppilot",
+                "points": 54,
+                "ship": "lambdaclasst4ashuttle",
+                "upgrades": {
+                    "cannon": [
+                        "jammingbeam"
+                    ],
+                    "crew": [
+                        "novicetechnician"
+                    ],
+                    "modification": [
+                        "hullupgrade"
+                    ],
+                    "title": [
+                        "st321"
+                    ]
+                }
+            },
+            {
+                "id": "vizier",
+                "points": 54,
+                "ship": "tiereaper",
+                "upgrades": {
+                    "crew": [
+                        "seventhsister"
+                    ]
+                }
+            },
+            {
+                "id": "captainoicunn",
+                "points": 91,
+                "ship": "vt49decimator",
+                "upgrades": {
+                    "gunner": [
+                        "agilegunner"
+                    ],
+                    "talent": [
+                        "snapshot"
+                    ]
+                }
+            }
+        ],
+        "points": 199,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Galactic%20Empire&d=v8ZsZ200Z168XW12WW53W164W162Y185X60WWY215X256WWWWW76WWW&sn=Random%20Squad&obs="
+}

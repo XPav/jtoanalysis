@@ -1,0 +1,58 @@
+{
+    "name": "Tkdstitch",
+    "number": 1,
+    "xws": {
+        "faction": "galacticempire",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "majorvermeil",
+                "points": 63,
+                "ship": "tiereaper",
+                "upgrades": {
+                    "crew": [
+                        "agentkallus",
+                        "seventhsister"
+                    ]
+                }
+            },
+            {
+                "id": "omicrongrouppilot",
+                "points": 51,
+                "ship": "lambdaclasst4ashuttle",
+                "upgrades": {
+                    "crew": [
+                        "novicetechnician"
+                    ],
+                    "title": [
+                        "st321"
+                    ]
+                }
+            },
+            {
+                "id": "baronoftheempire",
+                "points": 35,
+                "ship": "tieadvancedv1",
+                "upgrades": {
+                    "missile": [
+                        "homingmissiles"
+                    ]
+                }
+            },
+            {
+                "id": "captainferoph",
+                "points": 48,
+                "ship": "tiereaper",
+                "upgrades": {
+                    "talent": [
+                        "composure"
+                    ]
+                }
+            }
+        ],
+        "points": 197,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Galactic%20Empire&d=v8ZsZ200Z183XW15W60WY168XWWW53WW162Y172XWW100Y184X115WWW&sn=Random%20Squad&obs="
+}

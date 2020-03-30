@@ -1,0 +1,52 @@
+{
+    "name": "bri",
+    "number": 1,
+    "xws": {
+        "faction": "rebelalliance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "wardensquadronpilot",
+                "points": 68,
+                "ship": "btls8kwing",
+                "upgrades": {
+                    "crew": [
+                        "c3po"
+                    ],
+                    "device": [
+                        "seismiccharges",
+                        "protonbombs"
+                    ],
+                    "missile": [
+                        "barragerockets"
+                    ],
+                    "torpedo": [
+                        "iontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "outerrimsmuggler",
+                "points": 67,
+                "ship": "modifiedyt1300lightfreighter",
+                "upgrades": {}
+            },
+            {
+                "id": "phoenixsquadronpilot",
+                "points": 29,
+                "ship": "rz1awing",
+                "upgrades": {}
+            },
+            {
+                "id": "airencracken",
+                "points": 36,
+                "ship": "z95af4headhunter",
+                "upgrades": {}
+            }
+        ],
+        "points": 200,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Rebel%20Alliance&d=v8ZsZ200Z20X135WW97WW18W71W69WY45XWWWWWWY53XWY54XWW&sn=Random%20Squad&obs="
+}

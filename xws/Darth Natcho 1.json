@@ -1,0 +1,64 @@
+{
+    "name": "Darth Natcho",
+    "number": 1,
+    "xws": {
+        "faction": "firstorder",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "starkillerbasepilot",
+                "points": 93,
+                "ship": "upsilonclasscommandshuttle",
+                "upgrades": {
+                    "cannon": [
+                        "ioncannon"
+                    ],
+                    "crew": [
+                        "freelanceslicer",
+                        "pettyofficerthanisson"
+                    ],
+                    "sensor": [
+                        "passivesensors"
+                    ],
+                    "tech": [
+                        "deuteriumpowercells",
+                        "hyperspacetrackingdata"
+                    ]
+                }
+            },
+            {
+                "id": "muse",
+                "points": 37,
+                "ship": "tiefofighter",
+                "upgrades": {
+                    "talent": [
+                        "fanatical"
+                    ],
+                    "tech": [
+                        "patternanalyzer"
+                    ]
+                }
+            },
+            {
+                "id": "lieutenantlehuse",
+                "points": 43,
+                "ship": "tiesffighter",
+                "upgrades": {
+                    "missile": [
+                        "ionmissiles"
+                    ]
+                }
+            },
+            {
+                "id": "zetasquadronpilot",
+                "points": 26,
+                "ship": "tiefofighter",
+                "upgrades": {}
+            }
+        ],
+        "points": 199,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=First%20Order&d=v8ZsZ200Z288X318W185W30WW194W11W240WY235X181W206WY397XWW101WWWY268XW&sn=Random%20Squad&obs="
+}

@@ -1,0 +1,56 @@
+{
+    "name": "[SEL]Brut",
+    "number": 2,
+    "xws": {
+        "faction": "galacticrepublic",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "obiwankenobi",
+                "points": 52,
+                "ship": "delta7aethersprite",
+                "upgrades": {
+                    "force-power": [
+                        "brilliantevasion"
+                    ],
+                    "modification": [
+                        "munitionsfailsafe"
+                    ]
+                }
+            },
+            {
+                "id": "luminaraunduli",
+                "points": 48,
+                "ship": "delta7aethersprite",
+                "upgrades": {
+                    "astromech": [
+                        "r2c4"
+                    ]
+                }
+            },
+            {
+                "id": "oddball-btlbywing",
+                "points": 55,
+                "ship": "btlbywing",
+                "upgrades": {
+                    "device": [
+                        "protonbombs"
+                    ],
+                    "torpedo": [
+                        "iontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "padmeamidala",
+                "points": 45,
+                "ship": "nabooroyaln1starfighter",
+                "upgrades": {}
+            }
+        ],
+        "points": 200,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Galactic%20Republic&d=v8ZsZ200Z278X199WWW108Y274XW233WWY366XWW135WWW69WY332XWWW&sn=Random%20Squad&obs="
+}

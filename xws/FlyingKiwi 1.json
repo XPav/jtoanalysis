@@ -1,0 +1,58 @@
+{
+    "name": "FlyingKiwi",
+    "number": 1,
+    "xws": {
+        "faction": "scumandvillainy",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "hansolo",
+                "points": 83,
+                "ship": "customizedyt1300lightfreighter",
+                "upgrades": {
+                    "illicit": [
+                        "inertialdampeners"
+                    ],
+                    "missile": [
+                        "magpulsewarheads"
+                    ],
+                    "talent": [
+                        "squadleader"
+                    ],
+                    "title": [
+                        "landosmillenniumfalcon"
+                    ]
+                }
+            },
+            {
+                "id": "nomlumb",
+                "points": 48,
+                "ship": "jumpmaster5000",
+                "upgrades": {
+                    "crew": [
+                        "l337"
+                    ],
+                    "torpedo": [
+                        "advprotontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "zuckuss",
+                "points": 45,
+                "ship": "g1astarfighter",
+                "upgrades": {}
+            },
+            {
+                "id": "miningguildsurveyor",
+                "points": 23,
+                "ship": "modifiedtielnfighter",
+                "upgrades": {}
+            }
+        ],
+        "points": 199,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Scum%20and%20Villainy&d=v8ZsZ200Z89X131W311WWWW95WW152Y400X134WW43WWWWY110XWWWWWY248XW&sn=Random%20Squad&obs="
+}

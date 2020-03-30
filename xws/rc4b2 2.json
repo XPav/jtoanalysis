@@ -1,0 +1,73 @@
+{
+    "name": "rc4b2",
+    "number": 2,
+    "xws": {
+        "faction": "separatistalliance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "gorgol",
+                "points": 41,
+                "ship": "nantexclassstarfighter",
+                "upgrades": {
+                    "modification": [
+                        "munitionsfailsafe"
+                    ],
+                    "talent": [
+                        "debrisgambit"
+                    ]
+                }
+            },
+            {
+                "id": "countdooku",
+                "points": 84,
+                "ship": "sithinfiltrator",
+                "upgrades": {
+                    "crew": [
+                        "seasonednavigator",
+                        "generalgrievous"
+                    ],
+                    "modification": [
+                        "tacticalscrambler"
+                    ],
+                    "tacticalrelay": [
+                        "k2b4"
+                    ],
+                    "torpedo": [
+                        "iontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "separatistbomber",
+                "points": 40,
+                "ship": "hyenaclassdroidbomber",
+                "upgrades": {
+                    "configuration": [
+                        "landingstruts"
+                    ],
+                    "missile": [
+                        "clustermissiles"
+                    ],
+                    "torpedo": [
+                        "advprotontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "separatistbomber",
+                "points": 33,
+                "ship": "hyenaclassdroidbomber",
+                "upgrades": {
+                    "missile": [
+                        "homingmissiles"
+                    ]
+                }
+            }
+        ],
+        "points": 198,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Separatist%20Alliance&d=v8ZsZ200Z355X118W108Y334XWW135W59W219WW110WW220Y327X134W98WWW237Y327XW100WWW&sn=Random%20Squad&obs="
+}

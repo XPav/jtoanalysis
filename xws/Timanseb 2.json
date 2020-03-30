@@ -1,0 +1,43 @@
+{
+    "name": "Timanseb",
+    "number": 2,
+    "xws": {
+        "faction": "scumandvillainy",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "krassistrelix",
+                "points": 71,
+                "ship": "firesprayclasspatrolcraft",
+                "upgrades": {
+                    "title": [
+                        "marauder"
+                    ]
+                }
+            },
+            {
+                "id": "ig88c",
+                "points": 71,
+                "ship": "aggressorassaultfighter",
+                "upgrades": {
+                    "illicit": [
+                        "riggedcargochute"
+                    ],
+                    "modification": [
+                        "targetingcomputer"
+                    ]
+                }
+            },
+            {
+                "id": "oldteroch",
+                "points": 56,
+                "ship": "fangfighter",
+                "upgrades": {}
+            }
+        ],
+        "points": 198,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Scum%20and%20Villainy&d=v8ZsZ200Z107XWWWWWWW153WY83XWWWWW96W249WY98XW&sn=Random%20Squad&obs="
+}

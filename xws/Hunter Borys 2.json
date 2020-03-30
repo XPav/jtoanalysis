@@ -1,0 +1,60 @@
+{
+    "name": "Hunter Borys",
+    "number": 2,
+    "xws": {
+        "faction": "firstorder",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "lieutenantrivas",
+                "points": 28,
+                "ship": "tiefofighter",
+                "upgrades": {
+                    "tech": [
+                        "biohexacryptcodes"
+                    ]
+                }
+            },
+            {
+                "id": "captaincardinal",
+                "points": 73,
+                "ship": "upsilonclasscommandshuttle",
+                "upgrades": {
+                    "cannon": [
+                        "heavylasercannon"
+                    ],
+                    "crew": [
+                        "pettyofficerthanisson"
+                    ],
+                    "modification": [
+                        "electronicbaffle"
+                    ]
+                }
+            },
+            {
+                "id": "firstordertestpilot",
+                "points": 62,
+                "ship": "tievnsilencer",
+                "upgrades": {
+                    "torpedo": [
+                        "iontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "muse",
+                "points": 33,
+                "ship": "tiefofighter",
+                "upgrades": {
+                    "talent": [
+                        "swarmtactics"
+                    ]
+                }
+            }
+        ],
+        "points": 196,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=First%20Order&d=v8ZsZ200Z265X202WY282XWWWW194W10WW106Y287XWW135WY235X132WW&sn=Random%20Squad&obs="
+}

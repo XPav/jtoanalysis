@@ -1,0 +1,60 @@
+{
+    "name": "Czarcasm",
+    "number": 1,
+    "xws": {
+        "faction": "resistance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "bb8",
+                "points": 45,
+                "ship": "resistancetransportpod",
+                "upgrades": {
+                    "crew": [
+                        "rosetico"
+                    ],
+                    "talent": [
+                        "swarmtactics"
+                    ],
+                    "tech": [
+                        "primedthrusters"
+                    ]
+                }
+            },
+            {
+                "id": "hansolo-scavengedyt1300",
+                "points": 77,
+                "ship": "scavengedyt1300",
+                "upgrades": {
+                    "illicit": [
+                        "deadmansswitch"
+                    ],
+                    "missile": [
+                        "homingmissiles"
+                    ],
+                    "talent": [
+                        "lonewolf"
+                    ]
+                }
+            },
+            {
+                "id": "cobaltsquadronbomber",
+                "points": 76,
+                "ship": "mg100starfortress",
+                "upgrades": {
+                    "device": [
+                        "electroprotonbomb",
+                        "protonbombs"
+                    ],
+                    "gunner": [
+                        "paigetico"
+                    ]
+                }
+            }
+        ],
+        "points": 198,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Resistance&d=v8ZsZ200Z349X132W178W173WY245X124W100WWWW93WWY260XWWWW189W235W69W&sn=Random%20Squad&obs="
+}

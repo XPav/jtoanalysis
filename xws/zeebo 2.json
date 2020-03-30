@@ -1,0 +1,50 @@
+{
+    "name": "zeebo",
+    "number": 2,
+    "xws": {
+        "faction": "galacticempire",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "redline",
+                "points": 58,
+                "ship": "tiecapunisher",
+                "upgrades": {
+                    "torpedo": [
+                        "iontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "seventhsister",
+                "points": 43,
+                "ship": "tieadvancedv1",
+                "upgrades": {}
+            },
+            {
+                "id": "blacksquadronscout",
+                "points": 40,
+                "ship": "tieskstriker",
+                "upgrades": {
+                    "modification": [
+                        "stealthdevice"
+                    ]
+                }
+            },
+            {
+                "id": "sigmasquadronace",
+                "points": 54,
+                "ship": "tiephphantom",
+                "upgrades": {
+                    "sensor": [
+                        "collisiondetector"
+                    ]
+                }
+            }
+        ],
+        "points": 195,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Galactic%20Empire&d=v8ZsZ200Z191XW135WWWWWWY170XWWY212XWWW166Y201XW112WW&sn=Random%20Squad&obs="
+}

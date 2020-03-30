@@ -1,0 +1,52 @@
+{
+    "name": "Steve",
+    "number": 2,
+    "xws": {
+        "faction": "resistance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "r1j5",
+                "points": 29,
+                "ship": "fireball",
+                "upgrades": {}
+            },
+            {
+                "id": "ronithblario",
+                "points": 34,
+                "ship": "rz2awing",
+                "upgrades": {}
+            },
+            {
+                "id": "kazudaxiono",
+                "points": 42,
+                "ship": "fireball",
+                "upgrades": {
+                    "title": [
+                        "kazsfireball"
+                    ]
+                }
+            },
+            {
+                "id": "paigetico",
+                "points": 60,
+                "ship": "mg100starfortress",
+                "upgrades": {}
+            },
+            {
+                "id": "colossusstationmechanic",
+                "points": 30,
+                "ship": "fireball",
+                "upgrades": {
+                    "illicit": [
+                        "cloakingdevice"
+                    ]
+                }
+            }
+        ],
+        "points": 195,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Resistance&d=v8ZsZ200Z379XWWWWWY388XWWY378XWWWWWW315Y389XWWWWWWWWY380XWW91WWW&sn=Random%20Squad&obs="
+}

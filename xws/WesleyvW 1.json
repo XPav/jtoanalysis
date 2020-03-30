@@ -1,0 +1,80 @@
+{
+    "name": "WesleyvW",
+    "number": 1,
+    "xws": {
+        "faction": "scumandvillainy",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "ndrusuhlak",
+                "points": 40,
+                "ship": "z95af4headhunter",
+                "upgrades": {
+                    "illicit": [
+                        "deadmansswitch"
+                    ],
+                    "missile": [
+                        "ionmissiles"
+                    ],
+                    "modification": [
+                        "delayedfuses"
+                    ],
+                    "talent": [
+                        "swarmtactics"
+                    ]
+                }
+            },
+            {
+                "id": "kavil",
+                "points": 73,
+                "ship": "btla4ywing",
+                "upgrades": {
+                    "astromech": [
+                        "genius"
+                    ],
+                    "gunner": [
+                        "agilegunner"
+                    ],
+                    "illicit": [
+                        "inertialdampeners"
+                    ],
+                    "talent": [
+                        "crackshot"
+                    ],
+                    "torpedo": [
+                        "plasmatorpedoes"
+                    ],
+                    "turret": [
+                        "ioncannonturret"
+                    ]
+                }
+            },
+            {
+                "id": "jakkugunrunner",
+                "points": 33,
+                "ship": "quadrijettransferspacetug",
+                "upgrades": {
+                    "device": [
+                        "seismiccharges"
+                    ]
+                }
+            },
+            {
+                "id": "blacksunsoldier",
+                "points": 24,
+                "ship": "z95af4headhunter",
+                "upgrades": {}
+            },
+            {
+                "id": "captainseevor",
+                "points": 30,
+                "ship": "modifiedtielnfighter",
+                "upgrades": {}
+            }
+        ],
+        "points": 200,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Scum%20and%20Villainy&d=v8ZsZ200Z156X132W101W93W236Y85X116W138W234W76W1WW95WY143XWW71WWY158XWWWY247XW&sn=Random%20Squad&obs="
+}

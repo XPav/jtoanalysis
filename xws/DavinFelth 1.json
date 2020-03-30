@@ -1,0 +1,68 @@
+{
+    "name": "DavinFelth",
+    "number": 1,
+    "xws": {
+        "faction": "galacticempire",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "sabersquadronace",
+                "points": 52,
+                "ship": "tieininterceptor",
+                "upgrades": {
+                    "modification": [
+                        "hullupgrade",
+                        "shieldupgrade"
+                    ],
+                    "talent": [
+                        "composure"
+                    ]
+                }
+            },
+            {
+                "id": "lieutenantkestal",
+                "points": 54,
+                "ship": "tieagaggressor",
+                "upgrades": {
+                    "gunner": [
+                        "hotshotgunner"
+                    ],
+                    "missile": [
+                        "concussionmissiles",
+                        "ionmissiles"
+                    ],
+                    "modification": [
+                        "delayedfuses"
+                    ],
+                    "turret": [
+                        "ioncannonturret"
+                    ]
+                }
+            },
+            {
+                "id": "redline",
+                "points": 57,
+                "ship": "tiecapunisher",
+                "upgrades": {
+                    "device": [
+                        "protonbombs"
+                    ]
+                }
+            },
+            {
+                "id": "gammasquadronace",
+                "points": 33,
+                "ship": "tiesabomber",
+                "upgrades": {
+                    "talent": [
+                        "elusive"
+                    ]
+                }
+            }
+        ],
+        "points": 196,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Galactic%20Empire&d=v8ZsZ200Z181X115W164W165Y187XW138W99W101W86W236Y191XWWWWW69WWY207X119WWWWWWW&sn=Random%20Squad&obs="
+}

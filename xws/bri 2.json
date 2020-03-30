@@ -1,0 +1,56 @@
+{
+    "name": "bri",
+    "number": 2,
+    "xws": {
+        "faction": "separatistalliance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "berwerkret",
+                "points": 61,
+                "ship": "nantexclassstarfighter",
+                "upgrades": {
+                    "talent": [
+                        "ensnare"
+                    ]
+                }
+            },
+            {
+                "id": "wattambor",
+                "points": 55,
+                "ship": "belbullab22starfighter",
+                "upgrades": {
+                    "tacticalrelay": [
+                        "ta175"
+                    ],
+                    "talent": [
+                        "debrisgambit"
+                    ]
+                }
+            },
+            {
+                "id": "darthmaul",
+                "points": 81,
+                "ship": "sithinfiltrator",
+                "upgrades": {
+                    "cannon": [
+                        "heavylasercannon"
+                    ],
+                    "force-power": [
+                        "brilliantevasion"
+                    ],
+                    "modification": [
+                        "shieldupgrade"
+                    ],
+                    "title": [
+                        "scimitar"
+                    ]
+                }
+            }
+        ],
+        "points": 197,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Separatist%20Alliance&d=v8ZsZ200Z358XW248Y306X118W239WWY272X199W10WWWWW165W216W&sn=Random%20Squad&obs="
+}

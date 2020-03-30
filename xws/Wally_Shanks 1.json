@@ -1,0 +1,65 @@
+{
+    "name": "Wally_Shanks",
+    "number": 1,
+    "xws": {
+        "faction": "scumandvillainy",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "dalanoberos",
+                "points": 55,
+                "ship": "m12lkimogilafighter",
+                "upgrades": {
+                    "modification": [
+                        "munitionsfailsafe"
+                    ],
+                    "talent": [
+                        "fearless"
+                    ],
+                    "torpedo": [
+                        "advprotontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "miningguildsurveyor",
+                "points": 24,
+                "ship": "modifiedtielnfighter",
+                "upgrades": {
+                    "talent": [
+                        "marksmanship"
+                    ]
+                }
+            },
+            {
+                "id": "teltrevura",
+                "points": 51,
+                "ship": "jumpmaster5000",
+                "upgrades": {
+                    "cannon": [
+                        "ioncannon"
+                    ],
+                    "gunner": [
+                        "greedo"
+                    ]
+                }
+            },
+            {
+                "id": "gandfindsman",
+                "points": 41,
+                "ship": "g1astarfighter",
+                "upgrades": {}
+            },
+            {
+                "id": "kaatoleeachos",
+                "points": 27,
+                "ship": "z95af4headhunter",
+                "upgrades": {}
+            }
+        ],
+        "points": 198,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Scum%20and%20Villainy&d=v8ZsZ200Z130X121W134WWWW108Y248X125WY116XWW11WW83WWWY111XWWWWY157XWWW&sn=Random%20Squad&obs="
+}

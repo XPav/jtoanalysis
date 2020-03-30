@@ -1,0 +1,50 @@
+{
+    "name": "canyonero",
+    "number": 1,
+    "xws": {
+        "faction": "rebelalliance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "braylenstramm",
+                "points": 64,
+                "ship": "asf01bwing",
+                "upgrades": {
+                    "cannon": [
+                        "ioncannon"
+                    ],
+                    "torpedo": [
+                        "iontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "alexsandrkallus",
+                "points": 77,
+                "ship": "vcx100lightfreighter",
+                "upgrades": {
+                    "crew": [
+                        "magvayarro"
+                    ]
+                }
+            },
+            {
+                "id": "benthictwotubes",
+                "points": 54,
+                "ship": "ut60duwing",
+                "upgrades": {
+                    "configuration": [
+                        "pivotwing"
+                    ],
+                    "crew": [
+                        "k2so"
+                    ]
+                }
+            }
+        ],
+        "points": 195,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Rebel%20Alliance&d=v8ZsZ200Z73XWW11WW135WWY392XWWWWW51WWWY36XWWW314WW140&sn=Random%20Squad&obs="
+}

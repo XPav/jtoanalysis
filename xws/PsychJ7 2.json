@@ -1,0 +1,59 @@
+{
+    "name": "PsychJ7",
+    "number": 2,
+    "xws": {
+        "faction": "rebelalliance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "kananjarrus",
+                "points": 99,
+                "ship": "vcx100lightfreighter",
+                "upgrades": {
+                    "crew": [
+                        "chopper-crew"
+                    ],
+                    "force-power": [
+                        "heightenedperception"
+                    ],
+                    "sensor": [
+                        "trajectorysimulator"
+                    ],
+                    "torpedo": [
+                        "iontorpedoes"
+                    ],
+                    "turret": [
+                        "dorsalturret"
+                    ]
+                }
+            },
+            {
+                "id": "kylekatarn",
+                "points": 53,
+                "ship": "hwk290lightfreighter",
+                "upgrades": {
+                    "talent": [
+                        "composure"
+                    ],
+                    "title": [
+                        "moldycrow"
+                    ]
+                }
+            },
+            {
+                "id": "janors",
+                "points": 43,
+                "ship": "hwk290lightfreighter",
+                "upgrades": {
+                    "talent": [
+                        "predator"
+                    ]
+                }
+            }
+        ],
+        "points": 195,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Rebel%20Alliance&d=v8ZsZ200Z62X72W114W135W137WW23WWWY48X115WWWWW156Y46X127WWWWW&sn=Random%20Squad&obs="
+}

@@ -1,0 +1,49 @@
+{
+    "name": "Bluetricycle",
+    "number": 1,
+    "xws": {
+        "faction": "scumandvillainy",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "shadowporthunter",
+                "points": 72,
+                "ship": "lancerclasspursuitcraft",
+                "upgrades": {
+                    "crew": [
+                        "informant"
+                    ],
+                    "illicit": [
+                        "deadmansswitch",
+                        "feedbackarray"
+                    ],
+                    "modification": [
+                        "stealthdevice"
+                    ]
+                }
+            },
+            {
+                "id": "jakkugunrunner",
+                "points": 30,
+                "ship": "quadrijettransferspacetug",
+                "upgrades": {}
+            },
+            {
+                "id": "drearenthal",
+                "points": 49,
+                "ship": "btla4ywing",
+                "upgrades": {}
+            },
+            {
+                "id": "blacksunenforcer",
+                "points": 45,
+                "ship": "starviperclassattackplatform",
+                "upgrades": {}
+            }
+        ],
+        "points": 196,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Scum%20and%20Villainy&d=v8ZsZ200Z128X37W93W94W166WY143XWWWWY86XWWWWWWWY151XWWW&sn=Random%20Squad&obs="
+}

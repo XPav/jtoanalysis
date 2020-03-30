@@ -1,0 +1,52 @@
+{
+    "name": "No Pickles",
+    "number": 1,
+    "xws": {
+        "faction": "galacticrepublic",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "goldsquadrontrooper",
+                "points": 29,
+                "ship": "v19torrentstarfighter",
+                "upgrades": {
+                    "missile": [
+                        "ionmissiles"
+                    ]
+                }
+            },
+            {
+                "id": "wolffe",
+                "points": 54,
+                "ship": "arc170starfighter",
+                "upgrades": {
+                    "crew": [
+                        "novicetechnician"
+                    ]
+                }
+            },
+            {
+                "id": "barrissoffee",
+                "points": 38,
+                "ship": "delta7aethersprite",
+                "upgrades": {}
+            },
+            {
+                "id": "saeseetiin",
+                "points": 43,
+                "ship": "delta7aethersprite",
+                "upgrades": {}
+            },
+            {
+                "id": "goji",
+                "points": 32,
+                "ship": "btlbywing",
+                "upgrades": {}
+            }
+        ],
+        "points": 196,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Galactic%20Republic&d=v8ZsZ200Z321X101WY342XWW53WWWY275XWWWY313XWWWY363XWWWWW&sn=Random%20Squad&obs="
+}

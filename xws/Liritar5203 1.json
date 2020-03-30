@@ -1,0 +1,55 @@
+{
+    "name": "Liritar5203",
+    "number": 1,
+    "xws": {
+        "faction": "galacticempire",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "deathfire",
+                "points": 51,
+                "ship": "tiesabomber",
+                "upgrades": {
+                    "device": [
+                        "electroprotonbomb"
+                    ],
+                    "missile": [
+                        "protonrockets"
+                    ]
+                }
+            },
+            {
+                "id": "tempestsquadronpilot",
+                "points": 36,
+                "ship": "tieadvancedx1",
+                "upgrades": {}
+            },
+            {
+                "id": "scimitarsquadronpilot",
+                "points": 27,
+                "ship": "tiesabomber",
+                "upgrades": {}
+            },
+            {
+                "id": "captainkagi",
+                "points": 51,
+                "ship": "lambdaclasst4ashuttle",
+                "upgrades": {
+                    "crew": [
+                        "isbslicer"
+                    ]
+                }
+            },
+            {
+                "id": "nusquadronpilot",
+                "points": 32,
+                "ship": "alphaclassstarwing",
+                "upgrades": {}
+            }
+        ],
+        "points": 197,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Galactic%20Empire&d=v8ZsZ200Z206XWW102WWW235WY178XWWY208XWWWWWWY165XWWW38WWY164XWWWW&sn=Random%20Squad&obs="
+}

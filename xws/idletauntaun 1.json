@@ -1,0 +1,63 @@
+{
+    "name": "idletauntaun",
+    "number": 1,
+    "xws": {
+        "faction": "scumandvillainy",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "sabinewren-lancerclasspursuitcraft",
+                "points": 62,
+                "ship": "lancerclasspursuitcraft",
+                "upgrades": {
+                    "title": [
+                        "shadowcaster"
+                    ]
+                }
+            },
+            {
+                "id": "oldteroch",
+                "points": 63,
+                "ship": "fangfighter",
+                "upgrades": {
+                    "talent": [
+                        "marksmanship"
+                    ],
+                    "torpedo": [
+                        "advprotontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "kaatoleeachos",
+                "points": 31,
+                "ship": "z95af4headhunter",
+                "upgrades": {
+                    "illicit": [
+                        "cloakingdevice"
+                    ]
+                }
+            },
+            {
+                "id": "ndrusuhlak",
+                "points": 42,
+                "ship": "z95af4headhunter",
+                "upgrades": {
+                    "illicit": [
+                        "contrabandcybernetics"
+                    ],
+                    "missile": [
+                        "clustermissiles"
+                    ],
+                    "modification": [
+                        "hullupgrade"
+                    ]
+                }
+            }
+        ],
+        "points": 198,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Scum%20and%20Villainy&d=v8ZsZ200Z127XWWWWW160Y98X125W134Y157XWW91WY156XW98W92W164&sn=Random%20Squad&obs="
+}

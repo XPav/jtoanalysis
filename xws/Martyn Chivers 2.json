@@ -1,0 +1,59 @@
+{
+    "name": "Martyn Chivers",
+    "number": 2,
+    "xws": {
+        "faction": "galacticempire",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "grandinquisitor",
+                "points": 66,
+                "ship": "tieadvancedv1",
+                "upgrades": {
+                    "missile": [
+                        "ionmissiles"
+                    ],
+                    "sensor": [
+                        "advancedsensors"
+                    ]
+                }
+            },
+            {
+                "id": "captainferoph",
+                "points": 56,
+                "ship": "tiereaper",
+                "upgrades": {
+                    "crew": [
+                        "agentkallus"
+                    ],
+                    "modification": [
+                        "stealthdevice"
+                    ]
+                }
+            },
+            {
+                "id": "stormsquadronace",
+                "points": 48,
+                "ship": "tieadvancedx1",
+                "upgrades": {
+                    "missile": [
+                        "magpulsewarheads"
+                    ],
+                    "sensor": [
+                        "passivesensors"
+                    ]
+                }
+            },
+            {
+                "id": "sienarspecialist",
+                "points": 26,
+                "ship": "tieagaggressor",
+                "upgrades": {}
+            }
+        ],
+        "points": 196,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Galactic%20Empire&d=v8ZsZ200Z169XW111W101Y184XW15WW166Y177XW240W311WY190XWWWW&sn=Random%20Squad&obs="
+}

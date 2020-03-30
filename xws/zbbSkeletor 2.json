@@ -1,0 +1,68 @@
+{
+    "name": "zbbSkeletor",
+    "number": 2,
+    "xws": {
+        "faction": "rebelalliance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "ezrabridger",
+                "points": 52,
+                "ship": "attackshuttle",
+                "upgrades": {
+                    "crew": [
+                        "herasyndulla"
+                    ],
+                    "force-power": [
+                        "heightenedperception"
+                    ],
+                    "turret": [
+                        "ioncannonturret"
+                    ]
+                }
+            },
+            {
+                "id": "fennrau-sheathipedeclassshuttle",
+                "points": 61,
+                "ship": "sheathipedeclassshuttle",
+                "upgrades": {
+                    "astromech": [
+                        "chopper"
+                    ],
+                    "crew": [
+                        "jynerso"
+                    ],
+                    "talent": [
+                        "snapshot"
+                    ]
+                }
+            },
+            {
+                "id": "phoenixsquadronpilot",
+                "points": 29,
+                "ship": "rz1awing",
+                "upgrades": {}
+            },
+            {
+                "id": "wardensquadronpilot",
+                "points": 54,
+                "ship": "btls8kwing",
+                "upgrades": {
+                    "crew": [
+                        "perceptivecopilot"
+                    ],
+                    "device": [
+                        "ionbombs"
+                    ],
+                    "gunner": [
+                        "skilledbombardier"
+                    ]
+                }
+            }
+        ],
+        "points": 196,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Rebel%20Alliance&d=v8ZsZ200Z67X72W35WW138WY69X256W40WW0WY53XWY20XWWW88W54W317WW&sn=Random%20Squad&obs="
+}

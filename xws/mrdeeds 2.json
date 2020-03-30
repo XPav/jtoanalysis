@@ -1,0 +1,59 @@
+{
+    "name": "mrdeeds",
+    "number": 2,
+    "xws": {
+        "faction": "separatistalliance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "baktoidprototype",
+                "points": 34,
+                "ship": "hyenaclassdroidbomber",
+                "upgrades": {
+                    "configuration": [
+                        "landingstruts"
+                    ],
+                    "missile": [
+                        "clustermissiles"
+                    ]
+                }
+            },
+            {
+                "id": "bombardmentdrone",
+                "points": 29,
+                "ship": "hyenaclassdroidbomber",
+                "upgrades": {}
+            },
+            {
+                "id": "feethanottrawautopilot",
+                "points": 41,
+                "ship": "belbullab22starfighter",
+                "upgrades": {
+                    "title": [
+                        "soullessone"
+                    ]
+                }
+            },
+            {
+                "id": "precisehunter",
+                "points": 23,
+                "ship": "vultureclassdroidfighter",
+                "upgrades": {}
+            },
+            {
+                "id": "countdooku",
+                "points": 68,
+                "ship": "sithinfiltrator",
+                "upgrades": {
+                    "crew": [
+                        "informant"
+                    ]
+                }
+            }
+        ],
+        "points": 195,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Separatist%20Alliance&d=v8ZsZ200Z329XWW98WW237Y325XWWWWY307XWW229Y309XWWY334XWWWW37WWWW&sn=Random%20Squad&obs="
+}

@@ -1,0 +1,71 @@
+{
+    "name": "SirWolf",
+    "number": 1,
+    "xws": {
+        "faction": "scumandvillainy",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "genesisred",
+                "points": 31,
+                "ship": "m3ainterceptor",
+                "upgrades": {}
+            },
+            {
+                "id": "4lom",
+                "points": 59,
+                "ship": "g1astarfighter",
+                "upgrades": {
+                    "crew": [
+                        "cikatrovizago"
+                    ],
+                    "illicit": [
+                        "feedbackarray"
+                    ],
+                    "modification": [
+                        "shieldupgrade"
+                    ],
+                    "talent": [
+                        "crackshot"
+                    ],
+                    "title": [
+                        "misthunter"
+                    ]
+                }
+            },
+            {
+                "id": "landocalrissian",
+                "points": 65,
+                "ship": "customizedyt1300lightfreighter",
+                "upgrades": {
+                    "crew": [
+                        "chewbacca-crew"
+                    ],
+                    "modification": [
+                        "ablativeplating"
+                    ],
+                    "talent": [
+                        "intimidation"
+                    ],
+                    "title": [
+                        "landosmillenniumfalcon"
+                    ]
+                }
+            },
+            {
+                "id": "crymorahgoon",
+                "points": 42,
+                "ship": "btla4ywing",
+                "upgrades": {
+                    "device": [
+                        "electroprotonbomb"
+                    ]
+                }
+            }
+        ],
+        "points": 197,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Scum%20and%20Villainy&d=v8ZsZ200Z133XWWY109X116WW25W94W165W155WY90X122WWW22WWW103W152Y88XWWWW235WW&sn=Random%20Squad&obs="
+}

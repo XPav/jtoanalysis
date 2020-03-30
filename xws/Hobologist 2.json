@@ -1,0 +1,65 @@
+{
+    "name": "Hobologist",
+    "number": 2,
+    "xws": {
+        "faction": "rebelalliance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "talasquadronpilot",
+                "points": 31,
+                "ship": "z95af4headhunter",
+                "upgrades": {
+                    "missile": [
+                        "magpulsewarheads"
+                    ],
+                    "talent": [
+                        "composure"
+                    ]
+                }
+            },
+            {
+                "id": "redsquadronveteran",
+                "points": 64,
+                "ship": "t65xwing",
+                "upgrades": {
+                    "astromech": [
+                        "r5d8"
+                    ],
+                    "configuration": [
+                        "servomotorsfoils"
+                    ],
+                    "modification": [
+                        "munitionsfailsafe"
+                    ],
+                    "talent": [
+                        "swarmtactics"
+                    ],
+                    "torpedo": [
+                        "protontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "wullffwarro",
+                "points": 56,
+                "ship": "auzituckgunship",
+                "upgrades": {}
+            },
+            {
+                "id": "norrawexley-btla4ywing",
+                "points": 47,
+                "ship": "btla4ywing",
+                "upgrades": {
+                    "astromech": [
+                        "r2d2"
+                    ]
+                }
+            }
+        ],
+        "points": 198,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Rebel%20Alliance&d=v8ZsZ200Z56X115W311WY2X132W136W7W108W142Y58XWWWY25XWWW3WWW&sn=Random%20Squad&obs="
+}

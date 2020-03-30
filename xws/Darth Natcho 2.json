@@ -1,0 +1,53 @@
+{
+    "name": "Darth Natcho",
+    "number": 2,
+    "xws": {
+        "faction": "separatistalliance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "petranakiarenaace",
+                "points": 45,
+                "ship": "nantexclassstarfighter",
+                "upgrades": {
+                    "talent": [
+                        "swarmtactics",
+                        "trickshot"
+                    ]
+                }
+            },
+            {
+                "id": "darthmaul",
+                "points": 87,
+                "ship": "sithinfiltrator",
+                "upgrades": {
+                    "device": [
+                        "drk1probedroids"
+                    ],
+                    "title": [
+                        "scimitar"
+                    ],
+                    "torpedo": [
+                        "protontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "petranakiarenaace",
+                "points": 38,
+                "ship": "nantexclassstarfighter",
+                "upgrades": {}
+            },
+            {
+                "id": "technounionbomber",
+                "points": 25,
+                "ship": "hyenaclassdroidbomber",
+                "upgrades": {}
+            }
+        ],
+        "points": 195,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Separatist%20Alliance&d=v8ZsZ200Z354X132W133Y272XWW136WWW221WW216WY354XWY324XWWWW&sn=Random%20Squad&obs="
+}

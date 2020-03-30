@@ -1,0 +1,69 @@
+{
+    "name": "Merrick",
+    "number": 1,
+    "xws": {
+        "faction": "galacticempire",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "lieutenantkarsabi",
+                "points": 50,
+                "ship": "alphaclassstarwing",
+                "upgrades": {
+                    "configuration": [
+                        "xg1assaultconfiguration"
+                    ],
+                    "modification": [
+                        "munitionsfailsafe"
+                    ],
+                    "sensor": [
+                        "trajectorysimulator"
+                    ],
+                    "torpedo": [
+                        "iontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "scarifbasepilot",
+                "points": 46,
+                "ship": "tiereaper",
+                "upgrades": {
+                    "crew": [
+                        "ministertua"
+                    ]
+                }
+            },
+            {
+                "id": "majorvermeil",
+                "points": 52,
+                "ship": "tiereaper",
+                "upgrades": {
+                    "crew": [
+                        "freelanceslicer"
+                    ]
+                }
+            },
+            {
+                "id": "doubleedge",
+                "points": 48,
+                "ship": "tieagaggressor",
+                "upgrades": {
+                    "missile": [
+                        "protonrockets"
+                    ],
+                    "talent": [
+                        "snapshot"
+                    ],
+                    "turret": [
+                        "ioncannonturret"
+                    ]
+                }
+            }
+        ],
+        "points": 196,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Galactic%20Empire&d=v8ZsZ200Z162XW114W135WW108W144WY186X49WWY183XW30WWY188X256W138WW102WW&sn=Random%20Squad&obs="
+}

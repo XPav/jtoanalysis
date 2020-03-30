@@ -1,0 +1,47 @@
+{
+    "name": "RoguePanda",
+    "number": 1,
+    "xws": {
+        "faction": "rebelalliance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "herasyndulla-vcx100lightfreighter",
+                "points": 102,
+                "ship": "vcx100lightfreighter",
+                "upgrades": {
+                    "crew": [
+                        "kananjarrus",
+                        "novicetechnician"
+                    ],
+                    "gunner": [
+                        "hansolo"
+                    ],
+                    "title": [
+                        "ghost"
+                    ]
+                }
+            },
+            {
+                "id": "norrawexley",
+                "points": 61,
+                "ship": "arc170starfighter",
+                "upgrades": {
+                    "torpedo": [
+                        "advprotontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "arvelcrynyd",
+                "points": 34,
+                "ship": "rz1awing",
+                "upgrades": {}
+            }
+        ],
+        "points": 197,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Rebel%20Alliance&d=v8ZsZ200Z61XWWWW41W53WW84W148Y77XW134WWWWY51XWW&sn=Random%20Squad&obs="
+}

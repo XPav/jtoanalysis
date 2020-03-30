@@ -1,0 +1,63 @@
+{
+    "name": "Aaron T",
+    "number": 1,
+    "xws": {
+        "faction": "firstorder",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "omegasquadronace",
+                "points": 30,
+                "ship": "tiefofighter",
+                "upgrades": {
+                    "modification": [
+                        "munitionsfailsafe"
+                    ],
+                    "talent": [
+                        "composure"
+                    ]
+                }
+            },
+            {
+                "id": "lieutenantlehuse",
+                "points": 44,
+                "ship": "tiesffighter",
+                "upgrades": {
+                    "sensor": [
+                        "passivesensors"
+                    ],
+                    "talent": [
+                        "fanatical"
+                    ]
+                }
+            },
+            {
+                "id": "starkillerbasepilot",
+                "points": 70,
+                "ship": "upsilonclasscommandshuttle",
+                "upgrades": {
+                    "crew": [
+                        "kyloren"
+                    ],
+                    "tech": [
+                        "biohexacryptcodes"
+                    ]
+                }
+            },
+            {
+                "id": "ember",
+                "points": 54,
+                "ship": "tiebainterceptor",
+                "upgrades": {
+                    "talent": [
+                        "predator"
+                    ]
+                }
+            }
+        ],
+        "points": 198,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=First%20Order&d=v8ZsZ200Z267X115WW108Y397X181WWWW240WY288X202WWW179WWWWY383X127WWW&sn=Random%20Squad&obs="
+}

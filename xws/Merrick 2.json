@@ -1,0 +1,46 @@
+{
+    "name": "Merrick",
+    "number": 2,
+    "xws": {
+        "faction": "scumandvillainy",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "drearenthal",
+                "points": 50,
+                "ship": "btla4ywing",
+                "upgrades": {
+                    "talent": [
+                        "composure"
+                    ]
+                }
+            },
+            {
+                "id": "ketsuonyo",
+                "points": 69,
+                "ship": "lancerclasspursuitcraft",
+                "upgrades": {}
+            },
+            {
+                "id": "bossk",
+                "points": 64,
+                "ship": "yv666lightfreighter",
+                "upgrades": {
+                    "illicit": [
+                        "contrabandcybernetics"
+                    ]
+                }
+            },
+            {
+                "id": "autopilotdrone",
+                "points": 12,
+                "ship": "escapecraft",
+                "upgrades": {}
+            }
+        ],
+        "points": 195,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Scum%20and%20Villainy&d=v8ZsZ200Z86X115WWWWWWWY126XWWWWWY153XWWWWWW92WWY96X&sn=Random%20Squad&obs="
+}

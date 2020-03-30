@@ -1,0 +1,54 @@
+{
+    "name": "Kckid07",
+    "number": 1,
+    "xws": {
+        "faction": "galacticempire",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "scarifbasepilot",
+                "points": 49,
+                "ship": "tiereaper",
+                "upgrades": {
+                    "crew": [
+                        "informant",
+                        "directorkrennic"
+                    ],
+                    "modification": [
+                        "munitionsfailsafe"
+                    ]
+                }
+            },
+            {
+                "id": "maarekstele",
+                "points": 46,
+                "ship": "tieadvancedx1",
+                "upgrades": {
+                    "talent": [
+                        "composure"
+                    ]
+                }
+            },
+            {
+                "id": "deltasquadronpilot",
+                "points": 70,
+                "ship": "tieddefender",
+                "upgrades": {
+                    "sensor": [
+                        "passivesensors"
+                    ]
+                }
+            },
+            {
+                "id": "scourgeskutu",
+                "points": 31,
+                "ship": "tielnfighter",
+                "upgrades": {}
+            }
+        ],
+        "points": 196,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Galactic%20Empire&d=v8ZsZ200Z186X37W28W108Y174X115WWWY198X240WWY220XW&sn=Random%20Squad&obs="
+}

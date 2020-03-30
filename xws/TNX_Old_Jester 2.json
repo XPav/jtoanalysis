@@ -1,0 +1,47 @@
+{
+    "name": "TNX_Old_Jester",
+    "number": 2,
+    "xws": {
+        "faction": "rebelalliance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "biggsdarklighter",
+                "points": 51,
+                "ship": "t65xwing",
+                "upgrades": {
+                    "astromech": [
+                        "chopper"
+                    ],
+                    "configuration": [
+                        "servomotorsfoils"
+                    ],
+                    "modification": [
+                        "munitionsfailsafe"
+                    ]
+                }
+            },
+            {
+                "id": "mirandadoni",
+                "points": 54,
+                "ship": "btls8kwing",
+                "upgrades": {
+                    "device": [
+                        "ionbombs",
+                        "proximitymines"
+                    ]
+                }
+            },
+            {
+                "id": "dashrendar",
+                "points": 91,
+                "ship": "yt2400lightfreighter",
+                "upgrades": {}
+            }
+        ],
+        "points": 196,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Rebel%20Alliance&d=v8ZsZ200Z7XW0W108W142Y17XWWWWW317W70WY39XWWWWWW&sn=Random%20Squad&obs="
+}

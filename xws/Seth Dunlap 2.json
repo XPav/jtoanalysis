@@ -1,0 +1,55 @@
+{
+    "name": "Seth Dunlap",
+    "number": 2,
+    "xws": {
+        "faction": "scumandvillainy",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "trandoshanslaver",
+                "points": 66,
+                "ship": "yv666lightfreighter",
+                "upgrades": {
+                    "crew": [
+                        "informant"
+                    ],
+                    "illicit": [
+                        "riggedcargochute"
+                    ],
+                    "missile": [
+                        "clustermissiles"
+                    ]
+                }
+            },
+            {
+                "id": "skullsquadronpilot",
+                "points": 61,
+                "ship": "fangfighter",
+                "upgrades": {
+                    "talent": [
+                        "crackshot"
+                    ],
+                    "torpedo": [
+                        "protontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "zuckuss",
+                "points": 45,
+                "ship": "g1astarfighter",
+                "upgrades": {}
+            },
+            {
+                "id": "outerrimpioneer",
+                "points": 28,
+                "ship": "escapecraft",
+                "upgrades": {}
+            }
+        ],
+        "points": 200,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Scum%20and%20Villainy&d=v8ZsZ200Z155XW98WW37WW96WWY101X116W136Y110XWWWWWY94XWW&sn=Random%20Squad&obs="
+}

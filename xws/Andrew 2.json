@@ -1,0 +1,62 @@
+{
+    "name": "Andrew",
+    "number": 2,
+    "xws": {
+        "faction": "galacticempire",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "vizier",
+                "points": 67,
+                "ship": "tiereaper",
+                "upgrades": {
+                    "crew": [
+                        "cienaree",
+                        "grandinquisitor"
+                    ],
+                    "modification": [
+                        "targetingcomputer"
+                    ]
+                }
+            },
+            {
+                "id": "turrphennir",
+                "points": 46,
+                "ship": "tieininterceptor",
+                "upgrades": {
+                    "modification": [
+                        "delayedfuses"
+                    ],
+                    "talent": [
+                        "intimidation"
+                    ]
+                }
+            },
+            {
+                "id": "redline",
+                "points": 83,
+                "ship": "tiecapunisher",
+                "upgrades": {
+                    "device": [
+                        "proximitymines",
+                        "protonbombs"
+                    ],
+                    "missile": [
+                        "protonrockets",
+                        "clustermissiles"
+                    ],
+                    "sensor": [
+                        "firecontrolsystem"
+                    ],
+                    "torpedo": [
+                        "advprotontorpedoes"
+                    ]
+                }
+            }
+        ],
+        "points": 196,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Galactic%20Empire&d=v8ZsZ200Z185X24W33W249Y180X122W236WY191X113W134W102W98WW70W69W&sn=Random%20Squad&obs="
+}

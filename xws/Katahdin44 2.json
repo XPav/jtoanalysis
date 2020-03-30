@@ -1,0 +1,70 @@
+{
+    "name": "Katahdin44",
+    "number": 2,
+    "xws": {
+        "faction": "resistance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "pammichnerrogoode",
+                "points": 72,
+                "ship": "resistancetransport",
+                "upgrades": {
+                    "astromech": [
+                        "r4astromech"
+                    ],
+                    "crew": [
+                        "korrsella",
+                        "amilynholdo"
+                    ],
+                    "modification": [
+                        "targetingcomputer"
+                    ],
+                    "tech": [
+                        "advancedoptics"
+                    ],
+                    "torpedo": [
+                        "protontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "finn",
+                "points": 34,
+                "ship": "resistancetransportpod",
+                "upgrades": {
+                    "crew": [
+                        "novicetechnician"
+                    ],
+                    "modification": [
+                        "munitionsfailsafe"
+                    ]
+                }
+            },
+            {
+                "id": "kazudaxiono",
+                "points": 47,
+                "ship": "fireball",
+                "upgrades": {
+                    "talent": [
+                        "juke"
+                    ]
+                }
+            },
+            {
+                "id": "tallissanlintra",
+                "points": 42,
+                "ship": "rz2awing",
+                "upgrades": {
+                    "missile": [
+                        "magpulsewarheads"
+                    ]
+                }
+            }
+        ],
+        "points": 195,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Resistance&d=v8ZsZ200Z347X186WW136W245W242W5W249Y350XWW53W108Y378X123WWWWWWY240XWW311W&sn=Random%20Squad&obs="
+}

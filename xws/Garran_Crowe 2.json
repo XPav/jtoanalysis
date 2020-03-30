@@ -1,0 +1,55 @@
+{
+    "name": "Garran_Crowe",
+    "number": 2,
+    "xws": {
+        "faction": "separatistalliance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "separatistdrone",
+                "points": 21,
+                "ship": "vultureclassdroidfighter",
+                "upgrades": {}
+            },
+            {
+                "id": "countdooku",
+                "points": 101,
+                "ship": "sithinfiltrator",
+                "upgrades": {
+                    "crew": [
+                        "chancellorpalpatine"
+                    ],
+                    "modification": [
+                        "tacticalscrambler"
+                    ],
+                    "tacticalrelay": [
+                        "ta175"
+                    ],
+                    "torpedo": [
+                        "protontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "darkcourier",
+                "points": 59,
+                "ship": "sithinfiltrator",
+                "upgrades": {
+                    "device": [
+                        "clustermines"
+                    ]
+                }
+            },
+            {
+                "id": "tradefederationdrone",
+                "points": 19,
+                "ship": "vultureclassdroidfighter",
+                "upgrades": {}
+            }
+        ],
+        "points": 200,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Separatist%20Alliance&d=v8ZsZ200Z343XWWY334XWW136W217WWW110WW239Y336XWWWW316WWWY279XWW&sn=Random%20Squad&obs="
+}

@@ -1,0 +1,59 @@
+{
+    "name": "cubsfan4life",
+    "number": 1,
+    "xws": {
+        "faction": "resistance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "kazudaxiono",
+                "points": 49,
+                "ship": "fireball",
+                "upgrades": {
+                    "missile": [
+                        "ionmissiles"
+                    ],
+                    "modification": [
+                        "targetingcomputer"
+                    ],
+                    "title": [
+                        "kazsfireball"
+                    ]
+                }
+            },
+            {
+                "id": "finn",
+                "points": 29,
+                "ship": "resistancetransportpod",
+                "upgrades": {}
+            },
+            {
+                "id": "chewbacca-scavengedyt1300",
+                "points": 89,
+                "ship": "scavengedyt1300",
+                "upgrades": {
+                    "crew": [
+                        "rosetico",
+                        "informant"
+                    ],
+                    "gunner": [
+                        "veteranturretgunner"
+                    ],
+                    "illicit": [
+                        "deadmansswitch"
+                    ]
+                }
+            },
+            {
+                "id": "logisticsdivisionpilot",
+                "points": 32,
+                "ship": "resistancetransport",
+                "upgrades": {}
+            }
+        ],
+        "points": 199,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Resistance&d=v8ZsZ200Z378XW101WWW249WW315Y350XWWWY246XWW173W37W90W93WWY346XWWWWWW&sn=Random%20Squad&obs="
+}

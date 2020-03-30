@@ -1,0 +1,62 @@
+{
+    "name": "ctsjohnz",
+    "number": 1,
+    "xws": {
+        "faction": "resistance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "rosetico",
+                "points": 51,
+                "ship": "resistancetransportpod",
+                "upgrades": {
+                    "crew": [
+                        "perceptivecopilot"
+                    ],
+                    "modification": [
+                        "afterburners"
+                    ],
+                    "talent": [
+                        "juke"
+                    ],
+                    "tech": [
+                        "advancedoptics"
+                    ]
+                }
+            },
+            {
+                "id": "poedameron",
+                "points": 71,
+                "ship": "t70xwing",
+                "upgrades": {
+                    "astromech": [
+                        "r3astromech"
+                    ],
+                    "configuration": [
+                        "integratedsfoils"
+                    ]
+                }
+            },
+            {
+                "id": "covanell",
+                "points": 38,
+                "ship": "resistancetransport",
+                "upgrades": {}
+            },
+            {
+                "id": "logisticsdivisionpilot",
+                "points": 37,
+                "ship": "resistancetransport",
+                "upgrades": {
+                    "crew": [
+                        "kaydelconnix"
+                    ]
+                }
+            }
+        ],
+        "points": 197,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Resistance&d=v8ZsZ200Z345X123W186W54W105Y231XW4WW175WWWY351XWWWWWWWY346XWWWW231WW&sn=Random%20Squad&obs="
+}

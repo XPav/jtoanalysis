@@ -1,0 +1,52 @@
+{
+    "name": "Shadow Marvel",
+    "number": 2,
+    "xws": {
+        "faction": "resistance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "edonkappehl",
+                "points": 63,
+                "ship": "mg100starfortress",
+                "upgrades": {
+                    "crew": [
+                        "freelanceslicer"
+                    ]
+                }
+            },
+            {
+                "id": "pammichnerrogoode",
+                "points": 72,
+                "ship": "resistancetransport",
+                "upgrades": {
+                    "astromech": [
+                        "m9g8"
+                    ],
+                    "cannon": [
+                        "jammingbeam"
+                    ],
+                    "crew": [
+                        "leiaorgana-resistance"
+                    ],
+                    "modification": [
+                        "angleddeflectors"
+                    ],
+                    "tech": [
+                        "targetingsynchronizer"
+                    ]
+                }
+            },
+            {
+                "id": "paigetico",
+                "points": 60,
+                "ship": "mg100starfortress",
+                "upgrades": {}
+            }
+        ],
+        "points": 195,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Resistance&d=v8ZsZ200Z293XWW30WWWWWY347X177W12WW244WW197W247Y389XWWWWWWWW&sn=Random%20Squad&obs="
+}

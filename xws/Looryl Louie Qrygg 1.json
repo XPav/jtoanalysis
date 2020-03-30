@@ -1,0 +1,66 @@
+{
+    "name": "Looryl Louie Qrygg",
+    "number": 1,
+    "xws": {
+        "faction": "galacticempire",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "inquisitor",
+                "points": 42,
+                "ship": "tieadvancedv1",
+                "upgrades": {
+                    "force-power": [
+                        "predictiveshot"
+                    ],
+                    "sensor": [
+                        "collisiondetector"
+                    ]
+                }
+            },
+            {
+                "id": "tempestsquadronpilot",
+                "points": 45,
+                "ship": "tieadvancedx1",
+                "upgrades": {
+                    "modification": [
+                        "angleddeflectors"
+                    ],
+                    "sensor": [
+                        "trajectorysimulator"
+                    ]
+                }
+            },
+            {
+                "id": "scarifbasepilot",
+                "points": 39,
+                "ship": "tiereaper",
+                "upgrades": {}
+            },
+            {
+                "id": "lieutenantkarsabi",
+                "points": 37,
+                "ship": "alphaclassstarwing",
+                "upgrades": {
+                    "configuration": [
+                        "os1arsenalloadout"
+                    ]
+                }
+            },
+            {
+                "id": "seynmarana",
+                "points": 36,
+                "ship": "tielnfighter",
+                "upgrades": {
+                    "modification": [
+                        "afterburners"
+                    ]
+                }
+            }
+        ],
+        "points": 199,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Galactic%20Empire&d=v8ZsZ200Z171X203W112WY178X114WW247Y186XWWY162XWWWWW139WWY224XW105&sn=Random%20Squad&obs="
+}
