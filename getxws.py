@@ -6,14 +6,17 @@ import json
 
 def savetoxws( path, name, number, yasburl ):
     if len(yasburl) > 0:
-        filename = path + name + ' ' + str(number) + '.json' 
+
+        cleanname = "".join([c for c in name if c.isalpha() or c.isdigit() or c==' ' or c=='_' or c=='(' or c ==')']).rstrip()
+
+        filename = path + cleanname + ' ' + str(number) + '.json' 
         if not os.path.isfile( filename ):
             with open(filename, 'w') as xws:
                 print(f'saving {filename} from {yasburl}')
                 newurl = yasburl.replace( 'raithos.github.io', 'squad2xws.herokuapp.com/yasb/xws')
 
                 j = {}
-                j['name'] = name.replace('#', '_')
+                j['name'] = cleanname
                 j['number'] = number
                 j['yasb'] = yasburl
 
@@ -23,13 +26,14 @@ def savetoxws( path, name, number, yasburl ):
                 xws.write( json.dumps(j, sort_keys=True, indent=4, separators=(',', ': ')) )
 
 def saverowtoxws( row ):
-    savetoxws( './xws/', row[0], 1, row[1] )
-    savetoxws( './xws/', row[0], 2, row[2] )
+    savetoxws( './xws/', row[0], 1, row[2] )
+    savetoxws( './xws/', row[0], 2, row[4] )
 
 
 # get all the XWS if we don't have them
 with open('responses.csv', 'r') as csvfile:
     reader = csv.reader(csvfile, delimiter=',' )
+    next(reader)
     for row in reader:
         saverowtoxws(row)
 
