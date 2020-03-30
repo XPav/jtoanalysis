@@ -38,7 +38,8 @@ with open('combined.json', 'r') as combinedf:
 
             for stat in sdata['stats']:
                 if stat['type'] == 'attack':
-                    attack += stat['value']
+                    if stat['value'] > attack:
+                        attack = stat['value']
                 if stat['type'] == 'agility':
                     agility += stat['value']
                 if stat['type'] == 'hull':
@@ -46,8 +47,8 @@ with open('combined.json', 'r') as combinedf:
                 if stat['type'] == 'shields':
                     shields += stat['value']
 
-            # Todo: add upgrades
-
+            # Todo: add hull/shield upgrades
+            
             p['agility'] = agility
             p['hull'] = hull
             p['shields'] = shields
