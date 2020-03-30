@@ -61,32 +61,39 @@ olists = []
 # One line per
 for l in combined:
     shipcount = 0
-    upgradecount = 0
     init = 0
-    health = 0
-    
+
     olist = {}
+    olist['totalhealth'] = 0
+    olist['totalattack'] = 0
+    olist['totalagility'] = 0
+    olist['upgradecount'] = 0
+    olist['shipcount'] = 0
+
     for p in l['xws']['pilots']:
         oship = {}
         oship['listid'] = l['name'] + '#' + str(l['number'])
         oship['faction'] =l['xws']['faction'] 
         oship['yasb'] = l['yasb']
-        olist = oship.copy()
+
+        olist.update( oship )
 
         for f in fields:
             oship[f] = p[f]
 
         for u in p['upgrades']:
-            upgradecount += 1
+            olist['upgradecount'] += 1
 
         init = init + oship['initiative']
+        olist['totalhealth'] += (p['hull'] +  p['shields'])
+        olist['totalattack'] += p['attack']
+        olist['totalagility'] += p['agility']
 
         oships.append(oship)
 
-        shipcount += 1
-    olist['shipcount'] = shipcount
-    olist['upgradecount'] = upgradecount
-    olist['avginitiative'] = init / shipcount
+        olist['shipcount'] += 1
+
+    olist['avginitiative'] = init / olist['shipcount']
 
     olists.append(olist)
 
@@ -100,7 +107,7 @@ with open('ships.csv', 'w', newline='') as csvfile:
         writer.writerow(os)
 
 with open('lists.csv', 'w', newline='') as csvfile:
-    lfieldnames = ['listid', 'faction', 'shipcount', 'upgradecount', 'avginitiative', 'yasb'  ]
+    lfieldnames = ['listid', 'faction', 'shipcount', 'upgradecount', 'totalagility', 'totalattack', 'totalhealth', 'avginitiative', 'yasb'  ]
 
     writer = csv.DictWriter(csvfile, fieldnames=lfieldnames)
     writer.writeheader()
