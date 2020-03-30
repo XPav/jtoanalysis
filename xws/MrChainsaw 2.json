@@ -1,0 +1,65 @@
+{
+    "name": "MrChainsaw",
+    "number": 2,
+    "xws": {
+        "faction": "galacticrepublic",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "shadowsquadronveteran",
+                "points": 68,
+                "ship": "btlbywing",
+                "upgrades": {
+                    "astromech": [
+                        "r2c4"
+                    ],
+                    "device": [
+                        "electroprotonbomb"
+                    ],
+                    "gunner": [
+                        "hotshotgunner"
+                    ],
+                    "talent": [
+                        "composure"
+                    ],
+                    "torpedo": [
+                        "advprotontorpedoes"
+                    ],
+                    "turret": [
+                        "ioncannonturret"
+                    ]
+                }
+            },
+            {
+                "id": "plokoon",
+                "points": 63,
+                "ship": "delta7aethersprite",
+                "upgrades": {
+                    "configuration": [
+                        "delta7b"
+                    ]
+                }
+            },
+            {
+                "id": "oddball-arc170starfighter",
+                "points": 67,
+                "ship": "arc170starfighter",
+                "upgrades": {
+                    "astromech": [
+                        "c110p"
+                    ],
+                    "crew": [
+                        "perceptivecopilot"
+                    ],
+                    "modification": [
+                        "delayedfuses"
+                    ]
+                }
+            }
+        ],
+        "points": 198,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Galactic%20Republic&d=v8ZsZ200Z360X115W138W134W86W233W235WY312XWW201WY338XWW54WW252W236&sn=Random%20Squad&obs="
+}

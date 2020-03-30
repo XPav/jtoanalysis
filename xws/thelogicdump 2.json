@@ -1,0 +1,66 @@
+{
+    "name": "thelogicdump",
+    "number": 2,
+    "xws": {
+        "faction": "scumandvillainy",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "outerrimpioneer",
+                "points": 46,
+                "ship": "escapecraft",
+                "upgrades": {
+                    "crew": [
+                        "tacticalofficer"
+                    ],
+                    "modification": [
+                        "staticdischargevanes"
+                    ],
+                    "talent": [
+                        "outmaneuver"
+                    ]
+                }
+            },
+            {
+                "id": "foremanproach",
+                "points": 38,
+                "ship": "modifiedtielnfighter",
+                "upgrades": {
+                    "talent": [
+                        "outmaneuver"
+                    ]
+                }
+            },
+            {
+                "id": "unkarplutt",
+                "points": 35,
+                "ship": "quadrijettransferspacetug",
+                "upgrades": {
+                    "tech": [
+                        "patternanalyzer"
+                    ]
+                }
+            },
+            {
+                "id": "zuckuss",
+                "points": 49,
+                "ship": "g1astarfighter",
+                "upgrades": {
+                    "crew": [
+                        "novicetechnician"
+                    ]
+                }
+            },
+            {
+                "id": "crymorahgoon",
+                "points": 30,
+                "ship": "btla4ywing",
+                "upgrades": {}
+            }
+        ],
+        "points": 198,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Scum%20and%20Villainy&d=v8ZsZ200Z94X126W61W109Y302X126WY142X206WWWWY110XWW53WWWY88XWWWWWW&sn=Random%20Squad&obs="
+}

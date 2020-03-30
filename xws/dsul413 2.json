@@ -1,0 +1,66 @@
+{
+    "name": "dsul413",
+    "number": 2,
+    "xws": {
+        "faction": "separatistalliance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "dfs311",
+                "points": 35,
+                "ship": "vultureclassdroidfighter",
+                "upgrades": {
+                    "configuration": [
+                        "grapplingstruts"
+                    ],
+                    "missile": [
+                        "energyshellcharges"
+                    ],
+                    "modification": [
+                        "staticdischargevanes"
+                    ]
+                }
+            },
+            {
+                "id": "wattambor",
+                "points": 47,
+                "ship": "belbullab22starfighter",
+                "upgrades": {
+                    "tacticalrelay": [
+                        "tv94"
+                    ]
+                }
+            },
+            {
+                "id": "066",
+                "points": 66,
+                "ship": "sithinfiltrator",
+                "upgrades": {
+                    "cannon": [
+                        "jammingbeam"
+                    ],
+                    "modification": [
+                        "staticdischargevanes"
+                    ],
+                    "torpedo": [
+                        "plasmatorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "captainsear",
+                "points": 51,
+                "ship": "belbullab22starfighter",
+                "upgrades": {
+                    "modification": [
+                        "stealthdevice"
+                    ]
+                }
+            }
+        ],
+        "points": 199,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Separatist%20Alliance&d=v8ZsZ200Z337X209W208W109Y306XW223WWY335XW12W234WWWW109WWY308XW166W&sn=Random%20Squad&obs="
+}

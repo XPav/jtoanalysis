@@ -1,0 +1,50 @@
+{
+    "name": "Adjudicator",
+    "number": 2,
+    "xws": {
+        "faction": "firstorder",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "recoil",
+                "points": 72,
+                "ship": "tievnsilencer",
+                "upgrades": {
+                    "talent": [
+                        "snapshot"
+                    ],
+                    "tech": [
+                        "primedthrusters"
+                    ]
+                }
+            },
+            {
+                "id": "majorvonreg",
+                "points": 68,
+                "ship": "tiebainterceptor",
+                "upgrades": {
+                    "talent": [
+                        "proudtradition"
+                    ],
+                    "tech": [
+                        "deuteriumpowercells"
+                    ]
+                }
+            },
+            {
+                "id": "holo",
+                "points": 56,
+                "ship": "tiebainterceptor",
+                "upgrades": {
+                    "talent": [
+                        "daredevil"
+                    ]
+                }
+            }
+        ],
+        "points": 196,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=First%20Order&d=v8ZsZ200Z284X256W178WWY381X319W318WWY382X117WWW&sn=Random%20Squad&obs="
+}

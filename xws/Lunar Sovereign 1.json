@@ -1,0 +1,60 @@
+{
+    "name": "Lunar Sovereign",
+    "number": 1,
+    "xws": {
+        "faction": "galacticempire",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "delmeeko",
+                "points": 36,
+                "ship": "tielnfighter",
+                "upgrades": {
+                    "modification": [
+                        "afterburners"
+                    ]
+                }
+            },
+            {
+                "id": "seventhsister",
+                "points": 45,
+                "ship": "tieadvancedv1",
+                "upgrades": {
+                    "sensor": [
+                        "firecontrolsystem"
+                    ]
+                }
+            },
+            {
+                "id": "scarifbasepilot",
+                "points": 53,
+                "ship": "tiereaper",
+                "upgrades": {
+                    "crew": [
+                        "darthvader"
+                    ]
+                }
+            },
+            {
+                "id": "planetarysentinel",
+                "points": 37,
+                "ship": "tieskstriker",
+                "upgrades": {
+                    "modification": [
+                        "staticdischargevanes"
+                    ]
+                }
+            },
+            {
+                "id": "onyxsquadronscout",
+                "points": 28,
+                "ship": "tieagaggressor",
+                "upgrades": {}
+            }
+        ],
+        "points": 199,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Galactic%20Empire&d=v8ZsZ200Z222XW105Y170XW113WY186XW26WY213XWW109Y189XWWWWW&sn=Random%20Squad&obs="
+}

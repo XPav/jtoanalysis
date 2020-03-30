@@ -1,0 +1,63 @@
+{
+    "name": "Mecaflux",
+    "number": 1,
+    "xws": {
+        "faction": "firstorder",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "lieutenantdormitz",
+                "points": 84,
+                "ship": "upsilonclasscommandshuttle",
+                "upgrades": {
+                    "cannon": [
+                        "jammingbeam"
+                    ],
+                    "crew": [
+                        "freelanceslicer",
+                        "captainphasma"
+                    ],
+                    "modification": [
+                        "staticdischargevanes"
+                    ]
+                }
+            },
+            {
+                "id": "zetasquadronsurvivor",
+                "points": 46,
+                "ship": "tiesffighter",
+                "upgrades": {
+                    "gunner": [
+                        "hotshotgunner"
+                    ],
+                    "missile": [
+                        "homingmissiles"
+                    ],
+                    "sensor": [
+                        "firecontrolsystem"
+                    ]
+                }
+            },
+            {
+                "id": "static",
+                "points": 35,
+                "ship": "tiefofighter",
+                "upgrades": {
+                    "modification": [
+                        "electronicbaffle"
+                    ]
+                }
+            },
+            {
+                "id": "muse",
+                "points": 30,
+                "ship": "tiefofighter",
+                "upgrades": {}
+            }
+        ],
+        "points": 195,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=First%20Order&d=v8ZsZ200Z238XWW30WW183W12WW109Y259XW100W86W113WY264XWW106Y235XWW&sn=Random%20Squad&obs="
+}

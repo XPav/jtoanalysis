@@ -1,0 +1,46 @@
+{
+    "name": "Daniel lim isophane",
+    "number": 2,
+    "xws": {
+        "faction": "rebelalliance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "jakefarrell",
+                "points": 41,
+                "ship": "rz1awing",
+                "upgrades": {
+                    "missile": [
+                        "clustermissiles"
+                    ]
+                }
+            },
+            {
+                "id": "lieutenantblount",
+                "points": 30,
+                "ship": "z95af4headhunter",
+                "upgrades": {}
+            },
+            {
+                "id": "fennrau-sheathipedeclassshuttle",
+                "points": 50,
+                "ship": "sheathipedeclassshuttle",
+                "upgrades": {}
+            },
+            {
+                "id": "herasyndulla-vcx100lightfreighter",
+                "points": 74,
+                "ship": "vcx100lightfreighter",
+                "upgrades": {
+                    "modification": [
+                        "tacticalscrambler"
+                    ]
+                }
+            }
+        ],
+        "points": 195,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Rebel%20Alliance&d=v8ZsZ200Z50XWW98Y55XWWY69XWWWWY61XWWWWWW110WW&sn=Random%20Squad&obs="
+}

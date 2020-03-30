@@ -1,0 +1,96 @@
+{
+    "name": "Garrett",
+    "number": 2,
+    "xws": {
+        "faction": "resistance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "jarekyeager",
+                "points": 51,
+                "ship": "fireball",
+                "upgrades": {
+                    "astromech": [
+                        "r2astromech"
+                    ],
+                    "illicit": [
+                        "deadmansswitch"
+                    ],
+                    "missile": [
+                        "homingmissiles"
+                    ],
+                    "modification": [
+                        "delayedfuses"
+                    ],
+                    "talent": [
+                        "marksmanship"
+                    ],
+                    "title": [
+                        "kazsfireball"
+                    ]
+                }
+            },
+            {
+                "id": "kazudaxiono",
+                "points": 55,
+                "ship": "fireball",
+                "upgrades": {
+                    "astromech": [
+                        "r5x3"
+                    ],
+                    "illicit": [
+                        "contrabandcybernetics"
+                    ],
+                    "modification": [
+                        "sparepartscanisters"
+                    ],
+                    "talent": [
+                        "trickshot"
+                    ]
+                }
+            },
+            {
+                "id": "rosetico",
+                "points": 31,
+                "ship": "resistancetransportpod",
+                "upgrades": {
+                    "crew": [
+                        "novicetechnician"
+                    ],
+                    "modification": [
+                        "delayedfuses"
+                    ]
+                }
+            },
+            {
+                "id": "nodinchavdri",
+                "points": 62,
+                "ship": "resistancetransport",
+                "upgrades": {
+                    "astromech": [
+                        "bbastromech"
+                    ],
+                    "cannon": [
+                        "autoblasters"
+                    ],
+                    "crew": [
+                        "novicetechnician"
+                    ],
+                    "modification": [
+                        "afterburners"
+                    ],
+                    "tech": [
+                        "patternanalyzer"
+                    ],
+                    "torpedo": [
+                        "advprotontorpedoes"
+                    ]
+                }
+            }
+        ],
+        "points": 199,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Resistance&d=v8ZsZ200Z377X125W100W2W93W236WW315Y378X133WW205W92WW215WY345XWW53W236Y352X206W232W134WW53W196W105&sn=Random%20Squad&obs="
+}

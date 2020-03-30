@@ -1,0 +1,56 @@
+{
+    "name": "assistantBKR",
+    "number": 2,
+    "xws": {
+        "faction": "rebelalliance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "roarkgarnet",
+                "points": 72,
+                "ship": "hwk290lightfreighter",
+                "upgrades": {
+                    "device": [
+                        "connernets"
+                    ],
+                    "modification": [
+                        "engineupgrade",
+                        "delayedfuses"
+                    ],
+                    "talent": [
+                        "snapshot"
+                    ],
+                    "title": [
+                        "moldycrow"
+                    ]
+                }
+            },
+            {
+                "id": "kananjarrus",
+                "points": 97,
+                "ship": "vcx100lightfreighter",
+                "upgrades": {
+                    "force-power": [
+                        "predictiveshot"
+                    ],
+                    "torpedo": [
+                        "protontorpedoes"
+                    ],
+                    "turret": [
+                        "dorsalturret"
+                    ]
+                }
+            },
+            {
+                "id": "phoenixsquadronpilot",
+                "points": 29,
+                "ship": "rz1awing",
+                "upgrades": {}
+            }
+        ],
+        "points": 198,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Rebel%20Alliance&d=v8ZsZ200Z47X256W68WW107W236W156Y62X203WW136W137WWWWWY53XW&sn=Random%20Squad&obs="
+}

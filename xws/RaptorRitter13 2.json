@@ -1,0 +1,53 @@
+{
+    "name": "RaptorRitter13",
+    "number": 2,
+    "xws": {
+        "faction": "separatistalliance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "haorchallprototype",
+                "points": 26,
+                "ship": "vultureclassdroidfighter",
+                "upgrades": {
+                    "configuration": [
+                        "grapplingstruts"
+                    ],
+                    "missile": [
+                        "ionmissiles"
+                    ]
+                }
+            },
+            {
+                "id": "feethanottrawautopilot",
+                "points": 45,
+                "ship": "belbullab22starfighter",
+                "upgrades": {
+                    "tacticalrelay": [
+                        "kraken"
+                    ]
+                }
+            },
+            {
+                "id": "darkcourier",
+                "points": 60,
+                "ship": "sithinfiltrator",
+                "upgrades": {
+                    "torpedo": [
+                        "plasmatorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "darthmaul",
+                "points": 65,
+                "ship": "sithinfiltrator",
+                "upgrades": {}
+            }
+        ],
+        "points": 196,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Separatist%20Alliance&d=v8ZsZ200Z310X101W208WY307X222WWY336XW234WWWWWWY272XWWWWWWWW&sn=Random%20Squad&obs="
+}

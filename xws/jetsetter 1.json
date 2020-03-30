@@ -1,0 +1,74 @@
+{
+    "name": "jetsetter",
+    "number": 1,
+    "xws": {
+        "faction": "rebelalliance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "hortonsalm",
+                "points": 62,
+                "ship": "btla4ywing",
+                "upgrades": {
+                    "device": [
+                        "connernets"
+                    ],
+                    "modification": [
+                        "staticdischargevanes"
+                    ],
+                    "talent": [
+                        "debrisgambit"
+                    ],
+                    "torpedo": [
+                        "advprotontorpedoes"
+                    ],
+                    "turret": [
+                        "dorsalturret"
+                    ]
+                }
+            },
+            {
+                "id": "zeborrelios-tielnfighter",
+                "points": 24,
+                "ship": "tielnfighter",
+                "upgrades": {}
+            },
+            {
+                "id": "esegetuketu",
+                "points": 63,
+                "ship": "btls8kwing",
+                "upgrades": {
+                    "crew": [
+                        "niennunb"
+                    ],
+                    "device": [
+                        "seismiccharges"
+                    ],
+                    "gunner": [
+                        "hotshotgunner"
+                    ],
+                    "missile": [
+                        "ionmissiles"
+                    ]
+                }
+            },
+            {
+                "id": "roarkgarnet",
+                "points": 49,
+                "ship": "hwk290lightfreighter",
+                "upgrades": {
+                    "crew": [
+                        "informant"
+                    ],
+                    "modification": [
+                        "staticdischargevanes"
+                    ]
+                }
+            }
+        ],
+        "points": 198,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Rebel%20Alliance&d=v8ZsZ200Z26X118W137W134WW109W68WY15XY18XWW101W86W52WW71WY47XWW37W109WW&sn=Random%20Squad&obs="
+}

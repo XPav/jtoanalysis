@@ -1,0 +1,55 @@
+{
+    "name": "jetsetter",
+    "number": 2,
+    "xws": {
+        "faction": "scumandvillainy",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "nomlumb",
+                "points": 60,
+                "ship": "jumpmaster5000",
+                "upgrades": {
+                    "cannon": [
+                        "heavylasercannon"
+                    ],
+                    "modification": [
+                        "targetingcomputer"
+                    ],
+                    "title": [
+                        "punishingone"
+                    ],
+                    "torpedo": [
+                        "plasmatorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "zuckuss",
+                "points": 47,
+                "ship": "g1astarfighter",
+                "upgrades": {
+                    "sensor": [
+                        "firecontrolsystem"
+                    ]
+                }
+            },
+            {
+                "id": "ig88d",
+                "points": 63,
+                "ship": "aggressorassaultfighter",
+                "upgrades": {}
+            },
+            {
+                "id": "landocalrissian-escapecraft",
+                "points": 29,
+                "ship": "escapecraft",
+                "upgrades": {}
+            }
+        ],
+        "points": 199,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Scum%20and%20Villainy&d=v8ZsZ200Z400X234W10WWWW249W159WY110XW113WWWWY84XWWWWWWWY93XWW&sn=Random%20Squad&obs="
+}

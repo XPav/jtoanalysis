@@ -1,0 +1,52 @@
+{
+    "name": "Brent G",
+    "number": 2,
+    "xws": {
+        "faction": "galacticempire",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "deathfire",
+                "points": 49,
+                "ship": "tiesabomber",
+                "upgrades": {
+                    "gunner": [
+                        "fifthbrother"
+                    ],
+                    "modification": [
+                        "staticdischargevanes"
+                    ]
+                }
+            },
+            {
+                "id": "rearadmiralchiraneau",
+                "points": 87,
+                "ship": "vt49decimator",
+                "upgrades": {
+                    "crew": [
+                        "freelanceslicer"
+                    ],
+                    "device": [
+                        "clustermines"
+                    ]
+                }
+            },
+            {
+                "id": "seynmarana",
+                "points": 30,
+                "ship": "tielnfighter",
+                "upgrades": {}
+            },
+            {
+                "id": "lieutenantkestal",
+                "points": 31,
+                "ship": "tieagaggressor",
+                "upgrades": {}
+            }
+        ],
+        "points": 197,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Galactic%20Empire&d=v8ZsZ200Z206XWWW82WWW109Y214XWW30WWWW316WWY224XWY187XWWWWW&sn=Random%20Squad&obs="
+}

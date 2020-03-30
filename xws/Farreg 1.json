@@ -1,0 +1,70 @@
+{
+    "name": "Farreg",
+    "number": 1,
+    "xws": {
+        "faction": "rebelalliance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "bluesquadronescort",
+                "points": 43,
+                "ship": "t65xwing",
+                "upgrades": {
+                    "configuration": [
+                        "servomotorsfoils"
+                    ],
+                    "modification": [
+                        "targetingcomputer"
+                    ]
+                }
+            },
+            {
+                "id": "cavernangelszealot",
+                "points": 55,
+                "ship": "t65xwing",
+                "upgrades": {
+                    "astromech": [
+                        "chopper"
+                    ],
+                    "configuration": [
+                        "servomotorsfoils"
+                    ],
+                    "illicit": [
+                        "contrabandcybernetics"
+                    ],
+                    "modification": [
+                        "stealthdevice"
+                    ],
+                    "torpedo": [
+                        "advprotontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "outerrimsmuggler",
+                "points": 99,
+                "ship": "modifiedyt1300lightfreighter",
+                "upgrades": {
+                    "crew": [
+                        "herasyndulla",
+                        "cassianandor"
+                    ],
+                    "gunner": [
+                        "agilegunner"
+                    ],
+                    "modification": [
+                        "engineupgrade",
+                        "stealthdevice"
+                    ],
+                    "title": [
+                        "millenniumfalcon"
+                    ]
+                }
+            }
+        ],
+        "points": 197,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Rebel%20Alliance&d=v8ZsZ200Z1XWW249W142Y0X92W134W0W166W142Y45XW76W35W19W107W166W154&sn=Random%20Squad&obs="
+}

@@ -1,0 +1,49 @@
+{
+    "name": "Kota_Macc",
+    "number": 1,
+    "xws": {
+        "faction": "firstorder",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "backdraft",
+                "points": 74,
+                "ship": "tiesffighter",
+                "upgrades": {
+                    "gunner": [
+                        "specialforcesgunner"
+                    ],
+                    "missile": [
+                        "magpulsewarheads"
+                    ],
+                    "sensor": [
+                        "advancedsensors"
+                    ],
+                    "tech": [
+                        "deuteriumpowercells"
+                    ]
+                }
+            },
+            {
+                "id": "blackout",
+                "points": 69,
+                "ship": "tievnsilencer",
+                "upgrades": {
+                    "torpedo": [
+                        "advprotontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "ember",
+                "points": 52,
+                "ship": "tiebainterceptor",
+                "upgrades": {}
+            }
+        ],
+        "points": 195,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=First%20Order&d=v8ZsZ200Z242XW318W311W182W111WY237XWW134WY383XWWW&sn=Random%20Squad&obs="
+}

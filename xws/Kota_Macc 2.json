@@ -1,0 +1,68 @@
+{
+    "name": "Kota_Macc",
+    "number": 2,
+    "xws": {
+        "faction": "galacticrepublic",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "barrissoffee",
+                "points": 62,
+                "ship": "delta7aethersprite",
+                "upgrades": {
+                    "astromech": [
+                        "r2a6"
+                    ],
+                    "configuration": [
+                        "delta7b"
+                    ]
+                }
+            },
+            {
+                "id": "r2d2",
+                "points": 73,
+                "ship": "btlbywing",
+                "upgrades": {
+                    "crew": [
+                        "gnkgonkdroid"
+                    ],
+                    "gunner": [
+                        "seventhfleetgunner"
+                    ],
+                    "modification": [
+                        "angleddeflectors"
+                    ],
+                    "talent": [
+                        "juke"
+                    ],
+                    "torpedo": [
+                        "iontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "tucker",
+                "points": 29,
+                "ship": "v19torrentstarfighter",
+                "upgrades": {}
+            },
+            {
+                "id": "redsquadronbomber",
+                "points": 36,
+                "ship": "btlbywing",
+                "upgrades": {
+                    "astromech": [
+                        "r2c4"
+                    ],
+                    "modification": [
+                        "synchronizedconsole"
+                    ]
+                }
+            }
+        ],
+        "points": 200,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Galactic%20Republic&d=v8ZsZ200Z275XW241W201WY362X123WW135W227W32WW247Y319XWY361XWWW233WW211&sn=Random%20Squad&obs="
+}

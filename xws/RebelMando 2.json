@@ -1,0 +1,61 @@
+{
+    "name": "RebelMando",
+    "number": 2,
+    "xws": {
+        "faction": "rebelalliance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "bluesquadronpilot",
+                "points": 52,
+                "ship": "asf01bwing",
+                "upgrades": {
+                    "cannon": [
+                        "ioncannon",
+                        "heavylasercannon"
+                    ]
+                }
+            },
+            {
+                "id": "ap5",
+                "points": 39,
+                "ship": "sheathipedeclassshuttle",
+                "upgrades": {
+                    "crew": [
+                        "leiaorgana"
+                    ]
+                }
+            },
+            {
+                "id": "mirandadoni",
+                "points": 48,
+                "ship": "btls8kwing",
+                "upgrades": {
+                    "device": [
+                        "proximitymines"
+                    ]
+                }
+            },
+            {
+                "id": "lieutenantblount",
+                "points": 36,
+                "ship": "z95af4headhunter",
+                "upgrades": {
+                    "missile": [
+                        "magpulsewarheads"
+                    ]
+                }
+            },
+            {
+                "id": "talasquadronpilot",
+                "points": 24,
+                "ship": "z95af4headhunter",
+                "upgrades": {}
+            }
+        ],
+        "points": 199,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Rebel%20Alliance&d=v8ZsZ200Z76XW11W10WWWY72XW46WWWY17XWWWWW70WWY55XW311WY56XWW&sn=Random%20Squad&obs="
+}

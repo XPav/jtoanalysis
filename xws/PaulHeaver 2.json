@@ -1,0 +1,70 @@
+{
+    "name": "PaulHeaver",
+    "number": 2,
+    "xws": {
+        "faction": "scumandvillainy",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "drearenthal",
+                "points": 81,
+                "ship": "btla4ywing",
+                "upgrades": {
+                    "astromech": [
+                        "r5p8"
+                    ],
+                    "device": [
+                        "protonbombs"
+                    ],
+                    "gunner": [
+                        "bossk"
+                    ],
+                    "modification": [
+                        "sparepartscanisters"
+                    ],
+                    "torpedo": [
+                        "advprotontorpedoes"
+                    ],
+                    "turret": [
+                        "dorsalturret"
+                    ]
+                }
+            },
+            {
+                "id": "kaatoleeachos",
+                "points": 48,
+                "ship": "z95af4headhunter",
+                "upgrades": {
+                    "illicit": [
+                        "cloakingdevice"
+                    ],
+                    "missile": [
+                        "protonrockets"
+                    ],
+                    "modification": [
+                        "shieldupgrade"
+                    ],
+                    "talent": [
+                        "trickshot"
+                    ]
+                }
+            },
+            {
+                "id": "captainjostero",
+                "points": 42,
+                "ship": "kihraxzfighter",
+                "upgrades": {}
+            },
+            {
+                "id": "cartelspacer",
+                "points": 25,
+                "ship": "m3ainterceptor",
+                "upgrades": {}
+            }
+        ],
+        "points": 196,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Scum%20and%20Villainy&d=v8ZsZ200Z86XW137W134W78W8W69WW215Y157X133W102W91W165Y122XWWWWY139XW&sn=Random%20Squad&obs="
+}

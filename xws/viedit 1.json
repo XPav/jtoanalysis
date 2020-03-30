@@ -1,0 +1,59 @@
+{
+    "name": "viedit",
+    "number": 1,
+    "xws": {
+        "faction": "galacticrepublic",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "ahsokatano",
+                "points": 56,
+                "ship": "delta7aethersprite",
+                "upgrades": {
+                    "astromech": [
+                        "r2a6"
+                    ],
+                    "modification": [
+                        "staticdischargevanes"
+                    ]
+                }
+            },
+            {
+                "id": "goji",
+                "points": 56,
+                "ship": "btlbywing",
+                "upgrades": {
+                    "astromech": [
+                        "r4p44"
+                    ],
+                    "device": [
+                        "electroprotonbomb"
+                    ],
+                    "gunner": [
+                        "hotshotgunner"
+                    ]
+                }
+            },
+            {
+                "id": "kickback",
+                "points": 33,
+                "ship": "v19torrentstarfighter",
+                "upgrades": {}
+            },
+            {
+                "id": "jag",
+                "points": 54,
+                "ship": "arc170starfighter",
+                "upgrades": {
+                    "modification": [
+                        "staticdischargevanes"
+                    ]
+                }
+            }
+        ],
+        "points": 199,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Galactic%20Republic&d=v8ZsZ200Z276XW241WW109Y363XWW86W226W235WY315XWWY339XWWWW109&sn=Random%20Squad&obs="
+}

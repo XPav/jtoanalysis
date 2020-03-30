@@ -1,0 +1,67 @@
+{
+    "name": "cornishpirate94",
+    "number": 1,
+    "xws": {
+        "faction": "separatistalliance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "petranakiarenaace",
+                "points": 44,
+                "ship": "nantexclassstarfighter",
+                "upgrades": {
+                    "talent": [
+                        "predator",
+                        "trickshot"
+                    ]
+                }
+            },
+            {
+                "id": "gorgol",
+                "points": 38,
+                "ship": "nantexclassstarfighter",
+                "upgrades": {
+                    "talent": [
+                        "treacherous"
+                    ]
+                }
+            },
+            {
+                "id": "precisehunter",
+                "points": 28,
+                "ship": "vultureclassdroidfighter",
+                "upgrades": {
+                    "modification": [
+                        "hullupgrade"
+                    ]
+                }
+            },
+            {
+                "id": "countdooku",
+                "points": 90,
+                "ship": "sithinfiltrator",
+                "upgrades": {
+                    "device": [
+                        "proximitymines"
+                    ],
+                    "modification": [
+                        "munitionsfailsafe"
+                    ],
+                    "tacticalrelay": [
+                        "kraken"
+                    ],
+                    "title": [
+                        "scimitar"
+                    ],
+                    "torpedo": [
+                        "advprotontorpedoes"
+                    ]
+                }
+            }
+        ],
+        "points": 200,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Separatist%20Alliance&d=v8ZsZ200Z354X127W133Y355X228WY309XWW164Y334XWW134WWW70W108W216W222&sn=Random%20Squad&obs="
+}

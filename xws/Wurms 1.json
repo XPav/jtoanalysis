@@ -1,0 +1,52 @@
+{
+    "name": "Wurms",
+    "number": 1,
+    "xws": {
+        "faction": "firstorder",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "scorch",
+                "points": 40,
+                "ship": "tiefofighter",
+                "upgrades": {
+                    "talent": [
+                        "juke"
+                    ]
+                }
+            },
+            {
+                "id": "midnight",
+                "points": 42,
+                "ship": "tiefofighter",
+                "upgrades": {}
+            },
+            {
+                "id": "firstorderprovocateur",
+                "points": 45,
+                "ship": "tiebainterceptor",
+                "upgrades": {}
+            },
+            {
+                "id": "tn3465",
+                "points": 34,
+                "ship": "tiefofighter",
+                "upgrades": {
+                    "tech": [
+                        "targetingsynchronizer"
+                    ]
+                }
+            },
+            {
+                "id": "lieutenantlehuse",
+                "points": 39,
+                "ship": "tiesffighter",
+                "upgrades": {}
+            }
+        ],
+        "points": 200,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=First%20Order&d=v8ZsZ200Z262X123WWY233XWWY384XWWWY261X177WY397XWWWWW&sn=Random%20Squad&obs="
+}

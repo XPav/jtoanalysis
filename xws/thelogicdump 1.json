@@ -1,0 +1,54 @@
+{
+    "name": "thelogicdump",
+    "number": 1,
+    "xws": {
+        "faction": "resistance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "vimoradi",
+                "points": 27,
+                "ship": "resistancetransportpod",
+                "upgrades": {}
+            },
+            {
+                "id": "bluesquadronrookie",
+                "points": 42,
+                "ship": "t70xwing",
+                "upgrades": {
+                    "configuration": [
+                        "integratedsfoils"
+                    ]
+                }
+            },
+            {
+                "id": "rey",
+                "points": 87,
+                "ship": "scavengedyt1300",
+                "upgrades": {
+                    "crew": [
+                        "c3po-crew",
+                        "hansolo-crew"
+                    ],
+                    "missile": [
+                        "protonrockets"
+                    ]
+                }
+            },
+            {
+                "id": "greensquadronexpert",
+                "points": 39,
+                "ship": "rz2awing",
+                "upgrades": {
+                    "tech": [
+                        "patternanalyzer"
+                    ]
+                }
+            }
+        ],
+        "points": 195,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Resistance&d=v8ZsZ200Z348XWWY258XWW175WWWY244XW102W191W192WWWWY300XWWW206&sn=Random%20Squad&obs="
+}

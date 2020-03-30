@@ -1,0 +1,52 @@
+{
+    "name": "Beattie",
+    "number": 1,
+    "xws": {
+        "faction": "scumandvillainy",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "moraloeval",
+                "points": 77,
+                "ship": "yv666lightfreighter",
+                "upgrades": {
+                    "gunner": [
+                        "bt1"
+                    ],
+                    "missile": [
+                        "protonrockets"
+                    ],
+                    "modification": [
+                        "electronicbaffle"
+                    ]
+                }
+            },
+            {
+                "id": "hiredgun",
+                "points": 35,
+                "ship": "btla4ywing",
+                "upgrades": {
+                    "illicit": [
+                        "feedbackarray"
+                    ]
+                }
+            },
+            {
+                "id": "torkilmux",
+                "points": 38,
+                "ship": "hwk290lightfreighter",
+                "upgrades": {}
+            },
+            {
+                "id": "talonbanecobra",
+                "points": 50,
+                "ship": "kihraxzfighter",
+                "upgrades": {}
+            }
+        ],
+        "points": 200,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Scum%20and%20Villainy&d=v8ZsZ200Z152XWW102WWW79WW106WY87XWWWWWW94WY114XWWWWWY119XWWWWW&sn=Random%20Squad&obs="
+}

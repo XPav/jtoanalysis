@@ -1,0 +1,75 @@
+{
+    "name": "flyersfors21",
+    "number": 2,
+    "xws": {
+        "faction": "separatistalliance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "066",
+                "points": 70,
+                "ship": "sithinfiltrator",
+                "upgrades": {
+                    "cannon": [
+                        "autoblasters"
+                    ],
+                    "crew": [
+                        "informant"
+                    ],
+                    "device": [
+                        "ionbombs"
+                    ],
+                    "talent": [
+                        "lonewolf"
+                    ]
+                }
+            },
+            {
+                "id": "skakoanace",
+                "points": 49,
+                "ship": "belbullab22starfighter",
+                "upgrades": {
+                    "tacticalrelay": [
+                        "tv94"
+                    ],
+                    "title": [
+                        "soullessone"
+                    ]
+                }
+            },
+            {
+                "id": "bombardmentdrone",
+                "points": 34,
+                "ship": "hyenaclassdroidbomber",
+                "upgrades": {
+                    "modification": [
+                        "electronicbaffle"
+                    ],
+                    "sensor": [
+                        "passivesensors"
+                    ]
+                }
+            },
+            {
+                "id": "separatistdrone",
+                "points": 22,
+                "ship": "vultureclassdroidfighter",
+                "upgrades": {
+                    "configuration": [
+                        "grapplingstruts"
+                    ]
+                }
+            },
+            {
+                "id": "haorchallprototype",
+                "points": 21,
+                "ship": "vultureclassdroidfighter",
+                "upgrades": {}
+            }
+        ],
+        "points": 196,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Separatist%20Alliance&d=v8ZsZ200Z335X124W232WWW37W317WWWY344XW223WW229Y325X240WWW106WY343XW208WY310XWW&sn=Random%20Squad&obs="
+}

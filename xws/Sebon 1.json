@@ -1,0 +1,53 @@
+{
+    "name": "Sebon",
+    "number": 1,
+    "xws": {
+        "faction": "firstorder",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "avenger",
+                "points": 69,
+                "ship": "tievnsilencer",
+                "upgrades": {
+                    "tech": [
+                        "primedthrusters"
+                    ],
+                    "torpedo": [
+                        "iontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "firstorderprovocateur",
+                "points": 53,
+                "ship": "tiebainterceptor",
+                "upgrades": {
+                    "modification": [
+                        "shieldupgrade"
+                    ]
+                }
+            },
+            {
+                "id": "lieutenantrivas",
+                "points": 30,
+                "ship": "tiefofighter",
+                "upgrades": {
+                    "modification": [
+                        "angleddeflectors"
+                    ]
+                }
+            },
+            {
+                "id": "firstorderprovocateur",
+                "points": 45,
+                "ship": "tiebainterceptor",
+                "upgrades": {}
+            }
+        ],
+        "points": 197,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=First%20Order&d=v8ZsZ200Z283XW178W135WY384XWWW165Y265XW247Y384XWWW&sn=Random%20Squad&obs="
+}

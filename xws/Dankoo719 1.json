@@ -1,0 +1,64 @@
+{
+    "name": "Dankoo719",
+    "number": 1,
+    "xws": {
+        "faction": "resistance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "colossusstationmechanic",
+                "points": 34,
+                "ship": "fireball",
+                "upgrades": {
+                    "modification": [
+                        "stealthdevice",
+                        "electronicbaffle"
+                    ]
+                }
+            },
+            {
+                "id": "colossusstationmechanic",
+                "points": 36,
+                "ship": "fireball",
+                "upgrades": {
+                    "astromech": [
+                        "r5astromech"
+                    ],
+                    "illicit": [
+                        "cloakingdevice"
+                    ],
+                    "title": [
+                        "kazsfireball"
+                    ]
+                }
+            },
+            {
+                "id": "edonkappehl",
+                "points": 90,
+                "ship": "mg100starfortress",
+                "upgrades": {
+                    "crew": [
+                        "pz4co"
+                    ],
+                    "device": [
+                        "ionbombs",
+                        "electroprotonbomb"
+                    ],
+                    "sensor": [
+                        "collisiondetector"
+                    ]
+                }
+            },
+            {
+                "id": "greersonnel",
+                "points": 36,
+                "ship": "rz2awing",
+                "upgrades": {}
+            }
+        ],
+        "points": 196,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Resistance&d=v8ZsZ200Z380XWWW166W106WY380XW6W91WWW315Y293X112WW246WWW317W235WY270XWWW&sn=Random%20Squad&obs="
+}

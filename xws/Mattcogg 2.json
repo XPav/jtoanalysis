@@ -1,0 +1,51 @@
+{
+    "name": "Mattcogg",
+    "number": 2,
+    "xws": {
+        "faction": "firstorder",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "ember",
+                "points": 55,
+                "ship": "tiebainterceptor",
+                "upgrades": {
+                    "modification": [
+                        "angleddeflectors"
+                    ]
+                }
+            },
+            {
+                "id": "lieutenantdormitz",
+                "points": 100,
+                "ship": "upsilonclasscommandshuttle",
+                "upgrades": {
+                    "crew": [
+                        "supremeleadersnoke",
+                        "kyloren"
+                    ],
+                    "tech": [
+                        "targetingsynchronizer"
+                    ]
+                }
+            },
+            {
+                "id": "longshot",
+                "points": 45,
+                "ship": "tiefofighter",
+                "upgrades": {
+                    "modification": [
+                        "shieldupgrade"
+                    ],
+                    "tech": [
+                        "targetingsynchronizer"
+                    ]
+                }
+            }
+        ],
+        "points": 200,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=First%20Order&d=v8ZsZ200Z383XWWW247Y238XW177WW184W179WWWY263XW177W165&sn=Random%20Squad&obs="
+}

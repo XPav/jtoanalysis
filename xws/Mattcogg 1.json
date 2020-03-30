@@ -1,0 +1,63 @@
+{
+    "name": "Mattcogg",
+    "number": 1,
+    "xws": {
+        "faction": "resistance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "tallissanlintra",
+                "points": 49,
+                "ship": "rz2awing",
+                "upgrades": {
+                    "missile": [
+                        "protonrockets"
+                    ],
+                    "talent": [
+                        "marksmanship"
+                    ],
+                    "tech": [
+                        "patternanalyzer"
+                    ]
+                }
+            },
+            {
+                "id": "paigetico",
+                "points": 109,
+                "ship": "mg100starfortress",
+                "upgrades": {
+                    "crew": [
+                        "perceptivecopilot"
+                    ],
+                    "gunner": [
+                        "hotshotgunner",
+                        "agilegunner"
+                    ],
+                    "modification": [
+                        "shieldupgrade"
+                    ],
+                    "sensor": [
+                        "advancedsensors"
+                    ],
+                    "talent": [
+                        "squadleader"
+                    ]
+                }
+            },
+            {
+                "id": "kazudaxiono",
+                "points": 42,
+                "ship": "fireball",
+                "upgrades": {
+                    "title": [
+                        "kazsfireball"
+                    ]
+                }
+            }
+        ],
+        "points": 200,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Resistance&d=v8ZsZ200Z240X125WW102W206Y389X131W111WW54W86W76WWW165Y378XWWWWWW315&sn=Random%20Squad&obs="
+}

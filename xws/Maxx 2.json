@@ -1,0 +1,53 @@
+{
+    "name": "Maxx",
+    "number": 2,
+    "xws": {
+        "faction": "firstorder",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "avenger",
+                "points": 68,
+                "ship": "tievnsilencer",
+                "upgrades": {
+                    "missile": [
+                        "ionmissiles"
+                    ],
+                    "talent": [
+                        "squadleader"
+                    ]
+                }
+            },
+            {
+                "id": "scorch",
+                "points": 36,
+                "ship": "tiefofighter",
+                "upgrades": {
+                    "talent": [
+                        "elusive"
+                    ]
+                }
+            },
+            {
+                "id": "omegasquadronace",
+                "points": 28,
+                "ship": "tiefofighter",
+                "upgrades": {}
+            },
+            {
+                "id": "majorvonreg",
+                "points": 63,
+                "ship": "tiebainterceptor",
+                "upgrades": {
+                    "modification": [
+                        "staticdischargevanes"
+                    ]
+                }
+            }
+        ],
+        "points": 195,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=First%20Order&d=v8ZsZ200Z283X131WWW101Y262X119WWY267XWWY381XWWW109&sn=Random%20Squad&obs="
+}

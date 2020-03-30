@@ -1,0 +1,56 @@
+{
+    "name": "Ellen",
+    "number": 2,
+    "xws": {
+        "faction": "separatistalliance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "generalgrievous",
+                "points": 47,
+                "ship": "belbullab22starfighter",
+                "upgrades": {
+                    "talent": [
+                        "swarmtactics"
+                    ]
+                }
+            },
+            {
+                "id": "bombardmentdrone",
+                "points": 50,
+                "ship": "hyenaclassdroidbomber",
+                "upgrades": {
+                    "device": [
+                        "proximitymines",
+                        "protonbombs"
+                    ],
+                    "sensor": [
+                        "advancedsensors"
+                    ]
+                }
+            },
+            {
+                "id": "berwerkret",
+                "points": 40,
+                "ship": "nantexclassstarfighter",
+                "upgrades": {}
+            },
+            {
+                "id": "wattambor",
+                "points": 42,
+                "ship": "belbullab22starfighter",
+                "upgrades": {}
+            },
+            {
+                "id": "separatistdrone",
+                "points": 21,
+                "ship": "vultureclassdroidfighter",
+                "upgrades": {}
+            }
+        ],
+        "points": 200,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Separatist%20Alliance&d=v8ZsZ200Z305X132WWWY325X111W70W69WWY358XWY306XWWWY343XWW&sn=Random%20Squad&obs="
+}

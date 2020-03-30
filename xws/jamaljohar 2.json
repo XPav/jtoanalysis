@@ -1,0 +1,65 @@
+{
+    "name": "jamaljohar",
+    "number": 2,
+    "xws": {
+        "faction": "resistance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "resistancesympathizer",
+                "points": 100,
+                "ship": "scavengedyt1300",
+                "upgrades": {
+                    "crew": [
+                        "leiaorgana-resistance"
+                    ],
+                    "gunner": [
+                        "finn"
+                    ],
+                    "missile": [
+                        "protonrockets"
+                    ],
+                    "modification": [
+                        "stealthdevice"
+                    ],
+                    "title": [
+                        "reysmillenniumfalcon"
+                    ]
+                }
+            },
+            {
+                "id": "greersonnel",
+                "points": 51,
+                "ship": "rz2awing",
+                "upgrades": {
+                    "missile": [
+                        "protonrockets"
+                    ],
+                    "tech": [
+                        "primedthrusters"
+                    ]
+                }
+            },
+            {
+                "id": "redsquadronexpert",
+                "points": 49,
+                "ship": "t70xwing",
+                "upgrades": {
+                    "configuration": [
+                        "integratedsfoils"
+                    ],
+                    "modification": [
+                        "targetingcomputer"
+                    ],
+                    "title": [
+                        "blackone"
+                    ]
+                }
+            }
+        ],
+        "points": 200,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Resistance&d=v8ZsZ200Z295X102WW244W174WW166W193Y270XWW102W178Y257XWW249W175WW171W&sn=Random%20Squad&obs="
+}

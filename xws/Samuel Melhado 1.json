@@ -1,0 +1,62 @@
+{
+    "name": "Samuel Melhado",
+    "number": 1,
+    "xws": {
+        "faction": "rebelalliance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "mirandadoni",
+                "points": 54,
+                "ship": "btls8kwing",
+                "upgrades": {
+                    "crew": [
+                        "jynerso"
+                    ],
+                    "device": [
+                        "clustermines"
+                    ],
+                    "modification": [
+                        "tacticalscrambler"
+                    ]
+                }
+            },
+            {
+                "id": "wildspacefringer",
+                "points": 83,
+                "ship": "yt2400lightfreighter",
+                "upgrades": {
+                    "gunner": [
+                        "skilledbombardier"
+                    ],
+                    "illicit": [
+                        "deadmansswitch"
+                    ],
+                    "modification": [
+                        "tacticalscrambler"
+                    ]
+                }
+            },
+            {
+                "id": "fennrau-sheathipedeclassshuttle",
+                "points": 60,
+                "ship": "sheathipedeclassshuttle",
+                "upgrades": {
+                    "astromech": [
+                        "r3astromech"
+                    ],
+                    "talent": [
+                        "snapshot"
+                    ],
+                    "title": [
+                        "phantom"
+                    ]
+                }
+            }
+        ],
+        "points": 197,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Rebel%20Alliance&d=v8ZsZ200Z17XWWWW40W316WW110Y41XW88WW110WW93Y69X256WWW4W167&sn=Random%20Squad&obs="
+}

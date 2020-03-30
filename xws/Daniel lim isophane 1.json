@@ -1,0 +1,46 @@
+{
+    "name": "Daniel lim isophane",
+    "number": 1,
+    "xws": {
+        "faction": "firstorder",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "rush",
+                "points": 76,
+                "ship": "tievnsilencer",
+                "upgrades": {
+                    "missile": [
+                        "ionmissiles"
+                    ],
+                    "tech": [
+                        "targetingsynchronizer"
+                    ],
+                    "torpedo": [
+                        "plasmatorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "holo",
+                "points": 58,
+                "ship": "tiebainterceptor",
+                "upgrades": {
+                    "missile": [
+                        "ionmissiles"
+                    ]
+                }
+            },
+            {
+                "id": "lieutenanttavson",
+                "points": 64,
+                "ship": "upsilonclasscommandshuttle",
+                "upgrades": {}
+            }
+        ],
+        "points": 198,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=First%20Order&d=v8ZsZ200Z386X177W234W101Y382XWW101WY289XWWWWWWW&sn=Random%20Squad&obs="
+}

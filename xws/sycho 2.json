@@ -1,0 +1,60 @@
+{
+    "name": "sycho",
+    "number": 2,
+    "xws": {
+        "faction": "galacticrepublic",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "swoop",
+                "points": 32,
+                "ship": "v19torrentstarfighter",
+                "upgrades": {
+                    "talent": [
+                        "marksmanship"
+                    ]
+                }
+            },
+            {
+                "id": "jediknight",
+                "points": 55,
+                "ship": "delta7aethersprite",
+                "upgrades": {
+                    "configuration": [
+                        "delta7b"
+                    ],
+                    "force-power": [
+                        "predictiveshot"
+                    ]
+                }
+            },
+            {
+                "id": "matchstick",
+                "points": 61,
+                "ship": "btlbywing",
+                "upgrades": {
+                    "talent": [
+                        "saturationsalvo"
+                    ],
+                    "torpedo": [
+                        "protontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "ricolie",
+                "points": 47,
+                "ship": "nabooroyaln1starfighter",
+                "upgrades": {
+                    "talent": [
+                        "lonewolf"
+                    ]
+                }
+            }
+        ],
+        "points": 195,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Galactic%20Republic&d=v8ZsZ200Z317X125WWY277X203WW201WY365X129WW136WWWWY333X124WWW&sn=Random%20Squad&obs="
+}

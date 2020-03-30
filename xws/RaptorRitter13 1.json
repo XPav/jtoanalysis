@@ -1,0 +1,56 @@
+{
+    "name": "RaptorRitter13",
+    "number": 1,
+    "xws": {
+        "faction": "galacticrepublic",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "luminaraunduli",
+                "points": 55,
+                "ship": "delta7aethersprite",
+                "upgrades": {
+                    "astromech": [
+                        "c110p"
+                    ],
+                    "force-power": [
+                        "sense"
+                    ]
+                }
+            },
+            {
+                "id": "anakinskywalker-btlbywing",
+                "points": 70,
+                "ship": "btlbywing",
+                "upgrades": {
+                    "astromech": [
+                        "r4astromech"
+                    ],
+                    "device": [
+                        "clustermines"
+                    ]
+                }
+            },
+            {
+                "id": "bravoflightofficer",
+                "points": 39,
+                "ship": "nabooroyaln1starfighter",
+                "upgrades": {
+                    "sensor": [
+                        "trajectorysimulator"
+                    ]
+                }
+            },
+            {
+                "id": "kickback",
+                "points": 33,
+                "ship": "v19torrentstarfighter",
+                "upgrades": {}
+            }
+        ],
+        "points": 197,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Galactic%20Republic&d=v8ZsZ200Z274X75W252WWY359XWWWW5W316WY323X114WWY315XWW&sn=Random%20Squad&obs="
+}

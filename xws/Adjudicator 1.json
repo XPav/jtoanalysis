@@ -1,0 +1,63 @@
+{
+    "name": "Adjudicator",
+    "number": 1,
+    "xws": {
+        "faction": "rebelalliance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "wardensquadronpilot",
+                "points": 52,
+                "ship": "btls8kwing",
+                "upgrades": {
+                    "device": [
+                        "clustermines"
+                    ],
+                    "missile": [
+                        "magpulsewarheads"
+                    ]
+                }
+            },
+            {
+                "id": "jakefarrell",
+                "points": 42,
+                "ship": "rz1awing",
+                "upgrades": {
+                    "talent": [
+                        "outmaneuver"
+                    ]
+                }
+            },
+            {
+                "id": "tennumb",
+                "points": 66,
+                "ship": "asf01bwing",
+                "upgrades": {
+                    "configuration": [
+                        "stabilizedsfoils"
+                    ],
+                    "modification": [
+                        "hullupgrade"
+                    ],
+                    "torpedo": [
+                        "protontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "rebelscout",
+                "points": 36,
+                "ship": "hwk290lightfreighter",
+                "upgrades": {
+                    "modification": [
+                        "staticdischargevanes"
+                    ]
+                }
+            }
+        ],
+        "points": 196,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Rebel%20Alliance&d=v8ZsZ200Z20XW311WWWW316WWY50X126WWY74XWWWW136W164W313Y49XWW109WW&sn=Random%20Squad&obs="
+}

@@ -1,0 +1,63 @@
+{
+    "name": "Sebon",
+    "number": 2,
+    "xws": {
+        "faction": "scumandvillainy",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "crymorahgoon",
+                "points": 45,
+                "ship": "btla4ywing",
+                "upgrades": {
+                    "astromech": [
+                        "r5tk"
+                    ],
+                    "device": [
+                        "electroprotonbomb"
+                    ],
+                    "illicit": [
+                        "feedbackarray"
+                    ]
+                }
+            },
+            {
+                "id": "4lom",
+                "points": 60,
+                "ship": "g1astarfighter",
+                "upgrades": {
+                    "sensor": [
+                        "advancedsensors"
+                    ],
+                    "title": [
+                        "misthunter"
+                    ]
+                }
+            },
+            {
+                "id": "palobgodalhi",
+                "points": 65,
+                "ship": "hwk290lightfreighter",
+                "upgrades": {
+                    "modification": [
+                        "delayedfuses",
+                        "stealthdevice"
+                    ],
+                    "title": [
+                        "moldycrow"
+                    ]
+                }
+            },
+            {
+                "id": "sunnybounder",
+                "points": 27,
+                "ship": "m3ainterceptor",
+                "upgrades": {}
+            }
+        ],
+        "points": 197,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Scum%20and%20Villainy&d=v8ZsZ200Z88XWWW9W235W94WY109XW111WWWW155WY112XWWWW236W166W156Y138XW&sn=Random%20Squad&obs="
+}

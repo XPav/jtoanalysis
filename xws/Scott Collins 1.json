@@ -1,0 +1,62 @@
+{
+    "name": "Scott Collins",
+    "number": 1,
+    "xws": {
+        "faction": "galacticempire",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "countessryad",
+                "points": 94,
+                "ship": "tieddefender",
+                "upgrades": {
+                    "cannon": [
+                        "autoblasters"
+                    ],
+                    "missile": [
+                        "homingmissiles"
+                    ],
+                    "sensor": [
+                        "passivesensors"
+                    ],
+                    "talent": [
+                        "composure"
+                    ]
+                }
+            },
+            {
+                "id": "grandinquisitor",
+                "points": 58,
+                "ship": "tieadvancedv1",
+                "upgrades": {
+                    "force-power": [
+                        "brilliantevasion"
+                    ],
+                    "sensor": [
+                        "passivesensors"
+                    ]
+                }
+            },
+            {
+                "id": "lieutenantkarsabi",
+                "points": 46,
+                "ship": "alphaclassstarwing",
+                "upgrades": {
+                    "configuration": [
+                        "xg1assaultconfiguration"
+                    ],
+                    "missile": [
+                        "homingmissiles"
+                    ],
+                    "talent": [
+                        "trickshot"
+                    ]
+                }
+            }
+        ],
+        "points": 198,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Galactic%20Empire&d=v8ZsZ200Z195X115W240W232W100Y169X199W240WY162X133WWW100WW144W&sn=Random%20Squad&obs="
+}

@@ -1,0 +1,49 @@
+{
+    "name": "roelbesters",
+    "number": 2,
+    "xws": {
+        "faction": "rebelalliance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "mirandadoni",
+                "points": 55,
+                "ship": "btls8kwing",
+                "upgrades": {
+                    "device": [
+                        "proximitymines"
+                    ],
+                    "missile": [
+                        "protonrockets"
+                    ]
+                }
+            },
+            {
+                "id": "wildspacefringer",
+                "points": 92,
+                "ship": "yt2400lightfreighter",
+                "upgrades": {
+                    "crew": [
+                        "chopper-crew"
+                    ],
+                    "gunner": [
+                        "veteranturretgunner"
+                    ],
+                    "missile": [
+                        "ionmissiles"
+                    ]
+                }
+            },
+            {
+                "id": "sharabey",
+                "points": 50,
+                "ship": "arc170starfighter",
+                "upgrades": {}
+            }
+        ],
+        "points": 197,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Rebel%20Alliance&d=v8ZsZ200Z17XW102WWWWW70WY41X101W90W23WWWY78XWWWWW&sn=Random%20Squad&obs="
+}

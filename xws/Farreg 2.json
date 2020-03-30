@@ -1,0 +1,59 @@
+{
+    "name": "Farreg",
+    "number": 2,
+    "xws": {
+        "faction": "galacticrepublic",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "ricolie",
+                "points": 62,
+                "ship": "nabooroyaln1starfighter",
+                "upgrades": {
+                    "astromech": [
+                        "r4p17"
+                    ],
+                    "sensor": [
+                        "passivesensors"
+                    ],
+                    "talent": [
+                        "squadleader"
+                    ]
+                }
+            },
+            {
+                "id": "jediknight",
+                "points": 44,
+                "ship": "delta7aethersprite",
+                "upgrades": {
+                    "force-power": [
+                        "precognitivereflexes"
+                    ],
+                    "modification": [
+                        "angleddeflectors"
+                    ]
+                }
+            },
+            {
+                "id": "plokoon",
+                "points": 44,
+                "ship": "delta7aethersprite",
+                "upgrades": {}
+            },
+            {
+                "id": "jediknight",
+                "points": 45,
+                "ship": "delta7aethersprite",
+                "upgrades": {
+                    "force-power": [
+                        "supernaturalreflexes"
+                    ]
+                }
+            }
+        ],
+        "points": 195,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Galactic%20Republic&d=v8ZsZ200Z333X131W240W214WY277X250WWW247Y312XWWWY277X74WWW&sn=Random%20Squad&obs="
+}

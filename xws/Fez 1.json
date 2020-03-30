@@ -1,0 +1,59 @@
+{
+    "name": "Fez",
+    "number": 1,
+    "xws": {
+        "faction": "resistance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "lulolampar",
+                "points": 53,
+                "ship": "rz2awing",
+                "upgrades": {
+                    "missile": [
+                        "homingmissiles"
+                    ],
+                    "tech": [
+                        "patternanalyzer"
+                    ]
+                }
+            },
+            {
+                "id": "jarekyeager",
+                "points": 37,
+                "ship": "fireball",
+                "upgrades": {
+                    "talent": [
+                        "debrisgambit"
+                    ]
+                }
+            },
+            {
+                "id": "colossusstationmechanic",
+                "points": 26,
+                "ship": "fireball",
+                "upgrades": {}
+            },
+            {
+                "id": "elloasty",
+                "points": 55,
+                "ship": "t70xwing",
+                "upgrades": {
+                    "configuration": [
+                        "integratedsfoils"
+                    ]
+                }
+            },
+            {
+                "id": "finn",
+                "points": 29,
+                "ship": "resistancetransportpod",
+                "upgrades": {}
+            }
+        ],
+        "points": 200,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Resistance&d=v8ZsZ200Z239XWW100W206Y377X118WWWWWWY380XWWWWWY299XWWW175WWWY350XWWW&sn=Random%20Squad&obs="
+}

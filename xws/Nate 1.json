@@ -1,0 +1,59 @@
+{
+    "name": "Nate",
+    "number": 1,
+    "xws": {
+        "faction": "galacticempire",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "alphasquadronpilot",
+                "points": 31,
+                "ship": "tieininterceptor",
+                "upgrades": {}
+            },
+            {
+                "id": "majorvynder",
+                "points": 52,
+                "ship": "alphaclassstarwing",
+                "upgrades": {
+                    "missile": [
+                        "homingmissiles"
+                    ],
+                    "talent": [
+                        "outmaneuver"
+                    ]
+                }
+            },
+            {
+                "id": "obsidiansquadronpilot",
+                "points": 23,
+                "ship": "tielnfighter",
+                "upgrades": {}
+            },
+            {
+                "id": "whisper",
+                "points": 59,
+                "ship": "tiephphantom",
+                "upgrades": {
+                    "sensor": [
+                        "firecontrolsystem"
+                    ]
+                }
+            },
+            {
+                "id": "baronoftheempire",
+                "points": 32,
+                "ship": "tieadvancedv1",
+                "upgrades": {
+                    "sensor": [
+                        "firecontrolsystem"
+                    ]
+                }
+            }
+        ],
+        "points": 197,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Galactic%20Empire&d=v8ZsZ200Z182XWY161X126WWW100WWY228XY199XW113WWY172XW113W&sn=Random%20Squad&obs="
+}

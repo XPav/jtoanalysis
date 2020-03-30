@@ -1,0 +1,56 @@
+{
+    "name": "dfoglein00",
+    "number": 2,
+    "xws": {
+        "faction": "galacticempire",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "patrolleader",
+                "points": 94,
+                "ship": "vt49decimator",
+                "upgrades": {
+                    "crew": [
+                        "novicetechnician",
+                        "ministertua"
+                    ],
+                    "device": [
+                        "clustermines"
+                    ],
+                    "gunner": [
+                        "skilledbombardier"
+                    ],
+                    "modification": [
+                        "hullupgrade"
+                    ],
+                    "title": [
+                        "dauntless"
+                    ]
+                }
+            },
+            {
+                "id": "whisper",
+                "points": 62,
+                "ship": "tiephphantom",
+                "upgrades": {
+                    "sensor": [
+                        "firecontrolsystem"
+                    ],
+                    "talent": [
+                        "intimidation"
+                    ]
+                }
+            },
+            {
+                "id": "scarifbasepilot",
+                "points": 39,
+                "ship": "tiereaper",
+                "upgrades": {}
+            }
+        ],
+        "points": 195,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Galactic%20Empire&d=v8ZsZ200Z216XWW53W49W88W316W164W147Y199X122W113WWY186XWW&sn=Random%20Squad&obs="
+}

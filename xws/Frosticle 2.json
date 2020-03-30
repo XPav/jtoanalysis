@@ -1,0 +1,46 @@
+{
+    "name": "Frosticle",
+    "number": 2,
+    "xws": {
+        "faction": "firstorder",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "rush",
+                "points": 64,
+                "ship": "tievnsilencer",
+                "upgrades": {
+                    "missile": [
+                        "protonrockets"
+                    ]
+                }
+            },
+            {
+                "id": "omegasquadronexpert",
+                "points": 38,
+                "ship": "tiesffighter",
+                "upgrades": {
+                    "missile": [
+                        "ionmissiles"
+                    ]
+                }
+            },
+            {
+                "id": "ember",
+                "points": 52,
+                "ship": "tiebainterceptor",
+                "upgrades": {}
+            },
+            {
+                "id": "quickdraw",
+                "points": 45,
+                "ship": "tiesffighter",
+                "upgrades": {}
+            }
+        ],
+        "points": 199,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=First%20Order&d=v8ZsZ200Z386XWW102Y285XWW101WWWY383XWWWY243XWWWWW&sn=Random%20Squad&obs="
+}

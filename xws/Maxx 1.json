@@ -1,0 +1,56 @@
+{
+    "name": "Maxx",
+    "number": 1,
+    "xws": {
+        "faction": "galacticempire",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "captainkagi",
+                "points": 67,
+                "ship": "lambdaclasst4ashuttle",
+                "upgrades": {
+                    "cannon": [
+                        "autoblasters"
+                    ],
+                    "modification": [
+                        "ablativeplating"
+                    ],
+                    "sensor": [
+                        "collisiondetector"
+                    ],
+                    "title": [
+                        "st321"
+                    ]
+                }
+            },
+            {
+                "id": "patrolleader",
+                "points": 75,
+                "ship": "vt49decimator",
+                "upgrades": {
+                    "device": [
+                        "ionbombs"
+                    ],
+                    "modification": [
+                        "electronicbaffle"
+                    ]
+                }
+            },
+            {
+                "id": "redline",
+                "points": 55,
+                "ship": "tiecapunisher",
+                "upgrades": {
+                    "device": [
+                        "seismiccharges"
+                    ]
+                }
+            }
+        ],
+        "points": 197,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Galactic%20Empire&d=v8ZsZ200Z165X112W232WWW103W162Y216XWWWWW317W106WY191XWWWWW71WW&sn=Random%20Squad&obs="
+}

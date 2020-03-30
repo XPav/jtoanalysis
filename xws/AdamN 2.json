@@ -1,0 +1,56 @@
+{
+    "name": "AdamN",
+    "number": 2,
+    "xws": {
+        "faction": "galacticrepublic",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "sinker",
+                "points": 75,
+                "ship": "arc170starfighter",
+                "upgrades": {
+                    "gunner": [
+                        "clonecommandercody"
+                    ],
+                    "modification": [
+                        "shieldupgrade"
+                    ],
+                    "torpedo": [
+                        "protontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "squadsevenveteran",
+                "points": 65,
+                "ship": "arc170starfighter",
+                "upgrades": {
+                    "modification": [
+                        "tacticalscrambler"
+                    ],
+                    "talent": [
+                        "outmaneuver"
+                    ],
+                    "torpedo": [
+                        "protontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "obiwankenobi",
+                "points": 57,
+                "ship": "delta7aethersprite",
+                "upgrades": {
+                    "astromech": [
+                        "r2astromech"
+                    ]
+                }
+            }
+        ],
+        "points": 197,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Galactic%20Republic&d=v8ZsZ200Z280X136WW225WW165Y340X126W136WWWW110Y278XW2WW&sn=Random%20Squad&obs="
+}

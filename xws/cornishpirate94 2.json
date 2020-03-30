@@ -1,0 +1,69 @@
+{
+    "name": "cornishpirate94",
+    "number": 2,
+    "xws": {
+        "faction": "rebelalliance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "zeborrelios",
+                "points": 37,
+                "ship": "attackshuttle",
+                "upgrades": {
+                    "title": [
+                        "phantom"
+                    ],
+                    "turret": [
+                        "ioncannonturret"
+                    ]
+                }
+            },
+            {
+                "id": "rebelscout",
+                "points": 30,
+                "ship": "hwk290lightfreighter",
+                "upgrades": {}
+            },
+            {
+                "id": "esegetuketu",
+                "points": 85,
+                "ship": "btls8kwing",
+                "upgrades": {
+                    "crew": [
+                        "landocalrissian"
+                    ],
+                    "device": [
+                        "ionbombs",
+                        "electroprotonbomb"
+                    ],
+                    "gunner": [
+                        "veteranturretgunner"
+                    ],
+                    "missile": [
+                        "homingmissiles"
+                    ],
+                    "torpedo": [
+                        "iontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "bladesquadronveteran",
+                "points": 46,
+                "ship": "asf01bwing",
+                "upgrades": {
+                    "modification": [
+                        "munitionsfailsafe"
+                    ],
+                    "talent": [
+                        "selfless"
+                    ]
+                }
+            }
+        ],
+        "points": 198,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Rebel%20Alliance&d=v8ZsZ200Z68XWW138W167Y49XWWWWY18X135WW100W90W44W317W235WY75X130WWWWW108W&sn=Random%20Squad&obs="
+}

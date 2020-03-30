@@ -1,0 +1,63 @@
+{
+    "name": "The Eagle",
+    "number": 2,
+    "xws": {
+        "faction": "firstorder",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "muse",
+                "points": 41,
+                "ship": "tiefofighter",
+                "upgrades": {
+                    "modification": [
+                        "targetingcomputer"
+                    ],
+                    "talent": [
+                        "predator"
+                    ],
+                    "tech": [
+                        "targetingsynchronizer"
+                    ]
+                }
+            },
+            {
+                "id": "majorstridan",
+                "points": 77,
+                "ship": "upsilonclasscommandshuttle",
+                "upgrades": {
+                    "crew": [
+                        "seasonednavigator",
+                        "pettyofficerthanisson"
+                    ],
+                    "modification": [
+                        "ablativeplating"
+                    ]
+                }
+            },
+            {
+                "id": "firstorderprovocateur",
+                "points": 56,
+                "ship": "tiebainterceptor",
+                "upgrades": {
+                    "modification": [
+                        "staticdischargevanes"
+                    ],
+                    "tech": [
+                        "patternanalyzer"
+                    ]
+                }
+            },
+            {
+                "id": "zetasquadronpilot",
+                "points": 26,
+                "ship": "tiefofighter",
+                "upgrades": {}
+            }
+        ],
+        "points": 200,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=First%20Order&d=v8ZsZ200Z235X127W177W249Y251XWW59W194WWWW103Y384XW206WW109Y268XW&sn=Random%20Squad&obs="
+}

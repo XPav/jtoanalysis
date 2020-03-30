@@ -1,0 +1,52 @@
+{
+    "name": "Sqwick",
+    "number": 2,
+    "xws": {
+        "faction": "galacticempire",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "lieutenantkestal",
+                "points": 42,
+                "ship": "tieagaggressor",
+                "upgrades": {
+                    "gunner": [
+                        "fifthbrother"
+                    ]
+                }
+            },
+            {
+                "id": "scimitarsquadronpilot",
+                "points": 27,
+                "ship": "tiesabomber",
+                "upgrades": {}
+            },
+            {
+                "id": "gammasquadronace",
+                "points": 30,
+                "ship": "tiesabomber",
+                "upgrades": {}
+            },
+            {
+                "id": "deathrain",
+                "points": 50,
+                "ship": "tiecapunisher",
+                "upgrades": {
+                    "torpedo": [
+                        "iontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "captainkagi",
+                "points": 48,
+                "ship": "lambdaclasst4ashuttle",
+                "upgrades": {}
+            }
+        ],
+        "points": 197,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Galactic%20Empire&d=v8ZsZ200Z187XWWWW82WY208XWWWWWWY207XWWWWWWWY192XW135WWWWWWY165XWWWWW&sn=Random%20Squad&obs="
+}

@@ -1,0 +1,59 @@
+{
+    "name": "dsul413",
+    "number": 1,
+    "xws": {
+        "faction": "firstorder",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "firstorderprovocateur",
+                "points": 61,
+                "ship": "tiebainterceptor",
+                "upgrades": {
+                    "missile": [
+                        "protonrockets"
+                    ],
+                    "tech": [
+                        "deuteriumpowercells"
+                    ]
+                }
+            },
+            {
+                "id": "midnight",
+                "points": 49,
+                "ship": "tiefofighter",
+                "upgrades": {
+                    "modification": [
+                        "munitionsfailsafe"
+                    ],
+                    "tech": [
+                        "targetingsynchronizer"
+                    ]
+                }
+            },
+            {
+                "id": "omegasquadronexpert",
+                "points": 46,
+                "ship": "tiesffighter",
+                "upgrades": {
+                    "modification": [
+                        "shieldupgrade"
+                    ],
+                    "sensor": [
+                        "trajectorysimulator"
+                    ]
+                }
+            },
+            {
+                "id": "lieutenantlehuse",
+                "points": 39,
+                "ship": "tiesffighter",
+                "upgrades": {}
+            }
+        ],
+        "points": 195,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=First%20Order&d=v8ZsZ200Z384XW318W102WY233XW177W108Y285XWWWW114W165Y397XWWWWW&sn=Random%20Squad&obs="
+}

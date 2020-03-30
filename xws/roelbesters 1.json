@@ -1,0 +1,52 @@
+{
+    "name": "roelbesters",
+    "number": 1,
+    "xws": {
+        "faction": "firstorder",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "kyloren",
+                "points": 91,
+                "ship": "tievnsilencer",
+                "upgrades": {
+                    "force-power": [
+                        "hate"
+                    ],
+                    "missile": [
+                        "magpulsewarheads"
+                    ],
+                    "torpedo": [
+                        "iontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "captaincardinal",
+                "points": 78,
+                "ship": "upsilonclasscommandshuttle",
+                "upgrades": {
+                    "cannon": [
+                        "heavylasercannon"
+                    ],
+                    "crew": [
+                        "captainphasma"
+                    ],
+                    "sensor": [
+                        "trajectorysimulator"
+                    ]
+                }
+            },
+            {
+                "id": "null",
+                "points": 30,
+                "ship": "tiefofighter",
+                "upgrades": {}
+            }
+        ],
+        "points": 199,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=First%20Order&d=v8ZsZ200Z236X204WW135W311Y282XWWWW183W10W114WY290XW&sn=Random%20Squad&obs="
+}

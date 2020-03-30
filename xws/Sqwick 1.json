@@ -1,0 +1,66 @@
+{
+    "name": "Sqwick",
+    "number": 1,
+    "xws": {
+        "faction": "rebelalliance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "herasyndulla-vcx100lightfreighter",
+                "points": 125,
+                "ship": "vcx100lightfreighter",
+                "upgrades": {
+                    "crew": [
+                        "seasonednavigator",
+                        "sawgerrera"
+                    ],
+                    "gunner": [
+                        "hotshotgunner"
+                    ],
+                    "modification": [
+                        "shieldupgrade"
+                    ],
+                    "sensor": [
+                        "advancedsensors"
+                    ],
+                    "talent": [
+                        "marksmanship"
+                    ],
+                    "title": [
+                        "ghost"
+                    ],
+                    "torpedo": [
+                        "protontorpedoes"
+                    ],
+                    "turret": [
+                        "dorsalturret"
+                    ]
+                }
+            },
+            {
+                "id": "rebelscout",
+                "points": 71,
+                "ship": "hwk290lightfreighter",
+                "upgrades": {
+                    "crew": [
+                        "gnkgonkdroid"
+                    ],
+                    "device": [
+                        "proximitymines"
+                    ],
+                    "modification": [
+                        "hullupgrade",
+                        "engineupgrade"
+                    ],
+                    "title": [
+                        "moldycrow"
+                    ]
+                }
+            }
+        ],
+        "points": 196,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Rebel%20Alliance&d=v8ZsZ200Z61X125W111W136W137W59W58W165W86W148Y49X70W32W164W107W156&sn=Random%20Squad&obs="
+}

@@ -1,0 +1,59 @@
+{
+    "name": "PaulHeaver",
+    "number": 1,
+    "xws": {
+        "faction": "galacticempire",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "lieutenantsai",
+                "points": 65,
+                "ship": "lambdaclasst4ashuttle",
+                "upgrades": {
+                    "crew": [
+                        "directorkrennic"
+                    ],
+                    "sensor": [
+                        "advancedsensors"
+                    ],
+                    "title": [
+                        "st321"
+                    ]
+                }
+            },
+            {
+                "id": "deathfire",
+                "points": 47,
+                "ship": "tiesabomber",
+                "upgrades": {
+                    "modification": [
+                        "stealthdevice"
+                    ],
+                    "torpedo": [
+                        "plasmatorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "redline",
+                "points": 59,
+                "ship": "tiecapunisher",
+                "upgrades": {
+                    "missile": [
+                        "protonrockets"
+                    ]
+                }
+            },
+            {
+                "id": "valenrudor",
+                "points": 27,
+                "ship": "tielnfighter",
+                "upgrades": {}
+            }
+        ],
+        "points": 198,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Galactic%20Empire&d=v8ZsZ200Z166X111WWW28WW162Y206X234WWWWWW166Y191XWWW102WWWWY225XW&sn=Random%20Squad&obs="
+}

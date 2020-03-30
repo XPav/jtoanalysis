@@ -1,0 +1,63 @@
+{
+    "name": "Scott Collins",
+    "number": 2,
+    "xws": {
+        "faction": "resistance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "greensquadronexpert",
+                "points": 48,
+                "ship": "rz2awing",
+                "upgrades": {
+                    "talent": [
+                        "trickshot",
+                        "debrisgambit"
+                    ],
+                    "tech": [
+                        "ferrospherepaint"
+                    ]
+                }
+            },
+            {
+                "id": "jarekyeager",
+                "points": 42,
+                "ship": "fireball",
+                "upgrades": {
+                    "illicit": [
+                        "feedbackarray"
+                    ],
+                    "talent": [
+                        "swarmtactics"
+                    ],
+                    "title": [
+                        "kazsfireball"
+                    ]
+                }
+            },
+            {
+                "id": "nodinchavdri",
+                "points": 46,
+                "ship": "resistancetransport",
+                "upgrades": {
+                    "crew": [
+                        "hansolo-crew"
+                    ],
+                    "tech": [
+                        "ferrospherepaint"
+                    ]
+                }
+            },
+            {
+                "id": "finchdallow",
+                "points": 60,
+                "ship": "mg100starfortress",
+                "upgrades": {}
+            }
+        ],
+        "points": 196,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Resistance&d=v8ZsZ200Z300X133W118WW198Y377X132WWW94WWW315Y352X198WWWW192WWY250XWWWWWWW&sn=Random%20Squad&obs="
+}

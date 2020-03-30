@@ -1,0 +1,53 @@
+{
+    "name": "Nathan Skelly",
+    "number": 1,
+    "xws": {
+        "faction": "galacticempire",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "colonelvessery",
+                "points": 91,
+                "ship": "tieddefender",
+                "upgrades": {
+                    "cannon": [
+                        "jammingbeam"
+                    ],
+                    "missile": [
+                        "protonrockets"
+                    ]
+                }
+            },
+            {
+                "id": "scourgeskutu",
+                "points": 31,
+                "ship": "tielnfighter",
+                "upgrades": {}
+            },
+            {
+                "id": "lieutenantkestal",
+                "points": 46,
+                "ship": "tieagaggressor",
+                "upgrades": {
+                    "missile": [
+                        "homingmissiles",
+                        "protonrockets"
+                    ],
+                    "turret": [
+                        "dorsalturret"
+                    ]
+                }
+            },
+            {
+                "id": "delmeeko",
+                "points": 30,
+                "ship": "tielnfighter",
+                "upgrades": {}
+            }
+        ],
+        "points": 198,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Galactic%20Empire&d=v8ZsZ200Z194XWW12W102Y220XWY187XW137W100W102WWY222XW&sn=Random%20Squad&obs="
+}

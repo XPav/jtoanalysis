@@ -1,0 +1,59 @@
+{
+    "name": "RebelMando",
+    "number": 1,
+    "xws": {
+        "faction": "scumandvillainy",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "4lom",
+                "points": 55,
+                "ship": "g1astarfighter",
+                "upgrades": {
+                    "modification": [
+                        "angleddeflectors"
+                    ]
+                }
+            },
+            {
+                "id": "teltrevura",
+                "points": 58,
+                "ship": "jumpmaster5000",
+                "upgrades": {
+                    "crew": [
+                        "zuckuss"
+                    ],
+                    "modification": [
+                        "staticdischargevanes"
+                    ],
+                    "torpedo": [
+                        "advprotontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "l337",
+                "points": 58,
+                "ship": "customizedyt1300lightfreighter",
+                "upgrades": {
+                    "crew": [
+                        "perceptivecopilot"
+                    ],
+                    "title": [
+                        "landosmillenniumfalcon"
+                    ]
+                }
+            },
+            {
+                "id": "overseeryushyn",
+                "points": 26,
+                "ship": "modifiedtielnfighter",
+                "upgrades": {}
+            }
+        ],
+        "points": 197,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Scum%20and%20Villainy&d=v8ZsZ200Z109XWWWW247WY116XW134WW66WWW109WY91XW54WWWWW152Y303X&sn=Random%20Squad&obs="
+}

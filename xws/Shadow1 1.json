@@ -1,0 +1,60 @@
+{
+    "name": "Shadow1",
+    "number": 1,
+    "xws": {
+        "faction": "rebelalliance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "wullffwarro",
+                "points": 77,
+                "ship": "auzituckgunship",
+                "upgrades": {
+                    "crew": [
+                        "sawgerrera",
+                        "bazemalbus"
+                    ],
+                    "modification": [
+                        "hullupgrade"
+                    ],
+                    "talent": [
+                        "outmaneuver"
+                    ]
+                }
+            },
+            {
+                "id": "talasquadronpilot",
+                "points": 37,
+                "ship": "z95af4headhunter",
+                "upgrades": {
+                    "missile": [
+                        "magpulsewarheads"
+                    ],
+                    "talent": [
+                        "juke"
+                    ]
+                }
+            },
+            {
+                "id": "zeborrelios",
+                "points": 32,
+                "ship": "attackshuttle",
+                "upgrades": {}
+            },
+            {
+                "id": "esegetuketu",
+                "points": 52,
+                "ship": "btls8kwing",
+                "upgrades": {
+                    "crew": [
+                        "magvayarro"
+                    ]
+                }
+            }
+        ],
+        "points": 198,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Rebel%20Alliance&d=v8ZsZ200Z58X126W58W17W164Y56X123W311WY68XWWWY18XWWWW51WWW&sn=Random%20Squad&obs="
+}

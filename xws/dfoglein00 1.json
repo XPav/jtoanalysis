@@ -1,0 +1,36 @@
+{
+    "name": "dfoglein00",
+    "number": 1,
+    "xws": {
+        "faction": "firstorder",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "captaincardinal",
+                "points": 64,
+                "ship": "upsilonclasscommandshuttle",
+                "upgrades": {
+                    "modification": [
+                        "tacticalscrambler"
+                    ]
+                }
+            },
+            {
+                "id": "lieutenantdormitz",
+                "points": 70,
+                "ship": "upsilonclasscommandshuttle",
+                "upgrades": {}
+            },
+            {
+                "id": "blackout",
+                "points": 63,
+                "ship": "tievnsilencer",
+                "upgrades": {}
+            }
+        ],
+        "points": 197,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=First%20Order&d=v8ZsZ200Z282XWWWWWWW110Y238XWWWWWWWY237XWWW&sn=Random%20Squad&obs="
+}

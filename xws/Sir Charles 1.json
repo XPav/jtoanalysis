@@ -1,0 +1,49 @@
+{
+    "name": "Sir Charles",
+    "number": 1,
+    "xws": {
+        "faction": "galacticrepublic",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "bravoflightofficer",
+                "points": 40,
+                "ship": "nabooroyaln1starfighter",
+                "upgrades": {
+                    "astromech": [
+                        "r2astromech"
+                    ]
+                }
+            },
+            {
+                "id": "ahsokatano",
+                "points": 69,
+                "ship": "delta7aethersprite",
+                "upgrades": {
+                    "configuration": [
+                        "delta7b"
+                    ],
+                    "force-power": [
+                        "supernaturalreflexes"
+                    ]
+                }
+            },
+            {
+                "id": "wolffe",
+                "points": 50,
+                "ship": "arc170starfighter",
+                "upgrades": {}
+            },
+            {
+                "id": "broadside",
+                "points": 36,
+                "ship": "btlbywing",
+                "upgrades": {}
+            }
+        ],
+        "points": 195,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Galactic%20Republic&d=v8ZsZ200Z323XW2WY276X74WW201WY342XWWWWWY364XWWWWWW&sn=Random%20Squad&obs="
+}

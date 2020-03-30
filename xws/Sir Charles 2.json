@@ -1,0 +1,64 @@
+{
+    "name": "Sir Charles",
+    "number": 2,
+    "xws": {
+        "faction": "resistance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "temminwexley",
+                "points": 79,
+                "ship": "t70xwing",
+                "upgrades": {
+                    "astromech": [
+                        "r1j5"
+                    ],
+                    "configuration": [
+                        "integratedsfoils"
+                    ],
+                    "missile": [
+                        "clustermissiles"
+                    ],
+                    "modification": [
+                        "shieldupgrade"
+                    ],
+                    "talent": [
+                        "marksmanship"
+                    ],
+                    "tech": [
+                        "targetingsynchronizer"
+                    ],
+                    "title": [
+                        "blackone"
+                    ]
+                }
+            },
+            {
+                "id": "ronithblario",
+                "points": 34,
+                "ship": "rz2awing",
+                "upgrades": {}
+            },
+            {
+                "id": "rey",
+                "points": 82,
+                "ship": "scavengedyt1300",
+                "upgrades": {
+                    "illicit": [
+                        "feedbackarray"
+                    ],
+                    "missile": [
+                        "homingmissiles"
+                    ],
+                    "modification": [
+                        "stealthdevice"
+                    ]
+                }
+            }
+        ],
+        "points": 195,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Resistance&d=v8ZsZ200Z297X125W312W165W175W177W171W98Y388XWWY244XW100WWWW94W166W&sn=Random%20Squad&obs="
+}

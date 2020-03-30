@@ -1,0 +1,66 @@
+{
+    "name": "therockercrocker",
+    "number": 1,
+    "xws": {
+        "faction": "scumandvillainy",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "crymorahgoon",
+                "points": 32,
+                "ship": "btla4ywing",
+                "upgrades": {
+                    "astromech": [
+                        "r5tk"
+                    ],
+                    "gunner": [
+                        "bt1"
+                    ]
+                }
+            },
+            {
+                "id": "landocalrissian-escapecraft",
+                "points": 31,
+                "ship": "escapecraft",
+                "upgrades": {
+                    "crew": [
+                        "qira"
+                    ]
+                }
+            },
+            {
+                "id": "ig88a",
+                "points": 80,
+                "ship": "aggressorassaultfighter",
+                "upgrades": {
+                    "device": [
+                        "ionbombs"
+                    ],
+                    "sensor": [
+                        "collisiondetector"
+                    ],
+                    "title": [
+                        "ig2000"
+                    ]
+                }
+            },
+            {
+                "id": "kavil",
+                "points": 54,
+                "ship": "btla4ywing",
+                "upgrades": {
+                    "device": [
+                        "proximitymines"
+                    ],
+                    "talent": [
+                        "lonewolf"
+                    ]
+                }
+            }
+        ],
+        "points": 197,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Scum%20and%20Villainy&d=v8ZsZ200Z88XWW79W9WWWY93XW55WY81XW112WWW317WWW151Y85X124WWWWW70WW&sn=Random%20Squad&obs="
+}

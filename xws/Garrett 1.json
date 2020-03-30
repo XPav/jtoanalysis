@@ -1,0 +1,62 @@
+{
+    "name": "Garrett",
+    "number": 1,
+    "xws": {
+        "faction": "galacticempire",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "lieutenantkestal",
+                "points": 51,
+                "ship": "tieagaggressor",
+                "upgrades": {
+                    "gunner": [
+                        "veteranturretgunner"
+                    ],
+                    "missile": [
+                        "homingmissiles"
+                    ],
+                    "turret": [
+                        "ioncannonturret"
+                    ]
+                }
+            },
+            {
+                "id": "sienarspecialist",
+                "points": 37,
+                "ship": "tieagaggressor",
+                "upgrades": {
+                    "missile": [
+                        "concussionmissiles"
+                    ],
+                    "modification": [
+                        "electronicbaffle"
+                    ],
+                    "turret": [
+                        "dorsalturret"
+                    ]
+                }
+            },
+            {
+                "id": "patrolleader",
+                "points": 70,
+                "ship": "vt49decimator",
+                "upgrades": {
+                    "modification": [
+                        "targetingcomputer"
+                    ]
+                }
+            },
+            {
+                "id": "lieutenantkarsabi",
+                "points": 37,
+                "ship": "alphaclassstarwing",
+                "upgrades": {}
+            }
+        ],
+        "points": 195,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Galactic%20Empire&d=v8ZsZ200Z187XW138WW100W90WY190X137WW99WW106Y216XWWWWWW249WY162XWWWWW&sn=Random%20Squad&obs="
+}

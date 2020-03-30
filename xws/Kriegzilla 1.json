@@ -1,0 +1,53 @@
+{
+    "name": "Kriegzilla",
+    "number": 1,
+    "xws": {
+        "faction": "galacticempire",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "tempestsquadronpilot",
+                "points": 49,
+                "ship": "tieadvancedx1",
+                "upgrades": {
+                    "missile": [
+                        "protonrockets"
+                    ],
+                    "sensor": [
+                        "trajectorysimulator"
+                    ]
+                }
+            },
+            {
+                "id": "vizier",
+                "points": 61,
+                "ship": "tiereaper",
+                "upgrades": {
+                    "crew": [
+                        "grandinquisitor"
+                    ],
+                    "modification": [
+                        "targetingcomputer"
+                    ]
+                }
+            },
+            {
+                "id": "rexlerbrath",
+                "points": 90,
+                "ship": "tieddefender",
+                "upgrades": {
+                    "missile": [
+                        "homingmissiles"
+                    ],
+                    "talent": [
+                        "trickshot"
+                    ]
+                }
+            }
+        ],
+        "points": 200,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Galactic%20Empire&d=v8ZsZ200Z178X114W102WY185X33WW249Y196X133WWW100&sn=Random%20Squad&obs="
+}

@@ -1,0 +1,64 @@
+{
+    "name": "Ellen",
+    "number": 1,
+    "xws": {
+        "faction": "scumandvillainy",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "zealousrecruit",
+                "points": 41,
+                "ship": "fangfighter",
+                "upgrades": {}
+            },
+            {
+                "id": "kavil",
+                "points": 55,
+                "ship": "btla4ywing",
+                "upgrades": {
+                    "gunner": [
+                        "greedo"
+                    ],
+                    "modification": [
+                        "afterburners"
+                    ],
+                    "turret": [
+                        "ioncannonturret"
+                    ]
+                }
+            },
+            {
+                "id": "ndrusuhlak",
+                "points": 30,
+                "ship": "z95af4headhunter",
+                "upgrades": {}
+            },
+            {
+                "id": "unkarplutt",
+                "points": 47,
+                "ship": "quadrijettransferspacetug",
+                "upgrades": {
+                    "device": [
+                        "ionbombs"
+                    ],
+                    "modification": [
+                        "afterburners"
+                    ],
+                    "tech": [
+                        "patternanalyzer"
+                    ]
+                }
+            },
+            {
+                "id": "blacksunsoldier",
+                "points": 24,
+                "ship": "z95af4headhunter",
+                "upgrades": {}
+            }
+        ],
+        "points": 197,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Scum%20and%20Villainy&d=v8ZsZ200Z102XY85XW138WW83WWWW105Y156XWWWY142X206WW317WW105Y158XWWW&sn=Random%20Squad&obs="
+}

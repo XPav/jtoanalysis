@@ -1,0 +1,63 @@
+{
+    "name": "viedit",
+    "number": 2,
+    "xws": {
+        "faction": "scumandvillainy",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "dacebonearm",
+                "points": 68,
+                "ship": "hwk290lightfreighter",
+                "upgrades": {
+                    "crew": [
+                        "landocalrissian-crew"
+                    ],
+                    "modification": [
+                        "targetingcomputer",
+                        "afterburners"
+                    ],
+                    "title": [
+                        "moldycrow"
+                    ]
+                }
+            },
+            {
+                "id": "lokrevenant",
+                "points": 58,
+                "ship": "scurrgh6bomber",
+                "upgrades": {
+                    "device": [
+                        "proximitymines"
+                    ],
+                    "title": [
+                        "havoc"
+                    ],
+                    "turret": [
+                        "ioncannonturret"
+                    ]
+                }
+            },
+            {
+                "id": "lattsrazzi",
+                "points": 72,
+                "ship": "yv666lightfreighter",
+                "upgrades": {
+                    "crew": [
+                        "chewbacca-crew"
+                    ],
+                    "gunner": [
+                        "dengar"
+                    ],
+                    "missile": [
+                        "clustermissiles"
+                    ]
+                }
+            }
+        ],
+        "points": 198,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Scum%20and%20Villainy&d=v8ZsZ200Z113XW45WWW249W105W156Y146X138WWWW70WW149WWY154XWW98WW22W80WWW&sn=Random%20Squad&obs="
+}

@@ -1,0 +1,66 @@
+{
+    "name": "Samuel Melhado",
+    "number": 2,
+    "xws": {
+        "faction": "galacticempire",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "cutlasssquadronpilot",
+                "points": 52,
+                "ship": "tiecapunisher",
+                "upgrades": {
+                    "device": [
+                        "connernets"
+                    ],
+                    "missile": [
+                        "ionmissiles"
+                    ],
+                    "sensor": [
+                        "collisiondetector"
+                    ]
+                }
+            },
+            {
+                "id": "nusquadronpilot",
+                "points": 32,
+                "ship": "alphaclassstarwing",
+                "upgrades": {
+                    "configuration": [
+                        "xg1assaultconfiguration"
+                    ]
+                }
+            },
+            {
+                "id": "doubleedge",
+                "points": 30,
+                "ship": "tieagaggressor",
+                "upgrades": {
+                    "talent": [
+                        "composure"
+                    ]
+                }
+            },
+            {
+                "id": "captainjonus",
+                "points": 51,
+                "ship": "tiesabomber",
+                "upgrades": {
+                    "missile": [
+                        "magpulsewarheads"
+                    ]
+                }
+            },
+            {
+                "id": "baronoftheempire",
+                "points": 30,
+                "ship": "tieadvancedv1",
+                "upgrades": {}
+            }
+        ],
+        "points": 195,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Galactic%20Empire&d=v8ZsZ200Z193X112WW101WWWW68WY164XWWWW144WY188X115WWWWWY203XWWW311WWWWY172XWW&sn=Random%20Squad&obs="
+}

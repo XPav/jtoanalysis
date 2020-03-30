@@ -1,0 +1,65 @@
+{
+    "name": "jamaljohar",
+    "number": 1,
+    "xws": {
+        "faction": "scumandvillainy",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "crymorahgoon",
+                "points": 44,
+                "ship": "btla4ywing",
+                "upgrades": {
+                    "device": [
+                        "clustermines"
+                    ],
+                    "torpedo": [
+                        "iontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "tansariipointveteran",
+                "points": 41,
+                "ship": "m3ainterceptor",
+                "upgrades": {
+                    "missile": [
+                        "protonrockets"
+                    ],
+                    "modification": [
+                        "electronicbaffle"
+                    ],
+                    "talent": [
+                        "fearless"
+                    ]
+                }
+            },
+            {
+                "id": "quinnjast",
+                "points": 39,
+                "ship": "m3ainterceptor",
+                "upgrades": {
+                    "talent": [
+                        "squadleader"
+                    ]
+                }
+            },
+            {
+                "id": "overseeryushyn",
+                "points": 26,
+                "ship": "modifiedtielnfighter",
+                "upgrades": {}
+            },
+            {
+                "id": "dalanoberos",
+                "points": 45,
+                "ship": "m12lkimogilafighter",
+                "upgrades": {}
+            }
+        ],
+        "points": 195,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Scum%20and%20Villainy&d=v8ZsZ200Z88XW135WWW316WWY136X121W106W102Y135X131WWY303XY130XWWWWW&sn=Random%20Squad&obs="
+}

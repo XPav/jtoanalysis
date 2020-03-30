@@ -1,0 +1,68 @@
+{
+    "name": "Frosticle",
+    "number": 1,
+    "xws": {
+        "faction": "rebelalliance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "ezrabridger",
+                "points": 53,
+                "ship": "attackshuttle",
+                "upgrades": {
+                    "force-power": [
+                        "heightenedperception"
+                    ],
+                    "modification": [
+                        "hullupgrade"
+                    ],
+                    "title": [
+                        "phantom"
+                    ],
+                    "turret": [
+                        "ioncannonturret"
+                    ]
+                }
+            },
+            {
+                "id": "zeborrelios-tielnfighter",
+                "points": 24,
+                "ship": "tielnfighter",
+                "upgrades": {}
+            },
+            {
+                "id": "ap5",
+                "points": 47,
+                "ship": "sheathipedeclassshuttle",
+                "upgrades": {
+                    "astromech": [
+                        "r3astromech"
+                    ],
+                    "crew": [
+                        "kananjarrus"
+                    ]
+                }
+            },
+            {
+                "id": "greensquadronpilot",
+                "points": 38,
+                "ship": "rz1awing",
+                "upgrades": {
+                    "missile": [
+                        "concussionmissiles"
+                    ]
+                }
+            },
+            {
+                "id": "kylekatarn",
+                "points": 34,
+                "ship": "hwk290lightfreighter",
+                "upgrades": {}
+            }
+        ],
+        "points": 196,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Rebel%20Alliance&d=v8ZsZ200Z67X72WW164W138W167Y15XY72XW41WW4WY52XWW99Y48XWWWWW&sn=Random%20Squad&obs="
+}

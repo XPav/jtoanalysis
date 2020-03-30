@@ -1,0 +1,55 @@
+{
+    "name": "AdamN",
+    "number": 1,
+    "xws": {
+        "faction": "scumandvillainy",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "laetinashera",
+                "points": 36,
+                "ship": "m3ainterceptor",
+                "upgrades": {
+                    "torpedo": [
+                        "iontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "kavil",
+                "points": 52,
+                "ship": "btla4ywing",
+                "upgrades": {
+                    "illicit": [
+                        "cloakingdevice"
+                    ],
+                    "turret": [
+                        "ioncannonturret"
+                    ]
+                }
+            },
+            {
+                "id": "l337-escapecraft",
+                "points": 26,
+                "ship": "escapecraft",
+                "upgrades": {}
+            },
+            {
+                "id": "bossk-z95af4headhunter",
+                "points": 29,
+                "ship": "z95af4headhunter",
+                "upgrades": {}
+            },
+            {
+                "id": "princexizor",
+                "points": 54,
+                "ship": "starviperclassattackplatform",
+                "upgrades": {}
+            }
+        ],
+        "points": 197,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Scum%20and%20Villainy&d=v8ZsZ200Z134XWW135Y85XW138WWWWW91WY95XWWY398XWWWY148XWWWW&sn=Random%20Squad&obs="
+}

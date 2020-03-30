@@ -1,0 +1,53 @@
+{
+    "name": "sycho",
+    "number": 1,
+    "xws": {
+        "faction": "firstorder",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "epsilonsquadroncadet",
+                "points": 34,
+                "ship": "tiefofighter",
+                "upgrades": {
+                    "tech": [
+                        "deuteriumpowercells"
+                    ]
+                }
+            },
+            {
+                "id": "recoil",
+                "points": 66,
+                "ship": "tievnsilencer",
+                "upgrades": {
+                    "torpedo": [
+                        "plasmatorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "omegasquadronexpert",
+                "points": 44,
+                "ship": "tiesffighter",
+                "upgrades": {
+                    "sensor": [
+                        "trajectorysimulator"
+                    ],
+                    "tech": [
+                        "advancedoptics"
+                    ]
+                }
+            },
+            {
+                "id": "avenger",
+                "points": 56,
+                "ship": "tievnsilencer",
+                "upgrades": {}
+            }
+        ],
+        "points": 200,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=First%20Order&d=v8ZsZ200Z269X318WY284XWW234WY285XW186WWW114WY283XWWW&sn=Random%20Squad&obs="
+}

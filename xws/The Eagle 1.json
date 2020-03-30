@@ -1,0 +1,65 @@
+{
+    "name": "The Eagle",
+    "number": 1,
+    "xws": {
+        "faction": "galacticempire",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "sabersquadronace",
+                "points": 36,
+                "ship": "tieininterceptor",
+                "upgrades": {}
+            },
+            {
+                "id": "tomaxbren",
+                "points": 55,
+                "ship": "tiesabomber",
+                "upgrades": {
+                    "device": [
+                        "connernets"
+                    ],
+                    "missile": [
+                        "protonrockets"
+                    ],
+                    "modification": [
+                        "afterburners"
+                    ],
+                    "talent": [
+                        "ruthless"
+                    ]
+                }
+            },
+            {
+                "id": "coloneljendon",
+                "points": 55,
+                "ship": "lambdaclasst4ashuttle",
+                "upgrades": {
+                    "cannon": [
+                        "autoblasters"
+                    ],
+                    "title": [
+                        "st321"
+                    ]
+                }
+            },
+            {
+                "id": "idenversio",
+                "points": 52,
+                "ship": "tielnfighter",
+                "upgrades": {
+                    "modification": [
+                        "shieldupgrade"
+                    ],
+                    "talent": [
+                        "elusive"
+                    ]
+                }
+            }
+        ],
+        "points": 198,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Galactic%20Empire&d=v8ZsZ200Z181XWWY205X128WW102WWW68WW105Y167XW232WWWW162Y218X119W165&sn=Random%20Squad&obs="
+}

@@ -1,0 +1,46 @@
+{
+    "name": "Magne",
+    "number": 1,
+    "xws": {
+        "faction": "firstorder",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "avenger",
+                "points": 68,
+                "ship": "tievnsilencer",
+                "upgrades": {
+                    "tech": [
+                        "targetingsynchronizer"
+                    ],
+                    "torpedo": [
+                        "advprotontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "rush",
+                "points": 57,
+                "ship": "tievnsilencer",
+                "upgrades": {}
+            },
+            {
+                "id": "majorvonreg",
+                "points": 70,
+                "ship": "tiebainterceptor",
+                "upgrades": {
+                    "missile": [
+                        "protonrockets"
+                    ],
+                    "tech": [
+                        "targetingsynchronizer"
+                    ]
+                }
+            }
+        ],
+        "points": 195,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=First%20Order&d=v8ZsZ200Z283XW177W134WY386XWWY381XW177W102W&sn=Random%20Squad&obs="
+}

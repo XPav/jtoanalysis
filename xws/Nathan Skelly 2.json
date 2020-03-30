@@ -1,0 +1,66 @@
+{
+    "name": "Nathan Skelly",
+    "number": 2,
+    "xws": {
+        "faction": "scumandvillainy",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "princexizor",
+                "points": 71,
+                "ship": "starviperclassattackplatform",
+                "upgrades": {
+                    "modification": [
+                        "stealthdevice"
+                    ],
+                    "torpedo": [
+                        "plasmatorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "landocalrissian-escapecraft",
+                "points": 30,
+                "ship": "escapecraft",
+                "upgrades": {
+                    "modification": [
+                        "delayedfuses"
+                    ]
+                }
+            },
+            {
+                "id": "ahhav",
+                "points": 38,
+                "ship": "modifiedtielnfighter",
+                "upgrades": {
+                    "modification": [
+                        "shieldupgrade"
+                    ]
+                }
+            },
+            {
+                "id": "dacebonearm",
+                "points": 60,
+                "ship": "hwk290lightfreighter",
+                "upgrades": {
+                    "crew": [
+                        "qira"
+                    ],
+                    "device": [
+                        "protonbombs"
+                    ],
+                    "modification": [
+                        "electronicbaffle"
+                    ],
+                    "title": [
+                        "moldycrow"
+                    ]
+                }
+            }
+        ],
+        "points": 199,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Scum%20and%20Villainy&d=v8ZsZ200Z148XWW234W166WY93XWW236Y249XW165Y113XW55W69WW106WW156&sn=Random%20Squad&obs="
+}

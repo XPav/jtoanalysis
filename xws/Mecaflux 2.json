@@ -1,0 +1,64 @@
+{
+    "name": "Mecaflux",
+    "number": 2,
+    "xws": {
+        "faction": "scumandvillainy",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "ig88c",
+                "points": 85,
+                "ship": "aggressorassaultfighter",
+                "upgrades": {
+                    "cannon": [
+                        "ioncannon"
+                    ],
+                    "device": [
+                        "clustermines"
+                    ],
+                    "sensor": [
+                        "passivesensors"
+                    ],
+                    "talent": [
+                        "elusive"
+                    ],
+                    "title": [
+                        "ig2000"
+                    ]
+                }
+            },
+            {
+                "id": "miningguildsurveyor",
+                "points": 26,
+                "ship": "modifiedtielnfighter",
+                "upgrades": {
+                    "talent": [
+                        "fearless"
+                    ]
+                }
+            },
+            {
+                "id": "blacksunsoldier",
+                "points": 24,
+                "ship": "z95af4headhunter",
+                "upgrades": {}
+            },
+            {
+                "id": "ndrusuhlak",
+                "points": 30,
+                "ship": "z95af4headhunter",
+                "upgrades": {}
+            },
+            {
+                "id": "ahhav",
+                "points": 30,
+                "ship": "modifiedtielnfighter",
+                "upgrades": {}
+            }
+        ],
+        "points": 195,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Scum%20and%20Villainy&d=v8ZsZ200Z83X119W240WW11W316WWW151Y248X121WY158XWWWY156XWWWY249XW&sn=Random%20Squad&obs="
+}

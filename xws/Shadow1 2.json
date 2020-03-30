@@ -1,0 +1,61 @@
+{
+    "name": "Shadow1",
+    "number": 2,
+    "xws": {
+        "faction": "scumandvillainy",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "blacksunsoldier",
+                "points": 24,
+                "ship": "z95af4headhunter",
+                "upgrades": {}
+            },
+            {
+                "id": "zuckuss",
+                "points": 54,
+                "ship": "g1astarfighter",
+                "upgrades": {
+                    "crew": [
+                        "bobafett"
+                    ],
+                    "illicit": [
+                        "riggedcargochute"
+                    ],
+                    "title": [
+                        "misthunter"
+                    ]
+                }
+            },
+            {
+                "id": "viktorhel",
+                "points": 50,
+                "ship": "kihraxzfighter",
+                "upgrades": {
+                    "illicit": [
+                        "deadmansswitch"
+                    ],
+                    "talent": [
+                        "debrisgambit"
+                    ]
+                }
+            },
+            {
+                "id": "captainjostero",
+                "points": 42,
+                "ship": "kihraxzfighter",
+                "upgrades": {}
+            },
+            {
+                "id": "kaatoleeachos",
+                "points": 27,
+                "ship": "z95af4headhunter",
+                "upgrades": {}
+            }
+        ],
+        "points": 197,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Scum%20and%20Villainy&d=v8ZsZ200Z158XWWWY110XWW16W96WW155WY121X118WWW93WWY122XWWWWY157XWWW&sn=Random%20Squad&obs="
+}

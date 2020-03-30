@@ -1,0 +1,60 @@
+{
+    "name": "Beattie",
+    "number": 2,
+    "xws": {
+        "faction": "rebelalliance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "goldsquadronveteran",
+                "points": 35,
+                "ship": "btla4ywing",
+                "upgrades": {
+                    "modification": [
+                        "hullupgrade"
+                    ]
+                }
+            },
+            {
+                "id": "norrawexley-btla4ywing",
+                "points": 43,
+                "ship": "btla4ywing",
+                "upgrades": {
+                    "astromech": [
+                        "chopper"
+                    ]
+                }
+            },
+            {
+                "id": "zeborrelios",
+                "points": 35,
+                "ship": "attackshuttle",
+                "upgrades": {
+                    "turret": [
+                        "dorsalturret"
+                    ]
+                }
+            },
+            {
+                "id": "hortonsalm",
+                "points": 43,
+                "ship": "btla4ywing",
+                "upgrades": {
+                    "device": [
+                        "proximitymines"
+                    ]
+                }
+            },
+            {
+                "id": "ezrabridger",
+                "points": 40,
+                "ship": "attackshuttle",
+                "upgrades": {}
+            }
+        ],
+        "points": 196,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Rebel%20Alliance&d=v8ZsZ200Z29XWWWW164WWY25XWWW0WWWY68XWW137WY26XWWWWW70WY67XWWWW&sn=Random%20Squad&obs="
+}

@@ -1,0 +1,59 @@
+{
+    "name": "flyersfors21",
+    "number": 1,
+    "xws": {
+        "faction": "galacticrepublic",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "anakinskywalker-nabooroyaln1starfighter",
+                "points": 63,
+                "ship": "nabooroyaln1starfighter",
+                "upgrades": {
+                    "astromech": [
+                        "c110p"
+                    ],
+                    "sensor": [
+                        "passivesensors"
+                    ],
+                    "talent": [
+                        "outmaneuver"
+                    ],
+                    "torpedo": [
+                        "iontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "naboohandmaiden",
+                "points": 51,
+                "ship": "nabooroyaln1starfighter",
+                "upgrades": {
+                    "torpedo": [
+                        "plasmatorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "r2d2",
+                "points": 35,
+                "ship": "btlbywing",
+                "upgrades": {}
+            },
+            {
+                "id": "macewindu",
+                "points": 50,
+                "ship": "delta7aethersprite",
+                "upgrades": {
+                    "astromech": [
+                        "r4p17"
+                    ]
+                }
+            }
+        ],
+        "points": 199,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Galactic%20Republic&d=v8ZsZ200Z322X126W240W252W135Y330XWW234Y362XWWWWWWY314XW214WW&sn=Random%20Squad&obs="
+}

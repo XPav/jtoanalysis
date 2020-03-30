@@ -1,0 +1,65 @@
+{
+    "name": "Magne",
+    "number": 2,
+    "xws": {
+        "faction": "separatistalliance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "countdooku",
+                "points": 109,
+                "ship": "sithinfiltrator",
+                "upgrades": {
+                    "cannon": [
+                        "ioncannon"
+                    ],
+                    "crew": [
+                        "gnkgonkdroid"
+                    ],
+                    "device": [
+                        "proximitymines"
+                    ],
+                    "force-power": [
+                        "predictiveshot"
+                    ],
+                    "modification": [
+                        "targetingcomputer"
+                    ],
+                    "tacticalrelay": [
+                        "kraken"
+                    ],
+                    "title": [
+                        "scimitar"
+                    ],
+                    "torpedo": [
+                        "advprotontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "skakoanace",
+                "points": 44,
+                "ship": "belbullab22starfighter",
+                "upgrades": {
+                    "talent": [
+                        "outmaneuver"
+                    ]
+                }
+            },
+            {
+                "id": "captainsear",
+                "points": 47,
+                "ship": "belbullab22starfighter",
+                "upgrades": {
+                    "modification": [
+                        "electronicbaffle"
+                    ]
+                }
+            }
+        ],
+        "points": 200,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Separatist%20Alliance&d=v8ZsZ200Z334X203W11W134WW32W70W249W216W222Y344X126WWWY308XW106W&sn=Random%20Squad&obs="
+}

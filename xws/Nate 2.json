@@ -1,0 +1,59 @@
+{
+    "name": "Nate",
+    "number": 2,
+    "xws": {
+        "faction": "rebelalliance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "mirandadoni",
+                "points": 65,
+                "ship": "btls8kwing",
+                "upgrades": {
+                    "crew": [
+                        "leiaorgana"
+                    ],
+                    "gunner": [
+                        "veteranturretgunner"
+                    ],
+                    "torpedo": [
+                        "iontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "corranhorn",
+                "points": 72,
+                "ship": "ewing",
+                "upgrades": {
+                    "talent": [
+                        "outmaneuver"
+                    ]
+                }
+            },
+            {
+                "id": "magvayarro",
+                "points": 63,
+                "ship": "ut60duwing",
+                "upgrades": {
+                    "configuration": [
+                        "pivotwing"
+                    ],
+                    "crew": [
+                        "k2so"
+                    ],
+                    "sensor": [
+                        "passivesensors"
+                    ],
+                    "talent": [
+                        "predator"
+                    ]
+                }
+            }
+        ],
+        "points": 200,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Rebel%20Alliance&d=v8ZsZ200Z17X135WWW90W46WWWY21X126WWWWY34X127W240WW314WW140W&sn=Random%20Squad&obs="
+}

@@ -1,0 +1,68 @@
+{
+    "name": "MrImagineer",
+    "number": 1,
+    "xws": {
+        "faction": "firstorder",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "zetasquadronsurvivor",
+                "points": 57,
+                "ship": "tiesffighter",
+                "upgrades": {
+                    "gunner": [
+                        "specialforcesgunner"
+                    ],
+                    "missile": [
+                        "homingmissiles"
+                    ],
+                    "sensor": [
+                        "advancedsensors"
+                    ]
+                }
+            },
+            {
+                "id": "quickdraw",
+                "points": 45,
+                "ship": "tiesffighter",
+                "upgrades": {}
+            },
+            {
+                "id": "zetasquadronsurvivor",
+                "points": 35,
+                "ship": "tiesffighter",
+                "upgrades": {
+                    "modification": [
+                        "munitionsfailsafe"
+                    ],
+                    "sensor": [
+                        "firecontrolsystem"
+                    ]
+                }
+            },
+            {
+                "id": "muse",
+                "points": 35,
+                "ship": "tiefofighter",
+                "upgrades": {
+                    "talent": [
+                        "crackshot"
+                    ],
+                    "tech": [
+                        "advancedoptics"
+                    ]
+                }
+            },
+            {
+                "id": "omegasquadronace",
+                "points": 28,
+                "ship": "tiefofighter",
+                "upgrades": {}
+            }
+        ],
+        "points": 200,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=First%20Order&d=v8ZsZ200Z259XW100W182W111WY243XWWWWWY259XWWW113W108Y235X116W186WY267XWW&sn=Random%20Squad&obs="
+}

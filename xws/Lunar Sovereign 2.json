@@ -1,0 +1,54 @@
+{
+    "name": "Lunar Sovereign",
+    "number": 2,
+    "xws": {
+        "faction": "resistance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "lieutenantbastian",
+                "points": 53,
+                "ship": "t70xwing",
+                "upgrades": {
+                    "configuration": [
+                        "integratedsfoils"
+                    ],
+                    "tech": [
+                        "targetingsynchronizer"
+                    ]
+                }
+            },
+            {
+                "id": "pammichnerrogoode",
+                "points": 46,
+                "ship": "resistancetransport",
+                "upgrades": {
+                    "crew": [
+                        "c3po-crew",
+                        "novicetechnician"
+                    ]
+                }
+            },
+            {
+                "id": "chewbacca-scavengedyt1300",
+                "points": 63,
+                "ship": "scavengedyt1300",
+                "upgrades": {}
+            },
+            {
+                "id": "logisticsdivisionpilot",
+                "points": 38,
+                "ship": "resistancetransport",
+                "upgrades": {
+                    "torpedo": [
+                        "advprotontorpedoes"
+                    ]
+                }
+            }
+        ],
+        "points": 200,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Resistance&d=v8ZsZ200Z254XWW175W177WWY347XWWW191W53WWY246XWWWWWWWY346XWW134WWWW&sn=Random%20Squad&obs="
+}

@@ -1,0 +1,69 @@
+{
+    "name": "Wurms",
+    "number": 2,
+    "xws": {
+        "faction": "galacticrepublic",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "axe",
+                "points": 38,
+                "ship": "v19torrentstarfighter",
+                "upgrades": {
+                    "missile": [
+                        "homingmissiles"
+                    ],
+                    "modification": [
+                        "munitionsfailsafe"
+                    ]
+                }
+            },
+            {
+                "id": "naboohandmaiden",
+                "points": 68,
+                "ship": "nabooroyaln1starfighter",
+                "upgrades": {
+                    "astromech": [
+                        "c110p"
+                    ],
+                    "sensor": [
+                        "trajectorysimulator"
+                    ],
+                    "torpedo": [
+                        "protontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "bluesquadronprotector",
+                "points": 39,
+                "ship": "v19torrentstarfighter",
+                "upgrades": {
+                    "missile": [
+                        "concussionmissiles"
+                    ],
+                    "modification": [
+                        "staticdischargevanes"
+                    ]
+                }
+            },
+            {
+                "id": "bravoflightofficer",
+                "points": 52,
+                "ship": "nabooroyaln1starfighter",
+                "upgrades": {
+                    "sensor": [
+                        "trajectorysimulator"
+                    ],
+                    "torpedo": [
+                        "protontorpedoes"
+                    ]
+                }
+            }
+        ],
+        "points": 197,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Galactic%20Republic&d=v8ZsZ200Z318XW100W108Y330X114W252W136Y320XW99W109Y323X114WW136&sn=Random%20Squad&obs="
+}
