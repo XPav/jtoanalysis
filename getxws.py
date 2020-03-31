@@ -31,7 +31,7 @@ def saverowtoxws( row ):
 
 
 # get all the XWS if we don't have them
-with open('responses.csv', 'r') as csvfile:
+with open('Jank Tank Open Squad Options - By Order Sign Up.csv', 'r') as csvfile:
     reader = csv.reader(csvfile, delimiter=',' )
     next(reader)
     for row in reader:
