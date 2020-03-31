@@ -10,7 +10,7 @@ I'm also not a data scientist so feel free to make fun of my wombo-combo of Pyth
 # Ideas
 ## Count useless points
 ### Force
-Instinctive Aim with no Special Attack
+* Instinctive Aim with no Special Attack
 
 ### Talent
 * Daredevil with no white boost
@@ -69,7 +69,7 @@ Instinctive Aim with no Special Attack
 * R3 with no Lock
 
 ### Illicit
-Intertial Dampers with no shields
+* Inertial Dampers with no shields
 
 ### Tactical Relay
 * Any tactical relay with no coordinate in the squad
