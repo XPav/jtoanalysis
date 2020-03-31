@@ -1,0 +1,55 @@
+{
+    "name": "Moof Milker",
+    "number": 1,
+    "xws": {
+        "faction": "rebelalliance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "zeborrelios",
+                "points": 41,
+                "ship": "attackshuttle",
+                "upgrades": {
+                    "crew": [
+                        "bazemalbus"
+                    ],
+                    "modification": [
+                        "shieldupgrade"
+                    ],
+                    "title": [
+                        "phantom"
+                    ]
+                }
+            },
+            {
+                "id": "norrawexley",
+                "points": 77,
+                "ship": "arc170starfighter",
+                "upgrades": {
+                    "astromech": [
+                        "r5d8"
+                    ],
+                    "crew": [
+                        "sawgerrera"
+                    ],
+                    "talent": [
+                        "crackshot"
+                    ],
+                    "torpedo": [
+                        "iontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "hansolo-modifiedyt1300lightfreighter",
+                "points": 80,
+                "ship": "modifiedyt1300lightfreighter",
+                "upgrades": {}
+            }
+        ],
+        "points": 198,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Rebel%20Alliance&d=v8ZsZ200Z68X17W165WW167Y77X116W135W58WW7WY42XWWWWWWW&sn=Random%20Squad&obs="
+}

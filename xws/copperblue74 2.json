@@ -1,0 +1,61 @@
+{
+    "name": "copperblue74",
+    "number": 2,
+    "xws": {
+        "faction": "rebelalliance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "ginamoonsong",
+                "points": 74,
+                "ship": "asf01bwing",
+                "upgrades": {
+                    "cannon": [
+                        "tractorbeam"
+                    ],
+                    "configuration": [
+                        "stabilizedsfoils"
+                    ],
+                    "sensor": [
+                        "advancedsensors"
+                    ],
+                    "torpedo": [
+                        "plasmatorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "dutchvander",
+                "points": 59,
+                "ship": "btla4ywing",
+                "upgrades": {
+                    "device": [
+                        "seismiccharges"
+                    ],
+                    "gunner": [
+                        "hotshotgunner"
+                    ],
+                    "torpedo": [
+                        "plasmatorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "bladesquadronveteran",
+                "points": 42,
+                "ship": "asf01bwing",
+                "upgrades": {}
+            },
+            {
+                "id": "talasquadronpilot",
+                "points": 24,
+                "ship": "z95af4headhunter",
+                "upgrades": {}
+            }
+        ],
+        "points": 199,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Rebel%20Alliance&d=v8ZsZ200Z391XW111WW13W234WW313Y27XWW234WWW71W86Y75XWWWWWWY56XWW&sn=Random%20Squad&obs="
+}

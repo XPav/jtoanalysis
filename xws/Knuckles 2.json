@@ -1,0 +1,63 @@
+{
+    "name": "Knuckles",
+    "number": 2,
+    "xws": {
+        "faction": "firstorder",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "recoil",
+                "points": 62,
+                "ship": "tievnsilencer",
+                "upgrades": {
+                    "missile": [
+                        "homingmissiles"
+                    ]
+                }
+            },
+            {
+                "id": "static",
+                "points": 49,
+                "ship": "tiefofighter",
+                "upgrades": {
+                    "modification": [
+                        "stealthdevice"
+                    ],
+                    "talent": [
+                        "juke"
+                    ],
+                    "tech": [
+                        "biohexacryptcodes"
+                    ]
+                }
+            },
+            {
+                "id": "omegasquadronexpert",
+                "points": 44,
+                "ship": "tiesffighter",
+                "upgrades": {
+                    "missile": [
+                        "protonrockets"
+                    ],
+                    "talent": [
+                        "intimidation"
+                    ]
+                }
+            },
+            {
+                "id": "lieutenantlehuse",
+                "points": 45,
+                "ship": "tiesffighter",
+                "upgrades": {
+                    "missile": [
+                        "concussionmissiles"
+                    ]
+                }
+            }
+        ],
+        "points": 200,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=First%20Order&d=v8ZsZ200Z284XWWW100Y264X123W202W166Y285X122WW102WWWY397XWW99WWW&sn=Random%20Squad&obs="
+}

@@ -1,0 +1,69 @@
+{
+    "name": "kengrory",
+    "number": 2,
+    "xws": {
+        "faction": "scumandvillainy",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "blacksunenforcer",
+                "points": 72,
+                "ship": "starviperclassattackplatform",
+                "upgrades": {
+                    "modification": [
+                        "afterburners",
+                        "munitionsfailsafe"
+                    ],
+                    "sensor": [
+                        "trajectorysimulator"
+                    ],
+                    "title": [
+                        "virago"
+                    ],
+                    "torpedo": [
+                        "advprotontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "solsixxa",
+                "points": 60,
+                "ship": "scurrgh6bomber",
+                "upgrades": {
+                    "astromech": [
+                        "genius"
+                    ],
+                    "device": [
+                        "connernets"
+                    ],
+                    "modification": [
+                        "stealthdevice"
+                    ],
+                    "title": [
+                        "havoc"
+                    ]
+                }
+            },
+            {
+                "id": "kaatoleeachos",
+                "points": 29,
+                "ship": "z95af4headhunter",
+                "upgrades": {
+                    "talent": [
+                        "experthandling"
+                    ]
+                }
+            },
+            {
+                "id": "cartelmarauder",
+                "points": 38,
+                "ship": "kihraxzfighter",
+                "upgrades": {}
+            }
+        ],
+        "points": 199,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Scum%20and%20Villainy&d=v8ZsZ200Z151X114W134W105W163W108Y145XWWWWW68W166W149WW1Y157X120WWWY124XWWWW&sn=Random%20Squad&obs="
+}

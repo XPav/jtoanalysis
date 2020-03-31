@@ -1,0 +1,72 @@
+{
+    "name": "bulegar",
+    "number": 1,
+    "xws": {
+        "faction": "galacticrepublic",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "bluesquadronprotector",
+                "points": 35,
+                "ship": "v19torrentstarfighter",
+                "upgrades": {
+                    "modification": [
+                        "hullupgrade"
+                    ],
+                    "talent": [
+                        "swarmtactics"
+                    ]
+                }
+            },
+            {
+                "id": "jag",
+                "points": 73,
+                "ship": "arc170starfighter",
+                "upgrades": {
+                    "astromech": [
+                        "r4pastromech"
+                    ],
+                    "crew": [
+                        "gnkgonkdroid"
+                    ],
+                    "modification": [
+                        "tacticalscrambler"
+                    ],
+                    "torpedo": [
+                        "plasmatorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "swoop",
+                "points": 36,
+                "ship": "v19torrentstarfighter",
+                "upgrades": {
+                    "missile": [
+                        "ionmissiles"
+                    ],
+                    "talent": [
+                        "marksmanship"
+                    ]
+                }
+            },
+            {
+                "id": "naboohandmaiden",
+                "points": 54,
+                "ship": "nabooroyaln1starfighter",
+                "upgrades": {
+                    "astromech": [
+                        "r2a6"
+                    ],
+                    "sensor": [
+                        "collisiondetector"
+                    ]
+                }
+            }
+        ],
+        "points": 198,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Galactic%20Republic&d=v8ZsZ200Z320X132WW164Y339X234W32WW213W110Y317X125W101WY330X112W241W&sn=Random%20Squad&obs="
+}

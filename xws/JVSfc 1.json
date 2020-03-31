@@ -1,0 +1,62 @@
+{
+    "name": "JVSfc",
+    "number": 1,
+    "xws": {
+        "faction": "rebelalliance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "lieutenantblount",
+                "points": 38,
+                "ship": "z95af4headhunter",
+                "upgrades": {
+                    "modification": [
+                        "afterburners"
+                    ],
+                    "talent": [
+                        "predator"
+                    ]
+                }
+            },
+            {
+                "id": "gavindarklighter",
+                "points": 72,
+                "ship": "ewing",
+                "upgrades": {
+                    "sensor": [
+                        "advancedsensors"
+                    ],
+                    "talent": [
+                        "composure"
+                    ]
+                }
+            },
+            {
+                "id": "ezrabridger-tielnfighter",
+                "points": 31,
+                "ship": "tielnfighter",
+                "upgrades": {}
+            },
+            {
+                "id": "garvendreis-t65xwing",
+                "points": 54,
+                "ship": "t65xwing",
+                "upgrades": {
+                    "configuration": [
+                        "servomotorsfoils"
+                    ],
+                    "talent": [
+                        "crackshot"
+                    ],
+                    "torpedo": [
+                        "advprotontorpedoes"
+                    ]
+                }
+            }
+        ],
+        "points": 195,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Rebel%20Alliance&d=v8ZsZ200Z55X127WW105Y22X115W111WWWY14XWY6X116W134WWW142&sn=Random%20Squad&obs="
+}

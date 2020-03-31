@@ -1,0 +1,83 @@
+{
+    "name": "Alaedar",
+    "number": 2,
+    "xws": {
+        "faction": "scumandvillainy",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "solsixxa",
+                "points": 80,
+                "ship": "scurrgh6bomber",
+                "upgrades": {
+                    "astromech": [
+                        "r3astromech"
+                    ],
+                    "device": [
+                        "protonbombs"
+                    ],
+                    "gunner": [
+                        "bt1"
+                    ],
+                    "modification": [
+                        "shieldupgrade"
+                    ],
+                    "sensor": [
+                        "advancedsensors"
+                    ],
+                    "talent": [
+                        "elusive"
+                    ],
+                    "title": [
+                        "havoc"
+                    ],
+                    "turret": [
+                        "ioncannonturret"
+                    ]
+                }
+            },
+            {
+                "id": "kaatoleeachos",
+                "points": 42,
+                "ship": "z95af4headhunter",
+                "upgrades": {
+                    "illicit": [
+                        "cloakingdevice"
+                    ],
+                    "missile": [
+                        "concussionmissiles"
+                    ],
+                    "modification": [
+                        "angleddeflectors"
+                    ],
+                    "talent": [
+                        "predator"
+                    ]
+                }
+            },
+            {
+                "id": "l337-escapecraft",
+                "points": 26,
+                "ship": "escapecraft",
+                "upgrades": {}
+            },
+            {
+                "id": "zuckuss",
+                "points": 49,
+                "ship": "g1astarfighter",
+                "upgrades": {
+                    "talent": [
+                        "fearless"
+                    ],
+                    "title": [
+                        "misthunter"
+                    ]
+                }
+            }
+        ],
+        "points": 197,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Scum%20and%20Villainy&d=v8ZsZ200Z145X119W138WW79W69WW165W149W111W4Y157X127W99W91W247Y95XWWY110X121WWWWW155W&sn=Random%20Squad&obs="
+}

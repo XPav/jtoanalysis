@@ -1,0 +1,57 @@
+{
+    "name": "Will",
+    "number": 1,
+    "xws": {
+        "faction": "galacticempire",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "deltasquadronpilot",
+                "points": 72,
+                "ship": "tieddefender",
+                "upgrades": {
+                    "missile": [
+                        "homingmissiles"
+                    ]
+                }
+            },
+            {
+                "id": "puresabacc",
+                "points": 48,
+                "ship": "tieskstriker",
+                "upgrades": {
+                    "device": [
+                        "seismiccharges"
+                    ],
+                    "talent": [
+                        "ruthless"
+                    ]
+                }
+            },
+            {
+                "id": "lieutenantkestal",
+                "points": 36,
+                "ship": "tieagaggressor",
+                "upgrades": {
+                    "missile": [
+                        "homingmissiles"
+                    ]
+                }
+            },
+            {
+                "id": "alphasquadronpilot",
+                "points": 39,
+                "ship": "tieininterceptor",
+                "upgrades": {
+                    "modification": [
+                        "stealthdevice"
+                    ]
+                }
+            }
+        ],
+        "points": 195,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Galactic%20Empire&d=v8ZsZ200Z198XWW100Y210X128WW71WY187XWWW100WWY182X166W&sn=Random%20Squad&obs="
+}

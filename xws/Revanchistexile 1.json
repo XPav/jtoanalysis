@@ -1,0 +1,56 @@
+{
+    "name": "Revanchistexile",
+    "number": 1,
+    "xws": {
+        "faction": "firstorder",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "recoil",
+                "points": 65,
+                "ship": "tievnsilencer",
+                "upgrades": {
+                    "missile": [
+                        "homingmissiles"
+                    ],
+                    "talent": [
+                        "intimidation"
+                    ]
+                }
+            },
+            {
+                "id": "longshot",
+                "points": 33,
+                "ship": "tiefofighter",
+                "upgrades": {
+                    "talent": [
+                        "proudtradition"
+                    ]
+                }
+            },
+            {
+                "id": "sienarjaemusengineer",
+                "points": 63,
+                "ship": "tievnsilencer",
+                "upgrades": {
+                    "missile": [
+                        "magpulsewarheads"
+                    ],
+                    "torpedo": [
+                        "iontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "backdraft",
+                "points": 39,
+                "ship": "tiesffighter",
+                "upgrades": {}
+            }
+        ],
+        "points": 200,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=First%20Order&d=v8ZsZ200Z284X122WWW100Y263X319WWY286XW135W311Y242XWWWWW&sn=Random%20Squad&obs="
+}

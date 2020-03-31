@@ -1,0 +1,58 @@
+{
+    "name": "Jared M Paul",
+    "number": 2,
+    "xws": {
+        "faction": "rebelalliance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "ezrabridger-sheathipedeclassshuttle",
+                "points": 58,
+                "ship": "sheathipedeclassshuttle",
+                "upgrades": {
+                    "astromech": [
+                        "r2astromech"
+                    ],
+                    "crew": [
+                        "chewbacca"
+                    ],
+                    "force-power": [
+                        "sense"
+                    ]
+                }
+            },
+            {
+                "id": "phoenixsquadronpilot",
+                "points": 33,
+                "ship": "rz1awing",
+                "upgrades": {
+                    "missile": [
+                        "ionmissiles"
+                    ]
+                }
+            },
+            {
+                "id": "bladesquadronveteran",
+                "points": 42,
+                "ship": "asf01bwing",
+                "upgrades": {}
+            },
+            {
+                "id": "lieutenantblount",
+                "points": 30,
+                "ship": "z95af4headhunter",
+                "upgrades": {}
+            },
+            {
+                "id": "kylekatarn",
+                "points": 34,
+                "ship": "hwk290lightfreighter",
+                "upgrades": {}
+            }
+        ],
+        "points": 197,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Rebel%20Alliance&d=v8ZsZ200Z70X75W21WW2WY53XW101Y75XWWWWWWY55XWWY48XWWWWW&sn=Random%20Squad&obs="
+}

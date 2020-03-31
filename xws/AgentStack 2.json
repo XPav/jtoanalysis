@@ -1,0 +1,51 @@
+{
+    "name": "AgentStack",
+    "number": 2,
+    "xws": {
+        "faction": "scumandvillainy",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "crymorahgoon",
+                "points": 60,
+                "ship": "btla4ywing",
+                "upgrades": {
+                    "astromech": [
+                        "genius"
+                    ],
+                    "device": [
+                        "electroprotonbomb"
+                    ],
+                    "gunner": [
+                        "hotshotgunner"
+                    ],
+                    "torpedo": [
+                        "plasmatorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "ig88b",
+                "points": 63,
+                "ship": "aggressorassaultfighter",
+                "upgrades": {}
+            },
+            {
+                "id": "jakkugunrunner",
+                "points": 30,
+                "ship": "quadrijettransferspacetug",
+                "upgrades": {}
+            },
+            {
+                "id": "teltrevura",
+                "points": 44,
+                "ship": "jumpmaster5000",
+                "upgrades": {}
+            }
+        ],
+        "points": 197,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Scum%20and%20Villainy&d=v8ZsZ200Z88XW234W86W1W235WWY82XWWWWWWWY143XWWWWY116XWWWWWWW&sn=Random%20Squad&obs="
+}

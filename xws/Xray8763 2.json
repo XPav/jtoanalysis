@@ -1,0 +1,60 @@
+{
+    "name": "Xray8763",
+    "number": 2,
+    "xws": {
+        "faction": "scumandvillainy",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "skullsquadronpilot",
+                "points": 48,
+                "ship": "fangfighter",
+                "upgrades": {
+                    "talent": [
+                        "marksmanship"
+                    ]
+                }
+            },
+            {
+                "id": "moraloeval",
+                "points": 75,
+                "ship": "yv666lightfreighter",
+                "upgrades": {
+                    "cannon": [
+                        "heavylasercannon"
+                    ],
+                    "illicit": [
+                        "inertialdampeners"
+                    ]
+                }
+            },
+            {
+                "id": "ahhav",
+                "points": 36,
+                "ship": "modifiedtielnfighter",
+                "upgrades": {
+                    "modification": [
+                        "afterburners"
+                    ]
+                }
+            },
+            {
+                "id": "ndrusuhlak",
+                "points": 38,
+                "ship": "z95af4headhunter",
+                "upgrades": {
+                    "missile": [
+                        "concussionmissiles"
+                    ],
+                    "modification": [
+                        "electronicbaffle"
+                    ]
+                }
+            }
+        ],
+        "points": 197,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Scum%20and%20Villainy&d=v8ZsZ200Z101X125WY152XW10WWWWW95WWY249XW105Y156XW99WW106&sn=Random%20Squad&obs="
+}

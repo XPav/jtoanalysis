@@ -1,0 +1,66 @@
+{
+    "name": "JamaicanLumberjack",
+    "number": 2,
+    "xws": {
+        "faction": "galacticempire",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "duchess",
+                "points": 47,
+                "ship": "tieskstriker",
+                "upgrades": {
+                    "modification": [
+                        "munitionsfailsafe"
+                    ],
+                    "talent": [
+                        "trickshot"
+                    ]
+                }
+            },
+            {
+                "id": "grandinquisitor",
+                "points": 67,
+                "ship": "tieadvancedv1",
+                "upgrades": {
+                    "force-power": [
+                        "foresight"
+                    ],
+                    "missile": [
+                        "clustermissiles"
+                    ],
+                    "sensor": [
+                        "trajectorysimulator"
+                    ]
+                }
+            },
+            {
+                "id": "lieutenantsai",
+                "points": 83,
+                "ship": "lambdaclasst4ashuttle",
+                "upgrades": {
+                    "cannon": [
+                        "heavylasercannon"
+                    ],
+                    "crew": [
+                        "agentkallus",
+                        "gnkgonkdroid"
+                    ],
+                    "modification": [
+                        "staticdischargevanes"
+                    ],
+                    "sensor": [
+                        "trajectorysimulator"
+                    ],
+                    "title": [
+                        "st321"
+                    ]
+                }
+            }
+        ],
+        "points": 197,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Galactic%20Empire&d=v8ZsZ200Z211X133WWW108Y169X251W114W98Y166X114W10W15W32W109W162&sn=Random%20Squad&obs="
+}

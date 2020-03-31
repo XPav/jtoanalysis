@@ -1,0 +1,64 @@
+{
+    "name": "Denicol",
+    "number": 2,
+    "xws": {
+        "faction": "galacticempire",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "doubleedge",
+                "points": 35,
+                "ship": "tieagaggressor",
+                "upgrades": {
+                    "missile": [
+                        "ionmissiles"
+                    ],
+                    "talent": [
+                        "predator"
+                    ]
+                }
+            },
+            {
+                "id": "captainkagi",
+                "points": 72,
+                "ship": "lambdaclasst4ashuttle",
+                "upgrades": {
+                    "crew": [
+                        "informant",
+                        "darthvader"
+                    ],
+                    "modification": [
+                        "munitionsfailsafe"
+                    ],
+                    "title": [
+                        "st321"
+                    ]
+                }
+            },
+            {
+                "id": "onyxsquadronscout",
+                "points": 36,
+                "ship": "tieagaggressor",
+                "upgrades": {
+                    "missile": [
+                        "barragerockets"
+                    ]
+                }
+            },
+            {
+                "id": "captainjonus",
+                "points": 52,
+                "ship": "tiesabomber",
+                "upgrades": {
+                    "missile": [
+                        "protonrockets"
+                    ]
+                }
+            }
+        ],
+        "points": 195,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Galactic%20Empire&d=v8ZsZ200Z188X127WW101WWWY165XWW37W26W108W162Y189XWW97WWWY203XWW102WWWWW&sn=Random%20Squad&obs="
+}

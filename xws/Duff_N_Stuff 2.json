@@ -1,0 +1,84 @@
+{
+    "name": "Duff_N_Stuff",
+    "number": 2,
+    "xws": {
+        "faction": "resistance",
+        "name": "Unsaved Squadron",
+        "pilots": [
+            {
+                "id": "covanell",
+                "points": 74,
+                "ship": "resistancetransport",
+                "upgrades": {
+                    "astromech": [
+                        "r5x3"
+                    ],
+                    "cannon": [
+                        "heavylasercannon"
+                    ],
+                    "crew": [
+                        "c3po-crew"
+                    ],
+                    "modification": [
+                        "angleddeflectors"
+                    ],
+                    "talent": [
+                        "outmaneuver"
+                    ],
+                    "tech": [
+                        "primedthrusters"
+                    ]
+                }
+            },
+            {
+                "id": "kazudaxiono",
+                "points": 54,
+                "ship": "fireball",
+                "upgrades": {
+                    "missile": [
+                        "protonrockets"
+                    ],
+                    "modification": [
+                        "electronicbaffle",
+                        "munitionsfailsafe"
+                    ],
+                    "talent": [
+                        "predator"
+                    ],
+                    "title": [
+                        "kazsfireball"
+                    ]
+                }
+            },
+            {
+                "id": "blacksquadronace-t70xwing",
+                "points": 67,
+                "ship": "t70xwing",
+                "upgrades": {
+                    "astromech": [
+                        "m9g8"
+                    ],
+                    "cannon": [
+                        "tractorbeam"
+                    ],
+                    "configuration": [
+                        "integratedsfoils"
+                    ],
+                    "modification": [
+                        "staticdischargevanes"
+                    ],
+                    "talent": [
+                        "daredevil"
+                    ],
+                    "title": [
+                        "blackone"
+                    ]
+                }
+            }
+        ],
+        "points": 195,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Resistance&d=v8ZsZ200Z351X126W178W10WW191WW205W247Y378X127W102WWW106W108W315Y256X117W197W109W175WW171W13&sn=Unsaved%20Squadron&obs="
+}

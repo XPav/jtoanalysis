@@ -1,0 +1,65 @@
+{
+    "name": "Revanchistexile",
+    "number": 2,
+    "xws": {
+        "faction": "rebelalliance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "bladesquadronveteran",
+                "points": 58,
+                "ship": "asf01bwing",
+                "upgrades": {
+                    "configuration": [
+                        "stabilizedsfoils"
+                    ],
+                    "modification": [
+                        "afterburners"
+                    ],
+                    "sensor": [
+                        "firecontrolsystem"
+                    ],
+                    "torpedo": [
+                        "iontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "benthictwotubes",
+                "points": 48,
+                "ship": "ut60duwing",
+                "upgrades": {
+                    "configuration": [
+                        "pivotwing"
+                    ],
+                    "illicit": [
+                        "deadmansswitch"
+                    ]
+                }
+            },
+            {
+                "id": "lieutenantblount",
+                "points": 30,
+                "ship": "z95af4headhunter",
+                "upgrades": {}
+            },
+            {
+                "id": "ginamoonsong",
+                "points": 63,
+                "ship": "asf01bwing",
+                "upgrades": {
+                    "cannon": [
+                        "ioncannon"
+                    ],
+                    "talent": [
+                        "snapshot"
+                    ]
+                }
+            }
+        ],
+        "points": 199,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Rebel%20Alliance&d=v8ZsZ200Z75XW113WWW135W105W313Y36X93WWWWW140Y55XWWY391X256WW11WWWW&sn=Random%20Squad&obs="
+}

@@ -1,0 +1,63 @@
+{
+    "name": "steffen",
+    "number": 1,
+    "xws": {
+        "faction": "galacticempire",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "majorvynder",
+                "points": 72,
+                "ship": "alphaclassstarwing",
+                "upgrades": {
+                    "configuration": [
+                        "xg1assaultconfiguration"
+                    ],
+                    "missile": [
+                        "protonrockets"
+                    ],
+                    "modification": [
+                        "electronicbaffle"
+                    ],
+                    "sensor": [
+                        "collisiondetector"
+                    ],
+                    "talent": [
+                        "swarmtactics"
+                    ],
+                    "torpedo": [
+                        "protontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "vizier",
+                "points": 66,
+                "ship": "tiereaper",
+                "upgrades": {
+                    "crew": [
+                        "perceptivecopilot",
+                        "admiralsloane"
+                    ],
+                    "modification": [
+                        "stealthdevice"
+                    ]
+                }
+            },
+            {
+                "id": "whisper",
+                "points": 60,
+                "ship": "tiephphantom",
+                "upgrades": {
+                    "talent": [
+                        "elusive"
+                    ]
+                }
+            }
+        ],
+        "points": 198,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Galactic%20Empire&d=v8ZsZ200Z161X132W112W136W102W106W144WY185X54W14W166Y199X119WWW&sn=Random%20Squad&obs="
+}

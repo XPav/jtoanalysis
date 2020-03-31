@@ -1,0 +1,68 @@
+{
+    "name": "Franch",
+    "number": 2,
+    "xws": {
+        "faction": "resistance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "redsquadronexpert",
+                "points": 55,
+                "ship": "t70xwing",
+                "upgrades": {
+                    "cannon": [
+                        "ioncannon"
+                    ],
+                    "configuration": [
+                        "integratedsfoils"
+                    ],
+                    "tech": [
+                        "patternanalyzer"
+                    ]
+                }
+            },
+            {
+                "id": "bb8",
+                "points": 31,
+                "ship": "resistancetransportpod",
+                "upgrades": {
+                    "tech": [
+                        "patternanalyzer"
+                    ]
+                }
+            },
+            {
+                "id": "pammichnerrogoode",
+                "points": 53,
+                "ship": "resistancetransport",
+                "upgrades": {
+                    "crew": [
+                        "seasonednavigator"
+                    ],
+                    "modification": [
+                        "staticdischargevanes"
+                    ],
+                    "torpedo": [
+                        "iontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "r1j5",
+                "points": 29,
+                "ship": "fireball",
+                "upgrades": {}
+            },
+            {
+                "id": "logisticsdivisionpilot",
+                "points": 32,
+                "ship": "resistancetransport",
+                "upgrades": {}
+            }
+        ],
+        "points": 200,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Resistance&d=v8ZsZ200Z257XWWW175W206WW11Y349XW206WWY347XWW135WW59WW109Y379XWWWWWY346XWWWWWW&sn=Random%20Squad&obs="
+}

@@ -1,0 +1,68 @@
+{
+    "name": "JamaicanLumberjack",
+    "number": 1,
+    "xws": {
+        "faction": "separatistalliance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "separatistbomber",
+                "points": 39,
+                "ship": "hyenaclassdroidbomber",
+                "upgrades": {
+                    "missile": [
+                        "clustermissiles"
+                    ],
+                    "torpedo": [
+                        "advprotontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "066",
+                "points": 81,
+                "ship": "sithinfiltrator",
+                "upgrades": {
+                    "cannon": [
+                        "tractorbeam"
+                    ],
+                    "device": [
+                        "seismiccharges"
+                    ],
+                    "modification": [
+                        "ablativeplating"
+                    ],
+                    "tacticalrelay": [
+                        "ta175"
+                    ],
+                    "talent": [
+                        "swarmtactics"
+                    ],
+                    "torpedo": [
+                        "iontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "chertek",
+                "points": 39,
+                "ship": "nantexclassstarfighter",
+                "upgrades": {}
+            },
+            {
+                "id": "dbs404",
+                "points": 36,
+                "ship": "hyenaclassdroidbomber",
+                "upgrades": {
+                    "device": [
+                        "proximitymines"
+                    ]
+                }
+            }
+        ],
+        "points": 195,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Separatist%20Alliance&d=v8ZsZ200Z327X134W98WWWY335X132W13W135WWW71W103WW239Y356XWY326XWW70WW&sn=Random%20Squad&obs="
+}

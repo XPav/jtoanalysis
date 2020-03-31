@@ -1,0 +1,56 @@
+{
+    "name": "TonyC (Extended)",
+    "number": 2,
+    "xws": {
+        "faction": "galacticrepublic",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "anakinskywalker",
+                "points": 72,
+                "ship": "delta7aethersprite",
+                "upgrades": {
+                    "astromech": [
+                        "r2c4"
+                    ],
+                    "configuration": [
+                        "calibratedlasertargeting"
+                    ]
+                }
+            },
+            {
+                "id": "padmeamidala",
+                "points": 46,
+                "ship": "nabooroyaln1starfighter",
+                "upgrades": {
+                    "talent": [
+                        "marksmanship"
+                    ]
+                }
+            },
+            {
+                "id": "goldsquadrontrooper",
+                "points": 25,
+                "ship": "v19torrentstarfighter",
+                "upgrades": {}
+            },
+            {
+                "id": "matchstick",
+                "points": 52,
+                "ship": "btlbywing",
+                "upgrades": {
+                    "device": [
+                        "proximitymines"
+                    ],
+                    "talent": [
+                        "intimidation"
+                    ]
+                }
+            }
+        ],
+        "points": 195,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Galactic%20Republic&d=v8ZsZ200Z273XW233W200WY332X125WWWY321XWY365X122WWWWW70W&sn=Random%20Squad&obs="
+}

@@ -1,0 +1,70 @@
+{
+    "name": "brittoncarr",
+    "number": 2,
+    "xws": {
+        "faction": "separatistalliance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "petranakiarenaace",
+                "points": 48,
+                "ship": "nantexclassstarfighter",
+                "upgrades": {
+                    "talent": [
+                        "squadleader"
+                    ]
+                }
+            },
+            {
+                "id": "separatistbomber",
+                "points": 49,
+                "ship": "hyenaclassdroidbomber",
+                "upgrades": {
+                    "missile": [
+                        "protonrockets"
+                    ],
+                    "modification": [
+                        "munitionsfailsafe"
+                    ],
+                    "torpedo": [
+                        "protontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "precisehunter",
+                "points": 29,
+                "ship": "vultureclassdroidfighter",
+                "upgrades": {
+                    "modification": [
+                        "afterburners"
+                    ]
+                }
+            },
+            {
+                "id": "dfs081",
+                "points": 31,
+                "ship": "vultureclassdroidfighter",
+                "upgrades": {
+                    "missile": [
+                        "energyshellcharges"
+                    ]
+                }
+            },
+            {
+                "id": "petranakiarenaace",
+                "points": 42,
+                "ship": "nantexclassstarfighter",
+                "upgrades": {
+                    "talent": [
+                        "trickshot"
+                    ]
+                }
+            }
+        ],
+        "points": 199,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Separatist%20Alliance&d=v8ZsZ200Z354XW131Y327X136W102WW108WY309XWW105Y311X209WWY354X133W&sn=Random%20Squad&obs="
+}

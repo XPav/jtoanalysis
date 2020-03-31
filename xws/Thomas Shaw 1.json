@@ -1,0 +1,74 @@
+{
+    "name": "Thomas Shaw",
+    "number": 1,
+    "xws": {
+        "faction": "scumandvillainy",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "dalanoberos",
+                "points": 59,
+                "ship": "m12lkimogilafighter",
+                "upgrades": {
+                    "illicit": [
+                        "contrabandcybernetics"
+                    ],
+                    "missile": [
+                        "clustermissiles"
+                    ],
+                    "talent": [
+                        "composure"
+                    ],
+                    "torpedo": [
+                        "iontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "lokrevenant",
+                "points": 57,
+                "ship": "scurrgh6bomber",
+                "upgrades": {
+                    "device": [
+                        "bombletgenerator"
+                    ],
+                    "title": [
+                        "havoc"
+                    ],
+                    "turret": [
+                        "ioncannonturret"
+                    ]
+                }
+            },
+            {
+                "id": "l337-escapecraft",
+                "points": 32,
+                "ship": "escapecraft",
+                "upgrades": {
+                    "crew": [
+                        "4lom"
+                    ],
+                    "talent": [
+                        "trickshot"
+                    ]
+                }
+            },
+            {
+                "id": "binayrepirate",
+                "points": 22,
+                "ship": "z95af4headhunter",
+                "upgrades": {}
+            },
+            {
+                "id": "outerrimpioneer",
+                "points": 28,
+                "ship": "escapecraft",
+                "upgrades": {}
+            }
+        ],
+        "points": 198,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Scum%20and%20Villainy&d=v8ZsZ200Z130X115W135W98WW92WY146X138WWWW67WW149WWY95X133W31WY159XWWY94XWW&sn=Random%20Squad&obs="
+}

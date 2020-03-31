@@ -1,0 +1,61 @@
+{
+    "name": "Jeremy Wilson",
+    "number": 1,
+    "xws": {
+        "faction": "firstorder",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "omegasquadronexpert",
+                "points": 55,
+                "ship": "tiesffighter",
+                "upgrades": {
+                    "gunner": [
+                        "hotshotgunner"
+                    ],
+                    "missile": [
+                        "ionmissiles"
+                    ],
+                    "sensor": [
+                        "passivesensors"
+                    ],
+                    "talent": [
+                        "marksmanship"
+                    ],
+                    "tech": [
+                        "targetingsynchronizer"
+                    ]
+                }
+            },
+            {
+                "id": "lieutenanttavson",
+                "points": 72,
+                "ship": "upsilonclasscommandshuttle",
+                "upgrades": {
+                    "crew": [
+                        "freelanceslicer"
+                    ],
+                    "tech": [
+                        "patternanalyzer"
+                    ]
+                }
+            },
+            {
+                "id": "midnight",
+                "points": 42,
+                "ship": "tiefofighter",
+                "upgrades": {}
+            },
+            {
+                "id": "zetasquadronpilot",
+                "points": 26,
+                "ship": "tiefofighter",
+                "upgrades": {}
+            }
+        ],
+        "points": 195,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=First%20Order&d=v8ZsZ200Z285X125W177W101W86W240WY289X206WWW30WWWWY233XWWY268XW&sn=Random%20Squad&obs="
+}

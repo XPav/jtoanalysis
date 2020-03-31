@@ -1,0 +1,52 @@
+{
+    "name": "Khaaannn",
+    "number": 2,
+    "xws": {
+        "faction": "galacticrepublic",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "anakinskywalker-btlbywing",
+                "points": 74,
+                "ship": "btlbywing",
+                "upgrades": {
+                    "astromech": [
+                        "r4p17"
+                    ],
+                    "torpedo": [
+                        "iontorpedoes"
+                    ],
+                    "turret": [
+                        "dorsalturret"
+                    ]
+                }
+            },
+            {
+                "id": "barrissoffee",
+                "points": 38,
+                "ship": "delta7aethersprite",
+                "upgrades": {}
+            },
+            {
+                "id": "plokoon",
+                "points": 52,
+                "ship": "delta7aethersprite",
+                "upgrades": {
+                    "modification": [
+                        "stealthdevice"
+                    ]
+                }
+            },
+            {
+                "id": "oddball",
+                "points": 34,
+                "ship": "v19torrentstarfighter",
+                "upgrades": {}
+            }
+        ],
+        "points": 198,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Galactic%20Republic&d=v8ZsZ200Z359XW137W135WW214WWY275XWWWY312XWWW166Y316XWW&sn=Random%20Squad&obs="
+}

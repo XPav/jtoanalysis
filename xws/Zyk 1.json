@@ -1,0 +1,56 @@
+{
+    "name": "Zyk",
+    "number": 1,
+    "xws": {
+        "faction": "firstorder",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "pettyofficerthanisson",
+                "points": 91,
+                "ship": "upsilonclasscommandshuttle",
+                "upgrades": {
+                    "crew": [
+                        "captainphasma",
+                        "kyloren",
+                        "seasonednavigator"
+                    ],
+                    "modification": [
+                        "electronicbaffle"
+                    ],
+                    "sensor": [
+                        "collisiondetector"
+                    ],
+                    "tech": [
+                        "advancedoptics",
+                        "biohexacryptcodes"
+                    ]
+                }
+            },
+            {
+                "id": "firstorderprovocateur",
+                "points": 47,
+                "ship": "tiebainterceptor",
+                "upgrades": {
+                    "talent": [
+                        "fanatical"
+                    ]
+                }
+            },
+            {
+                "id": "holo",
+                "points": 59,
+                "ship": "tiebainterceptor",
+                "upgrades": {
+                    "missile": [
+                        "homingmissiles"
+                    ]
+                }
+            }
+        ],
+        "points": 197,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=First%20Order&d=v8ZsZ200Z281X186W202W183W179W59WW112W106Y384X181WWWY382XWW100W&sn=Random%20Squad&obs="
+}

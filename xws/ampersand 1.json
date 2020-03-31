@@ -1,0 +1,56 @@
+{
+    "name": "ampersand",
+    "number": 1,
+    "xws": {
+        "faction": "rebelalliance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "herasyndulla",
+                "points": 52,
+                "ship": "attackshuttle",
+                "upgrades": {
+                    "crew": [
+                        "perceptivecopilot"
+                    ],
+                    "talent": [
+                        "composure"
+                    ],
+                    "turret": [
+                        "ioncannonturret"
+                    ]
+                }
+            },
+            {
+                "id": "lothalrebel",
+                "points": 101,
+                "ship": "vcx100lightfreighter",
+                "upgrades": {
+                    "crew": [
+                        "seasonednavigator",
+                        "gnkgonkdroid"
+                    ],
+                    "gunner": [
+                        "hansolo"
+                    ],
+                    "modification": [
+                        "staticdischargevanes"
+                    ],
+                    "title": [
+                        "ghost"
+                    ]
+                }
+            },
+            {
+                "id": "ezrabridger-sheathipedeclassshuttle",
+                "points": 42,
+                "ship": "sheathipedeclassshuttle",
+                "upgrades": {}
+            }
+        ],
+        "points": 195,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Rebel%20Alliance&d=v8ZsZ200Z65X115W54WW138WY64XWWW59W32W109W84W148Y70XWWWW&sn=Random%20Squad&obs="
+}

@@ -1,0 +1,59 @@
+{
+    "name": "Thomas Shaw",
+    "number": 2,
+    "xws": {
+        "faction": "resistance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "chewbacca-scavengedyt1300",
+                "points": 87,
+                "ship": "scavengedyt1300",
+                "upgrades": {
+                    "crew": [
+                        "pz4co",
+                        "hansolo-crew"
+                    ],
+                    "illicit": [
+                        "deadmansswitch"
+                    ],
+                    "missile": [
+                        "protonrockets"
+                    ],
+                    "modification": [
+                        "munitionsfailsafe"
+                    ],
+                    "talent": [
+                        "trickshot"
+                    ]
+                }
+            },
+            {
+                "id": "finn",
+                "points": 29,
+                "ship": "resistancetransportpod",
+                "upgrades": {}
+            },
+            {
+                "id": "poedameron",
+                "points": 79,
+                "ship": "t70xwing",
+                "upgrades": {
+                    "configuration": [
+                        "integratedsfoils"
+                    ],
+                    "modification": [
+                        "staticdischargevanes"
+                    ],
+                    "tech": [
+                        "patternanalyzer"
+                    ]
+                }
+            }
+        ],
+        "points": 195,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Resistance&d=v8ZsZ200Z246X133W102W246W192WW93W108WY350XWWWY231XWW109W175W206WW&sn=Random%20Squad&obs="
+}

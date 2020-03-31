@@ -1,0 +1,59 @@
+{
+    "name": "Brett",
+    "number": 1,
+    "xws": {
+        "faction": "galacticrepublic",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "104thbattalionpilot",
+                "points": 45,
+                "ship": "arc170starfighter",
+                "upgrades": {
+                    "crew": [
+                        "freelanceslicer"
+                    ]
+                }
+            },
+            {
+                "id": "jediknight",
+                "points": 57,
+                "ship": "delta7aethersprite",
+                "upgrades": {
+                    "configuration": [
+                        "delta7b"
+                    ],
+                    "force-power": [
+                        "heightenedperception"
+                    ]
+                }
+            },
+            {
+                "id": "padmeamidala",
+                "points": 61,
+                "ship": "nabooroyaln1starfighter",
+                "upgrades": {
+                    "astromech": [
+                        "r4pastromech"
+                    ],
+                    "sensor": [
+                        "trajectorysimulator"
+                    ],
+                    "torpedo": [
+                        "advprotontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "kickback",
+                "points": 33,
+                "ship": "v19torrentstarfighter",
+                "upgrades": {}
+            }
+        ],
+        "points": 196,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Galactic%20Republic&d=v8ZsZ200Z341XW30WWWY277X72WW201WY332XW114W213W134Y315XWW&sn=Random%20Squad&obs="
+}

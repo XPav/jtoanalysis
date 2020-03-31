@@ -1,0 +1,56 @@
+{
+    "name": "ExAce",
+    "number": 1,
+    "xws": {
+        "faction": "firstorder",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "holo",
+                "points": 65,
+                "ship": "tiebainterceptor",
+                "upgrades": {
+                    "modification": [
+                        "delayedfuses"
+                    ],
+                    "talent": [
+                        "debrisgambit"
+                    ],
+                    "tech": [
+                        "targetingsynchronizer"
+                    ]
+                }
+            },
+            {
+                "id": "ember",
+                "points": 61,
+                "ship": "tiebainterceptor",
+                "upgrades": {
+                    "talent": [
+                        "debrisgambit"
+                    ],
+                    "tech": [
+                        "patternanalyzer"
+                    ]
+                }
+            },
+            {
+                "id": "majorvonreg",
+                "points": 71,
+                "ship": "tiebainterceptor",
+                "upgrades": {
+                    "missile": [
+                        "concussionmissiles"
+                    ],
+                    "modification": [
+                        "shieldupgrade"
+                    ]
+                }
+            }
+        ],
+        "points": 197,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=First%20Order&d=v8ZsZ200Z382X118W177WW236Y383X118W206WWY381XWW99W165&sn=Random%20Squad&obs="
+}

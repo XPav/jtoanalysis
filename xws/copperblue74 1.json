@@ -1,0 +1,59 @@
+{
+    "name": "copperblue74",
+    "number": 1,
+    "xws": {
+        "faction": "galacticempire",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "blacksquadronscout",
+                "points": 36,
+                "ship": "tieskstriker",
+                "upgrades": {
+                    "modification": [
+                        "delayedfuses"
+                    ],
+                    "talent": [
+                        "ruthless"
+                    ]
+                }
+            },
+            {
+                "id": "nusquadronpilot",
+                "points": 54,
+                "ship": "alphaclassstarwing",
+                "upgrades": {
+                    "configuration": [
+                        "os1arsenalloadout"
+                    ],
+                    "torpedo": [
+                        "plasmatorpedoes",
+                        "protontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "alphasquadronpilot",
+                "points": 31,
+                "ship": "tieininterceptor",
+                "upgrades": {}
+            },
+            {
+                "id": "gammasquadronace",
+                "points": 30,
+                "ship": "tiesabomber",
+                "upgrades": {}
+            },
+            {
+                "id": "captainferoph",
+                "points": 47,
+                "ship": "tiereaper",
+                "upgrades": {}
+            }
+        ],
+        "points": 198,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Galactic%20Empire&d=v8ZsZ200Z212X128WWW236Y164XW234WWW139W136WY182XWY207XWWWWWWWY184XWWW&sn=Random%20Squad&obs="
+}

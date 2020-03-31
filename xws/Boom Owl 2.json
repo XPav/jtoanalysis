@@ -1,0 +1,69 @@
+{
+    "name": "Boom Owl",
+    "number": 2,
+    "xws": {
+        "faction": "resistance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "logisticsdivisionpilot",
+                "points": 47,
+                "ship": "resistancetransport",
+                "upgrades": {
+                    "modification": [
+                        "delayedfuses"
+                    ],
+                    "tech": [
+                        "patternanalyzer"
+                    ],
+                    "torpedo": [
+                        "plasmatorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "bb8",
+                "points": 37,
+                "ship": "resistancetransportpod",
+                "upgrades": {
+                    "modification": [
+                        "afterburners"
+                    ],
+                    "tech": [
+                        "patternanalyzer"
+                    ]
+                }
+            },
+            {
+                "id": "lieutenantbastian",
+                "points": 47,
+                "ship": "t70xwing",
+                "upgrades": {
+                    "configuration": [
+                        "integratedsfoils"
+                    ]
+                }
+            },
+            {
+                "id": "cobaltsquadronbomber",
+                "points": 66,
+                "ship": "mg100starfortress",
+                "upgrades": {
+                    "crew": [
+                        "pz4co"
+                    ],
+                    "gunner": [
+                        "skilledbombardier"
+                    ],
+                    "sensor": [
+                        "trajectorysimulator"
+                    ]
+                }
+            }
+        ],
+        "points": 197,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Resistance&d=v8ZsZ200Z346X206WW234WWWW236Y349XW206WW105Y254XWW175WWWY260X114WW246W88WWWW&sn=Random%20Squad&obs="
+}

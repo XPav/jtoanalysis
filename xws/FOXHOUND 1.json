@@ -1,0 +1,60 @@
+{
+    "name": "FOXHOUND",
+    "number": 1,
+    "xws": {
+        "faction": "firstorder",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "captainphasma",
+                "points": 47,
+                "ship": "tiesffighter",
+                "upgrades": {
+                    "modification": [
+                        "munitionsfailsafe"
+                    ],
+                    "talent": [
+                        "juke"
+                    ]
+                }
+            },
+            {
+                "id": "omegasquadronexpert",
+                "points": 39,
+                "ship": "tiesffighter",
+                "upgrades": {
+                    "tech": [
+                        "patternanalyzer"
+                    ]
+                }
+            },
+            {
+                "id": "midnight",
+                "points": 53,
+                "ship": "tiefofighter",
+                "upgrades": {
+                    "talent": [
+                        "lonewolf"
+                    ],
+                    "tech": [
+                        "targetingsynchronizer"
+                    ]
+                }
+            },
+            {
+                "id": "sienarjaemusengineer",
+                "points": 56,
+                "ship": "tievnsilencer",
+                "upgrades": {
+                    "tech": [
+                        "primedthrusters"
+                    ]
+                }
+            }
+        ],
+        "points": 195,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=First%20Order&d=v8ZsZ200Z385X123WWWWW108Y285XW206WWWWY233X124W177WY286X178WW&sn=Random%20Squad&obs="
+}

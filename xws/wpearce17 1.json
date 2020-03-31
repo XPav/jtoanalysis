@@ -1,0 +1,56 @@
+{
+    "name": "wpearce17",
+    "number": 1,
+    "xws": {
+        "faction": "resistance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "greersonnel",
+                "points": 52,
+                "ship": "rz2awing",
+                "upgrades": {
+                    "missile": [
+                        "magpulsewarheads"
+                    ],
+                    "talent": [
+                        "squadleader"
+                    ]
+                }
+            },
+            {
+                "id": "jophseastriker",
+                "points": 52,
+                "ship": "t70xwing",
+                "upgrades": {
+                    "configuration": [
+                        "integratedsfoils"
+                    ],
+                    "modification": [
+                        "munitionsfailsafe"
+                    ]
+                }
+            },
+            {
+                "id": "bb8",
+                "points": 29,
+                "ship": "resistancetransportpod",
+                "upgrades": {
+                    "crew": [
+                        "freelanceslicer"
+                    ]
+                }
+            },
+            {
+                "id": "hansolo-scavengedyt1300",
+                "points": 65,
+                "ship": "scavengedyt1300",
+                "upgrades": {}
+            }
+        ],
+        "points": 198,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Resistance&d=v8ZsZ200Z270X131WW311WY253XWW108W175WWWY349XWW30WY245XWWWWWWW&sn=Random%20Squad&obs="
+}

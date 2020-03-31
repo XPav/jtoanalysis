@@ -1,0 +1,59 @@
+{
+    "name": "ChopsNZ",
+    "number": 1,
+    "xws": {
+        "faction": "rebelalliance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "sharabey",
+                "points": 82,
+                "ship": "arc170starfighter",
+                "upgrades": {
+                    "astromech": [
+                        "r5d8"
+                    ],
+                    "crew": [
+                        "freelanceslicer"
+                    ],
+                    "gunner": [
+                        "ezrabridger"
+                    ],
+                    "torpedo": [
+                        "plasmatorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "gavindarklighter",
+                "points": 70,
+                "ship": "ewing",
+                "upgrades": {
+                    "modification": [
+                        "angleddeflectors"
+                    ],
+                    "sensor": [
+                        "collisiondetector"
+                    ]
+                }
+            },
+            {
+                "id": "hortonsalm",
+                "points": 44,
+                "ship": "btla4ywing",
+                "upgrades": {
+                    "gunner": [
+                        "skilledbombardier"
+                    ],
+                    "turret": [
+                        "ioncannonturret"
+                    ]
+                }
+            }
+        ],
+        "points": 196,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Rebel%20Alliance&d=v8ZsZ200Z78XW234W30W81W7WY22XW112WWW247Y26XW138WWWWW88&sn=Random%20Squad&obs="
+}

@@ -1,0 +1,46 @@
+{
+    "name": "Beautifulleif",
+    "number": 2,
+    "xws": {
+        "faction": "galacticrepublic",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "plokoon",
+                "points": 63,
+                "ship": "delta7aethersprite",
+                "upgrades": {
+                    "configuration": [
+                        "delta7b"
+                    ]
+                }
+            },
+            {
+                "id": "jediknight",
+                "points": 37,
+                "ship": "delta7aethersprite",
+                "upgrades": {}
+            },
+            {
+                "id": "sinker",
+                "points": 62,
+                "ship": "arc170starfighter",
+                "upgrades": {
+                    "crew": [
+                        "perceptivecopilot"
+                    ]
+                }
+            },
+            {
+                "id": "dineeellberger",
+                "points": 38,
+                "ship": "nabooroyaln1starfighter",
+                "upgrades": {}
+            }
+        ],
+        "points": 200,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Galactic%20Republic&d=v8ZsZ200Z312XWW201WY277XWWWY280XW54WWWY331XWWW&sn=Random%20Squad&obs="
+}

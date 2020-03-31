@@ -1,0 +1,68 @@
+{
+    "name": "Red Squad Bench Warmer",
+    "number": 2,
+    "xws": {
+        "faction": "rebelalliance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "kullbeesperado",
+                "points": 55,
+                "ship": "t65xwing",
+                "upgrades": {
+                    "astromech": [
+                        "r4astromech"
+                    ],
+                    "configuration": [
+                        "servomotorsfoils"
+                    ],
+                    "modification": [
+                        "delayedfuses"
+                    ],
+                    "talent": [
+                        "outmaneuver"
+                    ]
+                }
+            },
+            {
+                "id": "sharabey",
+                "points": 82,
+                "ship": "arc170starfighter",
+                "upgrades": {
+                    "astromech": [
+                        "r2astromech"
+                    ],
+                    "crew": [
+                        "kananjarrus"
+                    ],
+                    "talent": [
+                        "predator"
+                    ],
+                    "torpedo": [
+                        "protontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "kylekatarn",
+                "points": 59,
+                "ship": "hwk290lightfreighter",
+                "upgrades": {
+                    "device": [
+                        "connernets"
+                    ],
+                    "talent": [
+                        "composure"
+                    ],
+                    "title": [
+                        "moldycrow"
+                    ]
+                }
+            }
+        ],
+        "points": 196,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Rebel%20Alliance&d=v8ZsZ200Z12XW126WW5W236W142Y78X127W136W41WW2WY48X115W68WWWW156&sn=Random%20Squad&obs="
+}

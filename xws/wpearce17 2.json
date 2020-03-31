@@ -1,0 +1,53 @@
+{
+    "name": "wpearce17",
+    "number": 2,
+    "xws": {
+        "faction": "scumandvillainy",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "talonbanecobra",
+                "points": 57,
+                "ship": "kihraxzfighter",
+                "upgrades": {
+                    "missile": [
+                        "magpulsewarheads"
+                    ],
+                    "modification": [
+                        "munitionsfailsafe"
+                    ]
+                }
+            },
+            {
+                "id": "krassistrelix",
+                "points": 90,
+                "ship": "firesprayclasspatrolcraft",
+                "upgrades": {
+                    "crew": [
+                        "maul"
+                    ],
+                    "device": [
+                        "connernets"
+                    ],
+                    "missile": [
+                        "protonrockets"
+                    ]
+                }
+            },
+            {
+                "id": "lokrevenant",
+                "points": 53,
+                "ship": "scurrgh6bomber",
+                "upgrades": {
+                    "gunner": [
+                        "agilegunner"
+                    ]
+                }
+            }
+        ],
+        "points": 200,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Scum%20and%20Villainy&d=v8ZsZ200Z119XW311WWWW108Y107XWW102W48W68WWWY146XWW76WWWW&sn=Random%20Squad&obs="
+}

@@ -1,0 +1,45 @@
+{
+    "name": "Mad Chemist",
+    "number": 2,
+    "xws": {
+        "faction": "galacticempire",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "countessryad",
+                "points": 82,
+                "ship": "tieddefender",
+                "upgrades": {}
+            },
+            {
+                "id": "tomaxbren",
+                "points": 43,
+                "ship": "tiesabomber",
+                "upgrades": {
+                    "device": [
+                        "seismiccharges"
+                    ],
+                    "modification": [
+                        "hullupgrade"
+                    ]
+                }
+            },
+            {
+                "id": "countdown",
+                "points": 44,
+                "ship": "tieskstriker",
+                "upgrades": {}
+            },
+            {
+                "id": "wampa",
+                "points": 29,
+                "ship": "tielnfighter",
+                "upgrades": {}
+            }
+        ],
+        "points": 198,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Galactic%20Empire&d=v8ZsZ200Z195XWWWY205XWWWWWW71W164Y209XWWWY221X&sn=Random%20Squad&obs="
+}

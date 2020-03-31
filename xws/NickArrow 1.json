@@ -1,0 +1,65 @@
+{
+    "name": "NickArrow",
+    "number": 1,
+    "xws": {
+        "faction": "resistance",
+        "name": "Unsaved Squadron",
+        "pilots": [
+            {
+                "id": "logisticsdivisionpilot",
+                "points": 55,
+                "ship": "resistancetransport",
+                "upgrades": {
+                    "astromech": [
+                        "r2astromech"
+                    ],
+                    "cannon": [
+                        "autoblasters"
+                    ],
+                    "tech": [
+                        "ferrospherepaint"
+                    ],
+                    "torpedo": [
+                        "plasmatorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "paigetico",
+                "points": 73,
+                "ship": "mg100starfortress",
+                "upgrades": {
+                    "device": [
+                        "ionbombs"
+                    ],
+                    "modification": [
+                        "munitionsfailsafe"
+                    ],
+                    "tech": [
+                        "ferrospherepaint"
+                    ]
+                }
+            },
+            {
+                "id": "nodinchavdri",
+                "points": 36,
+                "ship": "resistancetransport",
+                "upgrades": {}
+            },
+            {
+                "id": "vimoradi",
+                "points": 31,
+                "ship": "resistancetransportpod",
+                "upgrades": {
+                    "tech": [
+                        "advancedoptics"
+                    ]
+                }
+            }
+        ],
+        "points": 195,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Resistance&d=v8ZsZ200Z346X198W232W234WWW2WY389XWW198WWWW317WW108Y352XWWWWWWY348X186WW&sn=Unsaved%20Squadron&obs=&fbclid=IwAR2_mCL0eB9cyejKPejhHkUU32yLqylxgwe36E1d-Waa4oOk1wB9P_9C70U"
+}

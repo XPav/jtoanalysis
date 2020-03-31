@@ -1,0 +1,75 @@
+{
+    "name": "throwdownhorton",
+    "number": 1,
+    "xws": {
+        "faction": "galacticrepublic",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "naboohandmaiden",
+                "points": 44,
+                "ship": "nabooroyaln1starfighter",
+                "upgrades": {
+                    "sensor": [
+                        "firecontrolsystem"
+                    ]
+                }
+            },
+            {
+                "id": "r2d2",
+                "points": 51,
+                "ship": "btlbywing",
+                "upgrades": {
+                    "crew": [
+                        "freelanceslicer"
+                    ],
+                    "device": [
+                        "seismiccharges"
+                    ],
+                    "talent": [
+                        "marksmanship"
+                    ],
+                    "torpedo": [
+                        "plasmatorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "shadowsquadronveteran",
+                "points": 65,
+                "ship": "btlbywing",
+                "upgrades": {
+                    "astromech": [
+                        "r5astromech"
+                    ],
+                    "gunner": [
+                        "hotshotgunner"
+                    ],
+                    "talent": [
+                        "debrisgambit"
+                    ],
+                    "torpedo": [
+                        "protontorpedoes"
+                    ],
+                    "turret": [
+                        "ioncannonturret"
+                    ]
+                }
+            },
+            {
+                "id": "bravoflightofficer",
+                "points": 39,
+                "ship": "nabooroyaln1starfighter",
+                "upgrades": {
+                    "torpedo": [
+                        "iontorpedoes"
+                    ]
+                }
+            }
+        ],
+        "points": 199,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Galactic%20Republic&d=v8ZsZ200Z330X113WWY362X125WW234WW30W71WY360X118W138W136W86W6WWY323XWW135&sn=Random%20Squad&obs="
+}

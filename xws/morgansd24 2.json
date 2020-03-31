@@ -1,0 +1,72 @@
+{
+    "name": "morgansd24",
+    "number": 2,
+    "xws": {
+        "faction": "scumandvillainy",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "ig88d",
+                "points": 78,
+                "ship": "aggressorassaultfighter",
+                "upgrades": {
+                    "cannon": [
+                        "autoblasters"
+                    ],
+                    "illicit": [
+                        "feedbackarray"
+                    ],
+                    "modification": [
+                        "targetingcomputer"
+                    ],
+                    "talent": [
+                        "lonewolf"
+                    ],
+                    "title": [
+                        "ig2000"
+                    ]
+                }
+            },
+            {
+                "id": "outerrimpioneer",
+                "points": 34,
+                "ship": "escapecraft",
+                "upgrades": {
+                    "crew": [
+                        "unkarplutt"
+                    ],
+                    "talent": [
+                        "trickshot"
+                    ]
+                }
+            },
+            {
+                "id": "bossk-z95af4headhunter",
+                "points": 34,
+                "ship": "z95af4headhunter",
+                "upgrades": {
+                    "missile": [
+                        "homingmissiles"
+                    ]
+                }
+            },
+            {
+                "id": "dalanoberos",
+                "points": 52,
+                "ship": "m12lkimogilafighter",
+                "upgrades": {
+                    "astromech": [
+                        "r5astromech"
+                    ],
+                    "modification": [
+                        "targetingcomputer"
+                    ]
+                }
+            }
+        ],
+        "points": 198,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Scum%20and%20Villainy&d=v8ZsZ200Z84X124WW232WWW94W249W151Y94X133W64WY398XW100WWY130XWWW6WW249&sn=Random%20Squad&obs="
+}

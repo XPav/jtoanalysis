@@ -1,0 +1,62 @@
+{
+    "name": "Boom Owl",
+    "number": 1,
+    "xws": {
+        "faction": "firstorder",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "lieutenantlehuse",
+                "points": 62,
+                "ship": "tiesffighter",
+                "upgrades": {
+                    "gunner": [
+                        "specialforcesgunner"
+                    ],
+                    "modification": [
+                        "staticdischargevanes"
+                    ],
+                    "sensor": [
+                        "passivesensors"
+                    ],
+                    "tech": [
+                        "advancedoptics"
+                    ]
+                }
+            },
+            {
+                "id": "backdraft",
+                "points": 65,
+                "ship": "tiesffighter",
+                "upgrades": {
+                    "gunner": [
+                        "agilegunner"
+                    ],
+                    "missile": [
+                        "concussionmissiles"
+                    ],
+                    "modification": [
+                        "staticdischargevanes"
+                    ],
+                    "sensor": [
+                        "trajectorysimulator"
+                    ]
+                }
+            },
+            {
+                "id": "lieutenanttavson",
+                "points": 69,
+                "ship": "upsilonclasscommandshuttle",
+                "upgrades": {
+                    "crew": [
+                        "captainphasma"
+                    ]
+                }
+            }
+        ],
+        "points": 196,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=First%20Order&d=v8ZsZ200Z397XW186WW182W240W109Y242XWW99W76W114W109Y289XWWWW183WWW&sn=Random%20Squad&obs="
+}

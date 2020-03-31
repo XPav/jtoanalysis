@@ -1,0 +1,68 @@
+{
+    "name": "Beautifulleif",
+    "number": 1,
+    "xws": {
+        "faction": "rebelalliance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "kullbeesperado",
+                "points": 54,
+                "ship": "t65xwing",
+                "upgrades": {
+                    "configuration": [
+                        "servomotorsfoils"
+                    ],
+                    "modification": [
+                        "hullupgrade"
+                    ],
+                    "talent": [
+                        "intimidation"
+                    ]
+                }
+            },
+            {
+                "id": "braylenstramm",
+                "points": 65,
+                "ship": "asf01bwing",
+                "upgrades": {
+                    "cannon": [
+                        "jammingbeam"
+                    ],
+                    "configuration": [
+                        "stabilizedsfoils"
+                    ],
+                    "talent": [
+                        "lonewolf"
+                    ],
+                    "torpedo": [
+                        "iontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "ezrabridger",
+                "points": 47,
+                "ship": "attackshuttle",
+                "upgrades": {
+                    "force-power": [
+                        "instinctiveaim"
+                    ],
+                    "modification": [
+                        "stealthdevice"
+                    ]
+                }
+            },
+            {
+                "id": "phoenixsquadronpilot",
+                "points": 29,
+                "ship": "rz1awing",
+                "upgrades": {}
+            }
+        ],
+        "points": 195,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Rebel%20Alliance&d=v8ZsZ200Z12XW122WWW164W142Y73X124WWW12W135WW313Y67X73WW166WWY53XW&sn=Random%20Squad&obs="
+}

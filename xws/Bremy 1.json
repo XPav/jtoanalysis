@@ -1,0 +1,48 @@
+{
+    "name": "Bremy",
+    "number": 1,
+    "xws": {
+        "faction": "resistance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "karekun",
+                "points": 70,
+                "ship": "t70xwing",
+                "upgrades": {
+                    "astromech": [
+                        "bb8"
+                    ],
+                    "configuration": [
+                        "integratedsfoils"
+                    ],
+                    "modification": [
+                        "electronicbaffle"
+                    ],
+                    "talent": [
+                        "juke"
+                    ],
+                    "tech": [
+                        "advancedoptics"
+                    ]
+                }
+            },
+            {
+                "id": "resistancesympathizer",
+                "points": 60,
+                "ship": "scavengedyt1300",
+                "upgrades": {}
+            },
+            {
+                "id": "rey",
+                "points": 70,
+                "ship": "scavengedyt1300",
+                "upgrades": {}
+            }
+        ],
+        "points": 200,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Resistance&d=v8ZsZ200Z252X123W195W106W175W186WWY295XWWWWWWY244XWWWWWWW&sn=Random%20Squad&obs="
+}

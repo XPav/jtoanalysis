@@ -1,0 +1,65 @@
+{
+    "name": "DurAlvar",
+    "number": 2,
+    "xws": {
+        "faction": "firstorder",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "commandermalarus",
+                "points": 38,
+                "ship": "tiefofighter",
+                "upgrades": {}
+            },
+            {
+                "id": "zetasquadronsurvivor",
+                "points": 65,
+                "ship": "tiesffighter",
+                "upgrades": {
+                    "gunner": [
+                        "specialforcesgunner"
+                    ],
+                    "missile": [
+                        "concussionmissiles"
+                    ],
+                    "modification": [
+                        "staticdischargevanes"
+                    ],
+                    "sensor": [
+                        "trajectorysimulator"
+                    ],
+                    "tech": [
+                        "patternanalyzer"
+                    ]
+                }
+            },
+            {
+                "id": "holo",
+                "points": 62,
+                "ship": "tiebainterceptor",
+                "upgrades": {
+                    "missile": [
+                        "magpulsewarheads"
+                    ],
+                    "talent": [
+                        "daredevil"
+                    ]
+                }
+            },
+            {
+                "id": "epsilonsquadroncadet",
+                "points": 31,
+                "ship": "tiefofighter",
+                "upgrades": {
+                    "tech": [
+                        "targetingsynchronizer"
+                    ]
+                }
+            }
+        ],
+        "points": 196,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=First%20Order&d=v8ZsZ200Z266XWWY259X206W99W182W114W109Y382X117WW311WY269X177W&sn=Random%20Squad&obs="
+}

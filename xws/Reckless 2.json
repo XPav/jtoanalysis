@@ -1,0 +1,62 @@
+{
+    "name": "Reckless",
+    "number": 2,
+    "xws": {
+        "faction": "separatistalliance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "dfs311",
+                "points": 33,
+                "ship": "vultureclassdroidfighter",
+                "upgrades": {
+                    "missile": [
+                        "ionmissiles"
+                    ],
+                    "modification": [
+                        "afterburners"
+                    ]
+                }
+            },
+            {
+                "id": "technounionbomber",
+                "points": 31,
+                "ship": "hyenaclassdroidbomber",
+                "upgrades": {
+                    "configuration": [
+                        "landingstruts"
+                    ],
+                    "missile": [
+                        "energyshellcharges"
+                    ]
+                }
+            },
+            {
+                "id": "chertek",
+                "points": 39,
+                "ship": "nantexclassstarfighter",
+                "upgrades": {}
+            },
+            {
+                "id": "dbs404",
+                "points": 43,
+                "ship": "hyenaclassdroidbomber",
+                "upgrades": {
+                    "torpedo": [
+                        "protontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "sunfac",
+                "points": 54,
+                "ship": "nantexclassstarfighter",
+                "upgrades": {}
+            }
+        ],
+        "points": 200,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Separatist%20Alliance&d=v8ZsZ200Z337X101WW105Y324XW209WWW237Y356XWY326X136WWWWY357XW&sn=Random%20Squad&obs="
+}

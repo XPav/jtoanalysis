@@ -1,0 +1,62 @@
+{
+    "name": "gadwag",
+    "number": 1,
+    "xws": {
+        "faction": "separatistalliance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "darthmaul",
+                "points": 91,
+                "ship": "sithinfiltrator",
+                "upgrades": {
+                    "cannon": [
+                        "autoblasters"
+                    ],
+                    "crew": [
+                        "countdooku"
+                    ],
+                    "title": [
+                        "scimitar"
+                    ],
+                    "torpedo": [
+                        "plasmatorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "technounionbomber",
+                "points": 40,
+                "ship": "hyenaclassdroidbomber",
+                "upgrades": {
+                    "device": [
+                        "proximitymines"
+                    ],
+                    "torpedo": [
+                        "plasmatorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "feethanottrawautopilot",
+                "points": 39,
+                "ship": "belbullab22starfighter",
+                "upgrades": {
+                    "modification": [
+                        "imperviumplating"
+                    ]
+                }
+            },
+            {
+                "id": "separatistbomber",
+                "points": 28,
+                "ship": "hyenaclassdroidbomber",
+                "upgrades": {}
+            }
+        ],
+        "points": 198,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Separatist%20Alliance&d=v8ZsZ200Z272XW232W234W218WWWW216WY324X234WW70WWY307XW207WY327XWWWW&sn=Random%20Squad&obs="
+}

@@ -1,0 +1,55 @@
+{
+    "name": "Jared M Paul",
+    "number": 1,
+    "xws": {
+        "faction": "galacticempire",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "vedfoslo",
+                "points": 61,
+                "ship": "tieadvancedx1",
+                "upgrades": {
+                    "missile": [
+                        "magpulsewarheads"
+                    ],
+                    "modification": [
+                        "angleddeflectors"
+                    ],
+                    "sensor": [
+                        "firecontrolsystem"
+                    ],
+                    "talent": [
+                        "outmaneuver"
+                    ]
+                }
+            },
+            {
+                "id": "rexlerbrath",
+                "points": 81,
+                "ship": "tieddefender",
+                "upgrades": {
+                    "cannon": [
+                        "jammingbeam"
+                    ]
+                }
+            },
+            {
+                "id": "lieutenantkestal",
+                "points": 31,
+                "ship": "tieagaggressor",
+                "upgrades": {}
+            },
+            {
+                "id": "scimitarsquadronpilot",
+                "points": 27,
+                "ship": "tiesabomber",
+                "upgrades": {}
+            }
+        ],
+        "points": 200,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Galactic%20Empire&d=v8ZsZ200Z175X126W113W311W247Y196XWW12WY187XWWWWWY208XWWWWWW&sn=Random%20Squad&obs="
+}

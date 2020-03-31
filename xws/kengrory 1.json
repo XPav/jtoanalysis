@@ -1,0 +1,52 @@
+{
+    "name": "kengrory",
+    "number": 1,
+    "xws": {
+        "faction": "rebelalliance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "chopper",
+                "points": 83,
+                "ship": "vcx100lightfreighter",
+                "upgrades": {
+                    "crew": [
+                        "chewbacca"
+                    ],
+                    "modification": [
+                        "tacticalscrambler"
+                    ],
+                    "torpedo": [
+                        "plasmatorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "ibtisam",
+                "points": 73,
+                "ship": "arc170starfighter",
+                "upgrades": {
+                    "astromech": [
+                        "r2d2"
+                    ],
+                    "crew": [
+                        "perceptivecopilot"
+                    ],
+                    "torpedo": [
+                        "protontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "esegetuketu",
+                "points": 44,
+                "ship": "btls8kwing",
+                "upgrades": {}
+            }
+        ],
+        "points": 200,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Rebel%20Alliance&d=v8ZsZ200Z63X234WWWW21W110WWY80XW136W54WW3WY18XWWWWWWW&sn=Random%20Squad&obs="
+}
