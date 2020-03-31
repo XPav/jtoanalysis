@@ -7,8 +7,7 @@ Upgrades aren't factored in yet.
 
 I'm also not a data scientist so feel free to make fun of my wombo-combo of Python, JSON, CSV, and Excel.
 
-## Ideas
-
+### Ideas
 ## Count useless points
 # Force
 Instinctive Aim with no Special Attack
