@@ -7,39 +7,39 @@ Upgrades aren't factored in yet.
 
 I'm also not a data scientist so feel free to make fun of my wombo-combo of Python, JSON, CSV, and Excel.
 
-### Ideas
+# Ideas
 ## Count useless points
-# Force
+### Force
 Instinctive Aim with no Special Attack
 
-# Talent
+### Talent
 * Daredevil with no white boost
 * Expert Handling with no red barrel roll
 * Saturation Salvo with no torps or missiles
 * Juke with no evade
 * Squad Leader when already have coordinate
 
-# Sensor
+### Sensor
 * FCS with no Lock (not sure if this possible)
 * Targeting Computer when already have Lock
 * Trajectory Simulator with no bombs
 
-# Tech
+### Tech
 * Primed thrusters with no BR or Boost
 
-# Torpedo
+### Torpedo
 * Any torp with no Lock
 
-# Missile
+### Missile
 * Most missiles with no lock
 * Prockets or Barrage with no Focus
 
-# Modification
+### Modification
 * Delayed fuses with no bombs
 * Munitions failsafe with no torps or missiles
 * Targeting computer when already has a Lock
 
-# Crew
+### Crew
 * Baze with no Focus
 * Sabine with no bombs in the list
 * Perco with no Focus
@@ -50,7 +50,7 @@ Instinctive Aim with no Special Attack
 * Jabba with no illicits
 * Republic C-3PO with no Calculate
 
-# Gunner
+### Gunner
 * Skilled with no bombs
 * Veteran Tail Gunner with no Rear Arc
 * Hotshot Gunner with no movable Arc
@@ -63,16 +63,16 @@ Instinctive Aim with no Special Attack
 * Rey with no movable Arc
 * Agile Gunner on TIE/sf
 
-# Astromech
+### Astromech
 * Rebel Chopper with no other upgrades
 * Genius with no bombs
 * R3 with no Lock
 
-# Illicit
+### Illicit
 Intertial Dampers with no shields
 
-# Tactical Relay
+### Tactical Relay
 * Any tactical relay with no coordinate in the squad
 
-# Configuration & Title
+### Configuration & Title
 * ??
