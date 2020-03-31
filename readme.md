@@ -53,8 +53,6 @@ I'm also not a data scientist so feel free to make fun of my wombo-combo of Pyth
 * Instinctive Aim with no Special Attack
 
 ### Talent
-* Daredevil with no white boost
-* Expert Handling with no red barrel roll
 * Juke with no evade
 * Squad Leader when already have coordinate
 
