@@ -45,12 +45,9 @@ I'm also not a data scientist so feel free to make fun of my wombo-combo of Pyth
 * Munitions failsafe with no torps or missiles
 * Os-1 with no torps or missiles
 
-### No calculate
-* Republic C-3PO with no Calculate
-* Any tactical relay with no coordinate in the squad
-
 ### Force
 * Instinctive Aim with no Special Attack
+* Battle Meditation with no generics
 
 ### Talent
 * Juke with no evade
@@ -74,6 +71,9 @@ I'm also not a data scientist so feel free to make fun of my wombo-combo of Pyth
 
 ### Astromech
 * Rebel Chopper with no other upgrades
+
+### Tactical Relay
+* Any tactical relay with no calculate in the squad
 
 ### Configuration & Title
 * Havoc with no Sensor or Astromech
