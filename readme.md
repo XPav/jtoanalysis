@@ -80,4 +80,6 @@ I'm also not a data scientist so feel free to make fun of my wombo-combo of Pyth
 * Hound's Tooth with no Z-95
 * IG-2000 with no other Aggressors
 * Landos Falcon with no Escape Craft
+* Os-1 with no torps or missiles
+* Xg-1 with no cannon
 
