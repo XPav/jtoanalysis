@@ -1,0 +1,62 @@
+{
+    "name": "eagleblackbelt1",
+    "number": 1,
+    "xws": {
+        "faction": "rebelalliance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "roarkgarnet",
+                "points": 78,
+                "ship": "hwk290lightfreighter",
+                "upgrades": {
+                    "device": [
+                        "proximitymines"
+                    ],
+                    "modification": [
+                        "shieldupgrade"
+                    ],
+                    "talent": [
+                        "squadleader"
+                    ],
+                    "title": [
+                        "moldycrow"
+                    ]
+                }
+            },
+            {
+                "id": "benthictwotubes",
+                "points": 63,
+                "ship": "ut60duwing",
+                "upgrades": {
+                    "configuration": [
+                        "pivotwing"
+                    ],
+                    "crew": [
+                        "r2d2-crew"
+                    ],
+                    "illicit": [
+                        "riggedcargochute"
+                    ],
+                    "sensor": [
+                        "passivesensors"
+                    ]
+                }
+            },
+            {
+                "id": "lowhhrick",
+                "points": 55,
+                "ship": "auzituckgunship",
+                "upgrades": {
+                    "crew": [
+                        "bazemalbus"
+                    ]
+                }
+            }
+        ],
+        "points": 196,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Rebel%20Alliance&d=v8ZsZ200Z47X131W70WWW165W156Y36X96W240WW56WW140Y59XW17WW&sn=Random%20Squad&obs="
+}

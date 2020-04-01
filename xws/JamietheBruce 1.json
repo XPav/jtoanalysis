@@ -1,0 +1,48 @@
+{
+    "name": "JamietheBruce",
+    "number": 1,
+    "xws": {
+        "faction": "galacticempire",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "doubleedge",
+                "points": 29,
+                "ship": "tieagaggressor",
+                "upgrades": {}
+            },
+            {
+                "id": "countessryad",
+                "points": 88,
+                "ship": "tieddefender",
+                "upgrades": {
+                    "cannon": [
+                        "jammingbeam"
+                    ],
+                    "missile": [
+                        "clustermissiles"
+                    ],
+                    "talent": [
+                        "ruthless"
+                    ]
+                }
+            },
+            {
+                "id": "gammasquadronace",
+                "points": 30,
+                "ship": "tiesabomber",
+                "upgrades": {}
+            },
+            {
+                "id": "majorvermeil",
+                "points": 49,
+                "ship": "tiereaper",
+                "upgrades": {}
+            }
+        ],
+        "points": 196,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Galactic%20Empire&d=v8ZsZ200Z188XWWWWWY195X128WW12W98Y207XWWWWWWWY183XWWW&sn=Random%20Squad&obs="
+}

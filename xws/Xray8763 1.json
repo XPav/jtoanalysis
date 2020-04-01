@@ -1,0 +1,56 @@
+{
+    "name": "Xray8763",
+    "number": 1,
+    "xws": {
+        "faction": "galacticempire",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "maarekstele",
+                "points": 53,
+                "ship": "tieadvancedx1",
+                "upgrades": {
+                    "missile": [
+                        "protonrockets"
+                    ],
+                    "modification": [
+                        "munitionsfailsafe"
+                    ]
+                }
+            },
+            {
+                "id": "vizier",
+                "points": 54,
+                "ship": "tiereaper",
+                "upgrades": {
+                    "crew": [
+                        "grandmofftarkin"
+                    ],
+                    "modification": [
+                        "targetingcomputer"
+                    ]
+                }
+            },
+            {
+                "id": "vedfoslo",
+                "points": 44,
+                "ship": "tieadvancedx1",
+                "upgrades": {}
+            },
+            {
+                "id": "stormsquadronace",
+                "points": 49,
+                "ship": "tieadvancedx1",
+                "upgrades": {
+                    "sensor": [
+                        "advancedsensors"
+                    ]
+                }
+            }
+        ],
+        "points": 200,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Galactic%20Empire&d=v8ZsZ200Z174XWW102W108Y185X34WW249Y175XWWWY177XW111WW&sn=Random%20Squad&obs="
+}

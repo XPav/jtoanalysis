@@ -1,0 +1,53 @@
+{
+    "name": "CatherineNyxsera",
+    "number": 1,
+    "xws": {
+        "faction": "firstorder",
+        "name": "Unsaved Squadron",
+        "pilots": [
+            {
+                "id": "lieutenantlehuse",
+                "points": 46,
+                "ship": "tiesffighter",
+                "upgrades": {
+                    "sensor": [
+                        "passivesensors"
+                    ],
+                    "talent": [
+                        "debrisgambit"
+                    ]
+                }
+            },
+            {
+                "id": "lieutenantdormitz",
+                "points": 74,
+                "ship": "upsilonclasscommandshuttle",
+                "upgrades": {
+                    "crew": [
+                        "pettyofficerthanisson"
+                    ]
+                }
+            },
+            {
+                "id": "majorstridan",
+                "points": 79,
+                "ship": "upsilonclasscommandshuttle",
+                "upgrades": {
+                    "cannon": [
+                        "heavylasercannon"
+                    ],
+                    "crew": [
+                        "perceptivecopilot"
+                    ],
+                    "tech": [
+                        "patternanalyzer"
+                    ]
+                }
+            }
+        ],
+        "points": 199,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=First%20Order&d=v8ZsZ200Z397X118WWWW240WY238XWW194WWWWWY251X206WW54WWW10WW&sn=Unsaved%20Squadron&obs="
+}

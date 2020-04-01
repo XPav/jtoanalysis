@@ -1,0 +1,65 @@
+{
+    "name": "KFull",
+    "number": 1,
+    "xws": {
+        "faction": "rebelalliance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "bodhirook",
+                "points": 64,
+                "ship": "ut60duwing",
+                "upgrades": {
+                    "configuration": [
+                        "pivotwing"
+                    ],
+                    "crew": [
+                        "r2d2-crew"
+                    ],
+                    "sensor": [
+                        "collisiondetector"
+                    ]
+                }
+            },
+            {
+                "id": "benthictwotubes",
+                "points": 54,
+                "ship": "ut60duwing",
+                "upgrades": {
+                    "configuration": [
+                        "pivotwing"
+                    ],
+                    "illicit": [
+                        "contrabandcybernetics"
+                    ],
+                    "sensor": [
+                        "trajectorysimulator"
+                    ]
+                }
+            },
+            {
+                "id": "roarkgarnet",
+                "points": 52,
+                "ship": "hwk290lightfreighter",
+                "upgrades": {
+                    "crew": [
+                        "sawgerrera"
+                    ],
+                    "device": [
+                        "protonbombs"
+                    ]
+                }
+            },
+            {
+                "id": "captainrex",
+                "points": 30,
+                "ship": "tielnfighter",
+                "upgrades": {}
+            }
+        ],
+        "points": 200,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Rebel%20Alliance&d=v8ZsZ200Z31XW112W56WWW140Y36X92W114WWWW140Y47XW69W58WWWY16X&sn=Random%20Squad&obs="
+}

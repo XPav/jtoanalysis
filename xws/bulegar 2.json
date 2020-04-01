@@ -1,0 +1,63 @@
+{
+    "name": "bulegar",
+    "number": 2,
+    "xws": {
+        "faction": "resistance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "rey",
+                "points": 85,
+                "ship": "scavengedyt1300",
+                "upgrades": {
+                    "crew": [
+                        "freelanceslicer"
+                    ],
+                    "gunner": [
+                        "paigetico"
+                    ],
+                    "modification": [
+                        "hullupgrade"
+                    ],
+                    "title": [
+                        "reysmillenniumfalcon"
+                    ]
+                }
+            },
+            {
+                "id": "lulolampar",
+                "points": 57,
+                "ship": "rz2awing",
+                "upgrades": {
+                    "missile": [
+                        "concussionmissiles"
+                    ],
+                    "talent": [
+                        "intimidation",
+                        "lonewolf"
+                    ]
+                }
+            },
+            {
+                "id": "colossusstationmechanic",
+                "points": 32,
+                "ship": "fireball",
+                "upgrades": {
+                    "modification": [
+                        "shieldupgrade"
+                    ]
+                }
+            },
+            {
+                "id": "colossusstationmechanic",
+                "points": 26,
+                "ship": "fireball",
+                "upgrades": {}
+            }
+        ],
+        "points": 200,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Resistance&d=v8ZsZ200Z244XWWW30W189WW164W193Y239X122W124W99WY380XWWWW165WY380XWWWWW&sn=Random%20Squad&obs="
+}

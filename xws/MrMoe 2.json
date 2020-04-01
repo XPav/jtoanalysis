@@ -1,0 +1,53 @@
+{
+    "name": "MrMoe",
+    "number": 2,
+    "xws": {
+        "faction": "scumandvillainy",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "shadowporthunter",
+                "points": 71,
+                "ship": "lancerclasspursuitcraft",
+                "upgrades": {
+                    "crew": [
+                        "informant"
+                    ],
+                    "illicit": [
+                        "riggedcargochute"
+                    ],
+                    "modification": [
+                        "ablativeplating"
+                    ]
+                }
+            },
+            {
+                "id": "captainjostero",
+                "points": 52,
+                "ship": "kihraxzfighter",
+                "upgrades": {
+                    "missile": [
+                        "ionmissiles"
+                    ],
+                    "modification": [
+                        "stealthdevice"
+                    ]
+                }
+            },
+            {
+                "id": "guri",
+                "points": 76,
+                "ship": "starviperclassattackplatform",
+                "upgrades": {
+                    "talent": [
+                        "squadleader"
+                    ]
+                }
+            }
+        ],
+        "points": 199,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Scum%20and%20Villainy&d=v8ZsZ200Z128X37W96WW103WY122X101WWWW166Y147X131WWWW&sn=Random%20Squad&obs="
+}

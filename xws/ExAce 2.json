@@ -1,0 +1,43 @@
+{
+    "name": "ExAce",
+    "number": 2,
+    "xws": {
+        "faction": "galacticempire",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "captainoicunn",
+                "points": 74,
+                "ship": "vt49decimator",
+                "upgrades": {}
+            },
+            {
+                "id": "deathrain",
+                "points": 50,
+                "ship": "tiecapunisher",
+                "upgrades": {
+                    "missile": [
+                        "clustermissiles"
+                    ],
+                    "modification": [
+                        "munitionsfailsafe"
+                    ]
+                }
+            },
+            {
+                "id": "patrolleader",
+                "points": 71,
+                "ship": "vt49decimator",
+                "upgrades": {
+                    "title": [
+                        "dauntless"
+                    ]
+                }
+            }
+        ],
+        "points": 195,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Galactic%20Empire&d=v8ZsZ200Z215XWWWWWWWWY192XWWW98WWWW108Y216XWWWWWWW147&sn=Random%20Squad&obs="
+}

@@ -1,0 +1,64 @@
+{
+    "name": "JamietheBruce",
+    "number": 2,
+    "xws": {
+        "faction": "resistance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "paigetico",
+                "points": 93,
+                "ship": "mg100starfortress",
+                "upgrades": {
+                    "crew": [
+                        "ga97"
+                    ],
+                    "gunner": [
+                        "finn",
+                        "veteranturretgunner"
+                    ],
+                    "sensor": [
+                        "firecontrolsystem"
+                    ],
+                    "talent": [
+                        "lonewolf"
+                    ]
+                }
+            },
+            {
+                "id": "zaribangel",
+                "points": 57,
+                "ship": "rz2awing",
+                "upgrades": {
+                    "missile": [
+                        "protonrockets"
+                    ],
+                    "talent": [
+                        "swarmtactics",
+                        "outmaneuver"
+                    ],
+                    "tech": [
+                        "ferrospherepaint"
+                    ]
+                }
+            },
+            {
+                "id": "ronithblario",
+                "points": 45,
+                "ship": "rz2awing",
+                "upgrades": {
+                    "missile": [
+                        "clustermissiles"
+                    ],
+                    "tech": [
+                        "ferrospherepaint"
+                    ]
+                }
+            }
+        ],
+        "points": 195,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Resistance&d=v8ZsZ200Z389X124W113WW230W174W90WWWY271X132W126W102W198Y388XW98W198&sn=Random%20Squad&obs="
+}

@@ -1,0 +1,53 @@
+{
+    "name": "Deering",
+    "number": 2,
+    "xws": {
+        "faction": "galacticempire",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "puresabacc",
+                "points": 53,
+                "ship": "tieskstriker",
+                "upgrades": {
+                    "device": [
+                        "seismiccharges"
+                    ],
+                    "modification": [
+                        "afterburners"
+                    ]
+                }
+            },
+            {
+                "id": "deathfire",
+                "points": 34,
+                "ship": "tiesabomber",
+                "upgrades": {
+                    "gunner": [
+                        "skilledbombardier"
+                    ]
+                }
+            },
+            {
+                "id": "captainoicunn",
+                "points": 84,
+                "ship": "vt49decimator",
+                "upgrades": {
+                    "gunner": [
+                        "veteranturretgunner"
+                    ]
+                }
+            },
+            {
+                "id": "sienarspecialist",
+                "points": 26,
+                "ship": "tieagaggressor",
+                "upgrades": {}
+            }
+        ],
+        "points": 197,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Galactic%20Empire&d=v8ZsZ200Z210XWW71W105Y206XWWW88WWWY215XWWWWW90WWWY190XWWWW&sn=Random%20Squad&obs="
+}

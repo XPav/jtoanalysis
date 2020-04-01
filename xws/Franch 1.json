@@ -1,0 +1,62 @@
+{
+    "name": "Franch",
+    "number": 1,
+    "xws": {
+        "faction": "scumandvillainy",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "palobgodalhi",
+                "points": 81,
+                "ship": "hwk290lightfreighter",
+                "upgrades": {
+                    "crew": [
+                        "ketsuonyo"
+                    ],
+                    "device": [
+                        "clustermines"
+                    ],
+                    "illicit": [
+                        "inertialdampeners"
+                    ],
+                    "modification": [
+                        "electronicbaffle"
+                    ],
+                    "talent": [
+                        "lonewolf"
+                    ],
+                    "title": [
+                        "moldycrow"
+                    ]
+                }
+            },
+            {
+                "id": "guri",
+                "points": 78,
+                "ship": "starviperclassattackplatform",
+                "upgrades": {
+                    "modification": [
+                        "afterburners"
+                    ],
+                    "title": [
+                        "virago"
+                    ]
+                }
+            },
+            {
+                "id": "sarcoplank",
+                "points": 36,
+                "ship": "quadrijettransferspacetug",
+                "upgrades": {
+                    "tech": [
+                        "advancedoptics"
+                    ]
+                }
+            }
+        ],
+        "points": 195,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Scum%20and%20Villainy&d=v8ZsZ200Z112X124W42W316W95W106WW156Y147XWWW105W163WY141X186WWWW&sn=Random%20Squad&obs="
+}

@@ -1,0 +1,45 @@
+{
+    "name": "throwdownhorton",
+    "number": 2,
+    "xws": {
+        "faction": "galacticempire",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "deathrain",
+                "points": 60,
+                "ship": "tiecapunisher",
+                "upgrades": {
+                    "missile": [
+                        "protonrockets"
+                    ],
+                    "torpedo": [
+                        "plasmatorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "deltasquadronpilot",
+                "points": 67,
+                "ship": "tieddefender",
+                "upgrades": {}
+            },
+            {
+                "id": "zertikstrom",
+                "points": 41,
+                "ship": "tieadvancedx1",
+                "upgrades": {}
+            },
+            {
+                "id": "planetarysentinel",
+                "points": 31,
+                "ship": "tieskstriker",
+                "upgrades": {}
+            }
+        ],
+        "points": 199,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Galactic%20Empire&d=v8ZsZ200Z192XW234W102WWWWWY198XWWY176XWWY213XWW&sn=Random%20Squad&obs="
+}

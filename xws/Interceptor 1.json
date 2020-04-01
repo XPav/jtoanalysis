@@ -1,0 +1,62 @@
+{
+    "name": "Interceptor",
+    "number": 1,
+    "xws": {
+        "faction": "firstorder",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "starkillerbasepilot",
+                "points": 74,
+                "ship": "upsilonclasscommandshuttle",
+                "upgrades": {
+                    "cannon": [
+                        "tractorbeam"
+                    ],
+                    "crew": [
+                        "pettyofficerthanisson"
+                    ],
+                    "modification": [
+                        "hullupgrade"
+                    ],
+                    "sensor": [
+                        "collisiondetector"
+                    ]
+                }
+            },
+            {
+                "id": "commandermalarus",
+                "points": 47,
+                "ship": "tiefofighter",
+                "upgrades": {
+                    "talent": [
+                        "lonewolf"
+                    ],
+                    "tech": [
+                        "advancedoptics"
+                    ]
+                }
+            },
+            {
+                "id": "starkillerbasepilot",
+                "points": 75,
+                "ship": "upsilonclasscommandshuttle",
+                "upgrades": {
+                    "cannon": [
+                        "heavylasercannon"
+                    ],
+                    "crew": [
+                        "generalhux"
+                    ],
+                    "modification": [
+                        "ablativeplating"
+                    ]
+                }
+            }
+        ],
+        "points": 196,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=First%20Order&d=v8ZsZ200Z288XWW194WWW13W112W164Y266X124W186WY288XWWW180WW10WW103&sn=Random%20Squad&obs="
+}

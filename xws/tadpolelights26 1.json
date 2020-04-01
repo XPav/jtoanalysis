@@ -1,0 +1,59 @@
+{
+    "name": "tadpolelights26",
+    "number": 1,
+    "xws": {
+        "faction": "scumandvillainy",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "captainnym",
+                "points": 69,
+                "ship": "scurrgh6bomber",
+                "upgrades": {
+                    "crew": [
+                        "cikatrovizago"
+                    ],
+                    "device": [
+                        "bombletgenerator"
+                    ],
+                    "gunner": [
+                        "hansolo-gunner"
+                    ],
+                    "turret": [
+                        "ioncannonturret"
+                    ]
+                }
+            },
+            {
+                "id": "princexizor",
+                "points": 63,
+                "ship": "starviperclassattackplatform",
+                "upgrades": {
+                    "sensor": [
+                        "collisiondetector"
+                    ],
+                    "talent": [
+                        "swarmtactics"
+                    ]
+                }
+            },
+            {
+                "id": "shadowporthunter",
+                "points": 63,
+                "ship": "lancerclasspursuitcraft",
+                "upgrades": {
+                    "modification": [
+                        "staticdischargevanes"
+                    ],
+                    "title": [
+                        "shadowcaster"
+                    ]
+                }
+            }
+        ],
+        "points": 195,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Scum%20and%20Villainy&d=v8ZsZ200Z144XW138W25W85W67WWWY148X132W112WWWY128XWWW109W160&sn=Random%20Squad&obs="
+}

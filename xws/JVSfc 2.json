@@ -1,0 +1,55 @@
+{
+    "name": "JVSfc",
+    "number": 2,
+    "xws": {
+        "faction": "scumandvillainy",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "cartelexecutioner",
+                "points": 53,
+                "ship": "m12lkimogilafighter",
+                "upgrades": {
+                    "illicit": [
+                        "inertialdampeners"
+                    ],
+                    "missile": [
+                        "magpulsewarheads"
+                    ],
+                    "modification": [
+                        "tacticalscrambler"
+                    ],
+                    "talent": [
+                        "crackshot"
+                    ]
+                }
+            },
+            {
+                "id": "trandoshanslaver",
+                "points": 52,
+                "ship": "yv666lightfreighter",
+                "upgrades": {}
+            },
+            {
+                "id": "landocalrissian",
+                "points": 50,
+                "ship": "customizedyt1300lightfreighter",
+                "upgrades": {
+                    "talent": [
+                        "marksmanship"
+                    ]
+                }
+            },
+            {
+                "id": "blacksunenforcer",
+                "points": 45,
+                "ship": "starviperclassattackplatform",
+                "upgrades": {}
+            }
+        ],
+        "points": 200,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Scum%20and%20Villainy&d=v8ZsZ200Z131X116WW311WW95W110Y155XWWWWWWWY90X125WWWWWWWY151XWWW&sn=Random%20Squad&obs="
+}

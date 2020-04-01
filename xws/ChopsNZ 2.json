@@ -1,0 +1,56 @@
+{
+    "name": "ChopsNZ",
+    "number": 2,
+    "xws": {
+        "faction": "galacticempire",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "mornakee",
+                "points": 97,
+                "ship": "vt49decimator",
+                "upgrades": {
+                    "crew": [
+                        "cienaree"
+                    ],
+                    "device": [
+                        "ionbombs"
+                    ],
+                    "title": [
+                        "dauntless"
+                    ],
+                    "torpedo": [
+                        "advprotontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "imdaartestpilot",
+                "points": 48,
+                "ship": "tiephphantom",
+                "upgrades": {
+                    "gunner": [
+                        "skilledbombardier"
+                    ],
+                    "sensor": [
+                        "passivesensors"
+                    ]
+                }
+            },
+            {
+                "id": "captainkagi",
+                "points": 52,
+                "ship": "lambdaclasst4ashuttle",
+                "upgrades": {
+                    "crew": [
+                        "novicetechnician"
+                    ]
+                }
+            }
+        ],
+        "points": 197,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Galactic%20Empire&d=v8ZsZ200Z396XW134W24WWWW317WW147Y202X240W88WY165XWW53WWW&sn=Random%20Squad&obs="
+}
