@@ -39,6 +39,7 @@ I'm also not a data scientist so feel free to make fun of my wombo-combo of Pyth
 * Gonk with no shields
 * Inertial Dampers with no shields
 * R2-D2 with no shields
+* Angled Deflectors with no shields
 
 ### No torps or missiles
 * Saturation Salvo with no torps or missiles
