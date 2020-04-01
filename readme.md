@@ -10,7 +10,7 @@ I'm also not a data scientist so feel free to make fun of my wombo-combo of Pyth
 # Ideas
 ## Count useless points
 
-### No bombs/mines/desvices
+### No bombs/mines/devices (all done)
 * Trajectory Simulator with no bombs
 * Delayed fuses with no devices
 * Skilled Bombadier with no devices
@@ -18,36 +18,35 @@ I'm also not a data scientist so feel free to make fun of my wombo-combo of Pyth
 * Genius with no devices
 * Cad Bane with no devices
 
-### No movable arc
+### No movable arc (done)
 * Hotshot Gunner with no movable arc
 * Agile Gunner with no movable arc
 * Bistan with no movable arc
 * Han with no movable arc
 
-### No Lock
+### No Lock (Not bothering for Targeting Synchronizer in the list)
 * FCS with no Lock (not sure if this possible)
-* Any torp with no Lock
-* Most missiles with no lock
-* R3 with no Lock
-* Not bothering for Targeting Synchronizer in the list
+* Any torp with no Lock (done)
+* Most missiles with no lock (done)
+* R3 with no Lock (done)
 
 ### No Focus
-* Prockets or Barrage with no Focus
-* Baze with no Focus
-* Perco with no Focus
+* Prockets or Barrage with no Focus (done)
+* Baze with no Focus (done)
+* Perco with no Focus (done)
 
-### No shields
+### No shields (done)
 * Gonk with no shields
 * Inertial Dampers with no shields
 * R2-D2 with no shields
 
-### No torps or missiles
+### No torps or missiles (done)
 * Saturation Salvo with no torps or missiles
 * Munitions failsafe with no torps or missiles
 * Os-1 with no torps or missiles
 
 ### Force
-* Instinctive Aim with no Special Attack
+* Instinctive Aim with no Special Attack (done)
 * Battle Meditation with no generics
 
 ### Talent
