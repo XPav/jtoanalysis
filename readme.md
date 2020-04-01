@@ -49,36 +49,36 @@ I'm also not a data scientist so feel free to make fun of my wombo-combo of Pyth
 ### Talents
 * Outmanuever with no Front Arc (done)
 
+### Gunner
+* Agile Gunner on TIE/sf
+* Veteran Tail Gunner with no Rear Arc
+* Paige with no movable Arc OR bombs
+
+### Crew
+* Jabba with no illicits
+
 
 ## Useless upgrades not done yet
 
+### Added an action you already had
+* Squad Leader when already have coordinate
+* Targeting computer when already has a Lock action
+
 ### Talent
 * Juke with no evade? (hard to implement because more than once way to get evade without action)
-* Squad Leader when already have coordinate
-
-### Modification
-* Targeting computer when already has a Lock action
 
 ### Sensor slot
 * FCS with no Lock 
 
-### Crew
-* Ketsu with no Tractor
-* Jabba with no illicits
-
-### Gunner
-* Veteran Tail Gunner with no Rear Arc
-* Paige with no movable Arc OR bombs
-* Agile Gunner on TIE/sf
-
 ### Astromech
-* Rebel Chopper with no other upgrades
+* Rebel Chopper with no other upgrades with charges or with no shields
 
 ### Configuration & Title
 * Havoc with no Sensor or Astromech
 * Xg-1 with no cannon
 
 ### Squad-related
+* Ketsu with no Tractor ability in squad
 * Sabine with no bombs in the list 
 * Any tactical relay with no calculate in the squad
 * Battle Meditation with no generics

@@ -66,6 +66,7 @@ def LoadShip( pilots, upgrades, ship, listid, faction, yasb ):
     devicecount = 0
     bombcount = 0
     torpsmissiles = 0
+    illicits = 0
 
     oship['uselesscount'] = 0
     oship['uselesscost'] = 0
@@ -99,10 +100,12 @@ def LoadShip( pilots, upgrades, ship, listid, faction, yasb ):
             if 'attack' in upgrade:
                 arcs.append( upgrade['attack']['arc'])
             # Keep track of things for uselessness
-            if "Device" in upgrade['slots']:
+            if 'Device' in upgrade['slots']:
                 devicecount += 1
                 if 'device' in upgrade and upgrade['device']['type'] == 'Bomb':
                     bombcount += 1
+            if 'Illicit' in upgrade['slots']:
+                illicits += 1
             
             
 
@@ -134,6 +137,18 @@ def LoadShip( pilots, upgrades, ship, listid, faction, yasb ):
                     useless = True
 
             useless |= (u == 'outmaneuver' and not 'Front Arc' in arcs)
+            useless |= (u == 'veterantailgunner' and not 'Rear Arc' in arcs)
+            useless |= (u == 'agilegunner' and sdata['xws'] == 'tiesffighter' ) 
+
+            if u == 'paigetico':
+                if not 'Single Turret Arc' in arcs and not 'Double Turret Arc' in arcs: 
+                    useless = True
+                if bombcount == 0:
+                    useless = True
+
+            useless |= (u == 'jabbathehutt' and illicits == 0)
+
+
 
             if useless:
                 oship['uselesscount'] += 1
