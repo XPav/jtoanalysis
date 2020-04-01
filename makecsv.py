@@ -133,6 +133,8 @@ def LoadShip( pilots, upgrades, ship, listid, faction, yasb ):
                 if not 'Single Turret Arc' in arcs and not 'Double Turret Arc' in arcs:
                     useless = True
 
+            useless |= (u == 'outmaneuver' and not 'Front Arc' in arcs)
+
             if useless:
                 oship['uselesscount'] += 1
                 oship['uselesscost'] = GetCostValue( upgrades[u]['cost'], pdata, sdata )

@@ -8,8 +8,7 @@ Upgrades aren't factored in yet.
 I'm also not a data scientist so feel free to make fun of my wombo-combo of Python, JSON, CSV, and Excel.
 
 # Ideas
-## Count useless points
-
+## Count useless points - DONE
 ### No bombs/mines/devices (all done)
 * Trajectory Simulator with no bombs
 * Delayed fuses with no devices
@@ -25,7 +24,6 @@ I'm also not a data scientist so feel free to make fun of my wombo-combo of Pyth
 * Han with no movable arc
 
 ### No Lock (Not bothering for Targeting Synchronizer in the list)
-* FCS with no Lock (not sure if this possible)
 * Any torp with no Lock (done)
 * Most missiles with no lock (done)
 * R3 with no Lock (done)
@@ -47,17 +45,24 @@ I'm also not a data scientist so feel free to make fun of my wombo-combo of Pyth
 
 ### Force
 * Instinctive Aim with no Special Attack (done)
-* Battle Meditation with no generics
+
+### Talents
+* Outmanuever with no Front Arc (done)
+
+
+## Useless upgrades not done yet
 
 ### Talent
-* Juke with no evade
+* Juke with no evade? (hard to implement because more than once way to get evade without action)
 * Squad Leader when already have coordinate
 
 ### Modification
-* Targeting computer when already has a Lock
+* Targeting computer when already has a Lock action
+
+### Sensor slot
+* FCS with no Lock 
 
 ### Crew
-* Sabine with no bombs in the list (annoying)
 * Ketsu with no Tractor
 * Jabba with no illicits
 
@@ -69,14 +74,14 @@ I'm also not a data scientist so feel free to make fun of my wombo-combo of Pyth
 ### Astromech
 * Rebel Chopper with no other upgrades
 
-### Tactical Relay
-* Any tactical relay with no calculate in the squad
-
 ### Configuration & Title
 * Havoc with no Sensor or Astromech
-* Hound's Tooth with no Z-95
-* IG-2000 with no other Aggressors
-* Landos Falcon with no Escape Craft
 * Xg-1 with no cannon
 
-
+### Squad-related
+* Sabine with no bombs in the list 
+* Any tactical relay with no calculate in the squad
+* Battle Meditation with no generics
+* IG-2000 with no other Aggressors
+* Landos Falcon with no Escape Craft
+* Hound's Tooth with no Z-95
