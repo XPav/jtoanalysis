@@ -29,6 +29,7 @@ I'm also not a data scientist so feel free to make fun of my wombo-combo of Pyth
 * Any torp with no Lock
 * Most missiles with no lock
 * R3 with no Lock
+* Not bothering for Targeting Synchronizer in the list
 
 ### No Focus
 * Prockets or Barrage with no Focus
@@ -57,7 +58,7 @@ I'm also not a data scientist so feel free to make fun of my wombo-combo of Pyth
 * Targeting computer when already has a Lock
 
 ### Crew
-* Sabine with no bombs in the list
+* Sabine with no bombs in the list (annoying)
 * Ketsu with no Tractor
 * Jabba with no illicits
 

@@ -20,7 +20,14 @@ def LoadShip( pilots, upgrades, ship, listid, faction, yasb ):
     # base ship data
     sdata = ships[shipid]
 
-    # base other data
+    allactions = sdata['actions']
+    if 'shipActions' in pdata:
+        allactions = pdata['shipActions']
+
+    actiontype = []
+    for action in allactions:
+        actiontype.append( action['type'] )
+
     hull = 0
     shields = 0
     agility = 0
@@ -44,10 +51,15 @@ def LoadShip( pilots, upgrades, ship, listid, faction, yasb ):
     oship['points'] = ship['points']
 
     oship['upgradecount'] = 0
+
+    devicecount = 0
+    bombcount = 0
+    
     for slot in p['upgrades']:
         for u in p['upgrades'][slot]:
             upgrade = upgrades[u]['sides'][0]
             oship['upgradecount'] += 1
+            # Adjust stats
             if 'grants' in upgrade:
                 for g in upgrade['grants']:
                     if g['type'] == 'stat':
@@ -59,12 +71,38 @@ def LoadShip( pilots, upgrades, ship, listid, faction, yasb ):
                             hull += g['amount']
                         if g['value'] == 'shields':
                             shields += g['amount']
+            # Keep track of things for uselessness
+            if "Device" in upgrade['slots']:
+                devicecount += 1
+                if 'device' in upgrade and upgrade['device']['type'] == 'Bomb':
+                    bombcount += 1
+            
 
     oship['agility'] = agility
     oship['hull'] = hull
     oship['shields'] = shields
     oship['attack'] = attack
     oship['initiative'] = pdata['initiative']
+
+    # Go find useless upgrades
+    nobombs = [ 'delayedfuses', 'skilledbombardier', 'andrasta', 'genius' ]
+
+    oship['uselesscount'] = 0
+    oship['uselesspoints'] = 0
+    for slot in p['upgrades']:
+        for u in p['upgrades'][slot]:
+            useless = False
+            upgrade = upgrades[u]['sides'][0]
+            
+            # Bomb abilities with no bombs
+            useless |= (u in nobombs and bombcount == 0)
+            useless |= (u == 'cadbane' and devicecount == 0)
+
+            useless |= 'ability' in upgrade and 'Attack ([Lock])' in upgrade['ability'] and not 'Lock' in actiontype
+
+            if useless:
+                oship['uselesscount'] += 1
+                oship['uselesspoints'] = upgrades[u]['cost']['value']
 
     oship['yasb'] = yasb
 
