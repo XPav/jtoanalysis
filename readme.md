@@ -10,19 +10,19 @@ I'm also not a data scientist so feel free to make fun of my wombo-combo of Pyth
 # Ideas
 ## Count useless points
 
-### No bombs
+### No bombs/mines/desvices
 * Trajectory Simulator with no bombs
-* Delayed fuses with no bombs
-* Skilled Bombadier with no bombs
-* Andrasta with no bombs
-* Genius with no bombs
+* Delayed fuses with no devices
+* Skilled Bombadier with no devices
+* Andrasta with no devices
+* Genius with no devices
 * Cad Bane with no devices
 
 ### No movable arc
-* Hotshot Gunner with no movable Arc
-* Agile Gunner with no movable Arc
-* Bistan with no movable Arc
-* Han with no movable Arc
+* Hotshot Gunner with no movable arc
+* Agile Gunner with no movable arc
+* Bistan with no movable arc
+* Han with no movable arc
 
 ### No Lock
 * FCS with no Lock (not sure if this possible)
