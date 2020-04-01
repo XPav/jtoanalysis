@@ -53,9 +53,6 @@ I'm also not a data scientist so feel free to make fun of my wombo-combo of Pyth
 * Juke with no evade
 * Squad Leader when already have coordinate
 
-### Tech
-* Primed thrusters with no BR or Boost
-
 ### Modification
 * Targeting computer when already has a Lock
 
