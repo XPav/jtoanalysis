@@ -70,12 +70,18 @@ def LoadShip( pilots, upgrades, ship, listid, faction, yasb ):
     oship['uselesscount'] = 0
     oship['uselesscost'] = 0
 
+    for s in range(0,10):
+        oship[f'upgrade{s:02d}'] = ''
+
+    upgradecount = 0
     for slot in p['upgrades']:
         if slot in ['torpedo', 'missile']:
             torpsmissiles += 1
         for u in p['upgrades'][slot]:
             upgrade = upgrades[u]['sides'][0]
-            oship['upgradecount'] += 1
+            oship[f'upgrade{upgradecount:02d}'] = u
+            upgradecount += 1
+            oship['upgradecount'] = upgradecount
             # Adjust stats
             if 'grants' in upgrade:
                 for g in upgrade['grants']:
