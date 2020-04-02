@@ -1,0 +1,49 @@
+{
+    "name": "designflaw",
+    "number": 2,
+    "xws": {
+        "faction": "rebelalliance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "ap5",
+                "points": 42,
+                "ship": "sheathipedeclassshuttle",
+                "upgrades": {
+                    "astromech": [
+                        "r2astromech"
+                    ],
+                    "crew": [
+                        "bazemalbus"
+                    ]
+                }
+            },
+            {
+                "id": "lothalrebel",
+                "points": 76,
+                "ship": "vcx100lightfreighter",
+                "upgrades": {
+                    "gunner": [
+                        "skilledbombardier"
+                    ],
+                    "modification": [
+                        "delayedfuses"
+                    ],
+                    "torpedo": [
+                        "advprotontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "wildspacefringer",
+                "points": 77,
+                "ship": "yt2400lightfreighter",
+                "upgrades": {}
+            }
+        ],
+        "points": 195,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Rebel%20Alliance&d=v8ZsZ200Z72XW17WW2WY64X134WWWWW236W88WY41XWWWWW&sn=Random%20Squad&obs="
+}

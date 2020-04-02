@@ -1,0 +1,49 @@
+{
+    "name": "tomasz",
+    "number": 1,
+    "xws": {
+        "faction": "rebelalliance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "ezrabridger",
+                "points": 40,
+                "ship": "attackshuttle",
+                "upgrades": {}
+            },
+            {
+                "id": "esegetuketu",
+                "points": 58,
+                "ship": "btls8kwing",
+                "upgrades": {
+                    "crew": [
+                        "magvayarro"
+                    ],
+                    "torpedo": [
+                        "iontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "wullffwarro",
+                "points": 56,
+                "ship": "auzituckgunship",
+                "upgrades": {}
+            },
+            {
+                "id": "k2so",
+                "points": 46,
+                "ship": "ut60duwing",
+                "upgrades": {
+                    "configuration": [
+                        "pivotwing"
+                    ]
+                }
+            }
+        ],
+        "points": 200,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Rebel%20Alliance&d=v8ZsZ200Z67XWWWWY18X135WWWW51WWWY58XWWWY390XWWWWW140&sn=Random%20Squad&obs="
+}

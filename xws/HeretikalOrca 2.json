@@ -1,0 +1,58 @@
+{
+    "name": "HeretikalOrca",
+    "number": 2,
+    "xws": {
+        "faction": "galacticrepublic",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "goji",
+                "points": 47,
+                "ship": "btlbywing",
+                "upgrades": {
+                    "device": [
+                        "connernets"
+                    ],
+                    "torpedo": [
+                        "advprotontorpedoes"
+                    ],
+                    "turret": [
+                        "dorsalturret"
+                    ]
+                }
+            },
+            {
+                "id": "bluesquadronprotector",
+                "points": 34,
+                "ship": "v19torrentstarfighter",
+                "upgrades": {
+                    "missile": [
+                        "protonrockets"
+                    ]
+                }
+            },
+            {
+                "id": "dineeellberger",
+                "points": 38,
+                "ship": "nabooroyaln1starfighter",
+                "upgrades": {}
+            },
+            {
+                "id": "shadowsquadronveteran",
+                "points": 32,
+                "ship": "btlbywing",
+                "upgrades": {}
+            },
+            {
+                "id": "plokoon",
+                "points": 44,
+                "ship": "delta7aethersprite",
+                "upgrades": {}
+            }
+        ],
+        "points": 195,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Galactic%20Republic&d=v8ZsZ200Z363X137W134WWW68WY320XW102WY331XWWWY360XWWWWWWY312XWWW&sn=Random%20Squad&obs="
+}

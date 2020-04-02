@@ -1,0 +1,57 @@
+{
+    "name": "Buck Owens",
+    "number": 1,
+    "xws": {
+        "faction": "firstorder",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "commandermalarus",
+                "points": 45,
+                "ship": "tiefofighter",
+                "upgrades": {
+                    "modification": [
+                        "staticdischargevanes"
+                    ],
+                    "talent": [
+                        "crackshot"
+                    ]
+                }
+            },
+            {
+                "id": "lieutenantdormitz",
+                "points": 101,
+                "ship": "upsilonclasscommandshuttle",
+                "upgrades": {
+                    "crew": [
+                        "supremeleadersnoke"
+                    ],
+                    "sensor": [
+                        "passivesensors"
+                    ],
+                    "tech": [
+                        "deuteriumpowercells",
+                        "targetingsynchronizer"
+                    ]
+                }
+            },
+            {
+                "id": "captainphasma",
+                "points": 52,
+                "ship": "tiesffighter",
+                "upgrades": {
+                    "gunner": [
+                        "specialforcesgunner"
+                    ],
+                    "modification": [
+                        "angleddeflectors"
+                    ]
+                }
+            }
+        ],
+        "points": 198,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=First%20Order&d=v8ZsZ200Z266X116WW109Y238X318W177WW184WWW240WY385XWWW182WW247&sn=Random%20Squad&obs="
+}

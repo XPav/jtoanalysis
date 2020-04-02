@@ -1,0 +1,49 @@
+{
+    "name": "Kettch",
+    "number": 2,
+    "xws": {
+        "faction": "separatistalliance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "baktoidprototype",
+                "points": 30,
+                "ship": "hyenaclassdroidbomber",
+                "upgrades": {
+                    "sensor": [
+                        "firecontrolsystem"
+                    ]
+                }
+            },
+            {
+                "id": "darkcourier",
+                "points": 68,
+                "ship": "sithinfiltrator",
+                "upgrades": {
+                    "title": [
+                        "scimitar"
+                    ],
+                    "torpedo": [
+                        "protontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "feethanottrawautopilot",
+                "points": 35,
+                "ship": "belbullab22starfighter",
+                "upgrades": {}
+            },
+            {
+                "id": "countdooku",
+                "points": 63,
+                "ship": "sithinfiltrator",
+                "upgrades": {}
+            }
+        ],
+        "points": 196,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Separatist%20Alliance&d=v8ZsZ200Z329X113WWWWY336XW136WWWWW216WY307XWWY334XWWWWWWWW&sn=Random%20Squad&obs="
+}

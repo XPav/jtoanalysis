@@ -1,0 +1,62 @@
+{
+    "name": "Stan Reecy",
+    "number": 1,
+    "xws": {
+        "faction": "resistance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "bb8",
+                "points": 32,
+                "ship": "resistancetransportpod",
+                "upgrades": {
+                    "talent": [
+                        "outmaneuver"
+                    ]
+                }
+            },
+            {
+                "id": "covanell",
+                "points": 64,
+                "ship": "resistancetransport",
+                "upgrades": {
+                    "crew": [
+                        "leiaorgana-resistance"
+                    ],
+                    "torpedo": [
+                        "plasmatorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "finchdallow",
+                "points": 75,
+                "ship": "mg100starfortress",
+                "upgrades": {
+                    "crew": [
+                        "chewbacca-crew-swz19"
+                    ],
+                    "device": [
+                        "seismiccharges"
+                    ],
+                    "modification": [
+                        "delayedfuses"
+                    ],
+                    "tech": [
+                        "targetingsynchronizer"
+                    ]
+                }
+            },
+            {
+                "id": "vimoradi",
+                "points": 27,
+                "ship": "resistancetransportpod",
+                "upgrades": {}
+            }
+        ],
+        "points": 198,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Resistance&d=v8ZsZ200Z349X126WWWY351XWWW234W244WWWY250XW177W188WWW71WW236Y348XWW&sn=Random%20Squad&obs="
+}

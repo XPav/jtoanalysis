@@ -1,0 +1,58 @@
+{
+    "name": "James Carman",
+    "number": 1,
+    "xws": {
+        "faction": "galacticrepublic",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "bravoflightofficer",
+                "points": 48,
+                "ship": "nabooroyaln1starfighter",
+                "upgrades": {
+                    "astromech": [
+                        "r3astromech"
+                    ],
+                    "sensor": [
+                        "collisiondetector"
+                    ],
+                    "torpedo": [
+                        "iontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "plokoon",
+                "points": 58,
+                "ship": "delta7aethersprite",
+                "upgrades": {
+                    "astromech": [
+                        "r2a6"
+                    ],
+                    "configuration": [
+                        "calibratedlasertargeting"
+                    ],
+                    "force-power": [
+                        "foresight"
+                    ]
+                }
+            },
+            {
+                "id": "obiwankenobi",
+                "points": 48,
+                "ship": "delta7aethersprite",
+                "upgrades": {}
+            },
+            {
+                "id": "padmeamidala",
+                "points": 45,
+                "ship": "nabooroyaln1starfighter",
+                "upgrades": {}
+            }
+        ],
+        "points": 199,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Galactic%20Republic&d=v8ZsZ200Z323X112W4W135Y312X251W241W200WY278XWWWY332XWWW&sn=Random%20Squad&obs="
+}

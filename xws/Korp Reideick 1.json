@@ -1,0 +1,74 @@
+{
+    "name": "Korp Reideick",
+    "number": 1,
+    "xws": {
+        "faction": "rebelalliance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "roguesquadronescort",
+                "points": 72,
+                "ship": "ewing",
+                "upgrades": {
+                    "astromech": [
+                        "r2astromech"
+                    ],
+                    "modification": [
+                        "targetingcomputer"
+                    ],
+                    "sensor": [
+                        "collisiondetector"
+                    ],
+                    "talent": [
+                        "composure"
+                    ]
+                }
+            },
+            {
+                "id": "leevantenza",
+                "points": 81,
+                "ship": "t65xwing",
+                "upgrades": {
+                    "astromech": [
+                        "r2d2"
+                    ],
+                    "configuration": [
+                        "servomotorsfoils"
+                    ],
+                    "illicit": [
+                        "cloakingdevice"
+                    ],
+                    "modification": [
+                        "stealthdevice"
+                    ],
+                    "talent": [
+                        "outmaneuver"
+                    ],
+                    "torpedo": [
+                        "protontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "goldsquadronveteran",
+                "points": 47,
+                "ship": "btla4ywing",
+                "upgrades": {
+                    "astromech": [
+                        "r5d8"
+                    ],
+                    "gunner": [
+                        "agilegunner"
+                    ],
+                    "talent": [
+                        "crackshot"
+                    ]
+                }
+            }
+        ],
+        "points": 200,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Rebel%20Alliance&d=v8ZsZ200Z23X115W112WW2W249Y10X91W126W136W3W166W142Y29X116WWW7WWW76&sn=Random%20Squad&obs="
+}

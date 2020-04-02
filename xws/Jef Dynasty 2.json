@@ -1,0 +1,58 @@
+{
+    "name": "Jef Dynasty",
+    "number": 2,
+    "xws": {
+        "faction": "rebelalliance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "phoenixsquadronpilot",
+                "points": 37,
+                "ship": "rz1awing",
+                "upgrades": {
+                    "missile": [
+                        "concussionmissiles"
+                    ],
+                    "talent": [
+                        "predator"
+                    ]
+                }
+            },
+            {
+                "id": "knavesquadronescort",
+                "points": 62,
+                "ship": "ewing",
+                "upgrades": {
+                    "astromech": [
+                        "r5d8"
+                    ],
+                    "torpedo": [
+                        "iontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "sabinewren-tielnfighter",
+                "points": 29,
+                "ship": "tielnfighter",
+                "upgrades": {}
+            },
+            {
+                "id": "kylekatarn",
+                "points": 34,
+                "ship": "hwk290lightfreighter",
+                "upgrades": {}
+            },
+            {
+                "id": "airencracken",
+                "points": 36,
+                "ship": "z95af4headhunter",
+                "upgrades": {}
+            }
+        ],
+        "points": 198,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Rebel%20Alliance&d=v8ZsZ200Z53X127W99Y24XW135W7WY13XWY48XWWWWWY54XWW&sn=Random%20Squad&obs="
+}

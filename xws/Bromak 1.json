@@ -1,0 +1,53 @@
+{
+    "name": "Bromak",
+    "number": 1,
+    "xws": {
+        "faction": "resistance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "temminwexley",
+                "points": 59,
+                "ship": "t70xwing",
+                "upgrades": {
+                    "astromech": [
+                        "r1j5"
+                    ],
+                    "configuration": [
+                        "integratedsfoils"
+                    ]
+                }
+            },
+            {
+                "id": "chewbacca-scavengedyt1300",
+                "points": 68,
+                "ship": "scavengedyt1300",
+                "upgrades": {
+                    "talent": [
+                        "lonewolf"
+                    ]
+                }
+            },
+            {
+                "id": "zizitlo",
+                "points": 40,
+                "ship": "rz2awing",
+                "upgrades": {}
+            },
+            {
+                "id": "vimoradi",
+                "points": 32,
+                "ship": "resistancetransportpod",
+                "upgrades": {
+                    "tech": [
+                        "patternanalyzer"
+                    ]
+                }
+            }
+        ],
+        "points": 199,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Resistance&d=v8ZsZ200Z297XW312WW175WWWY246X124WWWWWWWY387XWWWY348X206WW&sn=Random%20Squad&obs="
+}

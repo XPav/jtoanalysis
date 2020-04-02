@@ -1,0 +1,59 @@
+{
+    "name": "Greg Smith",
+    "number": 1,
+    "xws": {
+        "faction": "rebelalliance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "ezrabridger",
+                "points": 48,
+                "ship": "attackshuttle",
+                "upgrades": {
+                    "force-power": [
+                        "heightenedperception"
+                    ],
+                    "title": [
+                        "phantom"
+                    ],
+                    "turret": [
+                        "ioncannonturret"
+                    ]
+                }
+            },
+            {
+                "id": "dutchvander",
+                "points": 46,
+                "ship": "btla4ywing",
+                "upgrades": {
+                    "astromech": [
+                        "r5d8"
+                    ]
+                }
+            },
+            {
+                "id": "jekporkins",
+                "points": 52,
+                "ship": "t65xwing",
+                "upgrades": {
+                    "astromech": [
+                        "r2astromech"
+                    ],
+                    "configuration": [
+                        "servomotorsfoils"
+                    ]
+                }
+            },
+            {
+                "id": "roguesquadronescort",
+                "points": 53,
+                "ship": "ewing",
+                "upgrades": {}
+            }
+        ],
+        "points": 199,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Rebel%20Alliance&d=v8ZsZ200Z67X72WWW138W167Y27XWWW7WWWY3XWW2WW142Y23XWWWW&sn=Random%20Squad&obs="
+}

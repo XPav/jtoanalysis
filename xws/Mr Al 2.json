@@ -1,0 +1,70 @@
+{
+    "name": "Mr Al",
+    "number": 2,
+    "xws": {
+        "faction": "resistance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "chewbacca-scavengedyt1300",
+                "points": 92,
+                "ship": "scavengedyt1300",
+                "upgrades": {
+                    "crew": [
+                        "larmadacy",
+                        "c3po-crew"
+                    ],
+                    "gunner": [
+                        "finn"
+                    ],
+                    "missile": [
+                        "ionmissiles"
+                    ],
+                    "modification": [
+                        "targetingcomputer"
+                    ],
+                    "title": [
+                        "reysmillenniumfalcon"
+                    ]
+                }
+            },
+            {
+                "id": "greensquadronexpert",
+                "points": 44,
+                "ship": "rz2awing",
+                "upgrades": {
+                    "talent": [
+                        "elusive",
+                        "composure"
+                    ],
+                    "tech": [
+                        "targetingsynchronizer"
+                    ]
+                }
+            },
+            {
+                "id": "pammichnerrogoode",
+                "points": 62,
+                "ship": "resistancetransport",
+                "upgrades": {
+                    "astromech": [
+                        "r2ha"
+                    ],
+                    "crew": [
+                        "seasonednavigator"
+                    ],
+                    "tech": [
+                        "advancedoptics"
+                    ],
+                    "torpedo": [
+                        "protontorpedoes"
+                    ]
+                }
+            }
+        ],
+        "points": 198,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Resistance&d=v8ZsZ200Z246XW101W243W191W174WW249W193Y300X119W115WW177Y347X186WW136W59WW190W&sn=Random%20Squad&obs="
+}

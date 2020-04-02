@@ -1,0 +1,82 @@
+{
+    "name": "drJamaha",
+    "number": 1,
+    "xws": {
+        "faction": "galacticempire",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "tomaxbren",
+                "points": 73,
+                "ship": "tiesabomber",
+                "upgrades": {
+                    "device": [
+                        "connernets",
+                        "ionbombs"
+                    ],
+                    "gunner": [
+                        "fifthbrother"
+                    ],
+                    "missile": [
+                        "homingmissiles"
+                    ],
+                    "modification": [
+                        "targetingcomputer"
+                    ],
+                    "talent": [
+                        "ruthless"
+                    ],
+                    "torpedo": [
+                        "iontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "gammasquadronace",
+                "points": 48,
+                "ship": "tiesabomber",
+                "upgrades": {
+                    "device": [
+                        "ionbombs"
+                    ],
+                    "talent": [
+                        "outmaneuver"
+                    ],
+                    "torpedo": [
+                        "advprotontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "obsidiansquadronpilot",
+                "points": 29,
+                "ship": "tielnfighter",
+                "upgrades": {
+                    "modification": [
+                        "afterburners"
+                    ]
+                }
+            },
+            {
+                "id": "deathfire",
+                "points": 47,
+                "ship": "tiesabomber",
+                "upgrades": {
+                    "device": [
+                        "seismiccharges"
+                    ],
+                    "missile": [
+                        "diamondboronmissiles"
+                    ],
+                    "modification": [
+                        "afterburners"
+                    ]
+                }
+            }
+        ],
+        "points": 197,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Galactic%20Empire&d=v8ZsZ200Z205X128W135WW100W82W68W317W249Y207X126W134WWWWW317WY228X105Y206XW238WWW71WW105&sn=Random%20Squad&obs="
+}

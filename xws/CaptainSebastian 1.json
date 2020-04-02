@@ -1,0 +1,53 @@
+{
+    "name": "CaptainSebastian",
+    "number": 1,
+    "xws": {
+        "faction": "scumandvillainy",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "torkilmux",
+                "points": 47,
+                "ship": "hwk290lightfreighter",
+                "upgrades": {
+                    "crew": [
+                        "cikatrovizago"
+                    ],
+                    "device": [
+                        "clustermines"
+                    ]
+                }
+            },
+            {
+                "id": "manaroo",
+                "points": 58,
+                "ship": "jumpmaster5000",
+                "upgrades": {
+                    "torpedo": [
+                        "protontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "dengar",
+                "points": 62,
+                "ship": "jumpmaster5000",
+                "upgrades": {
+                    "talent": [
+                        "snapshot"
+                    ]
+                }
+            },
+            {
+                "id": "ndrusuhlak",
+                "points": 30,
+                "ship": "z95af4headhunter",
+                "upgrades": {}
+            }
+        ],
+        "points": 197,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Scum%20and%20Villainy&d=v8ZsZ200Z114X25W316WWWWY117XW136WWWWWWY115X256WWWWWWWY156XWWW&sn=Random%20Squad&obs="
+}

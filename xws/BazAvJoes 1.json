@@ -1,0 +1,72 @@
+{
+    "name": "BazAvJoes",
+    "number": 1,
+    "xws": {
+        "faction": "galacticempire",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "onyxsquadronscout",
+                "points": 35,
+                "ship": "tieagaggressor",
+                "upgrades": {
+                    "missile": [
+                        "protonrockets"
+                    ]
+                }
+            },
+            {
+                "id": "majorvynder",
+                "points": 48,
+                "ship": "alphaclassstarwing",
+                "upgrades": {
+                    "talent": [
+                        "crackshot"
+                    ],
+                    "torpedo": [
+                        "iontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "onyxsquadronscout",
+                "points": 39,
+                "ship": "tieagaggressor",
+                "upgrades": {
+                    "missile": [
+                        "ionmissiles"
+                    ],
+                    "modification": [
+                        "stealthdevice"
+                    ],
+                    "talent": [
+                        "composure"
+                    ]
+                }
+            },
+            {
+                "id": "rhosquadronpilot",
+                "points": 45,
+                "ship": "alphaclassstarwing",
+                "upgrades": {
+                    "missile": [
+                        "protonrockets"
+                    ],
+                    "sensor": [
+                        "passivesensors"
+                    ]
+                }
+            },
+            {
+                "id": "deathfire",
+                "points": 32,
+                "ship": "tiesabomber",
+                "upgrades": {}
+            }
+        ],
+        "points": 199,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Galactic%20Empire&d=v8ZsZ200Z189XWWW102WWY161X116WW135WWWY189X115WW101WWW166Y163XW240WW102WWY206XWWWWWW&sn=Random%20Squad&obs="
+}

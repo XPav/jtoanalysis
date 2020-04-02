@@ -1,0 +1,60 @@
+{
+    "name": "Admiral Kuna",
+    "number": 2,
+    "xws": {
+        "faction": "galacticempire",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "countdown",
+                "points": 45,
+                "ship": "tieskstriker",
+                "upgrades": {
+                    "talent": [
+                        "marksmanship"
+                    ]
+                }
+            },
+            {
+                "id": "baronoftheempire",
+                "points": 49,
+                "ship": "tieadvancedv1",
+                "upgrades": {
+                    "missile": [
+                        "magpulsewarheads"
+                    ],
+                    "sensor": [
+                        "collisiondetector"
+                    ],
+                    "talent": [
+                        "snapshot"
+                    ]
+                }
+            },
+            {
+                "id": "mornakee",
+                "points": 102,
+                "ship": "vt49decimator",
+                "upgrades": {
+                    "crew": [
+                        "deathtroopers",
+                        "novicetechnician"
+                    ],
+                    "gunner": [
+                        "fifthbrother"
+                    ],
+                    "talent": [
+                        "predator"
+                    ],
+                    "title": [
+                        "dauntless"
+                    ]
+                }
+            }
+        ],
+        "points": 196,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Galactic%20Empire&d=v8ZsZ200Z209X125WWWY172X256W112W311Y396X127WWW27W53W82WWW147&sn=Random%20Squad&obs="
+}

@@ -1,0 +1,55 @@
+{
+    "name": "bgFish",
+    "number": 1,
+    "xws": {
+        "faction": "scumandvillainy",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "dalanoberos-starviperclassattackplatform",
+                "points": 86,
+                "ship": "starviperclassattackplatform",
+                "upgrades": {
+                    "modification": [
+                        "shieldupgrade"
+                    ],
+                    "sensor": [
+                        "advancedsensors"
+                    ],
+                    "title": [
+                        "virago"
+                    ],
+                    "torpedo": [
+                        "advprotontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "cartelexecutioner",
+                "points": 41,
+                "ship": "m12lkimogilafighter",
+                "upgrades": {}
+            },
+            {
+                "id": "bossk-z95af4headhunter",
+                "points": 36,
+                "ship": "z95af4headhunter",
+                "upgrades": {
+                    "talent": [
+                        "juke"
+                    ]
+                }
+            },
+            {
+                "id": "constablezuvio",
+                "points": 33,
+                "ship": "quadrijettransferspacetug",
+                "upgrades": {}
+            }
+        ],
+        "points": 196,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Scum%20and%20Villainy&d=v8ZsZ200Z149XW111W134W165W163WY131XWWWWWY398X123WWWY140XWWWWW&sn=Random%20Squad&obs="
+}

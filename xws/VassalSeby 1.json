@@ -1,0 +1,49 @@
+{
+    "name": "VassalSeby",
+    "number": 1,
+    "xws": {
+        "faction": "firstorder",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "captainphasma",
+                "points": 39,
+                "ship": "tiesffighter",
+                "upgrades": {}
+            },
+            {
+                "id": "starkillerbasepilot",
+                "points": 61,
+                "ship": "upsilonclasscommandshuttle",
+                "upgrades": {
+                    "cannon": [
+                        "autoblasters"
+                    ]
+                }
+            },
+            {
+                "id": "captaincardinal",
+                "points": 69,
+                "ship": "upsilonclasscommandshuttle",
+                "upgrades": {
+                    "crew": [
+                        "generalhux"
+                    ],
+                    "tech": [
+                        "biohexacryptcodes"
+                    ]
+                }
+            },
+            {
+                "id": "omegasquadronace",
+                "points": 28,
+                "ship": "tiefofighter",
+                "upgrades": {}
+            }
+        ],
+        "points": 197,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=First%20Order&d=v8ZsZ200Z385XWWWWWY288XWWWWW232WWY282XW202W180WWWWWY267XWW&sn=Random%20Squad&obs="
+}

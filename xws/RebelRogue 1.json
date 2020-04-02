@@ -1,0 +1,54 @@
+{
+    "name": "RebelRogue",
+    "number": 1,
+    "xws": {
+        "faction": "rebelalliance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "wildspacefringer",
+                "points": 114,
+                "ship": "yt2400lightfreighter",
+                "upgrades": {
+                    "crew": [
+                        "chopper-crew"
+                    ],
+                    "gunner": [
+                        "ezrabridger"
+                    ],
+                    "missile": [
+                        "homingmissiles"
+                    ],
+                    "modification": [
+                        "targetingcomputer"
+                    ],
+                    "title": [
+                        "outrider"
+                    ]
+                }
+            },
+            {
+                "id": "zeborrelios-tielnfighter",
+                "points": 24,
+                "ship": "tielnfighter",
+                "upgrades": {}
+            },
+            {
+                "id": "lieutenantblount",
+                "points": 30,
+                "ship": "z95af4headhunter",
+                "upgrades": {}
+            },
+            {
+                "id": "greensquadronpilot",
+                "points": 32,
+                "ship": "rz1awing",
+                "upgrades": {}
+            }
+        ],
+        "points": 200,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Rebel%20Alliance&d=v8ZsZ200Z41X100W81W23W249W157WY15XY55XWWY52XWW&sn=Random%20Squad&obs="
+}

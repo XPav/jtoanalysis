@@ -1,0 +1,54 @@
+{
+    "name": "Dan",
+    "number": 2,
+    "xws": {
+        "faction": "galacticempire",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "vizier",
+                "points": 67,
+                "ship": "tiereaper",
+                "upgrades": {
+                    "crew": [
+                        "directorkrennic",
+                        "darthvader"
+                    ],
+                    "modification": [
+                        "shieldupgrade"
+                    ]
+                }
+            },
+            {
+                "id": "deltasquadronpilot",
+                "points": 84,
+                "ship": "tieddefender",
+                "upgrades": {
+                    "cannon": [
+                        "heavylasercannon"
+                    ],
+                    "missile": [
+                        "magpulsewarheads"
+                    ],
+                    "sensor": [
+                        "trajectorysimulator"
+                    ]
+                }
+            },
+            {
+                "id": "omicrongrouppilot",
+                "points": 49,
+                "ship": "lambdaclasst4ashuttle",
+                "upgrades": {
+                    "crew": [
+                        "cienaree"
+                    ]
+                }
+            }
+        ],
+        "points": 200,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Galactic%20Empire&d=v8ZsZ200Z185X28W26W165Y198X114W10W311Y168XWWW24WW&sn=Random%20Squad&obs="
+}

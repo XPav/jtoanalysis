@@ -1,0 +1,59 @@
+{
+    "name": "Bigfoot",
+    "number": 1,
+    "xws": {
+        "faction": "galacticempire",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "patrolleader",
+                "points": 81,
+                "ship": "vt49decimator",
+                "upgrades": {
+                    "crew": [
+                        "novicetechnician"
+                    ],
+                    "device": [
+                        "clustermines"
+                    ],
+                    "gunner": [
+                        "skilledbombardier"
+                    ]
+                }
+            },
+            {
+                "id": "doubleedge",
+                "points": 43,
+                "ship": "tieagaggressor",
+                "upgrades": {
+                    "gunner": [
+                        "hotshotgunner"
+                    ],
+                    "missile": [
+                        "protonrockets"
+                    ]
+                }
+            },
+            {
+                "id": "deathfire",
+                "points": 32,
+                "ship": "tiesabomber",
+                "upgrades": {}
+            },
+            {
+                "id": "inquisitor",
+                "points": 40,
+                "ship": "tieadvancedv1",
+                "upgrades": {
+                    "missile": [
+                        "homingmissiles"
+                    ]
+                }
+            }
+        ],
+        "points": 196,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Galactic%20Empire&d=v8ZsZ200Z216XWWW53W88W316WWY188XWW102WW86WY206XWWWWWWY171XWW100&sn=Random%20Squad&obs="
+}

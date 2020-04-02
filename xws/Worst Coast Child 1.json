@@ -1,0 +1,63 @@
+{
+    "name": "Worst Coast Child",
+    "number": 1,
+    "xws": {
+        "faction": "resistance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "rosetico",
+                "points": 33,
+                "ship": "resistancetransportpod",
+                "upgrades": {
+                    "talent": [
+                        "experthandling"
+                    ],
+                    "tech": [
+                        "patternanalyzer"
+                    ]
+                }
+            },
+            {
+                "id": "jarekyeager",
+                "points": 34,
+                "ship": "fireball",
+                "upgrades": {
+                    "modification": [
+                        "munitionsfailsafe"
+                    ]
+                }
+            },
+            {
+                "id": "cobaltsquadronbomber",
+                "points": 59,
+                "ship": "mg100starfortress",
+                "upgrades": {
+                    "crew": [
+                        "c3po-crew"
+                    ],
+                    "modification": [
+                        "delayedfuses"
+                    ]
+                }
+            },
+            {
+                "id": "paigetico",
+                "points": 74,
+                "ship": "mg100starfortress",
+                "upgrades": {
+                    "device": [
+                        "clustermines"
+                    ],
+                    "sensor": [
+                        "collisiondetector"
+                    ]
+                }
+            }
+        ],
+        "points": 200,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Resistance&d=v8ZsZ200Z345X120W206WWY377XWWWW108WWY260XWW191WWWWW236Y389XW112WWWWW316WW&sn=Random%20Squad&obs="
+}

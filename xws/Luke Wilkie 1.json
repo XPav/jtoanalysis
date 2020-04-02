@@ -1,0 +1,56 @@
+{
+    "name": "Luke Wilkie",
+    "number": 1,
+    "xws": {
+        "faction": "resistance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "vimoradi",
+                "points": 32,
+                "ship": "resistancetransportpod",
+                "upgrades": {
+                    "crew": [
+                        "freelanceslicer"
+                    ],
+                    "modification": [
+                        "electronicbaffle"
+                    ]
+                }
+            },
+            {
+                "id": "hansolo-scavengedyt1300",
+                "points": 68,
+                "ship": "scavengedyt1300",
+                "upgrades": {
+                    "talent": [
+                        "intimidation"
+                    ]
+                }
+            },
+            {
+                "id": "cat",
+                "points": 69,
+                "ship": "mg100starfortress",
+                "upgrades": {
+                    "gunner": [
+                        "finn"
+                    ],
+                    "tech": [
+                        "patternanalyzer"
+                    ]
+                }
+            },
+            {
+                "id": "r1j5",
+                "points": 29,
+                "ship": "fireball",
+                "upgrades": {}
+            }
+        ],
+        "points": 198,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Resistance&d=v8ZsZ200Z348XW30W106Y245X122WWWWWWWY291XW206WWW174WWWY379XWWWWW&sn=Random%20Squad&obs="
+}

@@ -1,0 +1,58 @@
+{
+    "name": "OmegaLeader",
+    "number": 2,
+    "xws": {
+        "faction": "scumandvillainy",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "kadsolus",
+                "points": 54,
+                "ship": "fangfighter",
+                "upgrades": {}
+            },
+            {
+                "id": "dengar",
+                "points": 85,
+                "ship": "jumpmaster5000",
+                "upgrades": {
+                    "astromech": [
+                        "r5p8"
+                    ],
+                    "cannon": [
+                        "autoblasters"
+                    ],
+                    "gunner": [
+                        "hotshotgunner"
+                    ],
+                    "title": [
+                        "punishingone"
+                    ],
+                    "torpedo": [
+                        "protontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "bossk-z95af4headhunter",
+                "points": 33,
+                "ship": "z95af4headhunter",
+                "upgrades": {
+                    "missile": [
+                        "ionmissiles"
+                    ]
+                }
+            },
+            {
+                "id": "l337-escapecraft",
+                "points": 26,
+                "ship": "escapecraft",
+                "upgrades": {}
+            }
+        ],
+        "points": 198,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Scum%20and%20Villainy&d=v8ZsZ200Z99XWY115XW136W232WW86WWW159W8Y398XW101WWY95XWW&sn=Random%20Squad&obs="
+}

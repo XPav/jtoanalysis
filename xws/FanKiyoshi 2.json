@@ -1,0 +1,62 @@
+{
+    "name": "FanKiyoshi",
+    "number": 2,
+    "xws": {
+        "faction": "resistance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "edonkappehl",
+                "points": 84,
+                "ship": "mg100starfortress",
+                "upgrades": {
+                    "crew": [
+                        "novicetechnician"
+                    ],
+                    "gunner": [
+                        "rey-gunner"
+                    ],
+                    "sensor": [
+                        "trajectorysimulator"
+                    ]
+                }
+            },
+            {
+                "id": "logisticsdivisionpilot",
+                "points": 46,
+                "ship": "resistancetransport",
+                "upgrades": {
+                    "astromech": [
+                        "r2ha"
+                    ],
+                    "crew": [
+                        "perceptivecopilot"
+                    ],
+                    "modification": [
+                        "electronicbaffle"
+                    ]
+                }
+            },
+            {
+                "id": "redsquadronexpert",
+                "points": 44,
+                "ship": "t70xwing",
+                "upgrades": {
+                    "configuration": [
+                        "integratedsfoils"
+                    ]
+                }
+            },
+            {
+                "id": "bb8",
+                "points": 26,
+                "ship": "resistancetransportpod",
+                "upgrades": {}
+            }
+        ],
+        "points": 200,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Resistance&d=v8ZsZ200Z293X114WW53WW187WWWY346XWWW54WW190W106Y257XWWW175WWWY349XWWW&sn=Random%20Squad&obs="
+}

@@ -1,0 +1,76 @@
+{
+    "name": "tox",
+    "number": 1,
+    "xws": {
+        "faction": "galacticempire",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "obsidiansquadronpilot",
+                "points": 30,
+                "ship": "tielnfighter",
+                "upgrades": {
+                    "modification": [
+                        "hullupgrade"
+                    ]
+                }
+            },
+            {
+                "id": "tempestsquadronpilot",
+                "points": 53,
+                "ship": "tieadvancedx1",
+                "upgrades": {
+                    "missile": [
+                        "protonrockets"
+                    ],
+                    "modification": [
+                        "hullupgrade"
+                    ],
+                    "sensor": [
+                        "passivesensors"
+                    ]
+                }
+            },
+            {
+                "id": "alphasquadronpilot",
+                "points": 32,
+                "ship": "tieininterceptor",
+                "upgrades": {
+                    "modification": [
+                        "munitionsfailsafe"
+                    ]
+                }
+            },
+            {
+                "id": "nusquadronpilot",
+                "points": 45,
+                "ship": "alphaclassstarwing",
+                "upgrades": {
+                    "missile": [
+                        "magpulsewarheads"
+                    ],
+                    "modification": [
+                        "munitionsfailsafe"
+                    ],
+                    "sensor": [
+                        "trajectorysimulator"
+                    ]
+                }
+            },
+            {
+                "id": "planetarysentinel",
+                "points": 37,
+                "ship": "tieskstriker",
+                "upgrades": {
+                    "device": [
+                        "ionbombs"
+                    ]
+                }
+            }
+        ],
+        "points": 197,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Galactic%20Empire&d=v8ZsZ200Z228X164Y178X240W102W164Y182X108WY164X114WW311W108WY213XW317W&sn=Random%20Squad&obs="
+}

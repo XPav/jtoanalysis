@@ -1,0 +1,70 @@
+{
+    "name": "designflaw",
+    "number": 1,
+    "xws": {
+        "faction": "resistance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "resistancesympathizer",
+                "points": 84,
+                "ship": "scavengedyt1300",
+                "upgrades": {
+                    "crew": [
+                        "pz4co",
+                        "amilynholdo"
+                    ],
+                    "gunner": [
+                        "veteranturretgunner"
+                    ]
+                }
+            },
+            {
+                "id": "bb8",
+                "points": 45,
+                "ship": "resistancetransportpod",
+                "upgrades": {
+                    "crew": [
+                        "korrsella"
+                    ],
+                    "modification": [
+                        "munitionsfailsafe"
+                    ],
+                    "talent": [
+                        "squadleader"
+                    ],
+                    "tech": [
+                        "advancedoptics"
+                    ]
+                }
+            },
+            {
+                "id": "covanell",
+                "points": 68,
+                "ship": "resistancetransport",
+                "upgrades": {
+                    "astromech": [
+                        "r1j5"
+                    ],
+                    "cannon": [
+                        "autoblasters"
+                    ],
+                    "crew": [
+                        "kaydelconnix",
+                        "larmadacy"
+                    ],
+                    "tech": [
+                        "targetingsynchronizer"
+                    ],
+                    "torpedo": [
+                        "iontorpedoes"
+                    ]
+                }
+            }
+        ],
+        "points": 197,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Resistance&d=v8ZsZ200Z295XW246W242W90WWWY349X131W186W245W108Y351XW177W232W135W231W243W312W&sn=Random%20Squad&obs="
+}

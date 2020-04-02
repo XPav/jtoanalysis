@@ -1,0 +1,48 @@
+{
+    "name": "JBark",
+    "number": 2,
+    "xws": {
+        "faction": "galacticempire",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "mornakee",
+                "points": 89,
+                "ship": "vt49decimator",
+                "upgrades": {
+                    "crew": [
+                        "moffjerjerrod"
+                    ],
+                    "modification": [
+                        "staticdischargevanes"
+                    ]
+                }
+            },
+            {
+                "id": "majorvynder",
+                "points": 43,
+                "ship": "alphaclassstarwing",
+                "upgrades": {
+                    "talent": [
+                        "predator"
+                    ]
+                }
+            },
+            {
+                "id": "redline",
+                "points": 63,
+                "ship": "tiecapunisher",
+                "upgrades": {
+                    "device": [
+                        "proximitymines",
+                        "protonbombs"
+                    ]
+                }
+            }
+        ],
+        "points": 195,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Galactic%20Empire&d=v8ZsZ200Z396XWW50WWWWW109WY161X127WWWWWY191XWWWWW70W69W&sn=Random%20Squad&obs="
+}

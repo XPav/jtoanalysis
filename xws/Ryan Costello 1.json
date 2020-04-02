@@ -1,0 +1,69 @@
+{
+    "name": "Ryan Costello",
+    "number": 1,
+    "xws": {
+        "faction": "resistance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "vimoradi",
+                "points": 36,
+                "ship": "resistancetransportpod",
+                "upgrades": {
+                    "crew": [
+                        "informant"
+                    ],
+                    "tech": [
+                        "advancedoptics"
+                    ]
+                }
+            },
+            {
+                "id": "lulolampar",
+                "points": 57,
+                "ship": "rz2awing",
+                "upgrades": {
+                    "talent": [
+                        "snapshot",
+                        "crackshot"
+                    ],
+                    "tech": [
+                        "ferrospherepaint"
+                    ]
+                }
+            },
+            {
+                "id": "chewbacca-scavengedyt1300",
+                "points": 81,
+                "ship": "scavengedyt1300",
+                "upgrades": {
+                    "gunner": [
+                        "agilegunner"
+                    ],
+                    "missile": [
+                        "concussionmissiles"
+                    ],
+                    "modification": [
+                        "munitionsfailsafe"
+                    ],
+                    "talent": [
+                        "crackshot"
+                    ],
+                    "title": [
+                        "reysmillenniumfalcon"
+                    ]
+                }
+            },
+            {
+                "id": "bb8",
+                "points": 26,
+                "ship": "resistancetransportpod",
+                "upgrades": {}
+            }
+        ],
+        "points": 200,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Resistance&d=v8ZsZ200Z348X186W37WY239X256W116WW198Y246X116W99WWW76WW108W193Y349XWWW&sn=Random%20Squad&obs="
+}

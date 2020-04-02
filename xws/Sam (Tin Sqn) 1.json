@@ -1,0 +1,66 @@
+{
+    "name": "Sam (Tin Sqn)",
+    "number": 1,
+    "xws": {
+        "faction": "galacticempire",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "majorvermeil",
+                "points": 70,
+                "ship": "tiereaper",
+                "upgrades": {
+                    "crew": [
+                        "agentkallus",
+                        "grandinquisitor"
+                    ],
+                    "modification": [
+                        "tacticalscrambler"
+                    ],
+                    "talent": [
+                        "marksmanship"
+                    ]
+                }
+            },
+            {
+                "id": "doubleedge",
+                "points": 33,
+                "ship": "tieagaggressor",
+                "upgrades": {
+                    "modification": [
+                        "munitionsfailsafe"
+                    ],
+                    "turret": [
+                        "dorsalturret"
+                    ]
+                }
+            },
+            {
+                "id": "onyxsquadronscout",
+                "points": 51,
+                "ship": "tieagaggressor",
+                "upgrades": {
+                    "gunner": [
+                        "fifthbrother"
+                    ],
+                    "missile": [
+                        "protonrockets"
+                    ],
+                    "turret": [
+                        "ioncannonturret"
+                    ]
+                }
+            },
+            {
+                "id": "vizier",
+                "points": 45,
+                "ship": "tiereaper",
+                "upgrades": {}
+            }
+        ],
+        "points": 199,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Galactic%20Empire&d=v8ZsZ200Z183X125W15W33W110Y188XW137WWWW108Y189XW138WW102W82WY185XWW&sn=Random%20Squad&obs="
+}

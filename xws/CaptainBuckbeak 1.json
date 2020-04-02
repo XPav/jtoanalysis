@@ -1,0 +1,62 @@
+{
+    "name": "CaptainBuckbeak",
+    "number": 1,
+    "xws": {
+        "faction": "resistance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "hansolo-scavengedyt1300",
+                "points": 93,
+                "ship": "scavengedyt1300",
+                "upgrades": {
+                    "crew": [
+                        "chewbacca-crew-swz19"
+                    ],
+                    "gunner": [
+                        "rey-gunner"
+                    ],
+                    "missile": [
+                        "protonrockets"
+                    ],
+                    "modification": [
+                        "tacticalscrambler"
+                    ]
+                }
+            },
+            {
+                "id": "niennunb",
+                "points": 68,
+                "ship": "t70xwing",
+                "upgrades": {
+                    "astromech": [
+                        "r4astromech"
+                    ],
+                    "configuration": [
+                        "integratedsfoils"
+                    ],
+                    "modification": [
+                        "stealthdevice"
+                    ],
+                    "tech": [
+                        "patternanalyzer"
+                    ]
+                }
+            },
+            {
+                "id": "bluesquadronrecruit",
+                "points": 38,
+                "ship": "rz2awing",
+                "upgrades": {
+                    "tech": [
+                        "ferrospherepaint"
+                    ]
+                }
+            }
+        ],
+        "points": 199,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Resistance&d=v8ZsZ200Z245XW102WW188W187WW110WY298XW5W166W175W206WWY301XWW198&sn=Random%20Squad&obs="
+}

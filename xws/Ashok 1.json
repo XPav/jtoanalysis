@@ -1,0 +1,53 @@
+{
+    "name": "Ashok",
+    "number": 1,
+    "xws": {
+        "faction": "firstorder",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "majorvonreg",
+                "points": 57,
+                "ship": "tiebainterceptor",
+                "upgrades": {}
+            },
+            {
+                "id": "commandermalarus",
+                "points": 43,
+                "ship": "tiefofighter",
+                "upgrades": {
+                    "tech": [
+                        "patternanalyzer"
+                    ]
+                }
+            },
+            {
+                "id": "midnight",
+                "points": 49,
+                "ship": "tiefofighter",
+                "upgrades": {
+                    "modification": [
+                        "hullupgrade"
+                    ]
+                }
+            },
+            {
+                "id": "captainphasma",
+                "points": 47,
+                "ship": "tiesffighter",
+                "upgrades": {
+                    "talent": [
+                        "elusive"
+                    ],
+                    "tech": [
+                        "patternanalyzer"
+                    ]
+                }
+            }
+        ],
+        "points": 196,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=First%20Order&d=v8ZsZ200Z381XWWWY266XW206WY233XWW164Y385X119W206WWWW&sn=Random%20Squad&obs="
+}

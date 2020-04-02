@@ -1,0 +1,52 @@
+{
+    "name": "jesedk",
+    "number": 2,
+    "xws": {
+        "faction": "galacticrepublic",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "oddball-btlbywing",
+                "points": 69,
+                "ship": "btlbywing",
+                "upgrades": {
+                    "gunner": [
+                        "ahsokatano"
+                    ],
+                    "talent": [
+                        "snapshot"
+                    ],
+                    "torpedo": [
+                        "iontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "kickback",
+                "points": 39,
+                "ship": "v19torrentstarfighter",
+                "upgrades": {
+                    "modification": [
+                        "shieldupgrade"
+                    ]
+                }
+            },
+            {
+                "id": "jag",
+                "points": 48,
+                "ship": "arc170starfighter",
+                "upgrades": {}
+            },
+            {
+                "id": "matchstick",
+                "points": 43,
+                "ship": "btlbywing",
+                "upgrades": {}
+            }
+        ],
+        "points": 199,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Galactic%20Republic&d=v8ZsZ200Z366X256WW135W253WWWY315XWW165Y339XWWWWY365XWWWWWW&sn=Random%20Squad&obs="
+}

@@ -1,0 +1,59 @@
+{
+    "name": "Spinner",
+    "number": 2,
+    "xws": {
+        "faction": "galacticempire",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "fifthbrother",
+                "points": 56,
+                "ship": "tieadvancedv1",
+                "upgrades": {
+                    "force-power": [
+                        "precognitivereflexes"
+                    ],
+                    "missile": [
+                        "protonrockets"
+                    ]
+                }
+            },
+            {
+                "id": "majorvynder",
+                "points": 59,
+                "ship": "alphaclassstarwing",
+                "upgrades": {
+                    "missile": [
+                        "ionmissiles"
+                    ],
+                    "talent": [
+                        "saturationsalvo"
+                    ],
+                    "torpedo": [
+                        "plasmatorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "doubleedge",
+                "points": 37,
+                "ship": "tieagaggressor",
+                "upgrades": {
+                    "gunner": [
+                        "agilegunner"
+                    ]
+                }
+            },
+            {
+                "id": "imdaartestpilot",
+                "points": 43,
+                "ship": "tiephphantom",
+                "upgrades": {}
+            }
+        ],
+        "points": 195,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Galactic%20Empire&d=v8ZsZ200Z394X250WW102Y161X129WW234W101WWY188XWWWW76WY202XWW&sn=Random%20Squad&obs="
+}

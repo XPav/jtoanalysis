@@ -1,0 +1,64 @@
+{
+    "name": "BrodyRules",
+    "number": 2,
+    "xws": {
+        "faction": "galacticempire",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "alphasquadronpilot",
+                "points": 45,
+                "ship": "tieininterceptor",
+                "upgrades": {
+                    "modification": [
+                        "staticdischargevanes",
+                        "shieldupgrade"
+                    ]
+                }
+            },
+            {
+                "id": "coloneljendon",
+                "points": 58,
+                "ship": "lambdaclasst4ashuttle",
+                "upgrades": {
+                    "cannon": [
+                        "tractorbeam"
+                    ],
+                    "modification": [
+                        "hullupgrade"
+                    ],
+                    "title": [
+                        "st321"
+                    ]
+                }
+            },
+            {
+                "id": "seventhsister",
+                "points": 56,
+                "ship": "tieadvancedv1",
+                "upgrades": {
+                    "force-power": [
+                        "hate"
+                    ],
+                    "sensor": [
+                        "advancedsensors"
+                    ]
+                }
+            },
+            {
+                "id": "blacksquadronscout",
+                "points": 39,
+                "ship": "tieskstriker",
+                "upgrades": {
+                    "modification": [
+                        "hullupgrade"
+                    ]
+                }
+            }
+        ],
+        "points": 198,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Galactic%20Empire&d=v8ZsZ200Z182X109W165Y167XW13WWW164W162Y170X204W111WY212XWWW164&sn=Random%20Squad&obs="
+}

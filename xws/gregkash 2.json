@@ -1,0 +1,80 @@
+{
+    "name": "gregkash",
+    "number": 2,
+    "xws": {
+        "faction": "resistance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "r1j5",
+                "points": 44,
+                "ship": "fireball",
+                "upgrades": {
+                    "crew": [
+                        "korrsella"
+                    ],
+                    "illicit": [
+                        "contrabandcybernetics"
+                    ],
+                    "modification": [
+                        "delayedfuses",
+                        "shieldupgrade"
+                    ]
+                }
+            },
+            {
+                "id": "kazudaxiono",
+                "points": 65,
+                "ship": "fireball",
+                "upgrades": {
+                    "astromech": [
+                        "bbastromech"
+                    ],
+                    "illicit": [
+                        "feedbackarray"
+                    ],
+                    "modification": [
+                        "shieldupgrade",
+                        "advancedslam"
+                    ],
+                    "talent": [
+                        "snapshot"
+                    ],
+                    "title": [
+                        "kazsfireball"
+                    ]
+                }
+            },
+            {
+                "id": "vimoradi",
+                "points": 31,
+                "ship": "resistancetransportpod",
+                "upgrades": {
+                    "crew": [
+                        "hansolo-crew"
+                    ]
+                }
+            },
+            {
+                "id": "jaycristubbs",
+                "points": 60,
+                "ship": "t70xwing",
+                "upgrades": {
+                    "astromech": [
+                        "r2astromech"
+                    ],
+                    "configuration": [
+                        "integratedsfoils"
+                    ],
+                    "tech": [
+                        "patternanalyzer"
+                    ]
+                }
+            }
+        ],
+        "points": 200,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Resistance&d=v8ZsZ200Z379XW245W92W236W165WY378X256WW196W94W165W104W315Y348XW192WY255X2WW175W206WW&sn=Random%20Squad&obs="
+}

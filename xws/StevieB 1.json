@@ -1,0 +1,56 @@
+{
+    "name": "StevieB",
+    "number": 1,
+    "xws": {
+        "faction": "rebelalliance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "bluesquadronpilot",
+                "points": 47,
+                "ship": "asf01bwing",
+                "upgrades": {
+                    "cannon": [
+                        "ioncannon"
+                    ]
+                }
+            },
+            {
+                "id": "zeborrelios-tielnfighter",
+                "points": 32,
+                "ship": "tielnfighter",
+                "upgrades": {
+                    "modification": [
+                        "stealthdevice"
+                    ]
+                }
+            },
+            {
+                "id": "bladesquadronveteran",
+                "points": 48,
+                "ship": "asf01bwing",
+                "upgrades": {
+                    "sensor": [
+                        "trajectorysimulator"
+                    ]
+                }
+            },
+            {
+                "id": "ap5",
+                "points": 32,
+                "ship": "sheathipedeclassshuttle",
+                "upgrades": {}
+            },
+            {
+                "id": "roarkgarnet",
+                "points": 38,
+                "ship": "hwk290lightfreighter",
+                "upgrades": {}
+            }
+        ],
+        "points": 197,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Rebel%20Alliance&d=v8ZsZ200Z76XW11WWWWY15X166Y75XW114WWWWWY72XWWWWY47XWWWWW&sn=Random%20Squad&obs="
+}

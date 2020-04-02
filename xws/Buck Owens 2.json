@@ -1,0 +1,52 @@
+{
+    "name": "Buck Owens",
+    "number": 2,
+    "xws": {
+        "faction": "scumandvillainy",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "blacksunassassin",
+                "points": 64,
+                "ship": "starviperclassattackplatform",
+                "upgrades": {
+                    "sensor": [
+                        "collisiondetector"
+                    ],
+                    "talent": [
+                        "debrisgambit"
+                    ],
+                    "torpedo": [
+                        "advprotontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "dalanoberos-starviperclassattackplatform",
+                "points": 62,
+                "ship": "starviperclassattackplatform",
+                "upgrades": {
+                    "modification": [
+                        "shieldupgrade"
+                    ]
+                }
+            },
+            {
+                "id": "skullsquadronpilot",
+                "points": 47,
+                "ship": "fangfighter",
+                "upgrades": {}
+            },
+            {
+                "id": "miningguildsentry",
+                "points": 22,
+                "ship": "modifiedtielnfighter",
+                "upgrades": {}
+            }
+        ],
+        "points": 195,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Scum%20and%20Villainy&d=v8ZsZ200Z150X118W112W134WWY149XWWW165WY101XWY304X&sn=Random%20Squad&obs="
+}

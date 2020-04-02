@@ -1,0 +1,75 @@
+{
+    "name": "Justin Dicke",
+    "number": 2,
+    "xws": {
+        "faction": "scumandvillainy",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "unkarplutt",
+                "points": 39,
+                "ship": "quadrijettransferspacetug",
+                "upgrades": {
+                    "crew": [
+                        "l337"
+                    ],
+                    "device": [
+                        "seismiccharges"
+                    ],
+                    "illicit": [
+                        "inertialdampeners"
+                    ]
+                }
+            },
+            {
+                "id": "dacebonearm",
+                "points": 50,
+                "ship": "hwk290lightfreighter",
+                "upgrades": {
+                    "crew": [
+                        "landocalrissian-crew"
+                    ],
+                    "device": [
+                        "connernets"
+                    ],
+                    "illicit": [
+                        "deadmansswitch"
+                    ],
+                    "modification": [
+                        "delayedfuses"
+                    ]
+                }
+            },
+            {
+                "id": "miningguildsurveyor",
+                "points": 25,
+                "ship": "modifiedtielnfighter",
+                "upgrades": {
+                    "talent": [
+                        "predator"
+                    ]
+                }
+            },
+            {
+                "id": "toranikulda",
+                "points": 54,
+                "ship": "m12lkimogilafighter",
+                "upgrades": {
+                    "modification": [
+                        "staticdischargevanes"
+                    ]
+                }
+            },
+            {
+                "id": "crymorahgoon",
+                "points": 30,
+                "ship": "btla4ywing",
+                "upgrades": {}
+            }
+        ],
+        "points": 198,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Scum%20and%20Villainy&d=v8ZsZ200Z142XW43W71W95WY113XW45W68W93W236WWY248X127WY129XWWWWW109Y88XWWWWWW&sn=Random%20Squad&obs="
+}

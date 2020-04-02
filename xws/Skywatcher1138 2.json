@@ -1,0 +1,63 @@
+{
+    "name": "Skywatcher1138",
+    "number": 2,
+    "xws": {
+        "faction": "rebelalliance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "herasyndulla",
+                "points": 43,
+                "ship": "attackshuttle",
+                "upgrades": {
+                    "title": [
+                        "phantom"
+                    ],
+                    "turret": [
+                        "ioncannonturret"
+                    ]
+                }
+            },
+            {
+                "id": "sabinewren",
+                "points": 49,
+                "ship": "attackshuttle",
+                "upgrades": {
+                    "talent": [
+                        "swarmtactics"
+                    ],
+                    "turret": [
+                        "ioncannonturret"
+                    ]
+                }
+            },
+            {
+                "id": "zeborrelios",
+                "points": 43,
+                "ship": "attackshuttle",
+                "upgrades": {
+                    "crew": [
+                        "magvayarro"
+                    ],
+                    "turret": [
+                        "dorsalturret"
+                    ]
+                }
+            },
+            {
+                "id": "ginamoonsong",
+                "points": 60,
+                "ship": "asf01bwing",
+                "upgrades": {
+                    "sensor": [
+                        "advancedsensors"
+                    ]
+                }
+            }
+        ],
+        "points": 195,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Rebel%20Alliance&d=v8ZsZ200Z65XWWW138W167Y66X132WWW138WY68X51WW137WY391XW111WWWWW&sn=Random%20Squad&obs="
+}

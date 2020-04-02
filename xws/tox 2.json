@@ -1,0 +1,70 @@
+{
+    "name": "tox",
+    "number": 2,
+    "xws": {
+        "faction": "scumandvillainy",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "miningguildsurveyor",
+                "points": 35,
+                "ship": "modifiedtielnfighter",
+                "upgrades": {
+                    "modification": [
+                        "shieldupgrade"
+                    ],
+                    "talent": [
+                        "debrisgambit"
+                    ]
+                }
+            },
+            {
+                "id": "g4rgorvm",
+                "points": 30,
+                "ship": "m3ainterceptor",
+                "upgrades": {
+                    "modification": [
+                        "electronicbaffle"
+                    ]
+                }
+            },
+            {
+                "id": "shadowporthunter",
+                "points": 58,
+                "ship": "lancerclasspursuitcraft",
+                "upgrades": {
+                    "illicit": [
+                        "contrabandcybernetics"
+                    ]
+                }
+            },
+            {
+                "id": "kavil",
+                "points": 49,
+                "ship": "btla4ywing",
+                "upgrades": {
+                    "gunner": [
+                        "skilledbombardier"
+                    ],
+                    "illicit": [
+                        "cloakingdevice"
+                    ]
+                }
+            },
+            {
+                "id": "binayrepirate",
+                "points": 27,
+                "ship": "z95af4headhunter",
+                "upgrades": {
+                    "missile": [
+                        "clustermissiles"
+                    ]
+                }
+            }
+        ],
+        "points": 199,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Scum%20and%20Villainy&d=v8ZsZ200Z248X118W165Y399X106WY128XW92WWWY85XWWW88WWW91WY159X98WW&sn=Random%20Squad&obs="
+}

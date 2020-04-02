@@ -1,0 +1,73 @@
+{
+    "name": "Bradley Ho",
+    "number": 1,
+    "xws": {
+        "faction": "resistance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "greersonnel",
+                "points": 51,
+                "ship": "rz2awing",
+                "upgrades": {
+                    "missile": [
+                        "homingmissiles"
+                    ],
+                    "talent": [
+                        "elusive",
+                        "juke"
+                    ]
+                }
+            },
+            {
+                "id": "vimoradi",
+                "points": 39,
+                "ship": "resistancetransportpod",
+                "upgrades": {
+                    "crew": [
+                        "pz4co"
+                    ],
+                    "tech": [
+                        "ferrospherepaint"
+                    ]
+                }
+            },
+            {
+                "id": "greensquadronexpert",
+                "points": 40,
+                "ship": "rz2awing",
+                "upgrades": {
+                    "missile": [
+                        "concussionmissiles"
+                    ]
+                }
+            },
+            {
+                "id": "pammichnerrogoode",
+                "points": 68,
+                "ship": "resistancetransport",
+                "upgrades": {
+                    "astromech": [
+                        "r3astromech"
+                    ],
+                    "crew": [
+                        "gnkgonkdroid"
+                    ],
+                    "modification": [
+                        "afterburners"
+                    ],
+                    "tech": [
+                        "primedthrusters"
+                    ],
+                    "torpedo": [
+                        "iontorpedoes"
+                    ]
+                }
+            }
+        ],
+        "points": 198,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Resistance&d=v8ZsZ200Z270X119W123W100WY348X198W246WY300XWW99WY347X178WW135WW32W4W105&sn=Random%20Squad&obs="
+}

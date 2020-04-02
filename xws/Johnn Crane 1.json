@@ -1,0 +1,65 @@
+{
+    "name": "Johnn Crane",
+    "number": 1,
+    "xws": {
+        "faction": "resistance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "finn",
+                "points": 44,
+                "ship": "resistancetransportpod",
+                "upgrades": {
+                    "crew": [
+                        "perceptivecopilot"
+                    ],
+                    "talent": [
+                        "heroic"
+                    ],
+                    "tech": [
+                        "targetingsynchronizer"
+                    ]
+                }
+            },
+            {
+                "id": "finchdallow",
+                "points": 77,
+                "ship": "mg100starfortress",
+                "upgrades": {
+                    "crew": [
+                        "larmadacy"
+                    ],
+                    "device": [
+                        "ionbombs"
+                    ],
+                    "sensor": [
+                        "firecontrolsystem"
+                    ],
+                    "tech": [
+                        "patternanalyzer"
+                    ]
+                }
+            },
+            {
+                "id": "greersonnel",
+                "points": 42,
+                "ship": "rz2awing",
+                "upgrades": {
+                    "tech": [
+                        "ferrospherepaint"
+                    ]
+                }
+            },
+            {
+                "id": "logisticsdivisionpilot",
+                "points": 32,
+                "ship": "resistancetransport",
+                "upgrades": {}
+            }
+        ],
+        "points": 195,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Resistance&d=v8ZsZ200Z350X172W177W54WY250X113W206W243WWWW317WY270XWWW198Y346XWWWWWW&sn=Random%20Squad&obs="
+}

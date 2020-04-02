@@ -1,0 +1,60 @@
+{
+    "name": "Admiral Kuna",
+    "number": 1,
+    "xws": {
+        "faction": "separatistalliance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "darthmaul",
+                "points": 76,
+                "ship": "sithinfiltrator",
+                "upgrades": {
+                    "crew": [
+                        "gnkgonkdroid"
+                    ],
+                    "force-power": [
+                        "predictiveshot"
+                    ]
+                }
+            },
+            {
+                "id": "berwerkret",
+                "points": 52,
+                "ship": "nantexclassstarfighter",
+                "upgrades": {
+                    "talent": [
+                        "squadleader"
+                    ]
+                }
+            },
+            {
+                "id": "separatistbomber",
+                "points": 34,
+                "ship": "hyenaclassdroidbomber",
+                "upgrades": {
+                    "missile": [
+                        "magpulsewarheads"
+                    ]
+                }
+            },
+            {
+                "id": "dbs404",
+                "points": 37,
+                "ship": "hyenaclassdroidbomber",
+                "upgrades": {
+                    "configuration": [
+                        "landingstruts"
+                    ],
+                    "device": [
+                        "proximitymines"
+                    ]
+                }
+            }
+        ],
+        "points": 199,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Separatist%20Alliance&d=v8ZsZ200Z272X203WWW32WWWWWY358XW131Y327XW311WWWY326XWW70WW237&sn=Random%20Squad&obs="
+}

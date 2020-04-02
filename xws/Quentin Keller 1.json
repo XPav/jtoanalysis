@@ -1,0 +1,66 @@
+{
+    "name": "Quentin Keller",
+    "number": 1,
+    "xws": {
+        "faction": "galacticempire",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "blacksquadronace",
+                "points": 31,
+                "ship": "tielnfighter",
+                "upgrades": {
+                    "modification": [
+                        "targetingcomputer"
+                    ],
+                    "talent": [
+                        "intimidation"
+                    ]
+                }
+            },
+            {
+                "id": "majorrhymer",
+                "points": 44,
+                "ship": "tiesabomber",
+                "upgrades": {
+                    "modification": [
+                        "staticdischargevanes"
+                    ],
+                    "talent": [
+                        "ruthless"
+                    ]
+                }
+            },
+            {
+                "id": "baronoftheempire",
+                "points": 30,
+                "ship": "tieadvancedv1",
+                "upgrades": {}
+            },
+            {
+                "id": "scimitarsquadronpilot",
+                "points": 44,
+                "ship": "tiesabomber",
+                "upgrades": {
+                    "device": [
+                        "protonbombs",
+                        "connernets"
+                    ],
+                    "missile": [
+                        "magpulsewarheads"
+                    ]
+                }
+            },
+            {
+                "id": "coloneljendon",
+                "points": 48,
+                "ship": "lambdaclasst4ashuttle",
+                "upgrades": {}
+            }
+        ],
+        "points": 197,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Galactic%20Empire&d=v8ZsZ200Z227X122W249Y204X128WWWWWWW109Y172XWWY208XW311WWW69W68WY167XWWWWW&sn=Random%20Squad&obs="
+}

@@ -1,0 +1,50 @@
+{
+    "name": "Dneye",
+    "number": 2,
+    "xws": {
+        "faction": "resistance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "covanell",
+                "points": 47,
+                "ship": "resistancetransport",
+                "upgrades": {
+                    "torpedo": [
+                        "plasmatorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "lieutenantbastian",
+                "points": 47,
+                "ship": "t70xwing",
+                "upgrades": {
+                    "configuration": [
+                        "integratedsfoils"
+                    ]
+                }
+            },
+            {
+                "id": "edonkappehl",
+                "points": 65,
+                "ship": "mg100starfortress",
+                "upgrades": {
+                    "device": [
+                        "protonbombs"
+                    ]
+                }
+            },
+            {
+                "id": "kazudaxiono",
+                "points": 40,
+                "ship": "fireball",
+                "upgrades": {}
+            }
+        ],
+        "points": 199,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Resistance&d=v8ZsZ200Z351XWWW234WWWWY254XWW175WWWY293XWWWWW69WWY378XWWWWWW&sn=Random%20Squad&obs="
+}

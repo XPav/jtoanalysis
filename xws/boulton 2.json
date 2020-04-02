@@ -1,0 +1,62 @@
+{
+    "name": "boulton",
+    "number": 2,
+    "xws": {
+        "faction": "galacticempire",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "valenrudor",
+                "points": 37,
+                "ship": "tielnfighter",
+                "upgrades": {
+                    "modification": [
+                        "staticdischargevanes"
+                    ],
+                    "talent": [
+                        "trickshot"
+                    ]
+                }
+            },
+            {
+                "id": "scarifbasepilot",
+                "points": 57,
+                "ship": "tiereaper",
+                "upgrades": {
+                    "crew": [
+                        "darthvader"
+                    ],
+                    "modification": [
+                        "shieldupgrade"
+                    ]
+                }
+            },
+            {
+                "id": "maulermithel",
+                "points": 36,
+                "ship": "tielnfighter",
+                "upgrades": {
+                    "talent": [
+                        "lonewolf"
+                    ]
+                }
+            },
+            {
+                "id": "idenversio",
+                "points": 41,
+                "ship": "tielnfighter",
+                "upgrades": {}
+            },
+            {
+                "id": "onyxsquadronscout",
+                "points": 28,
+                "ship": "tieagaggressor",
+                "upgrades": {}
+            }
+        ],
+        "points": 199,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Galactic%20Empire&d=v8ZsZ200Z225X133W109Y186XW26W165Y219X124WY218XWY189XWWWWW&sn=Random%20Squad&obs="
+}

@@ -1,0 +1,59 @@
+{
+    "name": "Akurzen",
+    "number": 2,
+    "xws": {
+        "faction": "separatistalliance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "darkcourier",
+                "points": 70,
+                "ship": "sithinfiltrator",
+                "upgrades": {
+                    "cannon": [
+                        "tractorbeam"
+                    ],
+                    "crew": [
+                        "freelanceslicer"
+                    ],
+                    "device": [
+                        "drk1probedroids"
+                    ],
+                    "modification": [
+                        "stealthdevice"
+                    ],
+                    "title": [
+                        "scimitar"
+                    ]
+                }
+            },
+            {
+                "id": "berwerkret",
+                "points": 40,
+                "ship": "nantexclassstarfighter",
+                "upgrades": {}
+            },
+            {
+                "id": "dfs081",
+                "points": 26,
+                "ship": "vultureclassdroidfighter",
+                "upgrades": {}
+            },
+            {
+                "id": "066",
+                "points": 64,
+                "ship": "sithinfiltrator",
+                "upgrades": {
+                    "crew": [
+                        "informant",
+                        "perceptivecopilot"
+                    ]
+                }
+            }
+        ],
+        "points": 200,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Separatist%20Alliance&d=v8ZsZ200Z336X13WW30WW221W166W216WY358XWY311XWWY335XWWW37W54WWWW&sn=Random%20Squad&obs="
+}

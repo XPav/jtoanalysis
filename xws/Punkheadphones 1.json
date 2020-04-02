@@ -1,0 +1,78 @@
+{
+    "name": "Punkheadphones",
+    "number": 1,
+    "xws": {
+        "faction": "resistance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "vimoradi",
+                "points": 31,
+                "ship": "resistancetransportpod",
+                "upgrades": {
+                    "tech": [
+                        "advancedoptics"
+                    ]
+                }
+            },
+            {
+                "id": "r1j5",
+                "points": 44,
+                "ship": "fireball",
+                "upgrades": {
+                    "crew": [
+                        "perceptivecopilot"
+                    ],
+                    "illicit": [
+                        "contrabandcybernetics"
+                    ],
+                    "modification": [
+                        "electronicbaffle",
+                        "munitionsfailsafe"
+                    ],
+                    "title": [
+                        "kazsfireball"
+                    ]
+                }
+            },
+            {
+                "id": "logisticsdivisionpilot",
+                "points": 59,
+                "ship": "resistancetransport",
+                "upgrades": {
+                    "astromech": [
+                        "bb8"
+                    ],
+                    "cannon": [
+                        "tractorbeam"
+                    ],
+                    "crew": [
+                        "korrsella"
+                    ],
+                    "modification": [
+                        "staticdischargevanes"
+                    ],
+                    "torpedo": [
+                        "plasmatorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "nodinchavdri",
+                "points": 36,
+                "ship": "resistancetransport",
+                "upgrades": {}
+            },
+            {
+                "id": "rosetico",
+                "points": 26,
+                "ship": "resistancetransportpod",
+                "upgrades": {}
+            }
+        ],
+        "points": 196,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Resistance&d=v8ZsZ200Z348X186WWY379XW54W92W106W108W315Y346XW13W234WW245W195W109Y352XWWWWWWY345XWWW&sn=Random%20Squad&obs="
+}

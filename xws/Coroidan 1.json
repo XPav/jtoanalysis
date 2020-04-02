@@ -1,0 +1,56 @@
+{
+    "name": "Coroidan",
+    "number": 1,
+    "xws": {
+        "faction": "scumandvillainy",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "blacksunenforcer",
+                "points": 51,
+                "ship": "starviperclassattackplatform",
+                "upgrades": {
+                    "sensor": [
+                        "trajectorysimulator"
+                    ]
+                }
+            },
+            {
+                "id": "tansariipointveteran",
+                "points": 43,
+                "ship": "m3ainterceptor",
+                "upgrades": {
+                    "talent": [
+                        "squadleader"
+                    ],
+                    "torpedo": [
+                        "advprotontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "kavil",
+                "points": 48,
+                "ship": "btla4ywing",
+                "upgrades": {
+                    "illicit": [
+                        "deadmansswitch"
+                    ],
+                    "turret": [
+                        "dorsalturret"
+                    ]
+                }
+            },
+            {
+                "id": "dalanoberos-starviperclassattackplatform",
+                "points": 54,
+                "ship": "starviperclassattackplatform",
+                "upgrades": {}
+            }
+        ],
+        "points": 196,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Scum%20and%20Villainy&d=v8ZsZ200Z151X114WWWY136X131WW134Y85XW137WWWWW93WY149XWWWW&sn=Random%20Squad&obs="
+}

@@ -1,0 +1,57 @@
+{
+    "name": "andy steel",
+    "number": 1,
+    "xws": {
+        "faction": "resistance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "chewbacca-scavengedyt1300",
+                "points": 80,
+                "ship": "scavengedyt1300",
+                "upgrades": {
+                    "gunner": [
+                        "finn"
+                    ],
+                    "missile": [
+                        "protonrockets"
+                    ]
+                }
+            },
+            {
+                "id": "bb8",
+                "points": 33,
+                "ship": "resistancetransportpod",
+                "upgrades": {
+                    "tech": [
+                        "primedthrusters"
+                    ]
+                }
+            },
+            {
+                "id": "nodinchavdri",
+                "points": 45,
+                "ship": "resistancetransport",
+                "upgrades": {
+                    "torpedo": [
+                        "plasmatorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "jarekyeager",
+                "points": 37,
+                "ship": "fireball",
+                "upgrades": {
+                    "talent": [
+                        "swarmtactics"
+                    ]
+                }
+            }
+        ],
+        "points": 195,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Resistance&d=v8ZsZ200Z246XW102WWW174WWWY349XW178WWY352XWW234WWWWY377X132WWWWWW&sn=Random%20Squad&obs="
+}

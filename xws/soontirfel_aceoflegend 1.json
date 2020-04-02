@@ -1,0 +1,59 @@
+{
+    "name": "soontirfel_aceoflegend",
+    "number": 1,
+    "xws": {
+        "faction": "galacticempire",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "gammasquadronace",
+                "points": 57,
+                "ship": "tiesabomber",
+                "upgrades": {
+                    "gunner": [
+                        "fifthbrother"
+                    ],
+                    "missile": [
+                        "barragerockets"
+                    ],
+                    "talent": [
+                        "squadleader"
+                    ]
+                }
+            },
+            {
+                "id": "lieutenantkarsabi",
+                "points": 51,
+                "ship": "alphaclassstarwing",
+                "upgrades": {
+                    "talent": [
+                        "crackshot"
+                    ],
+                    "torpedo": [
+                        "protontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "coloneljendon",
+                "points": 54,
+                "ship": "lambdaclasst4ashuttle",
+                "upgrades": {
+                    "sensor": [
+                        "trajectorysimulator"
+                    ]
+                }
+            },
+            {
+                "id": "blacksquadronscout",
+                "points": 34,
+                "ship": "tieskstriker",
+                "upgrades": {}
+            }
+        ],
+        "points": 196,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Galactic%20Empire&d=v8ZsZ200Z207X131WWW97W82WWWY162X116WW136WWWY167X114WWWWWY212XWWW&sn=Random%20Squad&obs="
+}

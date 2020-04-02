@@ -1,0 +1,71 @@
+{
+    "name": "Toast",
+    "number": 1,
+    "xws": {
+        "faction": "scumandvillainy",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "hiredgun",
+                "points": 52,
+                "ship": "btla4ywing",
+                "upgrades": {
+                    "device": [
+                        "ionbombs"
+                    ],
+                    "gunner": [
+                        "skilledbombardier"
+                    ],
+                    "modification": [
+                        "staticdischargevanes"
+                    ],
+                    "talent": [
+                        "marksmanship"
+                    ],
+                    "turret": [
+                        "ioncannonturret"
+                    ]
+                }
+            },
+            {
+                "id": "captainnym",
+                "points": 58,
+                "ship": "scurrgh6bomber",
+                "upgrades": {
+                    "crew": [
+                        "informant"
+                    ],
+                    "device": [
+                        "protonbombs"
+                    ]
+                }
+            },
+            {
+                "id": "jakkugunrunner",
+                "points": 35,
+                "ship": "quadrijettransferspacetug",
+                "upgrades": {
+                    "tech": [
+                        "primedthrusters"
+                    ]
+                }
+            },
+            {
+                "id": "foremanproach",
+                "points": 32,
+                "ship": "modifiedtielnfighter",
+                "upgrades": {}
+            },
+            {
+                "id": "binayrepirate",
+                "points": 22,
+                "ship": "z95af4headhunter",
+                "upgrades": {}
+            }
+        ],
+        "points": 199,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Scum%20and%20Villainy&d=v8ZsZ200Z87X125W138WW88WW317WW109Y144XWW37WWW69WWY143X178WWWWY302XWY159XWW&sn=Random%20Squad&obs="
+}

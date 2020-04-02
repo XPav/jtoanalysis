@@ -1,0 +1,56 @@
+{
+    "name": "pete lambro",
+    "number": 2,
+    "xws": {
+        "faction": "scumandvillainy",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "ketsuonyo",
+                "points": 76,
+                "ship": "lancerclasspursuitcraft",
+                "upgrades": {
+                    "crew": [
+                        "unkarplutt"
+                    ],
+                    "illicit": [
+                        "riggedcargochute"
+                    ],
+                    "title": [
+                        "shadowcaster"
+                    ]
+                }
+            },
+            {
+                "id": "guri",
+                "points": 82,
+                "ship": "starviperclassattackplatform",
+                "upgrades": {
+                    "talent": [
+                        "squadleader"
+                    ],
+                    "torpedo": [
+                        "iontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "jakkugunrunner",
+                "points": 37,
+                "ship": "quadrijettransferspacetug",
+                "upgrades": {
+                    "illicit": [
+                        "deadmansswitch"
+                    ],
+                    "tech": [
+                        "patternanalyzer"
+                    ]
+                }
+            }
+        ],
+        "points": 195,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Scum%20and%20Villainy&d=v8ZsZ200Z126XW64W96WWW160Y147X131WW135WWY143X206WWW93W&sn=Random%20Squad&obs="
+}

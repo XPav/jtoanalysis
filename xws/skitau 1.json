@@ -1,0 +1,44 @@
+{
+    "name": "skitau",
+    "number": 1,
+    "xws": {
+        "faction": "scumandvillainy",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "gandfindsman",
+                "points": 41,
+                "ship": "g1astarfighter",
+                "upgrades": {}
+            },
+            {
+                "id": "autopilotdrone",
+                "points": 12,
+                "ship": "escapecraft",
+                "upgrades": {}
+            },
+            {
+                "id": "landocalrissian",
+                "points": 49,
+                "ship": "customizedyt1300lightfreighter",
+                "upgrades": {}
+            },
+            {
+                "id": "ketsuonyo",
+                "points": 69,
+                "ship": "lancerclasspursuitcraft",
+                "upgrades": {}
+            },
+            {
+                "id": "outerrimpioneer",
+                "points": 28,
+                "ship": "escapecraft",
+                "upgrades": {}
+            }
+        ],
+        "points": 199,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Scum%20and%20Villainy&d=v8ZsZ200Z111XWWWWY96XY90XWWWWWWWY126XWWWWWY94XWW&sn=Random%20Squad&obs="
+}

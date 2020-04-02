@@ -1,0 +1,62 @@
+{
+    "name": "Afishisborn",
+    "number": 2,
+    "xws": {
+        "faction": "galacticempire",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "scarifbasepilot",
+                "points": 56,
+                "ship": "tiereaper",
+                "upgrades": {
+                    "crew": [
+                        "emperorpalpatine"
+                    ],
+                    "modification": [
+                        "angleddeflectors"
+                    ]
+                }
+            },
+            {
+                "id": "blacksquadronscout",
+                "points": 58,
+                "ship": "tieskstriker",
+                "upgrades": {
+                    "gunner": [
+                        "fifthbrother"
+                    ],
+                    "modification": [
+                        "afterburners"
+                    ],
+                    "talent": [
+                        "snapshot"
+                    ]
+                }
+            },
+            {
+                "id": "vagabond",
+                "points": 35,
+                "ship": "tieskstriker",
+                "upgrades": {}
+            },
+            {
+                "id": "majorrhymer",
+                "points": 50,
+                "ship": "tiesabomber",
+                "upgrades": {
+                    "device": [
+                        "bombletgenerator"
+                    ],
+                    "missile": [
+                        "barragerockets"
+                    ]
+                }
+            }
+        ],
+        "points": 199,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Galactic%20Empire&d=v8ZsZ200Z186X29WW247Y212X256W82WW105Y395XWWWY204XWWW97WWW67W&sn=Random%20Squad&obs="
+}

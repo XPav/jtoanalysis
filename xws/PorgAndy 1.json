@@ -1,0 +1,69 @@
+{
+    "name": "PorgAndy",
+    "number": 1,
+    "xws": {
+        "faction": "resistance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "rosetico",
+                "points": 39,
+                "ship": "resistancetransportpod",
+                "upgrades": {
+                    "crew": [
+                        "ga97"
+                    ],
+                    "modification": [
+                        "angleddeflectors"
+                    ],
+                    "talent": [
+                        "debrisgambit"
+                    ]
+                }
+            },
+            {
+                "id": "cobaltsquadronbomber",
+                "points": 91,
+                "ship": "mg100starfortress",
+                "upgrades": {
+                    "crew": [
+                        "korrsella"
+                    ],
+                    "device": [
+                        "clustermines",
+                        "seismiccharges"
+                    ],
+                    "gunner": [
+                        "rey-gunner"
+                    ],
+                    "sensor": [
+                        "firecontrolsystem"
+                    ],
+                    "tech": [
+                        "targetingsynchronizer"
+                    ]
+                }
+            },
+            {
+                "id": "pammichnerrogoode",
+                "points": 41,
+                "ship": "resistancetransport",
+                "upgrades": {
+                    "crew": [
+                        "seasonednavigator"
+                    ]
+                }
+            },
+            {
+                "id": "finn",
+                "points": 29,
+                "ship": "resistancetransportpod",
+                "upgrades": {}
+            }
+        ],
+        "points": 200,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Resistance&d=v8ZsZ200Z345X118WW230W247Y260X113W177W245WW187W316W71WY347XWWW59WWWY350XWWW&sn=Random%20Squad&obs="
+}

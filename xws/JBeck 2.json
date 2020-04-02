@@ -1,0 +1,88 @@
+{
+    "name": "JBeck",
+    "number": 2,
+    "xws": {
+        "faction": "resistance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "zaribangel",
+                "points": 48,
+                "ship": "rz2awing",
+                "upgrades": {
+                    "missile": [
+                        "clustermissiles"
+                    ],
+                    "talent": [
+                        "intimidation"
+                    ],
+                    "tech": [
+                        "patternanalyzer"
+                    ]
+                }
+            },
+            {
+                "id": "colossusstationmechanic",
+                "points": 43,
+                "ship": "fireball",
+                "upgrades": {
+                    "astromech": [
+                        "r3astromech"
+                    ],
+                    "illicit": [
+                        "coaxiumhyperfuel"
+                    ],
+                    "missile": [
+                        "protonrockets"
+                    ],
+                    "modification": [
+                        "munitionsfailsafe",
+                        "electronicbaffle"
+                    ],
+                    "title": [
+                        "kazsfireball"
+                    ]
+                }
+            },
+            {
+                "id": "karekun",
+                "points": 66,
+                "ship": "t70xwing",
+                "upgrades": {
+                    "astromech": [
+                        "m9g8"
+                    ],
+                    "configuration": [
+                        "integratedsfoils"
+                    ],
+                    "modification": [
+                        "sparepartscanisters"
+                    ],
+                    "talent": [
+                        "predator"
+                    ],
+                    "title": [
+                        "blackone"
+                    ]
+                }
+            },
+            {
+                "id": "finn",
+                "points": 39,
+                "ship": "resistancetransportpod",
+                "upgrades": {
+                    "crew": [
+                        "larmadacy"
+                    ],
+                    "tech": [
+                        "primedthrusters"
+                    ]
+                }
+            }
+        ],
+        "points": 196,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Resistance&d=v8ZsZ200Z271X122WW98W206Y380X102W4W310W108W106W315Y252X127W197W215W175WW171WY350XW178W243W&sn=Random%20Squad&obs="
+}

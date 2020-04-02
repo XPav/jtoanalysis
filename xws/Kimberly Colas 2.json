@@ -1,0 +1,60 @@
+{
+    "name": "Kimberly Colas",
+    "number": 2,
+    "xws": {
+        "faction": "resistance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "pammichnerrogoode",
+                "points": 53,
+                "ship": "resistancetransport",
+                "upgrades": {
+                    "tech": [
+                        "advancedoptics"
+                    ],
+                    "torpedo": [
+                        "protontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "greersonnel",
+                "points": 41,
+                "ship": "rz2awing",
+                "upgrades": {
+                    "tech": [
+                        "patternanalyzer"
+                    ]
+                }
+            },
+            {
+                "id": "blacksquadronace-t70xwing",
+                "points": 51,
+                "ship": "t70xwing",
+                "upgrades": {
+                    "astromech": [
+                        "bbastromech"
+                    ],
+                    "configuration": [
+                        "integratedsfoils"
+                    ]
+                }
+            },
+            {
+                "id": "temminwexley",
+                "points": 53,
+                "ship": "t70xwing",
+                "upgrades": {
+                    "configuration": [
+                        "integratedsfoils"
+                    ]
+                }
+            }
+        ],
+        "points": 198,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Resistance&d=v8ZsZ200Z347X186WW136WWWWY270XWWW206Y256XW196WW175WWWY297XWWW175WWW&sn=Random%20Squad&obs="
+}

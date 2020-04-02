@@ -1,0 +1,56 @@
+{
+    "name": "TC",
+    "number": 1,
+    "xws": {
+        "faction": "scumandvillainy",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "ndrusuhlak",
+                "points": 36,
+                "ship": "z95af4headhunter",
+                "upgrades": {
+                    "modification": [
+                        "stealthdevice"
+                    ]
+                }
+            },
+            {
+                "id": "foremanproach",
+                "points": 39,
+                "ship": "modifiedtielnfighter",
+                "upgrades": {
+                    "modification": [
+                        "hullupgrade"
+                    ]
+                }
+            },
+            {
+                "id": "dacebonearm",
+                "points": 57,
+                "ship": "hwk290lightfreighter",
+                "upgrades": {
+                    "illicit": [
+                        "feedbackarray"
+                    ],
+                    "talent": [
+                        "intimidation"
+                    ],
+                    "title": [
+                        "moldycrow"
+                    ]
+                }
+            },
+            {
+                "id": "moraloeval",
+                "points": 66,
+                "ship": "yv666lightfreighter",
+                "upgrades": {}
+            }
+        ],
+        "points": 198,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Scum%20and%20Villainy&d=v8ZsZ200Z156XWWW166Y302XW164Y113X122WWW94WWW156Y152XWWWWWWWW&sn=Random%20Squad&obs="
+}

@@ -1,0 +1,53 @@
+{
+    "name": "AlejandroSparano",
+    "number": 2,
+    "xws": {
+        "faction": "resistance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "paigetico",
+                "points": 67,
+                "ship": "mg100starfortress",
+                "upgrades": {
+                    "gunner": [
+                        "skilledbombardier"
+                    ],
+                    "talent": [
+                        "lonewolf"
+                    ]
+                }
+            },
+            {
+                "id": "cobaltsquadronbomber",
+                "points": 65,
+                "ship": "mg100starfortress",
+                "upgrades": {
+                    "device": [
+                        "bombletgenerator"
+                    ],
+                    "sensor": [
+                        "firecontrolsystem"
+                    ],
+                    "tech": [
+                        "ferrospherepaint"
+                    ]
+                }
+            },
+            {
+                "id": "finchdallow",
+                "points": 63,
+                "ship": "mg100starfortress",
+                "upgrades": {
+                    "sensor": [
+                        "passivesensors"
+                    ]
+                }
+            }
+        ],
+        "points": 195,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Resistance&d=v8ZsZ200Z389X124WWWW88WWWWY260X113W198WWWWW67WY250X240WWWWWWW&sn=Random%20Squad&obs="
+}

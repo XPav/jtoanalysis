@@ -1,0 +1,57 @@
+{
+    "name": "minishe",
+    "number": 2,
+    "xws": {
+        "faction": "rebelalliance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "alexsandrkallus",
+                "points": 86,
+                "ship": "vcx100lightfreighter",
+                "upgrades": {
+                    "crew": [
+                        "gnkgonkdroid"
+                    ],
+                    "gunner": [
+                        "hotshotgunner"
+                    ],
+                    "title": [
+                        "ghost"
+                    ]
+                }
+            },
+            {
+                "id": "lowhhrick",
+                "points": 63,
+                "ship": "auzituckgunship",
+                "upgrades": {
+                    "crew": [
+                        "r2d2-crew",
+                        "chopper-crew"
+                    ]
+                }
+            },
+            {
+                "id": "kylekatarn",
+                "points": 47,
+                "ship": "hwk290lightfreighter",
+                "upgrades": {
+                    "device": [
+                        "clustermines"
+                    ],
+                    "modification": [
+                        "engineupgrade"
+                    ],
+                    "talent": [
+                        "intimidation"
+                    ]
+                }
+            }
+        ],
+        "points": 196,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Rebel%20Alliance&d=v8ZsZ200Z392XWWWWW32WW86W148Y59XW56W23WY48X122W316WW107WW&sn=Random%20Squad&obs="
+}

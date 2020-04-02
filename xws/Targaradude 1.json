@@ -1,0 +1,49 @@
+{
+    "name": "Targaradude",
+    "number": 1,
+    "xws": {
+        "faction": "scumandvillainy",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "talonbanecobra",
+                "points": 50,
+                "ship": "kihraxzfighter",
+                "upgrades": {}
+            },
+            {
+                "id": "4lom",
+                "points": 57,
+                "ship": "g1astarfighter",
+                "upgrades": {
+                    "crew": [
+                        "perceptivecopilot"
+                    ]
+                }
+            },
+            {
+                "id": "ndrusuhlak",
+                "points": 30,
+                "ship": "z95af4headhunter",
+                "upgrades": {}
+            },
+            {
+                "id": "solsixxa",
+                "points": 63,
+                "ship": "scurrgh6bomber",
+                "upgrades": {
+                    "gunner": [
+                        "bossk"
+                    ],
+                    "talent": [
+                        "juke"
+                    ]
+                }
+            }
+        ],
+        "points": 200,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Scum%20and%20Villainy&d=v8ZsZ200Z119XWWWWWY109XWW54WWWY156XWWWY145X123WWW78WWWW&sn=Random%20Squad&obs="
+}

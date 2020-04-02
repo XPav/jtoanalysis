@@ -1,0 +1,64 @@
+{
+    "name": "Kimberly Colas",
+    "number": 1,
+    "xws": {
+        "faction": "rebelalliance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "mirandadoni",
+                "points": 68,
+                "ship": "btls8kwing",
+                "upgrades": {
+                    "crew": [
+                        "landocalrissian"
+                    ],
+                    "device": [
+                        "bombletgenerator"
+                    ],
+                    "gunner": [
+                        "skilledbombardier"
+                    ],
+                    "missile": [
+                        "diamondboronmissiles"
+                    ],
+                    "modification": [
+                        "tacticalscrambler"
+                    ],
+                    "torpedo": [
+                        "plasmatorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "wildspacefringer",
+                "points": 128,
+                "ship": "yt2400lightfreighter",
+                "upgrades": {
+                    "crew": [
+                        "sawgerrera"
+                    ],
+                    "gunner": [
+                        "bistan"
+                    ],
+                    "illicit": [
+                        "deadmansswitch"
+                    ],
+                    "missile": [
+                        "protonrockets"
+                    ],
+                    "modification": [
+                        "hullupgrade"
+                    ],
+                    "title": [
+                        "outrider"
+                    ]
+                }
+            }
+        ],
+        "points": 196,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Rebel%20Alliance&d=v8ZsZ200Z17X234WW238W88W44W67WW110Y41X102W77W58W164W157W93&sn=Random%20Squad&obs="
+}

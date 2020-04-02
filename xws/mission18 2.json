@@ -1,0 +1,63 @@
+{
+    "name": "mission18",
+    "number": 2,
+    "xws": {
+        "faction": "separatistalliance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "bombardmentdrone",
+                "points": 40,
+                "ship": "hyenaclassdroidbomber",
+                "upgrades": {
+                    "device": [
+                        "ionbombs",
+                        "drk1probedroids"
+                    ]
+                }
+            },
+            {
+                "id": "stalgasinhiveguard",
+                "points": 34,
+                "ship": "nantexclassstarfighter",
+                "upgrades": {}
+            },
+            {
+                "id": "baktoidprototype",
+                "points": 41,
+                "ship": "hyenaclassdroidbomber",
+                "upgrades": {
+                    "configuration": [
+                        "landingstruts"
+                    ],
+                    "missile": [
+                        "magpulsewarheads"
+                    ],
+                    "modification": [
+                        "shieldupgrade"
+                    ]
+                }
+            },
+            {
+                "id": "stalgasinhiveguard",
+                "points": 34,
+                "ship": "nantexclassstarfighter",
+                "upgrades": {}
+            },
+            {
+                "id": "petranakiarenaace",
+                "points": 48,
+                "ship": "nantexclassstarfighter",
+                "upgrades": {
+                    "talent": [
+                        "squadleader"
+                    ]
+                }
+            }
+        ],
+        "points": 197,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Separatist%20Alliance&d=v8ZsZ200Z325XW317W221WWY353XY329XW311WW165W237Y353XY354X131W&sn=Random%20Squad&obs="
+}

@@ -1,0 +1,60 @@
+{
+    "name": "Jazz",
+    "number": 1,
+    "xws": {
+        "faction": "firstorder",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "holo",
+                "points": 64,
+                "ship": "tiebainterceptor",
+                "upgrades": {
+                    "missile": [
+                        "homingmissiles"
+                    ],
+                    "modification": [
+                        "angleddeflectors"
+                    ],
+                    "talent": [
+                        "proudtradition"
+                    ]
+                }
+            },
+            {
+                "id": "firstorderprovocateur",
+                "points": 46,
+                "ship": "tiebainterceptor",
+                "upgrades": {
+                    "modification": [
+                        "delayedfuses"
+                    ]
+                }
+            },
+            {
+                "id": "quickdraw",
+                "points": 48,
+                "ship": "tiesffighter",
+                "upgrades": {
+                    "sensor": [
+                        "passivesensors"
+                    ]
+                }
+            },
+            {
+                "id": "zetasquadronsurvivor",
+                "points": 37,
+                "ship": "tiesffighter",
+                "upgrades": {
+                    "tech": [
+                        "patternanalyzer"
+                    ]
+                }
+            }
+        ],
+        "points": 195,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=First%20Order&d=v8ZsZ200Z382X319WW100W247Y384XWWW236Y243XWWWW240WY259X206WWWW&sn=Random%20Squad&obs="
+}

@@ -1,0 +1,71 @@
+{
+    "name": "Largo12",
+    "number": 2,
+    "xws": {
+        "faction": "resistance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "vimoradi",
+                "points": 27,
+                "ship": "resistancetransportpod",
+                "upgrades": {}
+            },
+            {
+                "id": "bb8",
+                "points": 31,
+                "ship": "resistancetransportpod",
+                "upgrades": {
+                    "talent": [
+                        "crackshot"
+                    ],
+                    "tech": [
+                        "advancedoptics"
+                    ]
+                }
+            },
+            {
+                "id": "ronithblario",
+                "points": 40,
+                "ship": "rz2awing",
+                "upgrades": {
+                    "missile": [
+                        "homingmissiles"
+                    ],
+                    "talent": [
+                        "composure"
+                    ]
+                }
+            },
+            {
+                "id": "pammichnerrogoode",
+                "points": 59,
+                "ship": "resistancetransport",
+                "upgrades": {
+                    "astromech": [
+                        "r5astromech"
+                    ],
+                    "cannon": [
+                        "tractorbeam"
+                    ],
+                    "crew": [
+                        "gnkgonkdroid"
+                    ],
+                    "torpedo": [
+                        "advprotontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "kazudaxiono",
+                "points": 40,
+                "ship": "fireball",
+                "upgrades": {}
+            }
+        ],
+        "points": 197,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Resistance&d=v8ZsZ200Z348XWWY349X116W186WWY388X115W100WY347XW13W134W32WW6WY378XWWWWWW&sn=Random%20Squad&obs="
+}

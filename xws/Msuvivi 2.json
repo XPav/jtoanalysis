@@ -1,0 +1,55 @@
+{
+    "name": "Msuvivi",
+    "number": 2,
+    "xws": {
+        "faction": "scumandvillainy",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "quinnjast",
+                "points": 31,
+                "ship": "m3ainterceptor",
+                "upgrades": {}
+            },
+            {
+                "id": "laetinashera",
+                "points": 37,
+                "ship": "m3ainterceptor",
+                "upgrades": {
+                    "modification": [
+                        "hullupgrade"
+                    ]
+                }
+            },
+            {
+                "id": "guri",
+                "points": 73,
+                "ship": "starviperclassattackplatform",
+                "upgrades": {
+                    "modification": [
+                        "delayedfuses"
+                    ],
+                    "title": [
+                        "virago"
+                    ]
+                }
+            },
+            {
+                "id": "bossk-z95af4headhunter",
+                "points": 29,
+                "ship": "z95af4headhunter",
+                "upgrades": {}
+            },
+            {
+                "id": "l337-escapecraft",
+                "points": 26,
+                "ship": "escapecraft",
+                "upgrades": {}
+            }
+        ],
+        "points": 196,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Scum%20and%20Villainy&d=v8ZsZ200Z135XWWY134XW164WY147XWWW236W163WY398XWWWY95XWW&sn=Random%20Squad&obs="
+}

@@ -1,0 +1,75 @@
+{
+    "name": "Monkeyreign",
+    "number": 2,
+    "xws": {
+        "faction": "scumandvillainy",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "cartelexecutioner",
+                "points": 63,
+                "ship": "m12lkimogilafighter",
+                "upgrades": {
+                    "astromech": [
+                        "r5tk"
+                    ],
+                    "illicit": [
+                        "inertialdampeners"
+                    ],
+                    "missile": [
+                        "concussionmissiles"
+                    ],
+                    "modification": [
+                        "delayedfuses"
+                    ],
+                    "talent": [
+                        "outmaneuver"
+                    ],
+                    "torpedo": [
+                        "advprotontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "oldteroch",
+                "points": 69,
+                "ship": "fangfighter",
+                "upgrades": {
+                    "talent": [
+                        "debrisgambit"
+                    ],
+                    "torpedo": [
+                        "plasmatorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "binayrepirate",
+                "points": 31,
+                "ship": "z95af4headhunter",
+                "upgrades": {
+                    "illicit": [
+                        "cloakingdevice"
+                    ],
+                    "missile": [
+                        "homingmissiles"
+                    ]
+                }
+            },
+            {
+                "id": "l337-escapecraft",
+                "points": 33,
+                "ship": "escapecraft",
+                "upgrades": {
+                    "crew": [
+                        "lattsrazzi"
+                    ]
+                }
+            }
+        ],
+        "points": 196,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Scum%20and%20Villainy&d=v8ZsZ200Z131X126W134W99W9W95W236Y98X118W234Y159X100W91WY95XW47W&sn=Random%20Squad&obs="
+}

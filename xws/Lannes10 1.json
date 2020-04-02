@@ -1,0 +1,49 @@
+{
+    "name": "Lannes10",
+    "number": 1,
+    "xws": {
+        "faction": "galacticempire",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "coloneljendon",
+                "points": 60,
+                "ship": "lambdaclasst4ashuttle",
+                "upgrades": {
+                    "crew": [
+                        "moffjerjerrod"
+                    ],
+                    "title": [
+                        "st321"
+                    ]
+                }
+            },
+            {
+                "id": "grandinquisitor",
+                "points": 52,
+                "ship": "tieadvancedv1",
+                "upgrades": {}
+            },
+            {
+                "id": "mornakee",
+                "points": 86,
+                "ship": "vt49decimator",
+                "upgrades": {
+                    "crew": [
+                        "freelanceslicer"
+                    ],
+                    "device": [
+                        "proximitymines"
+                    ],
+                    "talent": [
+                        "predator"
+                    ]
+                }
+            }
+        ],
+        "points": 198,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Galactic%20Empire&d=v8ZsZ200Z167XWW50WWW162Y169XWWY396X127WW30WWWW70WW&sn=Random%20Squad&obs="
+}

@@ -1,0 +1,54 @@
+{
+    "name": "TTS",
+    "number": 1,
+    "xws": {
+        "faction": "resistance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "vennie",
+                "points": 85,
+                "ship": "mg100starfortress",
+                "upgrades": {
+                    "crew": [
+                        "amilynholdo"
+                    ],
+                    "gunner": [
+                        "veteranturretgunner",
+                        "hotshotgunner"
+                    ],
+                    "modification": [
+                        "stealthdevice"
+                    ]
+                }
+            },
+            {
+                "id": "paigetico",
+                "points": 69,
+                "ship": "mg100starfortress",
+                "upgrades": {
+                    "crew": [
+                        "seasonednavigator"
+                    ],
+                    "sensor": [
+                        "firecontrolsystem"
+                    ]
+                }
+            },
+            {
+                "id": "greersonnel",
+                "points": 42,
+                "ship": "rz2awing",
+                "upgrades": {
+                    "talent": [
+                        "outmaneuver"
+                    ]
+                }
+            }
+        ],
+        "points": 196,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Resistance&d=v8ZsZ200Z294XWW242W90W86WWW166Y389XW113WW59WWWWWY270XW126WW&sn=Random%20Squad&obs="
+}

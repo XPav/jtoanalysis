@@ -1,0 +1,66 @@
+{
+    "name": "Dale",
+    "number": 2,
+    "xws": {
+        "faction": "separatistalliance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "wattambor",
+                "points": 62,
+                "ship": "belbullab22starfighter",
+                "upgrades": {
+                    "modification": [
+                        "hullupgrade"
+                    ],
+                    "tacticalrelay": [
+                        "ta175"
+                    ],
+                    "title": [
+                        "soullessone"
+                    ]
+                }
+            },
+            {
+                "id": "countdooku",
+                "points": 83,
+                "ship": "sithinfiltrator",
+                "upgrades": {
+                    "crew": [
+                        "freelanceslicer",
+                        "generalgrievous"
+                    ],
+                    "device": [
+                        "protonbombs"
+                    ],
+                    "force-power": [
+                        "heightenedperception"
+                    ],
+                    "torpedo": [
+                        "advprotontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "dbs32c",
+                "points": 52,
+                "ship": "hyenaclassdroidbomber",
+                "upgrades": {
+                    "configuration": [
+                        "landingstruts"
+                    ],
+                    "modification": [
+                        "delayedfuses"
+                    ],
+                    "sensor": [
+                        "advancedsensors"
+                    ]
+                }
+            }
+        ],
+        "points": 197,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Separatist%20Alliance&d=v8ZsZ200Z306XW239W164W229Y334X72WW134W30W219W69WWWY328X111WW236W237&sn=Random%20Squad&obs="
+}

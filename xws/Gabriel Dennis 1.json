@@ -1,0 +1,59 @@
+{
+    "name": "Gabriel Dennis",
+    "number": 1,
+    "xws": {
+        "faction": "galacticempire",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "planetarysentinel",
+                "points": 50,
+                "ship": "tieskstriker",
+                "upgrades": {
+                    "device": [
+                        "clustermines"
+                    ],
+                    "gunner": [
+                        "fifthbrother"
+                    ]
+                }
+            },
+            {
+                "id": "sienarspecialist",
+                "points": 45,
+                "ship": "tieagaggressor",
+                "upgrades": {
+                    "missile": [
+                        "barragerockets"
+                    ],
+                    "modification": [
+                        "shieldupgrade"
+                    ],
+                    "turret": [
+                        "ioncannonturret"
+                    ]
+                }
+            },
+            {
+                "id": "mornakee",
+                "points": 81,
+                "ship": "vt49decimator",
+                "upgrades": {
+                    "device": [
+                        "ionbombs"
+                    ]
+                }
+            },
+            {
+                "id": "academypilot",
+                "points": 22,
+                "ship": "tielnfighter",
+                "upgrades": {}
+            }
+        ],
+        "points": 198,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Galactic%20Empire&d=v8ZsZ200Z213X82W316WY190X138W97WWW165Y396XWWWWWW317WWY229X&sn=Random%20Squad&obs="
+}

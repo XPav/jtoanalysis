@@ -1,0 +1,56 @@
+{
+    "name": "thesteveyd",
+    "number": 1,
+    "xws": {
+        "faction": "galacticempire",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "turrphennir",
+                "points": 50,
+                "ship": "tieininterceptor",
+                "upgrades": {
+                    "modification": [
+                        "stealthdevice"
+                    ]
+                }
+            },
+            {
+                "id": "patrolleader",
+                "points": 81,
+                "ship": "vt49decimator",
+                "upgrades": {
+                    "crew": [
+                        "seasonednavigator"
+                    ],
+                    "device": [
+                        "ionbombs"
+                    ],
+                    "title": [
+                        "dauntless"
+                    ]
+                }
+            },
+            {
+                "id": "scourgeskutu",
+                "points": 34,
+                "ship": "tielnfighter",
+                "upgrades": {
+                    "modification": [
+                        "targetingcomputer"
+                    ]
+                }
+            },
+            {
+                "id": "tomaxbren",
+                "points": 35,
+                "ship": "tiesabomber",
+                "upgrades": {}
+            }
+        ],
+        "points": 200,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Galactic%20Empire&d=v8ZsZ200Z180XWW166Y216XWW59WWW317WW147Y220XW249Y205XWWWWWWW&sn=Random%20Squad&obs="
+}

@@ -1,0 +1,63 @@
+{
+    "name": "John McDermid",
+    "number": 1,
+    "xws": {
+        "faction": "scumandvillainy",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "overseeryushyn",
+                "points": 34,
+                "ship": "modifiedtielnfighter",
+                "upgrades": {
+                    "modification": [
+                        "stealthdevice"
+                    ]
+                }
+            },
+            {
+                "id": "outerrimpioneer",
+                "points": 41,
+                "ship": "escapecraft",
+                "upgrades": {
+                    "crew": [
+                        "ig88d"
+                    ],
+                    "modification": [
+                        "angleddeflectors"
+                    ],
+                    "talent": [
+                        "juke"
+                    ]
+                }
+            },
+            {
+                "id": "hiredgun",
+                "points": 46,
+                "ship": "btla4ywing",
+                "upgrades": {
+                    "gunner": [
+                        "hansolo-gunner"
+                    ],
+                    "illicit": [
+                        "cloakingdevice"
+                    ]
+                }
+            },
+            {
+                "id": "asajjventress",
+                "points": 74,
+                "ship": "lancerclasspursuitcraft",
+                "upgrades": {
+                    "illicit": [
+                        "contrabandcybernetics"
+                    ]
+                }
+            }
+        ],
+        "points": 195,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Scum%20and%20Villainy&d=v8ZsZ200Z303X166Y94X123W36W247Y87XWWW85WWW91WY125XWWW92WW&sn=Random%20Squad&obs="
+}

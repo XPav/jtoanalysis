@@ -1,0 +1,66 @@
+{
+    "name": "Cradossk",
+    "number": 2,
+    "xws": {
+        "faction": "resistance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "zaribangel",
+                "points": 49,
+                "ship": "rz2awing",
+                "upgrades": {
+                    "missile": [
+                        "ionmissiles"
+                    ],
+                    "talent": [
+                        "lonewolf",
+                        "heroic"
+                    ],
+                    "tech": [
+                        "advancedoptics"
+                    ]
+                }
+            },
+            {
+                "id": "cobaltsquadronbomber",
+                "points": 74,
+                "ship": "mg100starfortress",
+                "upgrades": {
+                    "device": [
+                        "clustermines"
+                    ],
+                    "gunner": [
+                        "hotshotgunner"
+                    ],
+                    "modification": [
+                        "hullupgrade"
+                    ],
+                    "tech": [
+                        "advancedoptics"
+                    ]
+                }
+            },
+            {
+                "id": "cobaltsquadronbomber",
+                "points": 74,
+                "ship": "mg100starfortress",
+                "upgrades": {
+                    "device": [
+                        "bombletgenerator"
+                    ],
+                    "gunner": [
+                        "rey-gunner"
+                    ],
+                    "modification": [
+                        "hullupgrade"
+                    ]
+                }
+            }
+        ],
+        "points": 197,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Resistance&d=v8ZsZ200Z271X124W172W101W186Y260XW186WWW86WW316W164Y260XWWWW187WW67W164&sn=Random%20Squad&obs="
+}

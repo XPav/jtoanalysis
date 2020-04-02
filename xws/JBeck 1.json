@@ -1,0 +1,61 @@
+{
+    "name": "JBeck",
+    "number": 1,
+    "xws": {
+        "faction": "rebelalliance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "evaanverlaine",
+                "points": 65,
+                "ship": "btla4ywing",
+                "upgrades": {
+                    "astromech": [
+                        "r2astromech"
+                    ],
+                    "device": [
+                        "protonbombs"
+                    ],
+                    "gunner": [
+                        "hotshotgunner"
+                    ],
+                    "modification": [
+                        "staticdischargevanes"
+                    ],
+                    "talent": [
+                        "experthandling"
+                    ],
+                    "turret": [
+                        "ioncannonturret"
+                    ]
+                }
+            },
+            {
+                "id": "knavesquadronescort",
+                "points": 56,
+                "ship": "ewing",
+                "upgrades": {
+                    "torpedo": [
+                        "advprotontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "zeborrelios-tielnfighter",
+                "points": 24,
+                "ship": "tielnfighter",
+                "upgrades": {}
+            },
+            {
+                "id": "lowhhrick",
+                "points": 52,
+                "ship": "auzituckgunship",
+                "upgrades": {}
+            }
+        ],
+        "points": 197,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Rebel%20Alliance&d=v8ZsZ200Z28X120W138WW2W109W69W86Y24XW134WWY15XY59XWWW&sn=Random%20Squad&obs="
+}

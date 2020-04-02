@@ -1,0 +1,52 @@
+{
+    "name": "Gabriel Dennis",
+    "number": 2,
+    "xws": {
+        "faction": "galacticrepublic",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "sinker",
+                "points": 88,
+                "ship": "arc170starfighter",
+                "upgrades": {
+                    "astromech": [
+                        "r2astromech"
+                    ],
+                    "crew": [
+                        "gnkgonkdroid"
+                    ],
+                    "gunner": [
+                        "veterantailgunner"
+                    ],
+                    "modification": [
+                        "staticdischargevanes"
+                    ],
+                    "torpedo": [
+                        "plasmatorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "104thbattalionpilot",
+                "points": 42,
+                "ship": "arc170starfighter",
+                "upgrades": {}
+            },
+            {
+                "id": "anakinskywalker",
+                "points": 68,
+                "ship": "delta7aethersprite",
+                "upgrades": {
+                    "modification": [
+                        "afterburners"
+                    ]
+                }
+            }
+        ],
+        "points": 198,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Galactic%20Republic&d=v8ZsZ200Z280X234W32W89W2W109Y341XWWWWY273XWWW105&sn=Random%20Squad&obs="
+}

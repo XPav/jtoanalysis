@@ -1,0 +1,62 @@
+{
+    "name": "irishspring4545",
+    "number": 1,
+    "xws": {
+        "faction": "rebelalliance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "sharabey",
+                "points": 72,
+                "ship": "arc170starfighter",
+                "upgrades": {
+                    "crew": [
+                        "jynerso"
+                    ],
+                    "gunner": [
+                        "hansolo"
+                    ],
+                    "torpedo": [
+                        "iontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "rebelscout",
+                "points": 57,
+                "ship": "hwk290lightfreighter",
+                "upgrades": {
+                    "device": [
+                        "clustermines"
+                    ],
+                    "modification": [
+                        "munitionsfailsafe"
+                    ],
+                    "title": [
+                        "moldycrow"
+                    ]
+                }
+            },
+            {
+                "id": "lieutenantblount",
+                "points": 30,
+                "ship": "z95af4headhunter",
+                "upgrades": {}
+            },
+            {
+                "id": "evaanverlaine",
+                "points": 37,
+                "ship": "btla4ywing",
+                "upgrades": {
+                    "talent": [
+                        "predator"
+                    ]
+                }
+            }
+        ],
+        "points": 196,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Rebel%20Alliance&d=v8ZsZ200Z78XW135W40W84WWY49X316WW108WW156Y55XWWY28X127WWWWWW&sn=Random%20Squad&obs="
+}

@@ -1,0 +1,42 @@
+{
+    "name": "SciFighter",
+    "number": 2,
+    "xws": {
+        "faction": "galacticempire",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "countdown",
+                "points": 50,
+                "ship": "tieskstriker",
+                "upgrades": {
+                    "device": [
+                        "connernets"
+                    ]
+                }
+            },
+            {
+                "id": "rearadmiralchiraneau",
+                "points": 76,
+                "ship": "vt49decimator",
+                "upgrades": {}
+            },
+            {
+                "id": "duchess",
+                "points": 42,
+                "ship": "tieskstriker",
+                "upgrades": {}
+            },
+            {
+                "id": "lieutenantkestal",
+                "points": 31,
+                "ship": "tieagaggressor",
+                "upgrades": {}
+            }
+        ],
+        "points": 199,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Galactic%20Empire&d=v8ZsZ200Z209XWW68WY214XWWWWWWWWY211XWWWY187XWWWWW&sn=Random%20Squad&obs="
+}

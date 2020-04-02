@@ -1,0 +1,53 @@
+{
+    "name": "DAG Ken",
+    "number": 1,
+    "xws": {
+        "faction": "scumandvillainy",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "fennrau",
+                "points": 84,
+                "ship": "fangfighter",
+                "upgrades": {
+                    "talent": [
+                        "fearless"
+                    ],
+                    "torpedo": [
+                        "protontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "joyrekkoff",
+                "points": 75,
+                "ship": "fangfighter",
+                "upgrades": {
+                    "talent": [
+                        "squadleader"
+                    ],
+                    "torpedo": [
+                        "protontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "ndrusuhlak",
+                "points": 39,
+                "ship": "z95af4headhunter",
+                "upgrades": {
+                    "missile": [
+                        "magpulsewarheads"
+                    ],
+                    "talent": [
+                        "fearless"
+                    ]
+                }
+            }
+        ],
+        "points": 198,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Scum%20and%20Villainy&d=v8ZsZ200Z97X121W136Y100X131W136Y156X121W311WW&sn=Random%20Squad&obs="
+}

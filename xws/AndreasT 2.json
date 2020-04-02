@@ -1,0 +1,59 @@
+{
+    "name": "AndreasT",
+    "number": 2,
+    "xws": {
+        "faction": "rebelalliance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "mirandadoni",
+                "points": 74,
+                "ship": "btls8kwing",
+                "upgrades": {
+                    "crew": [
+                        "k2so"
+                    ],
+                    "device": [
+                        "clustermines"
+                    ],
+                    "gunner": [
+                        "agilegunner"
+                    ],
+                    "missile": [
+                        "concussionmissiles"
+                    ],
+                    "modification": [
+                        "tacticalscrambler"
+                    ]
+                }
+            },
+            {
+                "id": "knavesquadronescort",
+                "points": 56,
+                "ship": "ewing",
+                "upgrades": {
+                    "torpedo": [
+                        "iontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "hortonsalm",
+                "points": 69,
+                "ship": "btla4ywing",
+                "upgrades": {
+                    "astromech": [
+                        "r5d8"
+                    ],
+                    "gunner": [
+                        "lukeskywalker"
+                    ]
+                }
+            }
+        ],
+        "points": 199,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Rebel%20Alliance&d=v8ZsZ200Z17XW99WW76W314WW316W110Y24XW135WWY26XWWW7WWW87&sn=Random%20Squad&obs="
+}

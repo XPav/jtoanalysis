@@ -1,0 +1,73 @@
+{
+    "name": "direweasel",
+    "number": 1,
+    "xws": {
+        "faction": "rebelalliance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "cavernangelszealot",
+                "points": 64,
+                "ship": "t65xwing",
+                "upgrades": {
+                    "astromech": [
+                        "r2astromech"
+                    ],
+                    "configuration": [
+                        "servomotorsfoils"
+                    ],
+                    "illicit": [
+                        "deadmansswitch"
+                    ],
+                    "modification": [
+                        "targetingcomputer"
+                    ],
+                    "torpedo": [
+                        "protontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "esegetuketu",
+                "points": 89,
+                "ship": "btls8kwing",
+                "upgrades": {
+                    "device": [
+                        "proximitymines",
+                        "clustermines"
+                    ],
+                    "gunner": [
+                        "bistan"
+                    ],
+                    "missile": [
+                        "homingmissiles",
+                        "magpulsewarheads"
+                    ],
+                    "torpedo": [
+                        "iontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "lieutenantblount",
+                "points": 45,
+                "ship": "z95af4headhunter",
+                "upgrades": {
+                    "missile": [
+                        "concussionmissiles"
+                    ],
+                    "modification": [
+                        "stealthdevice"
+                    ],
+                    "talent": [
+                        "selfless"
+                    ]
+                }
+            }
+        ],
+        "points": 198,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Rebel%20Alliance&d=v8ZsZ200Z0X93W136W2W249W142Y18X135W100W311W77WW70W316WY55X130W99W166&sn=Random%20Squad&obs="
+}

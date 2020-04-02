@@ -1,0 +1,58 @@
+{
+    "name": "Mitthraw",
+    "number": 2,
+    "xws": {
+        "faction": "resistance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "blacksquadronace-t70xwing",
+                "points": 55,
+                "ship": "t70xwing",
+                "upgrades": {
+                    "astromech": [
+                        "bb8"
+                    ],
+                    "configuration": [
+                        "integratedsfoils"
+                    ],
+                    "title": [
+                        "blackone"
+                    ]
+                }
+            },
+            {
+                "id": "finn",
+                "points": 29,
+                "ship": "resistancetransportpod",
+                "upgrades": {}
+            },
+            {
+                "id": "lulolampar",
+                "points": 43,
+                "ship": "rz2awing",
+                "upgrades": {}
+            },
+            {
+                "id": "jarekyeager",
+                "points": 40,
+                "ship": "fireball",
+                "upgrades": {
+                    "missile": [
+                        "protonrockets"
+                    ]
+                }
+            },
+            {
+                "id": "r1j5",
+                "points": 29,
+                "ship": "fireball",
+                "upgrades": {}
+            }
+        ],
+        "points": 196,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Resistance&d=v8ZsZ200Z256XW195WW175WW171WY350XWWWY239XWWWY377XW102WWWWWY379XWWWWW&sn=Random%20Squad&obs="
+}

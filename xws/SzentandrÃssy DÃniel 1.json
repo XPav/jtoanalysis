@@ -1,0 +1,57 @@
+{
+    "name": "Szentandr\u00c3ssy D\u00c3niel",
+    "number": 1,
+    "xws": {
+        "faction": "galacticempire",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "baronoftheempire",
+                "points": 30,
+                "ship": "tieadvancedv1",
+                "upgrades": {}
+            },
+            {
+                "id": "majorvynder",
+                "points": 57,
+                "ship": "alphaclassstarwing",
+                "upgrades": {
+                    "configuration": [
+                        "os1arsenalloadout"
+                    ],
+                    "missile": [
+                        "clustermissiles",
+                        "homingmissiles"
+                    ],
+                    "torpedo": [
+                        "advprotontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "redline",
+                "points": 66,
+                "ship": "tiecapunisher",
+                "upgrades": {
+                    "device": [
+                        "seismiccharges",
+                        "protonbombs"
+                    ],
+                    "missile": [
+                        "diamondboronmissiles"
+                    ]
+                }
+            },
+            {
+                "id": "vizier",
+                "points": 45,
+                "ship": "tiereaper",
+                "upgrades": {}
+            }
+        ],
+        "points": 198,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Galactic%20Empire&d=v8ZsZ200Z172XWWY161XWWW98WW139W134W100Y191XWW238WWW71W69WY185XWW&sn=Random%20Squad&obs="
+}

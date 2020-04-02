@@ -1,0 +1,75 @@
+{
+    "name": "Bjmorrissey",
+    "number": 1,
+    "xws": {
+        "faction": "resistance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "finn",
+                "points": 51,
+                "ship": "resistancetransportpod",
+                "upgrades": {
+                    "crew": [
+                        "amilynholdo"
+                    ],
+                    "modification": [
+                        "targetingcomputer"
+                    ],
+                    "talent": [
+                        "outmaneuver"
+                    ],
+                    "tech": [
+                        "patternanalyzer"
+                    ]
+                }
+            },
+            {
+                "id": "bb8",
+                "points": 45,
+                "ship": "resistancetransportpod",
+                "upgrades": {
+                    "crew": [
+                        "hansolo-crew"
+                    ],
+                    "modification": [
+                        "targetingcomputer"
+                    ],
+                    "talent": [
+                        "outmaneuver"
+                    ],
+                    "tech": [
+                        "targetingsynchronizer"
+                    ]
+                }
+            },
+            {
+                "id": "cat",
+                "points": 64,
+                "ship": "mg100starfortress",
+                "upgrades": {
+                    "sensor": [
+                        "advancedsensors"
+                    ]
+                }
+            },
+            {
+                "id": "bluesquadronrecruit",
+                "points": 39,
+                "ship": "rz2awing",
+                "upgrades": {
+                    "talent": [
+                        "predator"
+                    ],
+                    "tech": [
+                        "primedthrusters"
+                    ]
+                }
+            }
+        ],
+        "points": 199,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Resistance&d=v8ZsZ200Z350X126W206W242W249Y349X126W177W192W249Y291X111WWWWWWWY301X127WW178&sn=Random%20Squad&obs="
+}

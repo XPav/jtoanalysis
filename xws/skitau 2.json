@@ -1,0 +1,60 @@
+{
+    "name": "skitau",
+    "number": 2,
+    "xws": {
+        "faction": "rebelalliance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "kashyyykdefender",
+                "points": 58,
+                "ship": "auzituckgunship",
+                "upgrades": {
+                    "crew": [
+                        "chewbacca",
+                        "r2d2-crew"
+                    ]
+                }
+            },
+            {
+                "id": "zeborrelios-sheathipedeclassshuttle",
+                "points": 44,
+                "ship": "sheathipedeclassshuttle",
+                "upgrades": {
+                    "crew": [
+                        "cassianandor"
+                    ],
+                    "talent": [
+                        "debrisgambit"
+                    ],
+                    "title": [
+                        "phantom"
+                    ]
+                }
+            },
+            {
+                "id": "roarkgarnet",
+                "points": 47,
+                "ship": "hwk290lightfreighter",
+                "upgrades": {
+                    "device": [
+                        "seismiccharges"
+                    ],
+                    "modification": [
+                        "stealthdevice"
+                    ]
+                }
+            },
+            {
+                "id": "ibtisam",
+                "points": 46,
+                "ship": "arc170starfighter",
+                "upgrades": {}
+            }
+        ],
+        "points": 195,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Rebel%20Alliance&d=v8ZsZ200Z60X21W56WY71X118W19WWW167Y47XW71WWW166WY80XWWWWW&sn=Random%20Squad&obs="
+}

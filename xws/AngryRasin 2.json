@@ -1,0 +1,60 @@
+{
+    "name": "AngryRasin",
+    "number": 2,
+    "xws": {
+        "faction": "separatistalliance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "darthmaul",
+                "points": 96,
+                "ship": "sithinfiltrator",
+                "upgrades": {
+                    "crew": [
+                        "informant",
+                        "chancellorpalpatine"
+                    ],
+                    "device": [
+                        "seismiccharges"
+                    ],
+                    "force-power": [
+                        "hate"
+                    ]
+                }
+            },
+            {
+                "id": "technounionbomber",
+                "points": 38,
+                "ship": "hyenaclassdroidbomber",
+                "upgrades": {
+                    "device": [
+                        "proximitymines"
+                    ],
+                    "missile": [
+                        "protonrockets"
+                    ]
+                }
+            },
+            {
+                "id": "darkcourier",
+                "points": 63,
+                "ship": "sithinfiltrator",
+                "upgrades": {
+                    "crew": [
+                        "generalgrievous"
+                    ],
+                    "tacticalrelay": [
+                        "tv94"
+                    ],
+                    "title": [
+                        "scimitar"
+                    ]
+                }
+            }
+        ],
+        "points": 197,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Separatist%20Alliance&d=v8ZsZ200Z272X204WWW37W217W71WWWY324XW102W70WWY336XWWW219WWW216W223&sn=Random%20Squad&obs="
+}

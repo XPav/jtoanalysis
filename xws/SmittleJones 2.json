@@ -1,0 +1,46 @@
+{
+    "name": "SmittleJones",
+    "number": 2,
+    "xws": {
+        "faction": "galacticempire",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "cutlasssquadronpilot",
+                "points": 45,
+                "ship": "tiecapunisher",
+                "upgrades": {
+                    "gunner": [
+                        "skilledbombardier"
+                    ],
+                    "missile": [
+                        "protonrockets"
+                    ]
+                }
+            },
+            {
+                "id": "mornakee",
+                "points": 75,
+                "ship": "vt49decimator",
+                "upgrades": {}
+            },
+            {
+                "id": "darthvader",
+                "points": 75,
+                "ship": "tieadvancedx1",
+                "upgrades": {
+                    "missile": [
+                        "homingmissiles"
+                    ],
+                    "sensor": [
+                        "passivesensors"
+                    ]
+                }
+            }
+        ],
+        "points": 195,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Galactic%20Empire&d=v8ZsZ200Z193XWWW102W88WWWY396XWWWWWWWWY173XW240W100W&sn=Random%20Squad&obs="
+}

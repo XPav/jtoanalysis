@@ -1,0 +1,69 @@
+{
+    "name": "Tyler Gi",
+    "number": 1,
+    "xws": {
+        "faction": "resistance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "nodinchavdri",
+                "points": 51,
+                "ship": "resistancetransport",
+                "upgrades": {
+                    "astromech": [
+                        "r2astromech"
+                    ],
+                    "tech": [
+                        "advancedoptics"
+                    ],
+                    "torpedo": [
+                        "iontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "covanell",
+                "points": 73,
+                "ship": "resistancetransport",
+                "upgrades": {
+                    "astromech": [
+                        "m9g8"
+                    ],
+                    "crew": [
+                        "leiaorgana-resistance"
+                    ],
+                    "tech": [
+                        "patternanalyzer"
+                    ],
+                    "torpedo": [
+                        "advprotontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "colossusstationmechanic",
+                "points": 31,
+                "ship": "fireball",
+                "upgrades": {
+                    "missile": [
+                        "homingmissiles"
+                    ]
+                }
+            },
+            {
+                "id": "bluesquadronrookie",
+                "points": 42,
+                "ship": "t70xwing",
+                "upgrades": {
+                    "configuration": [
+                        "integratedsfoils"
+                    ]
+                }
+            }
+        ],
+        "points": 197,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Resistance&d=v8ZsZ200Z352X186WW135WWW2WY351XW206WW134W244WW197WY380X100WWWWWY258XWW175WWW&sn=Random%20Squad&obs="
+}

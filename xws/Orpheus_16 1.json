@@ -1,0 +1,52 @@
+{
+    "name": "Orpheus_16",
+    "number": 1,
+    "xws": {
+        "faction": "rebelalliance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "mirandadoni",
+                "points": 77,
+                "ship": "btls8kwing",
+                "upgrades": {
+                    "device": [
+                        "electroprotonbomb"
+                    ],
+                    "gunner": [
+                        "veteranturretgunner"
+                    ],
+                    "torpedo": [
+                        "protontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "knavesquadronescort",
+                "points": 62,
+                "ship": "ewing",
+                "upgrades": {
+                    "astromech": [
+                        "r3astromech"
+                    ],
+                    "modification": [
+                        "hullupgrade"
+                    ],
+                    "sensor": [
+                        "firecontrolsystem"
+                    ]
+                }
+            },
+            {
+                "id": "wullffwarro",
+                "points": 56,
+                "ship": "auzituckgunship",
+                "upgrades": {}
+            }
+        ],
+        "points": 195,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Rebel%20Alliance&d=v8ZsZ200Z17X136WWW90WWW235WY24X113WW4W164Y58XWWW&sn=Random%20Squad&obs="
+}

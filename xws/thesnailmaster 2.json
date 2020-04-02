@@ -1,0 +1,79 @@
+{
+    "name": "thesnailmaster",
+    "number": 2,
+    "xws": {
+        "faction": "resistance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "logisticsdivisionpilot",
+                "points": 47,
+                "ship": "resistancetransport",
+                "upgrades": {
+                    "crew": [
+                        "seasonednavigator",
+                        "tacticalofficer"
+                    ],
+                    "modification": [
+                        "munitionsfailsafe"
+                    ],
+                    "tech": [
+                        "primedthrusters"
+                    ]
+                }
+            },
+            {
+                "id": "kazudaxiono",
+                "points": 55,
+                "ship": "fireball",
+                "upgrades": {
+                    "astromech": [
+                        "bbastromech"
+                    ],
+                    "illicit": [
+                        "contrabandcybernetics"
+                    ],
+                    "talent": [
+                        "snapshot"
+                    ],
+                    "title": [
+                        "kazsfireball"
+                    ]
+                }
+            },
+            {
+                "id": "elloasty",
+                "points": 62,
+                "ship": "t70xwing",
+                "upgrades": {
+                    "configuration": [
+                        "integratedsfoils"
+                    ],
+                    "tech": [
+                        "patternanalyzer"
+                    ],
+                    "title": [
+                        "blackone"
+                    ]
+                }
+            },
+            {
+                "id": "colossusstationmechanic",
+                "points": 32,
+                "ship": "fireball",
+                "upgrades": {
+                    "astromech": [
+                        "r5astromech"
+                    ],
+                    "illicit": [
+                        "deadmansswitch"
+                    ]
+                }
+            }
+        ],
+        "points": 196,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Resistance&d=v8ZsZ200Z346X178WWW59W61WW108Y378X256WW196W92WWW315Y299XWWW175W206W171WY380XW6W93WWW&sn=Random%20Squad&obs="
+}

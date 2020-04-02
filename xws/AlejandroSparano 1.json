@@ -1,0 +1,65 @@
+{
+    "name": "AlejandroSparano",
+    "number": 1,
+    "xws": {
+        "faction": "rebelalliance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "ibtisam",
+                "points": 58,
+                "ship": "arc170starfighter",
+                "upgrades": {
+                    "crew": [
+                        "landocalrissian"
+                    ],
+                    "gunner": [
+                        "hotshotgunner"
+                    ],
+                    "modification": [
+                        "tacticalscrambler"
+                    ],
+                    "talent": [
+                        "composure"
+                    ]
+                }
+            },
+            {
+                "id": "esegetuketu",
+                "points": 88,
+                "ship": "btls8kwing",
+                "upgrades": {
+                    "crew": [
+                        "kananjarrus"
+                    ],
+                    "device": [
+                        "electroprotonbomb"
+                    ],
+                    "gunner": [
+                        "ezrabridger"
+                    ],
+                    "torpedo": [
+                        "iontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "bladesquadronveteran",
+                "points": 54,
+                "ship": "asf01bwing",
+                "upgrades": {
+                    "sensor": [
+                        "trajectorysimulator"
+                    ],
+                    "torpedo": [
+                        "iontorpedoes"
+                    ]
+                }
+            }
+        ],
+        "points": 200,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Rebel%20Alliance&d=v8ZsZ200Z80X115WW44W86WW110Y18X135WWW81W41W235WWY75XW114WWW135WW&sn=Random%20Squad&obs="
+}

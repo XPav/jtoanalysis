@@ -1,0 +1,56 @@
+{
+    "name": "Ben Worth",
+    "number": 2,
+    "xws": {
+        "faction": "rebelalliance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "lieutenantblount",
+                "points": 30,
+                "ship": "z95af4headhunter",
+                "upgrades": {}
+            },
+            {
+                "id": "mirandadoni",
+                "points": 54,
+                "ship": "btls8kwing",
+                "upgrades": {
+                    "device": [
+                        "electroprotonbomb"
+                    ]
+                }
+            },
+            {
+                "id": "hortonsalm",
+                "points": 55,
+                "ship": "btla4ywing",
+                "upgrades": {
+                    "gunner": [
+                        "skilledbombardier"
+                    ],
+                    "modification": [
+                        "afterburners"
+                    ],
+                    "talent": [
+                        "squadleader"
+                    ]
+                }
+            },
+            {
+                "id": "lowhhrick",
+                "points": 58,
+                "ship": "auzituckgunship",
+                "upgrades": {
+                    "crew": [
+                        "cassianandor"
+                    ]
+                }
+            }
+        ],
+        "points": 197,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Rebel%20Alliance&d=v8ZsZ200Z55XWWY17XWWWWW235WWY26X131WWWW105WW88Y59XWW19W&sn=Random%20Squad&obs="
+}

@@ -1,0 +1,65 @@
+{
+    "name": "Corrvan",
+    "number": 2,
+    "xws": {
+        "faction": "resistance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "chewbacca-scavengedyt1300",
+                "points": 83,
+                "ship": "scavengedyt1300",
+                "upgrades": {
+                    "gunner": [
+                        "veteranturretgunner"
+                    ],
+                    "illicit": [
+                        "riggedcargochute"
+                    ],
+                    "missile": [
+                        "ionmissiles"
+                    ],
+                    "title": [
+                        "reysmillenniumfalcon"
+                    ]
+                }
+            },
+            {
+                "id": "nodinchavdri",
+                "points": 57,
+                "ship": "resistancetransport",
+                "upgrades": {
+                    "crew": [
+                        "rosetico"
+                    ],
+                    "modification": [
+                        "staticdischargevanes"
+                    ],
+                    "torpedo": [
+                        "iontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "karekun",
+                "points": 56,
+                "ship": "t70xwing",
+                "upgrades": {
+                    "cannon": [
+                        "tractorbeam"
+                    ],
+                    "configuration": [
+                        "integratedsfoils"
+                    ],
+                    "title": [
+                        "blackone"
+                    ]
+                }
+            }
+        ],
+        "points": 196,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Resistance&d=v8ZsZ200Z246XW101WWW90W96WW193Y352XWW135W173WWW109Y252XWWW175WW171W13&sn=Random%20Squad&obs="
+}

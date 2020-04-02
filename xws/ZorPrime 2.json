@@ -1,0 +1,68 @@
+{
+    "name": "ZorPrime",
+    "number": 2,
+    "xws": {
+        "faction": "separatistalliance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "countdooku",
+                "points": 93,
+                "ship": "sithinfiltrator",
+                "upgrades": {
+                    "crew": [
+                        "generalgrievous"
+                    ],
+                    "device": [
+                        "seismiccharges"
+                    ],
+                    "modification": [
+                        "electronicbaffle"
+                    ],
+                    "tacticalrelay": [
+                        "ta175"
+                    ],
+                    "title": [
+                        "scimitar"
+                    ],
+                    "torpedo": [
+                        "plasmatorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "dfs081",
+                "points": 38,
+                "ship": "vultureclassdroidfighter",
+                "upgrades": {
+                    "missile": [
+                        "magpulsewarheads"
+                    ],
+                    "modification": [
+                        "stealthdevice"
+                    ]
+                }
+            },
+            {
+                "id": "066",
+                "points": 65,
+                "ship": "sithinfiltrator",
+                "upgrades": {
+                    "cannon": [
+                        "tractorbeam"
+                    ],
+                    "device": [
+                        "drk1probedroids"
+                    ],
+                    "torpedo": [
+                        "iontorpedoes"
+                    ]
+                }
+            }
+        ],
+        "points": 196,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Separatist%20Alliance&d=v8ZsZ200Z334XWW234WW219W71W106W216W239Y311X311WW166Y335XW13W135WWW221WWW&sn=Random%20Squad&obs="
+}

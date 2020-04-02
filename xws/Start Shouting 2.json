@@ -1,0 +1,60 @@
+{
+    "name": "Start Shouting",
+    "number": 2,
+    "xws": {
+        "faction": "galacticempire",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "baronoftheempire",
+                "points": 38,
+                "ship": "tieadvancedv1",
+                "upgrades": {
+                    "missile": [
+                        "clustermissiles"
+                    ],
+                    "sensor": [
+                        "passivesensors"
+                    ]
+                }
+            },
+            {
+                "id": "patrolleader",
+                "points": 113,
+                "ship": "vt49decimator",
+                "upgrades": {
+                    "crew": [
+                        "moffjerjerrod",
+                        "grandinquisitor"
+                    ],
+                    "device": [
+                        "proximitymines"
+                    ],
+                    "modification": [
+                        "staticdischargevanes"
+                    ],
+                    "title": [
+                        "dauntless"
+                    ],
+                    "torpedo": [
+                        "plasmatorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "fifthbrother",
+                "points": 49,
+                "ship": "tieadvancedv1",
+                "upgrades": {
+                    "missile": [
+                        "protonrockets"
+                    ]
+                }
+            }
+        ],
+        "points": 200,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Galactic%20Empire&d=v8ZsZ200Z172XW240W98Y216X234W50W33WWW70W109W147Y394XWW102&sn=Random%20Squad&obs="
+}

@@ -1,0 +1,69 @@
+{
+    "name": "Nic Harris",
+    "number": 1,
+    "xws": {
+        "faction": "resistance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "chewbacca-scavengedyt1300",
+                "points": 92,
+                "ship": "scavengedyt1300",
+                "upgrades": {
+                    "crew": [
+                        "gnkgonkdroid",
+                        "novicetechnician"
+                    ],
+                    "illicit": [
+                        "feedbackarray"
+                    ],
+                    "missile": [
+                        "concussionmissiles"
+                    ],
+                    "modification": [
+                        "delayedfuses"
+                    ],
+                    "talent": [
+                        "lonewolf"
+                    ]
+                }
+            },
+            {
+                "id": "colossusstationmechanic",
+                "points": 30,
+                "ship": "fireball",
+                "upgrades": {
+                    "illicit": [
+                        "inertialdampeners"
+                    ],
+                    "title": [
+                        "kazsfireball"
+                    ]
+                }
+            },
+            {
+                "id": "vimoradi",
+                "points": 38,
+                "ship": "resistancetransportpod",
+                "upgrades": {
+                    "crew": [
+                        "c3po-crew"
+                    ],
+                    "tech": [
+                        "primedthrusters"
+                    ]
+                }
+            },
+            {
+                "id": "nodinchavdri",
+                "points": 36,
+                "ship": "resistancetransport",
+                "upgrades": {}
+            }
+        ],
+        "points": 196,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Resistance&d=v8ZsZ200Z246X124W99W32W53WW94W236WY380XWW95WWW315Y348X178W191WY352XWWWWWW&sn=Random%20Squad&obs="
+}

@@ -1,0 +1,53 @@
+{
+    "name": "Ashok",
+    "number": 2,
+    "xws": {
+        "faction": "scumandvillainy",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "kavil",
+                "points": 48,
+                "ship": "btla4ywing",
+                "upgrades": {
+                    "turret": [
+                        "ioncannonturret"
+                    ]
+                }
+            },
+            {
+                "id": "miningguildsentry",
+                "points": 22,
+                "ship": "modifiedtielnfighter",
+                "upgrades": {}
+            },
+            {
+                "id": "lokrevenant",
+                "points": 58,
+                "ship": "scurrgh6bomber",
+                "upgrades": {
+                    "device": [
+                        "clustermines"
+                    ],
+                    "turret": [
+                        "ioncannonturret"
+                    ]
+                }
+            },
+            {
+                "id": "sabinewren-lancerclasspursuitcraft",
+                "points": 69,
+                "ship": "lancerclasspursuitcraft",
+                "upgrades": {
+                    "crew": [
+                        "perceptivecopilot"
+                    ]
+                }
+            }
+        ],
+        "points": 197,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Scum%20and%20Villainy&d=v8ZsZ200Z85XW138WWWWWWY304XY146X138WWWW316WWY127XW54WWWW&sn=Random%20Squad&obs="
+}

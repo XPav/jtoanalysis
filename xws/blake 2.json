@@ -1,0 +1,66 @@
+{
+    "name": "blake",
+    "number": 2,
+    "xws": {
+        "faction": "resistance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "vimoradi",
+                "points": 40,
+                "ship": "resistancetransportpod",
+                "upgrades": {
+                    "crew": [
+                        "korrsella"
+                    ],
+                    "modification": [
+                        "angleddeflectors"
+                    ],
+                    "tech": [
+                        "advancedoptics"
+                    ]
+                }
+            },
+            {
+                "id": "finn",
+                "points": 29,
+                "ship": "resistancetransportpod",
+                "upgrades": {}
+            },
+            {
+                "id": "kazudaxiono",
+                "points": 62,
+                "ship": "fireball",
+                "upgrades": {
+                    "illicit": [
+                        "deadmansswitch"
+                    ],
+                    "missile": [
+                        "magpulsewarheads"
+                    ],
+                    "modification": [
+                        "stealthdevice",
+                        "staticdischargevanes"
+                    ],
+                    "title": [
+                        "kazsfireball"
+                    ]
+                }
+            },
+            {
+                "id": "resistancesympathizer",
+                "points": 66,
+                "ship": "scavengedyt1300",
+                "upgrades": {
+                    "crew": [
+                        "pz4co"
+                    ]
+                }
+            }
+        ],
+        "points": 197,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Resistance&d=v8ZsZ200Z348X186W245W247Y350XWWWY378XW311WW93W166W109W315Y295XW246WWWWW&sn=Random%20Squad&obs="
+}

@@ -1,0 +1,56 @@
+{
+    "name": "Black2710",
+    "number": 1,
+    "xws": {
+        "faction": "galacticrepublic",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "bravoflightofficer",
+                "points": 44,
+                "ship": "nabooroyaln1starfighter",
+                "upgrades": {
+                    "astromech": [
+                        "r4astromech"
+                    ],
+                    "torpedo": [
+                        "plasmatorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "sinker",
+                "points": 60,
+                "ship": "arc170starfighter",
+                "upgrades": {
+                    "torpedo": [
+                        "advprotontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "oddball-btlbywing",
+                "points": 44,
+                "ship": "btlbywing",
+                "upgrades": {}
+            },
+            {
+                "id": "shadowsquadronveteran",
+                "points": 47,
+                "ship": "btlbywing",
+                "upgrades": {
+                    "modification": [
+                        "afterburners"
+                    ],
+                    "torpedo": [
+                        "plasmatorpedoes"
+                    ]
+                }
+            }
+        ],
+        "points": 195,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Galactic%20Republic&d=v8ZsZ200Z323XW5W234Y280X134WWWWY366XWWWWWWY360XWW234WWWW105&sn=Random%20Squad&obs="
+}

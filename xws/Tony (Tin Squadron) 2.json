@@ -1,0 +1,63 @@
+{
+    "name": "Tony (Tin Squadron)",
+    "number": 2,
+    "xws": {
+        "faction": "scumandvillainy",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "outerrimpioneer",
+                "points": 30,
+                "ship": "escapecraft",
+                "upgrades": {
+                    "crew": [
+                        "tobiasbeckett"
+                    ]
+                }
+            },
+            {
+                "id": "captainjostero",
+                "points": 58,
+                "ship": "kihraxzfighter",
+                "upgrades": {
+                    "missile": [
+                        "protonrockets"
+                    ],
+                    "modification": [
+                        "staticdischargevanes",
+                        "angleddeflectors"
+                    ]
+                }
+            },
+            {
+                "id": "lattsrazzi",
+                "points": 67,
+                "ship": "yv666lightfreighter",
+                "upgrades": {
+                    "cannon": [
+                        "heavylasercannon"
+                    ],
+                    "gunner": [
+                        "greedo"
+                    ],
+                    "talent": [
+                        "fearless"
+                    ],
+                    "title": [
+                        "houndstooth"
+                    ]
+                }
+            },
+            {
+                "id": "contractedscout",
+                "points": 41,
+                "ship": "jumpmaster5000",
+                "upgrades": {}
+            }
+        ],
+        "points": 196,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Scum%20and%20Villainy&d=v8ZsZ200Z94XW62WY122X102WWW109W247Y154X121W10WWWW83WWW150Y118XWWWWWW&sn=Random%20Squad&obs="
+}

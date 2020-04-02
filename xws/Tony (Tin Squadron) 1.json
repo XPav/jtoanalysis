@@ -1,0 +1,67 @@
+{
+    "name": "Tony (Tin Squadron)",
+    "number": 1,
+    "xws": {
+        "faction": "galacticempire",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "captainjonus",
+                "points": 83,
+                "ship": "tiesabomber",
+                "upgrades": {
+                    "device": [
+                        "clustermines",
+                        "electroprotonbomb"
+                    ],
+                    "missile": [
+                        "clustermissiles",
+                        "concussionmissiles"
+                    ],
+                    "talent": [
+                        "composure"
+                    ],
+                    "torpedo": [
+                        "advprotontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "inquisitor",
+                "points": 48,
+                "ship": "tieadvancedv1",
+                "upgrades": {
+                    "force-power": [
+                        "instinctiveaim"
+                    ],
+                    "missile": [
+                        "concussionmissiles"
+                    ],
+                    "sensor": [
+                        "trajectorysimulator"
+                    ]
+                }
+            },
+            {
+                "id": "nightbeast",
+                "points": 25,
+                "ship": "tielnfighter",
+                "upgrades": {}
+            },
+            {
+                "id": "scarifbasepilot",
+                "points": 41,
+                "ship": "tiereaper",
+                "upgrades": {
+                    "modification": [
+                        "electronicbaffle"
+                    ]
+                }
+            }
+        ],
+        "points": 197,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Galactic%20Empire&d=v8ZsZ200Z203X115W134W98W99WW316W235WY171X73W114W99Y226XY186XWW106&sn=Random%20Squad&obs="
+}

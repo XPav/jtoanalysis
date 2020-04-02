@@ -1,0 +1,53 @@
+{
+    "name": "PorgLeader",
+    "number": 1,
+    "xws": {
+        "faction": "resistance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "zizitlo",
+                "points": 51,
+                "ship": "rz2awing",
+                "upgrades": {
+                    "missile": [
+                        "ionmissiles"
+                    ],
+                    "talent": [
+                        "crackshot"
+                    ],
+                    "tech": [
+                        "ferrospherepaint"
+                    ]
+                }
+            },
+            {
+                "id": "benteene",
+                "points": 84,
+                "ship": "mg100starfortress",
+                "upgrades": {
+                    "gunner": [
+                        "veteranturretgunner",
+                        "paigetico"
+                    ],
+                    "modification": [
+                        "ablativeplating"
+                    ],
+                    "sensor": [
+                        "passivesensors"
+                    ]
+                }
+            },
+            {
+                "id": "chewbacca-scavengedyt1300",
+                "points": 63,
+                "ship": "scavengedyt1300",
+                "upgrades": {}
+            }
+        ],
+        "points": 198,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Resistance&d=v8ZsZ200Z387XW116W101W198Y292X240WWW90W189WWW103Y246XWWWWWWW&sn=Random%20Squad&obs="
+}

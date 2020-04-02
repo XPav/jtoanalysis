@@ -1,0 +1,54 @@
+{
+    "name": "Mefaze",
+    "number": 2,
+    "xws": {
+        "faction": "resistance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "nodinchavdri",
+                "points": 67,
+                "ship": "resistancetransport",
+                "upgrades": {
+                    "crew": [
+                        "amilynholdo",
+                        "hansolo-crew"
+                    ],
+                    "modification": [
+                        "staticdischargevanes"
+                    ],
+                    "torpedo": [
+                        "protontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "rey",
+                "points": 94,
+                "ship": "scavengedyt1300",
+                "upgrades": {
+                    "crew": [
+                        "leiaorgana-resistance"
+                    ],
+                    "gunner": [
+                        "hotshotgunner"
+                    ]
+                }
+            },
+            {
+                "id": "logisticsdivisionpilot",
+                "points": 35,
+                "ship": "resistancetransport",
+                "upgrades": {
+                    "cannon": [
+                        "tractorbeam"
+                    ]
+                }
+            }
+        ],
+        "points": 196,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Resistance&d=v8ZsZ200Z352XWW136W242W192WW109Y244XWW244WW86WWWY346XW13WWWWW&sn=Random%20Squad&obs="
+}

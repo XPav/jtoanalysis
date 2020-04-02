@@ -1,0 +1,61 @@
+{
+    "name": "RedFISH",
+    "number": 1,
+    "xws": {
+        "faction": "rebelalliance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "roarkgarnet",
+                "points": 69,
+                "ship": "hwk290lightfreighter",
+                "upgrades": {
+                    "crew": [
+                        "chewbacca"
+                    ],
+                    "device": [
+                        "connernets"
+                    ],
+                    "talent": [
+                        "elusive"
+                    ],
+                    "title": [
+                        "moldycrow"
+                    ]
+                }
+            },
+            {
+                "id": "rebelscout",
+                "points": 30,
+                "ship": "hwk290lightfreighter",
+                "upgrades": {}
+            },
+            {
+                "id": "dutchvander",
+                "points": 40,
+                "ship": "btla4ywing",
+                "upgrades": {}
+            },
+            {
+                "id": "norrawexley-btla4ywing",
+                "points": 56,
+                "ship": "btla4ywing",
+                "upgrades": {
+                    "astromech": [
+                        "chopper"
+                    ],
+                    "device": [
+                        "ionbombs"
+                    ],
+                    "talent": [
+                        "juke"
+                    ]
+                }
+            }
+        ],
+        "points": 195,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Rebel%20Alliance&d=v8ZsZ200Z47X119W68W21WWW156Y49XWWWWY27XWWWWWWY25X123WWW0WW317W&sn=Random%20Squad&obs="
+}

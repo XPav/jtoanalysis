@@ -1,0 +1,53 @@
+{
+    "name": "brettness37",
+    "number": 1,
+    "xws": {
+        "faction": "galacticempire",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "blacksquadronace",
+                "points": 28,
+                "ship": "tielnfighter",
+                "upgrades": {
+                    "talent": [
+                        "elusive"
+                    ]
+                }
+            },
+            {
+                "id": "sigmasquadronace",
+                "points": 48,
+                "ship": "tiephphantom",
+                "upgrades": {}
+            },
+            {
+                "id": "patrolleader",
+                "points": 91,
+                "ship": "vt49decimator",
+                "upgrades": {
+                    "crew": [
+                        "freelanceslicer",
+                        "moffjerjerrod"
+                    ],
+                    "gunner": [
+                        "hotshotgunner"
+                    ],
+                    "modification": [
+                        "staticdischargevanes"
+                    ]
+                }
+            },
+            {
+                "id": "deathfire",
+                "points": 32,
+                "ship": "tiesabomber",
+                "upgrades": {}
+            }
+        ],
+        "points": 199,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Galactic%20Empire&d=v8ZsZ200Z227X119WY201XWWWY216XW30W50WW86WW109WY206XWWWWWW&sn=Random%20Squad&obs="
+}

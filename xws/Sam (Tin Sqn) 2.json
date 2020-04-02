@@ -1,0 +1,73 @@
+{
+    "name": "Sam (Tin Sqn)",
+    "number": 2,
+    "xws": {
+        "faction": "resistance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "bb8",
+                "points": 35,
+                "ship": "resistancetransportpod",
+                "upgrades": {
+                    "crew": [
+                        "seasonednavigator"
+                    ],
+                    "tech": [
+                        "advancedoptics"
+                    ]
+                }
+            },
+            {
+                "id": "kazudaxiono",
+                "points": 55,
+                "ship": "fireball",
+                "upgrades": {
+                    "missile": [
+                        "concussionmissiles"
+                    ],
+                    "modification": [
+                        "delayedfuses",
+                        "staticdischargevanes"
+                    ],
+                    "title": [
+                        "kazsfireball"
+                    ]
+                }
+            },
+            {
+                "id": "nodinchavdri",
+                "points": 45,
+                "ship": "resistancetransport",
+                "upgrades": {
+                    "astromech": [
+                        "r2ha"
+                    ],
+                    "crew": [
+                        "kaydelconnix"
+                    ]
+                }
+            },
+            {
+                "id": "r1j5",
+                "points": 35,
+                "ship": "fireball",
+                "upgrades": {
+                    "missile": [
+                        "concussionmissiles"
+                    ]
+                }
+            },
+            {
+                "id": "vimoradi",
+                "points": 27,
+                "ship": "resistancetransportpod",
+                "upgrades": {}
+            }
+        ],
+        "points": 197,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Resistance&d=v8ZsZ200Z349XW186W59WY378XW99WWW236W109W315Y352XWWWW231W190WY379X99WWWWWY348XWW&sn=Random%20Squad&obs="
+}

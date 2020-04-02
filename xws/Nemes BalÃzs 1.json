@@ -1,0 +1,68 @@
+{
+    "name": "Nemes Bal\u00c3zs",
+    "number": 1,
+    "xws": {
+        "faction": "resistance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "colossusstationmechanic",
+                "points": 54,
+                "ship": "fireball",
+                "upgrades": {
+                    "astromech": [
+                        "m9g8"
+                    ],
+                    "illicit": [
+                        "feedbackarray"
+                    ],
+                    "missile": [
+                        "protonrockets"
+                    ],
+                    "modification": [
+                        "advancedslam",
+                        "staticdischargevanes"
+                    ],
+                    "title": [
+                        "kazsfireball"
+                    ]
+                }
+            },
+            {
+                "id": "greersonnel",
+                "points": 53,
+                "ship": "rz2awing",
+                "upgrades": {
+                    "missile": [
+                        "clustermissiles"
+                    ],
+                    "talent": [
+                        "lonewolf",
+                        "juke"
+                    ]
+                }
+            },
+            {
+                "id": "hansolo-scavengedyt1300",
+                "points": 89,
+                "ship": "scavengedyt1300",
+                "upgrades": {
+                    "crew": [
+                        "c3po-crew",
+                        "rosetico"
+                    ],
+                    "missile": [
+                        "protonrockets"
+                    ],
+                    "title": [
+                        "reysmillenniumfalcon"
+                    ]
+                }
+            }
+        ],
+        "points": 196,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Resistance&d=v8ZsZ200Z380X102W197W94W104W109W315Y270X124W123W98WY245XW102W191W173WWWW193&sn=Random%20Squad&obs="
+}

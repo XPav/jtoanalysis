@@ -1,0 +1,49 @@
+{
+    "name": "CaptainBuckbeak",
+    "number": 2,
+    "xws": {
+        "faction": "galacticempire",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "rearadmiralchiraneau",
+                "points": 86,
+                "ship": "vt49decimator",
+                "upgrades": {
+                    "crew": [
+                        "directorkrennic"
+                    ],
+                    "device": [
+                        "proximitymines"
+                    ]
+                }
+            },
+            {
+                "id": "captainjonus",
+                "points": 51,
+                "ship": "tiesabomber",
+                "upgrades": {
+                    "device": [
+                        "connernets"
+                    ]
+                }
+            },
+            {
+                "id": "sabersquadronace",
+                "points": 36,
+                "ship": "tieininterceptor",
+                "upgrades": {}
+            },
+            {
+                "id": "scimitarsquadronpilot",
+                "points": 27,
+                "ship": "tiesabomber",
+                "upgrades": {}
+            }
+        ],
+        "points": 200,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Galactic%20Empire&d=v8ZsZ200Z214XWW28WWWW70WWY203XWWWWWW68WY181XWWY208XWWWWWW&sn=Random%20Squad&obs="
+}

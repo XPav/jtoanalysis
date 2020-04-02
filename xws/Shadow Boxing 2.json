@@ -1,0 +1,57 @@
+{
+    "name": "Shadow Boxing",
+    "number": 2,
+    "xws": {
+        "faction": "rebelalliance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "lothalrebel",
+                "points": 97,
+                "ship": "vcx100lightfreighter",
+                "upgrades": {
+                    "crew": [
+                        "r2d2-crew",
+                        "freelanceslicer"
+                    ],
+                    "gunner": [
+                        "agilegunner"
+                    ],
+                    "torpedo": [
+                        "plasmatorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "ezrabridger",
+                "points": 45,
+                "ship": "attackshuttle",
+                "upgrades": {
+                    "title": [
+                        "phantom"
+                    ],
+                    "turret": [
+                        "ioncannonturret"
+                    ]
+                }
+            },
+            {
+                "id": "roarkgarnet",
+                "points": 58,
+                "ship": "hwk290lightfreighter",
+                "upgrades": {
+                    "modification": [
+                        "engineupgrade"
+                    ],
+                    "title": [
+                        "moldycrow"
+                    ]
+                }
+            }
+        ],
+        "points": 200,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Rebel%20Alliance&d=v8ZsZ200Z64X234WWW56W30WW76WY67XWWW138W167Y47XWWWW107W156&sn=Random%20Squad&obs="
+}

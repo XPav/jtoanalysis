@@ -1,0 +1,69 @@
+{
+    "name": "ESA_JT_OPEN",
+    "number": 1,
+    "xws": {
+        "faction": "resistance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "rosetico",
+                "points": 37,
+                "ship": "resistancetransportpod",
+                "upgrades": {
+                    "crew": [
+                        "gnkgonkdroid"
+                    ],
+                    "talent": [
+                        "composure"
+                    ]
+                }
+            },
+            {
+                "id": "finn",
+                "points": 47,
+                "ship": "resistancetransportpod",
+                "upgrades": {
+                    "modification": [
+                        "shieldupgrade"
+                    ],
+                    "talent": [
+                        "outmaneuver"
+                    ],
+                    "tech": [
+                        "ferrospherepaint"
+                    ]
+                }
+            },
+            {
+                "id": "pammichnerrogoode",
+                "points": 52,
+                "ship": "resistancetransport",
+                "upgrades": {
+                    "crew": [
+                        "hansolo-crew",
+                        "pz4co"
+                    ],
+                    "torpedo": [
+                        "advprotontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "jarekyeager",
+                "points": 33,
+                "ship": "fireball",
+                "upgrades": {}
+            },
+            {
+                "id": "r1j5",
+                "points": 29,
+                "ship": "fireball",
+                "upgrades": {}
+            }
+        ],
+        "points": 198,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Resistance&d=v8ZsZ200Z345X115WW32WY350X126W198WW165Y347XWW134W192W246WWY377XWWWWWWY379XWWWWW&sn=Random%20Squad&obs="
+}

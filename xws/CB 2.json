@@ -1,0 +1,52 @@
+{
+    "name": "CB",
+    "number": 2,
+    "xws": {
+        "faction": "rebelalliance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "fennrau-sheathipedeclassshuttle",
+                "points": 64,
+                "ship": "sheathipedeclassshuttle",
+                "upgrades": {
+                    "astromech": [
+                        "r4astromech"
+                    ],
+                    "modification": [
+                        "hullupgrade"
+                    ],
+                    "talent": [
+                        "snapshot"
+                    ],
+                    "title": [
+                        "phantom"
+                    ]
+                }
+            },
+            {
+                "id": "hansolo-modifiedyt1300lightfreighter",
+                "points": 80,
+                "ship": "modifiedyt1300lightfreighter",
+                "upgrades": {}
+            },
+            {
+                "id": "bladesquadronveteran",
+                "points": 52,
+                "ship": "asf01bwing",
+                "upgrades": {
+                    "cannon": [
+                        "autoblasters"
+                    ],
+                    "talent": [
+                        "juke"
+                    ]
+                }
+            }
+        ],
+        "points": 196,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Rebel%20Alliance&d=v8ZsZ200Z69X256WW164W5W167Y42XWWWWWWWY75X123WWW232WWW&sn=Random%20Squad&obs="
+}

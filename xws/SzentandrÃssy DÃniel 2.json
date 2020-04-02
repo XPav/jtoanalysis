@@ -1,0 +1,60 @@
+{
+    "name": "Szentandr\u00c3ssy D\u00c3niel",
+    "number": 2,
+    "xws": {
+        "faction": "galacticrepublic",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "plokoon",
+                "points": 58,
+                "ship": "delta7aethersprite",
+                "upgrades": {
+                    "configuration": [
+                        "calibratedlasertargeting"
+                    ],
+                    "force-power": [
+                        "precognitivereflexes"
+                    ]
+                }
+            },
+            {
+                "id": "luminaraunduli",
+                "points": 47,
+                "ship": "delta7aethersprite",
+                "upgrades": {
+                    "astromech": [
+                        "r3astromech"
+                    ],
+                    "modification": [
+                        "delayedfuses"
+                    ]
+                }
+            },
+            {
+                "id": "saeseetiin",
+                "points": 61,
+                "ship": "delta7aethersprite",
+                "upgrades": {
+                    "configuration": [
+                        "delta7b"
+                    ]
+                }
+            },
+            {
+                "id": "bluesquadronprotector",
+                "points": 33,
+                "ship": "v19torrentstarfighter",
+                "upgrades": {
+                    "missile": [
+                        "concussionmissiles"
+                    ]
+                }
+            }
+        ],
+        "points": 199,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Galactic%20Republic&d=v8ZsZ200Z312X250WW200WY274XW4WW236Y313XWW201WY320XW99W&sn=Random%20Squad&obs="
+}

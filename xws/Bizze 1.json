@@ -1,0 +1,56 @@
+{
+    "name": "Bizze",
+    "number": 1,
+    "xws": {
+        "faction": "galacticempire",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "vedfoslo",
+                "points": 58,
+                "ship": "tieadvancedx1",
+                "upgrades": {
+                    "missile": [
+                        "magpulsewarheads"
+                    ],
+                    "modification": [
+                        "stealthdevice"
+                    ]
+                }
+            },
+            {
+                "id": "patrolleader",
+                "points": 82,
+                "ship": "vt49decimator",
+                "upgrades": {
+                    "crew": [
+                        "ministertua"
+                    ],
+                    "modification": [
+                        "electronicbaffle"
+                    ],
+                    "torpedo": [
+                        "advprotontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "lieutenantsai",
+                "points": 57,
+                "ship": "lambdaclasst4ashuttle",
+                "upgrades": {
+                    "cannon": [
+                        "ioncannon"
+                    ],
+                    "title": [
+                        "st321"
+                    ]
+                }
+            }
+        ],
+        "points": 197,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Galactic%20Empire&d=v8ZsZ200Z175XWW311W166Y216X134WWW49WWW106WY166XW11WWWW162&sn=Random%20Squad&obs="
+}

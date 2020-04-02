@@ -1,0 +1,42 @@
+{
+    "name": "JKLOL",
+    "number": 2,
+    "xws": {
+        "faction": "firstorder",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "majorstridan",
+                "points": 81,
+                "ship": "upsilonclasscommandshuttle",
+                "upgrades": {
+                    "crew": [
+                        "perceptivecopilot"
+                    ],
+                    "sensor": [
+                        "firecontrolsystem"
+                    ],
+                    "tech": [
+                        "hyperspacetrackingdata"
+                    ]
+                }
+            },
+            {
+                "id": "lieutenantdormitz",
+                "points": 70,
+                "ship": "upsilonclasscommandshuttle",
+                "upgrades": {}
+            },
+            {
+                "id": "firstorderprovocateur",
+                "points": 45,
+                "ship": "tiebainterceptor",
+                "upgrades": {}
+            }
+        ],
+        "points": 196,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=First%20Order&d=v8ZsZ200Z251XW185WW54WWW113WY238XWWWWWWWY384XWWW&sn=Random%20Squad&obs="
+}

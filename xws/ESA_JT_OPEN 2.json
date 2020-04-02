@@ -1,0 +1,54 @@
+{
+    "name": "ESA_JT_OPEN",
+    "number": 2,
+    "xws": {
+        "faction": "rebelalliance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "roguesquadronescort",
+                "points": 56,
+                "ship": "ewing",
+                "upgrades": {
+                    "astromech": [
+                        "r3astromech"
+                    ]
+                }
+            },
+            {
+                "id": "edriotwotubes",
+                "points": 49,
+                "ship": "t65xwing",
+                "upgrades": {
+                    "configuration": [
+                        "servomotorsfoils"
+                    ],
+                    "torpedo": [
+                        "advprotontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "lowhhrick",
+                "points": 68,
+                "ship": "auzituckgunship",
+                "upgrades": {
+                    "crew": [
+                        "cassianandor",
+                        "gnkgonkdroid"
+                    ]
+                }
+            },
+            {
+                "id": "banditsquadronpilot",
+                "points": 22,
+                "ship": "z95af4headhunter",
+                "upgrades": {}
+            }
+        ],
+        "points": 195,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Rebel%20Alliance&d=v8ZsZ200Z23XWWW4WY8XW134WWW142Y59XW19W32WY57XW&sn=Random%20Squad&obs="
+}

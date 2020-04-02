@@ -1,0 +1,46 @@
+{
+    "name": "Mr Sunol",
+    "number": 1,
+    "xws": {
+        "faction": "resistance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "cat",
+                "points": 54,
+                "ship": "mg100starfortress",
+                "upgrades": {}
+            },
+            {
+                "id": "chewbacca-scavengedyt1300",
+                "points": 73,
+                "ship": "scavengedyt1300",
+                "upgrades": {
+                    "talent": [
+                        "squadleader"
+                    ]
+                }
+            },
+            {
+                "id": "kazudaxiono",
+                "points": 42,
+                "ship": "fireball",
+                "upgrades": {
+                    "title": [
+                        "kazsfireball"
+                    ]
+                }
+            },
+            {
+                "id": "bb8",
+                "points": 26,
+                "ship": "resistancetransportpod",
+                "upgrades": {}
+            }
+        ],
+        "points": 195,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Resistance&d=v8ZsZ200Z291XWWWWWWWY246X131WWWWWWWY378XWWWWWW315Y349XWWW&sn=Random%20Squad&obs="
+}

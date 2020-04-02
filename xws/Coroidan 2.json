@@ -1,0 +1,67 @@
+{
+    "name": "Coroidan",
+    "number": 2,
+    "xws": {
+        "faction": "resistance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "jarekyeager",
+                "points": 51,
+                "ship": "fireball",
+                "upgrades": {
+                    "astromech": [
+                        "r4astromech"
+                    ],
+                    "illicit": [
+                        "cloakingdevice"
+                    ],
+                    "missile": [
+                        "homingmissiles"
+                    ],
+                    "modification": [
+                        "staticdischargevanes"
+                    ],
+                    "talent": [
+                        "marksmanship"
+                    ]
+                }
+            },
+            {
+                "id": "ronithblario",
+                "points": 45,
+                "ship": "rz2awing",
+                "upgrades": {
+                    "missile": [
+                        "homingmissiles"
+                    ],
+                    "tech": [
+                        "ferrospherepaint"
+                    ]
+                }
+            },
+            {
+                "id": "tallissanlintra",
+                "points": 36,
+                "ship": "rz2awing",
+                "upgrades": {}
+            },
+            {
+                "id": "kazudaxiono",
+                "points": 40,
+                "ship": "fireball",
+                "upgrades": {}
+            },
+            {
+                "id": "colossusstationmechanic",
+                "points": 26,
+                "ship": "fireball",
+                "upgrades": {}
+            }
+        ],
+        "points": 198,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Resistance&d=v8ZsZ200Z377X125W100W5W91WW109WY388XW100W198Y240XWWWY378XWWWWWWY380XWWWWW&sn=Random%20Squad&obs="
+}

@@ -1,0 +1,54 @@
+{
+    "name": "Tyler Gi",
+    "number": 2,
+    "xws": {
+        "faction": "galacticempire",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "scarifbasepilot",
+                "points": 52,
+                "ship": "tiereaper",
+                "upgrades": {
+                    "crew": [
+                        "isbslicer",
+                        "gnkgonkdroid"
+                    ]
+                }
+            },
+            {
+                "id": "redline",
+                "points": 59,
+                "ship": "tiecapunisher",
+                "upgrades": {
+                    "missile": [
+                        "ionmissiles"
+                    ],
+                    "sensor": [
+                        "passivesensors"
+                    ]
+                }
+            },
+            {
+                "id": "planetarysentinel",
+                "points": 31,
+                "ship": "tieskstriker",
+                "upgrades": {}
+            },
+            {
+                "id": "echo",
+                "points": 53,
+                "ship": "tiephphantom",
+                "upgrades": {
+                    "gunner": [
+                        "skilledbombardier"
+                    ]
+                }
+            }
+        ],
+        "points": 195,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Galactic%20Empire&d=v8ZsZ200Z186X38W32WY191X240WWW101WWWWY213XWWY200XWW88W&sn=Random%20Squad&obs="
+}

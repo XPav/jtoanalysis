@@ -1,0 +1,48 @@
+{
+    "name": "thesnailmaster",
+    "number": 1,
+    "xws": {
+        "faction": "galacticempire",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "captainoicunn",
+                "points": 115,
+                "ship": "vt49decimator",
+                "upgrades": {
+                    "crew": [
+                        "grandinquisitor",
+                        "novicetechnician",
+                        "perceptivecopilot"
+                    ],
+                    "device": [
+                        "proximitymines"
+                    ],
+                    "gunner": [
+                        "veteranturretgunner"
+                    ]
+                }
+            },
+            {
+                "id": "lieutenantkarsabi",
+                "points": 43,
+                "ship": "alphaclassstarwing",
+                "upgrades": {
+                    "modification": [
+                        "shieldupgrade"
+                    ]
+                }
+            },
+            {
+                "id": "majorvynder",
+                "points": 41,
+                "ship": "alphaclassstarwing",
+                "upgrades": {}
+            }
+        ],
+        "points": 199,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Galactic%20Empire&d=v8ZsZ200Z215XWW33W53W54W90W70WWY162XWWWW165WY161XWWWWW&sn=Random%20Squad&obs="
+}

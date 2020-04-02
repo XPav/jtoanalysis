@@ -1,0 +1,43 @@
+{
+    "name": "missileaway",
+    "number": 1,
+    "xws": {
+        "faction": "rebelalliance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "wullffwarro",
+                "points": 66,
+                "ship": "auzituckgunship",
+                "upgrades": {
+                    "crew": [
+                        "seasonednavigator"
+                    ],
+                    "modification": [
+                        "stealthdevice"
+                    ]
+                }
+            },
+            {
+                "id": "wildspacefringer",
+                "points": 77,
+                "ship": "yt2400lightfreighter",
+                "upgrades": {}
+            },
+            {
+                "id": "tennumb",
+                "points": 54,
+                "ship": "asf01bwing",
+                "upgrades": {
+                    "cannon": [
+                        "ioncannon"
+                    ]
+                }
+            }
+        ],
+        "points": 197,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Rebel%20Alliance&d=v8ZsZ200Z58XWW59W166Y41XWWWWWY74XWWW11WWW&sn=Random%20Squad&obs="
+}

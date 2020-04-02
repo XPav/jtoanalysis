@@ -1,0 +1,64 @@
+{
+    "name": "DR4C0",
+    "number": 1,
+    "xws": {
+        "faction": "galacticempire",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "majorrhymer",
+                "points": 61,
+                "ship": "tiesabomber",
+                "upgrades": {
+                    "device": [
+                        "connernets",
+                        "protonbombs"
+                    ],
+                    "missile": [
+                        "ionmissiles"
+                    ],
+                    "talent": [
+                        "intimidation"
+                    ],
+                    "torpedo": [
+                        "iontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "captainferoph",
+                "points": 50,
+                "ship": "tiereaper",
+                "upgrades": {
+                    "talent": [
+                        "swarmtactics"
+                    ]
+                }
+            },
+            {
+                "id": "scarifbasepilot",
+                "points": 45,
+                "ship": "tiereaper",
+                "upgrades": {
+                    "crew": [
+                        "deathtroopers"
+                    ]
+                }
+            },
+            {
+                "id": "majorvynder",
+                "points": 41,
+                "ship": "alphaclassstarwing",
+                "upgrades": {
+                    "configuration": [
+                        "xg1assaultconfiguration"
+                    ]
+                }
+            }
+        ],
+        "points": 197,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Galactic%20Empire&d=v8ZsZ200Z204X122W135WW101WW68W69WY184X132WWWY186X27WWY161XWWWWW144W&sn=Random%20Squad&obs="
+}

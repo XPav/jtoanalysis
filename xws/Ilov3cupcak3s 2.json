@@ -1,0 +1,58 @@
+{
+    "name": "Ilov3cupcak3s",
+    "number": 2,
+    "xws": {
+        "faction": "scumandvillainy",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "nomlumb",
+                "points": 52,
+                "ship": "jumpmaster5000",
+                "upgrades": {
+                    "cannon": [
+                        "heavylasercannon"
+                    ],
+                    "illicit": [
+                        "riggedcargochute"
+                    ],
+                    "title": [
+                        "punishingone"
+                    ]
+                }
+            },
+            {
+                "id": "crymorahgoon",
+                "points": 46,
+                "ship": "btla4ywing",
+                "upgrades": {
+                    "astromech": [
+                        "r2astromech"
+                    ],
+                    "device": [
+                        "clustermines"
+                    ],
+                    "turret": [
+                        "dorsalturret"
+                    ]
+                }
+            },
+            {
+                "id": "dengar",
+                "points": 53,
+                "ship": "jumpmaster5000",
+                "upgrades": {}
+            },
+            {
+                "id": "dalanoberos",
+                "points": 45,
+                "ship": "m12lkimogilafighter",
+                "upgrades": {}
+            }
+        ],
+        "points": 196,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Scum%20and%20Villainy&d=v8ZsZ200Z400XW10WWW96WW159WY88X137WWW2W316WWY115XWWWWWWWY130XWWWWW&sn=Random%20Squad&obs="
+}

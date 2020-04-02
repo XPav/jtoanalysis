@@ -1,0 +1,55 @@
+{
+    "name": "Korp Reideick",
+    "number": 2,
+    "xws": {
+        "faction": "galacticempire",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "sigmasquadronace",
+                "points": 68,
+                "ship": "tiephphantom",
+                "upgrades": {
+                    "gunner": [
+                        "hotshotgunner"
+                    ],
+                    "modification": [
+                        "munitionsfailsafe"
+                    ],
+                    "sensor": [
+                        "trajectorysimulator"
+                    ],
+                    "talent": [
+                        "outmaneuver"
+                    ]
+                }
+            },
+            {
+                "id": "sabersquadronace",
+                "points": 36,
+                "ship": "tieininterceptor",
+                "upgrades": {}
+            },
+            {
+                "id": "majorvermeil",
+                "points": 49,
+                "ship": "tiereaper",
+                "upgrades": {}
+            },
+            {
+                "id": "zertikstrom",
+                "points": 47,
+                "ship": "tieadvancedx1",
+                "upgrades": {
+                    "modification": [
+                        "afterburners"
+                    ]
+                }
+            }
+        ],
+        "points": 200,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Galactic%20Empire&d=v8ZsZ200Z201X126W114W86W108Y181XWWY183XWWWY176XWW105&sn=Random%20Squad&obs="
+}

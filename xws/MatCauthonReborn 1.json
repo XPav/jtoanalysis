@@ -1,0 +1,57 @@
+{
+    "name": "MatCauthonReborn",
+    "number": 1,
+    "xws": {
+        "faction": "rebelalliance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "wardensquadronpilot",
+                "points": 60,
+                "ship": "btls8kwing",
+                "upgrades": {
+                    "crew": [
+                        "landocalrissian"
+                    ],
+                    "device": [
+                        "clustermines",
+                        "electroprotonbomb"
+                    ]
+                }
+            },
+            {
+                "id": "outerrimsmuggler",
+                "points": 78,
+                "ship": "modifiedyt1300lightfreighter",
+                "upgrades": {
+                    "crew": [
+                        "bazemalbus"
+                    ],
+                    "missile": [
+                        "clustermissiles"
+                    ],
+                    "title": [
+                        "millenniumfalcon"
+                    ]
+                }
+            },
+            {
+                "id": "bladesquadronveteran",
+                "points": 57,
+                "ship": "asf01bwing",
+                "upgrades": {
+                    "configuration": [
+                        "stabilizedsfoils"
+                    ],
+                    "torpedo": [
+                        "protontorpedoes"
+                    ]
+                }
+            }
+        ],
+        "points": 195,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Rebel%20Alliance&d=v8ZsZ200Z20XWWWW44W316W235WY45X98WWW17WWW154Y75XWWWW136WW313&sn=Random%20Squad&obs="
+}

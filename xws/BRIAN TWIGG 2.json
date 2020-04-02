@@ -1,0 +1,64 @@
+{
+    "name": "BRIAN TWIGG",
+    "number": 2,
+    "xws": {
+        "faction": "separatistalliance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "darthmaul",
+                "points": 106,
+                "ship": "sithinfiltrator",
+                "upgrades": {
+                    "cannon": [
+                        "tractorbeam"
+                    ],
+                    "crew": [
+                        "gnkgonkdroid"
+                    ],
+                    "device": [
+                        "protonbombs"
+                    ],
+                    "force-power": [
+                        "hate"
+                    ],
+                    "tacticalrelay": [
+                        "tv94"
+                    ],
+                    "torpedo": [
+                        "plasmatorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "separatistbomber",
+                "points": 35,
+                "ship": "hyenaclassdroidbomber",
+                "upgrades": {
+                    "configuration": [
+                        "landingstruts"
+                    ],
+                    "device": [
+                        "connernets"
+                    ]
+                }
+            },
+            {
+                "id": "stalgasinhiveguard",
+                "points": 34,
+                "ship": "nantexclassstarfighter",
+                "upgrades": {}
+            },
+            {
+                "id": "precisehunter",
+                "points": 23,
+                "ship": "vultureclassdroidfighter",
+                "upgrades": {}
+            }
+        ],
+        "points": 198,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Separatist%20Alliance&d=v8ZsZ200Z272X204W13W234WW32W69WWW223Y327XWW68WW237Y353XY309XWW&sn=Random%20Squad&obs="
+}

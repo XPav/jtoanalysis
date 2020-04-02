@@ -1,0 +1,55 @@
+{
+    "name": "SpaceCakePorg",
+    "number": 2,
+    "xws": {
+        "faction": "galacticempire",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "maarekstele",
+                "points": 62,
+                "ship": "tieadvancedx1",
+                "upgrades": {
+                    "missile": [
+                        "concussionmissiles"
+                    ],
+                    "modification": [
+                        "hullupgrade"
+                    ],
+                    "talent": [
+                        "swarmtactics"
+                    ]
+                }
+            },
+            {
+                "id": "captainjonus",
+                "points": 57,
+                "ship": "tiesabomber",
+                "upgrades": {
+                    "missile": [
+                        "diamondboronmissiles"
+                    ],
+                    "torpedo": [
+                        "iontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "gammasquadronace",
+                "points": 30,
+                "ship": "tiesabomber",
+                "upgrades": {}
+            },
+            {
+                "id": "lieutenantsai",
+                "points": 47,
+                "ship": "lambdaclasst4ashuttle",
+                "upgrades": {}
+            }
+        ],
+        "points": 196,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Galactic%20Empire&d=v8ZsZ200Z174X132WW99W164Y203XW135WW238WWWWY207XWWWWWWWY166XWWWWW&sn=Random%20Squad&obs="
+}

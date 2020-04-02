@@ -1,0 +1,78 @@
+{
+    "name": "Paul Johnson NZ",
+    "number": 1,
+    "xws": {
+        "faction": "resistance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "bb8",
+                "points": 33,
+                "ship": "resistancetransportpod",
+                "upgrades": {
+                    "modification": [
+                        "targetingcomputer"
+                    ],
+                    "tech": [
+                        "advancedoptics"
+                    ]
+                }
+            },
+            {
+                "id": "resistancesympathizer",
+                "points": 79,
+                "ship": "scavengedyt1300",
+                "upgrades": {
+                    "crew": [
+                        "informant"
+                    ],
+                    "gunner": [
+                        "finn"
+                    ],
+                    "illicit": [
+                        "inertialdampeners"
+                    ],
+                    "title": [
+                        "reysmillenniumfalcon"
+                    ]
+                }
+            },
+            {
+                "id": "colossusstationmechanic",
+                "points": 33,
+                "ship": "fireball",
+                "upgrades": {
+                    "astromech": [
+                        "r5astromech"
+                    ],
+                    "modification": [
+                        "munitionsfailsafe"
+                    ],
+                    "title": [
+                        "kazsfireball"
+                    ]
+                }
+            },
+            {
+                "id": "pammichnerrogoode",
+                "points": 50,
+                "ship": "resistancetransport",
+                "upgrades": {
+                    "astromech": [
+                        "r4astromech"
+                    ],
+                    "tech": [
+                        "targetingsynchronizer"
+                    ],
+                    "torpedo": [
+                        "iontorpedoes"
+                    ]
+                }
+            }
+        ],
+        "points": 195,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Resistance&d=v8ZsZ200Z349XW186WW249Y295XWW37W174W95WW193Y380XW6WWW108W315Y347X177WW135WWW5W&sn=Random%20Squad&obs="
+}

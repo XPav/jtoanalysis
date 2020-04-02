@@ -1,0 +1,71 @@
+{
+    "name": "Msuvivi",
+    "number": 1,
+    "xws": {
+        "faction": "rebelalliance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "edriotwotubes",
+                "points": 73,
+                "ship": "t65xwing",
+                "upgrades": {
+                    "astromech": [
+                        "r2astromech"
+                    ],
+                    "configuration": [
+                        "servomotorsfoils"
+                    ],
+                    "illicit": [
+                        "cloakingdevice"
+                    ],
+                    "modification": [
+                        "stealthdevice"
+                    ],
+                    "torpedo": [
+                        "protontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "talasquadronpilot",
+                "points": 26,
+                "ship": "z95af4headhunter",
+                "upgrades": {
+                    "talent": [
+                        "experthandling"
+                    ]
+                }
+            },
+            {
+                "id": "redsquadronveteran",
+                "points": 55,
+                "ship": "t65xwing",
+                "upgrades": {
+                    "astromech": [
+                        "r2astromech"
+                    ],
+                    "configuration": [
+                        "servomotorsfoils"
+                    ],
+                    "talent": [
+                        "crackshot"
+                    ],
+                    "torpedo": [
+                        "advprotontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "sabinewren",
+                "points": 41,
+                "ship": "attackshuttle",
+                "upgrades": {}
+            }
+        ],
+        "points": 195,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Rebel%20Alliance&d=v8ZsZ200Z8X91W136W2W166W142Y56X120WWY2X116W134W2WW142Y66XWWWW&sn=Random%20Squad&obs="
+}

@@ -1,0 +1,53 @@
+{
+    "name": "Start Shouting",
+    "number": 1,
+    "xws": {
+        "faction": "rebelalliance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "esegetuketu",
+                "points": 66,
+                "ship": "btls8kwing",
+                "upgrades": {
+                    "gunner": [
+                        "veteranturretgunner"
+                    ],
+                    "missile": [
+                        "diamondboronmissiles"
+                    ],
+                    "torpedo": [
+                        "advprotontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "lothalrebel",
+                "points": 80,
+                "ship": "vcx100lightfreighter",
+                "upgrades": {
+                    "crew": [
+                        "c3po"
+                    ],
+                    "turret": [
+                        "ioncannonturret"
+                    ]
+                }
+            },
+            {
+                "id": "sabinewren",
+                "points": 51,
+                "ship": "attackshuttle",
+                "upgrades": {
+                    "crew": [
+                        "gnkgonkdroid"
+                    ]
+                }
+            }
+        ],
+        "points": 197,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Rebel%20Alliance&d=v8ZsZ200Z18X134WW238W90WWWWY64XWW138W18WWWWY66XW32WWW&sn=Random%20Squad&obs="
+}

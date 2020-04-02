@@ -1,0 +1,64 @@
+{
+    "name": "GlaDos",
+    "number": 1,
+    "xws": {
+        "faction": "firstorder",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "longshot",
+                "points": 33,
+                "ship": "tiefofighter",
+                "upgrades": {
+                    "talent": [
+                        "fanatical"
+                    ]
+                }
+            },
+            {
+                "id": "starkillerbasepilot",
+                "points": 79,
+                "ship": "upsilonclasscommandshuttle",
+                "upgrades": {
+                    "cannon": [
+                        "tractorbeam"
+                    ],
+                    "crew": [
+                        "captainphasma",
+                        "freelanceslicer"
+                    ],
+                    "sensor": [
+                        "trajectorysimulator"
+                    ],
+                    "tech": [
+                        "advancedoptics"
+                    ]
+                }
+            },
+            {
+                "id": "tn3465",
+                "points": 33,
+                "ship": "tiefofighter",
+                "upgrades": {
+                    "tech": [
+                        "patternanalyzer"
+                    ]
+                }
+            },
+            {
+                "id": "firstorderprovocateur",
+                "points": 52,
+                "ship": "tiebainterceptor",
+                "upgrades": {
+                    "missile": [
+                        "protonrockets"
+                    ]
+                }
+            }
+        ],
+        "points": 197,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=First%20Order&d=v8ZsZ200Z263X181WWY288X186WWW183W30W13W114WY261X206WY384XWW102W&sn=Random%20Squad&obs="
+}

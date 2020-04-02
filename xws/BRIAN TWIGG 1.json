@@ -1,0 +1,57 @@
+{
+    "name": "BRIAN TWIGG",
+    "number": 1,
+    "xws": {
+        "faction": "rebelalliance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "greensquadronpilot",
+                "points": 39,
+                "ship": "rz1awing",
+                "upgrades": {
+                    "missile": [
+                        "ionmissiles"
+                    ],
+                    "talent": [
+                        "composure",
+                        "predator"
+                    ]
+                }
+            },
+            {
+                "id": "esegetuketu",
+                "points": 54,
+                "ship": "btls8kwing",
+                "upgrades": {
+                    "missile": [
+                        "magpulsewarheads"
+                    ],
+                    "modification": [
+                        "stealthdevice"
+                    ]
+                }
+            },
+            {
+                "id": "corranhorn",
+                "points": 72,
+                "ship": "ewing",
+                "upgrades": {
+                    "sensor": [
+                        "collisiondetector"
+                    ]
+                }
+            },
+            {
+                "id": "zeborrelios",
+                "points": 32,
+                "ship": "attackshuttle",
+                "upgrades": {}
+            }
+        ],
+        "points": 197,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Rebel%20Alliance&d=v8ZsZ200Z52X115W127W101Y18XWW311WWWWW166Y21XW112WWWY68XWWW&sn=Random%20Squad&obs="
+}

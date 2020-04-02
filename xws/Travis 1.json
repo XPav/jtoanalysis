@@ -1,0 +1,49 @@
+{
+    "name": "Travis",
+    "number": 1,
+    "xws": {
+        "faction": "scumandvillainy",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "viktorhel",
+                "points": 46,
+                "ship": "kihraxzfighter",
+                "upgrades": {
+                    "illicit": [
+                        "deadmansswitch"
+                    ]
+                }
+            },
+            {
+                "id": "spicerunner",
+                "points": 60,
+                "ship": "hwk290lightfreighter",
+                "upgrades": {
+                    "crew": [
+                        "maul"
+                    ],
+                    "title": [
+                        "moldycrow"
+                    ]
+                }
+            },
+            {
+                "id": "kavil",
+                "points": 43,
+                "ship": "btla4ywing",
+                "upgrades": {}
+            },
+            {
+                "id": "graz",
+                "points": 46,
+                "ship": "kihraxzfighter",
+                "upgrades": {}
+            }
+        ],
+        "points": 195,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Scum%20and%20Villainy&d=v8ZsZ200Z121XWW93WWWY230X48WWWWW156Y85XWWWWWWWY120XWWWWW&sn=Random%20Squad&obs="
+}

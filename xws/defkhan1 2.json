@@ -1,0 +1,54 @@
+{
+    "name": "defkhan1",
+    "number": 2,
+    "xws": {
+        "faction": "scumandvillainy",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "sabinewren-lancerclasspursuitcraft",
+                "points": 61,
+                "ship": "lancerclasspursuitcraft",
+                "upgrades": {}
+            },
+            {
+                "id": "viktorhel",
+                "points": 50,
+                "ship": "kihraxzfighter",
+                "upgrades": {
+                    "modification": [
+                        "stealthdevice"
+                    ]
+                }
+            },
+            {
+                "id": "lokrevenant",
+                "points": 54,
+                "ship": "scurrgh6bomber",
+                "upgrades": {
+                    "device": [
+                        "seismiccharges",
+                        "proximitymines"
+                    ]
+                }
+            },
+            {
+                "id": "blacksunsoldier",
+                "points": 30,
+                "ship": "z95af4headhunter",
+                "upgrades": {
+                    "missile": [
+                        "homingmissiles"
+                    ],
+                    "talent": [
+                        "marksmanship"
+                    ]
+                }
+            }
+        ],
+        "points": 195,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Scum%20and%20Villainy&d=v8ZsZ200Z127XWWWWWY121XWWWWW166Y146XWWW71W70WWY158X125W100WW&sn=Random%20Squad&obs="
+}

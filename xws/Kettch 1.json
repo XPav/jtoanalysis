@@ -1,0 +1,63 @@
+{
+    "name": "Kettch",
+    "number": 1,
+    "xws": {
+        "faction": "scumandvillainy",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "nomlumb",
+                "points": 51,
+                "ship": "jumpmaster5000",
+                "upgrades": {
+                    "crew": [
+                        "qira"
+                    ],
+                    "illicit": [
+                        "contrabandcybernetics"
+                    ],
+                    "modification": [
+                        "targetingcomputer"
+                    ],
+                    "torpedo": [
+                        "iontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "ig88a",
+                "points": 76,
+                "ship": "aggressorassaultfighter",
+                "upgrades": {
+                    "cannon": [
+                        "ioncannon",
+                        "autoblasters"
+                    ]
+                }
+            },
+            {
+                "id": "lattsrazzi",
+                "points": 69,
+                "ship": "yv666lightfreighter",
+                "upgrades": {
+                    "cannon": [
+                        "ioncannon"
+                    ],
+                    "modification": [
+                        "electronicbaffle"
+                    ],
+                    "talent": [
+                        "swarmtactics"
+                    ],
+                    "title": [
+                        "houndstooth"
+                    ]
+                }
+            }
+        ],
+        "points": 196,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Scum%20and%20Villainy&d=v8ZsZ200Z400X135WW55WW92W249WY81XWW11W232WWWWY154X132W11WWWWWW106W150&sn=Random%20Squad&obs="
+}

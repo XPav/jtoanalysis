@@ -1,0 +1,45 @@
+{
+    "name": "Brian Webb",
+    "number": 1,
+    "xws": {
+        "faction": "rebelalliance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "janors",
+                "points": 64,
+                "ship": "hwk290lightfreighter",
+                "upgrades": {
+                    "device": [
+                        "protonbombs"
+                    ],
+                    "title": [
+                        "moldycrow"
+                    ]
+                }
+            },
+            {
+                "id": "sabinewren",
+                "points": 41,
+                "ship": "attackshuttle",
+                "upgrades": {}
+            },
+            {
+                "id": "corranhorn",
+                "points": 66,
+                "ship": "ewing",
+                "upgrades": {}
+            },
+            {
+                "id": "zeborrelios-tielnfighter",
+                "points": 24,
+                "ship": "tielnfighter",
+                "upgrades": {}
+            }
+        ],
+        "points": 195,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Rebel%20Alliance&d=v8ZsZ200Z46XW69WWWW156Y66XWWWWY21XWWWWY15X&sn=Random%20Squad&obs="
+}

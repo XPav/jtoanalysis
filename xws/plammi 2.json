@@ -1,0 +1,67 @@
+{
+    "name": "plammi",
+    "number": 2,
+    "xws": {
+        "faction": "galacticempire",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "deathfire",
+                "points": 59,
+                "ship": "tiesabomber",
+                "upgrades": {
+                    "device": [
+                        "electroprotonbomb",
+                        "protonbombs"
+                    ],
+                    "gunner": [
+                        "skilledbombardier"
+                    ],
+                    "missile": [
+                        "barragerockets"
+                    ]
+                }
+            },
+            {
+                "id": "blacksquadronace",
+                "points": 26,
+                "ship": "tielnfighter",
+                "upgrades": {
+                    "talent": [
+                        "crackshot"
+                    ]
+                }
+            },
+            {
+                "id": "rhosquadronpilot",
+                "points": 44,
+                "ship": "alphaclassstarwing",
+                "upgrades": {
+                    "torpedo": [
+                        "plasmatorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "fifthbrother",
+                "points": 49,
+                "ship": "tieadvancedv1",
+                "upgrades": {
+                    "missile": [
+                        "protonrockets"
+                    ]
+                }
+            },
+            {
+                "id": "academypilot",
+                "points": 22,
+                "ship": "tielnfighter",
+                "upgrades": {}
+            }
+        ],
+        "points": 200,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Galactic%20Empire&d=v8ZsZ200Z206XWW97W88W235W69WY227X116WY163XWW234WWWY394XWW102Y229X&sn=Random%20Squad&obs="
+}

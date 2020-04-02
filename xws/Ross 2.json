@@ -1,0 +1,53 @@
+{
+    "name": "Ross",
+    "number": 2,
+    "xws": {
+        "faction": "resistance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "hansolo-scavengedyt1300",
+                "points": 82,
+                "ship": "scavengedyt1300",
+                "upgrades": {
+                    "crew": [
+                        "pz4co"
+                    ],
+                    "gunner": [
+                        "paigetico"
+                    ],
+                    "missile": [
+                        "ionmissiles"
+                    ]
+                }
+            },
+            {
+                "id": "chewbacca-scavengedyt1300",
+                "points": 85,
+                "ship": "scavengedyt1300",
+                "upgrades": {
+                    "crew": [
+                        "amilynholdo",
+                        "rosetico"
+                    ],
+                    "talent": [
+                        "intimidation"
+                    ],
+                    "title": [
+                        "reysmillenniumfalcon"
+                    ]
+                }
+            },
+            {
+                "id": "r1j5",
+                "points": 29,
+                "ship": "fireball",
+                "upgrades": {}
+            }
+        ],
+        "points": 196,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Resistance&d=v8ZsZ200Z245XW101W246WW189WWWY246X122WW242W173WWWW193Y379XWWWWW&sn=Random%20Squad&obs="
+}

@@ -1,0 +1,73 @@
+{
+    "name": "ZorPrime",
+    "number": 1,
+    "xws": {
+        "faction": "scumandvillainy",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "lokrevenant",
+                "points": 59,
+                "ship": "scurrgh6bomber",
+                "upgrades": {
+                    "device": [
+                        "seismiccharges"
+                    ],
+                    "modification": [
+                        "staticdischargevanes"
+                    ],
+                    "title": [
+                        "havoc"
+                    ],
+                    "turret": [
+                        "dorsalturret"
+                    ]
+                }
+            },
+            {
+                "id": "constablezuvio",
+                "points": 36,
+                "ship": "quadrijettransferspacetug",
+                "upgrades": {
+                    "talent": [
+                        "swarmtactics"
+                    ]
+                }
+            },
+            {
+                "id": "overseeryushyn",
+                "points": 34,
+                "ship": "modifiedtielnfighter",
+                "upgrades": {
+                    "modification": [
+                        "stealthdevice"
+                    ]
+                }
+            },
+            {
+                "id": "ndrusuhlak",
+                "points": 36,
+                "ship": "z95af4headhunter",
+                "upgrades": {
+                    "missile": [
+                        "magpulsewarheads"
+                    ]
+                }
+            },
+            {
+                "id": "landocalrissian-escapecraft",
+                "points": 33,
+                "ship": "escapecraft",
+                "upgrades": {
+                    "crew": [
+                        "cadbane"
+                    ]
+                }
+            }
+        ],
+        "points": 198,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Scum%20and%20Villainy&d=v8ZsZ200Z146X137WWW71WW109W149WWY140X132WWWWWY303X166Y156XW311WWY93XW20W&sn=Random%20Squad&obs="
+}

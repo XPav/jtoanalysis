@@ -1,0 +1,66 @@
+{
+    "name": "Bizze",
+    "number": 2,
+    "xws": {
+        "faction": "rebelalliance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "arvelcrynyd",
+                "points": 40,
+                "ship": "rz1awing",
+                "upgrades": {
+                    "talent": [
+                        "outmaneuver"
+                    ]
+                }
+            },
+            {
+                "id": "norrawexley-btla4ywing",
+                "points": 67,
+                "ship": "btla4ywing",
+                "upgrades": {
+                    "device": [
+                        "clustermines"
+                    ],
+                    "gunner": [
+                        "veteranturretgunner"
+                    ],
+                    "modification": [
+                        "targetingcomputer"
+                    ],
+                    "turret": [
+                        "ioncannonturret"
+                    ]
+                }
+            },
+            {
+                "id": "janors",
+                "points": 50,
+                "ship": "hwk290lightfreighter",
+                "upgrades": {
+                    "device": [
+                        "seismiccharges"
+                    ],
+                    "modification": [
+                        "afterburners"
+                    ]
+                }
+            },
+            {
+                "id": "partisanrenegade",
+                "points": 43,
+                "ship": "ut60duwing",
+                "upgrades": {
+                    "configuration": [
+                        "pivotwing"
+                    ]
+                }
+            }
+        ],
+        "points": 200,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Rebel%20Alliance&d=v8ZsZ200Z51XW126WY25XW138WWW249W316W90Y46XW71WWW105WY38XWWWWW140&sn=Random%20Squad&obs="
+}

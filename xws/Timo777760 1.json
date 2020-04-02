@@ -1,0 +1,55 @@
+{
+    "name": "Timo777760",
+    "number": 1,
+    "xws": {
+        "faction": "galacticempire",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "soontirfel",
+                "points": 53,
+                "ship": "tieininterceptor",
+                "upgrades": {}
+            },
+            {
+                "id": "captainjonus",
+                "points": 60,
+                "ship": "tiesabomber",
+                "upgrades": {
+                    "device": [
+                        "proximitymines"
+                    ],
+                    "modification": [
+                        "shieldupgrade"
+                    ],
+                    "talent": [
+                        "intimidation"
+                    ]
+                }
+            },
+            {
+                "id": "omicrongrouppilot",
+                "points": 53,
+                "ship": "lambdaclasst4ashuttle",
+                "upgrades": {
+                    "cannon": [
+                        "heavylasercannon"
+                    ],
+                    "crew": [
+                        "agentkallus"
+                    ]
+                }
+            },
+            {
+                "id": "planetarysentinel",
+                "points": 31,
+                "ship": "tieskstriker",
+                "upgrades": {}
+            }
+        ],
+        "points": 197,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Galactic%20Empire&d=v8ZsZ200Z179XWWY203X122WWWWW70WW165Y168XW10WW15WWY213XWW&sn=Random%20Squad&obs="
+}

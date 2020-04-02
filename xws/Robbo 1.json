@@ -1,0 +1,69 @@
+{
+    "name": "Robbo",
+    "number": 1,
+    "xws": {
+        "faction": "resistance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "lulolampar",
+                "points": 44,
+                "ship": "rz2awing",
+                "upgrades": {
+                    "talent": [
+                        "heroic"
+                    ]
+                }
+            },
+            {
+                "id": "r1j5",
+                "points": 48,
+                "ship": "fireball",
+                "upgrades": {
+                    "crew": [
+                        "rosetico"
+                    ],
+                    "missile": [
+                        "clustermissiles"
+                    ],
+                    "modification": [
+                        "hullupgrade"
+                    ]
+                }
+            },
+            {
+                "id": "nodinchavdri",
+                "points": 56,
+                "ship": "resistancetransport",
+                "upgrades": {
+                    "astromech": [
+                        "r5astromech"
+                    ],
+                    "cannon": [
+                        "tractorbeam"
+                    ],
+                    "torpedo": [
+                        "protontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "kazudaxiono",
+                "points": 50,
+                "ship": "fireball",
+                "upgrades": {
+                    "astromech": [
+                        "bb8"
+                    ],
+                    "missile": [
+                        "ionmissiles"
+                    ]
+                }
+            }
+        ],
+        "points": 198,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Resistance&d=v8ZsZ200Z239XW172WWY379X98W173WWW164WY352XW13W136WWW6WY378XW101W195WWWW&sn=Random%20Squad&obs="
+}

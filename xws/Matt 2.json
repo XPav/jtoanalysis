@@ -1,0 +1,65 @@
+{
+    "name": "Matt",
+    "number": 2,
+    "xws": {
+        "faction": "galacticempire",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "mornakee",
+                "points": 104,
+                "ship": "vt49decimator",
+                "upgrades": {
+                    "crew": [
+                        "ministertua",
+                        "isbslicer",
+                        "directorkrennic"
+                    ],
+                    "talent": [
+                        "lonewolf"
+                    ],
+                    "title": [
+                        "dauntless"
+                    ],
+                    "torpedo": [
+                        "iontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "sienarspecialist",
+                "points": 36,
+                "ship": "tieagaggressor",
+                "upgrades": {
+                    "missile": [
+                        "ionmissiles",
+                        "homingmissiles"
+                    ],
+                    "modification": [
+                        "delayedfuses"
+                    ]
+                }
+            },
+            {
+                "id": "nightbeast",
+                "points": 33,
+                "ship": "tielnfighter",
+                "upgrades": {
+                    "modification": [
+                        "shieldupgrade"
+                    ]
+                }
+            },
+            {
+                "id": "obsidiansquadronpilot",
+                "points": 23,
+                "ship": "tielnfighter",
+                "upgrades": {}
+            }
+        ],
+        "points": 196,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Galactic%20Empire&d=v8ZsZ200Z396X124W135W49W38W28WWWW147Y190XW101W100WW236Y226X165Y228X&sn=Random%20Squad&obs="
+}

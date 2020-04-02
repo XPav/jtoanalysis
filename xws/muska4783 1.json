@@ -1,0 +1,59 @@
+{
+    "name": "muska4783",
+    "number": 1,
+    "xws": {
+        "faction": "scumandvillainy",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "unkarplutt",
+                "points": 34,
+                "ship": "quadrijettransferspacetug",
+                "upgrades": {
+                    "crew": [
+                        "bobafett"
+                    ]
+                }
+            },
+            {
+                "id": "joyrekkoff",
+                "points": 61,
+                "ship": "fangfighter",
+                "upgrades": {
+                    "talent": [
+                        "intimidation"
+                    ],
+                    "torpedo": [
+                        "advprotontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "binayrepirate",
+                "points": 27,
+                "ship": "z95af4headhunter",
+                "upgrades": {
+                    "missile": [
+                        "homingmissiles"
+                    ]
+                }
+            },
+            {
+                "id": "captainseevor",
+                "points": 30,
+                "ship": "modifiedtielnfighter",
+                "upgrades": {}
+            },
+            {
+                "id": "lokrevenant",
+                "points": 45,
+                "ship": "scurrgh6bomber",
+                "upgrades": {}
+            }
+        ],
+        "points": 197,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Scum%20and%20Villainy&d=v8ZsZ200Z142XW16WWWY100X122W134Y159X100WWY247XWY146XWWWWWW&sn=Random%20Squad&obs="
+}

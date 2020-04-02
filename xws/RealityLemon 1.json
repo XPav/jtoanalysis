@@ -1,0 +1,75 @@
+{
+    "name": "RealityLemon",
+    "number": 1,
+    "xws": {
+        "faction": "galacticempire",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "inquisitor",
+                "points": 43,
+                "ship": "tieadvancedv1",
+                "upgrades": {
+                    "missile": [
+                        "clustermissiles"
+                    ],
+                    "sensor": [
+                        "passivesensors"
+                    ]
+                }
+            },
+            {
+                "id": "inquisitor",
+                "points": 42,
+                "ship": "tieadvancedv1",
+                "upgrades": {
+                    "force-power": [
+                        "instinctiveaim"
+                    ],
+                    "sensor": [
+                        "collisiondetector"
+                    ]
+                }
+            },
+            {
+                "id": "coloneljendon",
+                "points": 64,
+                "ship": "lambdaclasst4ashuttle",
+                "upgrades": {
+                    "crew": [
+                        "seasonednavigator"
+                    ],
+                    "modification": [
+                        "delayedfuses"
+                    ],
+                    "sensor": [
+                        "collisiondetector"
+                    ],
+                    "title": [
+                        "st321"
+                    ]
+                }
+            },
+            {
+                "id": "gammasquadronace",
+                "points": 48,
+                "ship": "tiesabomber",
+                "upgrades": {
+                    "device": [
+                        "ionbombs"
+                    ],
+                    "missile": [
+                        "concussionmissiles"
+                    ],
+                    "modification": [
+                        "staticdischargevanes"
+                    ]
+                }
+            }
+        ],
+        "points": 197,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Galactic%20Empire&d=v8ZsZ200Z171XW240W98Y171X73W112WY167X112WW59WW236W162Y207XWWW99WWW317W109&sn=Random%20Squad&obs="
+}

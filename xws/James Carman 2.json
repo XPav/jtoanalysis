@@ -1,0 +1,49 @@
+{
+    "name": "James Carman",
+    "number": 2,
+    "xws": {
+        "faction": "scumandvillainy",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "cartelmarauder",
+                "points": 48,
+                "ship": "kihraxzfighter",
+                "upgrades": {
+                    "illicit": [
+                        "cloakingdevice"
+                    ],
+                    "modification": [
+                        "shieldupgrade"
+                    ]
+                }
+            },
+            {
+                "id": "bossk",
+                "points": 62,
+                "ship": "yv666lightfreighter",
+                "upgrades": {}
+            },
+            {
+                "id": "lattsrazzi",
+                "points": 58,
+                "ship": "yv666lightfreighter",
+                "upgrades": {
+                    "crew": [
+                        "cikatrovizago"
+                    ]
+                }
+            },
+            {
+                "id": "sarcoplank",
+                "points": 32,
+                "ship": "quadrijettransferspacetug",
+                "upgrades": {}
+            }
+        ],
+        "points": 200,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Scum%20and%20Villainy&d=v8ZsZ200Z124XWW91WW165Y153XWWWWWWWWY154XWWW25WWWWWY141XWWWW&sn=Random%20Squad&obs="
+}

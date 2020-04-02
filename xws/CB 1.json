@@ -1,0 +1,60 @@
+{
+    "name": "CB",
+    "number": 1,
+    "xws": {
+        "faction": "resistance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "cat",
+                "points": 54,
+                "ship": "mg100starfortress",
+                "upgrades": {}
+            },
+            {
+                "id": "pammichnerrogoode",
+                "points": 63,
+                "ship": "resistancetransport",
+                "upgrades": {
+                    "cannon": [
+                        "jammingbeam"
+                    ],
+                    "crew": [
+                        "gnkgonkdroid",
+                        "kaydelconnix"
+                    ],
+                    "tech": [
+                        "targetingsynchronizer"
+                    ],
+                    "torpedo": [
+                        "advprotontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "finn",
+                "points": 34,
+                "ship": "resistancetransportpod",
+                "upgrades": {
+                    "tech": [
+                        "patternanalyzer"
+                    ]
+                }
+            },
+            {
+                "id": "lulolampar",
+                "points": 48,
+                "ship": "rz2awing",
+                "upgrades": {
+                    "talent": [
+                        "lonewolf"
+                    ]
+                }
+            }
+        ],
+        "points": 199,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Resistance&d=v8ZsZ200Z291XWWWWWWWY347X177W12W134W32W231WWY350XW206WWY239X124WWW&sn=Random%20Squad&obs="
+}

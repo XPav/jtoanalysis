@@ -1,0 +1,64 @@
+{
+    "name": "RecklessKat",
+    "number": 2,
+    "xws": {
+        "faction": "galacticempire",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "captainjonus",
+                "points": 91,
+                "ship": "tiesabomber",
+                "upgrades": {
+                    "device": [
+                        "electroprotonbomb",
+                        "connernets"
+                    ],
+                    "gunner": [
+                        "agilegunner"
+                    ],
+                    "missile": [
+                        "magpulsewarheads",
+                        "ionmissiles"
+                    ],
+                    "talent": [
+                        "debrisgambit"
+                    ],
+                    "torpedo": [
+                        "advprotontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "sabersquadronace",
+                "points": 48,
+                "ship": "tieininterceptor",
+                "upgrades": {
+                    "modification": [
+                        "hullupgrade"
+                    ],
+                    "talent": [
+                        "lonewolf"
+                    ]
+                }
+            },
+            {
+                "id": "soontirfel",
+                "points": 61,
+                "ship": "tieininterceptor",
+                "upgrades": {
+                    "modification": [
+                        "electronicbaffle"
+                    ],
+                    "talent": [
+                        "outmaneuver"
+                    ]
+                }
+            }
+        ],
+        "points": 200,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Galactic%20Empire&d=v8ZsZ200Z203X118W134W311W101W76W235W68WY181X124W164WY179X126W106W&sn=Random%20Squad&obs="
+}

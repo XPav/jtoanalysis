@@ -1,0 +1,65 @@
+{
+    "name": "Dangerman64",
+    "number": 2,
+    "xws": {
+        "faction": "galacticempire",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "obsidiansquadronpilot",
+                "points": 29,
+                "ship": "tielnfighter",
+                "upgrades": {
+                    "modification": [
+                        "staticdischargevanes"
+                    ]
+                }
+            },
+            {
+                "id": "lieutenantkarsabi",
+                "points": 49,
+                "ship": "alphaclassstarwing",
+                "upgrades": {
+                    "cannon": [
+                        "tractorbeam"
+                    ],
+                    "configuration": [
+                        "xg1assaultconfiguration"
+                    ],
+                    "modification": [
+                        "angleddeflectors"
+                    ],
+                    "torpedo": [
+                        "advprotontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "whisper",
+                "points": 59,
+                "ship": "tiephphantom",
+                "upgrades": {
+                    "gunner": [
+                        "skilledbombardier"
+                    ]
+                }
+            },
+            {
+                "id": "delmeeko",
+                "points": 30,
+                "ship": "tielnfighter",
+                "upgrades": {}
+            },
+            {
+                "id": "doubleedge",
+                "points": 29,
+                "ship": "tieagaggressor",
+                "upgrades": {}
+            }
+        ],
+        "points": 196,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Galactic%20Empire&d=v8ZsZ200Z228X109Y162XWW134WW247W144W13Y199XWW88WY222XWY188XWWWWW&sn=Random%20Squad&obs="
+}

@@ -1,0 +1,59 @@
+{
+    "name": "Quentin Keller",
+    "number": 2,
+    "xws": {
+        "faction": "separatistalliance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "chertek",
+                "points": 43,
+                "ship": "nantexclassstarfighter",
+                "upgrades": {
+                    "talent": [
+                        "trickshot"
+                    ]
+                }
+            },
+            {
+                "id": "berwerkret",
+                "points": 52,
+                "ship": "nantexclassstarfighter",
+                "upgrades": {
+                    "talent": [
+                        "squadleader"
+                    ]
+                }
+            },
+            {
+                "id": "gorgol",
+                "points": 36,
+                "ship": "nantexclassstarfighter",
+                "upgrades": {}
+            },
+            {
+                "id": "darkcourier",
+                "points": 68,
+                "ship": "sithinfiltrator",
+                "upgrades": {
+                    "crew": [
+                        "informant"
+                    ],
+                    "modification": [
+                        "delayedfuses"
+                    ],
+                    "tacticalrelay": [
+                        "tv94"
+                    ],
+                    "torpedo": [
+                        "iontorpedoes"
+                    ]
+                }
+            }
+        ],
+        "points": 199,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Separatist%20Alliance&d=v8ZsZ200Z356XW133Y358X131WY355XWY336XW135W37WWW236WW223&sn=Random%20Squad&obs="
+}

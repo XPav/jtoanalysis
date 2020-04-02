@@ -1,0 +1,50 @@
+{
+    "name": "Afishisborn",
+    "number": 1,
+    "xws": {
+        "faction": "firstorder",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "sienarjaemusengineer",
+                "points": 61,
+                "ship": "tievnsilencer",
+                "upgrades": {
+                    "tech": [
+                        "biohexacryptcodes"
+                    ],
+                    "torpedo": [
+                        "plasmatorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "majorvonreg",
+                "points": 65,
+                "ship": "tiebainterceptor",
+                "upgrades": {
+                    "modification": [
+                        "stealthdevice"
+                    ]
+                }
+            },
+            {
+                "id": "rush",
+                "points": 70,
+                "ship": "tievnsilencer",
+                "upgrades": {
+                    "missile": [
+                        "protonrockets"
+                    ],
+                    "tech": [
+                        "primedthrusters"
+                    ]
+                }
+            }
+        ],
+        "points": 196,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=First%20Order&d=v8ZsZ200Z286X202W234WY381XWWW166Y386X178WW102&sn=Random%20Squad&obs="
+}

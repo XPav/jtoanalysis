@@ -1,0 +1,55 @@
+{
+    "name": "GoldenTiger5",
+    "number": 1,
+    "xws": {
+        "faction": "galacticempire",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "nightbeast",
+                "points": 33,
+                "ship": "tielnfighter",
+                "upgrades": {
+                    "modification": [
+                        "stealthdevice"
+                    ]
+                }
+            },
+            {
+                "id": "captainoicunn",
+                "points": 109,
+                "ship": "vt49decimator",
+                "upgrades": {
+                    "crew": [
+                        "gnkgonkdroid",
+                        "agentkallus",
+                        "ministertua"
+                    ],
+                    "gunner": [
+                        "fifthbrother"
+                    ],
+                    "modification": [
+                        "hullupgrade"
+                    ]
+                }
+            },
+            {
+                "id": "countdown",
+                "points": 53,
+                "ship": "tieskstriker",
+                "upgrades": {
+                    "gunner": [
+                        "hotshotgunner"
+                    ],
+                    "modification": [
+                        "electronicbaffle"
+                    ]
+                }
+            }
+        ],
+        "points": 195,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Galactic%20Empire&d=v8ZsZ200Z226X166Y215XWW32W15W49W82WW164WY209XW86WW106&sn=Random%20Squad&obs="
+}
