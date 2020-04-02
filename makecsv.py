@@ -107,7 +107,7 @@ def LoadShip( pilots, upgrades, ship, listid, faction, yasb ):
             # Keep track of things for uselessness
             if 'Device' in upgrade['slots']:
                 devicecount += 1
-                if 'device' in upgrade and upgrade['device']['type'] == 'Bomb':
+                if ('device' in upgrade and upgrade['device']['type'] == 'Bomb') or 'bomb' in u:
                     bombcount += 1
             if 'Illicit' in upgrade['slots']:
                 illicits += 1
