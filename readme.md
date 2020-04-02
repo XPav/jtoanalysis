@@ -8,6 +8,16 @@ Upgrades aren't factored in yet.
 I'm also not a data scientist so feel free to make fun of my wombo-combo of Python, JSON, CSV, and Excel.
 
 # Ideas
+## Stats
+* Count Oddballs
+* Count Gonks
+* Count Soontirs
+* Count Escape Craft
+* Most Expensive Ship
+* Most Total Upgrades
+* Most/Least Health
+* I6 Overview
+
 ## Count useless points - DONE
 ### No bombs/mines/devices (all done)
 * Trajectory Simulator with no bombs
