@@ -134,8 +134,8 @@ def LoadShip( pilots, upgrades, ship, listid, faction, yasb ):
             useless = False
             upgrade = upgrades[u]['sides'][0]
 
-            useless |= (u in [ 'delayedfuses', 'skilledbombardier', 'andrasta', 'genius' ] and bombcount == 0)
-            useless |= (u == 'cadbane' and devicecount == 0)
+            useless |= (u == 'trajectorysimulator' and bombcount == 0)
+            useless |= (u in [ 'andrasta', 'genius', 'delayedfuses', 'cadbane', 'skilledbombardier' ] and devicecount == 0)
             useless |= (u == 'perceptivecopilot' and not 'Focus' in actiontype)
             useless |= (u == 'bazemalbus' and not 'Focus' in actiontype)
             useless |= (u == 'r3astromech' and not 'Lock' in actiontype)
