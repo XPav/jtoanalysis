@@ -67,12 +67,11 @@ I'm also not a data scientist so feel free to make fun of my wombo-combo of Pyth
 ### Crew
 * Jabba with no illicits
 
-
-## Useless upgrades not done yet
-
 ### Added an action you already had
 * Squad Leader when already have coordinate
 * Targeting computer when already has a Lock action
+
+## Useless upgrades not done yet
 
 ### Talent
 * Juke with no evade? (hard to implement because more than once way to get evade without action)

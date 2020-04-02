@@ -36,6 +36,8 @@ def LoadShip( pilots, upgrades, ship, listid, faction, yasb ):
     for action in allactions:
         actiontype.append( action['type'] )
 
+    originalactions = actiontype.copy()
+
     hull = 0
     shields = 0
     agility = 0
@@ -116,7 +118,10 @@ def LoadShip( pilots, upgrades, ship, listid, faction, yasb ):
     oship['initiative'] = pdata['initiative']
 
     # Go find useless upgrades
+    for s in range(0,4):
+        oship[f'useless{s:02d}'] = ''
 
+    uselesscount = 0
     for slot in p['upgrades']:
         for u in p['upgrades'][slot]:
             useless = False
@@ -148,12 +153,15 @@ def LoadShip( pilots, upgrades, ship, listid, faction, yasb ):
 
             useless |= (u == 'jabbathehutt' and illicits == 0)
 
-
+            useless |= (u =='squadleader' and 'Coordinate' in originalactions )
+            useless |= (u =='targetingcomputer' and 'Lock' in originalactions )
 
             if useless:
-                oship['uselesscount'] += 1
+                oship[f'useless{uselesscount:02d}'] = u
+                uselesscount += 1
                 oship['uselesscost'] = GetCostValue( upgrades[u]['cost'], pdata, sdata )
 
+    oship['uselesscount'] = uselesscount
     oship['yasb'] = yasb
 
     return oship
