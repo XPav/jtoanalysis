@@ -71,20 +71,20 @@ I'm also not a data scientist so feel free to make fun of my wombo-combo of Pyth
 * Squad Leader when already have coordinate
 * Targeting computer when already has a Lock action
 
+### Configuration & Title
+* Havoc with no Sensor or Astromech
+* Xg-1 with no cannon
+
+### Sensor slot
+* FCS with no Lock 
+
 ## Useless upgrades not done yet
 
 ### Talent
 * Juke with no evade? (hard to implement because more than once way to get evade without action)
 
-### Sensor slot
-* FCS with no Lock 
-
 ### Astromech
 * Rebel Chopper with no other upgrades with charges or with no shields
-
-### Configuration & Title
-* Havoc with no Sensor or Astromech
-* Xg-1 with no cannon
 
 ### Squad-related
 * Ketsu with no Tractor ability in squad

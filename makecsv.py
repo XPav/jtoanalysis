@@ -69,7 +69,10 @@ def LoadShip( pilots, upgrades, ship, listid, faction, yasb ):
     bombcount = 0
     torpsmissiles = 0
     illicits = 0
-
+    astromechs = 0
+    cannons = 0
+    sensors = 0
+    
     oship['uselesscount'] = 0
     oship['uselesscost'] = 0
 
@@ -108,8 +111,12 @@ def LoadShip( pilots, upgrades, ship, listid, faction, yasb ):
                     bombcount += 1
             if 'Illicit' in upgrade['slots']:
                 illicits += 1
-            
-            
+            if 'Astromech' in upgrade['slots']:
+                astromechs += 1
+            if 'Cannon' in upgrade['slots']:
+                cannons += 1
+            if 'Sensor' in upgrade['slots']:
+                sensors += 1
 
     oship['agility'] = agility
     oship['hull'] = hull
@@ -132,6 +139,7 @@ def LoadShip( pilots, upgrades, ship, listid, faction, yasb ):
             useless |= (u == 'perceptivecopilot' and not 'Focus' in actiontype)
             useless |= (u == 'bazemalbus' and not 'Focus' in actiontype)
             useless |= (u == 'r3astromech' and not 'Lock' in actiontype)
+            useless |= (u == 'firecontrolsystem' and not 'Lock' in actiontype)
             useless |= ('ability' in upgrade and 'Attack ([Lock])' in upgrade['ability'] and not 'Lock' in actiontype)
             useless |= ('ability' in upgrade and 'Attack ([Focus])' in upgrade['ability'] and not 'Focus' in actiontype)
             useless |= (u in [ 'gnkgonkdroid', 'inertialdampeners', 'r2d2-crew' ] and shields == 0)
@@ -155,6 +163,10 @@ def LoadShip( pilots, upgrades, ship, listid, faction, yasb ):
 
             useless |= (u =='squadleader' and 'Coordinate' in originalactions )
             useless |= (u =='targetingcomputer' and 'Lock' in originalactions )
+            useless |= (u =='havoc' and astromechs == 0 and sensors == 0 )
+            useless |= (u =='xg1assaultconfiguration' and cannons == 0 )
+
+
 
             if useless:
                 oship[f'useless{uselesscount:02d}'] = u
