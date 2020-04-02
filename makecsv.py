@@ -142,7 +142,7 @@ def LoadShip( pilots, upgrades, ship, listid, faction, yasb ):
             useless |= (u == 'firecontrolsystem' and not 'Lock' in actiontype)
             useless |= ('ability' in upgrade and 'Attack ([Lock])' in upgrade['ability'] and not 'Lock' in actiontype)
             useless |= ('ability' in upgrade and 'Attack ([Focus])' in upgrade['ability'] and not 'Focus' in actiontype)
-            useless |= (u in [ 'gnkgonkdroid', 'inertialdampeners', 'r2d2-crew' ] and shields == 0)
+            useless |= (u in [ 'gnkgonkdroid', 'inertialdampeners', 'r2d2-crew', 'r2astromech', 'r2d2' ] and shields == 0)
             useless |= (u in [ 'saturationsalvo', 'munitionsfailsafe', 'os1arsenalloadout', 'instinctiveaim' ] and torpsmissiles == 0)
 
             if u in [ 'hotshotgunner', 'agilegunner', 'bistan', 'hansolo']:
