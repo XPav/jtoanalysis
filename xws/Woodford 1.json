@@ -1,0 +1,59 @@
+{
+    "name": "Woodford",
+    "number": 1,
+    "xws": {
+        "faction": "scumandvillainy",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "ig88c",
+                "points": 71,
+                "ship": "aggressorassaultfighter",
+                "upgrades": {
+                    "modification": [
+                        "angleddeflectors"
+                    ],
+                    "sensor": [
+                        "passivesensors"
+                    ],
+                    "title": [
+                        "ig2000"
+                    ]
+                }
+            },
+            {
+                "id": "ndrusuhlak",
+                "points": 30,
+                "ship": "z95af4headhunter",
+                "upgrades": {}
+            },
+            {
+                "id": "spicerunner",
+                "points": 33,
+                "ship": "hwk290lightfreighter",
+                "upgrades": {
+                    "crew": [
+                        "qira"
+                    ],
+                    "illicit": [
+                        "inertialdampeners"
+                    ]
+                }
+            },
+            {
+                "id": "ig88b",
+                "points": 64,
+                "ship": "aggressorassaultfighter",
+                "upgrades": {
+                    "title": [
+                        "ig2000"
+                    ]
+                }
+            }
+        ],
+        "points": 198,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Scum%20and%20Villainy&d=v8ZsZ200Z83XW240WWWWW247W151Y156XWWWY230X55WW95WWWY82XWWWWWWW151&sn=Random%20Squad&obs="
+}

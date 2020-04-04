@@ -39,8 +39,8 @@
                         "protonrockets"
                     ],
                     "modification": [
-                        "electronicbaffle",
-                        "munitionsfailsafe"
+                        "munitionsfailsafe",
+                        "electronicbaffle"
                     ],
                     "talent": [
                         "predator"
@@ -80,5 +80,5 @@
         "vendor": {},
         "version": "2.0.0"
     },
-    "yasb": "https://raithos.github.io/?f=Resistance&d=v8ZsZ200Z351X126W178W10WW191WW205W247Y378X127W102WWW106W108W315Y256X117W197W109W175WW171W13&sn=Unsaved%20Squadron&obs="
+    "yasb": "https://raithos.github.io/?f=Resistance&d=v8ZsZ200Z351X126W178W10WW191WW205W247Y378X127W102WWW108W106W315Y256X117W197W109W175WW171W13&sn=Unsaved%20Squadron&obs="
 }

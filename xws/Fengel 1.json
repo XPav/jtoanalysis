@@ -1,0 +1,55 @@
+{
+    "name": "Fengel",
+    "number": 1,
+    "xws": {
+        "faction": "galacticempire",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "seventhsister",
+                "points": 59,
+                "ship": "tieadvancedv1",
+                "upgrades": {
+                    "force-power": [
+                        "supernaturalreflexes"
+                    ]
+                }
+            },
+            {
+                "id": "turrphennir",
+                "points": 42,
+                "ship": "tieininterceptor",
+                "upgrades": {}
+            },
+            {
+                "id": "majorrhymer",
+                "points": 37,
+                "ship": "tiesabomber",
+                "upgrades": {}
+            },
+            {
+                "id": "omicrongrouppilot",
+                "points": 60,
+                "ship": "lambdaclasst4ashuttle",
+                "upgrades": {
+                    "crew": [
+                        "deathtroopers"
+                    ],
+                    "modification": [
+                        "shieldupgrade"
+                    ],
+                    "sensor": [
+                        "passivesensors"
+                    ],
+                    "title": [
+                        "st321"
+                    ]
+                }
+            }
+        ],
+        "points": 198,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Galactic%20Empire&d=v8ZsZ200Z170X74WWY180XWWY204XWWWWWWWY168X240WW27WW165W162&sn=Random%20Squad&obs="
+}

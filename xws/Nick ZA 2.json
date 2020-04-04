@@ -1,0 +1,67 @@
+{
+    "name": "Nick ZA",
+    "number": 2,
+    "xws": {
+        "faction": "separatistalliance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "precisehunter",
+                "points": 29,
+                "ship": "vultureclassdroidfighter",
+                "upgrades": {
+                    "configuration": [
+                        "grapplingstruts"
+                    ],
+                    "missile": [
+                        "clustermissiles"
+                    ]
+                }
+            },
+            {
+                "id": "sunfac",
+                "points": 57,
+                "ship": "nantexclassstarfighter",
+                "upgrades": {
+                    "talent": [
+                        "predator",
+                        "crackshot"
+                    ]
+                }
+            },
+            {
+                "id": "feethanottrawautopilot",
+                "points": 47,
+                "ship": "belbullab22starfighter",
+                "upgrades": {
+                    "modification": [
+                        "staticdischargevanes"
+                    ],
+                    "title": [
+                        "soullessone"
+                    ]
+                }
+            },
+            {
+                "id": "066",
+                "points": 64,
+                "ship": "sithinfiltrator",
+                "upgrades": {
+                    "cannon": [
+                        "tractorbeam"
+                    ],
+                    "device": [
+                        "proximitymines"
+                    ],
+                    "title": [
+                        "scimitar"
+                    ]
+                }
+            }
+        ],
+        "points": 197,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Separatist%20Alliance&d=v8ZsZ200Z309X98W208WY357X127W116Y307XW109W229Y335XW13WWWW70WW216W&sn=Random%20Squad&obs="
+}

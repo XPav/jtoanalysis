@@ -1,0 +1,57 @@
+{
+    "name": "Jake Costello",
+    "number": 2,
+    "xws": {
+        "faction": "rebelalliance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "fennrau-sheathipedeclassshuttle",
+                "points": 58,
+                "ship": "sheathipedeclassshuttle",
+                "upgrades": {
+                    "astromech": [
+                        "r2d2"
+                    ]
+                }
+            },
+            {
+                "id": "zeborrelios",
+                "points": 35,
+                "ship": "attackshuttle",
+                "upgrades": {
+                    "title": [
+                        "phantom"
+                    ],
+                    "turret": [
+                        "dorsalturret"
+                    ]
+                }
+            },
+            {
+                "id": "lothalrebel",
+                "points": 73,
+                "ship": "vcx100lightfreighter",
+                "upgrades": {
+                    "torpedo": [
+                        "advprotontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "talasquadronpilot",
+                "points": 29,
+                "ship": "z95af4headhunter",
+                "upgrades": {
+                    "missile": [
+                        "clustermissiles"
+                    ]
+                }
+            }
+        ],
+        "points": 195,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Rebel%20Alliance&d=v8ZsZ200Z69XWWW3WY68XWW137W167Y64X134WWWWWWWY56XW98W&sn=Random%20Squad&obs="
+}

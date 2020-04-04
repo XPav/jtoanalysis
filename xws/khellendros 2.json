@@ -1,0 +1,65 @@
+{
+    "name": "khellendros",
+    "number": 2,
+    "xws": {
+        "faction": "galacticempire",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "scimitarsquadronpilot",
+                "points": 55,
+                "ship": "tiesabomber",
+                "upgrades": {
+                    "device": [
+                        "bombletgenerator"
+                    ],
+                    "gunner": [
+                        "hotshotgunner"
+                    ],
+                    "missile": [
+                        "clustermissiles"
+                    ],
+                    "modification": [
+                        "hullupgrade"
+                    ],
+                    "torpedo": [
+                        "advprotontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "baronoftheempire",
+                "points": 40,
+                "ship": "tieadvancedv1",
+                "upgrades": {
+                    "sensor": [
+                        "advancedsensors"
+                    ]
+                }
+            },
+            {
+                "id": "captainoicunn",
+                "points": 81,
+                "ship": "vt49decimator",
+                "upgrades": {
+                    "crew": [
+                        "isbslicer"
+                    ],
+                    "title": [
+                        "dauntless"
+                    ]
+                }
+            },
+            {
+                "id": "academypilot",
+                "points": 22,
+                "ship": "tielnfighter",
+                "upgrades": {}
+            }
+        ],
+        "points": 198,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Galactic%20Empire&d=v8ZsZ200Z208X134W98WW86WW67W164Y172XW111WY215XWW38WWWWWW147Y229X&sn=Random%20Squad&obs="
+}

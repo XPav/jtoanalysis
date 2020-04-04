@@ -1,0 +1,64 @@
+{
+    "name": "Starslinger72",
+    "number": 1,
+    "xws": {
+        "faction": "galacticempire",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "tomaxbren",
+                "points": 42,
+                "ship": "tiesabomber",
+                "upgrades": {
+                    "missile": [
+                        "diamondboronmissiles"
+                    ],
+                    "talent": [
+                        "crackshot"
+                    ]
+                }
+            },
+            {
+                "id": "blacksquadronscout",
+                "points": 40,
+                "ship": "tieskstriker",
+                "upgrades": {
+                    "device": [
+                        "seismiccharges"
+                    ],
+                    "gunner": [
+                        "bt1"
+                    ],
+                    "modification": [
+                        "delayedfuses"
+                    ]
+                }
+            },
+            {
+                "id": "captainferoph",
+                "points": 70,
+                "ship": "tiereaper",
+                "upgrades": {
+                    "crew": [
+                        "admiralsloane",
+                        "darthvader"
+                    ]
+                }
+            },
+            {
+                "id": "maarekstele",
+                "points": 48,
+                "ship": "tieadvancedx1",
+                "upgrades": {
+                    "sensor": [
+                        "passivesensors"
+                    ]
+                }
+            }
+        ],
+        "points": 200,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Galactic%20Empire&d=v8ZsZ200Z205X116WW238WWWWWY212XW79W71W236Y184XW14W26WY174XW240WW&sn=Random%20Squad&obs="
+}

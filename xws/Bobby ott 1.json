@@ -1,0 +1,54 @@
+{
+    "name": "Bobby ott",
+    "number": 1,
+    "xws": {
+        "faction": "firstorder",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "epsilonsquadroncadet",
+                "points": 33,
+                "ship": "tiefofighter",
+                "upgrades": {
+                    "modification": [
+                        "targetingcomputer"
+                    ],
+                    "tech": [
+                        "patternanalyzer"
+                    ]
+                }
+            },
+            {
+                "id": "majorstridan",
+                "points": 99,
+                "ship": "upsilonclasscommandshuttle",
+                "upgrades": {
+                    "cannon": [
+                        "ioncannon"
+                    ],
+                    "crew": [
+                        "supremeleadersnoke"
+                    ],
+                    "tech": [
+                        "deuteriumpowercells",
+                        "hyperspacetrackingdata"
+                    ]
+                }
+            },
+            {
+                "id": "rush",
+                "points": 63,
+                "ship": "tievnsilencer",
+                "upgrades": {
+                    "torpedo": [
+                        "iontorpedoes"
+                    ]
+                }
+            }
+        ],
+        "points": 195,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=First%20Order&d=v8ZsZ200Z269X206W249Y251X318W185W184WWW11WWY386XW135W&sn=Random%20Squad&obs="
+}

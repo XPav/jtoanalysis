@@ -1,0 +1,63 @@
+{
+    "name": "rearview",
+    "number": 1,
+    "xws": {
+        "faction": "firstorder",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "holo",
+                "points": 58,
+                "ship": "tiebainterceptor",
+                "upgrades": {
+                    "modification": [
+                        "angleddeflectors"
+                    ],
+                    "talent": [
+                        "crackshot"
+                    ]
+                }
+            },
+            {
+                "id": "longshot",
+                "points": 32,
+                "ship": "tiefofighter",
+                "upgrades": {
+                    "modification": [
+                        "delayedfuses"
+                    ]
+                }
+            },
+            {
+                "id": "zetasquadronsurvivor",
+                "points": 39,
+                "ship": "tiesffighter",
+                "upgrades": {
+                    "sensor": [
+                        "trajectorysimulator"
+                    ],
+                    "tech": [
+                        "biohexacryptcodes"
+                    ]
+                }
+            },
+            {
+                "id": "lieutenanttavson",
+                "points": 70,
+                "ship": "upsilonclasscommandshuttle",
+                "upgrades": {
+                    "crew": [
+                        "informant"
+                    ],
+                    "modification": [
+                        "munitionsfailsafe"
+                    ]
+                }
+            }
+        ],
+        "points": 199,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=First%20Order&d=v8ZsZ200Z382X116WWW247Y263XWW236Y259X202WWW114WY289XWW37WWWWW108&sn=Random%20Squad&obs="
+}

@@ -1,0 +1,56 @@
+{
+    "name": "Tyler E",
+    "number": 2,
+    "xws": {
+        "faction": "firstorder",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "zetasquadronsurvivor",
+                "points": 40,
+                "ship": "tiesffighter",
+                "upgrades": {
+                    "modification": [
+                        "delayedfuses"
+                    ],
+                    "sensor": [
+                        "passivesensors"
+                    ],
+                    "tech": [
+                        "advancedoptics"
+                    ]
+                }
+            },
+            {
+                "id": "ember",
+                "points": 55,
+                "ship": "tiebainterceptor",
+                "upgrades": {
+                    "talent": [
+                        "intimidation"
+                    ]
+                }
+            },
+            {
+                "id": "midnight",
+                "points": 46,
+                "ship": "tiefofighter",
+                "upgrades": {
+                    "talent": [
+                        "trickshot"
+                    ]
+                }
+            },
+            {
+                "id": "firstordertestpilot",
+                "points": 56,
+                "ship": "tievnsilencer",
+                "upgrades": {}
+            }
+        ],
+        "points": 197,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=First%20Order&d=v8ZsZ200Z259X186WWW240W236Y383X122WWWY233X133WWY287XWWW&sn=Random%20Squad&obs="
+}

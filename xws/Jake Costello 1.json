@@ -1,0 +1,59 @@
+{
+    "name": "Jake Costello",
+    "number": 1,
+    "xws": {
+        "faction": "galacticempire",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "lieutenantkestal",
+                "points": 42,
+                "ship": "tieagaggressor",
+                "upgrades": {
+                    "modification": [
+                        "stealthdevice"
+                    ],
+                    "turret": [
+                        "ioncannonturret"
+                    ]
+                }
+            },
+            {
+                "id": "captainkagi",
+                "points": 56,
+                "ship": "lambdaclasst4ashuttle",
+                "upgrades": {
+                    "cannon": [
+                        "heavylasercannon"
+                    ],
+                    "modification": [
+                        "hullupgrade"
+                    ]
+                }
+            },
+            {
+                "id": "duchess",
+                "points": 49,
+                "ship": "tieskstriker",
+                "upgrades": {
+                    "device": [
+                        "proximitymines"
+                    ],
+                    "talent": [
+                        "ruthless"
+                    ]
+                }
+            },
+            {
+                "id": "sigmasquadronace",
+                "points": 48,
+                "ship": "tiephphantom",
+                "upgrades": {}
+            }
+        ],
+        "points": 195,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Galactic%20Empire&d=v8ZsZ200Z187XW138WWWW166Y165XW10WWW164WY211X128WW70WY201XWWW&sn=Random%20Squad&obs="
+}

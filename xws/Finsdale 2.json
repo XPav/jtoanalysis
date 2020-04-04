@@ -1,0 +1,69 @@
+{
+    "name": "Finsdale",
+    "number": 2,
+    "xws": {
+        "faction": "galacticrepublic",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "jediknight",
+                "points": 49,
+                "ship": "delta7aethersprite",
+                "upgrades": {
+                    "astromech": [
+                        "r4p17"
+                    ],
+                    "configuration": [
+                        "calibratedlasertargeting"
+                    ],
+                    "force-power": [
+                        "sense"
+                    ]
+                }
+            },
+            {
+                "id": "swoop",
+                "points": 34,
+                "ship": "v19torrentstarfighter",
+                "upgrades": {
+                    "talent": [
+                        "intimidation"
+                    ]
+                }
+            },
+            {
+                "id": "oddball-btlbywing",
+                "points": 53,
+                "ship": "btlbywing",
+                "upgrades": {
+                    "device": [
+                        "seismiccharges"
+                    ],
+                    "torpedo": [
+                        "iontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "luminaraunduli",
+                "points": 59,
+                "ship": "delta7aethersprite",
+                "upgrades": {
+                    "astromech": [
+                        "r4p44"
+                    ],
+                    "force-power": [
+                        "battlemeditation"
+                    ],
+                    "modification": [
+                        "angleddeflectors"
+                    ]
+                }
+            }
+        ],
+        "points": 195,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Galactic%20Republic&d=v8ZsZ200Z277X75W214W200WY317X122WWY366XWW135WWW71WY274X212W226WW247&sn=Random%20Squad&obs="
+}

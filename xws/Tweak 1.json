@@ -1,0 +1,65 @@
+{
+    "name": "Tweak",
+    "number": 1,
+    "xws": {
+        "faction": "scumandvillainy",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "g4rgorvm",
+                "points": 28,
+                "ship": "m3ainterceptor",
+                "upgrades": {}
+            },
+            {
+                "id": "trandoshanslaver",
+                "points": 63,
+                "ship": "yv666lightfreighter",
+                "upgrades": {
+                    "crew": [
+                        "jabbathehutt"
+                    ],
+                    "illicit": [
+                        "riggedcargochute"
+                    ],
+                    "modification": [
+                        "munitionsfailsafe"
+                    ]
+                }
+            },
+            {
+                "id": "kavil",
+                "points": 54,
+                "ship": "btla4ywing",
+                "upgrades": {
+                    "illicit": [
+                        "deadmansswitch"
+                    ],
+                    "torpedo": [
+                        "advprotontorpedoes"
+                    ],
+                    "turret": [
+                        "dorsalturret"
+                    ]
+                }
+            },
+            {
+                "id": "4lom",
+                "points": 55,
+                "ship": "g1astarfighter",
+                "upgrades": {
+                    "crew": [
+                        "qira"
+                    ],
+                    "illicit": [
+                        "riggedcargochute"
+                    ]
+                }
+            }
+        ],
+        "points": 200,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Scum%20and%20Villainy&d=v8ZsZ200Z399XWY155XWW39WWW96W108WY85XW137W134WWWW93WY109XWW55W96WW&sn=Random%20Squad&obs="
+}

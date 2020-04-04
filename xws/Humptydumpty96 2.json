@@ -1,0 +1,64 @@
+{
+    "name": "Humptydumpty96",
+    "number": 2,
+    "xws": {
+        "faction": "resistance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "cobaltsquadronbomber",
+                "points": 76,
+                "ship": "mg100starfortress",
+                "upgrades": {
+                    "gunner": [
+                        "veteranturretgunner",
+                        "paigetico"
+                    ],
+                    "modification": [
+                        "electronicbaffle"
+                    ],
+                    "tech": [
+                        "patternanalyzer"
+                    ]
+                }
+            },
+            {
+                "id": "vimoradi",
+                "points": 31,
+                "ship": "resistancetransportpod",
+                "upgrades": {
+                    "crew": [
+                        "larmadacy"
+                    ]
+                }
+            },
+            {
+                "id": "jessikapava",
+                "points": 57,
+                "ship": "t70xwing",
+                "upgrades": {
+                    "configuration": [
+                        "integratedsfoils"
+                    ],
+                    "missile": [
+                        "concussionmissiles"
+                    ]
+                }
+            },
+            {
+                "id": "colossusstationmechanic",
+                "points": 31,
+                "ship": "fireball",
+                "upgrades": {
+                    "astromech": [
+                        "r5x3"
+                    ]
+                }
+            }
+        ],
+        "points": 195,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Resistance&d=v8ZsZ200Z260XW206WW90W189WWW106Y348XW243WY296XWW175WWW99Y380XW205WWWW&sn=Random%20Squad&obs="
+}

@@ -1,4 +1,6 @@
 listid,faction,totalhealth,totalmainattack,totalagility,totalupgradecount,totaluselesscount,totaluselesscost,shipcount,avginitiative,yasb
+3217#1,rebelalliance,28,8,3,6,0,0,3,3.6666666666666665,https://raithos.github.io/?f=Rebel%20Alliance&d=v8ZsZ200Z62XW113WW138WW314WWW148Y47X131WWWWWY17XWWWWWW235W&sn=Random%20Squad&obs=
+3217#2,separatistalliance,24,12,10,6,0,0,5,2.8,https://raithos.github.io/?f=Separatist%20Alliance&d=v8ZsZ200Z310X100W208W164Y306XWWWY326XW209WWW237Y344XWWWY328X111WWW&sn=Random%20Squad&obs=
 Aaron#1,rebelalliance,21,8,7,7,1,3,4,3.75,https://raithos.github.io/?f=Rebel%20Alliance&d=v8ZsZ200Z25X119WW234WWWW87Y70XW41W106W4W167Y56XWWY54XWW&sn=Random%20Squad&obs=
 Aaron#2,galacticrepublic,24,9,7,6,0,0,4,2.5,https://raithos.github.io/?f=Galactic%20Republic&d=v8ZsZ200Z317X256W102WY331XW240W214WY280XWWW252W106Y330XWW&sn=Random%20Squad&obs=
 Aaron T#1,firstorder,26,11,9,7,1,1,4,3.5,https://raithos.github.io/?f=First%20Order&d=v8ZsZ200Z267X115WW108Y397X181WWWW240WY288X202WWW179WWWWY383X127WWW&sn=Random%20Squad&obs=
@@ -63,6 +65,8 @@ assistantBKR#1,scumandvillainy,32,8,3,10,1,6,3,3.0,https://raithos.github.io/?f=
 assistantBKR#2,rebelalliance,23,8,5,8,0,0,3,2.6666666666666665,https://raithos.github.io/?f=Rebel%20Alliance&d=v8ZsZ200Z47X256W68WW107W236W156Y62X203WW136W137WWWWWY53XW&sn=Random%20Squad&obs=
 Azaghal#1,scumandvillainy,23,10,9,4,0,0,4,2.5,https://raithos.github.io/?f=Scum%20and%20Villainy&d=v8ZsZ200Z98XW135Y106XWWWWW93WWY143XWW70WWY159XW94W&sn=Random%20Squad&obs=
 Azaghal#2,firstorder,14,8,8,11,0,0,3,4.333333333333333,https://raithos.github.io/?f=First%20Order&d=v8ZsZ200Z382X117W318W311WY383X117W177W98W166Y242X132WW100W86WW108&sn=Random%20Squad&obs=
+badmedicine22#1,scumandvillainy,28,9,6,13,0,0,4,3.0,https://raithos.github.io/?f=Scum%20and%20Villainy&d=v8ZsZ200Z152X133WW99W66W53W80W92W106W150Y86X122W137WW79WW317WWY398X126WWWY160XWW&sn=Random%20Squad&obs=
+badmedicine22#2,separatistalliance,22,11,8,5,0,0,4,3.0,https://raithos.github.io/?f=Separatist%20Alliance&d=v8ZsZ200Z356XWY305XW239WWY335XWW134W217WWWWWY337X209WW166&sn=Random%20Squad&obs=
 BaldWookie#1,firstorder,28,10,8,6,0,0,4,2.75,https://raithos.github.io/?f=First%20Order&d=v8ZsZ200Z269X177WY289XWW183WWW13W113WY397XWWW182WWY259XWWW111W&sn=Random%20Squad&obs=
 BaldWookie#2,resistance,26,7,4,10,2,10,3,4.333333333333333,https://raithos.github.io/?f=Resistance&d=v8ZsZ200Z245X126WW53W173WWWWY347XW13WWW244W196W165Y378XW101WWW105WW315&sn=Random%20Squad&obs=
 balindamood#1,scumandvillainy,21,9,11,8,0,0,4,3.0,https://raithos.github.io/?f=Scum%20and%20Villainy&d=v8ZsZ200Z150X132W111W234W165WY248XW249Y116XW134WWWWWW159WY247XW166&sn=Random%20Squad&obs=
@@ -93,7 +97,7 @@ Bibi#1,firstorder,20,10,10,2,0,0,4,4.5,https://raithos.github.io/?f=First%20Orde
 Bibi#2,separatistalliance,20,11,9,5,0,0,4,3.0,https://raithos.github.io/?f=Separatist%20Alliance&d=v8ZsZ200Z307X220WW229Y357X248WY305XWWWY279XW208W165&sn=Random%20Squad&obs=
 Bigfoot#1,galacticempire,31,9,7,6,1,7,4,2.25,https://raithos.github.io/?f=Galactic%20Empire&d=v8ZsZ200Z216XWWW53W88W316WWY188XWW102WW86WY206XWWWWWWY171XWW100&sn=Random%20Squad&obs=
 Bigfoot#2,galacticrepublic,19,9,10,6,1,1,4,3.5,https://raithos.github.io/?f=Galactic%20Republic&d=v8ZsZ200Z277X74W233WWY277X73WW201W211Y274XW6WWY332XWWW&sn=Random%20Squad&obs=
-Biggsy#1,resistance,25,8,8,10,1,1,4,3.0,https://raithos.github.io/?f=Resistance&d=v8ZsZ200Z377X126WW2WWW108W315Y387X131WWWY379XW188WWW164WY346XWW136W54WWW105&sn=Random%20Squad&obs=
+Biggsy#1,resistance,25,8,8,10,2,1,4,3.0,https://raithos.github.io/?f=Resistance&d=v8ZsZ200Z377X126WW2WWW108W315Y387X131WWWY379XW188WWW164WY346XWW136W54WWW105&sn=Random%20Squad&obs=
 Biggsy#2,firstorder,28,10,8,3,1,8,4,4.25,https://raithos.github.io/?f=First%20Order&d=v8ZsZ200Z242XWWW76WW166Y243XWWWWW106Y266XWWY288XWWWWWWW&sn=Random%20Squad&obs=
 BittyBumbo#1,scumandvillainy,27,10,7,12,0,0,4,3.75,https://raithos.github.io/?f=Scum%20and%20Villainy&d=v8ZsZ200Z133XW247WY145X127WW20W80WW317WWY144XW137WW86W71W70W110W149WW8Y158XWWW&sn=Random%20Squad&obs=
 BittyBumbo#2,rebelalliance,26,9,5,10,0,0,3,3.0,https://raithos.github.io/?f=Rebel%20Alliance&d=v8ZsZ200Z1X135W0WW142Y1XWW164W142Y393X251W99WWW54W109W108W&sn=Random%20Squad&obs=
@@ -113,8 +117,14 @@ bluerook17#1,firstorder,19,10,12,6,0,0,4,2.5,https://raithos.github.io/?f=First%
 bluerook17#2,rebelalliance,24,12,14,3,0,0,5,3.0,https://raithos.github.io/?f=Rebel%20Alliance&d=v8ZsZ200Z23XWWW4WY16X109Y51XWWY31XWWWWW140Y15X&sn=Random%20Squad&obs=
 Bluetricycle#1,scumandvillainy,28,10,8,4,0,0,4,2.25,https://raithos.github.io/?f=Scum%20and%20Villainy&d=v8ZsZ200Z128X37W93W94W166WY143XWWWWY86XWWWWWWWY151XWWW&sn=Random%20Squad&obs=
 Bluetricycle#2,galacticrepublic,22,7,4,10,1,3,3,4.333333333333333,https://raithos.github.io/?f=Galactic%20Republic&d=v8ZsZ200Z359X251W137W135W76W226WW249Y360X123W137WWW233WWY274XWW201W&sn=Random%20Squad&obs=
+Bobby ott#1,firstorder,22,9,7,7,1,3,3,2.3333333333333335,https://raithos.github.io/?f=First%20Order&d=v8ZsZ200Z269X206W249Y251X318W185W184WWW11WWY386XW135W&sn=Random%20Squad&obs=
+Bobby ott#2,scumandvillainy,19,9,9,6,0,0,4,3.0,https://raithos.github.io/?f=Scum%20and%20Villainy&d=v8ZsZ200Z112X132W43WWWWW156Y98XW134Y142XW30WWWY141XWW316WW&sn=Random%20Squad&obs=
+BobbyMoose#1,scumandvillainy,28,12,11,7,1,1,5,2.2,https://raithos.github.io/?f=Scum%20and%20Villainy&d=v8ZsZ200Z127X127W48W92WW108W160Y96XY95X118WWY157XWWWY151XWW164W&sn=Random%20Squad&obs=
+BobbyMoose#2,firstorder,25,10,13,7,1,2,5,2.4,https://raithos.github.io/?f=First%20Order&d=v8ZsZ200Z261X318WY385X126WWW88W240W166Y263XW206W165Y259XWWWWY265XW&sn=Random%20Squad&obs=
 BobbySapphire#1,galacticempire,22,12,13,8,3,2,5,3.0,https://raithos.github.io/?f=Galactic%20Empire&d=v8ZsZ200Z163X122W113WWW108W144WY201XW111WW236Y182X165WY225X122WY223XW&sn=Random%20Squad&obs=
 BobbySapphire#2,separatistalliance,22,13,11,5,1,6,5,2.6,https://raithos.github.io/?f=Separatist%20Alliance&d=v8ZsZ200Z306X228WW109W229Y308X239WWY356X126WY279XWWY311XWW&sn=Random%20Squad&obs=
+Boldrin#1,scumandvillainy,26,10,9,6,1,4,4,2.75,https://raithos.github.io/?f=Scum%20and%20Villainy&d=v8ZsZ200Z149XW111WWWY154XWWW25W20WW92W164WY143XW43WWWY247XW&sn=Random%20Squad&obs=
+Boldrin#2,firstorder,20,9,7,7,0,0,3,3.6666666666666665,https://raithos.github.io/?f=First%20Order&d=v8ZsZ200Z289X206W177W54W37WW11W111WY266XW318WY384XWWW&sn=Random%20Squad&obs=
 Boom Owl#1,firstorder,24,8,5,9,2,6,3,4.0,https://raithos.github.io/?f=First%20Order&d=v8ZsZ200Z397XW186WW182W240W109Y242XWW99W76W114W109Y289XWWWW183WWW&sn=Random%20Squad&obs=
 Boom Owl#2,resistance,31,10,6,9,3,7,4,1.75,https://raithos.github.io/?f=Resistance&d=v8ZsZ200Z346X206WW234WWWW236Y349XW206WW105Y254XWW175WWWY260X114WW246W88WWWW&sn=Random%20Squad&obs=
 boulton#1,firstorder,21,9,6,6,0,0,3,3.3333333333333335,https://raithos.github.io/?f=First%20Order&d=v8ZsZ200Z238XWWW53WW11W111WY383X256WW102W247Y242XWWWWW&sn=Random%20Squad&obs=
@@ -131,12 +141,16 @@ Brett#1,galacticrepublic,25,10,7,6,1,6,4,3.25,https://raithos.github.io/?f=Galac
 Brett#2,firstorder,20,9,11,10,2,9,4,2.5,https://raithos.github.io/?f=First%20Order&d=v8ZsZ200Z284X124W206W234W102Y265X178W108Y259X202WW76W240WY263XW206W&sn=Random%20Squad&obs=
 brettness37#1,galacticempire,30,10,7,5,0,0,4,2.75,https://raithos.github.io/?f=Galactic%20Empire&d=v8ZsZ200Z227X119WY201XWWWY216XW30W50WW86WW109WY206XWWWWWW&sn=Random%20Squad&obs=
 brettness37#2,separatistalliance,23,14,13,10,1,7,6,2.0,https://raithos.github.io/?f=Separatist%20Alliance&d=v8ZsZ200Z358X228W116Y307XWW229Y279X311W208WY310X102W208W105Y309X224WWY310X209WW&sn=Random%20Squad&obs=
+Brewdude716#1,rebelalliance,26,10,8,7,1,1,4,2.75,https://raithos.github.io/?f=Rebel%20Alliance&d=v8ZsZ200Z14XW164Y24XW234W3WY30XWWW108WWY73XWW232WWW106W313&sn=Random%20Squad&obs=
+Brewdude716#2,resistance,27,9,8,5,0,0,4,2.25,https://raithos.github.io/?f=Resistance&d=v8ZsZ200Z301XWW186Y301XWW178Y244XWW32WWWWW193Y352XWWWW37WW&sn=Random%20Squad&obs=
 bri#1,rebelalliance,30,9,7,5,0,0,4,2.25,https://raithos.github.io/?f=Rebel%20Alliance&d=v8ZsZ200Z20X135WW97WW18W71W69WY45XWWWWWWY53XWY54XWW&sn=Random%20Squad&obs=
 bri#2,separatistalliance,20,9,6,7,0,0,3,4.333333333333333,https://raithos.github.io/?f=Separatist%20Alliance&d=v8ZsZ200Z358XW248Y306X118W239WWY272X199W10WWWWW165W216W&sn=Random%20Squad&obs=
 BRIAN TWIGG#1,rebelalliance,23,10,9,6,0,0,4,3.25,https://raithos.github.io/?f=Rebel%20Alliance&d=v8ZsZ200Z52X115W127W101Y18XWW311WWWWW166Y21XW112WWWY68XWWW&sn=Random%20Squad&obs=
 BRIAN TWIGG#2,separatistalliance,22,10,8,8,0,0,4,3.5,https://raithos.github.io/?f=Separatist%20Alliance&d=v8ZsZ200Z272X204W13W234WW32W69WWW223Y327XWW68WW237Y353XY309XWW&sn=Random%20Squad&obs=
 Brian Webb#1,rebelalliance,18,10,10,2,0,0,4,3.75,https://raithos.github.io/?f=Rebel%20Alliance&d=v8ZsZ200Z46XW69WWWW156Y66XWWWWY21XWWWWY15X&sn=Random%20Squad&obs=
 Brian Webb#2,firstorder,14,9,9,5,0,0,3,3.6666666666666665,https://raithos.github.io/?f=First%20Order&d=v8ZsZ200Z386XW134W102Y383XW318WWY382XW206W99W&sn=Random%20Squad&obs=
+brien#1,galacticempire,25,9,9,8,0,0,4,2.75,https://raithos.github.io/?f=Galactic%20Empire&d=v8ZsZ200Z161X127WWW98W104WY168X111W12WWW164W162Y169X250WWY229X&sn=Random%20Squad&obs=
+brien#2,scumandvillainy,22,11,12,7,0,0,5,2.6,https://raithos.github.io/?f=Scum%20and%20Villainy&d=v8ZsZ200Z398XW311WWY143XWW70W93WY148XWWW166WY158XW311W91W108Y139XW&sn=Random%20Squad&obs=
 brittoncarr#1,scumandvillainy,27,11,8,5,0,0,4,3.0,https://raithos.github.io/?f=Scum%20and%20Villainy&d=v8ZsZ200Z124X99WWW106WY147XWWWWY153X116WW311WW53WWWWY96X&sn=Random%20Squad&obs=
 brittoncarr#2,separatistalliance,19,12,12,7,1,7,5,3.4,https://raithos.github.io/?f=Separatist%20Alliance&d=v8ZsZ200Z354XW131Y327X136W102WW108WY309XWW105Y311X209WWY354X133W&sn=Random%20Squad&obs=
 BrodyRules#1,firstorder,19,9,10,7,0,0,4,3.25,https://raithos.github.io/?f=First%20Order&d=v8ZsZ200Z385X127W177WWW112W166Y242XWW99WWW105Y290XW247Y382XWWW&sn=Random%20Squad&obs=
@@ -175,6 +189,8 @@ Chemical Jedi#1,rebelalliance,26,8,7,8,1,1,4,2.75,https://raithos.github.io/?f=R
 Chemical Jedi#2,galacticrepublic,18,8,10,8,0,0,4,3.75,https://raithos.github.io/?f=Galactic%20Republic&d=v8ZsZ200Z323X240W241W135Y333X116WWW134Y313XW4W200WY274XW2WW&sn=Random%20Squad&obs=
 Chewels#1,scumandvillainy,27,10,9,13,0,0,4,2.25,https://raithos.github.io/?f=Scum%20and%20Villainy&d=v8ZsZ200Z154X125W12W99W30W16W79W94W164W150Y139XW135Y120X125WWW95W109WY138XW&sn=Random%20Squad&obs=
 Chewels#2,galacticrepublic,26,8,6,9,1,7,4,3.5,https://raithos.github.io/?f=Galactic%20Republic&d=v8ZsZ200Z366X118WWW86W214W235WY322X126WW233W134Y364XW137WWWWW211Y321XW&sn=Random%20Squad&obs=
+ChiefStief88#1,firstorder,22,8,6,9,0,0,3,4.333333333333333,https://raithos.github.io/?f=First%20Order&d=v8ZsZ200Z397X119W318WWWWY288X185W206W184WW183W11W113WY233X256WW&sn=Random%20Squad&obs=
+ChiefStief88#2,rebelalliance,32,12,6,1,0,0,4,2.25,https://raithos.github.io/?f=Rebel%20Alliance&d=v8ZsZ200Z59X133WWWY63XWWWWWWWY24XWWWY56XWW&sn=Random%20Squad&obs=
 ChopsNZ#1,rebelalliance,22,8,5,8,1,2,3,4.0,https://raithos.github.io/?f=Rebel%20Alliance&d=v8ZsZ200Z78XW234W30W81W7WY22XW112WWW247Y26XW138WWWWW88&sn=Random%20Squad&obs=
 ChopsNZ#2,galacticempire,31,9,3,7,1,2,3,3.6666666666666665,https://raithos.github.io/?f=Galactic%20Empire&d=v8ZsZ200Z396XW134W24WWWW317WW147Y202X240W88WY165XWW53WWW&sn=Random%20Squad&obs=
 Chris Allen#1,firstorder,24,9,6,7,0,0,3,2.3333333333333335,https://raithos.github.io/?f=First%20Order&d=v8ZsZ200Z386X177WW98Y289XWW32WW180W12W111WY259XWWWW109&sn=Random%20Squad&obs=
@@ -187,6 +203,10 @@ Christopher Patrick#1,firstorder,20,10,10,6,1,6,4,3.75,https://raithos.github.io
 Christopher Patrick#2,galacticrepublic,24,9,7,3,0,0,4,3.5,https://raithos.github.io/?f=Galactic%20Republic&d=v8ZsZ200Z275XWW201WY365XWWWW233W316WY330XWWY333XWWW&sn=Random%20Squad&obs=
 ChunkyWeevil#1,resistance,38,11,7,3,0,0,5,2.6,https://raithos.github.io/?f=Resistance&d=v8ZsZ200Z292XWW246WWW316WWY351XWWWWWWWY349XWWWY346XWWWW245WWY380XWWWWW&sn=Random%20Squad&obs=
 ChunkyWeevil#2,separatistalliance,24,11,10,8,0,0,5,3.4,https://raithos.github.io/?f=Separatist%20Alliance&d=v8ZsZ200Z325X112WWW165W237Y326X136W101W71WWY305X119WWWY309X311WWY327XWWWW&sn=Random%20Squad&obs=
+clanofwolves#1,galacticempire,30,9,3,7,0,0,3,3.3333333333333335,https://raithos.github.io/?f=Galactic%20Empire&d=v8ZsZ200Z167X112W11WW24W249W162Y396XW134WWWW82WWWY212XWWW&sn=Random%20Squad&obs=
+clanofwolves#2,rebelalliance,24,9,5,3,0,0,3,4.0,https://raithos.github.io/?f=Rebel%20Alliance&d=v8ZsZ200Z77XWWWW7WY39XWWWWW157W96Y49XWWWW&sn=Random%20Squad&obs=
+Cmdr Mark#1,galacticempire,22,7,6,4,1,2,3,4.0,https://raithos.github.io/?f=Galactic%20Empire&d=v8ZsZ200Z195XWWWY192XWWWW82W316W71WY203XWWWW88WWW&sn=Random%20Squad&obs=
+Cmdr Mark#2,galacticrepublic,27,10,7,8,0,0,4,3.5,https://raithos.github.io/?f=Galactic%20Republic&d=v8ZsZ200Z321X100WY277X72W6W200WY342XW134WWW214W211Y338XWWWW252W&sn=Random%20Squad&obs=
 cmoney#1,firstorder,19,9,11,8,0,0,4,3.75,https://raithos.github.io/?f=First%20Order&d=v8ZsZ200Z381X117W186WW165Y268XWY397X133W178W102W86W112WY235XWW&sn=Random%20Squad&obs=
 cmoney#2,galacticrepublic,32,11,8,1,0,0,5,2.8,https://raithos.github.io/?f=Galactic%20Republic&d=v8ZsZ200Z330XW5WY361XWWWWWY322XWWWY342XWWWWWY318XWW&sn=Random%20Squad&obs=
 cmveas#1,galacticrepublic,26,8,6,10,1,5,4,3.5,https://raithos.github.io/?f=Galactic%20Republic&d=v8ZsZ200Z361X137W234W76W213WW109Y318X115W99W108Y332X125WWWY366X129WWWWWW&sn=Random%20Squad&obs=
@@ -207,6 +227,8 @@ Cradossk#1,galacticrepublic,24,9,4,11,1,1,3,3.0,https://raithos.github.io/?f=Gal
 Cradossk#2,resistance,30,8,5,11,0,0,3,1.6666666666666667,https://raithos.github.io/?f=Resistance&d=v8ZsZ200Z271X124W172W101W186Y260XW186WWW86WW316W164Y260XWWWW187WW67W164&sn=Random%20Squad&obs=
 CraftedRed#1,firstorder,22,9,6,8,0,0,3,4.0,https://raithos.github.io/?f=First%20Order&d=v8ZsZ200Z397X122W186WW86W240W109Y383XWWWY289X185W186WW183WWWW&sn=Random%20Squad&obs=
 CraftedRed#2,resistance,30,9,4,6,0,0,3,2.6666666666666665,https://raithos.github.io/?f=Resistance&d=v8ZsZ200Z260X111W206WWW86W68W235WY258XWW175WWWY245XWWWWWWW&sn=Random%20Squad&obs=
+CrazyVulcan#1,resistance,29,9,6,9,0,0,4,2.5,https://raithos.github.io/?f=Resistance&d=v8ZsZ200Z351X122W178W11W234W244WW196W106Y380XWWWWWY352XWWWW192WWY254XWW175WWW&sn=Random%20Squad&obs=
+CrazyVulcan#2,rebelalliance,25,8,5,10,1,3,3,3.6666666666666665,https://raithos.github.io/?f=Rebel%20Alliance&d=v8ZsZ200Z73XW240W12W13WWW313Y42X132W99WWW314W109W249W154Y53XW&sn=Random%20Squad&obs=
 Cropduster#1,galacticempire,19,8,12,4,0,0,4,4.0,https://raithos.github.io/?f=Galactic%20Empire&d=v8ZsZ200Z175X127WW101W106Y176XWWY173XW112WWY172XWW&sn=Random%20Squad&obs=
 Cropduster#2,scumandvillainy,30,10,8,9,2,4,4,3.0,https://raithos.github.io/?f=Scum%20and%20Villainy&d=v8ZsZ200Z144X125W137WWWW316W110W149WWY304X164Y82X116WWWW317WWWY87XWWW88WWWW&sn=Random%20Squad&obs=
 ctsjohnz#1,resistance,27,9,6,7,0,0,4,3.5,https://raithos.github.io/?f=Resistance&d=v8ZsZ200Z345X123W186W54W105Y231XW4WW175WWWY351XWWWWWWWY346XWWWW231WW&sn=Random%20Squad&obs=
@@ -257,6 +279,8 @@ dfoglein00#1,firstorder,30,11,5,1,0,0,3,3.6666666666666665,https://raithos.githu
 dfoglein00#2,galacticempire,30,9,3,8,1,2,3,2.6666666666666665,https://raithos.github.io/?f=Galactic%20Empire&d=v8ZsZ200Z216XWW53W49W88W316W164W147Y199X122W113WWY186XWW&sn=Random%20Squad&obs=
 direweasel#1,rebelalliance,19,7,5,14,1,3,3,2.6666666666666665,https://raithos.github.io/?f=Rebel%20Alliance&d=v8ZsZ200Z0X93W136W2W249W142Y18X135W100W311W77WW70W316WY55X130W99W166&sn=Random%20Squad&obs=
 direweasel#2,scumandvillainy,28,11,10,5,2,1,5,3.2,https://raithos.github.io/?f=Scum%20and%20Villainy&d=v8ZsZ200Z89XW100W39WWWW236W152Y142XW66WWWY102XY158XWWWY398XWWW&sn=Random%20Squad&obs=
+DirtClod16#1,rebelalliance,19,9,6,11,1,3,3,3.0,https://raithos.github.io/?f=Rebel%20Alliance&d=v8ZsZ200Z76X240WWW134W249W313Y22X118W113W136W5W165Y66XW46WW138W&sn=Random%20Squad&obs=
+DirtClod16#2,scumandvillainy,17,7,8,13,2,3,3,3.0,https://raithos.github.io/?f=Scum%20and%20Villainy&d=v8ZsZ200Z84X123W112W11W232W71W91W106W151Y114X20WW94W249WW156Y136X124WW&sn=Random%20Squad&obs=
 Dneye#1,scumandvillainy,26,8,6,3,0,0,3,4.333333333333333,https://raithos.github.io/?f=Scum%20and%20Villainy&d=v8ZsZ200Z105XW10W98W63WWWWY147XWWWWY90XWWWWWWW&sn=Random%20Squad&obs=
 Dneye#2,resistance,33,10,6,3,0,0,4,3.25,https://raithos.github.io/?f=Resistance&d=v8ZsZ200Z351XWWW234WWWWY254XWW175WWWY293XWWWWW69WWY378XWWWWWW&sn=Random%20Squad&obs=
 Dom#1,firstorder,28,11,5,6,1,6,3,2.3333333333333335,https://raithos.github.io/?f=First%20Order&d=v8ZsZ200Z281XWW180WWW11W113WY288XWWWWWW114W166Y383X181WWW&sn=Random%20Squad&obs=
@@ -278,7 +302,7 @@ dsul413#2,separatistalliance,23,11,7,8,0,0,4,2.25,https://raithos.github.io/?f=S
 Dudeseph_____#1,scumandvillainy,27,10,8,5,0,0,4,3.0,https://raithos.github.io/?f=Scum%20and%20Villainy&d=v8ZsZ200Z140XW178W37W71W94WY81XWWWWWWW151Y109XWWWWWY230XWWWWW&sn=Random%20Squad&obs=
 Dudeseph_____#2,galacticrepublic,27,9,6,7,3,4,4,3.5,https://raithos.github.io/?f=Galactic%20Republic&d=v8ZsZ200Z317XWW108Y333X116W112WWY280X136WW86WW249Y360XWW234WWWW&sn=Random%20Squad&obs=
 Duff_N_Stuff#1,rebelalliance,28,9,7,4,1,2,4,3.25,https://raithos.github.io/?f=Rebel%20Alliance&d=v8ZsZ200Z28X131WWWWWW88Y21XW112WWWY71XWWWW167Y18XWWWWWWW&sn=Random%20Squad&obs=
-Duff_N_Stuff#2,resistance,20,7,5,17,0,0,3,4.0,https://raithos.github.io/?f=Resistance&d=v8ZsZ200Z351X126W178W10WW191WW205W247Y378X127W102WWW106W108W315Y256X117W197W109W175WW171W13&sn=Unsaved%20Squadron&obs=
+Duff_N_Stuff#2,resistance,20,7,5,17,0,0,3,4.0,https://raithos.github.io/?f=Resistance&d=v8ZsZ200Z351X126W178W10WW191WW205W247Y378X127W102WWW108W106W315Y256X117W197W109W175WW171W13&sn=Unsaved%20Squadron&obs=
 duhtch#1,scumandvillainy,28,12,11,4,0,0,5,3.4,https://raithos.github.io/?f=Scum%20and%20Villainy&d=v8ZsZ200Z113XWW68WWW236WY83XW240WWWWWW151Y140XWWWWWY121XWWWWWY96X&sn=Random%20Squad&obs=
 duhtch#2,galacticrepublic,22,8,5,9,0,0,3,3.6666666666666665,https://raithos.github.io/?f=Galactic%20Republic&d=v8ZsZ200Z313X212W2WW105Y341X234W54W89W226WY338XW134WWW214W&sn=Random%20Squad&obs=
 Duke of Hobbies#1,rebelalliance,20,8,8,9,0,0,4,3.25,https://raithos.github.io/?f=Rebel%20Alliance&d=v8ZsZ200Z17X136W98W100W77W18WW316W247Y15X165Y54XW311WY56XWW&sn=Random%20Squad&obs=
@@ -313,8 +337,12 @@ FanKiyoshi#1,firstorder,22,10,7,5,0,0,3,3.3333333333333335,https://raithos.githu
 FanKiyoshi#2,resistance,31,10,6,7,1,6,4,2.5,https://raithos.github.io/?f=Resistance&d=v8ZsZ200Z293X114WW53WW187WWWY346XWWW54WW190W106Y257XWWW175WWWY349XWWW&sn=Random%20Squad&obs=
 Farreg#1,rebelalliance,25,9,5,13,1,3,3,1.3333333333333333,https://raithos.github.io/?f=Rebel%20Alliance&d=v8ZsZ200Z1XWW249W142Y0X92W134W0W166W142Y45XW76W35W19W107W166W154&sn=Random%20Squad&obs=
 Farreg#2,galacticrepublic,16,8,11,6,0,0,4,4.0,https://raithos.github.io/?f=Galactic%20Republic&d=v8ZsZ200Z333X131W240W214WY277X250WWW247Y312XWWWY277X74WWW&sn=Random%20Squad&obs=
+Fengel#1,galacticempire,24,10,9,5,0,0,4,3.25,https://raithos.github.io/?f=Galactic%20Empire&d=v8ZsZ200Z170X74WWY180XWWY204XWWWWWWWY168X240WW27WW165W162&sn=Random%20Squad&obs=
+Fengel#2,resistance,26,8,5,10,1,5,3,4.0,https://raithos.github.io/?f=Resistance&d=v8ZsZ200Z380X100WWW165W106W315Y250XWW246WW189WW71WY231X116WWW175W178WW&sn=Random%20Squad&obs=
 Fez#1,resistance,27,11,11,4,0,0,5,3.8,https://raithos.github.io/?f=Resistance&d=v8ZsZ200Z239XWW100W206Y377X118WWWWWWY380XWWWWWY299XWWW175WWWY350XWWW&sn=Random%20Squad&obs=
 Fez#2,galacticrepublic,25,9,8,5,0,0,4,3.25,https://raithos.github.io/?f=Galactic%20Republic&d=v8ZsZ200Z313X74W214W200WY274XWWWY361XW135WW4WWY339XWWWW&sn=Random%20Squad&obs=
+Finsdale#1,scumandvillainy,24,11,11,11,0,0,5,3.2,https://raithos.github.io/?f=Scum%20and%20Villainy&d=v8ZsZ200Z109XW240W42W95W164W155W13Y156X133W100W92W109Y93XW16WY247XWY248XW&sn=Random%20Squad&obs=
+Finsdale#2,galacticrepublic,20,8,9,9,0,0,4,3.75,https://raithos.github.io/?f=Galactic%20Republic&d=v8ZsZ200Z277X75W214W200WY317X122WWY366XWW135WWW71WY274X212W226WW247&sn=Random%20Squad&obs=
 fivepoingOMG#1,resistance,29,9,7,9,2,13,4,2.25,https://raithos.github.io/?f=Resistance&d=v8ZsZ200Z295X98WWW189WW109W193Y378XW311W6WWW109W315Y379XWW94WWWY380XWWWWW&sn=Random%20Squad&obs=
 fivepoingOMG#2,galacticrepublic,22,8,8,6,0,0,4,4.0,https://raithos.github.io/?f=Galactic%20Republic&d=v8ZsZ200Z319X98W106Y318X126W311WY273X251WWWY366XWWWW226WW&sn=Random%20Squad&obs=
 flyersfors21#1,galacticrepublic,22,8,8,6,0,0,4,2.75,https://raithos.github.io/?f=Galactic%20Republic&d=v8ZsZ200Z322X126W240W252W135Y330XWW234Y362XWWWWWWY314XW214WW&sn=Random%20Squad&obs=
@@ -340,9 +368,11 @@ Gamblertuba#2,rebelalliance,26,9,3,12,0,0,3,3.3333333333333335,https://raithos.g
 Garran_Crowe#1,scumandvillainy,24,11,10,6,0,0,5,2.2,https://raithos.github.io/?f=Scum%20and%20Villainy&d=v8ZsZ200Z159X99WWY130XW136W98W8WW247Y112XWW69WWWWY304XY157XWWW&sn=Random%20Squad&obs=
 Garran_Crowe#2,separatistalliance,26,10,6,5,0,0,4,2.25,https://raithos.github.io/?f=Separatist%20Alliance&d=v8ZsZ200Z343XWWY334XWW136W217WWW110WW239Y336XWWWW316WWWY279XWW&sn=Random%20Squad&obs=
 Garrett#1,galacticempire,33,9,6,7,1,3,4,2.75,https://raithos.github.io/?f=Galactic%20Empire&d=v8ZsZ200Z187XW138WW100W90WY190X137WW99WW106Y216XWWWWWW249WY162XWWWWW&sn=Random%20Squad&obs=
-Garrett#2,resistance,24,8,7,18,3,2,4,3.5,https://raithos.github.io/?f=Resistance&d=v8ZsZ200Z377X125W100W2W93W236WW315Y378X133WW205W92WW215WY345XWW53W236Y352X206W232W134WW53W196W105&sn=Random%20Squad&obs=
+Garrett#2,resistance,24,8,7,18,4,2,4,3.5,https://raithos.github.io/?f=Resistance&d=v8ZsZ200Z377X125W100W2W93W236WW315Y378X133WW205W92WW215WY345XWW53W236Y352X206W232W134WW53W196W105&sn=Random%20Squad&obs=
 Garrett J#1,firstorder,22,8,6,9,3,7,3,3.3333333333333335,https://raithos.github.io/?f=First%20Order&d=v8ZsZ200Z238X185W318W37W32WW12W114WY243XWWW76W113W236Y235XWW&sn=Random%20Squad&obs=
 Garrett J#2,scumandvillainy,27,12,11,4,1,1,5,2.8,https://raithos.github.io/?f=Scum%20and%20Villainy&d=v8ZsZ200Z249XWY87XWWWWW68WW108Y120XWWW93WWY150XWWWW163WY95XWW&sn=Random%20Squad&obs=
+Gauche#1,resistance,27,10,8,5,0,0,4,3.25,https://raithos.github.io/?f=Resistance&d=v8ZsZ200Z293XWWWW88W67WWY253XW190WW175WW171WY239XWWWY350XWWW&sn=Random%20Squad&obs=
+Gauche#2,galacticempire,24,9,9,8,2,5,4,2.75,https://raithos.github.io/?f=Galactic%20Empire&d=v8ZsZ200Z190X137W311WWWY163X125W113W136WW249WY188X127WWWW88WY197XWWW&sn=Random%20Squad&obs=
 geedogjones#1,galacticrepublic,21,6,4,12,0,0,3,4.666666666666667,https://raithos.github.io/?f=Galactic%20Republic&d=v8ZsZ200Z360X127W137W234W86W2W316W215Y316X118W311WY359X250W138WWW214WW&sn=Random%20Squad&obs=
 geedogjones#2,separatistalliance,23,12,11,4,0,0,5,3.0,https://raithos.github.io/?f=Separatist%20Alliance&d=v8ZsZ200Z306X124WW207WY328XW223W164WY311XWWY358XWY329XWWWW&sn=Random%20Squad&obs=
 GlaDos#1,firstorder,24,11,10,8,1,6,4,2.5,https://raithos.github.io/?f=First%20Order&d=v8ZsZ200Z263X181WWY288X186WWW183W30W13W114WY261X206WY384XWW102W&sn=Random%20Squad&obs=
@@ -357,38 +387,52 @@ Greg Smith#1,rebelalliance,24,11,8,6,0,0,4,3.75,https://raithos.github.io/?f=Reb
 Greg Smith#2,firstorder,20,9,10,9,3,6,4,3.5,https://raithos.github.io/?f=First%20Order&d=v8ZsZ200Z263XW186W108Y385XW202WW86W111WY384XWW102W249Y242XWWW88WW166&sn=Random%20Squad&obs=
 gregkash#1,galacticempire,25,9,8,10,2,9,4,3.0,https://raithos.github.io/?f=Galactic%20Empire&d=v8ZsZ200Z184X125WW37W164Y164X114W134W102WW139WWY207XW234W97WWWWW249Y218XW&sn=Random%20Squad&obs=
 gregkash#2,resistance,25,9,8,14,1,1,4,1.75,https://raithos.github.io/?f=Resistance&d=v8ZsZ200Z379XW245W92W236W165WY378X256WW196W94W165W104W315Y348XW192WY255X2WW175W206WW&sn=Random%20Squad&obs=
+Gremz#1,rebelalliance,25,9,4,6,0,0,3,3.6666666666666665,https://raithos.github.io/?f=Rebel%20Alliance&d=v8ZsZ200Z46XWW56WWW156Y392XWWW137W65WWW81WY8XWWWW142&sn=Random%20Squad&obs=
+Gremz#2,separatistalliance,24,11,8,8,0,0,4,2.75,https://raithos.github.io/?f=Separatist%20Alliance&d=v8ZsZ200Z358XW115Y308X220WW229Y335XW13W234W32W53WWW216WY279XWW&sn=Random%20Squad&obs=
+GSPaintcast#1,galacticrepublic,25,9,8,9,0,0,4,3.5,https://raithos.github.io/?f=Galactic%20Republic&d=v8ZsZ200Z321XW105Y338X126W234WW253WW164Y321XW164Y312X72W252W200W&sn=Random%20Squad&obs=
+GSPaintcast#2,separatistalliance,24,11,8,7,1,3,4,3.5,https://raithos.github.io/?f=Separatist%20Alliance&d=v8ZsZ200Z311XWWY305X132W223WW229Y335XW11WWWWW249W216WY354XW248&sn=Random%20Squad&obs=
 Harri Sharp#1,galacticrepublic,26,9,7,4,1,7,4,4.0,https://raithos.github.io/?f=Galactic%20Republic&d=v8ZsZ200Z315XW102WY341X134WWWWY366XWWW86WWWY278X212WWW&sn=Random%20Squad&obs=
 Harri Sharp#2,scumandvillainy,31,13,11,8,0,0,6,2.0,https://raithos.github.io/?f=Scum%20and%20Villainy&d=v8ZsZ200Z158X125W99WWY158X126W99W93WY230X43W71W94WWWY159XWWY145XWWWWWWWY159XWW&sn=Random%20Squad&obs=
-Helpme87#1,resistance,27,11,10,13,3,9,5,2.2,https://raithos.github.io/?f=Resistance&d=v8ZsZ200Z380X101W2W95W166W108W315Y348X206WWY379X100W231W92WW108WY256X133WWW175WWWY345XWWW&sn=Random%20Squad&obs=
+Helpme87#1,resistance,27,11,10,13,4,9,5,2.2,https://raithos.github.io/?f=Resistance&d=v8ZsZ200Z380X101W2W95W166W108W315Y348X206WWY379X100W231W92WW108WY256X133WWW175WWWY345XWWW&sn=Random%20Squad&obs=
 Helpme87#2,rebelalliance,25,7,5,8,0,0,3,4.0,https://raithos.github.io/?f=Rebel%20Alliance&d=v8ZsZ200Z393XW99W81W21WWWW154Y17XWWW88W32W317WW104Y13XW&sn=Random%20Squad&obs=
 HeretikalOrca#1,firstorder,16,8,9,9,1,1,3,3.0,https://raithos.github.io/?f=First%20Order&d=v8ZsZ200Z233X256W202W108Y286X202W134W102Y386X186W136W99&sn=Random%20Squad&obs=
 HeretikalOrca#2,galacticrepublic,30,10,9,4,0,0,5,3.2,https://raithos.github.io/?f=Galactic%20Republic&d=v8ZsZ200Z363X137W134WWW68WY320XW102WY331XWWWY360XWWWWWWY312XWWW&sn=Random%20Squad&obs=
+herschet#1,galacticrepublic,20,8,8,9,0,0,4,2.75,https://raithos.github.io/?f=Galactic%20Republic&d=v8ZsZ200Z331X116W240WW136Y315XW102W166Y318X123W101WY330XW233W135&sn=Random%20Squad&obs=
+herschet#2,rebelalliance,22,9,9,8,0,0,4,3.25,https://raithos.github.io/?f=Rebel%20Alliance&d=v8ZsZ200Z24XW234W7WY27X116W137W136WW164W68WY54XWW166Y15X&sn=Random%20Squad&obs=
 higgo#1,galacticrepublic,31,10,8,6,0,0,5,2.4,https://raithos.github.io/?f=Galactic%20Republic&d=v8ZsZ200Z317XWW106Y362XW137W136WW37WWY364XWWW225WWWY323XWW234Y319XW&sn=Random%20Squad&obs=
-higgo#2,resistance,27,9,7,13,2,9,4,2.75,https://raithos.github.io/?f=Resistance&d=v8ZsZ200Z377XWW2W95WWW315Y380X101W197WWWWY347X198W232WW188W243WWY255X196WW175WW171W99&sn=Random%20Squad&obs=
+higgo#2,resistance,27,9,7,13,3,9,4,2.75,https://raithos.github.io/?f=Resistance&d=v8ZsZ200Z377XWW2W95WWW315Y380X101W197WWWWY347X198W232WW188W243WWY255X196WW175WW171W99&sn=Random%20Squad&obs=
 Hobologist#1,scumandvillainy,27,11,8,4,0,0,4,3.25,https://raithos.github.io/?f=Scum%20and%20Villainy&d=v8ZsZ200Z122X102WWWWY84XWWW12WWW247WY88XWWWWWWY119XW98WWWW&sn=Random%20Squad&obs=
 Hobologist#2,rebelalliance,26,10,6,8,0,0,4,3.5,https://raithos.github.io/?f=Rebel%20Alliance&d=v8ZsZ200Z56X115W311WY2X132W136W7W108W142Y58XWWWY25XWWW3WWW&sn=Random%20Squad&obs=
 hockeydude41#1,rebelalliance,27,10,8,3,0,0,4,3.75,https://raithos.github.io/?f=Rebel%20Alliance&d=v8ZsZ200Z52XWW101Y79X118W136WWWWY29XWWWWWWY21XWWWW&sn=Random%20Squad&obs=
 hockeydude41#2,firstorder,28,10,5,7,1,1,3,1.0,https://raithos.github.io/?f=First%20Order&d=v8ZsZ200Z290X318WY238X186W185WW180W179W12WW108Y281XWWWWWWW&sn=Random%20Squad&obs=
 Howard Bsky#1,rebelalliance,31,10,6,5,0,0,4,2.25,https://raithos.github.io/?f=Rebel%20Alliance&d=v8ZsZ200Z64XW113W138WWWW76WY18XWW100W86WWWWY13XWY72XWWWW&sn=Random%20Squad&obs=
 Howard Bsky#2,galacticrepublic,28,10,9,4,0,0,5,2.6,https://raithos.github.io/?f=Galactic%20Republic&d=v8ZsZ200Z317XW101WY330XW213WY319X100W109Y366XWWWWWWY323XWW&sn=Random%20Squad&obs=
+Humptydumpty96#1,separatistalliance,24,13,12,12,1,3,6,1.8333333333333333,https://raithos.github.io/?f=Separatist%20Alliance&d=v8ZsZ200Z309X100WWY305X117W220W249W229Y279X100WW165Y310X98W208WY279X100W208W165Y310XWW&sn=Random%20Squad&obs=
+Humptydumpty96#2,resistance,29,10,7,8,1,7,4,1.75,https://raithos.github.io/?f=Resistance&d=v8ZsZ200Z260XW206WW90W189WWW106Y348XW243WY296XWW175WWW99Y380XW205WWWW&sn=Random%20Squad&obs=
 Hunter Borys#1,rebelalliance,27,10,6,5,0,0,4,3.5,https://raithos.github.io/?f=Rebel%20Alliance&d=v8ZsZ200Z20X134W99W98WWW235WWY12XWWWWW142Y58XWWWY55XWW&sn=Random%20Squad&obs=
 Hunter Borys#2,firstorder,26,11,10,6,0,0,4,2.75,https://raithos.github.io/?f=First%20Order&d=v8ZsZ200Z265X202WY282XWWWW194W10WW106Y287XWW135WY235X132WW&sn=Random%20Squad&obs=
 Ian#1,resistance,21,7,5,16,0,0,3,4.0,https://raithos.github.io/?f=Resistance&d=v8ZsZ200Z296X312WW175W178W171W12Y351X123W198W12W134W188W246W205W109Y377XW102W197WW109WW&sn=Random%20Squad&obs=
 Ian#2,rebelalliance,23,8,6,4,1,1,3,4.0,https://raithos.github.io/?f=Rebel%20Alliance&d=v8ZsZ200Z43XWW90WWW236WWY56XWW109Y21XW111WWW&sn=Random%20Squad&obs=
 idletauntaun#1,scumandvillainy,23,10,9,7,0,0,4,3.75,https://raithos.github.io/?f=Scum%20and%20Villainy&d=v8ZsZ200Z127XWWWWW160Y98X125W134Y157XWW91WY156XW98W92W164&sn=Random%20Squad&obs=
 idletauntaun#2,rebelalliance,28,10,6,4,0,0,4,3.25,https://raithos.github.io/?f=Rebel%20Alliance&d=v8ZsZ200Z64XWW137WW48WWWY47XWWWWWY70X75WWWW167Y55XWW&sn=Random%20Squad&obs=
+ILLICIT#1,scumandvillainy,29,10,7,5,1,6,4,3.5,https://raithos.github.io/?f=Scum%20and%20Villainy&d=v8ZsZ200Z149XW114WW247WY156XWWWY92XWWWWWWY144XWWW78WWWW149WW9&sn=Random%20Squad&obs=
+ILLICIT#2,firstorder,22,9,6,10,0,0,3,4.0,https://raithos.github.io/?f=First%20Order&d=v8ZsZ200Z382X118W186W311W166Y282X185W202W183W37W30WW113WY285XWWWWW&sn=Random%20Squad&obs=
 Ilov3cupcak3s#1,firstorder,22,8,6,9,1,1,3,4.333333333333333,https://raithos.github.io/?f=First%20Order&d=v8ZsZ200Z238X202WW180W54W37W13W112W108Y397X126W318WWWWY233XWW&sn=Random%20Squad&obs=
 Ilov3cupcak3s#2,scumandvillainy,35,9,6,6,0,0,4,2.75,https://raithos.github.io/?f=Scum%20and%20Villainy&d=v8ZsZ200Z400XW10WWW96WW159WY88X137WWW2W316WWY115XWWWWWWWY130XWWWWW&sn=Random%20Squad&obs=
 IMpintobeanz#1,scumandvillainy,24,10,8,4,0,0,4,2.75,https://raithos.github.io/?f=Scum%20and%20Villainy&d=v8ZsZ200Z114XWWWW165W156Y148X256W240WWWY156XWWWY111XWWWW&sn=Random%20Squad&obs=
 IMpintobeanz#2,resistance,25,9,8,6,0,0,4,3.25,https://raithos.github.io/?f=Resistance&d=v8ZsZ200Z377XWW195WWWWY350X131W206W245WY244X199WWWWWWWY301XWW198&sn=Random%20Squad&obs=
 Interceptor#1,firstorder,29,10,5,9,0,0,3,3.0,https://raithos.github.io/?f=First%20Order&d=v8ZsZ200Z288XWW194WWW13W112W164Y266X124W186WY288XWWW180WW10WW103&sn=Random%20Squad&obs=
 Interceptor#2,galacticrepublic,25,8,7,8,1,3,4,4.0,https://raithos.github.io/?f=Galactic%20Republic&d=v8ZsZ200Z312X75WW200WY332X118WW233W134Y365X119WW135WWWW249Y360XWWWWWW&sn=Random%20Squad&obs=
+intoxicatedALF#1,resistance,29,9,7,11,0,0,4,3.25,https://raithos.github.io/?f=Resistance&d=v8ZsZ200Z389XW113W206W191WWWWW110Y378XW102WW91WW108W315Y379XW230W92WW164WY349XWWW&sn=Random%20Squad&obs=
+intoxicatedALF#2,separatistalliance,29,12,10,5,0,0,5,3.4,https://raithos.github.io/?f=Separatist%20Alliance&d=v8ZsZ200Z358XW115Y325XW221WW236WY335XWWWW217WWWWY327XWWWW237Y327XWWWW&sn=Random%20Squad&obs=
 irishspring4545#1,rebelalliance,26,9,6,7,2,15,4,3.25,https://raithos.github.io/?f=Rebel%20Alliance&d=v8ZsZ200Z78XW135W40W84WWY49X316WW108WW156Y55XWWY28X127WWWWWW&sn=Random%20Squad&obs=
 irishspring4545#2,galacticrepublic,27,9,6,10,1,2,4,3.25,https://raithos.github.io/?f=Galactic%20Republic&d=v8ZsZ200Z366X129W137W134WWW316W109Y317X122WWY331X117W113WWY341XW59W88WW&sn=Random%20Squad&obs=
 JaceS#1,firstorder,22,9,6,7,1,2,3,3.0,https://raithos.github.io/?f=First%20Order&d=v8ZsZ200Z384X131W178WW109Y385X181WWW88WW109Y238XWW32WWWWW&sn=Random%20Squad&obs=
 JaceS#2,separatistalliance,25,10,7,7,0,0,4,1.75,https://raithos.github.io/?f=Separatist%20Alliance&d=v8ZsZ200Z307XWWY329X112W224WWWY336X13WW32W219W316WWWY328XW222WW&sn=Random%20Squad&obs=
 jagsba#1,galacticrepublic,26,9,7,10,1,7,4,3.0,https://raithos.github.io/?f=Galactic%20Republic&d=v8ZsZ200Z320X125WW164Y332X116W240W5W135Y321X99W165Y339XW217W86WW&sn=Random%20Squad&obs=
 jagsba#2,galacticempire,22,10,10,7,1,2,4,3.75,https://raithos.github.io/?f=Galactic%20Empire&d=v8ZsZ200Z174X128W112W98WY180X132WWY166X113W12WW60WWY171XWW&sn=Random%20Squad&obs=
+Jake Costello#1,galacticempire,25,11,7,6,0,0,4,4.25,https://raithos.github.io/?f=Galactic%20Empire&d=v8ZsZ200Z187XW138WWWW166Y165XW10WWW164WY211X128WW70WY201XWWW&sn=Random%20Squad&obs=
+Jake Costello#2,rebelalliance,27,11,6,5,0,0,4,3.0,https://raithos.github.io/?f=Rebel%20Alliance&d=v8ZsZ200Z69XWWW3WY68XWW137W167Y64X134WWWWWWWY56XW98W&sn=Random%20Squad&obs=
 JamaicanLumberjack#1,separatistalliance,24,10,8,9,0,0,4,3.5,https://raithos.github.io/?f=Separatist%20Alliance&d=v8ZsZ200Z327X134W98WWWY335X132W13W135WWW71W103WW239Y356XWY326XWW70WW&sn=Random%20Squad&obs=
 JamaicanLumberjack#2,galacticempire,18,8,6,11,3,13,3,4.333333333333333,https://raithos.github.io/?f=Galactic%20Empire&d=v8ZsZ200Z211X133WWW108Y169X251W114W98Y166X114W10W15W32W109W162&sn=Random%20Squad&obs=
 jamaljohar#1,scumandvillainy,28,11,11,6,0,0,5,2.4,https://raithos.github.io/?f=Scum%20and%20Villainy&d=v8ZsZ200Z88XW135WWW316WWY136X121W106W102Y135X131WWY303XY130XWWWWW&sn=Random%20Squad&obs=
@@ -403,6 +447,8 @@ Jared M Paul#1,galacticempire,22,9,10,5,0,0,4,3.75,https://raithos.github.io/?f=
 Jared M Paul#2,rebelalliance,26,11,10,4,0,0,5,2.8,https://raithos.github.io/?f=Rebel%20Alliance&d=v8ZsZ200Z70X75W21WW2WY53XW101Y75XWWWWWWY55XWWY48XWWWWW&sn=Random%20Squad&obs=
 Jared Mackert#1,separatistalliance,24,10,7,8,0,0,4,2.5,https://raithos.github.io/?f=Separatist%20Alliance&d=v8ZsZ200Z335XWW136WW30WW165WW239Y344X131WWWY337X101WWY328X113WWW237&sn=Random%20Squad&obs=
 Jared Mackert#2,resistance,31,9,4,7,0,0,3,3.3333333333333335,https://raithos.github.io/?f=Resistance&d=v8ZsZ200Z389XWW206WW86WWWW106Y291XWW188WWW67WWY252XW195WW175WWW&sn=Random%20Squad&obs=
+Jarval#1,firstorder,17,7,8,9,0,0,3,4.666666666666667,https://raithos.github.io/?f=First%20Order&d=v8ZsZ200Z266X119WW164Y242X127W206W100W86W112WY236XW177W135W&sn=Random%20Squad&obs=
+Jarval#2,galacticrepublic,24,9,7,7,0,0,4,3.0,https://raithos.github.io/?f=Galactic%20Republic&d=v8ZsZ200Z319X102W109Y333XW113WW234Y280X136W54WWWY321XW106&sn=Random%20Squad&obs=
 Jazz#1,firstorder,19,10,10,6,1,1,4,4.0,https://raithos.github.io/?f=First%20Order&d=v8ZsZ200Z382X319WW100W247Y384XWWW236Y243XWWWW240WY259X206WWWW&sn=Random%20Squad&obs=
 Jazz#2,separatistalliance,23,14,13,5,0,0,6,2.6666666666666665,https://raithos.github.io/?f=Separatist%20Alliance&d=v8ZsZ200Z311XW208WY356XWY310X209WWY324X135W100W71WWY305XWWWY309XWW&sn=Random%20Squad&obs=
 JBark#1,scumandvillainy,30,11,10,3,0,0,5,3.4,https://raithos.github.io/?f=Scum%20and%20Villainy&d=v8ZsZ200Z302X256WY110XWWWW110WY249XWY158XWWWY90XW311WWWWWW&sn=Random%20Squad&obs=
@@ -419,6 +465,8 @@ Jeff Mc#1,galacticrepublic,22,8,8,10,1,1,4,3.0,https://raithos.github.io/?f=Gala
 Jeff Mc#2,separatistalliance,26,12,10,3,1,1,5,2.4,https://raithos.github.io/?f=Separatist%20Alliance&d=v8ZsZ200Z355XW236Y272XWWWWWWWW222Y279XWWY328XWW164WY337XWW&sn=Random%20Squad&obs=
 Jeff W#1,firstorder,26,11,10,6,2,4,4,2.5,https://raithos.github.io/?f=First%20Order&d=v8ZsZ200Z265X177W236Y268X177WY251X202WWWWWW111W249Y283XWWW&sn=Random%20Squad&obs=
 Jeff W#2,scumandvillainy,26,10,8,8,2,3,4,3.25,https://raithos.github.io/?f=Scum%20and%20Villainy&d=v8ZsZ200Z154X122WW101WWW88WWW150Y148XW112W234W236WY95X125WWY113XWWWWWW&sn=Random%20Squad&obs=
+Jek#1,galacticempire,23,9,8,10,1,8,4,3.25,https://raithos.github.io/?f=Galactic%20Empire&d=v8ZsZ200Z190XW101WW76W166Y203XW234WWWWW71WY211X124WW70W165Y164XW135WWW139WW&sn=Random%20Squad&obs=
+Jek#2,firstorder,26,10,9,7,0,0,4,2.75,https://raithos.github.io/?f=First%20Order&d=v8ZsZ200Z385XW202WW182WWY288X318WWWWW10W112WY267X133WWY268X318W&sn=Random%20Squad&obs=
 Jello_Knight#1,galacticrepublic,21,9,8,10,0,0,4,3.75,https://raithos.github.io/?f=Galactic%20Republic&d=v8ZsZ200Z331X116W240W6WY314X203W213W201W211Y316X123WWY317X124W101W&sn=Random%20Squad&obs=
 Jello_Knight#2,resistance,28,9,8,7,0,0,4,3.5,https://raithos.github.io/?f=Resistance&d=v8ZsZ200Z387X125W131WW186Y380X102WWWWWY379XWWW165W166WY245XWWW243WWWW&sn=Random%20Squad&obs=
 Jeremy Wilson#1,firstorder,26,10,9,7,0,0,4,3.5,https://raithos.github.io/?f=First%20Order&d=v8ZsZ200Z285X125W177W101W86W240WY289X206WWW30WWWWY233XWWY268XW&sn=Random%20Squad&obs=
@@ -441,7 +489,7 @@ Johnn Crane#1,resistance,28,9,7,8,0,0,4,2.75,https://raithos.github.io/?f=Resist
 Johnn Crane#2,firstorder,27,11,10,6,0,0,4,1.5,https://raithos.github.io/?f=First%20Order&d=v8ZsZ200Z290XW164Y251X318WW30WW183W232W113WY286XWWY269XW&sn=Random%20Squad&obs=
 JonBabcock#1,firstorder,22,9,6,6,1,6,3,3.6666666666666665,https://raithos.github.io/?f=First%20Order&d=v8ZsZ200Z259XWWWWY251X318W185WW184WW232W114WY382XW178WW&sn=Random%20Squad&obs=
 JonBabcock#2,separatistalliance,25,12,10,6,1,6,5,2.4,https://raithos.github.io/?f=Separatist%20Alliance&d=v8ZsZ200Z329X114WW311W108W237Y309XWWY334XWWW59WWW110WWY356XWY310XWW&sn=Random%20Squad&obs=
-Josef R#1,scumandvillainy,29,10,10,6,1,1,5,3.8,https://raithos.github.io/?f=Scum%20and%20Villainy&d=v8ZsZ200Z157XW98WW247Y93XWW236Y115X120WW11W31WWWWY398XWWWY118XWWWWWW&sn=Random%20Squad&obs=
+Josef R#1,rebelalliance,23,11,8,6,0,0,4,4.25,https://raithos.github.io/?f=Rebel%20Alliance&d=v8ZsZ200Z51XW127WY65X127WWWW167Y80XW234WW81WWY5XWWWW142&sn=Random%20Squad&obs=
 Josef R#2,resistance,29,9,7,4,0,0,4,3.25,https://raithos.github.io/?f=Resistance&d=v8ZsZ200Z346XW11WWWWWY246X132WWW244W76WWWY271XWWWY377XWWWWWW&sn=Random%20Squad&obs=
 Josh#1,galacticrepublic,27,9,6,9,2,5,4,3.0,https://raithos.github.io/?f=Galactic%20Republic&d=v8ZsZ200Z366X119W137W234WWW69W249Y331X132WWW135Y341XWW88W2WY323XWW&sn=Random%20Squad&obs=
 Josh#2,galacticempire,35,11,6,3,0,0,4,2.0,https://raithos.github.io/?f=Galactic%20Empire&d=v8ZsZ200Z216XWWWWWWW147Y167X112WWW27WWY213XWWY178XWW&sn=Random%20Squad&obs=
@@ -473,6 +521,8 @@ KFull#1,rebelalliance,24,10,9,8,1,6,4,3.0,https://raithos.github.io/?f=Rebel%20A
 KFull#2,galacticrepublic,21,8,9,3,0,0,4,4.75,https://raithos.github.io/?f=Galactic%20Republic&d=v8ZsZ200Z278XWW200WY312XWWWY318X132WW166Y359XWWWWWW&sn=Random%20Squad&obs=
 Khaaannn#1,scumandvillainy,26,10,7,14,1,1,4,3.25,https://raithos.github.io/?f=Scum%20and%20Villainy&d=v8ZsZ200Z144X124W137WW90W69WW164W149W113W4Y94XWW106Y123XW102W94WW164WY95X133WW108&sn=Random%20Squad&obs=
 Khaaannn#2,galacticrepublic,21,8,9,4,0,0,4,5.0,https://raithos.github.io/?f=Galactic%20Republic&d=v8ZsZ200Z359XW137W135WW214WWY275XWWWY312XWWW166Y316XWW&sn=Random%20Squad&obs=
+khellendros#1,galacticrepublic,24,9,7,12,2,2,4,2.75,https://raithos.github.io/?f=Galactic%20Republic&d=v8ZsZ200Z276X203WW201W236Y362XW137W234W88W254W70W108Y317X115W102WY318XWW108&sn=Random%20Squad&obs=
+khellendros#2,galacticempire,30,9,8,8,1,7,4,2.25,https://raithos.github.io/?f=Galactic%20Empire&d=v8ZsZ200Z208X134W98WW86WW67W164Y172XW111WY215XWW38WWWWWW147Y229X&sn=Random%20Squad&obs=
 Kimberly Colas#1,rebelalliance,20,6,3,12,0,0,2,2.5,https://raithos.github.io/?f=Rebel%20Alliance&d=v8ZsZ200Z17X234WW238W88W44W67WW110Y41X102W77W58W164W157W93&sn=Random%20Squad&obs=
 Kimberly Colas#2,resistance,26,10,8,6,0,0,4,3.75,https://raithos.github.io/?f=Resistance&d=v8ZsZ200Z347X186WW136WWWWY270XWWW206Y256XW196WW175WWWY297XWWW175WWW&sn=Random%20Squad&obs=
 kken#1,firstorder,20,10,12,3,0,0,4,3.25,https://raithos.github.io/?f=First%20Order&d=v8ZsZ200Z235XWWY284XW178W135WY283XW177WWY262XWW&sn=Random%20Squad&obs=
@@ -499,6 +549,8 @@ Lee 7 Suns#1,firstorder,20,10,7,7,1,6,3,2.6666666666666665,https://raithos.githu
 Lee 7 Suns#2,rebelalliance,27,10,7,4,0,0,4,2.75,https://raithos.github.io/?f=Rebel%20Alliance&d=v8ZsZ200Z58XW65WW249Y49XWWWW156Y24X113WWWY28XWWWWWW&sn=Random%20Squad&obs=
 Legionthree#1,scumandvillainy,32,12,7,1,0,0,4,2.75,https://raithos.github.io/?f=Scum%20and%20Villainy&d=v8ZsZ200Z122XWWWWY110XWWWWWY111XWW96WWY84XWWWWWWW&sn=Random%20Squad&obs=
 Legionthree#2,rebelalliance,23,7,5,11,2,4,3,2.6666666666666665,https://raithos.github.io/?f=Rebel%20Alliance&d=v8ZsZ200Z45XWW21W17W236WW154Y71XWW249W2WY46X132W68WW105W249W156&sn=Random%20Squad&obs=
+lepanto#1,resistance,26,9,5,10,0,0,3,2.6666666666666665,https://raithos.github.io/?f=Resistance&d=v8ZsZ200Z297X117W2WW175WWWY291XW198W30WWWW69W110Y296XWW175W178WW102&sn=Random%20Squad&obs=
+lepanto#2,galacticempire,29,9,8,4,0,0,4,3.0,https://raithos.github.io/?f=Galactic%20Empire&d=v8ZsZ200Z175XWW311WY216XW24WWW82W317WWY187XWWWWWY226X&sn=Random%20Squad&obs=
 Liritar5203#1,galacticempire,34,11,10,3,0,0,5,2.4,https://raithos.github.io/?f=Galactic%20Empire&d=v8ZsZ200Z206XWW102WWW235WY178XWWY208XWWWWWWY165XWWW38WWY164XWWWW&sn=Random%20Squad&obs=
 Liritar5203#2,separatistalliance,23,8,5,9,0,0,3,2.0,https://raithos.github.io/?f=Separatist%20Alliance&d=v8ZsZ200Z308XW165W229Y334XWW135W217W32WW166W216W223Y324XWW235WW&sn=Random%20Squad&obs=
 Lonailan#1,galacticrepublic,28,9,6,5,0,0,4,3.75,https://raithos.github.io/?f=Galactic%20Republic&d=v8ZsZ200Z332XW113W6W134Y333XWWW234Y342XWWWWW164Y362XWWWWWW&sn=Random%20Squad&obs=
@@ -551,14 +603,14 @@ Mecaflux#1,firstorder,26,10,9,8,0,0,4,2.5,https://raithos.github.io/?f=First%20O
 Mecaflux#2,scumandvillainy,22,11,13,6,0,0,5,3.2,https://raithos.github.io/?f=Scum%20and%20Villainy&d=v8ZsZ200Z83X119W240WW11W316WWW151Y248X121WY158XWWWY156XWWWY249XW&sn=Random%20Squad&obs=
 Medaps#1,separatistalliance,22,11,8,5,0,0,4,4.0,https://raithos.github.io/?f=Separatist%20Alliance&d=v8ZsZ200Z305X124WWWY335XWWWW217WW110W216W223Y357XWY343XWW&sn=Random%20Squad&obs=
 Medaps#2,firstorder,32,12,8,7,1,3,4,2.25,https://raithos.github.io/?f=First%20Order&d=v8ZsZ200Z268XW106Y251X186WW183WW59W11W240W249Y269XWY288XWWWWWWW&sn=Random%20Squad&obs=
-Mefaze#1,scumandvillainy,21,10,8,11,1,1,4,2.75,https://raithos.github.io/?f=Scum%20and%20Villainy&d=v8ZsZ200Z131X126W134W99W9W95W236Y98X118W234Y159X100W91WY95XW47W&sn=Random%20Squad&obs=
-Mefaze#2,resistance,27,7,3,7,0,0,3,2.6666666666666665,https://raithos.github.io/?f=Resistance&d=v8ZsZ200Z352XWW136W242W192WW109Y244XWW244WW86WWWY346XW13WWWWW&sn=Random%20Squad&obs=
 MegaSilver#1,firstorder,20,10,7,9,0,0,3,3.3333333333333335,https://raithos.github.io/?f=First%20Order&d=v8ZsZ200Z384X118WW101WY289X202WW37WW32WW240WY383X125W177W98W&sn=Random%20Squad&obs=
 MegaSilver#2,separatistalliance,21,10,8,15,0,0,4,2.5,https://raithos.github.io/?f=Separatist%20Alliance&d=v8ZsZ200Z343X224W208W164Y279X224W208W166Y336X10W234W32W53W68WW216W223Y354X115W255&sn=Random%20Squad&obs=
 Merrick#1,galacticempire,28,10,6,9,2,6,4,2.5,https://raithos.github.io/?f=Galactic%20Empire&d=v8ZsZ200Z162XW114W135WW108W144WY186X49WWY183XW30WWY188X256W138WW102WW&sn=Random%20Squad&obs=
 Merrick#2,scumandvillainy,34,10,6,2,0,0,4,3.5,https://raithos.github.io/?f=Scum%20and%20Villainy&d=v8ZsZ200Z86X115WWWWWWWY126XWWWWWY153XWWWWWW92WWY96X&sn=Random%20Squad&obs=
 Michau#1,resistance,30,10,9,6,2,8,5,3.2,https://raithos.github.io/?f=Resistance&d=v8ZsZ200Z349X124W178WW249Y351XWW232WWWW5WY388XWWY378XW98WWWWWY347XWWWWWW&sn=Random%20Squad&obs=
 Michau#2,firstorder,30,10,4,7,0,0,3,3.0,https://raithos.github.io/?f=First%20Order&d=v8ZsZ200Z282X177WWWW37W13W240WY242XW206W102W86WWY281XWWWWWWW&sn=Random%20Squad&obs=
+MichealZA#1,scumandvillainy,24,8,7,5,0,0,3,2.6666666666666665,https://raithos.github.io/?f=Scum%20and%20Villainy&d=v8ZsZ200Z104X124W13W100WW316WWW146WY399XWY125XWWWWW&sn=Random%20Squad&obs=
+MichealZA#2,galacticrepublic,23,8,7,9,0,0,4,3.5,https://raithos.github.io/?f=Galactic%20Republic&d=v8ZsZ200Z315X126WW211Y359X199W137W136W227W233W68WY319X99WY321XW&sn=Random%20Squad&obs=
 mightynute#1,galacticrepublic,21,8,8,8,0,0,4,3.25,https://raithos.github.io/?f=Galactic%20Republic&d=v8ZsZ200Z332X133W113W233W136Y323XW252WY364XWWWWWW247Y275X203W214WW&sn=Random%20Squad&obs=
 mightynute#2,rebelalliance,25,9,4,8,0,0,3,5.0,https://raithos.github.io/?f=Rebel%20Alliance&d=v8ZsZ200Z392XWWW137W57WW109W81W148Y9X130WWWW142Y69XWWWW167&sn=Random%20Squad&obs=
 miguel#1,scumandvillainy,26,11,10,5,0,0,5,2.8,https://raithos.github.io/?f=Scum%20and%20Villainy&d=v8ZsZ200Z124XWWWWY113XWW317WW166W106W156Y85XWWWWW317WWY159XWWY248XW&sn=Random%20Squad&obs=
@@ -591,6 +643,10 @@ MrChainsaw#1,scumandvillainy,21,9,11,10,1,6,4,2.5,https://raithos.github.io/?f=S
 MrChainsaw#2,galacticrepublic,23,8,4,10,1,1,3,4.333333333333333,https://raithos.github.io/?f=Galactic%20Republic&d=v8ZsZ200Z360X115W138W134W86W233W235WY312XWW201WY338XWW54WW252W236&sn=Random%20Squad&obs=
 mrdeeds#1,rebelalliance,22,10,6,4,1,2,3,3.6666666666666665,https://raithos.github.io/?f=Rebel%20Alliance&d=v8ZsZ200Z66XWWWW167Y39XWW88WWW157WY34XWWWWW140W&sn=Random%20Squad&obs=
 mrdeeds#2,separatistalliance,30,12,9,4,0,0,5,2.2,https://raithos.github.io/?f=Separatist%20Alliance&d=v8ZsZ200Z329XWW98WW237Y325XWWWWY307XWW229Y309XWWY334XWWWW37WWWW&sn=Random%20Squad&obs=
+MrFaze#1,scumandvillainy,21,10,8,11,1,1,4,2.75,https://raithos.github.io/?f=Scum%20and%20Villainy&d=v8ZsZ200Z131X126W134W99W9W95W236Y98X118W234Y159X100W91WY95XW47W&sn=Random%20Squad&obs=
+MrFaze#2,resistance,27,7,3,7,0,0,3,2.6666666666666665,https://raithos.github.io/?f=Resistance&d=v8ZsZ200Z352XWW136W242W192WW109Y244XWW244WW86WWWY346XW13WWWWW&sn=Random%20Squad&obs=
+MrHedgehogman#1,galacticrepublic,25,9,7,8,2,1,4,2.5,https://raithos.github.io/?f=Galactic%20Republic&d=v8ZsZ200Z321XWY361X137W135WWW70W164Y278X73WW201W236Y330XWW136&sn=Random%20Squad&obs=
+MrHedgehogman#2,scumandvillainy,34,9,7,9,0,0,4,2.5,https://raithos.github.io/?f=Scum%20and%20Villainy&d=v8ZsZ200Z118XW10WW83WW110W159WY91XW64WWWWW152Y146XW53WW69WW164WY302XW&sn=Random%20Squad&obs=
 MrImagineer#1,firstorder,26,10,12,7,1,1,5,3.0,https://raithos.github.io/?f=First%20Order&d=v8ZsZ200Z259XW100W182W111WY243XWWWWWY259XWWW113W108Y235X116W186WY267XWW&sn=Random%20Squad&obs=
 MrImagineer#2,separatistalliance,28,11,9,7,0,0,5,2.6,https://raithos.github.io/?f=Separatist%20Alliance&d=v8ZsZ200Z311XW208WY329XWW311WW237Y334XW12WWWW68WW216WY327XWWW109WY327XWWWW&sn=Random%20Squad&obs=
 mrLBX#1,separatistalliance,25,12,10,5,0,0,5,3.0,https://raithos.github.io/?f=Separatist%20Alliance&d=v8ZsZ200Z311XWWY358XWY335X132WW136WW32WW106W216WY310XWWY327XWWWW&sn=Random%20Squad&obs=
@@ -613,11 +669,15 @@ Nathan Skelly#1,galacticempire,18,9,11,5,0,0,4,4.25,https://raithos.github.io/?f
 Nathan Skelly#2,scumandvillainy,18,9,10,8,1,1,4,3.75,https://raithos.github.io/?f=Scum%20and%20Villainy&d=v8ZsZ200Z148XWW234W166WY93XWW236Y249XW165Y113XW55W69WW106WW156&sn=Random%20Squad&obs=
 Nemes Bal√zs#1,resistance,21,7,6,13,0,0,3,4.0,https://raithos.github.io/?f=Resistance&d=v8ZsZ200Z380X102W197W94W104W109W315Y270X124W123W98WY245XW102W191W173WWWW193&sn=Random%20Squad&obs=
 Nemes Bal√zs#2,firstorder,17,7,7,13,2,8,3,4.333333333333333,https://raithos.github.io/?f=First%20Order&d=v8ZsZ200Z384X181W186W100W165Y243X131W202W311W88W112WY385X125W318W100WW114W&sn=Random%20Squad&obs=
+neuromechanic#1,scumandvillainy,24,11,10,12,0,0,5,2.0,https://raithos.github.io/?f=Scum%20and%20Villainy&d=v8ZsZ200Z109X121W112W59W91W166W155W10Y159X102W93WY158XWW93WY94XW36W247Y399XW&sn=Random%20Squad&obs=
+neuromechanic#2,galacticempire,27,10,7,6,1,7,4,2.5,https://raithos.github.io/?f=Galactic%20Empire&d=v8ZsZ200Z182XWY204XW234W102WW86W70WW164Y184XW33WWY193XWWWWWWW&sn=Random%20Squad&obs=
 Nic Harris#1,resistance,29,9,6,10,2,3,4,2.25,https://raithos.github.io/?f=Resistance&d=v8ZsZ200Z246X124W99W32W53WW94W236WY380XWW95WWW315Y348X178W191WY352XWWWWWW&sn=Random%20Squad&obs=
 Nic Harris#2,firstorder,22,10,10,5,0,0,4,3.0,https://raithos.github.io/?f=First%20Order&d=v8ZsZ200Z384X256W178WWY385XW202W99WW113WY286XWWY242XWWWWW&sn=Random%20Squad&obs=
 Nick Smith#1,firstorder,19,10,11,7,1,3,4,3.75,https://raithos.github.io/?f=First%20Order&d=v8ZsZ200Z384X126WW98W164Y262XWW106Y397XWWWWW249Y384XW186W102W&sn=Random%20Squad&obs=
 Nick Smith#2,galacticrepublic,23,9,8,3,0,0,4,4.25,https://raithos.github.io/?f=Galactic%20Republic&d=v8ZsZ200Z320XW102WY338XW135WW253WWY332XWWWY278XWWW&sn=Random%20Squad&obs=
-NickArrow#1,resistance,32,9,5,8,1,1,4,2.25,https://raithos.github.io/?f=Resistance&d=v8ZsZ200Z346X198W232W234WWW2WY389XWW198WWWW317WW108Y352XWWWWWWY348X186WW&sn=Unsaved%20Squadron&obs=&fbclid=IwAR2_mCL0eB9cyejKPejhHkUU32yLqylxgwe36E1d-Waa4oOk1wB9P_9C70U
+Nick ZA#1,resistance,30,10,7,2,0,0,4,3.5,https://raithos.github.io/?f=Resistance&d=v8ZsZ200Z270X117W133WWY295XWWWWWWY244XWWWWWWWY345XWWW&sn=Random%20Squad&obs=
+Nick ZA#2,separatistalliance,24,11,8,9,0,0,4,3.25,https://raithos.github.io/?f=Separatist%20Alliance&d=v8ZsZ200Z309X98W208WY357X127W116Y307XW109W229Y335XW13WWWW70WW216W&sn=Random%20Squad&obs=
+NickArrow#1,resistance,32,9,5,8,1,1,4,2.25,https://raithos.github.io/?f=Resistance&d=v8ZsZ200Z346X198W232W234WWW2WY389XWW198WWWW317WW108Y352XWWWWWWY348X186WW&sn=Unsaved%20Squadron&obs=
 NickArrow#2,separatistalliance,23,10,7,7,2,8,4,3.0,https://raithos.github.io/?f=Separatist%20Alliance&d=v8ZsZ200Z326XW102WW109WY311XW208W236Y334XWW134WWWWW216W222Y308XWW&sn=Random%20Squad&obs=
 Niklas God#1,scumandvillainy,32,12,9,4,0,0,5,2.6,https://raithos.github.io/?f=Scum%20and%20Villainy&d=v8ZsZ200Z95X125WW164Y132XWW311Y146XWWWWWWY157X126WWWY111XWWWW&sn=Random%20Squad&obs=
 Niklas God#2,galacticempire,26,9,8,9,0,0,4,3.0,https://raithos.github.io/?f=Galactic%20Empire&d=v8ZsZ200Z172XW112WY166XW13WWWW162Y161XW111W136W101WW144W11Y190X138WWWW&sn=Random%20Squad&obs=
@@ -629,6 +689,8 @@ Noah Hallett#1,scumandvillainy,23,12,11,3,0,0,5,2.0,https://raithos.github.io/?f
 Noah Hallett#2,firstorder,28,12,13,4,0,0,5,2.8,https://raithos.github.io/?f=First%20Order&d=v8ZsZ200Z290XW109Y282XWW30WWWWWY261X202W106Y266XWWY267XWW&sn=Random%20Squad&obs=
 Noah Routhier#1,firstorder,14,9,9,6,0,0,3,4.333333333333333,https://raithos.github.io/?f=First%20Order&d=v8ZsZ200Z384X124W318W98WY382X132W202WWY237XW178WW&sn=Random%20Squad&obs=
 Noah Routhier#2,scumandvillainy,34,9,8,9,1,1,4,1.75,https://raithos.github.io/?f=Scum%20and%20Villainy&d=v8ZsZ200Z400XWWW79W93W106WY91X101W36WWW96WWY118X234WWWW93W236WY151XWWW&sn=Random%20Squad&obs=
+oiseaux#1,galacticempire,26,8,8,14,0,0,4,2.5,https://raithos.github.io/?f=Galactic%20Empire&d=v8ZsZ200Z161XW240W234W99W106W139WWY188X132W138W311WW82W165Y164X113W136WWW144W13Y208XWWWWWW&sn=Random%20Squad&obs=
+oiseaux#2,resistance,27,9,8,3,0,0,4,4.0,https://raithos.github.io/?f=Resistance&d=v8ZsZ200Z239XWW99W186Y270XWW102WY246XWWWWWWWY347XWWWWWW&sn=Random%20Squad&obs=
 Old Man Sam#1,galacticempire,26,7,6,7,1,6,3,3.3333333333333335,https://raithos.github.io/?f=Galactic%20Empire&d=v8ZsZ200Z175XW114WW105Y396X133W134WWW54W76W69WWY178XWW&sn=Random%20Squad&obs=
 Old Man Sam#2,firstorder,30,10,4,6,0,0,3,2.0,https://raithos.github.io/?f=First%20Order&d=v8ZsZ200Z285XW318W101WWWY238X177WWW53WWW111WY281XWWWWW12WW&sn=Random%20Squad&obs=
 Old Sarge#1,firstorder,22,10,7,7,0,0,3,4.0,https://raithos.github.io/?f=First%20Order&d=v8ZsZ200Z237X319W206WWY384XWW100W108Y251X185WWWW180W12WW&sn=Random%20Squad&obs=
@@ -651,6 +713,8 @@ pekka#1,rebelalliance,24,10,7,5,0,0,4,3.0,https://raithos.github.io/?f=Rebel%20A
 pekka#2,firstorder,18,11,12,3,0,0,4,3.0,https://raithos.github.io/?f=First%20Order&d=v8ZsZ200Z386X178WWY384XWW98WY384XW177WWY262XWW&sn=Random%20Squad&obs=
 pete lambro#1,galacticrepublic,27,11,11,2,0,0,5,3.6,https://raithos.github.io/?f=Galactic%20Republic&d=v8ZsZ200Z320XW99WY277XWW200WY333XWWWY339XWWWWY275XWWW&sn=Random%20Squad&obs=
 pete lambro#2,scumandvillainy,20,8,7,7,0,0,3,3.6666666666666665,https://raithos.github.io/?f=Scum%20and%20Villainy&d=v8ZsZ200Z126XW64W96WWW160Y147X131WW135WWY143X206WWW93W&sn=Random%20Squad&obs=
+PhilK#1,galacticempire,23,9,9,5,0,0,4,4.0,https://raithos.github.io/?f=Galactic%20Empire&d=v8ZsZ200Z185X50WW164Y394XWWY217XW164Y205XW135WWWW69WW&sn=Random%20Squad&obs=
+PhilK#2,scumandvillainy,23,12,12,6,0,0,5,2.0,https://raithos.github.io/?f=Scum%20and%20Villainy&d=v8ZsZ200Z122XWWW166W247Y143X186WW69W92WY159XWWY249XWY151XWWW163W&sn=Random%20Squad&obs=
 Phillip Pond#1,scumandvillainy,25,12,14,7,0,0,6,2.3333333333333335,https://raithos.github.io/?f=Scum%20and%20Villainy&d=v8ZsZ200Z143XWW68WW249Y94XW30W165Y137X166WY158XW311WW106Y158XWWWY303X&sn=Random%20Squad&obs=
 Phillip Pond#2,firstorder,21,9,11,8,0,0,4,3.5,https://raithos.github.io/?f=First%20Order&d=v8ZsZ200Z242X123W178W102WW113W164Y264X133W186WY283XWWWY267XW178W&sn=Random%20Squad&obs=
 Phoenixfire1138#1,scumandvillainy,15,8,9,6,1,6,3,3.6666666666666665,https://raithos.github.io/?f=Scum%20and%20Villainy&d=v8ZsZ200Z303XY148XW114W136W165W163WY147XW240W136WW&sn=Random%20Squad&obs=
@@ -681,6 +745,8 @@ Quentin Keller#1,galacticempire,29,11,11,7,0,0,5,3.0,https://raithos.github.io/?
 Quentin Keller#2,separatistalliance,22,12,10,6,1,1,4,3.25,https://raithos.github.io/?f=Separatist%20Alliance&d=v8ZsZ200Z356XW133Y358X131WY355XWY336XW135W37WWW236WW223&sn=Random%20Squad&obs=
 R2Whistler#1,galacticempire,17,9,11,6,1,8,4,4.25,https://raithos.github.io/?f=Galactic%20Empire&d=v8ZsZ200Z212X126W76WW164Y174X131W111WWY219XWY394XWW101&sn=Random%20Squad&obs=
 R2Whistler#2,firstorder,22,9,7,8,0,0,3,3.6666666666666665,https://raithos.github.io/?f=First%20Order&d=v8ZsZ200Z282X186W185W32W183W180W232WWY237X118W206WWY268XW&sn=Random%20Squad&obs=
+RangdaBangda#1,resistance,25,9,5,6,0,0,3,3.6666666666666665,https://raithos.github.io/?f=Resistance&d=v8ZsZ200Z296X195WW175W198WW99Y253XW2WW175WWWY244XWWWWWWW&sn=Random%20Squad&obs=
+RangdaBangda#2,firstorder,22,9,7,11,0,0,3,4.0,https://raithos.github.io/?f=First%20Order&d=v8ZsZ200Z287X125WW135W99Y262X115W177W106Y251X186W185W183WWW11W113W&sn=Random%20Squad&obs=
 Raph#1,firstorder,20,9,7,10,2,7,3,4.666666666666667,https://raithos.github.io/?f=First%20Order&d=v8ZsZ200Z383X119W202W101WY282XW186W179WWW232W114W110Y233XW206W108&sn=Random%20Squad&obs=
 Raph#2,rebelalliance,28,8,5,2,0,0,3,3.0,https://raithos.github.io/?f=Rebel%20Alliance&d=v8ZsZ200Z45XWWWWWWY21XWWWWY18XWWW84W46WWW&sn=Random%20Squad&obs=
 RaptorRitter13#1,galacticrepublic,22,8,8,5,1,6,4,4.0,https://raithos.github.io/?f=Galactic%20Republic&d=v8ZsZ200Z274X75W252WWY359XWWWW5W316WY323X114WWY315XWW&sn=Random%20Squad&obs=
@@ -689,6 +755,8 @@ rc4b2#1,scumandvillainy,32,11,8,4,0,0,4,2.5,https://raithos.github.io/?f=Scum%20
 rc4b2#2,separatistalliance,24,10,8,11,1,1,4,2.75,https://raithos.github.io/?f=Separatist%20Alliance&d=v8ZsZ200Z355X118W108Y334XWW135W59W219WW110WW220Y327X134W98WWW237Y327XW100WWW&sn=Random%20Squad&obs=
 RealityLemon#1,galacticempire,24,9,9,11,2,2,4,3.0,https://raithos.github.io/?f=Galactic%20Empire&d=v8ZsZ200Z171XW240W98Y171X73W112WY167X112WW59WW236W162Y207XWWW99WWW317W109&sn=Random%20Squad&obs=
 RealityLemon#2,galacticrepublic,25,10,10,8,2,7,5,3.4,https://raithos.github.io/?f=Galactic%20Republic&d=v8ZsZ200Z318X131WW236Y316XWW211Y319XW166Y322X127W114W252W134Y320XWW&sn=Random%20Squad&obs=
+rearview#1,firstorder,25,11,9,7,3,8,4,3.25,https://raithos.github.io/?f=First%20Order&d=v8ZsZ200Z382X116WWW247Y263XWW236Y259X202WWW114WY289XWW37WWWWW108&sn=Random%20Squad&obs=
+rearview#2,galacticrepublic,23,8,4,14,2,10,3,3.0,https://raithos.github.io/?f=Galactic%20Republic&d=v8ZsZ200Z317X119W101W166Y280X136W59W88W226W211Y340X119W135W54W76W213W106&sn=Random%20Squad&obs=
 RebelJP#1,rebelalliance,27,9,6,8,0,0,4,3.0,https://raithos.github.io/?f=Rebel%20Alliance&d=v8ZsZ200Z391X115W112W11W13W135WWY20XW102WWWWWWY49XWWWWY70X72W59WWW&sn=Random%20Squad&obs=
 RebelJP#2,galacticempire,32,7,3,8,0,0,3,3.3333333333333335,https://raithos.github.io/?f=Galactic%20Empire&d=v8ZsZ200Z192X112W136W98W100WWWW166Y161XWWW98WWY216XWWW59WWW110W&sn=Random%20Squad&obs=
 RebelMando#1,scumandvillainy,31,9,7,6,1,8,4,2.75,https://raithos.github.io/?f=Scum%20and%20Villainy&d=v8ZsZ200Z109XWWWW247WY116XW134WW66WWW109WY91XW54WWWWW152Y303X&sn=Random%20Squad&obs=
@@ -751,6 +819,8 @@ Sam (Tin Sqn)#1,galacticempire,26,10,6,9,1,1,4,2.75,https://raithos.github.io/?f
 Sam (Tin Sqn)#2,resistance,28,10,9,9,3,7,5,2.2,https://raithos.github.io/?f=Resistance&d=v8ZsZ200Z349XW186W59WY378XW99WWW236W109W315Y352XWWWW231W190WY379X99WWWWWY348XWW&sn=Random%20Squad&obs=
 Samuel Melhado#1,rebelalliance,24,8,5,9,2,5,3,3.6666666666666665,https://raithos.github.io/?f=Rebel%20Alliance&d=v8ZsZ200Z17XWWWW40W316WW110Y41XW88WW110WW93Y69X256WWW4W167&sn=Random%20Squad&obs=
 Samuel Melhado#2,galacticempire,31,10,10,6,1,0,5,2.6,https://raithos.github.io/?f=Galactic%20Empire&d=v8ZsZ200Z193X112WW101WWWW68WY164XWWWW144WY188X115WWWWWY203XWWW311WWWWY172XWW&sn=Random%20Squad&obs=
+sappitytappity#1,scumandvillainy,21,11,12,10,3,4,5,2.0,https://raithos.github.io/?f=Scum%20and%20Villainy&d=v8ZsZ200Z149XW111W135W249WY143X178WWW95W108Y95X118W45W166Y159XW95WY248XW&sn=Random%20Squad&obs=
+sappitytappity#2,resistance,20,9,6,13,0,0,3,3.6666666666666665,https://raithos.github.io/?f=Resistance&d=v8ZsZ200Z257X118W312W247W175W178WW11Y252X124WWW175W198W171W135Y297X123WWW175WWW&sn=Random%20Squad&obs=
 Sara Tessem#1,galacticrepublic,28,8,5,7,0,0,4,3.5,https://raithos.github.io/?f=Galactic%20Republic&d=v8ZsZ200Z318X123W311WY366XW138WW253W4W317W247Y365XWWWWWWY363XWWWWW&sn=Random%20Squad&obs=
 Sara Tessem#2,separatistalliance,24,11,8,6,0,0,4,3.75,https://raithos.github.io/?f=Separatist%20Alliance&d=v8ZsZ200Z306X125W223WW229Y272XWWWW218WWW216WY309XW208WY354XW&sn=Random%20Squad&obs=
 schdarr#1,rebelalliance,26,10,6,6,1,3,3,2.3333333333333335,https://raithos.github.io/?f=Rebel%20Alliance&d=v8ZsZ200Z37XWWWW140Y40XW90W249W157W94Y36XWWWWW140&sn=Random%20Squad&obs=
@@ -771,6 +841,8 @@ Shadow Marvel#1,rebelalliance,25,9,9,8,0,0,4,3.0,https://raithos.github.io/?f=Re
 Shadow Marvel#2,resistance,31,8,3,6,0,0,3,3.6666666666666665,https://raithos.github.io/?f=Resistance&d=v8ZsZ200Z293XWW30WWWWWY347X177W12WW244WW197W247Y389XWWWWWWWW&sn=Random%20Squad&obs=
 Shadow1#1,rebelalliance,26,10,6,7,1,6,4,2.75,https://raithos.github.io/?f=Rebel%20Alliance&d=v8ZsZ200Z58X126W58W17W164Y56X123W311WY68XWWWY18XWWWW51WWW&sn=Random%20Squad&obs=
 Shadow1#2,scumandvillainy,29,13,9,5,0,0,5,3.2,https://raithos.github.io/?f=Scum%20and%20Villainy&d=v8ZsZ200Z158XWWWY110XWW16W96WW155WY121X118WWW93WWY122XWWWWY157XWWW&sn=Random%20Squad&obs=
+SheevPhx#1,galacticempire,20,11,9,6,2,2,4,3.75,https://raithos.github.io/?f=Galactic%20Empire&d=v8ZsZ200Z201X133W113W76W247Y181X124WWY184XWWWY175XW240WW&sn=Random%20Squad&obs=
+SheevPhx#2,rebelalliance,25,8,6,6,1,3,3,3.6666666666666665,https://raithos.github.io/?f=Rebel%20Alliance&d=v8ZsZ200Z43X115WWW41WW107W249WY51XWWY34XW111WWWW140W&sn=Random%20Squad&obs=
 Shutabyss#1,firstorder,30,10,7,3,0,0,4,4.25,https://raithos.github.io/?f=First%20Order&d=v8ZsZ200Z385X181WWWW111WY251X318WWWWWWWY285XWWWWWY243XWWWWW&sn=Random%20Squad&obs=
 Shutabyss#2,galacticrepublic,29,9,6,4,0,0,4,4.0,https://raithos.github.io/?f=Galactic%20Republic&d=v8ZsZ200Z360XWW135WW233WW109Y338XWWWWW103Y273XWWWY363XWWWWW&sn=Random%20Squad&obs=
 Sir Charles#1,galacticrepublic,28,10,6,3,0,0,4,3.0,https://raithos.github.io/?f=Galactic%20Republic&d=v8ZsZ200Z323XW2WY276X74WW201WY342XWWWWWY364XWWWWWW&sn=Random%20Squad&obs=
@@ -809,6 +881,8 @@ Sqwick#1,rebelalliance,21,6,2,14,0,0,2,3.5,https://raithos.github.io/?f=Rebel%20
 Sqwick#2,galacticempire,36,11,8,2,0,0,5,3.4,https://raithos.github.io/?f=Galactic%20Empire&d=v8ZsZ200Z187XWWWW82WY208XWWWWWWY207XWWWWWWWY192XW135WWWWWWY165XWWWWW&sn=Random%20Squad&obs=
 Stan Reecy#1,resistance,28,9,6,7,0,0,4,3.0,https://raithos.github.io/?f=Resistance&d=v8ZsZ200Z349X126WWWY351XWWW234W244WWWY250XW177W188WWW71WW236Y348XWW&sn=Random%20Squad&obs=
 Stan Reecy#2,rebelalliance,23,9,5,8,1,7,3,2.6666666666666665,https://raithos.github.io/?f=Rebel%20Alliance&d=v8ZsZ200Z72X116W40WWW167Y58X120W37W52WY40X102W76WWW&sn=Random%20Squad&obs=
+Starslinger72#1,galacticempire,23,10,8,8,0,0,4,4.0,https://raithos.github.io/?f=Galactic%20Empire&d=v8ZsZ200Z205X116WW238WWWWWY212XW79W71W236Y184XW14W26WY174XW240WW&sn=Random%20Squad&obs=
+Starslinger72#2,scumandvillainy,25,10,8,7,0,0,4,3.0,https://raithos.github.io/?f=Scum%20and%20Villainy&d=v8ZsZ200Z93X115W22WY142XWWWWY107X126W11WWW70WWW153W80Y123XWWWWW&sn=Random%20Squad&obs=
 Start Shouting#1,rebelalliance,27,9,3,6,0,0,3,2.6666666666666665,https://raithos.github.io/?f=Rebel%20Alliance&d=v8ZsZ200Z18X134WW238W90WWWWY64XWW138W18WWWWY66XW32WWW&sn=Random%20Squad&obs=
 Start Shouting#2,galacticempire,24,7,6,9,0,0,3,3.0,https://raithos.github.io/?f=Galactic%20Empire&d=v8ZsZ200Z172XW240W98Y216X234W50W33WWW70W109W147Y394XWW102&sn=Random%20Squad&obs=
 steffen#1,galacticempire,20,8,5,10,1,0,3,3.6666666666666665,https://raithos.github.io/?f=Galactic%20Empire&d=v8ZsZ200Z161X132W112W136W102W106W144WY185X54W14W166Y199X119WWW&sn=Random%20Squad&obs=
@@ -871,12 +945,16 @@ TNX_Old_Jester#1,scumandvillainy,23,10,9,5,1,1,4,4.0,https://raithos.github.io/?
 TNX_Old_Jester#2,rebelalliance,25,9,5,5,1,1,3,4.0,https://raithos.github.io/?f=Rebel%20Alliance&d=v8ZsZ200Z7XW0W108W142Y17XWWWWW317W70WY39XWWWWWW&sn=Random%20Squad&obs=
 Toast#1,scumandvillainy,30,11,9,8,0,0,5,2.6,https://raithos.github.io/?f=Scum%20and%20Villainy&d=v8ZsZ200Z87X125W138WW88WW317WW109Y144XWW37WWW69WWY143X178WWWWY302XWY159XWW&sn=Random%20Squad&obs=
 Toast#2,firstorder,20,10,11,6,2,9,4,3.5,https://raithos.github.io/?f=First%20Order&d=v8ZsZ200Z384X125W177W101W236Y266XWWY259XWW76WWY287XWWW311&sn=Random%20Squad&obs=
+Toby Nathan#1,scumandvillainy,22,9,8,5,2,16,4,2.75,https://raithos.github.io/?f=Scum%20and%20Villainy&d=v8ZsZ200Z143XWWWWY147X131W114WW247WY140XWW32WWWY88XWW85WWWW&sn=Random%20Squad&obs=
+Toby Nathan#2,resistance,26,8,7,13,1,1,4,2.25,https://raithos.github.io/?f=Resistance&d=v8ZsZ200Z351X122W178W11W234W245W53W196WY380XWW310W236WWY352XWW134W59W188WWY301XW100W&sn=Random%20Squad&obs=
 tomasz#1,rebelalliance,29,11,6,3,0,0,4,3.25,https://raithos.github.io/?f=Rebel%20Alliance&d=v8ZsZ200Z67XWWWWY18X135WWWW51WWWY58XWWWY390XWWWWW140&sn=Random%20Squad&obs=
 tomasz#2,galacticempire,19,7,7,5,0,0,3,4.333333333333333,https://raithos.github.io/?f=Galactic%20Empire&d=v8ZsZ200Z196XW111W232W100Y191XW135WWWWW235WY225XW&sn=Random%20Squad&obs=
 Tommaso Loss#1,firstorder,30,11,8,4,1,3,4,2.5,https://raithos.github.io/?f=First%20Order&d=v8ZsZ200Z385XWWWW240W249Y286XWWY288XW186W59WWWWWY285XWWWWW&sn=Random%20Squad&obs=
 Tommaso Loss#2,galacticrepublic,36,12,10,4,0,0,6,2.3333333333333335,https://raithos.github.io/?f=Galactic%20Republic&d=v8ZsZ200Z362X122W138WW88WW70WY364XWWWWWWY321XWY320XWWY321XWY323XWW&sn=Random%20Squad&obs=
 Tommy#1,galacticrepublic,29,10,6,4,0,0,4,3.75,https://raithos.github.io/?f=Galactic%20Republic&d=v8ZsZ200Z338XWWW89W241W165Y278XWW201WY363XWWWWWY317XWW&sn=Random%20Squad&obs=
 Tommy#2,rebelalliance,25,9,4,8,2,9,3,3.6666666666666665,https://raithos.github.io/?f=Rebel%20Alliance&d=v8ZsZ200Z73XW114WWWW247W313Y44XW101WWW37W249WW154Y66XWW165WW&sn=Random%20Squad&obs=
+tomtrazz#1,firstorder,22,9,7,7,0,0,3,3.6666666666666665,https://raithos.github.io/?f=First%20Order&d=v8ZsZ200Z237X256WW135W101Y282X185W318WW53WW11WWY261XW&sn=Random%20Squad&obs=
+tomtrazz#2,galacticrepublic,23,9,8,5,1,1,4,4.25,https://raithos.github.io/?f=Galactic%20Republic&d=v8ZsZ200Z316X131WW236Y313X212WWWY322XWW233W135Y342XWWWWW&sn=Random%20Squad&obs=
 Tony (Tin Squadron)#1,galacticempire,21,9,9,10,1,6,4,2.5,https://raithos.github.io/?f=Galactic%20Empire&d=v8ZsZ200Z203X115W134W98W99WW316W235WY171X73W114W99Y226XY186XWW106&sn=Random%20Squad&obs=
 Tony (Tin Squadron)#2,scumandvillainy,30,10,7,8,0,0,4,2.75,https://raithos.github.io/?f=Scum%20and%20Villainy&d=v8ZsZ200Z94XW62WY122X102WWW109W247Y154X121W10WWWW83WWW150Y118XWWWWWW&sn=Random%20Squad&obs=
 TonyC (Extended)#1,galacticempire,18,7,8,9,1,3,3,4.333333333333333,https://raithos.github.io/?f=Galactic%20Empire&d=v8ZsZ200Z197X125WWW98Y205XW136W238WWW67WW105Y175X125WW100W249&sn=Random%20Squad&obs=
@@ -899,8 +977,12 @@ Tsukuda_Joe#1,resistance,36,10,5,3,0,0,4,2.25,https://raithos.github.io/?f=Resis
 Tsukuda_Joe#2,scumandvillainy,37,13,8,2,0,0,5,1.6,https://raithos.github.io/?f=Scum%20and%20Villainy&d=v8ZsZ200Z127XW66WWWWY111XWWWWY114XWWWWWY111X240WWWWY96X&sn=Random%20Squad&obs=
 TTS#1,resistance,28,8,5,7,1,6,3,3.6666666666666665,https://raithos.github.io/?f=Resistance&d=v8ZsZ200Z294XWW242W90W86WWW166Y389XW113WW59WWWWWY270XW126WW&sn=Random%20Squad&obs=
 TTS#2,firstorder,22,9,7,6,1,1,3,4.333333333333333,https://raithos.github.io/?f=First%20Order&d=v8ZsZ200Z251XWWWW194W12WW108Y236X250W206W234WY264XWW&sn=Random%20Squad&obs=
+Tweak#1,scumandvillainy,33,10,6,8,1,1,4,2.5,https://raithos.github.io/?f=Scum%20and%20Villainy&d=v8ZsZ200Z399XWY155XWW39WWW96W108WY85XW137W134WWWW93WY109XWW55W96WW&sn=Random%20Squad&obs=
+Tweak#2,galacticrepublic,26,8,6,10,1,6,4,3.25,https://raithos.github.io/?f=Galactic%20Republic&d=v8ZsZ200Z322X131W114W4W135Y360XW137WWWWWY365XW137W134W86W213WWY321X102W&sn=Random%20Squad&obs=
 tycho1707#1,scumandvillainy,24,9,9,6,0,0,4,2.0,https://raithos.github.io/?f=Scum%20and%20Villainy&d=v8ZsZ200Z152XWWW54W32WW94W106WY114XW71WWWW156Y304XY138XW&sn=Random%20Squad&obs=
 tycho1707#2,galacticrepublic,28,10,9,3,0,0,5,3.2,https://raithos.github.io/?f=Galactic%20Republic&d=v8ZsZ200Z317XW98WY333XW112WWY364XWWW253WWWY318XWWY323XWW&sn=Random%20Squad&obs=
+Tyler E#1,rebelalliance,24,9,5,10,1,2,3,3.6666666666666665,https://raithos.github.io/?f=Rebel%20Alliance&d=v8ZsZ200Z44X124WW88W32WWWW154Y66X116WWW137W167Y6XWW2W165W142&sn=Random%20Squad&obs=
+Tyler E#2,firstorder,20,10,11,5,1,1,4,4.0,https://raithos.github.io/?f=First%20Order&d=v8ZsZ200Z259X186WWW240W236Y383X122WWWY233X133WWY287XWWW&sn=Random%20Squad&obs=
 Tyler Gi#1,resistance,29,9,6,9,1,5,4,2.25,https://raithos.github.io/?f=Resistance&d=v8ZsZ200Z352X186WW135WWW2WY351XW206WW134W244WW197WY380X100WWWWWY258XWW175WWW&sn=Random%20Squad&obs=
 Tyler Gi#2,galacticempire,26,11,6,5,1,2,4,2.75,https://raithos.github.io/?f=Galactic%20Empire&d=v8ZsZ200Z186X38W32WY191X240WWW101WWWWY213XWWY200XWW88W&sn=Random%20Squad&obs=
 unfassbarnathan#1,separatistalliance,24,12,10,7,1,3,5,2.4,https://raithos.github.io/?f=Separatist%20Alliance&d=v8ZsZ200Z324XW98WWWY305X115W222W249WY343X99WWY324XWW235WWY344XWW165W&sn=Random%20Squad&obs=
@@ -931,6 +1013,8 @@ willhaigwood#1,firstorder,28,10,8,6,0,0,4,2.5,https://raithos.github.io/?f=First
 willhaigwood#2,separatistalliance,18,11,10,6,1,7,4,4.0,https://raithos.github.io/?f=Separatist%20Alliance&d=v8ZsZ200Z308X223WW229Y309X102W208WY357X122W131Y358XW&sn=Random%20Squad&obs=
 Williarn#1,rebelalliance,26,7,4,10,1,3,3,4.0,https://raithos.github.io/?f=Rebel%20Alliance&d=v8ZsZ200Z26X116W138W136W0W109WWY42X132W311WWWWW249WY49X68WWW166W&sn=Random%20Squad&obs=
 Williarn#2,scumandvillainy,22,10,11,11,0,0,5,2.6,https://raithos.github.io/?f=Scum%20and%20Villainy&d=v8ZsZ200Z142XW16W71WWY399XW12Y140XWW47W316W92W166Y156XW99WW247Y94X124WW165&sn=Random%20Squad&obs=
+Woodford#1,scumandvillainy,24,10,10,6,0,0,4,3.25,https://raithos.github.io/?f=Scum%20and%20Villainy&d=v8ZsZ200Z83XW240WWWWW247W151Y156XWWWY230X55WW95WWWY82XWWWWWWW151&sn=Random%20Squad&obs=
+Woodford#2,firstorder,20,10,11,6,0,0,4,2.75,https://raithos.github.io/?f=First%20Order&d=v8ZsZ200Z259XWW86W240WY284XW202WW101Y382X126WW99WY290XW&sn=Random%20Squad&obs=
 Wookieeoutrider#1,galacticempire,21,8,7,9,0,0,3,3.6666666666666665,https://raithos.github.io/?f=Galactic%20Empire&d=v8ZsZ200Z197X117W111W12W99Y167X113WWW38W249W162Y394X75WW&sn=Random%20Squad&obs=
 Wookieeoutrider#2,firstorder,24,11,14,4,1,3,5,2.4,https://raithos.github.io/?f=First%20Order&d=v8ZsZ200Z397X181W202WWWWY265XWY283XWWWY290X318WY267XWW249&sn=Random%20Squad&obs=
 WookieShepherd#1,firstorder,19,10,12,7,1,1,4,3.0,https://raithos.github.io/?f=First%20Order&d=v8ZsZ200Z283X181WW136WY384X127WW98W164Y266X122WW108Y265XW&sn=Random%20Squad&obs=
@@ -939,6 +1023,8 @@ Worst Coast Child#1,resistance,34,10,6,7,2,2,4,3.5,https://raithos.github.io/?f=
 Worst Coast Child#2,separatistalliance,22,12,11,8,1,1,5,2.6,https://raithos.github.io/?f=Separatist%20Alliance&d=v8ZsZ200Z329XW99WW105W237Y309XW208WY356XWY308X239W236W229Y311XWW105&sn=Random%20Squad&obs=
 wpearce17#1,resistance,26,10,8,5,1,1,4,4.0,https://raithos.github.io/?f=Resistance&d=v8ZsZ200Z270X131WW311WY253XWW108W175WWWY349XWW30WY245XWWWWWWW&sn=Random%20Squad&obs=
 wpearce17#2,scumandvillainy,26,9,5,6,1,8,3,3.3333333333333335,https://raithos.github.io/?f=Scum%20and%20Villainy&d=v8ZsZ200Z119XW311WWWW108Y107XWW102W48W68WWWY146XWW76WWWW&sn=Random%20Squad&obs=
+Wrecker#1,galacticempire,30,10,7,6,0,0,4,2.5,https://raithos.github.io/?f=Galactic%20Empire&d=v8ZsZ200Z189X133W138W99WWWY202XWW249Y228X164Y216XWWW26WWWW&sn=Random%20Squad&obs=
+Wrecker#2,galacticrepublic,18,8,10,7,1,6,4,3.25,https://raithos.github.io/?f=Galactic%20Republic&d=v8ZsZ200Z330X114W214W134Y314XW4W200WY322X118WWW134Y275XWWW&sn=Random%20Squad&obs=
 Wurms#1,firstorder,22,11,14,2,0,0,5,4.0,https://raithos.github.io/?f=First%20Order&d=v8ZsZ200Z262X123WWY233XWWY384XWWWY261X177WY397XWWWWW&sn=Random%20Squad&obs=
 Wurms#2,galacticrepublic,20,8,8,9,2,12,4,2.25,https://raithos.github.io/?f=Galactic%20Republic&d=v8ZsZ200Z318XW100W108Y330X114W252W136Y320XW99W109Y323X114WW136&sn=Random%20Squad&obs=
 x77x#1,scumandvillainy,27,10,8,7,0,0,4,3.25,https://raithos.github.io/?f=Scum%20and%20Villainy&d=v8ZsZ200Z303XY129X125WWWW95W103Y142X206WWWWY126XWW93W92W110W&sn=Random%20Squad&obs=
@@ -957,6 +1043,8 @@ zbbSkeletor#1,scumandvillainy,28,8,6,13,3,6,4,2.0,https://raithos.github.io/?f=S
 zbbSkeletor#2,rebelalliance,22,9,8,9,0,0,4,3.0,https://raithos.github.io/?f=Rebel%20Alliance&d=v8ZsZ200Z67X72W35WW138WY69X256W40WW0WY53XWY20XWWW88W54W317WW&sn=Random%20Squad&obs=
 zeebo#1,rebelalliance,31,9,2,5,0,0,3,3.0,https://raithos.github.io/?f=Rebel%20Alliance&d=v8ZsZ200Z392XW234WW138WWWW77WY20XW99WWWWW68WY59XWWW&sn=Random%20Squad&obs=
 zeebo#2,galacticempire,22,10,8,3,0,0,4,4.0,https://raithos.github.io/?f=Galactic%20Empire&d=v8ZsZ200Z191XW135WWWWWWY170XWWY212XWWW166Y201XW112WW&sn=Random%20Squad&obs=
+zerotorque84#1,rebelalliance,32,11,5,3,0,0,4,3.75,https://raithos.github.io/?f=Rebel%20Alliance&d=v8ZsZ200Z6XWWWW142Y55X132WWY25XWWW3WWWY63XWWWWWWW&sn=Random%20Squad&obs=
+zerotorque84#2,galacticempire,31,11,6,9,2,1,4,2.5,https://raithos.github.io/?f=Galactic%20Empire&d=v8ZsZ200Z165X240W13W30WW165WY202X112W88W236Y168X111W13WWWWY190XWWWW&sn=Random%20Squad&obs=
 ZorPrime#1,scumandvillainy,26,11,10,8,2,6,5,3.2,https://raithos.github.io/?f=Scum%20and%20Villainy&d=v8ZsZ200Z146X137WWW71WW109W149WWY140X132WWWWWY303X166Y156XW311WWY93XW20W&sn=Random%20Squad&obs=
 ZorPrime#2,separatistalliance,23,8,4,11,0,0,3,3.0,https://raithos.github.io/?f=Separatist%20Alliance&d=v8ZsZ200Z334XWW234WW219W71W106W216W239Y311X311WW166Y335XW13W135WWW221WWW&sn=Random%20Squad&obs=
 Zyk#1,firstorder,20,10,7,9,0,0,3,3.0,https://raithos.github.io/?f=First%20Order&d=v8ZsZ200Z281X186W202W183W179W59WW112W106Y384X181WWWY382XWW100W&sn=Random%20Squad&obs=

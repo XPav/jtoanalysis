@@ -1,0 +1,77 @@
+{
+    "name": "Toby Nathan",
+    "number": 2,
+    "xws": {
+        "faction": "resistance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "covanell",
+                "points": 78,
+                "ship": "resistancetransport",
+                "upgrades": {
+                    "astromech": [
+                        "bbastromech"
+                    ],
+                    "cannon": [
+                        "ioncannon"
+                    ],
+                    "crew": [
+                        "korrsella",
+                        "novicetechnician"
+                    ],
+                    "talent": [
+                        "intimidation"
+                    ],
+                    "tech": [
+                        "primedthrusters"
+                    ],
+                    "torpedo": [
+                        "plasmatorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "colossusstationmechanic",
+                "points": 29,
+                "ship": "fireball",
+                "upgrades": {
+                    "illicit": [
+                        "coaxiumhyperfuel"
+                    ],
+                    "modification": [
+                        "delayedfuses"
+                    ]
+                }
+            },
+            {
+                "id": "nodinchavdri",
+                "points": 51,
+                "ship": "resistancetransport",
+                "upgrades": {
+                    "crew": [
+                        "seasonednavigator",
+                        "chewbacca-crew-swz19"
+                    ],
+                    "torpedo": [
+                        "advprotontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "bluesquadronrecruit",
+                "points": 37,
+                "ship": "rz2awing",
+                "upgrades": {
+                    "missile": [
+                        "homingmissiles"
+                    ]
+                }
+            }
+        ],
+        "points": 195,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Resistance&d=v8ZsZ200Z351X122W178W11W234W245W53W196WY380XWW310W236WWY352XWW134W59W188WWY301XW100W&sn=Random%20Squad&obs="
+}

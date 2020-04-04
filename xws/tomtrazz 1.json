@@ -1,0 +1,53 @@
+{
+    "name": "tomtrazz",
+    "number": 1,
+    "xws": {
+        "faction": "firstorder",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "blackout",
+                "points": 80,
+                "ship": "tievnsilencer",
+                "upgrades": {
+                    "missile": [
+                        "ionmissiles"
+                    ],
+                    "talent": [
+                        "snapshot"
+                    ],
+                    "torpedo": [
+                        "iontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "captaincardinal",
+                "points": 91,
+                "ship": "upsilonclasscommandshuttle",
+                "upgrades": {
+                    "cannon": [
+                        "ioncannon"
+                    ],
+                    "crew": [
+                        "novicetechnician"
+                    ],
+                    "tech": [
+                        "hyperspacetrackingdata",
+                        "deuteriumpowercells"
+                    ]
+                }
+            },
+            {
+                "id": "tn3465",
+                "points": 28,
+                "ship": "tiefofighter",
+                "upgrades": {}
+            }
+        ],
+        "points": 199,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=First%20Order&d=v8ZsZ200Z237X256WW135W101Y282X185W318WW53WW11WWY261XW&sn=Random%20Squad&obs="
+}

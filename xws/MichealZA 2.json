@@ -1,0 +1,68 @@
+{
+    "name": "MichealZA",
+    "number": 2,
+    "xws": {
+        "faction": "galacticrepublic",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "kickback",
+                "points": 40,
+                "ship": "v19torrentstarfighter",
+                "upgrades": {
+                    "modification": [
+                        "synchronizedconsole"
+                    ],
+                    "talent": [
+                        "outmaneuver"
+                    ]
+                }
+            },
+            {
+                "id": "anakinskywalker-btlbywing",
+                "points": 99,
+                "ship": "btlbywing",
+                "upgrades": {
+                    "astromech": [
+                        "r2c4"
+                    ],
+                    "device": [
+                        "connernets"
+                    ],
+                    "force-power": [
+                        "brilliantevasion"
+                    ],
+                    "gunner": [
+                        "seventhfleetgunner"
+                    ],
+                    "torpedo": [
+                        "protontorpedoes"
+                    ],
+                    "turret": [
+                        "dorsalturret"
+                    ]
+                }
+            },
+            {
+                "id": "tucker",
+                "points": 35,
+                "ship": "v19torrentstarfighter",
+                "upgrades": {
+                    "missile": [
+                        "concussionmissiles"
+                    ]
+                }
+            },
+            {
+                "id": "goldsquadrontrooper",
+                "points": 25,
+                "ship": "v19torrentstarfighter",
+                "upgrades": {}
+            }
+        ],
+        "points": 199,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Galactic%20Republic&d=v8ZsZ200Z315X126WW211Y359X199W137W136W227W233W68WY319X99WY321XW&sn=Random%20Squad&obs="
+}

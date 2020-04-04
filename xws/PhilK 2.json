@@ -1,0 +1,63 @@
+{
+    "name": "PhilK",
+    "number": 2,
+    "xws": {
+        "faction": "scumandvillainy",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "captainjostero",
+                "points": 51,
+                "ship": "kihraxzfighter",
+                "upgrades": {
+                    "modification": [
+                        "stealthdevice",
+                        "angleddeflectors"
+                    ]
+                }
+            },
+            {
+                "id": "jakkugunrunner",
+                "points": 41,
+                "ship": "quadrijettransferspacetug",
+                "upgrades": {
+                    "device": [
+                        "protonbombs"
+                    ],
+                    "illicit": [
+                        "contrabandcybernetics"
+                    ],
+                    "tech": [
+                        "advancedoptics"
+                    ]
+                }
+            },
+            {
+                "id": "binayrepirate",
+                "points": 22,
+                "ship": "z95af4headhunter",
+                "upgrades": {}
+            },
+            {
+                "id": "ahhav",
+                "points": 30,
+                "ship": "modifiedtielnfighter",
+                "upgrades": {}
+            },
+            {
+                "id": "blacksunenforcer",
+                "points": 53,
+                "ship": "starviperclassattackplatform",
+                "upgrades": {
+                    "title": [
+                        "virago"
+                    ]
+                }
+            }
+        ],
+        "points": 197,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Scum%20and%20Villainy&d=v8ZsZ200Z122XWWW166W247Y143X186WW69W92WY159XWWY249XWY151XWWW163W&sn=Random%20Squad&obs="
+}

@@ -1,0 +1,78 @@
+{
+    "name": "sappitytappity",
+    "number": 1,
+    "xws": {
+        "faction": "scumandvillainy",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "dalanoberos-starviperclassattackplatform",
+                "points": 73,
+                "ship": "starviperclassattackplatform",
+                "upgrades": {
+                    "modification": [
+                        "targetingcomputer"
+                    ],
+                    "sensor": [
+                        "advancedsensors"
+                    ],
+                    "torpedo": [
+                        "iontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "jakkugunrunner",
+                "points": 37,
+                "ship": "quadrijettransferspacetug",
+                "upgrades": {
+                    "illicit": [
+                        "inertialdampeners"
+                    ],
+                    "modification": [
+                        "munitionsfailsafe"
+                    ],
+                    "tech": [
+                        "primedthrusters"
+                    ]
+                }
+            },
+            {
+                "id": "l337-escapecraft",
+                "points": 44,
+                "ship": "escapecraft",
+                "upgrades": {
+                    "crew": [
+                        "landocalrissian-crew"
+                    ],
+                    "modification": [
+                        "stealthdevice"
+                    ],
+                    "talent": [
+                        "debrisgambit"
+                    ]
+                }
+            },
+            {
+                "id": "binayrepirate",
+                "points": 23,
+                "ship": "z95af4headhunter",
+                "upgrades": {
+                    "illicit": [
+                        "inertialdampeners"
+                    ]
+                }
+            },
+            {
+                "id": "miningguildsurveyor",
+                "points": 23,
+                "ship": "modifiedtielnfighter",
+                "upgrades": {}
+            }
+        ],
+        "points": 200,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Scum%20and%20Villainy&d=v8ZsZ200Z149XW111W135W249WY143X178WWW95W108Y95X118W45W166Y159XW95WY248XW&sn=Random%20Squad&obs="
+}

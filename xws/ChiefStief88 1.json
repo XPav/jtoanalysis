@@ -1,0 +1,58 @@
+{
+    "name": "ChiefStief88",
+    "number": 1,
+    "xws": {
+        "faction": "firstorder",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "lieutenantlehuse",
+                "points": 51,
+                "ship": "tiesffighter",
+                "upgrades": {
+                    "talent": [
+                        "elusive"
+                    ],
+                    "tech": [
+                        "deuteriumpowercells"
+                    ]
+                }
+            },
+            {
+                "id": "starkillerbasepilot",
+                "points": 99,
+                "ship": "upsilonclasscommandshuttle",
+                "upgrades": {
+                    "cannon": [
+                        "ioncannon"
+                    ],
+                    "crew": [
+                        "supremeleadersnoke",
+                        "captainphasma"
+                    ],
+                    "sensor": [
+                        "firecontrolsystem"
+                    ],
+                    "tech": [
+                        "hyperspacetrackingdata",
+                        "patternanalyzer"
+                    ]
+                }
+            },
+            {
+                "id": "midnight",
+                "points": 49,
+                "ship": "tiefofighter",
+                "upgrades": {
+                    "talent": [
+                        "snapshot"
+                    ]
+                }
+            }
+        ],
+        "points": 199,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=First%20Order&d=v8ZsZ200Z397X119W318WWWWY288X185W206W184WW183W11W113WY233X256WW&sn=Random%20Squad&obs="
+}

@@ -1,0 +1,72 @@
+{
+    "name": "DirtClod16",
+    "number": 2,
+    "xws": {
+        "faction": "scumandvillainy",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "ig88d",
+                "points": 95,
+                "ship": "aggressorassaultfighter",
+                "upgrades": {
+                    "cannon": [
+                        "ioncannon",
+                        "autoblasters"
+                    ],
+                    "device": [
+                        "seismiccharges"
+                    ],
+                    "illicit": [
+                        "cloakingdevice"
+                    ],
+                    "modification": [
+                        "electronicbaffle"
+                    ],
+                    "sensor": [
+                        "collisiondetector"
+                    ],
+                    "talent": [
+                        "juke"
+                    ],
+                    "title": [
+                        "ig2000"
+                    ]
+                }
+            },
+            {
+                "id": "torkilmux",
+                "points": 66,
+                "ship": "hwk290lightfreighter",
+                "upgrades": {
+                    "crew": [
+                        "cadbane"
+                    ],
+                    "illicit": [
+                        "feedbackarray"
+                    ],
+                    "modification": [
+                        "targetingcomputer"
+                    ],
+                    "title": [
+                        "moldycrow"
+                    ]
+                }
+            },
+            {
+                "id": "tansariipointveteran",
+                "points": 34,
+                "ship": "m3ainterceptor",
+                "upgrades": {
+                    "talent": [
+                        "lonewolf"
+                    ]
+                }
+            }
+        ],
+        "points": 195,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Scum%20and%20Villainy&d=v8ZsZ200Z84X123W112W11W232W71W91W106W151Y114X20WW94W249WW156Y136X124WW&sn=Random%20Squad&obs="
+}

@@ -1,0 +1,55 @@
+{
+    "name": "clanofwolves",
+    "number": 1,
+    "xws": {
+        "faction": "galacticempire",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "coloneljendon",
+                "points": 73,
+                "ship": "lambdaclasst4ashuttle",
+                "upgrades": {
+                    "cannon": [
+                        "ioncannon"
+                    ],
+                    "crew": [
+                        "cienaree"
+                    ],
+                    "modification": [
+                        "targetingcomputer"
+                    ],
+                    "sensor": [
+                        "collisiondetector"
+                    ],
+                    "title": [
+                        "st321"
+                    ]
+                }
+            },
+            {
+                "id": "mornakee",
+                "points": 92,
+                "ship": "vt49decimator",
+                "upgrades": {
+                    "gunner": [
+                        "fifthbrother"
+                    ],
+                    "torpedo": [
+                        "advprotontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "blacksquadronscout",
+                "points": 34,
+                "ship": "tieskstriker",
+                "upgrades": {}
+            }
+        ],
+        "points": 199,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Galactic%20Empire&d=v8ZsZ200Z167X112W11WW24W249W162Y396XW134WWWW82WWWY212XWWW&sn=Random%20Squad&obs="
+}

@@ -1,0 +1,53 @@
+{
+    "name": "Gremz",
+    "number": 1,
+    "xws": {
+        "faction": "rebelalliance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "janors",
+                "points": 69,
+                "ship": "hwk290lightfreighter",
+                "upgrades": {
+                    "crew": [
+                        "r2d2-crew"
+                    ],
+                    "title": [
+                        "moldycrow"
+                    ]
+                }
+            },
+            {
+                "id": "alexsandrkallus",
+                "points": 87,
+                "ship": "vcx100lightfreighter",
+                "upgrades": {
+                    "crew": [
+                        "zeborrelios"
+                    ],
+                    "gunner": [
+                        "ezrabridger"
+                    ],
+                    "turret": [
+                        "dorsalturret"
+                    ]
+                }
+            },
+            {
+                "id": "edriotwotubes",
+                "points": 43,
+                "ship": "t65xwing",
+                "upgrades": {
+                    "configuration": [
+                        "servomotorsfoils"
+                    ]
+                }
+            }
+        ],
+        "points": 199,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Rebel%20Alliance&d=v8ZsZ200Z46XWW56WWW156Y392XWWW137W65WWW81WY8XWWWW142&sn=Random%20Squad&obs="
+}

@@ -1,0 +1,65 @@
+{
+    "name": "Gauche",
+    "number": 2,
+    "xws": {
+        "faction": "galacticempire",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "sienarspecialist",
+                "points": 35,
+                "ship": "tieagaggressor",
+                "upgrades": {
+                    "missile": [
+                        "magpulsewarheads"
+                    ],
+                    "turret": [
+                        "dorsalturret"
+                    ]
+                }
+            },
+            {
+                "id": "rhosquadronpilot",
+                "points": 54,
+                "ship": "alphaclassstarwing",
+                "upgrades": {
+                    "modification": [
+                        "targetingcomputer"
+                    ],
+                    "sensor": [
+                        "firecontrolsystem"
+                    ],
+                    "talent": [
+                        "marksmanship"
+                    ],
+                    "torpedo": [
+                        "protontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "doubleedge",
+                "points": 33,
+                "ship": "tieagaggressor",
+                "upgrades": {
+                    "gunner": [
+                        "skilledbombardier"
+                    ],
+                    "talent": [
+                        "predator"
+                    ]
+                }
+            },
+            {
+                "id": "onyxsquadronace",
+                "points": 74,
+                "ship": "tieddefender",
+                "upgrades": {}
+            }
+        ],
+        "points": 196,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Galactic%20Empire&d=v8ZsZ200Z190X137W311WWWY163X125W113W136WW249WY188X127WWWW88WY197XWWW&sn=Random%20Squad&obs="
+}

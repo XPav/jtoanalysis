@@ -1,0 +1,63 @@
+{
+    "name": "Brewdude716",
+    "number": 1,
+    "xws": {
+        "faction": "rebelalliance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "ezrabridger-tielnfighter",
+                "points": 38,
+                "ship": "tielnfighter",
+                "upgrades": {
+                    "modification": [
+                        "hullupgrade"
+                    ]
+                }
+            },
+            {
+                "id": "knavesquadronescort",
+                "points": 69,
+                "ship": "ewing",
+                "upgrades": {
+                    "astromech": [
+                        "r2d2"
+                    ],
+                    "torpedo": [
+                        "plasmatorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "graysquadronbomber",
+                "points": 31,
+                "ship": "btla4ywing",
+                "upgrades": {
+                    "modification": [
+                        "munitionsfailsafe"
+                    ]
+                }
+            },
+            {
+                "id": "braylenstramm",
+                "points": 59,
+                "ship": "asf01bwing",
+                "upgrades": {
+                    "cannon": [
+                        "autoblasters"
+                    ],
+                    "configuration": [
+                        "stabilizedsfoils"
+                    ],
+                    "modification": [
+                        "electronicbaffle"
+                    ]
+                }
+            }
+        ],
+        "points": 197,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Rebel%20Alliance&d=v8ZsZ200Z14XW164Y24XW234W3WY30XWWW108WWY73XWW232WWW106W313&sn=Random%20Squad&obs="
+}

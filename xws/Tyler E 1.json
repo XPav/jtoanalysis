@@ -1,0 +1,65 @@
+{
+    "name": "Tyler E",
+    "number": 1,
+    "xws": {
+        "faction": "rebelalliance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "chewbacca",
+                "points": 91,
+                "ship": "modifiedyt1300lightfreighter",
+                "upgrades": {
+                    "crew": [
+                        "gnkgonkdroid"
+                    ],
+                    "gunner": [
+                        "skilledbombardier"
+                    ],
+                    "talent": [
+                        "lonewolf"
+                    ],
+                    "title": [
+                        "millenniumfalcon"
+                    ]
+                }
+            },
+            {
+                "id": "sabinewren",
+                "points": 45,
+                "ship": "attackshuttle",
+                "upgrades": {
+                    "talent": [
+                        "crackshot"
+                    ],
+                    "title": [
+                        "phantom"
+                    ],
+                    "turret": [
+                        "dorsalturret"
+                    ]
+                }
+            },
+            {
+                "id": "garvendreis-t65xwing",
+                "points": 60,
+                "ship": "t65xwing",
+                "upgrades": {
+                    "astromech": [
+                        "r2astromech"
+                    ],
+                    "configuration": [
+                        "servomotorsfoils"
+                    ],
+                    "modification": [
+                        "shieldupgrade"
+                    ]
+                }
+            }
+        ],
+        "points": 196,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Rebel%20Alliance&d=v8ZsZ200Z44X124WW88W32WWWW154Y66X116WWW137W167Y6XWW2W165W142&sn=Random%20Squad&obs="
+}

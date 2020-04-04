@@ -1,0 +1,68 @@
+{
+    "name": "MrHedgehogman",
+    "number": 2,
+    "xws": {
+        "faction": "scumandvillainy",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "contractedscout",
+                "points": 54,
+                "ship": "jumpmaster5000",
+                "upgrades": {
+                    "cannon": [
+                        "heavylasercannon"
+                    ],
+                    "gunner": [
+                        "greedo"
+                    ],
+                    "modification": [
+                        "tacticalscrambler"
+                    ],
+                    "title": [
+                        "punishingone"
+                    ]
+                }
+            },
+            {
+                "id": "l337",
+                "points": 52,
+                "ship": "customizedyt1300lightfreighter",
+                "upgrades": {
+                    "crew": [
+                        "unkarplutt"
+                    ],
+                    "title": [
+                        "landosmillenniumfalcon"
+                    ]
+                }
+            },
+            {
+                "id": "lokrevenant",
+                "points": 57,
+                "ship": "scurrgh6bomber",
+                "upgrades": {
+                    "crew": [
+                        "novicetechnician"
+                    ],
+                    "device": [
+                        "protonbombs"
+                    ],
+                    "modification": [
+                        "hullupgrade"
+                    ]
+                }
+            },
+            {
+                "id": "foremanproach",
+                "points": 32,
+                "ship": "modifiedtielnfighter",
+                "upgrades": {}
+            }
+        ],
+        "points": 195,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Scum%20and%20Villainy&d=v8ZsZ200Z118XW10WW83WW110W159WY91XW64WWWWW152Y146XW53WW69WW164WY302XW&sn=Random%20Squad&obs="
+}

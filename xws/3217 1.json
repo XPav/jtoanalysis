@@ -1,0 +1,53 @@
+{
+    "name": "3217",
+    "number": 1,
+    "xws": {
+        "faction": "rebelalliance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "kananjarrus",
+                "points": 95,
+                "ship": "vcx100lightfreighter",
+                "upgrades": {
+                    "crew": [
+                        "k2so"
+                    ],
+                    "sensor": [
+                        "firecontrolsystem"
+                    ],
+                    "title": [
+                        "ghost"
+                    ],
+                    "turret": [
+                        "ioncannonturret"
+                    ]
+                }
+            },
+            {
+                "id": "roarkgarnet",
+                "points": 48,
+                "ship": "hwk290lightfreighter",
+                "upgrades": {
+                    "talent": [
+                        "squadleader"
+                    ]
+                }
+            },
+            {
+                "id": "mirandadoni",
+                "points": 54,
+                "ship": "btls8kwing",
+                "upgrades": {
+                    "device": [
+                        "electroprotonbomb"
+                    ]
+                }
+            }
+        ],
+        "points": 197,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Rebel%20Alliance&d=v8ZsZ200Z62XW113WW138WW314WWW148Y47X131WWWWWY17XWWWWWW235W&sn=Random%20Squad&obs="
+}

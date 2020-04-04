@@ -1,0 +1,58 @@
+{
+    "name": "neuromechanic",
+    "number": 2,
+    "xws": {
+        "faction": "galacticempire",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "alphasquadronpilot",
+                "points": 31,
+                "ship": "tieininterceptor",
+                "upgrades": {}
+            },
+            {
+                "id": "majorrhymer",
+                "points": 71,
+                "ship": "tiesabomber",
+                "upgrades": {
+                    "device": [
+                        "proximitymines"
+                    ],
+                    "gunner": [
+                        "hotshotgunner"
+                    ],
+                    "missile": [
+                        "protonrockets"
+                    ],
+                    "modification": [
+                        "hullupgrade"
+                    ],
+                    "torpedo": [
+                        "plasmatorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "captainferoph",
+                "points": 60,
+                "ship": "tiereaper",
+                "upgrades": {
+                    "crew": [
+                        "grandinquisitor"
+                    ]
+                }
+            },
+            {
+                "id": "cutlasssquadronpilot",
+                "points": 36,
+                "ship": "tiecapunisher",
+                "upgrades": {}
+            }
+        ],
+        "points": 198,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Galactic%20Empire&d=v8ZsZ200Z182XWY204XW234W102WW86W70WW164Y184XW33WWY193XWWWWWWW&sn=Random%20Squad&obs="
+}

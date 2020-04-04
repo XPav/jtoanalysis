@@ -1,0 +1,56 @@
+{
+    "name": "PhilK",
+    "number": 1,
+    "xws": {
+        "faction": "galacticempire",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "vizier",
+                "points": 56,
+                "ship": "tiereaper",
+                "upgrades": {
+                    "crew": [
+                        "moffjerjerrod"
+                    ],
+                    "modification": [
+                        "hullupgrade"
+                    ]
+                }
+            },
+            {
+                "id": "fifthbrother",
+                "points": 42,
+                "ship": "tieadvancedv1",
+                "upgrades": {}
+            },
+            {
+                "id": "howlrunner",
+                "points": 53,
+                "ship": "tielnfighter",
+                "upgrades": {
+                    "modification": [
+                        "hullupgrade"
+                    ]
+                }
+            },
+            {
+                "id": "tomaxbren",
+                "points": 46,
+                "ship": "tiesabomber",
+                "upgrades": {
+                    "device": [
+                        "protonbombs"
+                    ],
+                    "torpedo": [
+                        "iontorpedoes"
+                    ]
+                }
+            }
+        ],
+        "points": 197,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Galactic%20Empire&d=v8ZsZ200Z185X50WW164Y394XWWY217XW164Y205XW135WWWW69WW&sn=Random%20Squad&obs="
+}

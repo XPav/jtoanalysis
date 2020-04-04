@@ -1,0 +1,61 @@
+{
+    "name": "Starslinger72",
+    "number": 2,
+    "xws": {
+        "faction": "scumandvillainy",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "landocalrissian-escapecraft",
+                "points": 34,
+                "ship": "escapecraft",
+                "upgrades": {
+                    "crew": [
+                        "chewbacca-crew"
+                    ],
+                    "talent": [
+                        "composure"
+                    ]
+                }
+            },
+            {
+                "id": "unkarplutt",
+                "points": 30,
+                "ship": "quadrijettransferspacetug",
+                "upgrades": {}
+            },
+            {
+                "id": "krassistrelix",
+                "points": 95,
+                "ship": "firesprayclasspatrolcraft",
+                "upgrades": {
+                    "cannon": [
+                        "ioncannon"
+                    ],
+                    "device": [
+                        "proximitymines"
+                    ],
+                    "gunner": [
+                        "dengar"
+                    ],
+                    "talent": [
+                        "outmaneuver"
+                    ],
+                    "title": [
+                        "marauder"
+                    ]
+                }
+            },
+            {
+                "id": "blacksunace",
+                "points": 40,
+                "ship": "kihraxzfighter",
+                "upgrades": {}
+            }
+        ],
+        "points": 199,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Scum%20and%20Villainy&d=v8ZsZ200Z93X115W22WY142XWWWWY107X126W11WWW70WWW153W80Y123XWWWWW&sn=Random%20Squad&obs="
+}

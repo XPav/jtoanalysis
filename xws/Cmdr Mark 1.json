@@ -1,0 +1,44 @@
+{
+    "name": "Cmdr Mark",
+    "number": 1,
+    "xws": {
+        "faction": "galacticempire",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "countessryad",
+                "points": 82,
+                "ship": "tieddefender",
+                "upgrades": {}
+            },
+            {
+                "id": "deathrain",
+                "points": 66,
+                "ship": "tiecapunisher",
+                "upgrades": {
+                    "device": [
+                        "clustermines",
+                        "seismiccharges"
+                    ],
+                    "gunner": [
+                        "fifthbrother"
+                    ]
+                }
+            },
+            {
+                "id": "captainjonus",
+                "points": 47,
+                "ship": "tiesabomber",
+                "upgrades": {
+                    "gunner": [
+                        "skilledbombardier"
+                    ]
+                }
+            }
+        ],
+        "points": 195,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Galactic%20Empire&d=v8ZsZ200Z195XWWWY192XWWWW82W316W71WY203XWWWW88WWW&sn=Random%20Squad&obs="
+}

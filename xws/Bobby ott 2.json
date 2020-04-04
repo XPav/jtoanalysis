@@ -1,0 +1,60 @@
+{
+    "name": "Bobby ott",
+    "number": 2,
+    "xws": {
+        "faction": "scumandvillainy",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "palobgodalhi",
+                "points": 65,
+                "ship": "hwk290lightfreighter",
+                "upgrades": {
+                    "crew": [
+                        "l337"
+                    ],
+                    "talent": [
+                        "swarmtactics"
+                    ],
+                    "title": [
+                        "moldycrow"
+                    ]
+                }
+            },
+            {
+                "id": "oldteroch",
+                "points": 62,
+                "ship": "fangfighter",
+                "upgrades": {
+                    "torpedo": [
+                        "advprotontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "unkarplutt",
+                "points": 33,
+                "ship": "quadrijettransferspacetug",
+                "upgrades": {
+                    "crew": [
+                        "freelanceslicer"
+                    ]
+                }
+            },
+            {
+                "id": "sarcoplank",
+                "points": 40,
+                "ship": "quadrijettransferspacetug",
+                "upgrades": {
+                    "device": [
+                        "clustermines"
+                    ]
+                }
+            }
+        ],
+        "points": 200,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Scum%20and%20Villainy&d=v8ZsZ200Z112X132W43WWWWW156Y98XW134Y142XW30WWWY141XWW316WW&sn=Random%20Squad&obs="
+}

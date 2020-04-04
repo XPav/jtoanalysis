@@ -1,0 +1,57 @@
+{
+    "name": "Boldrin",
+    "number": 1,
+    "xws": {
+        "faction": "scumandvillainy",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "dalanoberos-starviperclassattackplatform",
+                "points": 64,
+                "ship": "starviperclassattackplatform",
+                "upgrades": {
+                    "sensor": [
+                        "advancedsensors"
+                    ]
+                }
+            },
+            {
+                "id": "lattsrazzi",
+                "points": 67,
+                "ship": "yv666lightfreighter",
+                "upgrades": {
+                    "crew": [
+                        "cikatrovizago",
+                        "cadbane"
+                    ],
+                    "illicit": [
+                        "contrabandcybernetics"
+                    ],
+                    "modification": [
+                        "hullupgrade"
+                    ]
+                }
+            },
+            {
+                "id": "jakkugunrunner",
+                "points": 34,
+                "ship": "quadrijettransferspacetug",
+                "upgrades": {
+                    "crew": [
+                        "l337"
+                    ]
+                }
+            },
+            {
+                "id": "captainseevor",
+                "points": 30,
+                "ship": "modifiedtielnfighter",
+                "upgrades": {}
+            }
+        ],
+        "points": 195,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Scum%20and%20Villainy&d=v8ZsZ200Z149XW111WWWY154XWWW25W20WW92W164WY143XW43WWWY247XW&sn=Random%20Squad&obs="
+}

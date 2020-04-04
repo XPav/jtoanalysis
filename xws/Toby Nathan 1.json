@@ -1,0 +1,56 @@
+{
+    "name": "Toby Nathan",
+    "number": 1,
+    "xws": {
+        "faction": "scumandvillainy",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "jakkugunrunner",
+                "points": 30,
+                "ship": "quadrijettransferspacetug",
+                "upgrades": {}
+            },
+            {
+                "id": "guri",
+                "points": 85,
+                "ship": "starviperclassattackplatform",
+                "upgrades": {
+                    "modification": [
+                        "angleddeflectors"
+                    ],
+                    "sensor": [
+                        "trajectorysimulator"
+                    ],
+                    "talent": [
+                        "squadleader"
+                    ]
+                }
+            },
+            {
+                "id": "constablezuvio",
+                "points": 43,
+                "ship": "quadrijettransferspacetug",
+                "upgrades": {
+                    "crew": [
+                        "gnkgonkdroid"
+                    ]
+                }
+            },
+            {
+                "id": "crymorahgoon",
+                "points": 40,
+                "ship": "btla4ywing",
+                "upgrades": {
+                    "gunner": [
+                        "hansolo-gunner"
+                    ]
+                }
+            }
+        ],
+        "points": 198,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Scum%20and%20Villainy&d=v8ZsZ200Z143XWWWWY147X131W114WW247WY140XWW32WWWY88XWW85WWWW&sn=Random%20Squad&obs="
+}

@@ -1,0 +1,63 @@
+{
+    "name": "Fengel",
+    "number": 2,
+    "xws": {
+        "faction": "resistance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "colossusstationmechanic",
+                "points": 41,
+                "ship": "fireball",
+                "upgrades": {
+                    "missile": [
+                        "homingmissiles"
+                    ],
+                    "modification": [
+                        "shieldupgrade",
+                        "electronicbaffle"
+                    ],
+                    "title": [
+                        "kazsfireball"
+                    ]
+                }
+            },
+            {
+                "id": "finchdallow",
+                "points": 76,
+                "ship": "mg100starfortress",
+                "upgrades": {
+                    "crew": [
+                        "pz4co"
+                    ],
+                    "device": [
+                        "seismiccharges"
+                    ],
+                    "gunner": [
+                        "paigetico"
+                    ]
+                }
+            },
+            {
+                "id": "poedameron",
+                "points": 79,
+                "ship": "t70xwing",
+                "upgrades": {
+                    "configuration": [
+                        "integratedsfoils"
+                    ],
+                    "talent": [
+                        "crackshot"
+                    ],
+                    "tech": [
+                        "primedthrusters"
+                    ]
+                }
+            }
+        ],
+        "points": 196,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Resistance&d=v8ZsZ200Z380X100WWW165W106W315Y250XWW246WW189WW71WY231X116WWW175W178WW&sn=Random%20Squad&obs="
+}

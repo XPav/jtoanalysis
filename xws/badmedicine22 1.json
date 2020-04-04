@@ -1,0 +1,78 @@
+{
+    "name": "badmedicine22",
+    "number": 1,
+    "xws": {
+        "faction": "scumandvillainy",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "moraloeval",
+                "points": 93,
+                "ship": "yv666lightfreighter",
+                "upgrades": {
+                    "crew": [
+                        "zuckuss",
+                        "novicetechnician"
+                    ],
+                    "gunner": [
+                        "dengar"
+                    ],
+                    "illicit": [
+                        "contrabandcybernetics"
+                    ],
+                    "missile": [
+                        "concussionmissiles"
+                    ],
+                    "modification": [
+                        "electronicbaffle"
+                    ],
+                    "talent": [
+                        "trickshot"
+                    ],
+                    "title": [
+                        "houndstooth"
+                    ]
+                }
+            },
+            {
+                "id": "drearenthal",
+                "points": 63,
+                "ship": "btla4ywing",
+                "upgrades": {
+                    "device": [
+                        "ionbombs"
+                    ],
+                    "gunner": [
+                        "bt1"
+                    ],
+                    "talent": [
+                        "intimidation"
+                    ],
+                    "turret": [
+                        "dorsalturret"
+                    ]
+                }
+            },
+            {
+                "id": "bossk-z95af4headhunter",
+                "points": 35,
+                "ship": "z95af4headhunter",
+                "upgrades": {
+                    "talent": [
+                        "outmaneuver"
+                    ]
+                }
+            },
+            {
+                "id": "nashtahpup",
+                "points": 6,
+                "ship": "z95af4headhunter",
+                "upgrades": {}
+            }
+        ],
+        "points": 197,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Scum%20and%20Villainy&d=v8ZsZ200Z152X133WW99W66W53W80W92W106W150Y86X122W137WW79WW317WWY398X126WWWY160XWW&sn=Random%20Squad&obs="
+}

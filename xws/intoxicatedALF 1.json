@@ -1,0 +1,74 @@
+{
+    "name": "intoxicatedALF",
+    "number": 1,
+    "xws": {
+        "faction": "resistance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "paigetico",
+                "points": 75,
+                "ship": "mg100starfortress",
+                "upgrades": {
+                    "crew": [
+                        "c3po-crew"
+                    ],
+                    "modification": [
+                        "tacticalscrambler"
+                    ],
+                    "sensor": [
+                        "firecontrolsystem"
+                    ],
+                    "tech": [
+                        "patternanalyzer"
+                    ]
+                }
+            },
+            {
+                "id": "kazudaxiono",
+                "points": 54,
+                "ship": "fireball",
+                "upgrades": {
+                    "illicit": [
+                        "cloakingdevice"
+                    ],
+                    "missile": [
+                        "protonrockets"
+                    ],
+                    "modification": [
+                        "munitionsfailsafe"
+                    ],
+                    "title": [
+                        "kazsfireball"
+                    ]
+                }
+            },
+            {
+                "id": "r1j5",
+                "points": 42,
+                "ship": "fireball",
+                "upgrades": {
+                    "crew": [
+                        "ga97"
+                    ],
+                    "illicit": [
+                        "contrabandcybernetics"
+                    ],
+                    "modification": [
+                        "hullupgrade"
+                    ]
+                }
+            },
+            {
+                "id": "bb8",
+                "points": 26,
+                "ship": "resistancetransportpod",
+                "upgrades": {}
+            }
+        ],
+        "points": 197,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Resistance&d=v8ZsZ200Z389XW113W206W191WWWWW110Y378XW102WW91WW108W315Y379XW230W92WW164WY349XWWW&sn=Random%20Squad&obs="
+}

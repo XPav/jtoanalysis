@@ -1,0 +1,57 @@
+{
+    "name": "Brewdude716",
+    "number": 2,
+    "xws": {
+        "faction": "resistance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "bluesquadronrecruit",
+                "points": 36,
+                "ship": "rz2awing",
+                "upgrades": {
+                    "tech": [
+                        "advancedoptics"
+                    ]
+                }
+            },
+            {
+                "id": "bluesquadronrecruit",
+                "points": 37,
+                "ship": "rz2awing",
+                "upgrades": {
+                    "tech": [
+                        "primedthrusters"
+                    ]
+                }
+            },
+            {
+                "id": "rey",
+                "points": 82,
+                "ship": "scavengedyt1300",
+                "upgrades": {
+                    "crew": [
+                        "gnkgonkdroid"
+                    ],
+                    "title": [
+                        "reysmillenniumfalcon"
+                    ]
+                }
+            },
+            {
+                "id": "nodinchavdri",
+                "points": 41,
+                "ship": "resistancetransport",
+                "upgrades": {
+                    "crew": [
+                        "informant"
+                    ]
+                }
+            }
+        ],
+        "points": 196,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Resistance&d=v8ZsZ200Z301XWW186Y301XWW178Y244XWW32WWWWW193Y352XWWWW37WW&sn=Random%20Squad&obs="
+}

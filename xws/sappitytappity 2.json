@@ -1,0 +1,74 @@
+{
+    "name": "sappitytappity",
+    "number": 2,
+    "xws": {
+        "faction": "resistance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "redsquadronexpert",
+                "points": 70,
+                "ship": "t70xwing",
+                "upgrades": {
+                    "astromech": [
+                        "r1j5"
+                    ],
+                    "cannon": [
+                        "ioncannon"
+                    ],
+                    "configuration": [
+                        "integratedsfoils"
+                    ],
+                    "modification": [
+                        "angleddeflectors"
+                    ],
+                    "talent": [
+                        "debrisgambit"
+                    ],
+                    "tech": [
+                        "primedthrusters"
+                    ]
+                }
+            },
+            {
+                "id": "karekun",
+                "points": 70,
+                "ship": "t70xwing",
+                "upgrades": {
+                    "configuration": [
+                        "integratedsfoils"
+                    ],
+                    "talent": [
+                        "lonewolf"
+                    ],
+                    "tech": [
+                        "ferrospherepaint"
+                    ],
+                    "title": [
+                        "blackone"
+                    ],
+                    "torpedo": [
+                        "iontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "temminwexley",
+                "points": 60,
+                "ship": "t70xwing",
+                "upgrades": {
+                    "configuration": [
+                        "integratedsfoils"
+                    ],
+                    "talent": [
+                        "juke"
+                    ]
+                }
+            }
+        ],
+        "points": 200,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Resistance&d=v8ZsZ200Z257X118W312W247W175W178WW11Y252X124WWW175W198W171W135Y297X123WWW175WWW&sn=Random%20Squad&obs="
+}

@@ -1,0 +1,50 @@
+{
+    "name": "SheevPhx",
+    "number": 2,
+    "xws": {
+        "faction": "rebelalliance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "landocalrissian-modifiedyt1300lightfreighter",
+                "points": 102,
+                "ship": "modifiedyt1300lightfreighter",
+                "upgrades": {
+                    "crew": [
+                        "kananjarrus"
+                    ],
+                    "modification": [
+                        "engineupgrade",
+                        "targetingcomputer"
+                    ],
+                    "talent": [
+                        "composure"
+                    ]
+                }
+            },
+            {
+                "id": "arvelcrynyd",
+                "points": 34,
+                "ship": "rz1awing",
+                "upgrades": {}
+            },
+            {
+                "id": "magvayarro",
+                "points": 60,
+                "ship": "ut60duwing",
+                "upgrades": {
+                    "configuration": [
+                        "pivotwing"
+                    ],
+                    "sensor": [
+                        "advancedsensors"
+                    ]
+                }
+            }
+        ],
+        "points": 196,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Rebel%20Alliance&d=v8ZsZ200Z43X115WWW41WW107W249WY51XWWY34XW111WWWW140W&sn=Random%20Squad&obs="
+}

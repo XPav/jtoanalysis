@@ -1,0 +1,49 @@
+{
+    "name": "oiseaux",
+    "number": 2,
+    "xws": {
+        "faction": "resistance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "lulolampar",
+                "points": 53,
+                "ship": "rz2awing",
+                "upgrades": {
+                    "missile": [
+                        "concussionmissiles"
+                    ],
+                    "tech": [
+                        "advancedoptics"
+                    ]
+                }
+            },
+            {
+                "id": "greersonnel",
+                "points": 43,
+                "ship": "rz2awing",
+                "upgrades": {
+                    "missile": [
+                        "protonrockets"
+                    ]
+                }
+            },
+            {
+                "id": "chewbacca-scavengedyt1300",
+                "points": 63,
+                "ship": "scavengedyt1300",
+                "upgrades": {}
+            },
+            {
+                "id": "pammichnerrogoode",
+                "points": 36,
+                "ship": "resistancetransport",
+                "upgrades": {}
+            }
+        ],
+        "points": 195,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Resistance&d=v8ZsZ200Z239XWW99W186Y270XWW102WY246XWWWWWWWY347XWWWWWW&sn=Random%20Squad&obs="
+}

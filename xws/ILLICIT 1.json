@@ -1,0 +1,55 @@
+{
+    "name": "ILLICIT",
+    "number": 1,
+    "xws": {
+        "faction": "scumandvillainy",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "dalanoberos-starviperclassattackplatform",
+                "points": 63,
+                "ship": "starviperclassattackplatform",
+                "upgrades": {
+                    "modification": [
+                        "angleddeflectors"
+                    ],
+                    "sensor": [
+                        "trajectorysimulator"
+                    ]
+                }
+            },
+            {
+                "id": "ndrusuhlak",
+                "points": 30,
+                "ship": "z95af4headhunter",
+                "upgrades": {}
+            },
+            {
+                "id": "freightercaptain",
+                "points": 46,
+                "ship": "customizedyt1300lightfreighter",
+                "upgrades": {}
+            },
+            {
+                "id": "captainnym",
+                "points": 60,
+                "ship": "scurrgh6bomber",
+                "upgrades": {
+                    "astromech": [
+                        "r5tk"
+                    ],
+                    "gunner": [
+                        "bossk"
+                    ],
+                    "title": [
+                        "havoc"
+                    ]
+                }
+            }
+        ],
+        "points": 199,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Scum%20and%20Villainy&d=v8ZsZ200Z149XW114WW247WY156XWWWY92XWWWWWWY144XWWW78WWWW149WW9&sn=Random%20Squad&obs="
+}

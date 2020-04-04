@@ -1,0 +1,60 @@
+{
+    "name": "Wrecker",
+    "number": 1,
+    "xws": {
+        "faction": "galacticempire",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "onyxsquadronscout",
+                "points": 43,
+                "ship": "tieagaggressor",
+                "upgrades": {
+                    "missile": [
+                        "concussionmissiles"
+                    ],
+                    "talent": [
+                        "trickshot"
+                    ],
+                    "turret": [
+                        "ioncannonturret"
+                    ]
+                }
+            },
+            {
+                "id": "imdaartestpilot",
+                "points": 46,
+                "ship": "tiephphantom",
+                "upgrades": {
+                    "modification": [
+                        "targetingcomputer"
+                    ]
+                }
+            },
+            {
+                "id": "obsidiansquadronpilot",
+                "points": 30,
+                "ship": "tielnfighter",
+                "upgrades": {
+                    "modification": [
+                        "hullupgrade"
+                    ]
+                }
+            },
+            {
+                "id": "patrolleader",
+                "points": 81,
+                "ship": "vt49decimator",
+                "upgrades": {
+                    "crew": [
+                        "darthvader"
+                    ]
+                }
+            }
+        ],
+        "points": 200,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Galactic%20Empire&d=v8ZsZ200Z189X133W138W99WWWY202XWW249Y228X164Y216XWWW26WWWW&sn=Random%20Squad&obs="
+}

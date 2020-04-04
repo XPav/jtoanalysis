@@ -1,0 +1,65 @@
+{
+    "name": "brien",
+    "number": 1,
+    "xws": {
+        "faction": "galacticempire",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "majorvynder",
+                "points": 51,
+                "ship": "alphaclassstarwing",
+                "upgrades": {
+                    "missile": [
+                        "clustermissiles"
+                    ],
+                    "modification": [
+                        "advancedslam"
+                    ],
+                    "talent": [
+                        "predator"
+                    ]
+                }
+            },
+            {
+                "id": "omicrongrouppilot",
+                "points": 60,
+                "ship": "lambdaclasst4ashuttle",
+                "upgrades": {
+                    "cannon": [
+                        "jammingbeam"
+                    ],
+                    "modification": [
+                        "hullupgrade"
+                    ],
+                    "sensor": [
+                        "advancedsensors"
+                    ],
+                    "title": [
+                        "st321"
+                    ]
+                }
+            },
+            {
+                "id": "grandinquisitor",
+                "points": 62,
+                "ship": "tieadvancedv1",
+                "upgrades": {
+                    "force-power": [
+                        "precognitivereflexes"
+                    ]
+                }
+            },
+            {
+                "id": "academypilot",
+                "points": 22,
+                "ship": "tielnfighter",
+                "upgrades": {}
+            }
+        ],
+        "points": 195,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Galactic%20Empire&d=v8ZsZ200Z161X127WWW98W104WY168X111W12WWW164W162Y169X250WWY229X&sn=Random%20Squad&obs="
+}

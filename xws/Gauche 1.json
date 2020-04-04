@@ -1,0 +1,55 @@
+{
+    "name": "Gauche",
+    "number": 1,
+    "xws": {
+        "faction": "resistance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "edonkappehl",
+                "points": 67,
+                "ship": "mg100starfortress",
+                "upgrades": {
+                    "device": [
+                        "bombletgenerator"
+                    ],
+                    "gunner": [
+                        "skilledbombardier"
+                    ]
+                }
+            },
+            {
+                "id": "jophseastriker",
+                "points": 57,
+                "ship": "t70xwing",
+                "upgrades": {
+                    "astromech": [
+                        "r2ha"
+                    ],
+                    "configuration": [
+                        "integratedsfoils"
+                    ],
+                    "title": [
+                        "blackone"
+                    ]
+                }
+            },
+            {
+                "id": "lulolampar",
+                "points": 43,
+                "ship": "rz2awing",
+                "upgrades": {}
+            },
+            {
+                "id": "finn",
+                "points": 29,
+                "ship": "resistancetransportpod",
+                "upgrades": {}
+            }
+        ],
+        "points": 196,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Resistance&d=v8ZsZ200Z293XWWWW88W67WWY253XW190WW175WW171WY239XWWWY350XWWW&sn=Random%20Squad&obs="
+}

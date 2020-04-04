@@ -1,0 +1,52 @@
+{
+    "name": "lepanto",
+    "number": 2,
+    "xws": {
+        "faction": "galacticempire",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "vedfoslo",
+                "points": 50,
+                "ship": "tieadvancedx1",
+                "upgrades": {
+                    "missile": [
+                        "magpulsewarheads"
+                    ]
+                }
+            },
+            {
+                "id": "patrolleader",
+                "points": 90,
+                "ship": "vt49decimator",
+                "upgrades": {
+                    "crew": [
+                        "cienaree"
+                    ],
+                    "device": [
+                        "ionbombs"
+                    ],
+                    "gunner": [
+                        "fifthbrother"
+                    ]
+                }
+            },
+            {
+                "id": "lieutenantkestal",
+                "points": 31,
+                "ship": "tieagaggressor",
+                "upgrades": {}
+            },
+            {
+                "id": "nightbeast",
+                "points": 25,
+                "ship": "tielnfighter",
+                "upgrades": {}
+            }
+        ],
+        "points": 196,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Galactic%20Empire&d=v8ZsZ200Z175XWW311WY216XW24WWW82W317WWY187XWWWWWY226X&sn=Random%20Squad&obs="
+}

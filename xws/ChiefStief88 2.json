@@ -1,0 +1,42 @@
+{
+    "name": "ChiefStief88",
+    "number": 2,
+    "xws": {
+        "faction": "rebelalliance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "lowhhrick",
+                "points": 56,
+                "ship": "auzituckgunship",
+                "upgrades": {
+                    "talent": [
+                        "trickshot"
+                    ]
+                }
+            },
+            {
+                "id": "chopper",
+                "points": 68,
+                "ship": "vcx100lightfreighter",
+                "upgrades": {}
+            },
+            {
+                "id": "knavesquadronescort",
+                "points": 50,
+                "ship": "ewing",
+                "upgrades": {}
+            },
+            {
+                "id": "talasquadronpilot",
+                "points": 24,
+                "ship": "z95af4headhunter",
+                "upgrades": {}
+            }
+        ],
+        "points": 198,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Rebel%20Alliance&d=v8ZsZ200Z59X133WWWY63XWWWWWWWY24XWWWY56XWW&sn=Random%20Squad&obs="
+}
