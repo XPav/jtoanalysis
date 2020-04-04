@@ -19,7 +19,7 @@ def GetCostValue( cost, pdata, sdata ):
     else:
         pass
 
-def LoadShip( pilots, upgrades, ship, listid, faction ):
+def LoadShip( pilots, upgrades, ship, listid, faction, url ):
     oship = {}
 
     pilotid = p['id']
@@ -180,14 +180,13 @@ def LoadShip( pilots, upgrades, ship, listid, faction ):
                 useless |= (u =='havoc' and astromechs == 0 and sensors == 0 )
                 useless |= (u =='xg1assaultconfiguration' and cannons == 0 )
 
-
-
                 if useless:
                     oship[f'useless{uselesscount:02d}'] = u
                     uselesscount += 1
                     oship['uselesscost'] = GetCostValue( upgrades[u]['cost'], pdata, sdata )
 
     oship['uselesscount'] = uselesscount
+    oship['url'] = url
 
     return oship
 
@@ -225,12 +224,21 @@ for l in combined['tournament']['players']:
     if len(l['list']) > 0:
         if not 'yasb' in l['list']['vendor']:
             print('No YASB ' + l['name'])
+
+        vendor = list(l['list']['vendor'].values())[0]
+        link = ''
+        if 'link' in vendor:
+            url = vendor['link']
+        elif 'url' in vendor:
+            url = vendor['url']
+
         shipcount = 0
         init = 0
 
         olist = {}
         olist['name'] = l['name']
         olist['faction'] = l['list']['faction']
+        olist['points'] = l['list']['points']
         olist['totalhealth'] = 0
         olist['totalmainattack'] = 0
         olist['totalagility'] = 0
@@ -240,7 +248,7 @@ for l in combined['tournament']['players']:
         olist['shipcount'] = 0
 
         for p in l['list']['pilots']:
-            oship = LoadShip( pilots, upgrades, p, olist['name'], olist['faction'] )
+            oship = LoadShip( pilots, upgrades, p, olist['name'], olist['faction'], url )
             oships.append(oship)
 
             init = init + oship['initiative']
@@ -253,7 +261,9 @@ for l in combined['tournament']['players']:
 
             olist['shipcount'] += 1
 
+        olist['handicap'] = 200 - olist['points'] + olist['totaluselesscost']
         olist['avginitiative'] = init / olist['shipcount']
+        olist['url'] = url
 
         olists.append(olist)
     else:

@@ -39,14 +39,14 @@ majorvynder,pilot,7
 nusquadronpilot,pilot,3
 rhosquadronpilot,pilot,5
 captainkagi,pilot,2
-coloneljendon,pilot,9
+coloneljendon,pilot,10
 lieutenantsai,pilot,8
 omicrongrouppilot,pilot,6
 baronoftheempire,pilot,3
 grandinquisitor,pilot,4
 inquisitor,pilot,5
 seventhsister,pilot,6
-fifthbrother,pilot,4
+fifthbrother,pilot,5
 darthvader,pilot,6
 maarekstele,pilot,5
 stormsquadronace,pilot,4
@@ -63,7 +63,7 @@ cutlasssquadronpilot,pilot,2
 colonelvessery,pilot,1
 countessryad,pilot,3
 deltasquadronpilot,pilot,3
-onyxsquadronace,pilot,2
+onyxsquadronace,pilot,3
 rexlerbrath,pilot,2
 alphasquadronpilot,pilot,9
 sabersquadronace,pilot,5
@@ -409,7 +409,7 @@ c110p,upgrade,5
 r1j5,upgrade,2
 heavylasercannon,upgrade,13
 ioncannon,upgrade,12
-jammingbeam,upgrade,19
+jammingbeam,upgrade,20
 tractorbeam,upgrade,15
 autoblasters,upgrade,20
 adaptiveshields,upgrade,0
@@ -466,7 +466,7 @@ grandinquisitor,upgrade,6
 grandmofftarkin,upgrade,1
 herasyndulla,upgrade,2
 ig88d,upgrade,6
-isbslicer,upgrade,1
+isbslicer,upgrade,2
 informant,upgrade,11
 jabbathehutt,upgrade,1
 jynerso,upgrade,3
@@ -528,7 +528,7 @@ clustermines,upgrade,15
 ionbombs,upgrade,21
 heightenedperception,upgrade,9
 instinctiveaim,upgrade,6
-sense,upgrade,4
+sense,upgrade,5
 supernaturalreflexes,upgrade,6
 brilliantevasion,upgrade,5
 hate,upgrade,3
@@ -575,8 +575,8 @@ saboteursmap,upgrade,0
 scannerbaffler,upgrade,0
 barragerockets,upgrade,13
 clustermissiles,upgrade,35
-concussionmissiles,upgrade,49
-homingmissiles,upgrade,34
+concussionmissiles,upgrade,50
+homingmissiles,upgrade,35
 ionmissiles,upgrade,37
 protonrockets,upgrade,51
 energyshellcharges,upgrade,1
@@ -600,10 +600,10 @@ synchronizedconsole,upgrade,3
 sparepartscanisters,upgrade,2
 delayedfuses,upgrade,31
 angleddeflectors,upgrade,9
-targetingcomputer,upgrade,24
+targetingcomputer,upgrade,25
 advancedsensors,upgrade,29
 collisiondetector,upgrade,22
-firecontrolsystem,upgrade,39
+firecontrolsystem,upgrade,40
 trajectorysimulator,upgrade,10
 passivesensors,upgrade,44
 kraken,upgrade,5
@@ -612,7 +612,7 @@ k2b4,upgrade,2
 ta175,upgrade,0
 composure,upgrade,17
 crackshot,upgrade,26
-daredevil,upgrade,8
+daredevil,upgrade,9
 debrisgambit,upgrade,11
 elusive,upgrade,14
 experthandling,upgrade,4
@@ -667,7 +667,7 @@ moldycrow,upgrade,15
 outrider,upgrade,3
 phantom,upgrade,13
 punishingone,upgrade,2
-st321,upgrade,12
+st321,upgrade,13
 shadowcaster,upgrade,8
 slavei,upgrade,1
 virago,upgrade,6
