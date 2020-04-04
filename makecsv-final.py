@@ -219,11 +219,14 @@ with urllib.request.urlopen( 'https://tabletop.to/jank-tank-open/listjuggler' ) 
 oships = []
 olists = []
 
+noyasb = []
+badlist = []
+
 # One line per list
 for l in combined['tournament']['players']:
     if len(l['list']) > 0:
         if not 'yasb' in l['list']['vendor']:
-            print('No YASB ' + l['name'])
+           noyasb.append( l['name'] + ' using ' + list(l['list']['vendor'].keys())[0] )
 
         vendor = list(l['list']['vendor'].values())[0]
         link = ''
@@ -267,7 +270,16 @@ for l in combined['tournament']['players']:
 
         olists.append(olist)
     else:
-        print('BAD LIST ' + l['name'])
+        badlist.append(l['name'])
+
+print(f'{len(badlist)} with bad lists:')
+for u in badlist:
+    print(' ' + u)
+
+print(f'{len(noyasb)} not using YASB:')
+for u in noyasb:
+    print(' ' + u)
+
 
 with open('lists-final.csv', 'w', newline='', encoding='UTF-8') as csvfile:
     writer = csv.DictWriter(csvfile, fieldnames=[*olist])
