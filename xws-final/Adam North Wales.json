@@ -1,0 +1,52 @@
+{
+    "discord": "buffangel5#9664",
+    "name": "Adam North Wales",
+    "xws": {
+        "faction": "galacticempire",
+        "name": "Adam Shipley JTO",
+        "pilots": [
+            {
+                "id": "lieutenantsai",
+                "points": 65,
+                "ship": "lambdaclasst4ashuttle",
+                "upgrades": {
+                    "cannon": [
+                        "autoblasters"
+                    ],
+                    "crew": [
+                        "emperorpalpatine"
+                    ],
+                    "title": [
+                        "st321"
+                    ]
+                }
+            },
+            {
+                "id": "alphasquadronpilot",
+                "points": 31,
+                "ship": "tieininterceptor",
+                "upgrades": {}
+            },
+            {
+                "id": "darthvader",
+                "points": 70,
+                "ship": "tieadvancedx1",
+                "upgrades": {
+                    "force-power": [
+                        "heightenedperception"
+                    ]
+                }
+            },
+            {
+                "id": "lieutenantkestal",
+                "points": 31,
+                "ship": "tieagaggressor",
+                "upgrades": {}
+            }
+        ],
+        "points": 197,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Galactic%20Empire&d=v8ZsZ200Z166XW232W29WWW162Y182XWY173X72WWWY187XWWWWW&sn=Adam%20Shipley%20JTO&obs="
+}

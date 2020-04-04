@@ -1,0 +1,62 @@
+{
+    "discord": "Kern0wChris#3872",
+    "name": "Chris Burnett",
+    "xws": {
+        "faction": "rebelalliance",
+        "name": "Chris Burnett JTO",
+        "pilots": [
+            {
+                "id": "norrawexley",
+                "points": 63,
+                "ship": "arc170starfighter",
+                "upgrades": {
+                    "crew": [
+                        "k2so"
+                    ]
+                }
+            },
+            {
+                "id": "lieutenantblount",
+                "points": 37,
+                "ship": "z95af4headhunter",
+                "upgrades": {
+                    "missile": [
+                        "concussionmissiles"
+                    ],
+                    "talent": [
+                        "crackshot"
+                    ]
+                }
+            },
+            {
+                "id": "arvelcrynyd",
+                "points": 34,
+                "ship": "rz1awing",
+                "upgrades": {}
+            },
+            {
+                "id": "rebelscout",
+                "points": 66,
+                "ship": "hwk290lightfreighter",
+                "upgrades": {
+                    "crew": [
+                        "leiaorgana"
+                    ],
+                    "device": [
+                        "protonbombs"
+                    ],
+                    "modification": [
+                        "staticdischargevanes"
+                    ],
+                    "title": [
+                        "moldycrow"
+                    ]
+                }
+            }
+        ],
+        "points": 200,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Rebel%20Alliance&d=v8ZsZ200Z77XWW314WWWY55X116W99WY51XWWY49X69W46W109WW156&sn=Chris%20Burnett%20JTO&obs="
+}

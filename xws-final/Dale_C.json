@@ -1,0 +1,66 @@
+{
+    "discord": "Dale_C",
+    "name": "Dale_C",
+    "xws": {
+        "faction": "rebelalliance",
+        "name": "Dale Capron JTO",
+        "pilots": [
+            {
+                "id": "chewbacca",
+                "points": 103,
+                "ship": "modifiedyt1300lightfreighter",
+                "upgrades": {
+                    "crew": [
+                        "perceptivecopilot"
+                    ],
+                    "gunner": [
+                        "hansolo"
+                    ],
+                    "missile": [
+                        "protonrockets"
+                    ],
+                    "modification": [
+                        "munitionsfailsafe",
+                        "tacticalscrambler"
+                    ]
+                }
+            },
+            {
+                "id": "kullbeesperado",
+                "points": 64,
+                "ship": "t65xwing",
+                "upgrades": {
+                    "configuration": [
+                        "servomotorsfoils"
+                    ],
+                    "illicit": [
+                        "deadmansswitch"
+                    ],
+                    "modification": [
+                        "shieldupgrade"
+                    ],
+                    "talent": [
+                        "squadleader"
+                    ]
+                }
+            },
+            {
+                "id": "sabinewren-tielnfighter",
+                "points": 32,
+                "ship": "tielnfighter",
+                "upgrades": {
+                    "modification": [
+                        "electronicbaffle"
+                    ],
+                    "talent": [
+                        "marksmanship"
+                    ]
+                }
+            }
+        ],
+        "points": 199,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Rebel%20Alliance&d=v8ZsZ200Z44XW102W84WW54W108W110WY12X93W131WWW165W142Y13X125W106&sn=Dale%20Capron%20JTO&obs="
+}

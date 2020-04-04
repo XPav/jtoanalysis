@@ -1,0 +1,55 @@
+{
+    "discord": "warmdown#9551",
+    "name": "warmdown",
+    "xws": {
+        "faction": "galacticempire",
+        "name": "Patrick Steiche JTO",
+        "pilots": [
+            {
+                "id": "seynmarana",
+                "points": 32,
+                "ship": "tielnfighter",
+                "upgrades": {
+                    "modification": [
+                        "munitionsfailsafe"
+                    ],
+                    "talent": [
+                        "marksmanship"
+                    ]
+                }
+            },
+            {
+                "id": "stormsquadronace",
+                "points": 39,
+                "ship": "tieadvancedx1",
+                "upgrades": {}
+            },
+            {
+                "id": "majorvermeil",
+                "points": 49,
+                "ship": "tiereaper",
+                "upgrades": {}
+            },
+            {
+                "id": "lieutenantkestal",
+                "points": 31,
+                "ship": "tieagaggressor",
+                "upgrades": {}
+            },
+            {
+                "id": "seventhsister",
+                "points": 48,
+                "ship": "tieadvancedv1",
+                "upgrades": {
+                    "missile": [
+                        "clustermissiles"
+                    ]
+                }
+            }
+        ],
+        "points": 199,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Galactic%20Empire&d=v8ZsZ200Z224X125W108Y177XWWWY183XWWWY187XWWWWWY170XWW98&sn=Patrick%20Steiche%20JTO&obs="
+}

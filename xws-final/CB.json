@@ -1,0 +1,58 @@
+{
+    "discord": "Snake#0625",
+    "name": "CB",
+    "xws": {
+        "faction": "rebelalliance",
+        "name": "Christian Bonet JTO",
+        "obstacles": [
+            "coreasteroid5",
+            "core2asteroid4",
+            "core2asteroid5"
+        ],
+        "pilots": [
+            {
+                "id": "fennrau-sheathipedeclassshuttle",
+                "points": 64,
+                "ship": "sheathipedeclassshuttle",
+                "upgrades": {
+                    "astromech": [
+                        "r4astromech"
+                    ],
+                    "modification": [
+                        "hullupgrade"
+                    ],
+                    "talent": [
+                        "snapshot"
+                    ],
+                    "title": [
+                        "phantom"
+                    ]
+                }
+            },
+            {
+                "id": "hansolo-modifiedyt1300lightfreighter",
+                "points": 90,
+                "ship": "modifiedyt1300lightfreighter",
+                "upgrades": {
+                    "crew": [
+                        "r2d2-crew"
+                    ]
+                }
+            },
+            {
+                "id": "bladesquadronveteran",
+                "points": 45,
+                "ship": "asf01bwing",
+                "upgrades": {
+                    "cannon": [
+                        "autoblasters"
+                    ]
+                }
+            }
+        ],
+        "points": 199,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Rebel%20Alliance&d=v8ZsZ200Z69X256WW164W5W167Y42XWWWW56WWWY75XWW232WWWW&sn=Christian%20Bonet%20JTO&obs=coreasteroid5,core2asteroid4,core2asteroid5"
+}

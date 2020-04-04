@@ -1,0 +1,63 @@
+{
+    "discord": "jagsba#3751",
+    "name": "jagsba",
+    "xws": {
+        "faction": "galacticempire",
+        "name": "JesseJTO",
+        "pilots": [
+            {
+                "id": "maarekstele",
+                "points": 52,
+                "ship": "tieadvancedx1",
+                "upgrades": {
+                    "sensor": [
+                        "collisiondetector"
+                    ],
+                    "talent": [
+                        "ruthless"
+                    ]
+                }
+            },
+            {
+                "id": "turrphennir",
+                "points": 45,
+                "ship": "tieininterceptor",
+                "upgrades": {
+                    "talent": [
+                        "swarmtactics"
+                    ]
+                }
+            },
+            {
+                "id": "lieutenantsai",
+                "points": 58,
+                "ship": "lambdaclasst4ashuttle",
+                "upgrades": {
+                    "cannon": [
+                        "jammingbeam"
+                    ],
+                    "crew": [
+                        "seventhsister"
+                    ],
+                    "sensor": [
+                        "firecontrolsystem"
+                    ]
+                }
+            },
+            {
+                "id": "inquisitor",
+                "points": 41,
+                "ship": "tieadvancedv1",
+                "upgrades": {
+                    "missile": [
+                        "concussionmissiles"
+                    ]
+                }
+            }
+        ],
+        "points": 196,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Galactic%20Empire&d=v8ZsZ200Z174X128W112WWY180X132WWY166X113W12W60WWWY171XWW99&sn=JesseJTO&obs="
+}

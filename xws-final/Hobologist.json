@@ -1,0 +1,58 @@
+{
+    "discord": "Hobologist#4421",
+    "name": "Hobologist",
+    "xws": {
+        "faction": "scumandvillainy",
+        "name": "Space Rats",
+        "obstacles": [
+            "gascloud1",
+            "gascloud2",
+            "gascloud3"
+        ],
+        "pilots": [
+            {
+                "id": "captainjostero",
+                "points": 49,
+                "ship": "kihraxzfighter",
+                "upgrades": {
+                    "missile": [
+                        "protonrockets"
+                    ]
+                }
+            },
+            {
+                "id": "ig88d",
+                "points": 66,
+                "ship": "aggressorassaultfighter",
+                "upgrades": {
+                    "cannon": [
+                        "jammingbeam"
+                    ],
+                    "device": [
+                        "seismiccharges"
+                    ]
+                }
+            },
+            {
+                "id": "crymorahgoon",
+                "points": 30,
+                "ship": "btla4ywing",
+                "upgrades": {}
+            },
+            {
+                "id": "talonbanecobra",
+                "points": 55,
+                "ship": "kihraxzfighter",
+                "upgrades": {
+                    "missile": [
+                        "clustermissiles"
+                    ]
+                }
+            }
+        ],
+        "points": 200,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Scum%20and%20Villainy&d=v8ZsZ200Z122X102WWWWY84XWW12WW71WWWY88XWWWWWWY119XW98WWWW&sn=Space%20Rats&obs=gascloud1,gascloud2,gascloud3"
+}

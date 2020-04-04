@@ -1,0 +1,83 @@
+{
+    "discord": "oiseaux#5895",
+    "name": "oiseaux",
+    "xws": {
+        "faction": "galacticempire",
+        "name": "Nick Rochow JTO",
+        "pilots": [
+            {
+                "id": "majorvynder",
+                "points": 62,
+                "ship": "alphaclassstarwing",
+                "upgrades": {
+                    "configuration": [
+                        "os1arsenalloadout"
+                    ],
+                    "missile": [
+                        "concussionmissiles"
+                    ],
+                    "modification": [
+                        "advancedslam"
+                    ],
+                    "sensor": [
+                        "passivesensors"
+                    ],
+                    "torpedo": [
+                        "plasmatorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "doubleedge",
+                "points": 60,
+                "ship": "tieagaggressor",
+                "upgrades": {
+                    "gunner": [
+                        "fifthbrother"
+                    ],
+                    "missile": [
+                        "magpulsewarheads"
+                    ],
+                    "modification": [
+                        "shieldupgrade"
+                    ],
+                    "talent": [
+                        "swarmtactics"
+                    ],
+                    "turret": [
+                        "ioncannonturret"
+                    ]
+                }
+            },
+            {
+                "id": "nusquadronpilot",
+                "points": 50,
+                "ship": "alphaclassstarwing",
+                "upgrades": {
+                    "cannon": [
+                        "tractorbeam"
+                    ],
+                    "configuration": [
+                        "xg1assaultconfiguration"
+                    ],
+                    "sensor": [
+                        "firecontrolsystem"
+                    ],
+                    "torpedo": [
+                        "protontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "scimitarsquadronpilot",
+                "points": 27,
+                "ship": "tiesabomber",
+                "upgrades": {}
+            }
+        ],
+        "points": 199,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Galactic%20Empire&d=v8ZsZ200Z161XW240W234W99W104W139WWY188X132W138W311WW82W165Y164X113W136WWW144W13Y208XWWWWWW&sn=Nick%20Rochow%20JTO&obs="
+}

@@ -1,0 +1,53 @@
+{
+    "discord": "kengrory#9880",
+    "name": "kengrory",
+    "xws": {
+        "faction": "rebelalliance",
+        "name": "Kenny Turner JTO",
+        "pilots": [
+            {
+                "id": "chopper",
+                "points": 74,
+                "ship": "vcx100lightfreighter",
+                "upgrades": {
+                    "crew": [
+                        "chewbacca"
+                    ],
+                    "modification": [
+                        "tacticalscrambler"
+                    ]
+                }
+            },
+            {
+                "id": "ibtisam",
+                "points": 73,
+                "ship": "arc170starfighter",
+                "upgrades": {
+                    "astromech": [
+                        "r2d2"
+                    ],
+                    "crew": [
+                        "perceptivecopilot"
+                    ],
+                    "torpedo": [
+                        "protontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "esegetuketu",
+                "points": 52,
+                "ship": "btls8kwing",
+                "upgrades": {
+                    "missile": [
+                        "barragerockets"
+                    ]
+                }
+            }
+        ],
+        "points": 199,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Rebel%20Alliance&d=v8ZsZ200Z63XWWW21WW110WWY80XW136W54WW3WY18XWW97WWWWW&sn=Kenny%20Turner%20JTO&obs="
+}

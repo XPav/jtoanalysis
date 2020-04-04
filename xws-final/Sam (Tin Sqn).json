@@ -1,0 +1,67 @@
+{
+    "discord": "SamTinSquadron#8943",
+    "name": "Sam (Tin Sqn)",
+    "xws": {
+        "faction": "galacticempire",
+        "name": "SamTinSquadron JTO",
+        "pilots": [
+            {
+                "id": "majorvermeil",
+                "points": 70,
+                "ship": "tiereaper",
+                "upgrades": {
+                    "crew": [
+                        "agentkallus",
+                        "grandinquisitor"
+                    ],
+                    "modification": [
+                        "tacticalscrambler"
+                    ],
+                    "talent": [
+                        "marksmanship"
+                    ]
+                }
+            },
+            {
+                "id": "doubleedge",
+                "points": 33,
+                "ship": "tieagaggressor",
+                "upgrades": {
+                    "modification": [
+                        "munitionsfailsafe"
+                    ],
+                    "turret": [
+                        "dorsalturret"
+                    ]
+                }
+            },
+            {
+                "id": "onyxsquadronscout",
+                "points": 40,
+                "ship": "tieagaggressor",
+                "upgrades": {
+                    "missile": [
+                        "protonrockets"
+                    ],
+                    "turret": [
+                        "ioncannonturret"
+                    ]
+                }
+            },
+            {
+                "id": "vizier",
+                "points": 56,
+                "ship": "tiereaper",
+                "upgrades": {
+                    "crew": [
+                        "emperorpalpatine"
+                    ]
+                }
+            }
+        ],
+        "points": 199,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Galactic%20Empire&d=v8ZsZ200Z183X125W15W33W110Y188XW137WWWW108Y189XW138W102WWWY185X29WW&sn=SamTinSquadron%20JTO&obs="
+}

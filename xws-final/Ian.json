@@ -1,0 +1,46 @@
+{
+    "discord": "Daith#8485",
+    "name": "Ian",
+    "xws": {
+        "faction": "rebelalliance",
+        "name": "Ian Becker JTO",
+        "pilots": [
+            {
+                "id": "landocalrissian-modifiedyt1300lightfreighter",
+                "points": 95,
+                "ship": "modifiedyt1300lightfreighter",
+                "upgrades": {
+                    "crew": [
+                        "niennunb"
+                    ],
+                    "gunner": [
+                        "veteranturretgunner"
+                    ],
+                    "modification": [
+                        "delayedfuses"
+                    ]
+                }
+            },
+            {
+                "id": "corranhorn",
+                "points": 76,
+                "ship": "ewing",
+                "upgrades": {
+                    "sensor": [
+                        "advancedsensors"
+                    ]
+                }
+            },
+            {
+                "id": "talasquadronpilot",
+                "points": 24,
+                "ship": "z95af4headhunter",
+                "upgrades": {}
+            }
+        ],
+        "points": 195,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Rebel%20Alliance&d=v8ZsZ200Z43XWW90W52WW236WWY21XW111WWWY56XWW&sn=Ian%20Becker%20JTO&obs="
+}

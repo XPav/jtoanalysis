@@ -1,0 +1,52 @@
+{
+    "discord": "liongkers",
+    "name": "mrdeeds",
+    "xws": {
+        "faction": "rebelalliance",
+        "name": "mrdeeds list",
+        "obstacles": [
+            "yt2400debris0",
+            "yt2400debris1",
+            "yt2400debris2"
+        ],
+        "pilots": [
+            {
+                "id": "dashrendar",
+                "points": 107,
+                "ship": "yt2400lightfreighter",
+                "upgrades": {
+                    "crew": [
+                        "landocalrissian"
+                    ],
+                    "title": [
+                        "outrider"
+                    ]
+                }
+            },
+            {
+                "id": "sabinewren",
+                "points": 41,
+                "ship": "attackshuttle",
+                "upgrades": {
+                    "title": [
+                        "phantom"
+                    ]
+                }
+            },
+            {
+                "id": "magvayarro",
+                "points": 50,
+                "ship": "ut60duwing",
+                "upgrades": {
+                    "configuration": [
+                        "pivotwing"
+                    ]
+                }
+            }
+        ],
+        "points": 198,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Rebel%20Alliance&d=v8ZsZ200Z39XWWW44WW157WY66XWWWW167Y34XWWWWW140W&sn=mrdeeds%20list&obs=yt2400debris0,yt2400debris1,yt2400debris2"
+}

@@ -1,0 +1,59 @@
+{
+    "discord": "Hujoe Bigs #0404",
+    "name": "Garrett J",
+    "xws": {
+        "faction": "scumandvillainy",
+        "name": "Garrett Jost JTO",
+        "pilots": [
+            {
+                "id": "ahhav",
+                "points": 30,
+                "ship": "modifiedtielnfighter",
+                "upgrades": {}
+            },
+            {
+                "id": "hiredgun",
+                "points": 38,
+                "ship": "btla4ywing",
+                "upgrades": {
+                    "modification": [
+                        "munitionsfailsafe"
+                    ],
+                    "turret": [
+                        "ioncannonturret"
+                    ]
+                }
+            },
+            {
+                "id": "graz",
+                "points": 48,
+                "ship": "kihraxzfighter",
+                "upgrades": {
+                    "illicit": [
+                        "deadmansswitch"
+                    ]
+                }
+            },
+            {
+                "id": "blacksunassassin",
+                "points": 56,
+                "ship": "starviperclassattackplatform",
+                "upgrades": {
+                    "title": [
+                        "virago"
+                    ]
+                }
+            },
+            {
+                "id": "l337-escapecraft",
+                "points": 26,
+                "ship": "escapecraft",
+                "upgrades": {}
+            }
+        ],
+        "points": 198,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Scum%20and%20Villainy&d=v8ZsZ200Z249XWY87XW138WWWWWW108Y120XWW93WWWY150XWWWW163WY95XWW&sn=Garrett%20Jost%20JTO&obs="
+}

@@ -1,0 +1,57 @@
+{
+    "discord": "Scrub_Lord_27#4628",
+    "name": "Benjamin",
+    "xws": {
+        "faction": "rebelalliance",
+        "name": "Benjamin Capovilla JTO",
+        "pilots": [
+            {
+                "id": "knavesquadronescort",
+                "points": 62,
+                "ship": "ewing",
+                "upgrades": {
+                    "astromech": [
+                        "r5astromech"
+                    ],
+                    "sensor": [
+                        "firecontrolsystem"
+                    ],
+                    "torpedo": [
+                        "iontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "chopper",
+                "points": 95,
+                "ship": "vcx100lightfreighter",
+                "upgrades": {
+                    "crew": [
+                        "landocalrissian",
+                        "cassianandor"
+                    ],
+                    "gunner": [
+                        "hansolo"
+                    ],
+                    "turret": [
+                        "ioncannonturret"
+                    ]
+                }
+            },
+            {
+                "id": "bluesquadronescort",
+                "points": 40,
+                "ship": "t65xwing",
+                "upgrades": {
+                    "configuration": [
+                        "servomotorsfoils"
+                    ]
+                }
+            }
+        ],
+        "points": 197,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Rebel%20Alliance&d=v8ZsZ200Z24X113W135W6WY63XWW138W44W19WW84WY1XWWW142&sn=Benjamin%20Capovilla%20JTO&obs="
+}

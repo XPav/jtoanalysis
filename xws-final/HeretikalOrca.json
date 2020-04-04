@@ -1,0 +1,62 @@
+{
+    "discord": "HeretikalOrca#3832",
+    "name": "HeretikalOrca",
+    "xws": {
+        "faction": "firstorder",
+        "name": "HeretikalOrca JTO",
+        "pilots": [
+            {
+                "id": "midnight",
+                "points": 51,
+                "ship": "tiefofighter",
+                "upgrades": {
+                    "modification": [
+                        "munitionsfailsafe"
+                    ],
+                    "talent": [
+                        "snapshot"
+                    ],
+                    "tech": [
+                        "biohexacryptcodes"
+                    ]
+                }
+            },
+            {
+                "id": "sienarjaemusengineer",
+                "points": 69,
+                "ship": "tievnsilencer",
+                "upgrades": {
+                    "missile": [
+                        "protonrockets"
+                    ],
+                    "tech": [
+                        "patternanalyzer"
+                    ],
+                    "torpedo": [
+                        "advprotontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "rush",
+                "points": 80,
+                "ship": "tievnsilencer",
+                "upgrades": {
+                    "missile": [
+                        "concussionmissiles"
+                    ],
+                    "tech": [
+                        "advancedoptics"
+                    ],
+                    "torpedo": [
+                        "protontorpedoes"
+                    ]
+                }
+            }
+        ],
+        "points": 200,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=First%20Order&d=v8ZsZ200Z233X256W202W108Y286X206W134W102Y386X186W136W99&sn=HeretikalOrca%20JTO&obs="
+}

@@ -1,0 +1,58 @@
+{
+    "discord": "MatsJn#0825",
+    "name": "MJN248",
+    "xws": {
+        "faction": "resistance",
+        "name": "Mats Jonsson JTO",
+        "pilots": [
+            {
+                "id": "covanell",
+                "points": 50,
+                "ship": "resistancetransport",
+                "upgrades": {
+                    "astromech": [
+                        "r4astromech"
+                    ],
+                    "crew": [
+                        "tacticalofficer"
+                    ],
+                    "tech": [
+                        "advancedoptics"
+                    ]
+                }
+            },
+            {
+                "id": "poedameron",
+                "points": 86,
+                "ship": "t70xwing",
+                "upgrades": {
+                    "astromech": [
+                        "r2astromech"
+                    ],
+                    "configuration": [
+                        "integratedsfoils"
+                    ],
+                    "missile": [
+                        "protonrockets"
+                    ],
+                    "talent": [
+                        "daredevil"
+                    ],
+                    "title": [
+                        "blackone"
+                    ]
+                }
+            },
+            {
+                "id": "resistancesympathizer",
+                "points": 60,
+                "ship": "scavengedyt1300",
+                "upgrades": {}
+            }
+        ],
+        "points": 196,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Resistance&d=v8ZsZ200Z351XW186WWWW61W5WY231X117W2WW175WW171W102Y295XWWWWWW&sn=Mats%20Jonsson%20JTO&obs="
+}

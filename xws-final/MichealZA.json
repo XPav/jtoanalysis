@@ -1,0 +1,51 @@
+{
+    "discord": "Micheal[ZA]#4506",
+    "name": "Micheal[ZA]",
+    "xws": {
+        "faction": "scumandvillainy",
+        "name": "Micheal Wells JTO",
+        "obstacles": [
+            "vt49decimatordebris0",
+            "gascloud1",
+            "gascloud6"
+        ],
+        "pilots": [
+            {
+                "id": "emonazzameen",
+                "points": 98,
+                "ship": "firesprayclasspatrolcraft",
+                "upgrades": {
+                    "device": [
+                        "clustermines",
+                        "proximitymines"
+                    ],
+                    "missile": [
+                        "homingmissiles"
+                    ],
+                    "talent": [
+                        "lonewolf"
+                    ],
+                    "title": [
+                        "andrasta"
+                    ]
+                }
+            },
+            {
+                "id": "g4rgorvm",
+                "points": 28,
+                "ship": "m3ainterceptor",
+                "upgrades": {}
+            },
+            {
+                "id": "asajjventress",
+                "points": 72,
+                "ship": "lancerclasspursuitcraft",
+                "upgrades": {}
+            }
+        ],
+        "points": 198,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Scum%20and%20Villainy&d=v8ZsZ200Z104X124WW100WW316WWW146W70Y399XWY125XWWWWW&sn=Micheal%20Wells%20JTO&obs=vt49decimatordebris0,gascloud1,gascloud6"
+}

@@ -1,0 +1,65 @@
+{
+    "discord": "ketchupman#3639",
+    "name": "ketchupman",
+    "xws": {
+        "faction": "scumandvillainy",
+        "name": "Joe Detchemendy JTO",
+        "obstacles": [
+            "coreasteroid5",
+            "gascloud2",
+            "gascloud5"
+        ],
+        "pilots": [
+            {
+                "id": "graz",
+                "points": 48,
+                "ship": "kihraxzfighter",
+                "upgrades": {
+                    "illicit": [
+                        "deadmansswitch"
+                    ]
+                }
+            },
+            {
+                "id": "blacksunassassin",
+                "points": 56,
+                "ship": "starviperclassattackplatform",
+                "upgrades": {
+                    "title": [
+                        "virago"
+                    ]
+                }
+            },
+            {
+                "id": "outerrimpioneer",
+                "points": 30,
+                "ship": "escapecraft",
+                "upgrades": {
+                    "talent": [
+                        "predator"
+                    ]
+                }
+            },
+            {
+                "id": "sarcoplank",
+                "points": 34,
+                "ship": "quadrijettransferspacetug",
+                "upgrades": {
+                    "modification": [
+                        "electronicbaffle"
+                    ]
+                }
+            },
+            {
+                "id": "genesisred",
+                "points": 31,
+                "ship": "m3ainterceptor",
+                "upgrades": {}
+            }
+        ],
+        "points": 199,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Scum%20and%20Villainy&d=v8ZsZ200Z120XWW93WWWY150XWWWW163WY94X127WWY141XWWWW106Y133XWW&sn=Joe%20Detchemendy%20JTO&obs=coreasteroid5,gascloud2,gascloud5"
+}

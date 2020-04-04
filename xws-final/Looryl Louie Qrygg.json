@@ -1,0 +1,53 @@
+{
+    "discord": "ootinni#1425",
+    "name": "Looryl \"Louie\" Qrygg",
+    "xws": {
+        "faction": "rebelalliance",
+        "name": "Looryl \"Louie\" Qrygg JTO",
+        "pilots": [
+            {
+                "id": "lieutenantblount",
+                "points": 32,
+                "ship": "z95af4headhunter",
+                "upgrades": {
+                    "talent": [
+                        "predator"
+                    ]
+                }
+            },
+            {
+                "id": "wildspacefringer",
+                "points": 110,
+                "ship": "yt2400lightfreighter",
+                "upgrades": {
+                    "gunner": [
+                        "lukeskywalker"
+                    ],
+                    "illicit": [
+                        "contrabandcybernetics"
+                    ],
+                    "modification": [
+                        "hullupgrade"
+                    ]
+                }
+            },
+            {
+                "id": "magvayarro",
+                "points": 58,
+                "ship": "ut60duwing",
+                "upgrades": {
+                    "configuration": [
+                        "pivotwing"
+                    ],
+                    "crew": [
+                        "k2so"
+                    ]
+                }
+            }
+        ],
+        "points": 200,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Rebel%20Alliance&d=v8ZsZ200Z55X127WWY41XW87WW164WW92Y34XWW314WWW140W&sn=Looryl%20%22Louie%22%20Qrygg%20JTO&obs="
+}

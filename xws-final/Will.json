@@ -1,0 +1,61 @@
+{
+    "discord": "Scooter8709#5600",
+    "name": "Will",
+    "xws": {
+        "faction": "galacticempire",
+        "name": "William Scott JTO",
+        "obstacles": [
+            "gascloud4",
+            "gascloud5",
+            "gascloud6"
+        ],
+        "pilots": [
+            {
+                "id": "deltasquadronpilot",
+                "points": 72,
+                "ship": "tieddefender",
+                "upgrades": {
+                    "missile": [
+                        "homingmissiles"
+                    ]
+                }
+            },
+            {
+                "id": "puresabacc",
+                "points": 59,
+                "ship": "tieskstriker",
+                "upgrades": {
+                    "device": [
+                        "seismiccharges"
+                    ],
+                    "gunner": [
+                        "fifthbrother"
+                    ],
+                    "talent": [
+                        "ruthless"
+                    ]
+                }
+            },
+            {
+                "id": "lieutenantkestal",
+                "points": 36,
+                "ship": "tieagaggressor",
+                "upgrades": {
+                    "missile": [
+                        "homingmissiles"
+                    ]
+                }
+            },
+            {
+                "id": "alphasquadronpilot",
+                "points": 31,
+                "ship": "tieininterceptor",
+                "upgrades": {}
+            }
+        ],
+        "points": 198,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Galactic%20Empire&d=v8ZsZ200Z198XWW100Y210X128W82W71WY187XWW100WWWY182XW&sn=William%20Scott%20JTO&obs=gascloud4,gascloud5,gascloud6"
+}

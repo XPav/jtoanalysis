@@ -1,0 +1,59 @@
+{
+    "discord": "ryan talonbane#1066",
+    "name": "Rc4b2 ",
+    "xws": {
+        "faction": "scumandvillainy",
+        "name": "Ryan Becker JTO",
+        "obstacles": [
+            "coreasteroid0",
+            "coreasteroid1",
+            "yt2400debris0"
+        ],
+        "pilots": [
+            {
+                "id": "ahhav",
+                "points": 37,
+                "ship": "modifiedtielnfighter",
+                "upgrades": {
+                    "talent": [
+                        "snapshot"
+                    ]
+                }
+            },
+            {
+                "id": "shadowporthunter",
+                "points": 60,
+                "ship": "lancerclasspursuitcraft",
+                "upgrades": {
+                    "crew": [
+                        "novicetechnician"
+                    ]
+                }
+            },
+            {
+                "id": "shadowporthunter",
+                "points": 58,
+                "ship": "lancerclasspursuitcraft",
+                "upgrades": {
+                    "illicit": [
+                        "contrabandcybernetics"
+                    ]
+                }
+            },
+            {
+                "id": "cartelexecutioner",
+                "points": 45,
+                "ship": "m12lkimogilafighter",
+                "upgrades": {
+                    "astromech": [
+                        "r5p8"
+                    ]
+                }
+            }
+        ],
+        "points": 200,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Scum%20and%20Villainy&d=v8ZsZ200Z249X256WY128X53WWWWY128XW92WWWY131XWWW8WW&sn=Ryan%20Becker%20JTO&obs=coreasteroid0,coreasteroid1,yt2400debris0"
+}

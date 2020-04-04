@@ -1,0 +1,59 @@
+{
+    "discord": "Kckid#2385",
+    "name": "Ryan Kriesch",
+    "xws": {
+        "faction": "galacticempire",
+        "name": "Ryan Kriesch JTO",
+        "obstacles": [
+            "core2asteroid3",
+            "core2asteroid4",
+            "core2asteroid5"
+        ],
+        "pilots": [
+            {
+                "id": "maarekstele",
+                "points": 46,
+                "ship": "tieadvancedx1",
+                "upgrades": {
+                    "talent": [
+                        "composure"
+                    ]
+                }
+            },
+            {
+                "id": "deltasquadronpilot",
+                "points": 70,
+                "ship": "tieddefender",
+                "upgrades": {
+                    "sensor": [
+                        "passivesensors"
+                    ]
+                }
+            },
+            {
+                "id": "scarifbasepilot",
+                "points": 53,
+                "ship": "tiereaper",
+                "upgrades": {
+                    "crew": [
+                        "seventhsister",
+                        "directorkrennic"
+                    ],
+                    "modification": [
+                        "munitionsfailsafe"
+                    ]
+                }
+            },
+            {
+                "id": "scourgeskutu",
+                "points": 31,
+                "ship": "tielnfighter",
+                "upgrades": {}
+            }
+        ],
+        "points": 200,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Galactic%20Empire&d=v8ZsZ200Z174X115WWWY198X240WWY186X60W28W108Y220XW&sn=Ryan%20Kriesch%20JTO&obs=core2asteroid3,core2asteroid4,core2asteroid5"
+}

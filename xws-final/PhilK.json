@@ -1,0 +1,56 @@
+{
+    "discord": "pakirby#0989",
+    "name": "PhilK",
+    "xws": {
+        "faction": "galacticempire",
+        "name": "Phil Kirby JTO",
+        "pilots": [
+            {
+                "id": "vizier",
+                "points": 56,
+                "ship": "tiereaper",
+                "upgrades": {
+                    "crew": [
+                        "moffjerjerrod"
+                    ],
+                    "modification": [
+                        "hullupgrade"
+                    ]
+                }
+            },
+            {
+                "id": "fifthbrother",
+                "points": 48,
+                "ship": "tieadvancedv1",
+                "upgrades": {
+                    "missile": [
+                        "magpulsewarheads"
+                    ]
+                }
+            },
+            {
+                "id": "howlrunner",
+                "points": 46,
+                "ship": "tielnfighter",
+                "upgrades": {}
+            },
+            {
+                "id": "tomaxbren",
+                "points": 46,
+                "ship": "tiesabomber",
+                "upgrades": {
+                    "device": [
+                        "protonbombs"
+                    ],
+                    "torpedo": [
+                        "iontorpedoes"
+                    ]
+                }
+            }
+        ],
+        "points": 196,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Galactic%20Empire&d=v8ZsZ200Z185X50WW164Y394XWW311Y217XWY205XW135WWWW69WW&sn=Phil%20Kirby%20JTO&obs="
+}

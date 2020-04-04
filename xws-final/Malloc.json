@@ -1,0 +1,62 @@
+{
+    "discord": "Malloc",
+    "name": "Malloc",
+    "xws": {
+        "faction": "galacticrepublic",
+        "name": "Michael Buccheri JTO",
+        "obstacles": [
+            "gascloud1",
+            "gascloud2",
+            "gascloud3"
+        ],
+        "pilots": [
+            {
+                "id": "r2d2",
+                "points": 36,
+                "ship": "btlbywing",
+                "upgrades": {
+                    "talent": [
+                        "marksmanship"
+                    ]
+                }
+            },
+            {
+                "id": "macewindu",
+                "points": 60,
+                "ship": "delta7aethersprite",
+                "upgrades": {
+                    "force-power": [
+                        "precognitivereflexes"
+                    ],
+                    "modification": [
+                        "stealthdevice"
+                    ]
+                }
+            },
+            {
+                "id": "ahsokatano",
+                "points": 53,
+                "ship": "delta7aethersprite",
+                "upgrades": {
+                    "astromech": [
+                        "r2astromech"
+                    ]
+                }
+            },
+            {
+                "id": "ricolie",
+                "points": 49,
+                "ship": "nabooroyaln1starfighter",
+                "upgrades": {
+                    "talent": [
+                        "juke"
+                    ]
+                }
+            }
+        ],
+        "points": 198,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Galactic%20Republic&d=v8ZsZ200Z362X125WWWWWWY314X250WWW166Y276XW2WWY333X123WWW&sn=Michael%20Buccheri%20JTO&obs=gascloud1,gascloud2,gascloud3"
+}

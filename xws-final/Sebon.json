@@ -1,0 +1,53 @@
+{
+    "discord": "Sebon00#0720",
+    "name": "Sebon ",
+    "xws": {
+        "faction": "firstorder",
+        "name": "Sebon00 Jank Tank",
+        "pilots": [
+            {
+                "id": "avenger",
+                "points": 69,
+                "ship": "tievnsilencer",
+                "upgrades": {
+                    "tech": [
+                        "primedthrusters"
+                    ],
+                    "torpedo": [
+                        "iontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "firstorderprovocateur",
+                "points": 53,
+                "ship": "tiebainterceptor",
+                "upgrades": {
+                    "modification": [
+                        "shieldupgrade"
+                    ]
+                }
+            },
+            {
+                "id": "lieutenantrivas",
+                "points": 27,
+                "ship": "tiefofighter",
+                "upgrades": {}
+            },
+            {
+                "id": "firstorderprovocateur",
+                "points": 50,
+                "ship": "tiebainterceptor",
+                "upgrades": {
+                    "tech": [
+                        "patternanalyzer"
+                    ]
+                }
+            }
+        ],
+        "points": 199,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=First%20Order&d=v8ZsZ200Z283XW178W135WY384XWWW165Y265XWY384XW206WW&sn=Sebon00%20Jank%20Tank&obs="
+}

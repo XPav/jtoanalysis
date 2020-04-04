@@ -1,0 +1,70 @@
+{
+    "discord": "lydhvin#9268",
+    "name": "steffen",
+    "xws": {
+        "faction": "galacticempire",
+        "name": "Steffen Lydvo JTO",
+        "obstacles": [
+            "vt49decimatordebris0",
+            "vt49decimatordebris1",
+            "vt49decimatordebris2"
+        ],
+        "pilots": [
+            {
+                "id": "majorvynder",
+                "points": 72,
+                "ship": "alphaclassstarwing",
+                "upgrades": {
+                    "configuration": [
+                        "xg1assaultconfiguration"
+                    ],
+                    "missile": [
+                        "protonrockets"
+                    ],
+                    "modification": [
+                        "electronicbaffle"
+                    ],
+                    "sensor": [
+                        "collisiondetector"
+                    ],
+                    "talent": [
+                        "swarmtactics"
+                    ],
+                    "torpedo": [
+                        "protontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "vizier",
+                "points": 57,
+                "ship": "tiereaper",
+                "upgrades": {
+                    "crew": [
+                        "perceptivecopilot"
+                    ],
+                    "modification": [
+                        "stealthdevice"
+                    ]
+                }
+            },
+            {
+                "id": "whisper",
+                "points": 71,
+                "ship": "tiephphantom",
+                "upgrades": {
+                    "gunner": [
+                        "fifthbrother"
+                    ],
+                    "talent": [
+                        "elusive"
+                    ]
+                }
+            }
+        ],
+        "points": 200,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Galactic%20Empire&d=v8ZsZ200Z161X132W112W136W102W106W144WY185X54WW166Y199X119WW82W&sn=Steffen%20Lydvo%20JTO&obs=vt49decimatordebris0,vt49decimatordebris1,vt49decimatordebris2"
+}

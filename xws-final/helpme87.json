@@ -1,0 +1,58 @@
+{
+    "discord": "helpme87#5974",
+    "name": "helpme87",
+    "xws": {
+        "faction": "rebelalliance",
+        "name": "Helpme87 JTO",
+        "pilots": [
+            {
+                "id": "leiaorgana",
+                "points": 106,
+                "ship": "modifiedyt1300lightfreighter",
+                "upgrades": {
+                    "crew": [
+                        "chewbacca"
+                    ],
+                    "gunner": [
+                        "ezrabridger"
+                    ],
+                    "missile": [
+                        "concussionmissiles"
+                    ],
+                    "title": [
+                        "millenniumfalcon"
+                    ]
+                }
+            },
+            {
+                "id": "mirandadoni",
+                "points": 61,
+                "ship": "btls8kwing",
+                "upgrades": {
+                    "device": [
+                        "ionbombs"
+                    ],
+                    "gunner": [
+                        "skilledbombardier"
+                    ],
+                    "missile": [
+                        "barragerockets"
+                    ],
+                    "modification": [
+                        "advancedslam"
+                    ]
+                }
+            },
+            {
+                "id": "sabinewren-tielnfighter",
+                "points": 29,
+                "ship": "tielnfighter",
+                "upgrades": {}
+            }
+        ],
+        "points": 196,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Rebel%20Alliance&d=v8ZsZ200Z393XW99W81W21WWWW154Y17XW97WW88WW317WW104Y13XW&sn=Helpme87%20JTO&obs="
+}

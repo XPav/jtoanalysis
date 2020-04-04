@@ -1,0 +1,49 @@
+{
+    "discord": "Kota_Macc (#3996)",
+    "name": "Kota_Macc",
+    "xws": {
+        "faction": "firstorder",
+        "name": "Samuel Carmel JTO",
+        "pilots": [
+            {
+                "id": "backdraft",
+                "points": 68,
+                "ship": "tiesffighter",
+                "upgrades": {
+                    "gunner": [
+                        "specialforcesgunner"
+                    ],
+                    "sensor": [
+                        "advancedsensors"
+                    ],
+                    "tech": [
+                        "deuteriumpowercells"
+                    ]
+                }
+            },
+            {
+                "id": "blackout",
+                "points": 73,
+                "ship": "tievnsilencer",
+                "upgrades": {
+                    "talent": [
+                        "trickshot"
+                    ],
+                    "torpedo": [
+                        "advprotontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "ember",
+                "points": 52,
+                "ship": "tiebainterceptor",
+                "upgrades": {}
+            }
+        ],
+        "points": 193,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=First%20Order&d=v8ZsZ200Z242XW318WW182W111WY237X133WW134WY383XWWW&sn=Samuel%20Carmel%20JTO&obs="
+}

@@ -1,0 +1,68 @@
+{
+    "discord": "bevicadarn",
+    "name": "bevicadarn",
+    "xws": {
+        "faction": "resistance",
+        "name": "Stephen Gage JTO",
+        "pilots": [
+            {
+                "id": "jarekyeager",
+                "points": 50,
+                "ship": "fireball",
+                "upgrades": {
+                    "astromech": [
+                        "bb8"
+                    ],
+                    "modification": [
+                        "delayedfuses"
+                    ],
+                    "talent": [
+                        "juke"
+                    ],
+                    "title": [
+                        "kazsfireball"
+                    ]
+                }
+            },
+            {
+                "id": "colossusstationmechanic",
+                "points": 36,
+                "ship": "fireball",
+                "upgrades": {
+                    "astromech": [
+                        "r5astromech"
+                    ],
+                    "modification": [
+                        "shieldupgrade"
+                    ]
+                }
+            },
+            {
+                "id": "rey",
+                "points": 87,
+                "ship": "scavengedyt1300",
+                "upgrades": {
+                    "crew": [
+                        "informant"
+                    ],
+                    "gunner": [
+                        "finn"
+                    ],
+                    "title": [
+                        "reysmillenniumfalcon"
+                    ]
+                }
+            },
+            {
+                "id": "rosetico",
+                "points": 26,
+                "ship": "resistancetransportpod",
+                "upgrades": {}
+            }
+        ],
+        "points": 199,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Resistance&d=v8ZsZ200Z377X123WW195WW236WW315Y380XW6WW165WWY244XWW37WW174WWW193Y345XWWW&sn=Stephen%20Gage%20JTO&obs="
+}

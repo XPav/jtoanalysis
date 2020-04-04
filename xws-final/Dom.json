@@ -1,0 +1,53 @@
+{
+    "discord": "Dom_88#8162",
+    "name": "Dom",
+    "xws": {
+        "faction": "firstorder",
+        "name": "Angry Kylo",
+        "pilots": [
+            {
+                "id": "pettyofficerthanisson",
+                "points": 73,
+                "ship": "upsilonclasscommandshuttle",
+                "upgrades": {
+                    "cannon": [
+                        "ioncannon"
+                    ],
+                    "crew": [
+                        "generalhux"
+                    ],
+                    "sensor": [
+                        "firecontrolsystem"
+                    ]
+                }
+            },
+            {
+                "id": "starkillerbasepilot",
+                "points": 73,
+                "ship": "upsilonclasscommandshuttle",
+                "upgrades": {
+                    "crew": [
+                        "kyloren"
+                    ],
+                    "modification": [
+                        "stealthdevice"
+                    ]
+                }
+            },
+            {
+                "id": "ember",
+                "points": 54,
+                "ship": "tiebainterceptor",
+                "upgrades": {
+                    "talent": [
+                        "fanatical"
+                    ]
+                }
+            }
+        ],
+        "points": 200,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=First%20Order&d=v8ZsZ200Z281XWW180WWW11W113WY288XWW179WWWWW166Y383X181WWW&sn=Angry%20Kylo&obs="
+}

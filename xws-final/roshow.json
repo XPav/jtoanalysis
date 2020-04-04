@@ -1,0 +1,63 @@
+{
+    "discord": "roshow#7011",
+    "name": "roshow",
+    "xws": {
+        "faction": "galacticempire",
+        "name": "Rolando Garcia JTO",
+        "pilots": [
+            {
+                "id": "alphasquadronpilot",
+                "points": 31,
+                "ship": "tieininterceptor",
+                "upgrades": {}
+            },
+            {
+                "id": "vagabond",
+                "points": 39,
+                "ship": "tieskstriker",
+                "upgrades": {
+                    "device": [
+                        "seismiccharges"
+                    ],
+                    "talent": [
+                        "crackshot"
+                    ]
+                }
+            },
+            {
+                "id": "deathrain",
+                "points": 74,
+                "ship": "tiecapunisher",
+                "upgrades": {
+                    "device": [
+                        "ionbombs"
+                    ],
+                    "missile": [
+                        "clustermissiles",
+                        "protonrockets"
+                    ],
+                    "sensor": [
+                        "trajectorysimulator"
+                    ],
+                    "torpedo": [
+                        "iontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "lieutenantsai",
+                "points": 56,
+                "ship": "lambdaclasst4ashuttle",
+                "upgrades": {
+                    "crew": [
+                        "admiralsloane"
+                    ]
+                }
+            }
+        ],
+        "points": 200,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Galactic%20Empire&d=v8ZsZ200Z182XWY395X116WW71WY192X114W135W98W102WW317WWY166XWW14WWW&sn=Rolando%20Garcia%20JTO&obs="
+}

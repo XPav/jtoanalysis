@@ -1,0 +1,50 @@
+{
+    "discord": "notslap#7780",
+    "name": "yesslap",
+    "xws": {
+        "faction": "resistance",
+        "name": "funwok JTO",
+        "pilots": [
+            {
+                "id": "resistancesympathizer",
+                "points": 60,
+                "ship": "scavengedyt1300",
+                "upgrades": {}
+            },
+            {
+                "id": "chewbacca-scavengedyt1300",
+                "points": 69,
+                "ship": "scavengedyt1300",
+                "upgrades": {
+                    "missile": [
+                        "magpulsewarheads"
+                    ]
+                }
+            },
+            {
+                "id": "rosetico",
+                "points": 31,
+                "ship": "resistancetransportpod",
+                "upgrades": {
+                    "tech": [
+                        "patternanalyzer"
+                    ]
+                }
+            },
+            {
+                "id": "bluesquadronrecruit",
+                "points": 36,
+                "ship": "rz2awing",
+                "upgrades": {
+                    "missile": [
+                        "ionmissiles"
+                    ]
+                }
+            }
+        ],
+        "points": 196,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Resistance&d=v8ZsZ200Z295XWWWWWWY246XW311WWWWWWY345XW206WWY301XW101W&sn=funwok%20JTO&obs="
+}

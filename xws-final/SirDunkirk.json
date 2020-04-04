@@ -1,0 +1,60 @@
+{
+    "discord": "SirDunkirk#6273",
+    "name": "SirDunkirk",
+    "xws": {
+        "faction": "scumandvillainy",
+        "name": "Zach Righetti JTO",
+        "pilots": [
+            {
+                "id": "captainjostero",
+                "points": 48,
+                "ship": "kihraxzfighter",
+                "upgrades": {
+                    "modification": [
+                        "stealthdevice"
+                    ]
+                }
+            },
+            {
+                "id": "ahhav",
+                "points": 33,
+                "ship": "modifiedtielnfighter",
+                "upgrades": {
+                    "talent": [
+                        "fearless"
+                    ]
+                }
+            },
+            {
+                "id": "contractedscout",
+                "points": 50,
+                "ship": "jumpmaster5000",
+                "upgrades": {
+                    "torpedo": [
+                        "plasmatorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "landocalrissian-escapecraft",
+                "points": 29,
+                "ship": "escapecraft",
+                "upgrades": {}
+            },
+            {
+                "id": "constablezuvio",
+                "points": 39,
+                "ship": "quadrijettransferspacetug",
+                "upgrades": {
+                    "device": [
+                        "proximitymines"
+                    ]
+                }
+            }
+        ],
+        "points": 199,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Scum%20and%20Villainy&d=v8ZsZ200Z122XWWW166WY249X121WY118X234WWWWWWY93XWWY140XWWW70WW&sn=Zach%20Righetti%20JTO&obs="
+}

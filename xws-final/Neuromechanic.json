@@ -1,0 +1,64 @@
+{
+    "discord": "Neuromechanic",
+    "name": "Neuromechanic",
+    "xws": {
+        "faction": "galacticempire",
+        "name": "Colin Weber JTO",
+        "obstacles": [
+            "coreasteroid5",
+            "core2asteroid4",
+            "core2asteroid5"
+        ],
+        "pilots": [
+            {
+                "id": "alphasquadronpilot",
+                "points": 31,
+                "ship": "tieininterceptor",
+                "upgrades": {}
+            },
+            {
+                "id": "majorrhymer",
+                "points": 64,
+                "ship": "tiesabomber",
+                "upgrades": {
+                    "device": [
+                        "proximitymines"
+                    ],
+                    "missile": [
+                        "protonrockets"
+                    ],
+                    "modification": [
+                        "hullupgrade"
+                    ],
+                    "torpedo": [
+                        "plasmatorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "captainferoph",
+                "points": 60,
+                "ship": "tiereaper",
+                "upgrades": {
+                    "crew": [
+                        "grandinquisitor"
+                    ]
+                }
+            },
+            {
+                "id": "cutlasssquadronpilot",
+                "points": 45,
+                "ship": "tiecapunisher",
+                "upgrades": {
+                    "torpedo": [
+                        "plasmatorpedoes"
+                    ]
+                }
+            }
+        ],
+        "points": 200,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Galactic%20Empire&d=v8ZsZ200Z182XWY204XW234W102WWW70WW164Y184XW33WWY193XW234WWWWWW&sn=Colin%20Weber%20JTO&obs=coreasteroid5,core2asteroid4,core2asteroid5"
+}

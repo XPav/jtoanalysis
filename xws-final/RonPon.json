@@ -1,0 +1,77 @@
+{
+    "discord": "RonPon",
+    "name": "RonPon",
+    "xws": {
+        "faction": "galacticrepublic",
+        "name": "Ronny Gjendemsj\u00f8 JTO",
+        "obstacles": [
+            "gascloud2",
+            "gascloud3",
+            "gascloud5"
+        ],
+        "pilots": [
+            {
+                "id": "tucker",
+                "points": 36,
+                "ship": "v19torrentstarfighter",
+                "upgrades": {
+                    "missile": [
+                        "homingmissiles"
+                    ],
+                    "modification": [
+                        "electronicbaffle"
+                    ]
+                }
+            },
+            {
+                "id": "macewindu",
+                "points": 80,
+                "ship": "delta7aethersprite",
+                "upgrades": {
+                    "astromech": [
+                        "r5astromech"
+                    ],
+                    "configuration": [
+                        "delta7b"
+                    ],
+                    "force-power": [
+                        "sense"
+                    ],
+                    "modification": [
+                        "stealthdevice"
+                    ]
+                }
+            },
+            {
+                "id": "r2d2",
+                "points": 53,
+                "ship": "btlbywing",
+                "upgrades": {
+                    "device": [
+                        "protonbombs"
+                    ],
+                    "gunner": [
+                        "agilegunner"
+                    ],
+                    "turret": [
+                        "ioncannonturret"
+                    ]
+                }
+            },
+            {
+                "id": "bluesquadronprotector",
+                "points": 28,
+                "ship": "v19torrentstarfighter",
+                "upgrades": {
+                    "talent": [
+                        "crackshot"
+                    ]
+                }
+            }
+        ],
+        "points": 197,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Galactic%20Republic&d=v8ZsZ200Z319X100W106Y314X75W6W201W166Y362XW138WW76WW69WY320X116WW&sn=Ronny%20Gjendemsj%C3%B8%20JTO&obs=gascloud2,gascloud3,gascloud5"
+}

@@ -1,0 +1,68 @@
+{
+    "discord": "Mu0nVassal#4658",
+    "name": "Mu0n",
+    "xws": {
+        "faction": "galacticrepublic",
+        "name": "Mu0n JTO",
+        "obstacles": [
+            "coreasteroid5",
+            "gascloud1",
+            "gascloud2"
+        ],
+        "pilots": [
+            {
+                "id": "bluesquadronprotector",
+                "points": 32,
+                "ship": "v19torrentstarfighter",
+                "upgrades": {
+                    "missile": [
+                        "homingmissiles"
+                    ]
+                }
+            },
+            {
+                "id": "kickback",
+                "points": 38,
+                "ship": "v19torrentstarfighter",
+                "upgrades": {
+                    "missile": [
+                        "ionmissiles"
+                    ],
+                    "talent": [
+                        "marksmanship"
+                    ]
+                }
+            },
+            {
+                "id": "anakinskywalker",
+                "points": 78,
+                "ship": "delta7aethersprite",
+                "upgrades": {
+                    "astromech": [
+                        "c110p"
+                    ],
+                    "configuration": [
+                        "calibratedlasertargeting"
+                    ],
+                    "force-power": [
+                        "foresight"
+                    ]
+                }
+            },
+            {
+                "id": "plokoon",
+                "points": 48,
+                "ship": "delta7aethersprite",
+                "upgrades": {
+                    "configuration": [
+                        "calibratedlasertargeting"
+                    ]
+                }
+            }
+        ],
+        "points": 196,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Galactic%20Republic&d=v8ZsZ200Z320XW100WY315X125W101WY273X251W252W200WY312XWW200W&sn=Mu0n%20JTO&obs=coreasteroid5,gascloud1,gascloud2"
+}

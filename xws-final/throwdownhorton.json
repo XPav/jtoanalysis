@@ -1,0 +1,45 @@
+{
+    "discord": "throwdownhorton #0463",
+    "name": "throwdownhorton",
+    "xws": {
+        "faction": "galacticempire",
+        "name": "Aaron Pa_ JTO",
+        "pilots": [
+            {
+                "id": "deltasquadronpilot",
+                "points": 67,
+                "ship": "tieddefender",
+                "upgrades": {}
+            },
+            {
+                "id": "planetarysentinel",
+                "points": 31,
+                "ship": "tieskstriker",
+                "upgrades": {}
+            },
+            {
+                "id": "zertikstrom",
+                "points": 41,
+                "ship": "tieadvancedx1",
+                "upgrades": {}
+            },
+            {
+                "id": "cutlasssquadronpilot",
+                "points": 50,
+                "ship": "tiecapunisher",
+                "upgrades": {
+                    "device": [
+                        "protonbombs"
+                    ],
+                    "torpedo": [
+                        "plasmatorpedoes"
+                    ]
+                }
+            }
+        ],
+        "points": 189,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Galactic%20Empire&d=v8ZsZ200Z198XWWY213XWWY176XWWY193XW234WWWW69WW&sn=Aaron%20Pa_%20JTO&obs="
+}

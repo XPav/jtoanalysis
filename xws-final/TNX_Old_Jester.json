@@ -1,0 +1,55 @@
+{
+    "discord": "TNX_Old_Jester#5897",
+    "name": "TNX_Old_Jester",
+    "xws": {
+        "faction": "scumandvillainy",
+        "name": "Dimitris Stavropoulos JTO",
+        "pilots": [
+            {
+                "id": "talonbanecobra",
+                "points": 63,
+                "ship": "kihraxzfighter",
+                "upgrades": {
+                    "illicit": [
+                        "feedbackarray"
+                    ],
+                    "modification": [
+                        "stealthdevice"
+                    ],
+                    "talent": [
+                        "trickshot"
+                    ]
+                }
+            },
+            {
+                "id": "ndrusuhlak",
+                "points": 30,
+                "ship": "z95af4headhunter",
+                "upgrades": {}
+            },
+            {
+                "id": "asajjventress",
+                "points": 77,
+                "ship": "lancerclasspursuitcraft",
+                "upgrades": {
+                    "force-power": [
+                        "foresight"
+                    ],
+                    "title": [
+                        "shadowcaster"
+                    ]
+                }
+            },
+            {
+                "id": "ahhav",
+                "points": 30,
+                "ship": "modifiedtielnfighter",
+                "upgrades": {}
+            }
+        ],
+        "points": 200,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Scum%20and%20Villainy&d=v8ZsZ200Z119X133WW94WW166WY156XWWWY125X251WWWWW160Y249XW&sn=Dimitris%20Stavropoulos%20JTO&obs="
+}

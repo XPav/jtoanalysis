@@ -1,0 +1,56 @@
+{
+    "discord": "Xray8763#7766",
+    "name": "xray8763",
+    "xws": {
+        "faction": "galacticempire",
+        "name": "Ray Wickham JTO",
+        "pilots": [
+            {
+                "id": "maarekstele",
+                "points": 53,
+                "ship": "tieadvancedx1",
+                "upgrades": {
+                    "missile": [
+                        "protonrockets"
+                    ],
+                    "modification": [
+                        "munitionsfailsafe"
+                    ]
+                }
+            },
+            {
+                "id": "vizier",
+                "points": 54,
+                "ship": "tiereaper",
+                "upgrades": {
+                    "crew": [
+                        "grandmofftarkin"
+                    ],
+                    "modification": [
+                        "targetingcomputer"
+                    ]
+                }
+            },
+            {
+                "id": "vedfoslo",
+                "points": 54,
+                "ship": "tieadvancedx1",
+                "upgrades": {
+                    "sensor": [
+                        "advancedsensors"
+                    ]
+                }
+            },
+            {
+                "id": "stormsquadronace",
+                "points": 39,
+                "ship": "tieadvancedx1",
+                "upgrades": {}
+            }
+        ],
+        "points": 200,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Galactic%20Empire&d=v8ZsZ200Z174XWW102W108Y185X34WW249Y175XW111WWY177XWWW&sn=Ray%20Wickham%20JTO&obs="
+}

@@ -1,0 +1,43 @@
+{
+    "discord": "User#9729",
+    "name": "Minishe",
+    "xws": {
+        "faction": "scumandvillainy",
+        "name": "Jacqueline Mitchell JTO",
+        "pilots": [
+            {
+                "id": "landocalrissian",
+                "points": 56,
+                "ship": "customizedyt1300lightfreighter",
+                "upgrades": {
+                    "missile": [
+                        "protonrockets"
+                    ]
+                }
+            },
+            {
+                "id": "bountyhunter",
+                "points": 62,
+                "ship": "firesprayclasspatrolcraft",
+                "upgrades": {}
+            },
+            {
+                "id": "ketsuonyo",
+                "points": 74,
+                "ship": "lancerclasspursuitcraft",
+                "upgrades": {
+                    "talent": [
+                        "swarmtactics"
+                    ],
+                    "title": [
+                        "shadowcaster"
+                    ]
+                }
+            }
+        ],
+        "points": 192,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Scum%20and%20Villainy&d=v8ZsZ200Z90XW102WWWWWWY108XWWWWWWY126X132WWWWW160&sn=Jacqueline%20Mitchell%20JTO&obs="
+}

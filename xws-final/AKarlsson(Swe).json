@@ -1,0 +1,66 @@
+{
+    "discord": "AKarlsson(Swe)",
+    "name": "AKarlsson(Swe)",
+    "xws": {
+        "faction": "scumandvillainy",
+        "name": "Andreas Karlsson JTO",
+        "obstacles": [
+            "coreasteroid3",
+            "coreasteroid5",
+            "core2asteroid4"
+        ],
+        "pilots": [
+            {
+                "id": "ig88c",
+                "points": 74,
+                "ship": "aggressorassaultfighter",
+                "upgrades": {
+                    "cannon": [
+                        "autoblasters"
+                    ],
+                    "illicit": [
+                        "feedbackarray"
+                    ],
+                    "sensor": [
+                        "firecontrolsystem"
+                    ],
+                    "talent": [
+                        "crackshot"
+                    ],
+                    "title": [
+                        "ig2000"
+                    ]
+                }
+            },
+            {
+                "id": "toranikulda",
+                "points": 57,
+                "ship": "m12lkimogilafighter",
+                "upgrades": {
+                    "modification": [
+                        "delayedfuses"
+                    ],
+                    "talent": [
+                        "snapshot"
+                    ]
+                }
+            },
+            {
+                "id": "captainjostero",
+                "points": 42,
+                "ship": "kihraxzfighter",
+                "upgrades": {}
+            },
+            {
+                "id": "overseeryushyn",
+                "points": 26,
+                "ship": "modifiedtielnfighter",
+                "upgrades": {}
+            }
+        ],
+        "points": 199,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Scum%20and%20Villainy&d=v8ZsZ200Z83X116W113W232WWW94WW151Y129X256WWWWW236Y122XWWWWY303X&sn=Andreas%20Karlsson%20JTO&obs=coreasteroid3,coreasteroid5,core2asteroid4"
+}

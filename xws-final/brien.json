@@ -1,0 +1,65 @@
+{
+    "discord": "brien robles-slim (CST)#3491",
+    "name": "brien",
+    "xws": {
+        "faction": "galacticempire",
+        "name": "Brien Robles JTO",
+        "pilots": [
+            {
+                "id": "majorvynder",
+                "points": 64,
+                "ship": "alphaclassstarwing",
+                "upgrades": {
+                    "missile": [
+                        "clustermissiles"
+                    ],
+                    "modification": [
+                        "advancedslam"
+                    ],
+                    "talent": [
+                        "predator"
+                    ],
+                    "torpedo": [
+                        "protontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "omicrongrouppilot",
+                "points": 50,
+                "ship": "lambdaclasst4ashuttle",
+                "upgrades": {
+                    "cannon": [
+                        "jammingbeam"
+                    ],
+                    "modification": [
+                        "hullupgrade"
+                    ],
+                    "title": [
+                        "st321"
+                    ]
+                }
+            },
+            {
+                "id": "grandinquisitor",
+                "points": 62,
+                "ship": "tieadvancedv1",
+                "upgrades": {
+                    "force-power": [
+                        "precognitivereflexes"
+                    ]
+                }
+            },
+            {
+                "id": "academypilot",
+                "points": 22,
+                "ship": "tielnfighter",
+                "upgrades": {}
+            }
+        ],
+        "points": 198,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Galactic%20Empire&d=v8ZsZ200Z161X127WW136W98W104WY168XW12WWW164W162Y169X250WWY229X&sn=Brien%20Robles%20JTO&obs="
+}

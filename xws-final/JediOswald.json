@@ -1,0 +1,63 @@
+{
+    "discord": "Jedi Oswald#1534",
+    "name": "JediOswald",
+    "xws": {
+        "faction": "rebelalliance",
+        "name": "Liam Lee JTO",
+        "pilots": [
+            {
+                "id": "captainrex",
+                "points": 30,
+                "ship": "tielnfighter",
+                "upgrades": {}
+            },
+            {
+                "id": "ginamoonsong",
+                "points": 57,
+                "ship": "asf01bwing",
+                "upgrades": {
+                    "cannon": [
+                        "heavylasercannon"
+                    ],
+                    "configuration": [
+                        "stabilizedsfoils"
+                    ]
+                }
+            },
+            {
+                "id": "zeborrelios-tielnfighter",
+                "points": 26,
+                "ship": "tielnfighter",
+                "upgrades": {
+                    "modification": [
+                        "electronicbaffle"
+                    ]
+                }
+            },
+            {
+                "id": "biggsdarklighter",
+                "points": 48,
+                "ship": "t65xwing",
+                "upgrades": {
+                    "configuration": [
+                        "servomotorsfoils"
+                    ]
+                }
+            },
+            {
+                "id": "arvelcrynyd",
+                "points": 37,
+                "ship": "rz1awing",
+                "upgrades": {
+                    "talent": [
+                        "intimidation"
+                    ]
+                }
+            }
+        ],
+        "points": 198,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Rebel%20Alliance&d=v8ZsZ200Z16XY391XWW10WWWW313Y15X106Y7XWWW142Y51X122WW&sn=Liam%20Lee%20JTO&obs="
+}

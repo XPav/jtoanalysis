@@ -1,0 +1,56 @@
+{
+    "discord": "MrMountie#5916",
+    "name": "AdamN",
+    "xws": {
+        "faction": "galacticrepublic",
+        "name": "Adam Nordquist JTO",
+        "pilots": [
+            {
+                "id": "sinker",
+                "points": 75,
+                "ship": "arc170starfighter",
+                "upgrades": {
+                    "gunner": [
+                        "clonecommandercody"
+                    ],
+                    "modification": [
+                        "shieldupgrade"
+                    ],
+                    "torpedo": [
+                        "protontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "squadsevenveteran",
+                "points": 59,
+                "ship": "arc170starfighter",
+                "upgrades": {
+                    "modification": [
+                        "tacticalscrambler"
+                    ],
+                    "torpedo": [
+                        "protontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "obiwankenobi",
+                "points": 61,
+                "ship": "delta7aethersprite",
+                "upgrades": {
+                    "astromech": [
+                        "r2astromech"
+                    ],
+                    "configuration": [
+                        "calibratedlasertargeting"
+                    ]
+                }
+            }
+        ],
+        "points": 195,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Galactic%20Republic&d=v8ZsZ200Z280X136WW225WW165Y340XW136WWWW110Y278XW2W200W&sn=Adam%20Nordquist%20JTO&obs="
+}

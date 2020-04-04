@@ -1,0 +1,77 @@
+{
+    "discord": "tigris",
+    "name": "tigris",
+    "xws": {
+        "faction": "resistance",
+        "name": "Ronald Daguman JTO",
+        "obstacles": [
+            "coreasteroid5",
+            "yt2400debris2",
+            "core2asteroid5"
+        ],
+        "pilots": [
+            {
+                "id": "pammichnerrogoode",
+                "points": 62,
+                "ship": "resistancetransport",
+                "upgrades": {
+                    "astromech": [
+                        "r5x3"
+                    ],
+                    "crew": [
+                        "informant",
+                        "tacticalofficer"
+                    ],
+                    "modification": [
+                        "munitionsfailsafe"
+                    ],
+                    "torpedo": [
+                        "plasmatorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "bluesquadronrookie",
+                "points": 57,
+                "ship": "t70xwing",
+                "upgrades": {
+                    "astromech": [
+                        "r5astromech"
+                    ],
+                    "configuration": [
+                        "integratedsfoils"
+                    ],
+                    "missile": [
+                        "ionmissiles"
+                    ],
+                    "tech": [
+                        "patternanalyzer"
+                    ],
+                    "title": [
+                        "blackone"
+                    ]
+                }
+            },
+            {
+                "id": "poedameron",
+                "points": 79,
+                "ship": "t70xwing",
+                "upgrades": {
+                    "astromech": [
+                        "r2astromech"
+                    ],
+                    "configuration": [
+                        "integratedsfoils"
+                    ],
+                    "tech": [
+                        "advancedoptics"
+                    ]
+                }
+            }
+        ],
+        "points": 198,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Resistance&d=v8ZsZ200Z347XWW234W37W61W205W108Y258X6WW175W206W171W101Y231XW2WW175W186WW&sn=Ronald%20Daguman%20JTO&obs=coreasteroid5,yt2400debris2,core2asteroid5"
+}

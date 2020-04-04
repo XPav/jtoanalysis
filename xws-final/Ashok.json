@@ -1,0 +1,57 @@
+{
+    "discord": "PerfectBroken#6261",
+    "name": "Ashok",
+    "xws": {
+        "faction": "firstorder",
+        "name": "FO Mugs JTO",
+        "obstacles": [
+            "coreasteroid0",
+            "core2asteroid0",
+            "core2asteroid2"
+        ],
+        "pilots": [
+            {
+                "id": "majorvonreg",
+                "points": 57,
+                "ship": "tiebainterceptor",
+                "upgrades": {}
+            },
+            {
+                "id": "commandermalarus",
+                "points": 43,
+                "ship": "tiefofighter",
+                "upgrades": {
+                    "tech": [
+                        "patternanalyzer"
+                    ]
+                }
+            },
+            {
+                "id": "midnight",
+                "points": 42,
+                "ship": "tiefofighter",
+                "upgrades": {}
+            },
+            {
+                "id": "captainphasma",
+                "points": 57,
+                "ship": "tiesffighter",
+                "upgrades": {
+                    "gunner": [
+                        "specialforcesgunner"
+                    ],
+                    "talent": [
+                        "elusive"
+                    ],
+                    "tech": [
+                        "patternanalyzer"
+                    ]
+                }
+            }
+        ],
+        "points": 199,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=First%20Order&d=v8ZsZ200Z381XWWWY266XW206WY233XWWY385X119W206WW182WW&sn=FO%20Mugs%20JTO&obs=coreasteroid0,core2asteroid0,core2asteroid2"
+}

@@ -1,0 +1,78 @@
+{
+    "discord": "Kerbocat#5844",
+    "name": "Kerbocat",
+    "xws": {
+        "faction": "scumandvillainy",
+        "name": "Jan Ullerup JTO",
+        "pilots": [
+            {
+                "id": "autopilotdrone",
+                "points": 12,
+                "ship": "escapecraft",
+                "upgrades": {}
+            },
+            {
+                "id": "landocalrissian-escapecraft",
+                "points": 33,
+                "ship": "escapecraft",
+                "upgrades": {
+                    "crew": [
+                        "freelanceslicer"
+                    ],
+                    "talent": [
+                        "marksmanship"
+                    ]
+                }
+            },
+            {
+                "id": "lattsrazzi",
+                "points": 66,
+                "ship": "yv666lightfreighter",
+                "upgrades": {
+                    "crew": [
+                        "chewbacca-crew"
+                    ],
+                    "gunner": [
+                        "bt1"
+                    ],
+                    "illicit": [
+                        "deadmansswitch"
+                    ],
+                    "title": [
+                        "houndstooth"
+                    ]
+                }
+            },
+            {
+                "id": "unkarplutt",
+                "points": 43,
+                "ship": "quadrijettransferspacetug",
+                "upgrades": {
+                    "device": [
+                        "ionbombs"
+                    ],
+                    "illicit": [
+                        "deadmansswitch"
+                    ],
+                    "tech": [
+                        "patternanalyzer"
+                    ]
+                }
+            },
+            {
+                "id": "serissu",
+                "points": 44,
+                "ship": "m3ainterceptor",
+                "upgrades": {
+                    "cannon": [
+                        "tractorbeam"
+                    ]
+                }
+            }
+        ],
+        "points": 198,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Scum%20and%20Villainy&d=v8ZsZ200Z96XY93X125W30WY154XWWW22WW79W93WW150Y142X206WW317W93WY132XWW13&sn=Jan%20Ullerup%20JTO&obs="
+}

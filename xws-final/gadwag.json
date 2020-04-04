@@ -1,0 +1,63 @@
+{
+    "discord": "gadwag#1395",
+    "name": "gadwag",
+    "xws": {
+        "faction": "separatistalliance",
+        "name": "Daniel Smith JTO",
+        "pilots": [
+            {
+                "id": "darthmaul",
+                "points": 88,
+                "ship": "sithinfiltrator",
+                "upgrades": {
+                    "crew": [
+                        "countdooku"
+                    ],
+                    "title": [
+                        "scimitar"
+                    ],
+                    "torpedo": [
+                        "plasmatorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "technounionbomber",
+                "points": 40,
+                "ship": "hyenaclassdroidbomber",
+                "upgrades": {
+                    "device": [
+                        "proximitymines"
+                    ],
+                    "torpedo": [
+                        "plasmatorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "feethanottrawautopilot",
+                "points": 39,
+                "ship": "belbullab22starfighter",
+                "upgrades": {
+                    "modification": [
+                        "imperviumplating"
+                    ]
+                }
+            },
+            {
+                "id": "separatistbomber",
+                "points": 33,
+                "ship": "hyenaclassdroidbomber",
+                "upgrades": {
+                    "device": [
+                        "drk1probedroids"
+                    ]
+                }
+            }
+        ],
+        "points": 200,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Separatist%20Alliance&d=v8ZsZ200Z272XWW234W218WWWW216WY324X234WW70WWY307XW207WY327XWW221WW&sn=Daniel%20Smith%20JTO&obs="
+}

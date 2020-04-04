@@ -1,0 +1,52 @@
+{
+    "discord": "Wurms",
+    "name": "Wurms",
+    "xws": {
+        "faction": "firstorder",
+        "name": "Patrick Hanson JTO",
+        "pilots": [
+            {
+                "id": "scorch",
+                "points": 33,
+                "ship": "tiefofighter",
+                "upgrades": {}
+            },
+            {
+                "id": "midnight",
+                "points": 42,
+                "ship": "tiefofighter",
+                "upgrades": {}
+            },
+            {
+                "id": "firstorderprovocateur",
+                "points": 45,
+                "ship": "tiebainterceptor",
+                "upgrades": {}
+            },
+            {
+                "id": "tn3465",
+                "points": 34,
+                "ship": "tiefofighter",
+                "upgrades": {
+                    "tech": [
+                        "targetingsynchronizer"
+                    ]
+                }
+            },
+            {
+                "id": "lieutenantlehuse",
+                "points": 45,
+                "ship": "tiesffighter",
+                "upgrades": {
+                    "missile": [
+                        "concussionmissiles"
+                    ]
+                }
+            }
+        ],
+        "points": 199,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=First%20Order&d=v8ZsZ200Z262XWWY233XWWY384XWWWY261X177WY397XWW99WWW&sn=Patrick%20Hanson%20JTO&obs="
+}

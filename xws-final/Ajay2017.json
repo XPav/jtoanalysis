@@ -1,0 +1,70 @@
+{
+    "discord": "Ajay2017#8782",
+    "name": "Ajay2017",
+    "xws": {
+        "faction": "scumandvillainy",
+        "name": "Ion Madness",
+        "obstacles": [
+            "coreasteroid0",
+            "coreasteroid1",
+            "coreasteroid2"
+        ],
+        "pilots": [
+            {
+                "id": "toranikulda",
+                "points": 60,
+                "ship": "m12lkimogilafighter",
+                "upgrades": {
+                    "astromech": [
+                        "r5tk"
+                    ],
+                    "illicit": [
+                        "deadmansswitch"
+                    ],
+                    "modification": [
+                        "shieldupgrade"
+                    ],
+                    "torpedo": [
+                        "iontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "dalanoberos-starviperclassattackplatform",
+                "points": 68,
+                "ship": "starviperclassattackplatform",
+                "upgrades": {
+                    "title": [
+                        "virago"
+                    ],
+                    "torpedo": [
+                        "iontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "lattsrazzi",
+                "points": 72,
+                "ship": "yv666lightfreighter",
+                "upgrades": {
+                    "cannon": [
+                        "ioncannon"
+                    ],
+                    "crew": [
+                        "tobiasbeckett"
+                    ],
+                    "missile": [
+                        "homingmissiles"
+                    ],
+                    "modification": [
+                        "electronicbaffle"
+                    ]
+                }
+            }
+        ],
+        "points": 200,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Scum%20and%20Villainy&d=v8ZsZ200Z129XW135WW9W93W165Y149XWW135WW163WY154XW11W100WW62WWW106W&sn=Ion%20Madness&obs=coreasteroid0,coreasteroid1,coreasteroid2"
+}

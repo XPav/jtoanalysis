@@ -1,0 +1,60 @@
+{
+    "discord": "Red Squad Bench Warmer#5274",
+    "name": "Red Squad Bench Warmer",
+    "xws": {
+        "faction": "galacticrepublic",
+        "name": "Jay Davis JTO",
+        "obstacles": [
+            "yt2400debris0",
+            "core2asteroid0",
+            "gascloud1"
+        ],
+        "pilots": [
+            {
+                "id": "redsquadronbomber",
+                "points": 40,
+                "ship": "btlbywing",
+                "upgrades": {
+                    "device": [
+                        "protonbombs"
+                    ],
+                    "turret": [
+                        "ioncannonturret"
+                    ]
+                }
+            },
+            {
+                "id": "swoop",
+                "points": 31,
+                "ship": "v19torrentstarfighter",
+                "upgrades": {}
+            },
+            {
+                "id": "anakinskywalker-nabooroyaln1starfighter",
+                "points": 47,
+                "ship": "nabooroyaln1starfighter",
+                "upgrades": {
+                    "torpedo": [
+                        "advprotontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "jediknight",
+                "points": 37,
+                "ship": "delta7aethersprite",
+                "upgrades": {}
+            },
+            {
+                "id": "luminaraunduli",
+                "points": 43,
+                "ship": "delta7aethersprite",
+                "upgrades": {}
+            }
+        ],
+        "points": 198,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Galactic%20Republic&d=v8ZsZ200Z361X138WWWW69WY317XWWY322XWWW134Y277XWWWY274XWWW&sn=Jay%20Davis%20JTO&obs=yt2400debris0,core2asteroid0,gascloud1"
+}

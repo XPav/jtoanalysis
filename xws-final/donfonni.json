@@ -1,0 +1,64 @@
+{
+    "discord": "donfonni",
+    "name": "donfonni",
+    "xws": {
+        "faction": "galacticrepublic",
+        "name": "donfonni JTO",
+        "obstacles": [
+            "gascloud1",
+            "gascloud2",
+            "gascloud3"
+        ],
+        "pilots": [
+            {
+                "id": "bravoflightofficer",
+                "points": 48,
+                "ship": "nabooroyaln1starfighter",
+                "upgrades": {
+                    "sensor": [
+                        "firecontrolsystem"
+                    ],
+                    "torpedo": [
+                        "protontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "luminaraunduli",
+                "points": 50,
+                "ship": "delta7aethersprite",
+                "upgrades": {
+                    "astromech": [
+                        "r4pastromech"
+                    ],
+                    "configuration": [
+                        "calibratedlasertargeting"
+                    ]
+                }
+            },
+            {
+                "id": "wolffe",
+                "points": 62,
+                "ship": "arc170starfighter",
+                "upgrades": {
+                    "crew": [
+                        "c3po-republic"
+                    ],
+                    "gunner": [
+                        "veterantailgunner"
+                    ]
+                }
+            },
+            {
+                "id": "r2d2",
+                "points": 35,
+                "ship": "btlbywing",
+                "upgrades": {}
+            }
+        ],
+        "points": 195,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Galactic%20Republic&d=v8ZsZ200Z323X113WW136Y274XW213W200WY342XWW254W89WWY362XWWWWWW&sn=donfonni%20JTO&obs=gascloud1,gascloud2,gascloud3"
+}

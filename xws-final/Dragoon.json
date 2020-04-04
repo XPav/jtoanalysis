@@ -1,0 +1,45 @@
+{
+    "discord": "dragoonkain#6338",
+    "name": "Dragoon",
+    "xws": {
+        "faction": "scumandvillainy",
+        "name": "Brendon Osmann-Deyman JTO",
+        "pilots": [
+            {
+                "id": "sarcoplank",
+                "points": 45,
+                "ship": "quadrijettransferspacetug",
+                "upgrades": {
+                    "crew": [
+                        "landocalrissian-crew"
+                    ],
+                    "tech": [
+                        "patternanalyzer"
+                    ]
+                }
+            },
+            {
+                "id": "dacebonearm",
+                "points": 33,
+                "ship": "hwk290lightfreighter",
+                "upgrades": {}
+            },
+            {
+                "id": "toranikulda",
+                "points": 48,
+                "ship": "m12lkimogilafighter",
+                "upgrades": {}
+            },
+            {
+                "id": "fennrau",
+                "points": 68,
+                "ship": "fangfighter",
+                "upgrades": {}
+            }
+        ],
+        "points": 194,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Scum%20and%20Villainy&d=v8ZsZ200Z141X206W45WWWY113XWWWWWWY129XWWWWWY97XW&sn=Brendon%20Osmann-Deyman%20JTO&obs="
+}

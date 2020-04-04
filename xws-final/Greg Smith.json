@@ -1,0 +1,58 @@
+{
+    "discord": "unclepatchie (user#5608) ",
+    "name": "Greg Smith",
+    "xws": {
+        "faction": "rebelalliance",
+        "pilots": [
+            {
+                "id": "ezrabridger",
+                "points": 43,
+                "ship": "attackshuttle",
+                "upgrades": {
+                    "force-power": [
+                        "heightenedperception"
+                    ],
+                    "title": [
+                        "phantom"
+                    ]
+                }
+            },
+            {
+                "id": "roguesquadronescort",
+                "points": 53,
+                "ship": "ewing",
+                "upgrades": {}
+            },
+            {
+                "id": "dutchvander",
+                "points": 51,
+                "ship": "btla4ywing",
+                "upgrades": {
+                    "astromech": [
+                        "r5d8"
+                    ],
+                    "turret": [
+                        "ioncannonturret"
+                    ]
+                }
+            },
+            {
+                "id": "jekporkins",
+                "points": 52,
+                "ship": "t65xwing",
+                "upgrades": {
+                    "astromech": [
+                        "r2astromech"
+                    ],
+                    "configuration": [
+                        "servomotorsfoils"
+                    ]
+                }
+            }
+        ],
+        "points": 199,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Rebel%20Alliance&d=v8ZsZ200Z67X72WWWW167Y23XWWWWY27XW138WW7WWWY3XWW2WW142&sn=Unnamed%20Squadron&obs="
+}

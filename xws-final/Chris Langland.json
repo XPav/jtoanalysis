@@ -1,0 +1,46 @@
+{
+    "discord": "Chris Langland#1236",
+    "name": "Chris Langland",
+    "xws": {
+        "faction": "firstorder",
+        "name": "Chris Langland JTO",
+        "pilots": [
+            {
+                "id": "rush",
+                "points": 64,
+                "ship": "tievnsilencer",
+                "upgrades": {
+                    "missile": [
+                        "protonrockets"
+                    ]
+                }
+            },
+            {
+                "id": "lieutenantrivas",
+                "points": 27,
+                "ship": "tiefofighter",
+                "upgrades": {}
+            },
+            {
+                "id": "firstorderprovocateur",
+                "points": 45,
+                "ship": "tiebainterceptor",
+                "upgrades": {}
+            },
+            {
+                "id": "pettyofficerthanisson",
+                "points": 64,
+                "ship": "upsilonclasscommandshuttle",
+                "upgrades": {
+                    "crew": [
+                        "captainphasma"
+                    ]
+                }
+            }
+        ],
+        "points": 200,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=First%20Order&d=v8ZsZ200Z386XWW102Y265XWY384XWWWY281XWW183WWWWW&sn=Chris%20Langland%20JTO&obs="
+}

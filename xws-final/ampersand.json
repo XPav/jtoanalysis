@@ -1,0 +1,53 @@
+{
+    "discord": "assron#4296",
+    "name": "ampersand",
+    "xws": {
+        "faction": "galacticrepublic",
+        "name": "Aaron DePiano JTO",
+        "pilots": [
+            {
+                "id": "oddball-arc170starfighter",
+                "points": 56,
+                "ship": "arc170starfighter",
+                "upgrades": {
+                    "modification": [
+                        "stealthdevice"
+                    ],
+                    "talent": [
+                        "crackshot"
+                    ]
+                }
+            },
+            {
+                "id": "104thbattalionpilot",
+                "points": 42,
+                "ship": "arc170starfighter",
+                "upgrades": {}
+            },
+            {
+                "id": "anakinskywalker-nabooroyaln1starfighter",
+                "points": 48,
+                "ship": "nabooroyaln1starfighter",
+                "upgrades": {
+                    "astromech": [
+                        "r2astromech"
+                    ]
+                }
+            },
+            {
+                "id": "saeseetiin",
+                "points": 50,
+                "ship": "delta7aethersprite",
+                "upgrades": {
+                    "astromech": [
+                        "c110p"
+                    ]
+                }
+            }
+        ],
+        "points": 196,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Galactic%20Republic&d=v8ZsZ200Z338X116WWWWW166Y341XWWWWY322XWW2WY313XW252WW&sn=Aaron%20DePiano%20JTO&obs="
+}

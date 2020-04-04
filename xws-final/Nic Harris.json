@@ -1,0 +1,61 @@
+{
+    "discord": "Nic Firecast#5648",
+    "name": "Nic Harris",
+    "xws": {
+        "faction": "firstorder",
+        "name": "Nic Harris JTO",
+        "obstacles": [
+            "gascloud1",
+            "gascloud2",
+            "gascloud3"
+        ],
+        "pilots": [
+            {
+                "id": "firstorderprovocateur",
+                "points": 52,
+                "ship": "tiebainterceptor",
+                "upgrades": {
+                    "talent": [
+                        "snapshot"
+                    ]
+                }
+            },
+            {
+                "id": "captainphasma",
+                "points": 48,
+                "ship": "tiesffighter",
+                "upgrades": {
+                    "missile": [
+                        "concussionmissiles"
+                    ],
+                    "sensor": [
+                        "firecontrolsystem"
+                    ],
+                    "tech": [
+                        "biohexacryptcodes"
+                    ]
+                }
+            },
+            {
+                "id": "sienarjaemusengineer",
+                "points": 51,
+                "ship": "tievnsilencer",
+                "upgrades": {}
+            },
+            {
+                "id": "backdraft",
+                "points": 49,
+                "ship": "tiesffighter",
+                "upgrades": {
+                    "gunner": [
+                        "specialforcesgunner"
+                    ]
+                }
+            }
+        ],
+        "points": 200,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=First%20Order&d=v8ZsZ200Z384X256WWWY385XW202W99WW113WY286XWWY242XWWW182WW&sn=Nic%20Harris%20JTO&obs=gascloud1,gascloud2,gascloud3"
+}

@@ -1,0 +1,68 @@
+{
+    "discord": "JamaicanLumberjack#8217",
+    "name": "JamaicanLumberjack",
+    "xws": {
+        "faction": "galacticempire",
+        "name": "Michael Grieb JTO",
+        "pilots": [
+            {
+                "id": "duchess",
+                "points": 58,
+                "ship": "tieskstriker",
+                "upgrades": {
+                    "gunner": [
+                        "fifthbrother"
+                    ],
+                    "modification": [
+                        "munitionsfailsafe"
+                    ],
+                    "talent": [
+                        "trickshot"
+                    ]
+                }
+            },
+            {
+                "id": "grandinquisitor",
+                "points": 67,
+                "ship": "tieadvancedv1",
+                "upgrades": {
+                    "force-power": [
+                        "foresight"
+                    ],
+                    "missile": [
+                        "clustermissiles"
+                    ],
+                    "sensor": [
+                        "trajectorysimulator"
+                    ]
+                }
+            },
+            {
+                "id": "lieutenantsai",
+                "points": 73,
+                "ship": "lambdaclasst4ashuttle",
+                "upgrades": {
+                    "cannon": [
+                        "heavylasercannon"
+                    ],
+                    "crew": [
+                        "agentkallus"
+                    ],
+                    "modification": [
+                        "staticdischargevanes"
+                    ],
+                    "sensor": [
+                        "trajectorysimulator"
+                    ],
+                    "title": [
+                        "st321"
+                    ]
+                }
+            }
+        ],
+        "points": 198,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Galactic%20Empire&d=v8ZsZ200Z211X133W82WW108Y169X251W114W98Y166X114W10W15WW109W162&sn=Michael%20Grieb%20JTO&obs="
+}

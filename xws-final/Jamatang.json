@@ -1,0 +1,58 @@
+{
+    "discord": "Jamatang#5839",
+    "name": "Jamatang",
+    "xws": {
+        "faction": "rebelalliance",
+        "name": "James O'Donoghue JTO",
+        "obstacles": [
+            "gascloud1",
+            "gascloud2",
+            "gascloud3"
+        ],
+        "pilots": [
+            {
+                "id": "janors",
+                "points": 67,
+                "ship": "hwk290lightfreighter",
+                "upgrades": {
+                    "crew": [
+                        "c3po"
+                    ],
+                    "title": [
+                        "moldycrow"
+                    ]
+                }
+            },
+            {
+                "id": "herasyndulla-vcx100lightfreighter",
+                "points": 82,
+                "ship": "vcx100lightfreighter",
+                "upgrades": {
+                    "sensor": [
+                        "advancedsensors"
+                    ],
+                    "title": [
+                        "ghost"
+                    ]
+                }
+            },
+            {
+                "id": "ezrabridger",
+                "points": 51,
+                "ship": "attackshuttle",
+                "upgrades": {
+                    "crew": [
+                        "cassianandor"
+                    ],
+                    "turret": [
+                        "ioncannonturret"
+                    ]
+                }
+            }
+        ],
+        "points": 200,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Rebel%20Alliance&d=v8ZsZ200Z46XWW18WWW156Y61XW111WWWWWWW148Y67XW19WW138W&sn=James%20O%27Donoghue%20JTO&obs=gascloud1,gascloud2,gascloud3"
+}

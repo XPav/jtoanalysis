@@ -1,0 +1,75 @@
+{
+    "discord": "missileaway",
+    "name": "missileaway",
+    "xws": {
+        "faction": "resistance",
+        "name": "Ben McCarty JTO squad",
+        "obstacles": [
+            "coreasteroid0",
+            "yt2400debris2",
+            "gascloud1"
+        ],
+        "pilots": [
+            {
+                "id": "zaribangel",
+                "points": 44,
+                "ship": "rz2awing",
+                "upgrades": {
+                    "missile": [
+                        "protonrockets"
+                    ],
+                    "talent": [
+                        "predator"
+                    ]
+                }
+            },
+            {
+                "id": "ronithblario",
+                "points": 35,
+                "ship": "rz2awing",
+                "upgrades": {
+                    "talent": [
+                        "crackshot"
+                    ]
+                }
+            },
+            {
+                "id": "bluesquadronrookie",
+                "points": 46,
+                "ship": "t70xwing",
+                "upgrades": {
+                    "configuration": [
+                        "integratedsfoils"
+                    ],
+                    "tech": [
+                        "advancedoptics"
+                    ]
+                }
+            },
+            {
+                "id": "jarekyeager",
+                "points": 36,
+                "ship": "fireball",
+                "upgrades": {
+                    "illicit": [
+                        "feedbackarray"
+                    ]
+                }
+            },
+            {
+                "id": "r1j5",
+                "points": 37,
+                "ship": "fireball",
+                "upgrades": {
+                    "crew": [
+                        "amilynholdo"
+                    ]
+                }
+            }
+        ],
+        "points": 198,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Resistance&d=v8ZsZ200Z271X127WW102WY388X116WWY258XWW175W186WWY377XWWW94WWWY379XW242WWWW&sn=Ben%20McCarty%20JTO%20squad&obs=coreasteroid0,yt2400debris2,gascloud1"
+}

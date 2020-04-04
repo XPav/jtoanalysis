@@ -1,0 +1,59 @@
+{
+    "discord": "Dirtbag #7975",
+    "name": "dale",
+    "xws": {
+        "faction": "galacticrepublic",
+        "name": "Dale JTO",
+        "pilots": [
+            {
+                "id": "matchstick",
+                "points": 56,
+                "ship": "btlbywing",
+                "upgrades": {
+                    "device": [
+                        "connernets"
+                    ],
+                    "talent": [
+                        "experthandling"
+                    ],
+                    "turret": [
+                        "ioncannonturret"
+                    ]
+                }
+            },
+            {
+                "id": "anakinskywalker",
+                "points": 89,
+                "ship": "delta7aethersprite",
+                "upgrades": {
+                    "astromech": [
+                        "r4astromech"
+                    ],
+                    "configuration": [
+                        "delta7b"
+                    ],
+                    "force-power": [
+                        "sense"
+                    ]
+                }
+            },
+            {
+                "id": "squadsevenveteran",
+                "points": 55,
+                "ship": "arc170starfighter",
+                "upgrades": {
+                    "astromech": [
+                        "r4p17"
+                    ],
+                    "torpedo": [
+                        "advprotontorpedoes"
+                    ]
+                }
+            }
+        ],
+        "points": 200,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Galactic%20Republic&d=v8ZsZ200Z365X120W138WWWW68WY273X75W5W201WY340XW134WWW214W&sn=Dale%20JTO&obs="
+}

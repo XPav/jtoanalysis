@@ -1,0 +1,74 @@
+{
+    "discord": "Rorer#3589",
+    "name": "Rorer ",
+    "xws": {
+        "faction": "resistance",
+        "name": "Rory Wilson JTO",
+        "obstacles": [
+            "coreasteroid1",
+            "coreasteroid2",
+            "coreasteroid3"
+        ],
+        "pilots": [
+            {
+                "id": "nodinchavdri",
+                "points": 49,
+                "ship": "resistancetransport",
+                "upgrades": {
+                    "cannon": [
+                        "tractorbeam"
+                    ],
+                    "crew": [
+                        "hansolo-crew"
+                    ],
+                    "torpedo": [
+                        "iontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "r1j5",
+                "points": 38,
+                "ship": "fireball",
+                "upgrades": {
+                    "illicit": [
+                        "coaxiumhyperfuel"
+                    ],
+                    "missile": [
+                        "homingmissiles"
+                    ],
+                    "title": [
+                        "kazsfireball"
+                    ]
+                }
+            },
+            {
+                "id": "finchdallow",
+                "points": 68,
+                "ship": "mg100starfortress",
+                "upgrades": {
+                    "sensor": [
+                        "firecontrolsystem"
+                    ],
+                    "tech": [
+                        "targetingsynchronizer"
+                    ]
+                }
+            },
+            {
+                "id": "redsquadronexpert",
+                "points": 44,
+                "ship": "t70xwing",
+                "upgrades": {
+                    "configuration": [
+                        "integratedsfoils"
+                    ]
+                }
+            }
+        ],
+        "points": 199,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Resistance&d=v8ZsZ200Z352XW13W135W192WWWY379X100WW310WWW315Y250X113W177WWWWWWY257XWWW175WWW&sn=Rory%20Wilson%20JTO&obs=coreasteroid1,coreasteroid2,coreasteroid3"
+}

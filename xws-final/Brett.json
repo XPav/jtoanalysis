@@ -1,0 +1,59 @@
+{
+    "discord": "Brett#0601",
+    "name": "Brett",
+    "xws": {
+        "faction": "galacticrepublic",
+        "name": "Brett Freeman JTO",
+        "pilots": [
+            {
+                "id": "104thbattalionpilot",
+                "points": 45,
+                "ship": "arc170starfighter",
+                "upgrades": {
+                    "crew": [
+                        "freelanceslicer"
+                    ]
+                }
+            },
+            {
+                "id": "jediknight",
+                "points": 64,
+                "ship": "delta7aethersprite",
+                "upgrades": {
+                    "astromech": [
+                        "c110p"
+                    ],
+                    "configuration": [
+                        "delta7b"
+                    ],
+                    "force-power": [
+                        "heightenedperception"
+                    ]
+                }
+            },
+            {
+                "id": "padmeamidala",
+                "points": 55,
+                "ship": "nabooroyaln1starfighter",
+                "upgrades": {
+                    "astromech": [
+                        "r4pastromech"
+                    ],
+                    "torpedo": [
+                        "advprotontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "kickback",
+                "points": 33,
+                "ship": "v19torrentstarfighter",
+                "upgrades": {}
+            }
+        ],
+        "points": 197,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Galactic%20Republic&d=v8ZsZ200Z341XW30WWWY277X72W252W201WY332XWW213W134Y315XWW&sn=Brett%20Freeman%20JTO&obs="
+}

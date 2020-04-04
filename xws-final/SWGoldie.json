@@ -1,0 +1,57 @@
+{
+    "discord": "Goldie#7060",
+    "name": "SWGoldie",
+    "xws": {
+        "faction": "rebelalliance",
+        "name": "Ed Gold JTO",
+        "pilots": [
+            {
+                "id": "leebo",
+                "points": 88,
+                "ship": "yt2400lightfreighter",
+                "upgrades": {
+                    "illicit": [
+                        "deadmansswitch"
+                    ],
+                    "missile": [
+                        "clustermissiles"
+                    ]
+                }
+            },
+            {
+                "id": "jakefarrell",
+                "points": 45,
+                "ship": "rz1awing",
+                "upgrades": {
+                    "talent": [
+                        "juke",
+                        "daredevil"
+                    ]
+                }
+            },
+            {
+                "id": "wardensquadronpilot",
+                "points": 63,
+                "ship": "btls8kwing",
+                "upgrades": {
+                    "crew": [
+                        "sabinewren"
+                    ],
+                    "device": [
+                        "ionbombs"
+                    ],
+                    "modification": [
+                        "advancedslam"
+                    ],
+                    "torpedo": [
+                        "protontorpedoes"
+                    ]
+                }
+            }
+        ],
+        "points": 196,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Rebel%20Alliance&d=v8ZsZ200Z40X98WWWW93Y50X123W117WY20X136WWWW57W317WW104&sn=Ed%20Gold%20JTO&obs="
+}

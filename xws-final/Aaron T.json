@@ -1,0 +1,63 @@
+{
+    "discord": "potato hombre#5509",
+    "name": "Aaron T",
+    "xws": {
+        "faction": "firstorder",
+        "name": "Aaron T Jank Tank",
+        "pilots": [
+            {
+                "id": "omegasquadronace",
+                "points": 30,
+                "ship": "tiefofighter",
+                "upgrades": {
+                    "modification": [
+                        "munitionsfailsafe"
+                    ],
+                    "talent": [
+                        "composure"
+                    ]
+                }
+            },
+            {
+                "id": "lieutenantlehuse",
+                "points": 54,
+                "ship": "tiesffighter",
+                "upgrades": {
+                    "gunner": [
+                        "specialforcesgunner"
+                    ],
+                    "sensor": [
+                        "passivesensors"
+                    ],
+                    "talent": [
+                        "fanatical"
+                    ]
+                }
+            },
+            {
+                "id": "starkillerbasepilot",
+                "points": 59,
+                "ship": "upsilonclasscommandshuttle",
+                "upgrades": {
+                    "tech": [
+                        "biohexacryptcodes"
+                    ]
+                }
+            },
+            {
+                "id": "ember",
+                "points": 54,
+                "ship": "tiebainterceptor",
+                "upgrades": {
+                    "talent": [
+                        "predator"
+                    ]
+                }
+            }
+        ],
+        "points": 197,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=First%20Order&d=v8ZsZ200Z267X115WW108Y397X181WWW182W240WY288X202WWWWWWWY383X127WWW&sn=Aaron%20T%20Jank%20Tank&obs="
+}

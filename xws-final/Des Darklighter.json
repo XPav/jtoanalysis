@@ -1,0 +1,53 @@
+{
+    "discord": "Des Darklighter#3735",
+    "name": "Des Darklighter",
+    "xws": {
+        "faction": "galacticempire",
+        "name": "Des Darklighter JTO",
+        "pilots": [
+            {
+                "id": "captainkagi",
+                "points": 71,
+                "ship": "lambdaclasst4ashuttle",
+                "upgrades": {
+                    "crew": [
+                        "agentkallus",
+                        "darthvader"
+                    ],
+                    "modification": [
+                        "shieldupgrade"
+                    ]
+                }
+            },
+            {
+                "id": "mornakee",
+                "points": 94,
+                "ship": "vt49decimator",
+                "upgrades": {
+                    "crew": [
+                        "seventhsister"
+                    ],
+                    "device": [
+                        "seismiccharges"
+                    ],
+                    "modification": [
+                        "targetingcomputer"
+                    ],
+                    "talent": [
+                        "trickshot"
+                    ]
+                }
+            },
+            {
+                "id": "blacksquadronscout",
+                "points": 34,
+                "ship": "tieskstriker",
+                "upgrades": {}
+            }
+        ],
+        "points": 199,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Galactic%20Empire&d=v8ZsZ200Z165XWW15W26W165WY396X133WW60WWWW71W249WY212XWWW&sn=Des%20Darklighter%20JTO&obs="
+}

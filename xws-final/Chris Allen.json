@@ -1,0 +1,51 @@
+{
+    "discord": "Brunas#9999",
+    "name": "Chris Allen",
+    "xws": {
+        "faction": "firstorder",
+        "name": "Chris Allen JTO",
+        "pilots": [
+            {
+                "id": "rush",
+                "points": 62,
+                "ship": "tievnsilencer",
+                "upgrades": {
+                    "missile": [
+                        "clustermissiles"
+                    ]
+                }
+            },
+            {
+                "id": "lieutenanttavson",
+                "points": 90,
+                "ship": "upsilonclasscommandshuttle",
+                "upgrades": {
+                    "cannon": [
+                        "jammingbeam"
+                    ],
+                    "crew": [
+                        "gnkgonkdroid",
+                        "generalhux"
+                    ],
+                    "sensor": [
+                        "advancedsensors"
+                    ]
+                }
+            },
+            {
+                "id": "zetasquadronsurvivor",
+                "points": 38,
+                "ship": "tiesffighter",
+                "upgrades": {
+                    "modification": [
+                        "staticdischargevanes"
+                    ]
+                }
+            }
+        ],
+        "points": 190,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=First%20Order&d=v8ZsZ200Z386XWW98Y289XWW32W180WW12W111WY259XWWWW109&sn=Chris%20Allen%20JTO&obs="
+}

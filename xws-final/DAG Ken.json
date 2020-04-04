@@ -1,0 +1,81 @@
+{
+    "discord": "RicoMcVain",
+    "name": "DAG Ken",
+    "xws": {
+        "faction": "separatistalliance",
+        "name": "Kenneth Scher JTO",
+        "obstacles": [
+            "coreasteroid3",
+            "core2asteroid4",
+            "gascloud2"
+        ],
+        "pilots": [
+            {
+                "id": "feethanottrawautopilot",
+                "points": 42,
+                "ship": "belbullab22starfighter",
+                "upgrades": {
+                    "modification": [
+                        "munitionsfailsafe"
+                    ],
+                    "title": [
+                        "soullessone"
+                    ]
+                }
+            },
+            {
+                "id": "dbs404",
+                "points": 48,
+                "ship": "hyenaclassdroidbomber",
+                "upgrades": {
+                    "configuration": [
+                        "landingstruts"
+                    ],
+                    "device": [
+                        "clustermines"
+                    ],
+                    "torpedo": [
+                        "plasmatorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "berwerkret",
+                "points": 52,
+                "ship": "nantexclassstarfighter",
+                "upgrades": {
+                    "talent": [
+                        "squadleader"
+                    ]
+                }
+            },
+            {
+                "id": "dfs081",
+                "points": 32,
+                "ship": "vultureclassdroidfighter",
+                "upgrades": {
+                    "missile": [
+                        "clustermissiles"
+                    ],
+                    "modification": [
+                        "delayedfuses"
+                    ]
+                }
+            },
+            {
+                "id": "separatistdrone",
+                "points": 25,
+                "ship": "vultureclassdroidfighter",
+                "upgrades": {
+                    "missile": [
+                        "ionmissiles"
+                    ]
+                }
+            }
+        ],
+        "points": 199,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Separatist%20Alliance&d=v8ZsZ200Z307XW108W229Y326X234WW316WW237Y358X131WY311X98WW236Y343X101WW&sn=Kenneth%20Scher%20JTO&obs=coreasteroid3,core2asteroid4,gascloud2"
+}

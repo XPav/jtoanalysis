@@ -1,0 +1,57 @@
+{
+    "discord": "SteveTheFifth#3560",
+    "name": "Steve",
+    "xws": {
+        "faction": "resistance",
+        "name": "Colin Miner JTO",
+        "obstacles": [
+            "vt49decimatordebris2",
+            "gascloud3",
+            "gascloud6"
+        ],
+        "pilots": [
+            {
+                "id": "r1j5",
+                "points": 35,
+                "ship": "fireball",
+                "upgrades": {
+                    "crew": [
+                        "ga97"
+                    ]
+                }
+            },
+            {
+                "id": "ronithblario",
+                "points": 34,
+                "ship": "rz2awing",
+                "upgrades": {}
+            },
+            {
+                "id": "kazudaxiono",
+                "points": 42,
+                "ship": "fireball",
+                "upgrades": {
+                    "title": [
+                        "kazsfireball"
+                    ]
+                }
+            },
+            {
+                "id": "paigetico",
+                "points": 60,
+                "ship": "mg100starfortress",
+                "upgrades": {}
+            },
+            {
+                "id": "colossusstationmechanic",
+                "points": 26,
+                "ship": "fireball",
+                "upgrades": {}
+            }
+        ],
+        "points": 197,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Resistance&d=v8ZsZ200Z379XW230WWWWY388XWWY378XWWWWWW315Y389XWWWWWWWWY380XWWWWW&sn=Colin%20Miner%20JTO&obs=vt49decimatordebris2,gascloud3,gascloud6"
+}

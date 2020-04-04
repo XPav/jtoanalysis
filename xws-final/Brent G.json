@@ -1,0 +1,53 @@
+{
+    "discord": "Marhand#0708",
+    "name": "Brent G",
+    "xws": {
+        "faction": "galacticempire",
+        "name": "Brent Grelle JTO",
+        "pilots": [
+            {
+                "id": "deathfire",
+                "points": 43,
+                "ship": "tiesabomber",
+                "upgrades": {
+                    "gunner": [
+                        "fifthbrother"
+                    ]
+                }
+            },
+            {
+                "id": "rearadmiralchiraneau",
+                "points": 87,
+                "ship": "vt49decimator",
+                "upgrades": {
+                    "crew": [
+                        "freelanceslicer"
+                    ],
+                    "device": [
+                        "clustermines"
+                    ]
+                }
+            },
+            {
+                "id": "seynmarana",
+                "points": 30,
+                "ship": "tielnfighter",
+                "upgrades": {}
+            },
+            {
+                "id": "lieutenantkestal",
+                "points": 36,
+                "ship": "tieagaggressor",
+                "upgrades": {
+                    "turret": [
+                        "ioncannonturret"
+                    ]
+                }
+            }
+        ],
+        "points": 196,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Galactic%20Empire&d=v8ZsZ200Z206XWWW82WWWY214XWW30WWWW316WWY224XWY187XW138WWWW&sn=Brent%20Grelle%20JTO&obs="
+}

@@ -1,0 +1,54 @@
+{
+    "discord": "brettness37#2654",
+    "name": "brettness37",
+    "xws": {
+        "faction": "galacticempire",
+        "name": "Brett Bird JTO",
+        "pilots": [
+            {
+                "id": "blacksquadronace",
+                "points": 28,
+                "ship": "tielnfighter",
+                "upgrades": {
+                    "talent": [
+                        "elusive"
+                    ]
+                }
+            },
+            {
+                "id": "sigmasquadronace",
+                "points": 48,
+                "ship": "tiephphantom",
+                "upgrades": {}
+            },
+            {
+                "id": "patrolleader",
+                "points": 85,
+                "ship": "vt49decimator",
+                "upgrades": {
+                    "crew": [
+                        "freelanceslicer",
+                        "moffjerjerrod"
+                    ],
+                    "gunner": [
+                        "hotshotgunner"
+                    ]
+                }
+            },
+            {
+                "id": "deathfire",
+                "points": 37,
+                "ship": "tiesabomber",
+                "upgrades": {
+                    "missile": [
+                        "clustermissiles"
+                    ]
+                }
+            }
+        ],
+        "points": 198,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Galactic%20Empire&d=v8ZsZ200Z227X119WY201XWWWY216XW30W50WW86WWWY206XWW98WWWW&sn=Brett%20Bird%20JTO&obs="
+}

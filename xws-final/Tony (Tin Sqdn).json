@@ -1,0 +1,69 @@
+{
+    "discord": "#9738",
+    "name": "Tony (Tin Sqdn)",
+    "xws": {
+        "faction": "galacticempire",
+        "name": "Tony Cameron JTO",
+        "pilots": [
+            {
+                "id": "captainjonus",
+                "points": 71,
+                "ship": "tiesabomber",
+                "upgrades": {
+                    "device": [
+                        "clustermines"
+                    ],
+                    "missile": [
+                        "clustermissiles",
+                        "concussionmissiles"
+                    ],
+                    "talent": [
+                        "composure"
+                    ],
+                    "torpedo": [
+                        "advprotontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "inquisitor",
+                "points": 48,
+                "ship": "tieadvancedv1",
+                "upgrades": {
+                    "force-power": [
+                        "instinctiveaim"
+                    ],
+                    "missile": [
+                        "concussionmissiles"
+                    ],
+                    "sensor": [
+                        "trajectorysimulator"
+                    ]
+                }
+            },
+            {
+                "id": "nightbeast",
+                "points": 25,
+                "ship": "tielnfighter",
+                "upgrades": {}
+            },
+            {
+                "id": "scarifbasepilot",
+                "points": 55,
+                "ship": "tiereaper",
+                "upgrades": {
+                    "crew": [
+                        "darthvader"
+                    ],
+                    "modification": [
+                        "electronicbaffle"
+                    ]
+                }
+            }
+        ],
+        "points": 199,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Galactic%20Empire&d=v8ZsZ200Z203X115W134W98W99WW316WWY171X73W114W99Y226XY186X26WW106&sn=Tony%20Cameron%20JTO&obs="
+}

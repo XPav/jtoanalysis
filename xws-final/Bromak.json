@@ -1,0 +1,53 @@
+{
+    "discord": "User#8849",
+    "name": "Bromak",
+    "xws": {
+        "faction": "resistance",
+        "name": "Charlie Ligato JTO",
+        "pilots": [
+            {
+                "id": "temminwexley",
+                "points": 59,
+                "ship": "t70xwing",
+                "upgrades": {
+                    "astromech": [
+                        "r1j5"
+                    ],
+                    "configuration": [
+                        "integratedsfoils"
+                    ]
+                }
+            },
+            {
+                "id": "chewbacca-scavengedyt1300",
+                "points": 68,
+                "ship": "scavengedyt1300",
+                "upgrades": {
+                    "talent": [
+                        "lonewolf"
+                    ]
+                }
+            },
+            {
+                "id": "zizitlo",
+                "points": 40,
+                "ship": "rz2awing",
+                "upgrades": {}
+            },
+            {
+                "id": "vimoradi",
+                "points": 33,
+                "ship": "resistancetransportpod",
+                "upgrades": {
+                    "crew": [
+                        "ga97"
+                    ]
+                }
+            }
+        ],
+        "points": 200,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Resistance&d=v8ZsZ200Z297XW312WW175WWWY246X124WWWWWWWY387XWWWY348XW230W&sn=Charlie%20Ligato%20JTO&obs="
+}

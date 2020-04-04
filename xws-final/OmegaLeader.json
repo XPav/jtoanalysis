@@ -1,0 +1,63 @@
+{
+    "discord": "EbutKnil#1305",
+    "name": "OmegaLeader",
+    "xws": {
+        "faction": "firstorder",
+        "name": "Christopher Spenner JTO",
+        "pilots": [
+            {
+                "id": "tn3465",
+                "points": 35,
+                "ship": "tiefofighter",
+                "upgrades": {
+                    "modification": [
+                        "hullupgrade"
+                    ]
+                }
+            },
+            {
+                "id": "holo",
+                "points": 59,
+                "ship": "tiebainterceptor",
+                "upgrades": {
+                    "modification": [
+                        "delayedfuses"
+                    ],
+                    "talent": [
+                        "swarmtactics"
+                    ]
+                }
+            },
+            {
+                "id": "muse",
+                "points": 36,
+                "ship": "tiefofighter",
+                "upgrades": {
+                    "talent": [
+                        "squadleader"
+                    ]
+                }
+            },
+            {
+                "id": "zetasquadronsurvivor",
+                "points": 38,
+                "ship": "tiesffighter",
+                "upgrades": {
+                    "tech": [
+                        "targetingsynchronizer"
+                    ]
+                }
+            },
+            {
+                "id": "longshot",
+                "points": 31,
+                "ship": "tiefofighter",
+                "upgrades": {}
+            }
+        ],
+        "points": 199,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=First%20Order&d=v8ZsZ200Z261XW164Y382X132WWW236Y235X131WWY259X177WWWWY263XWW&sn=Christopher%20Spenner%20JTO&obs="
+}

@@ -1,0 +1,56 @@
+{
+    "discord": "RebelRogue #2624",
+    "name": "RebelRogue",
+    "xws": {
+        "faction": "firstorder",
+        "name": "Adam Nieting JTO",
+        "pilots": [
+            {
+                "id": "firstordertestpilot",
+                "points": 64,
+                "ship": "tievnsilencer",
+                "upgrades": {
+                    "missile": [
+                        "protonrockets"
+                    ],
+                    "talent": [
+                        "marksmanship"
+                    ]
+                }
+            },
+            {
+                "id": "omegasquadronexpert",
+                "points": 46,
+                "ship": "tiesffighter",
+                "upgrades": {
+                    "sensor": [
+                        "collisiondetector"
+                    ],
+                    "talent": [
+                        "outmaneuver"
+                    ]
+                }
+            },
+            {
+                "id": "firstorderprovocateur",
+                "points": 45,
+                "ship": "tiebainterceptor",
+                "upgrades": {}
+            },
+            {
+                "id": "lieutenantlehuse",
+                "points": 44,
+                "ship": "tiesffighter",
+                "upgrades": {
+                    "tech": [
+                        "patternanalyzer"
+                    ]
+                }
+            }
+        ],
+        "points": 199,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=First%20Order&d=v8ZsZ200Z287X125WWW102Y285X126WWWW112WY384XWWWY397XW206WWWW&sn=Adam%20Nieting%20JTO&obs="
+}

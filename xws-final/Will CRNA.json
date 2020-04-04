@@ -1,0 +1,50 @@
+{
+    "discord": "wpearce17#9638",
+    "name": "Will CRNA",
+    "xws": {
+        "faction": "scumandvillainy",
+        "name": "Will Pearce JTO",
+        "pilots": [
+            {
+                "id": "talonbanecobra",
+                "points": 63,
+                "ship": "kihraxzfighter",
+                "upgrades": {
+                    "missile": [
+                        "magpulsewarheads"
+                    ],
+                    "modification": [
+                        "munitionsfailsafe",
+                        "afterburners"
+                    ]
+                }
+            },
+            {
+                "id": "krassistrelix",
+                "points": 90,
+                "ship": "firesprayclasspatrolcraft",
+                "upgrades": {
+                    "crew": [
+                        "maul"
+                    ],
+                    "device": [
+                        "connernets"
+                    ],
+                    "missile": [
+                        "protonrockets"
+                    ]
+                }
+            },
+            {
+                "id": "lokrevenant",
+                "points": 45,
+                "ship": "scurrgh6bomber",
+                "upgrades": {}
+            }
+        ],
+        "points": 198,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Scum%20and%20Villainy&d=v8ZsZ200Z119XW311WWW108W105Y107XWW102W48W68WWWY146XWWWWWW&sn=Will%20Pearce%20JTO&obs="
+}

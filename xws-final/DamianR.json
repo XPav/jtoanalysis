@@ -1,0 +1,68 @@
+{
+    "discord": "DamianR #8429",
+    "name": "DamianR",
+    "xws": {
+        "faction": "rebelalliance",
+        "name": "Damian Robinson JTO",
+        "obstacles": [
+            "core2asteroid0",
+            "core2asteroid3",
+            "core2asteroid5"
+        ],
+        "pilots": [
+            {
+                "id": "redsquadronveteran",
+                "points": 56,
+                "ship": "t65xwing",
+                "upgrades": {
+                    "configuration": [
+                        "servomotorsfoils"
+                    ],
+                    "modification": [
+                        "staticdischargevanes"
+                    ],
+                    "torpedo": [
+                        "plasmatorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "airencracken",
+                "points": 39,
+                "ship": "z95af4headhunter",
+                "upgrades": {
+                    "talent": [
+                        "intimidation"
+                    ]
+                }
+            },
+            {
+                "id": "ezrabridger-sheathipedeclassshuttle",
+                "points": 49,
+                "ship": "sheathipedeclassshuttle",
+                "upgrades": {
+                    "crew": [
+                        "leiaorgana"
+                    ],
+                    "title": [
+                        "phantom"
+                    ]
+                }
+            },
+            {
+                "id": "wedgeantilles",
+                "points": 55,
+                "ship": "t65xwing",
+                "upgrades": {
+                    "configuration": [
+                        "servomotorsfoils"
+                    ]
+                }
+            }
+        ],
+        "points": 199,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Rebel%20Alliance&d=v8ZsZ200Z2XW234WW109W142Y54X122WWY70XW46WWW167Y5XWWWW142&sn=Damian%20Robinson%20JTO&obs=core2asteroid0,core2asteroid3,core2asteroid5"
+}

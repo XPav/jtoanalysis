@@ -1,0 +1,62 @@
+{
+    "discord": "Samuel Melhado#5464",
+    "name": "Samuel Melhado",
+    "xws": {
+        "faction": "rebelalliance",
+        "name": "Samuel Melhado JTO",
+        "pilots": [
+            {
+                "id": "mirandadoni",
+                "points": 62,
+                "ship": "btls8kwing",
+                "upgrades": {
+                    "crew": [
+                        "jynerso"
+                    ],
+                    "device": [
+                        "clustermines"
+                    ],
+                    "missile": [
+                        "barragerockets"
+                    ],
+                    "modification": [
+                        "tacticalscrambler"
+                    ]
+                }
+            },
+            {
+                "id": "wildspacefringer",
+                "points": 83,
+                "ship": "yt2400lightfreighter",
+                "upgrades": {
+                    "gunner": [
+                        "skilledbombardier"
+                    ],
+                    "illicit": [
+                        "deadmansswitch"
+                    ],
+                    "modification": [
+                        "tacticalscrambler"
+                    ]
+                }
+            },
+            {
+                "id": "fennrau-sheathipedeclassshuttle",
+                "points": 53,
+                "ship": "sheathipedeclassshuttle",
+                "upgrades": {
+                    "astromech": [
+                        "r3astromech"
+                    ],
+                    "title": [
+                        "phantom"
+                    ]
+                }
+            }
+        ],
+        "points": 198,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Rebel%20Alliance&d=v8ZsZ200Z17XW97WWW40W316WW110Y41XW88WW110WW93Y69XWWW4W167&sn=Samuel%20Melhado%20JTO&obs="
+}

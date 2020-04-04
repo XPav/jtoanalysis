@@ -1,0 +1,57 @@
+{
+    "discord": "Wrecker#2531",
+    "name": "Wrecker",
+    "xws": {
+        "faction": "galacticempire",
+        "name": "Yan Picard JTO",
+        "pilots": [
+            {
+                "id": "onyxsquadronscout",
+                "points": 43,
+                "ship": "tieagaggressor",
+                "upgrades": {
+                    "missile": [
+                        "concussionmissiles"
+                    ],
+                    "talent": [
+                        "trickshot"
+                    ],
+                    "turret": [
+                        "ioncannonturret"
+                    ]
+                }
+            },
+            {
+                "id": "imdaartestpilot",
+                "points": 46,
+                "ship": "tiephphantom",
+                "upgrades": {
+                    "modification": [
+                        "targetingcomputer"
+                    ]
+                }
+            },
+            {
+                "id": "obsidiansquadronpilot",
+                "points": 23,
+                "ship": "tielnfighter",
+                "upgrades": {}
+            },
+            {
+                "id": "patrolleader",
+                "points": 88,
+                "ship": "vt49decimator",
+                "upgrades": {
+                    "crew": [
+                        "darthvader",
+                        "ministertua"
+                    ]
+                }
+            }
+        ],
+        "points": 200,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Galactic%20Empire&d=v8ZsZ200Z189X133W138W99WWWY202XWW249Y228XY216XW26W49WWWWW&sn=Yan%20Picard%20JTO&obs="
+}

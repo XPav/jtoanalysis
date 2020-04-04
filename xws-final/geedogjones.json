@@ -1,0 +1,67 @@
+{
+    "discord": "geedogjones",
+    "name": "geedogjones",
+    "xws": {
+        "faction": "separatistalliance",
+        "name": "geedogjonesjto",
+        "obstacles": [
+            "coreasteroid5",
+            "vt49decimatordebris2",
+            "gascloud1"
+        ],
+        "pilots": [
+            {
+                "id": "wattambor",
+                "points": 51,
+                "ship": "belbullab22starfighter",
+                "upgrades": {
+                    "modification": [
+                        "imperviumplating"
+                    ],
+                    "talent": [
+                        "lonewolf"
+                    ]
+                }
+            },
+            {
+                "id": "dbs32c",
+                "points": 50,
+                "ship": "hyenaclassdroidbomber",
+                "upgrades": {
+                    "modification": [
+                        "hullupgrade"
+                    ],
+                    "tacticalrelay": [
+                        "tv94"
+                    ]
+                }
+            },
+            {
+                "id": "dfs081",
+                "points": 26,
+                "ship": "vultureclassdroidfighter",
+                "upgrades": {}
+            },
+            {
+                "id": "berwerkret",
+                "points": 40,
+                "ship": "nantexclassstarfighter",
+                "upgrades": {}
+            },
+            {
+                "id": "baktoidprototype",
+                "points": 32,
+                "ship": "hyenaclassdroidbomber",
+                "upgrades": {
+                    "missile": [
+                        "discordmissiles"
+                    ]
+                }
+            }
+        ],
+        "points": 199,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Separatist%20Alliance&d=v8ZsZ200Z306X124WW207WY328XW223W164WY311XWWY358XWY329XWW224WW&sn=geedogjonesjto&obs=coreasteroid5,vt49decimatordebris2,gascloud1"
+}

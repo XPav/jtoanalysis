@@ -1,0 +1,57 @@
+{
+    "discord": "Lu the Lunatic",
+    "name": "Luke Wilkie",
+    "xws": {
+        "faction": "resistance",
+        "name": "Luke Wilkie JTO",
+        "pilots": [
+            {
+                "id": "vimoradi",
+                "points": 29,
+                "ship": "resistancetransportpod",
+                "upgrades": {
+                    "modification": [
+                        "electronicbaffle"
+                    ]
+                }
+            },
+            {
+                "id": "hansolo-scavengedyt1300",
+                "points": 68,
+                "ship": "scavengedyt1300",
+                "upgrades": {
+                    "talent": [
+                        "intimidation"
+                    ]
+                }
+            },
+            {
+                "id": "cat",
+                "points": 69,
+                "ship": "mg100starfortress",
+                "upgrades": {
+                    "gunner": [
+                        "finn"
+                    ],
+                    "tech": [
+                        "patternanalyzer"
+                    ]
+                }
+            },
+            {
+                "id": "r1j5",
+                "points": 34,
+                "ship": "fireball",
+                "upgrades": {
+                    "crew": [
+                        "chewbacca-crew-swz19"
+                    ]
+                }
+            }
+        ],
+        "points": 200,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Resistance&d=v8ZsZ200Z348XWW106Y245X122WWWWWWWY291XW206WW174WWWWY379XW188WWWW&sn=Luke%20Wilkie%20JTO&obs="
+}

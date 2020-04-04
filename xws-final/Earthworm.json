@@ -1,0 +1,55 @@
+{
+    "discord": "Earthworm #3395",
+    "name": "Earthworm",
+    "xws": {
+        "faction": "rebelalliance",
+        "name": "You came in that?  You're braver than I thought!",
+        "obstacles": [
+            "yt2400debris0",
+            "yt2400debris2",
+            "vt49decimatordebris0"
+        ],
+        "pilots": [
+            {
+                "id": "captainrex",
+                "points": 30,
+                "ship": "tielnfighter",
+                "upgrades": {}
+            },
+            {
+                "id": "outerrimsmuggler",
+                "points": 95,
+                "ship": "modifiedyt1300lightfreighter",
+                "upgrades": {
+                    "crew": [
+                        "magvayarro",
+                        "sawgerrera"
+                    ],
+                    "missile": [
+                        "clustermissiles"
+                    ],
+                    "modification": [
+                        "hullupgrade"
+                    ],
+                    "title": [
+                        "millenniumfalcon"
+                    ]
+                }
+            },
+            {
+                "id": "outerrimsmuggler",
+                "points": 73,
+                "ship": "modifiedyt1300lightfreighter",
+                "upgrades": {
+                    "missile": [
+                        "concussionmissiles"
+                    ]
+                }
+            }
+        ],
+        "points": 198,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Rebel%20Alliance&d=v8ZsZ200Z16XY45X98WW51W58W164WW154Y45X99WWWWWW&sn=You%20came%20in%20that%3F%20%20You%27re%20braver%20than%20I%20thought!&obs=yt2400debris0,yt2400debris2,vt49decimatordebris0"
+}

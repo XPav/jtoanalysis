@@ -1,0 +1,72 @@
+{
+    "discord": "Jdlnz#5464",
+    "name": "JDLNZ",
+    "xws": {
+        "faction": "separatistalliance",
+        "name": "Dave Laffan JTO",
+        "pilots": [
+            {
+                "id": "precisehunter",
+                "points": 29,
+                "ship": "vultureclassdroidfighter",
+                "upgrades": {
+                    "configuration": [
+                        "grapplingstruts"
+                    ],
+                    "missile": [
+                        "homingmissiles"
+                    ]
+                }
+            },
+            {
+                "id": "generalgrievous",
+                "points": 56,
+                "ship": "belbullab22starfighter",
+                "upgrades": {
+                    "talent": [
+                        "outmaneuver"
+                    ],
+                    "title": [
+                        "soullessone"
+                    ]
+                }
+            },
+            {
+                "id": "dbs32c",
+                "points": 45,
+                "ship": "hyenaclassdroidbomber",
+                "upgrades": {
+                    "tacticalrelay": [
+                        "tv94"
+                    ]
+                }
+            },
+            {
+                "id": "dfs311",
+                "points": 23,
+                "ship": "vultureclassdroidfighter",
+                "upgrades": {}
+            },
+            {
+                "id": "separatistdrone",
+                "points": 22,
+                "ship": "vultureclassdroidfighter",
+                "upgrades": {
+                    "configuration": [
+                        "grapplingstruts"
+                    ]
+                }
+            },
+            {
+                "id": "precisehunter",
+                "points": 23,
+                "ship": "vultureclassdroidfighter",
+                "upgrades": {}
+            }
+        ],
+        "points": 198,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Separatist%20Alliance&d=v8ZsZ200Z309X100W208WY305X126WWW229Y328XW223WWY337XWWY343XW208WY309XWW&sn=Dave%20Laffan%20JTO&obs="
+}

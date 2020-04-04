@@ -1,0 +1,60 @@
+{
+    "discord": "Chrispy#9179",
+    "name": "Christopher Patrick",
+    "xws": {
+        "faction": "firstorder",
+        "name": "Christopher Patrick JTO",
+        "pilots": [
+            {
+                "id": "zetasquadronsurvivor",
+                "points": 43,
+                "ship": "tiesffighter",
+                "upgrades": {
+                    "sensor": [
+                        "firecontrolsystem"
+                    ],
+                    "tech": [
+                        "deuteriumpowercells"
+                    ]
+                }
+            },
+            {
+                "id": "lieutenantlehuse",
+                "points": 49,
+                "ship": "tiesffighter",
+                "upgrades": {
+                    "gunner": [
+                        "specialforcesgunner"
+                    ]
+                }
+            },
+            {
+                "id": "holo",
+                "points": 60,
+                "ship": "tiebainterceptor",
+                "upgrades": {
+                    "talent": [
+                        "marksmanship"
+                    ],
+                    "tech": [
+                        "patternanalyzer"
+                    ]
+                }
+            },
+            {
+                "id": "firstorderprovocateur",
+                "points": 46,
+                "ship": "tiebainterceptor",
+                "upgrades": {
+                    "talent": [
+                        "composure"
+                    ]
+                }
+            }
+        ],
+        "points": 198,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=First%20Order&d=v8ZsZ200Z259X318WWW113WY397XWWW182WWY382X125W206WWY384X115WWW&sn=Christopher%20Patrick%20JTO&obs="
+}

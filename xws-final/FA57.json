@@ -1,0 +1,46 @@
+{
+    "discord": "Gypsygambit#3671",
+    "name": "FA-57",
+    "xws": {
+        "faction": "galacticempire",
+        "name": "Jonathan McKinstray JTO",
+        "pilots": [
+            {
+                "id": "maulermithel",
+                "points": 31,
+                "ship": "tielnfighter",
+                "upgrades": {}
+            },
+            {
+                "id": "captainoicunn",
+                "points": 85,
+                "ship": "vt49decimator",
+                "upgrades": {
+                    "crew": [
+                        "directorkrennic",
+                        "isbslicer"
+                    ],
+                    "title": [
+                        "dauntless"
+                    ]
+                }
+            },
+            {
+                "id": "inquisitor",
+                "points": 35,
+                "ship": "tieadvancedv1",
+                "upgrades": {}
+            },
+            {
+                "id": "lieutenantsai",
+                "points": 47,
+                "ship": "lambdaclasst4ashuttle",
+                "upgrades": {}
+            }
+        ],
+        "points": 198,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Galactic%20Empire&d=v8ZsZ200Z219XWY215XWW28W38WWWWW147Y171XWWY166XWWWWW&sn=Jonathan%20McKinstray%20JTO&obs="
+}

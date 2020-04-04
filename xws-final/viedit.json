@@ -1,0 +1,65 @@
+{
+    "discord": "viedit#0883",
+    "name": "viedit",
+    "xws": {
+        "faction": "scumandvillainy",
+        "name": "Josh's Dace of Legend",
+        "pilots": [
+            {
+                "id": "dacebonearm",
+                "points": 65,
+                "ship": "hwk290lightfreighter",
+                "upgrades": {
+                    "crew": [
+                        "landocalrissian-crew"
+                    ],
+                    "modification": [
+                        "afterburners"
+                    ],
+                    "title": [
+                        "moldycrow"
+                    ]
+                }
+            },
+            {
+                "id": "lokrevenant",
+                "points": 61,
+                "ship": "scurrgh6bomber",
+                "upgrades": {
+                    "device": [
+                        "proximitymines"
+                    ],
+                    "sensor": [
+                        "passivesensors"
+                    ],
+                    "title": [
+                        "havoc"
+                    ],
+                    "turret": [
+                        "ioncannonturret"
+                    ]
+                }
+            },
+            {
+                "id": "lattsrazzi",
+                "points": 72,
+                "ship": "yv666lightfreighter",
+                "upgrades": {
+                    "crew": [
+                        "chewbacca-crew"
+                    ],
+                    "gunner": [
+                        "dengar"
+                    ],
+                    "missile": [
+                        "clustermissiles"
+                    ]
+                }
+            }
+        ],
+        "points": 198,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Scum%20and%20Villainy&d=v8ZsZ200Z113XW45WWWW105W156Y146X138WWW70WWW149W240WY154XWW98W22WW80WWW&sn=Josh%27s%20Dace%20of%20Legend&obs="
+}

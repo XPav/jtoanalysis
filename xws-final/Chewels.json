@@ -1,0 +1,78 @@
+{
+    "discord": "Chewels#6849",
+    "name": "Chewels",
+    "xws": {
+        "faction": "scumandvillainy",
+        "name": "Matthew LeClair JTO",
+        "pilots": [
+            {
+                "id": "lattsrazzi",
+                "points": 82,
+                "ship": "yv666lightfreighter",
+                "upgrades": {
+                    "cannon": [
+                        "jammingbeam"
+                    ],
+                    "crew": [
+                        "bobafett",
+                        "000"
+                    ],
+                    "gunner": [
+                        "bt1"
+                    ],
+                    "illicit": [
+                        "feedbackarray"
+                    ],
+                    "missile": [
+                        "concussionmissiles"
+                    ],
+                    "modification": [
+                        "hullupgrade"
+                    ],
+                    "talent": [
+                        "marksmanship"
+                    ],
+                    "title": [
+                        "houndstooth"
+                    ]
+                }
+            },
+            {
+                "id": "cartelspacer",
+                "points": 31,
+                "ship": "m3ainterceptor",
+                "upgrades": {
+                    "torpedo": [
+                        "iontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "graz",
+                "points": 57,
+                "ship": "kihraxzfighter",
+                "upgrades": {
+                    "illicit": [
+                        "inertialdampeners"
+                    ],
+                    "modification": [
+                        "staticdischargevanes"
+                    ],
+                    "talent": [
+                        "marksmanship"
+                    ]
+                }
+            },
+            {
+                "id": "sunnybounder",
+                "points": 27,
+                "ship": "m3ainterceptor",
+                "upgrades": {}
+            }
+        ],
+        "points": 197,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Scum%20and%20Villainy&d=v8ZsZ200Z154X125W12W99W16W63W79W94W164W150Y139XW135Y120X125WW95WW109WY138XW&sn=Matthew%20LeClair%20JTO&obs="
+}

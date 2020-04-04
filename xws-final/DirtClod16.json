@@ -1,0 +1,73 @@
+{
+    "discord": "DirtClod",
+    "name": "DirtClod16",
+    "xws": {
+        "faction": "rebelalliance",
+        "name": "Ben Pappas JTO",
+        "obstacles": [
+            "coreasteroid5",
+            "core2asteroid1",
+            "core2asteroid3"
+        ],
+        "pilots": [
+            {
+                "id": "bluesquadronpilot",
+                "points": 55,
+                "ship": "asf01bwing",
+                "upgrades": {
+                    "configuration": [
+                        "stabilizedsfoils"
+                    ],
+                    "modification": [
+                        "targetingcomputer"
+                    ],
+                    "sensor": [
+                        "passivesensors"
+                    ],
+                    "torpedo": [
+                        "advprotontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "gavindarklighter",
+                "points": 86,
+                "ship": "ewing",
+                "upgrades": {
+                    "astromech": [
+                        "r4astromech"
+                    ],
+                    "modification": [
+                        "shieldupgrade"
+                    ],
+                    "sensor": [
+                        "firecontrolsystem"
+                    ],
+                    "torpedo": [
+                        "protontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "sabinewren",
+                "points": 57,
+                "ship": "attackshuttle",
+                "upgrades": {
+                    "crew": [
+                        "leiaorgana"
+                    ],
+                    "talent": [
+                        "debrisgambit"
+                    ],
+                    "turret": [
+                        "ioncannonturret"
+                    ]
+                }
+            }
+        ],
+        "points": 198,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Rebel%20Alliance&d=v8ZsZ200Z76X240WWW134W249W313Y22XW113W136W5W165Y66X118W46WW138W&sn=Ben%20Pappas%20JTO&obs=coreasteroid5,core2asteroid1,core2asteroid3"
+}

@@ -1,0 +1,50 @@
+{
+    "discord": "Adjudicator#3911",
+    "name": "Adjudicator",
+    "xws": {
+        "faction": "firstorder",
+        "name": "Nathan Long JTO",
+        "pilots": [
+            {
+                "id": "recoil",
+                "points": 64,
+                "ship": "tievnsilencer",
+                "upgrades": {
+                    "talent": [
+                        "snapshot"
+                    ]
+                }
+            },
+            {
+                "id": "majorvonreg",
+                "points": 68,
+                "ship": "tiebainterceptor",
+                "upgrades": {
+                    "talent": [
+                        "proudtradition"
+                    ],
+                    "tech": [
+                        "deuteriumpowercells"
+                    ]
+                }
+            },
+            {
+                "id": "holo",
+                "points": 65,
+                "ship": "tiebainterceptor",
+                "upgrades": {
+                    "talent": [
+                        "daredevil"
+                    ],
+                    "tech": [
+                        "deuteriumpowercells"
+                    ]
+                }
+            }
+        ],
+        "points": 197,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=First%20Order&d=v8ZsZ200Z284X256WWWY381X319W318WWY382X117W318WW&sn=Nathan%20Long%20JTO&obs="
+}

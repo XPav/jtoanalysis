@@ -1,0 +1,52 @@
+{
+    "discord": "roelbesters#8712",
+    "name": "roelbesters",
+    "xws": {
+        "faction": "firstorder",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "kyloren",
+                "points": 96,
+                "ship": "tievnsilencer",
+                "upgrades": {
+                    "force-power": [
+                        "hate"
+                    ],
+                    "missile": [
+                        "magpulsewarheads"
+                    ],
+                    "tech": [
+                        "patternanalyzer"
+                    ],
+                    "torpedo": [
+                        "iontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "captaincardinal",
+                "points": 72,
+                "ship": "upsilonclasscommandshuttle",
+                "upgrades": {
+                    "cannon": [
+                        "heavylasercannon"
+                    ],
+                    "crew": [
+                        "captainphasma"
+                    ]
+                }
+            },
+            {
+                "id": "null",
+                "points": 30,
+                "ship": "tiefofighter",
+                "upgrades": {}
+            }
+        ],
+        "points": 198,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=First%20Order&d=v8ZsZ200Z236X204W206W135W311Y282XWW183WWW10WWY290XW&sn=Random%20Squad&obs"
+}

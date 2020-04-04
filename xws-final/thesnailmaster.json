@@ -1,0 +1,79 @@
+{
+    "discord": "thesnailmaster",
+    "name": "thesnailmaster",
+    "xws": {
+        "faction": "resistance",
+        "name": "thesnailmaster JTO",
+        "pilots": [
+            {
+                "id": "logisticsdivisionpilot",
+                "points": 47,
+                "ship": "resistancetransport",
+                "upgrades": {
+                    "crew": [
+                        "seasonednavigator",
+                        "tacticalofficer"
+                    ],
+                    "modification": [
+                        "munitionsfailsafe"
+                    ],
+                    "tech": [
+                        "primedthrusters"
+                    ]
+                }
+            },
+            {
+                "id": "kazudaxiono",
+                "points": 57,
+                "ship": "fireball",
+                "upgrades": {
+                    "astromech": [
+                        "r1j5"
+                    ],
+                    "illicit": [
+                        "contrabandcybernetics"
+                    ],
+                    "talent": [
+                        "snapshot"
+                    ],
+                    "title": [
+                        "kazsfireball"
+                    ]
+                }
+            },
+            {
+                "id": "elloasty",
+                "points": 62,
+                "ship": "t70xwing",
+                "upgrades": {
+                    "configuration": [
+                        "integratedsfoils"
+                    ],
+                    "tech": [
+                        "patternanalyzer"
+                    ],
+                    "title": [
+                        "blackone"
+                    ]
+                }
+            },
+            {
+                "id": "colossusstationmechanic",
+                "points": 32,
+                "ship": "fireball",
+                "upgrades": {
+                    "astromech": [
+                        "r5astromech"
+                    ],
+                    "illicit": [
+                        "deadmansswitch"
+                    ]
+                }
+            }
+        ],
+        "points": 198,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Resistance&d=v8ZsZ200Z346X178WWW59W61WW108Y378X256WW312W92WWW315Y299XWWW175W206W171WY380XW6W93WWW&sn=thesnailmaster%20JTO&obs="
+}

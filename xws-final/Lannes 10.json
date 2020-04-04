@@ -1,0 +1,63 @@
+{
+    "discord": "Lannes #9142",
+    "name": "Lannes 10",
+    "xws": {
+        "faction": "scumandvillainy",
+        "name": "Quad Scum JTO",
+        "pilots": [
+            {
+                "id": "asajjventress",
+                "points": 86,
+                "ship": "lancerclasspursuitcraft",
+                "upgrades": {
+                    "crew": [
+                        "lattsrazzi"
+                    ],
+                    "illicit": [
+                        "inertialdampeners",
+                        "contrabandcybernetics"
+                    ],
+                    "title": [
+                        "shadowcaster"
+                    ]
+                }
+            },
+            {
+                "id": "constablezuvio",
+                "points": 39,
+                "ship": "quadrijettransferspacetug",
+                "upgrades": {
+                    "crew": [
+                        "freelanceslicer"
+                    ],
+                    "illicit": [
+                        "feedbackarray"
+                    ]
+                }
+            },
+            {
+                "id": "genesisred",
+                "points": 45,
+                "ship": "m3ainterceptor",
+                "upgrades": {
+                    "missile": [
+                        "concussionmissiles"
+                    ],
+                    "modification": [
+                        "shieldupgrade"
+                    ]
+                }
+            },
+            {
+                "id": "bossk-z95af4headhunter",
+                "points": 29,
+                "ship": "z95af4headhunter",
+                "upgrades": {}
+            }
+        ],
+        "points": 199,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Scum%20and%20Villainy&d=v8ZsZ200Z125XW47W95W92WW160Y140XWW30WW94WY133XW165W99Y398XWWW&sn=Quad%20Scum%20JTO&obs="
+}

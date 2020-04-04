@@ -1,0 +1,40 @@
+{
+    "discord": "fuckface (User#3781)",
+    "name": "Ethan421",
+    "xws": {
+        "faction": "galacticempire",
+        "name": "Ethan421 JTO",
+        "pilots": [
+            {
+                "id": "rearadmiralchiraneau",
+                "points": 84,
+                "ship": "vt49decimator",
+                "upgrades": {
+                    "device": [
+                        "clustermines"
+                    ]
+                }
+            },
+            {
+                "id": "rexlerbrath",
+                "points": 81,
+                "ship": "tieddefender",
+                "upgrades": {}
+            },
+            {
+                "id": "gammasquadronace",
+                "points": 35,
+                "ship": "tiesabomber",
+                "upgrades": {
+                    "missile": [
+                        "homingmissiles"
+                    ]
+                }
+            }
+        ],
+        "points": 200,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Galactic%20Empire&d=v8ZsZ200Z214XWWWWWW316WWY196XWWWY207XWW100WWWWW&sn=Ethan421%20JTO&obs="
+}

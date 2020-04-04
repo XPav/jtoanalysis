@@ -1,0 +1,49 @@
+{
+    "discord": "Darryl_M#0441",
+    "name": "RebelScum",
+    "xws": {
+        "faction": "rebelalliance",
+        "name": "Darryl McMillon - JTO",
+        "pilots": [
+            {
+                "id": "partisanrenegade",
+                "points": 50,
+                "ship": "ut60duwing",
+                "upgrades": {
+                    "configuration": [
+                        "pivotwing"
+                    ],
+                    "crew": [
+                        "leiaorgana"
+                    ]
+                }
+            },
+            {
+                "id": "ginamoonsong",
+                "points": 59,
+                "ship": "asf01bwing",
+                "upgrades": {
+                    "torpedo": [
+                        "plasmatorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "bladesquadronveteran",
+                "points": 42,
+                "ship": "asf01bwing",
+                "upgrades": {}
+            },
+            {
+                "id": "bladesquadronveteran",
+                "points": 42,
+                "ship": "asf01bwing",
+                "upgrades": {}
+            }
+        ],
+        "points": 193,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Rebel%20Alliance&d=v8ZsZ200Z38XWW46WWW140Y391XWWWW234WWY75XWWWWWWY75XWWWWWW&sn=Darryl%20McMillon%20-%20JTO&obs="
+}

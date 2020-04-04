@@ -1,0 +1,49 @@
+{
+    "discord": "Totem#6562",
+    "name": "Totem",
+    "xws": {
+        "faction": "separatistalliance",
+        "name": "The Maul, the Tyrant, and the UPS guy",
+        "pilots": [
+            {
+                "id": "darthmaul",
+                "points": 72,
+                "ship": "sithinfiltrator",
+                "upgrades": {
+                    "cannon": [
+                        "jammingbeam"
+                    ],
+                    "force-power": [
+                        "predictiveshot"
+                    ],
+                    "modification": [
+                        "staticdischargevanes"
+                    ]
+                }
+            },
+            {
+                "id": "countdooku",
+                "points": 76,
+                "ship": "sithinfiltrator",
+                "upgrades": {
+                    "title": [
+                        "scimitar"
+                    ],
+                    "torpedo": [
+                        "plasmatorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "darkcourier",
+                "points": 51,
+                "ship": "sithinfiltrator",
+                "upgrades": {}
+            }
+        ],
+        "points": 199,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Separatist%20Alliance&d=v8ZsZ200Z272X203W12WWWWW109WWY334XWW234WWWWW216WY336XWWWWWWW&sn=The%20Maul%2C%20the%20Tyrant%2C%20and%20the%20UPS%20guy&obs="
+}

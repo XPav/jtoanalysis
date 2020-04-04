@@ -1,0 +1,56 @@
+{
+    "discord": "Coroidan#5646",
+    "name": "Coroidan",
+    "xws": {
+        "faction": "scumandvillainy",
+        "name": "Lachlan Moore JTO",
+        "pilots": [
+            {
+                "id": "blacksunenforcer",
+                "points": 45,
+                "ship": "starviperclassattackplatform",
+                "upgrades": {}
+            },
+            {
+                "id": "tansariipointveteran",
+                "points": 43,
+                "ship": "m3ainterceptor",
+                "upgrades": {
+                    "talent": [
+                        "squadleader"
+                    ],
+                    "torpedo": [
+                        "advprotontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "kavil",
+                "points": 48,
+                "ship": "btla4ywing",
+                "upgrades": {
+                    "illicit": [
+                        "deadmansswitch"
+                    ],
+                    "turret": [
+                        "dorsalturret"
+                    ]
+                }
+            },
+            {
+                "id": "dalanoberos-starviperclassattackplatform",
+                "points": 64,
+                "ship": "starviperclassattackplatform",
+                "upgrades": {
+                    "sensor": [
+                        "advancedsensors"
+                    ]
+                }
+            }
+        ],
+        "points": 200,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Scum%20and%20Villainy&d=v8ZsZ200Z151XWWWY136X131WW134Y85XW137WWWWW93WY149XW111WWW&sn=Lachlan%20Moore%20JTO&obs="
+}

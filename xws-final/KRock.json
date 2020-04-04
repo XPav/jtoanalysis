@@ -1,0 +1,67 @@
+{
+    "discord": "Kris Erickson #4082",
+    "name": "K-Rock",
+    "xws": {
+        "faction": "resistance",
+        "name": "Kris Erickson (JTO)",
+        "obstacles": [
+            "gascloud3",
+            "gascloud4",
+            "gascloud5"
+        ],
+        "pilots": [
+            {
+                "id": "hansolo-scavengedyt1300",
+                "points": 80,
+                "ship": "scavengedyt1300",
+                "upgrades": {
+                    "crew": [
+                        "rosetico"
+                    ],
+                    "missile": [
+                        "concussionmissiles"
+                    ]
+                }
+            },
+            {
+                "id": "colossusstationmechanic",
+                "points": 36,
+                "ship": "fireball",
+                "upgrades": {
+                    "astromech": [
+                        "r5x3"
+                    ],
+                    "modification": [
+                        "advancedslam"
+                    ],
+                    "title": [
+                        "kazsfireball"
+                    ]
+                }
+            },
+            {
+                "id": "covanell",
+                "points": 49,
+                "ship": "resistancetransport",
+                "upgrades": {
+                    "astromech": [
+                        "r1j5"
+                    ],
+                    "tech": [
+                        "patternanalyzer"
+                    ]
+                }
+            },
+            {
+                "id": "jarekyeager",
+                "points": 33,
+                "ship": "fireball",
+                "upgrades": {}
+            }
+        ],
+        "points": 198,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Resistance&d=v8ZsZ200Z245XW99W173WWWWWY380XW205WW104WW315Y351XW206WWWWW312WY377XWWWWWW&sn=Kris%20Erickson%20(JTO)&obs=gascloud3,gascloud4,gascloud5"
+}

@@ -1,0 +1,57 @@
+{
+    "discord": "CraftedRed#4028",
+    "name": "Dale Cromwell",
+    "xws": {
+        "faction": "firstorder",
+        "name": "Dale Cromwell JTO",
+        "pilots": [
+            {
+                "id": "ember",
+                "points": 58,
+                "ship": "tiebainterceptor",
+                "upgrades": {
+                    "talent": [
+                        "outmaneuver"
+                    ]
+                }
+            },
+            {
+                "id": "lieutenantlehuse",
+                "points": 56,
+                "ship": "tiesffighter",
+                "upgrades": {
+                    "gunner": [
+                        "hotshotgunner"
+                    ],
+                    "sensor": [
+                        "passivesensors"
+                    ],
+                    "talent": [
+                        "intimidation"
+                    ],
+                    "tech": [
+                        "advancedoptics"
+                    ]
+                }
+            },
+            {
+                "id": "lieutenanttavson",
+                "points": 83,
+                "ship": "upsilonclasscommandshuttle",
+                "upgrades": {
+                    "crew": [
+                        "captainphasma"
+                    ],
+                    "tech": [
+                        "advancedoptics",
+                        "hyperspacetrackingdata"
+                    ]
+                }
+            }
+        ],
+        "points": 197,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=First%20Order&d=v8ZsZ200Z383X126WWWY397X122W186WW86W240WY289X186W185W183WWWWW&sn=Dale%20Cromwell%20JTO&obs="
+}

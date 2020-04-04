@@ -1,0 +1,58 @@
+{
+    "discord": "tkdstitch#3467",
+    "name": "tkdstitch",
+    "xws": {
+        "faction": "galacticempire",
+        "name": "Sean Bowman (TKDStitch) JTO",
+        "pilots": [
+            {
+                "id": "majorvermeil",
+                "points": 63,
+                "ship": "tiereaper",
+                "upgrades": {
+                    "crew": [
+                        "agentkallus",
+                        "seventhsister"
+                    ]
+                }
+            },
+            {
+                "id": "omicrongrouppilot",
+                "points": 47,
+                "ship": "lambdaclasst4ashuttle",
+                "upgrades": {
+                    "title": [
+                        "st321"
+                    ]
+                }
+            },
+            {
+                "id": "baronoftheempire",
+                "points": 35,
+                "ship": "tieadvancedv1",
+                "upgrades": {
+                    "missile": [
+                        "homingmissiles"
+                    ]
+                }
+            },
+            {
+                "id": "captainferoph",
+                "points": 54,
+                "ship": "tiereaper",
+                "upgrades": {
+                    "crew": [
+                        "deathtroopers"
+                    ],
+                    "talent": [
+                        "composure"
+                    ]
+                }
+            }
+        ],
+        "points": 199,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Galactic%20Empire&d=v8ZsZ200Z183XW15W60WY168XWWWWW162Y172XWW100Y184X115W27WW&sn=Sean%20Bowman%20(TKDStitch)%20JTO&obs="
+}

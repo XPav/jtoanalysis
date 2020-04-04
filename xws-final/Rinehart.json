@@ -1,0 +1,52 @@
+{
+    "discord": "Rinehart#0927",
+    "name": "Rinehart ",
+    "xws": {
+        "faction": "scumandvillainy",
+        "name": "Rinehart Jank Tank",
+        "pilots": [
+            {
+                "id": "ig88c",
+                "points": 74,
+                "ship": "aggressorassaultfighter",
+                "upgrades": {
+                    "device": [
+                        "proximitymines"
+                    ],
+                    "modification": [
+                        "delayedfuses"
+                    ],
+                    "talent": [
+                        "intimidation"
+                    ]
+                }
+            },
+            {
+                "id": "captainjostero",
+                "points": 42,
+                "ship": "kihraxzfighter",
+                "upgrades": {}
+            },
+            {
+                "id": "overseeryushyn",
+                "points": 26,
+                "ship": "modifiedtielnfighter",
+                "upgrades": {}
+            },
+            {
+                "id": "skullsquadronpilot",
+                "points": 56,
+                "ship": "fangfighter",
+                "upgrades": {
+                    "torpedo": [
+                        "plasmatorpedoes"
+                    ]
+                }
+            }
+        ],
+        "points": 198,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Scum%20and%20Villainy&d=v8ZsZ200Z83X122WWWW70WW236WY122XWWWWY303XY101XW234&sn=Rinehart%20Jank%20Tank&obs="
+}

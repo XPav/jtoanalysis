@@ -1,0 +1,56 @@
+{
+    "discord": "ESA_JT_OPEN#8513",
+    "name": "ESA_JT_OPEN",
+    "xws": {
+        "faction": "rebelalliance",
+        "name": "ESA_JTO",
+        "pilots": [
+            {
+                "id": "roguesquadronescort",
+                "points": 65,
+                "ship": "ewing",
+                "upgrades": {
+                    "astromech": [
+                        "r3astromech"
+                    ],
+                    "torpedo": [
+                        "plasmatorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "edriotwotubes",
+                "points": 49,
+                "ship": "t65xwing",
+                "upgrades": {
+                    "configuration": [
+                        "servomotorsfoils"
+                    ],
+                    "torpedo": [
+                        "advprotontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "lowhhrick",
+                "points": 62,
+                "ship": "auzituckgunship",
+                "upgrades": {
+                    "crew": [
+                        "gnkgonkdroid"
+                    ]
+                }
+            },
+            {
+                "id": "banditsquadronpilot",
+                "points": 22,
+                "ship": "z95af4headhunter",
+                "upgrades": {}
+            }
+        ],
+        "points": 198,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Rebel%20Alliance&d=v8ZsZ200Z23XWW234W4WY8XW134WWW142Y59XWW32WY57XW&sn=ESA_JTO&obs="
+}

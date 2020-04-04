@@ -1,0 +1,68 @@
+{
+    "discord": "Frenzy#0680",
+    "name": "Merrick",
+    "xws": {
+        "faction": "galacticempire",
+        "name": "Merrick Kemp JTO",
+        "pilots": [
+            {
+                "id": "lieutenantkarsabi",
+                "points": 56,
+                "ship": "alphaclassstarwing",
+                "upgrades": {
+                    "configuration": [
+                        "xg1assaultconfiguration"
+                    ],
+                    "modification": [
+                        "munitionsfailsafe"
+                    ],
+                    "sensor": [
+                        "trajectorysimulator"
+                    ],
+                    "talent": [
+                        "outmaneuver"
+                    ],
+                    "torpedo": [
+                        "iontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "scarifbasepilot",
+                "points": 46,
+                "ship": "tiereaper",
+                "upgrades": {
+                    "crew": [
+                        "ministertua"
+                    ]
+                }
+            },
+            {
+                "id": "majorvermeil",
+                "points": 49,
+                "ship": "tiereaper",
+                "upgrades": {}
+            },
+            {
+                "id": "doubleedge",
+                "points": 48,
+                "ship": "tieagaggressor",
+                "upgrades": {
+                    "missile": [
+                        "protonrockets"
+                    ],
+                    "talent": [
+                        "snapshot"
+                    ],
+                    "turret": [
+                        "ioncannonturret"
+                    ]
+                }
+            }
+        ],
+        "points": 199,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Galactic%20Empire&d=v8ZsZ200Z162X126W114W135WW108W144WY186X49WWY183XWWWY188X256W138W102WWW&sn=Merrick%20Kemp%20JTO&obs="
+}

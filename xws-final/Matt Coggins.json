@@ -1,0 +1,68 @@
+{
+    "discord": "Mattcogg",
+    "name": "Matt Coggins",
+    "xws": {
+        "faction": "resistance",
+        "name": "Matt Coggins JTO",
+        "obstacles": [
+            "gascloud1",
+            "gascloud3",
+            "gascloud5"
+        ],
+        "pilots": [
+            {
+                "id": "tallissanlintra",
+                "points": 49,
+                "ship": "rz2awing",
+                "upgrades": {
+                    "missile": [
+                        "protonrockets"
+                    ],
+                    "talent": [
+                        "marksmanship"
+                    ],
+                    "tech": [
+                        "patternanalyzer"
+                    ]
+                }
+            },
+            {
+                "id": "paigetico",
+                "points": 102,
+                "ship": "mg100starfortress",
+                "upgrades": {
+                    "crew": [
+                        "perceptivecopilot"
+                    ],
+                    "device": [
+                        "protonbombs"
+                    ],
+                    "gunner": [
+                        "hotshotgunner",
+                        "agilegunner"
+                    ],
+                    "modification": [
+                        "shieldupgrade"
+                    ],
+                    "sensor": [
+                        "advancedsensors"
+                    ]
+                }
+            },
+            {
+                "id": "kazudaxiono",
+                "points": 42,
+                "ship": "fireball",
+                "upgrades": {
+                    "title": [
+                        "kazsfireball"
+                    ]
+                }
+            }
+        ],
+        "points": 193,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Resistance&d=v8ZsZ200Z240X125WW102W206Y389XW111WW54W86W76W69WW165Y378XWWWWWW315&sn=Matt%20Coggins%20JTO&obs=gascloud1,gascloud3,gascloud5"
+}

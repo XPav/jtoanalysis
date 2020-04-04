@@ -1,0 +1,57 @@
+{
+    "discord": "Sycho#3730",
+    "name": "Sycho",
+    "xws": {
+        "faction": "firstorder",
+        "name": "Sycho JTO",
+        "obstacles": [
+            "core2asteroid1",
+            "core2asteroid3",
+            "core2asteroid4"
+        ],
+        "pilots": [
+            {
+                "id": "epsilonsquadroncadet",
+                "points": 25,
+                "ship": "tiefofighter",
+                "upgrades": {}
+            },
+            {
+                "id": "recoil",
+                "points": 73,
+                "ship": "tievnsilencer",
+                "upgrades": {
+                    "missile": [
+                        "protonrockets"
+                    ],
+                    "torpedo": [
+                        "plasmatorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "omegasquadronexpert",
+                "points": 44,
+                "ship": "tiesffighter",
+                "upgrades": {
+                    "sensor": [
+                        "trajectorysimulator"
+                    ],
+                    "tech": [
+                        "advancedoptics"
+                    ]
+                }
+            },
+            {
+                "id": "avenger",
+                "points": 56,
+                "ship": "tievnsilencer",
+                "upgrades": {}
+            }
+        ],
+        "points": 198,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=First%20Order&d=v8ZsZ200Z269XWY284XWW234W102Y285XW186WWW114WY283XWWW&sn=Sycho%20JTO&obs=core2asteroid1,core2asteroid3,core2asteroid4"
+}

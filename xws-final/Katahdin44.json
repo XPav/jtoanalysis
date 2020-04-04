@@ -1,0 +1,79 @@
+{
+    "discord": "Katahdin44",
+    "name": "Katahdin44",
+    "xws": {
+        "faction": "scumandvillainy",
+        "name": "Sam McLain JTO",
+        "pilots": [
+            {
+                "id": "hansolo",
+                "points": 73,
+                "ship": "customizedyt1300lightfreighter",
+                "upgrades": {
+                    "crew": [
+                        "freelanceslicer"
+                    ],
+                    "gunner": [
+                        "greedo"
+                    ],
+                    "missile": [
+                        "protonrockets"
+                    ],
+                    "modification": [
+                        "electronicbaffle"
+                    ],
+                    "talent": [
+                        "fearless"
+                    ],
+                    "title": [
+                        "landosmillenniumfalcon"
+                    ]
+                }
+            },
+            {
+                "id": "quinnjast",
+                "points": 32,
+                "ship": "m3ainterceptor",
+                "upgrades": {
+                    "talent": [
+                        "crackshot"
+                    ]
+                }
+            },
+            {
+                "id": "sunnybounder",
+                "points": 30,
+                "ship": "m3ainterceptor",
+                "upgrades": {
+                    "cannon": [
+                        "autoblasters"
+                    ]
+                }
+            },
+            {
+                "id": "bossk-z95af4headhunter",
+                "points": 34,
+                "ship": "z95af4headhunter",
+                "upgrades": {
+                    "modification": [
+                        "hullupgrade"
+                    ]
+                }
+            },
+            {
+                "id": "outerrimpioneer",
+                "points": 30,
+                "ship": "escapecraft",
+                "upgrades": {
+                    "talent": [
+                        "predator"
+                    ]
+                }
+            }
+        ],
+        "points": 199,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Scum%20and%20Villainy&d=v8ZsZ200Z89X121W102W30WW83WW106W152Y135X116WWY138XW232Y398XWWW164Y94X127WW&sn=Sam%20McLain%20JTO&obs="
+}

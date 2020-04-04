@@ -1,0 +1,59 @@
+{
+    "discord": "Farreg#1347",
+    "name": "Farreg",
+    "xws": {
+        "faction": "galacticrepublic",
+        "name": "Greg Farrell JTO",
+        "pilots": [
+            {
+                "id": "ricolie",
+                "points": 50,
+                "ship": "nabooroyaln1starfighter",
+                "upgrades": {
+                    "astromech": [
+                        "r4p17"
+                    ],
+                    "sensor": [
+                        "passivesensors"
+                    ]
+                }
+            },
+            {
+                "id": "jediknight",
+                "points": 44,
+                "ship": "delta7aethersprite",
+                "upgrades": {
+                    "force-power": [
+                        "precognitivereflexes"
+                    ],
+                    "modification": [
+                        "angleddeflectors"
+                    ]
+                }
+            },
+            {
+                "id": "plokoon",
+                "points": 44,
+                "ship": "delta7aethersprite",
+                "upgrades": {}
+            },
+            {
+                "id": "jediknight",
+                "points": 62,
+                "ship": "delta7aethersprite",
+                "upgrades": {
+                    "configuration": [
+                        "delta7b"
+                    ],
+                    "force-power": [
+                        "supernaturalreflexes"
+                    ]
+                }
+            }
+        ],
+        "points": 200,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Galactic%20Republic&d=v8ZsZ200Z333XW240W214WY277X250WWW247Y312XWWWY277X74WW201W&sn=Greg%20Farrell%20JTO&obs="
+}

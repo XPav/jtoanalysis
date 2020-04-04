@@ -1,0 +1,61 @@
+{
+    "discord": "Abel#9795",
+    "name": "Abel",
+    "xws": {
+        "faction": "galacticempire",
+        "name": "Abel JTO",
+        "obstacles": [
+            "coreasteroid5",
+            "core2asteroid4",
+            "core2asteroid5"
+        ],
+        "pilots": [
+            {
+                "id": "darthvader",
+                "points": 89,
+                "ship": "tieadvancedx1",
+                "upgrades": {
+                    "missile": [
+                        "magpulsewarheads"
+                    ],
+                    "modification": [
+                        "afterburners"
+                    ],
+                    "sensor": [
+                        "advancedsensors"
+                    ]
+                }
+            },
+            {
+                "id": "obsidiansquadronpilot",
+                "points": 23,
+                "ship": "tielnfighter",
+                "upgrades": {}
+            },
+            {
+                "id": "turrphennir",
+                "points": 42,
+                "ship": "tieininterceptor",
+                "upgrades": {}
+            },
+            {
+                "id": "scimitarsquadronpilot",
+                "points": 46,
+                "ship": "tiesabomber",
+                "upgrades": {
+                    "missile": [
+                        "protonrockets",
+                        "concussionmissiles"
+                    ],
+                    "torpedo": [
+                        "iontorpedoes"
+                    ]
+                }
+            }
+        ],
+        "points": 200,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Galactic%20Empire&d=v8ZsZ200Z173XW111W311W105Y228XY180XWWY208X135W102W99WWWW&sn=Abel%20JTO&obs=coreasteroid5,core2asteroid4,core2asteroid5"
+}

@@ -1,0 +1,59 @@
+{
+    "discord": "ilov3cupcak3s #1392",
+    "name": "ilov3cupcak3s",
+    "xws": {
+        "faction": "scumandvillainy",
+        "name": "ilov3cupcak3s JTO",
+        "pilots": [
+            {
+                "id": "nomlumb",
+                "points": 47,
+                "ship": "jumpmaster5000",
+                "upgrades": {
+                    "cannon": [
+                        "heavylasercannon"
+                    ],
+                    "illicit": [
+                        "riggedcargochute"
+                    ]
+                }
+            },
+            {
+                "id": "crymorahgoon",
+                "points": 46,
+                "ship": "btla4ywing",
+                "upgrades": {
+                    "astromech": [
+                        "r2astromech"
+                    ],
+                    "device": [
+                        "clustermines"
+                    ],
+                    "turret": [
+                        "dorsalturret"
+                    ]
+                }
+            },
+            {
+                "id": "dengar",
+                "points": 58,
+                "ship": "jumpmaster5000",
+                "upgrades": {
+                    "title": [
+                        "punishingone"
+                    ]
+                }
+            },
+            {
+                "id": "dalanoberos",
+                "points": 45,
+                "ship": "m12lkimogilafighter",
+                "upgrades": {}
+            }
+        ],
+        "points": 196,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Scum%20and%20Villainy&d=v8ZsZ200Z400XW10WWW96WWY88X137WWW2W316WWY115XWWWWWWW159WY130XWWWWW&sn=ilov3cupcak3s%20JTO&obs="
+}

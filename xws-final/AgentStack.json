@@ -1,0 +1,65 @@
+{
+    "discord": "7752",
+    "name": "AgentStack",
+    "xws": {
+        "faction": "rebelalliance",
+        "name": "AgentStack JTO",
+        "obstacles": [
+            "coreasteroid3",
+            "core2asteroid3",
+            "gascloud3loud3oud3"
+        ],
+        "pilots": [
+            {
+                "id": "gavindarklighter",
+                "points": 77,
+                "ship": "ewing",
+                "upgrades": {
+                    "astromech": [
+                        "r3astromech"
+                    ],
+                    "torpedo": [
+                        "protontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "bluesquadronescort",
+                "points": 40,
+                "ship": "t65xwing",
+                "upgrades": {
+                    "configuration": [
+                        "servomotorsfoils"
+                    ]
+                }
+            },
+            {
+                "id": "ezrabridger-tielnfighter",
+                "points": 36,
+                "ship": "tielnfighter",
+                "upgrades": {
+                    "force-power": [
+                        "sense"
+                    ]
+                }
+            },
+            {
+                "id": "herasyndulla",
+                "points": 47,
+                "ship": "attackshuttle",
+                "upgrades": {
+                    "talent": [
+                        "debrisgambit"
+                    ],
+                    "turret": [
+                        "ioncannonturret"
+                    ]
+                }
+            }
+        ],
+        "points": 200,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Rebel%20Alliance&d=v8ZsZ200Z22XWW136W4WY1XWWW142Y14X75WY65X118WWW138W&sn=AgentStack%20JTO&obs=coreasteroid3,core2asteroid3,gascloud3loud3oud3"
+}

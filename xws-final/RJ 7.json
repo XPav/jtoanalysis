@@ -1,0 +1,74 @@
+{
+    "discord": "Rhys James (#9551)",
+    "name": "RJ 7",
+    "xws": {
+        "faction": "scumandvillainy",
+        "name": "Rhys James JTO",
+        "obstacles": [
+            "yt2400debris0",
+            "yt2400debris2",
+            "vt49decimatordebris1"
+        ],
+        "pilots": [
+            {
+                "id": "landocalrissian",
+                "points": 78,
+                "ship": "customizedyt1300lightfreighter",
+                "upgrades": {
+                    "crew": [
+                        "ig88d",
+                        "000"
+                    ],
+                    "gunner": [
+                        "bt1"
+                    ],
+                    "illicit": [
+                        "deadmansswitch"
+                    ],
+                    "missile": [
+                        "protonrockets"
+                    ],
+                    "modification": [
+                        "engineupgrade"
+                    ],
+                    "talent": [
+                        "intimidation"
+                    ]
+                }
+            },
+            {
+                "id": "4lom",
+                "points": 59,
+                "ship": "g1astarfighter",
+                "upgrades": {
+                    "illicit": [
+                        "inertialdampeners"
+                    ],
+                    "modification": [
+                        "ablativeplating"
+                    ],
+                    "title": [
+                        "misthunter"
+                    ]
+                }
+            },
+            {
+                "id": "blacksunassassin",
+                "points": 60,
+                "ship": "starviperclassattackplatform",
+                "upgrades": {
+                    "sensor": [
+                        "collisiondetector"
+                    ],
+                    "torpedo": [
+                        "advprotontorpedoes"
+                    ]
+                }
+            }
+        ],
+        "points": 197,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Scum%20and%20Villainy&d=v8ZsZ200Z90X122W102W36W63W79W93W107WY109XWWW95W103W155WY150XW112W134WW&sn=Rhys%20James%20JTO&obs=yt2400debris0,yt2400debris2,vt49decimatordebris1"
+}

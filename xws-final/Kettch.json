@@ -1,0 +1,53 @@
+{
+    "discord": "Kettch#4217",
+    "name": "Kettch",
+    "xws": {
+        "faction": "separatistalliance",
+        "name": "Thomas Schulte JTO",
+        "obstacles": [
+            "coreasteroid4",
+            "core2asteroid0",
+            "core2asteroid2"
+        ],
+        "pilots": [
+            {
+                "id": "baktoidprototype",
+                "points": 28,
+                "ship": "hyenaclassdroidbomber",
+                "upgrades": {}
+            },
+            {
+                "id": "darkcourier",
+                "points": 73,
+                "ship": "sithinfiltrator",
+                "upgrades": {
+                    "device": [
+                        "drk1probedroids"
+                    ],
+                    "title": [
+                        "scimitar"
+                    ],
+                    "torpedo": [
+                        "protontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "feethanottrawautopilot",
+                "points": 35,
+                "ship": "belbullab22starfighter",
+                "upgrades": {}
+            },
+            {
+                "id": "countdooku",
+                "points": 63,
+                "ship": "sithinfiltrator",
+                "upgrades": {}
+            }
+        ],
+        "points": 199,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Separatist%20Alliance&d=v8ZsZ200Z329XWWWWY336XW136WWW221WW216WY307XWWY334XWWWWWWWW&sn=Thomas%20Schulte%20JTO&obs=coreasteroid4,core2asteroid0,core2asteroid2"
+}

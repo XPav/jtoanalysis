@@ -1,0 +1,66 @@
+{
+    "discord": "Timanseb#0699",
+    "name": "Timanseb",
+    "xws": {
+        "faction": "resistance",
+        "name": "Timanseb JTO",
+        "pilots": [
+            {
+                "id": "covanell",
+                "points": 67,
+                "ship": "resistancetransport",
+                "upgrades": {
+                    "astromech": [
+                        "r5x3"
+                    ],
+                    "modification": [
+                        "angleddeflectors"
+                    ],
+                    "tech": [
+                        "patternanalyzer"
+                    ],
+                    "torpedo": [
+                        "protontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "greensquadronexpert",
+                "points": 38,
+                "ship": "rz2awing",
+                "upgrades": {
+                    "tech": [
+                        "advancedoptics"
+                    ]
+                }
+            },
+            {
+                "id": "karekun",
+                "points": 53,
+                "ship": "t70xwing",
+                "upgrades": {
+                    "configuration": [
+                        "integratedsfoils"
+                    ],
+                    "title": [
+                        "blackone"
+                    ]
+                }
+            },
+            {
+                "id": "r1j5",
+                "points": 35,
+                "ship": "fireball",
+                "upgrades": {
+                    "crew": [
+                        "c3po-crew"
+                    ]
+                }
+            }
+        ],
+        "points": 193,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Resistance&d=v8ZsZ200Z351XW206WW136WWW205W247Y300XWWW186Y252XWWW175WW171WY379XW191WWWW&sn=Timanseb%20JTO&obs="
+}

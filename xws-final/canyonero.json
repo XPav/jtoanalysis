@@ -1,0 +1,53 @@
+{
+    "discord": "canyonero#0701",
+    "name": "canyonero",
+    "xws": {
+        "faction": "rebelalliance",
+        "name": "Adam SItnick JTO",
+        "obstacles": [
+            "coreasteroid0",
+            "core2asteroid0",
+            "core2asteroid4"
+        ],
+        "pilots": [
+            {
+                "id": "braylenstramm",
+                "points": 58,
+                "ship": "asf01bwing",
+                "upgrades": {
+                    "torpedo": [
+                        "iontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "alexsandrkallus",
+                "points": 77,
+                "ship": "vcx100lightfreighter",
+                "upgrades": {
+                    "crew": [
+                        "magvayarro"
+                    ]
+                }
+            },
+            {
+                "id": "benthictwotubes",
+                "points": 62,
+                "ship": "ut60duwing",
+                "upgrades": {
+                    "configuration": [
+                        "pivotwing"
+                    ],
+                    "crew": [
+                        "k2so",
+                        "perceptivecopilot"
+                    ]
+                }
+            }
+        ],
+        "points": 197,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Rebel%20Alliance&d=v8ZsZ200Z73XWWWW135WWY392XWWWW51WWWWY36XWW314W54WW140&sn=Adam%20SItnick%20JTO&obs=coreasteroid0,core2asteroid0,core2asteroid4"
+}

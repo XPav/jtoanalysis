@@ -1,0 +1,56 @@
+{
+    "discord": "britton#1996",
+    "name": "brittoncarr",
+    "xws": {
+        "faction": "scumandvillainy",
+        "name": "Britton Carr JTO",
+        "pilots": [
+            {
+                "id": "cartelmarauder",
+                "points": 46,
+                "ship": "kihraxzfighter",
+                "upgrades": {
+                    "missile": [
+                        "concussionmissiles"
+                    ],
+                    "modification": [
+                        "electronicbaffle"
+                    ]
+                }
+            },
+            {
+                "id": "guri",
+                "points": 74,
+                "ship": "starviperclassattackplatform",
+                "upgrades": {
+                    "sensor": [
+                        "advancedsensors"
+                    ]
+                }
+            },
+            {
+                "id": "bossk",
+                "points": 67,
+                "ship": "yv666lightfreighter",
+                "upgrades": {
+                    "crew": [
+                        "novicetechnician"
+                    ],
+                    "talent": [
+                        "crackshot"
+                    ]
+                }
+            },
+            {
+                "id": "autopilotdrone",
+                "points": 12,
+                "ship": "escapecraft",
+                "upgrades": {}
+            }
+        ],
+        "points": 199,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Scum%20and%20Villainy&d=v8ZsZ200Z124X99WWW106WY147XW111WWWY153X116WWW53WWWWWY96X&sn=Britton%20Carr%20JTO&obs="
+}

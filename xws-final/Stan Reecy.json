@@ -1,0 +1,57 @@
+{
+    "discord": "atlh1989#7841",
+    "name": "Stan Reecy",
+    "xws": {
+        "faction": "rebelalliance",
+        "name": "Wullff of Wall Street",
+        "pilots": [
+            {
+                "id": "ap5",
+                "points": 35,
+                "ship": "sheathipedeclassshuttle",
+                "upgrades": {
+                    "crew": [
+                        "jynerso"
+                    ],
+                    "talent": [
+                        "crackshot"
+                    ],
+                    "title": [
+                        "phantom"
+                    ]
+                }
+            },
+            {
+                "id": "wullffwarro",
+                "points": 71,
+                "ship": "auzituckgunship",
+                "upgrades": {
+                    "crew": [
+                        "informant",
+                        "niennunb"
+                    ],
+                    "modification": [
+                        "hullupgrade"
+                    ],
+                    "talent": [
+                        "experthandling"
+                    ]
+                }
+            },
+            {
+                "id": "leebo",
+                "points": 89,
+                "ship": "yt2400lightfreighter",
+                "upgrades": {
+                    "gunner": [
+                        "agilegunner"
+                    ]
+                }
+            }
+        ],
+        "points": 195,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Rebel%20Alliance&d=v8ZsZ200Z72X116W40WWW167Y58X120W37W52W164Y40XW76WWW&sn=Wullff%20of%20Wall%20Street&obs="
+}

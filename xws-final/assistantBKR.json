@@ -1,0 +1,68 @@
+{
+    "discord": "assistantBKR (#5451)",
+    "name": "assistantBKR",
+    "xws": {
+        "faction": "scumandvillainy",
+        "name": "Be- Pr- JTO",
+        "obstacles": [
+            "gascloud3",
+            "gascloud4",
+            "gascloud6"
+        ],
+        "pilots": [
+            {
+                "id": "4lom",
+                "points": 55,
+                "ship": "g1astarfighter",
+                "upgrades": {
+                    "crew": [
+                        "zuckuss"
+                    ],
+                    "modification": [
+                        "stealthdevice"
+                    ]
+                }
+            },
+            {
+                "id": "l337",
+                "points": 65,
+                "ship": "customizedyt1300lightfreighter",
+                "upgrades": {
+                    "crew": [
+                        "chewbacca-crew",
+                        "novicetechnician"
+                    ],
+                    "illicit": [
+                        "contrabandcybernetics"
+                    ],
+                    "missile": [
+                        "clustermissiles"
+                    ],
+                    "title": [
+                        "landosmillenniumfalcon"
+                    ]
+                }
+            },
+            {
+                "id": "moraloeval",
+                "points": 76,
+                "ship": "yv666lightfreighter",
+                "upgrades": {
+                    "cannon": [
+                        "autoblasters"
+                    ],
+                    "crew": [
+                        "jabbathehutt"
+                    ],
+                    "talent": [
+                        "composure"
+                    ]
+                }
+            }
+        ],
+        "points": 196,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Scum%20and%20Villainy&d=v8ZsZ200Z109XWW66WW166WY91X98W22W53WW92WW152Y152X115W232WW39WWWWW&sn=Be-%20Pr-%20JTO&obs=gascloud3,gascloud4,gascloud6"
+}

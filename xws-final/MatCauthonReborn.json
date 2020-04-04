@@ -1,0 +1,59 @@
+{
+    "discord": "MatCauthonReborn",
+    "name": "MatCauthonReborn",
+    "xws": {
+        "faction": "galacticempire",
+        "name": "MatCauthonReborn JTO",
+        "pilots": [
+            {
+                "id": "sabersquadronace",
+                "points": 36,
+                "ship": "tieininterceptor",
+                "upgrades": {}
+            },
+            {
+                "id": "doubleedge",
+                "points": 40,
+                "ship": "tieagaggressor",
+                "upgrades": {
+                    "missile": [
+                        "concussionmissiles"
+                    ],
+                    "turret": [
+                        "ioncannonturret"
+                    ]
+                }
+            },
+            {
+                "id": "rhosquadronpilot",
+                "points": 39,
+                "ship": "alphaclassstarwing",
+                "upgrades": {
+                    "missile": [
+                        "ionmissiles"
+                    ]
+                }
+            },
+            {
+                "id": "wampa",
+                "points": 29,
+                "ship": "tielnfighter",
+                "upgrades": {}
+            },
+            {
+                "id": "echo",
+                "points": 56,
+                "ship": "tiephphantom",
+                "upgrades": {
+                    "talent": [
+                        "lonewolf"
+                    ]
+                }
+            }
+        ],
+        "points": 200,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Galactic%20Empire&d=v8ZsZ200Z181XWWY188XW138W99WWWY163XWWW101WWY221XY200X124WWW&sn=MatCauthonReborn%20JTO&obs="
+}

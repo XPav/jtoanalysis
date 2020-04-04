@@ -1,0 +1,79 @@
+{
+    "discord": "Antigrapist#9267",
+    "name": "antigrapist",
+    "xws": {
+        "faction": "separatistalliance",
+        "name": "[Antigrapist JTO]",
+        "obstacles": [
+            "coreasteroid0",
+            "coreasteroid4",
+            "core2asteroid4"
+        ],
+        "pilots": [
+            {
+                "id": "technounionbomber",
+                "points": 44,
+                "ship": "hyenaclassdroidbomber",
+                "upgrades": {
+                    "configuration": [
+                        "landingstruts"
+                    ],
+                    "device": [
+                        "proximitymines"
+                    ],
+                    "missile": [
+                        "concussionmissiles"
+                    ],
+                    "modification": [
+                        "shieldupgrade"
+                    ]
+                }
+            },
+            {
+                "id": "wattambor",
+                "points": 60,
+                "ship": "belbullab22starfighter",
+                "upgrades": {
+                    "tacticalrelay": [
+                        "kraken"
+                    ],
+                    "talent": [
+                        "daredevil"
+                    ],
+                    "title": [
+                        "soullessone"
+                    ]
+                }
+            },
+            {
+                "id": "separatistbomber",
+                "points": 38,
+                "ship": "hyenaclassdroidbomber",
+                "upgrades": {
+                    "configuration": [
+                        "landingstruts"
+                    ],
+                    "torpedo": [
+                        "plasmatorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "skakoanace",
+                "points": 38,
+                "ship": "belbullab22starfighter",
+                "upgrades": {}
+            },
+            {
+                "id": "tradefederationdrone",
+                "points": 19,
+                "ship": "vultureclassdroidfighter",
+                "upgrades": {}
+            }
+        ],
+        "points": 199,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Separatist%20Alliance&d=v8ZsZ200Z324XW99W70W165W237Y306X117W222WW229Y327X234WWWW237Y344XWWWY279XWW&sn=%5BAntigrapist%20JTO%5D&obs=coreasteroid0,coreasteroid4,core2asteroid4"
+}

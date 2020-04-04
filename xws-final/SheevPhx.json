@@ -1,0 +1,59 @@
+{
+    "discord": "Sheev#9487",
+    "name": "SheevPhx",
+    "xws": {
+        "faction": "galacticempire",
+        "name": "Daniel Sheev JTO",
+        "pilots": [
+            {
+                "id": "sigmasquadronace",
+                "points": 65,
+                "ship": "tiephphantom",
+                "upgrades": {
+                    "gunner": [
+                        "agilegunner"
+                    ],
+                    "modification": [
+                        "targetingcomputer"
+                    ],
+                    "sensor": [
+                        "firecontrolsystem"
+                    ],
+                    "talent": [
+                        "trickshot"
+                    ]
+                }
+            },
+            {
+                "id": "sabersquadronace",
+                "points": 41,
+                "ship": "tieininterceptor",
+                "upgrades": {
+                    "talent": [
+                        "lonewolf"
+                    ]
+                }
+            },
+            {
+                "id": "captainferoph",
+                "points": 47,
+                "ship": "tiereaper",
+                "upgrades": {}
+            },
+            {
+                "id": "vedfoslo",
+                "points": 47,
+                "ship": "tieadvancedx1",
+                "upgrades": {
+                    "sensor": [
+                        "passivesensors"
+                    ]
+                }
+            }
+        ],
+        "points": 200,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Galactic%20Empire&d=v8ZsZ200Z201X133W113W76W249Y181X124WWY184XWWWY175XW240WW&sn=Daniel%20Sheev%20JTO&obs="
+}

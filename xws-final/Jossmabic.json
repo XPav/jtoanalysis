@@ -1,0 +1,59 @@
+{
+    "discord": "jossmabic",
+    "name": "Jossmabic",
+    "xws": {
+        "faction": "scumandvillainy",
+        "name": "Jossmabic",
+        "pilots": [
+            {
+                "id": "zealousrecruit",
+                "points": 54,
+                "ship": "fangfighter",
+                "upgrades": {
+                    "torpedo": [
+                        "protontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "moraloeval",
+                "points": 79,
+                "ship": "yv666lightfreighter",
+                "upgrades": {
+                    "crew": [
+                        "l337"
+                    ],
+                    "missile": [
+                        "ionmissiles"
+                    ],
+                    "modification": [
+                        "shieldupgrade"
+                    ],
+                    "title": [
+                        "houndstooth"
+                    ]
+                }
+            },
+            {
+                "id": "landocalrissian-escapecraft",
+                "points": 34,
+                "ship": "escapecraft",
+                "upgrades": {
+                    "modification": [
+                        "hullupgrade"
+                    ]
+                }
+            },
+            {
+                "id": "constablezuvio",
+                "points": 33,
+                "ship": "quadrijettransferspacetug",
+                "upgrades": {}
+            }
+        ],
+        "points": 200,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Scum%20and%20Villainy&d=v8ZsZ200Z102X136Y152XWW101WW43WWW165W150Y93XWW164Y140XWWWWW&sn=Jossmabic&obs="
+}

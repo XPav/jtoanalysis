@@ -1,0 +1,67 @@
+{
+    "discord": "NickArrow",
+    "name": "NickArrow",
+    "xws": {
+        "faction": "separatistalliance",
+        "name": "NickArrowJTO",
+        "obstacles": [
+            "yt2400debris0",
+            "yt2400debris1",
+            "yt2400debris2"
+        ],
+        "pilots": [
+            {
+                "id": "dbs404",
+                "points": 42,
+                "ship": "hyenaclassdroidbomber",
+                "upgrades": {
+                    "modification": [
+                        "staticdischargevanes"
+                    ],
+                    "torpedo": [
+                        "advprotontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "dfs081",
+                "points": 28,
+                "ship": "vultureclassdroidfighter",
+                "upgrades": {
+                    "configuration": [
+                        "grapplingstruts"
+                    ],
+                    "modification": [
+                        "delayedfuses"
+                    ]
+                }
+            },
+            {
+                "id": "countdooku",
+                "points": 83,
+                "ship": "sithinfiltrator",
+                "upgrades": {
+                    "tacticalrelay": [
+                        "kraken"
+                    ],
+                    "title": [
+                        "scimitar"
+                    ],
+                    "torpedo": [
+                        "advprotontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "captainsear",
+                "points": 45,
+                "ship": "belbullab22starfighter",
+                "upgrades": {}
+            }
+        ],
+        "points": 198,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Separatist%20Alliance&d=v8ZsZ200Z326X134WWW109WY311XW208W236Y334XWW134WWWWW216W222Y308XWW&sn=NickArrowJTO&obs=yt2400debris0,yt2400debris1,yt2400debris2"
+}

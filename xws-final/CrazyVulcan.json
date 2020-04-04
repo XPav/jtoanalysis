@@ -1,0 +1,66 @@
+{
+    "discord": "CrazyVulcan#1781",
+    "name": "CrazyVulcan",
+    "xws": {
+        "faction": "resistance",
+        "name": "Christopher Peters JTO",
+        "pilots": [
+            {
+                "id": "covanell",
+                "points": 79,
+                "ship": "resistancetransport",
+                "upgrades": {
+                    "astromech": [
+                        "bbastromech"
+                    ],
+                    "cannon": [
+                        "ioncannon"
+                    ],
+                    "crew": [
+                        "leiaorgana-resistance"
+                    ],
+                    "modification": [
+                        "electronicbaffle"
+                    ],
+                    "talent": [
+                        "intimidation"
+                    ],
+                    "torpedo": [
+                        "plasmatorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "colossusstationmechanic",
+                "points": 26,
+                "ship": "fireball",
+                "upgrades": {}
+            },
+            {
+                "id": "nodinchavdri",
+                "points": 46,
+                "ship": "resistancetransport",
+                "upgrades": {
+                    "crew": [
+                        "hansolo-crew",
+                        "c3po-crew"
+                    ]
+                }
+            },
+            {
+                "id": "lieutenantbastian",
+                "points": 47,
+                "ship": "t70xwing",
+                "upgrades": {
+                    "configuration": [
+                        "integratedsfoils"
+                    ]
+                }
+            }
+        ],
+        "points": 198,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Resistance&d=v8ZsZ200Z351X122WW11W234W244WW196W106Y380XWWWWWY352XWWW192W191WWY254XWW175WWW&sn=Christopher%20Peters%20JTO&obs="
+}

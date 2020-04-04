@@ -1,0 +1,65 @@
+{
+    "discord": "Macr_Windu#0321",
+    "name": "Dundenman",
+    "xws": {
+        "faction": "galacticrepublic",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "redsquadronbomber",
+                "points": 53,
+                "ship": "btlbywing",
+                "upgrades": {
+                    "gunner": [
+                        "hotshotgunner"
+                    ],
+                    "modification": [
+                        "electronicbaffle"
+                    ],
+                    "torpedo": [
+                        "plasmatorpedoes"
+                    ],
+                    "turret": [
+                        "ioncannonturret"
+                    ]
+                }
+            },
+            {
+                "id": "dineeellberger",
+                "points": 62,
+                "ship": "nabooroyaln1starfighter",
+                "upgrades": {
+                    "astromech": [
+                        "r4p44"
+                    ],
+                    "sensor": [
+                        "collisiondetector"
+                    ],
+                    "torpedo": [
+                        "protontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "jediknight",
+                "points": 37,
+                "ship": "delta7aethersprite",
+                "upgrades": {}
+            },
+            {
+                "id": "104thbattalionpilot",
+                "points": 46,
+                "ship": "arc170starfighter",
+                "upgrades": {
+                    "crew": [
+                        "novicetechnician"
+                    ]
+                }
+            }
+        ],
+        "points": 198,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Galactic%20Republic&d=v8ZsZ200Z361X138W234W86WWW106Y331XW112W226W136Y277XWWWY341XW53WWW&sn=Random%20Squad&obs="
+}

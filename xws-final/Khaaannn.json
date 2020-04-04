@@ -1,0 +1,53 @@
+{
+    "discord": "foodmonster1#8716",
+    "name": "Khaaannn",
+    "xws": {
+        "faction": "galacticrepublic",
+        "name": "Akhter Khan JTO",
+        "pilots": [
+            {
+                "id": "anakinskywalker-btlbywing",
+                "points": 71,
+                "ship": "btlbywing",
+                "upgrades": {
+                    "astromech": [
+                        "r4p17"
+                    ],
+                    "torpedo": [
+                        "iontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "barrissoffee",
+                "points": 41,
+                "ship": "delta7aethersprite",
+                "upgrades": {
+                    "configuration": [
+                        "calibratedlasertargeting"
+                    ]
+                }
+            },
+            {
+                "id": "plokoon",
+                "points": 52,
+                "ship": "delta7aethersprite",
+                "upgrades": {
+                    "modification": [
+                        "stealthdevice"
+                    ]
+                }
+            },
+            {
+                "id": "oddball",
+                "points": 34,
+                "ship": "v19torrentstarfighter",
+                "upgrades": {}
+            }
+        ],
+        "points": 198,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Galactic%20Republic&d=v8ZsZ200Z359XWW135WW214WWY275XWW200WY312XWWW166Y316XWW&sn=Akhter%20Khan%20JTO&obs="
+}

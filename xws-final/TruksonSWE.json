@@ -1,0 +1,66 @@
+{
+    "discord": "Trukson",
+    "name": "TruksonSWE",
+    "xws": {
+        "faction": "galacticempire",
+        "name": "Elias Holmgren JTO",
+        "obstacles": [
+            "coreasteroid5",
+            "core2asteroid4",
+            "core2asteroid5"
+        ],
+        "pilots": [
+            {
+                "id": "scarifbasepilot",
+                "points": 61,
+                "ship": "tiereaper",
+                "upgrades": {
+                    "crew": [
+                        "grandinquisitor",
+                        "agentkallus"
+                    ],
+                    "modification": [
+                        "shieldupgrade"
+                    ]
+                }
+            },
+            {
+                "id": "gammasquadronace",
+                "points": 55,
+                "ship": "tiesabomber",
+                "upgrades": {
+                    "device": [
+                        "protonbombs",
+                        "clustermines"
+                    ],
+                    "missile": [
+                        "diamondboronmissiles"
+                    ],
+                    "modification": [
+                        "staticdischargevanes"
+                    ]
+                }
+            },
+            {
+                "id": "whisper",
+                "points": 84,
+                "ship": "tiephphantom",
+                "upgrades": {
+                    "gunner": [
+                        "fifthbrother"
+                    ],
+                    "sensor": [
+                        "advancedsensors"
+                    ],
+                    "talent": [
+                        "outmaneuver"
+                    ]
+                }
+            }
+        ],
+        "points": 200,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Galactic%20Empire&d=v8ZsZ200Z186X33W15W165Y207XWW238WWW69W316W109Y199X126W111W82W&sn=Elias%20Holmgren%20JTO&obs=coreasteroid5,core2asteroid4,core2asteroid5"
+}

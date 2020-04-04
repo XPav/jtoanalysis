@@ -1,0 +1,59 @@
+{
+    "discord": "battlestarbill#8097",
+    "name": "battlestarbill",
+    "xws": {
+        "faction": "galacticempire",
+        "name": "Tyler Samplonius JTO",
+        "pilots": [
+            {
+                "id": "turrphennir",
+                "points": 45,
+                "ship": "tieininterceptor",
+                "upgrades": {
+                    "modification": [
+                        "targetingcomputer"
+                    ]
+                }
+            },
+            {
+                "id": "inquisitor",
+                "points": 35,
+                "ship": "tieadvancedv1",
+                "upgrades": {}
+            },
+            {
+                "id": "seventhsister",
+                "points": 48,
+                "ship": "tieadvancedv1",
+                "upgrades": {
+                    "force-power": [
+                        "instinctiveaim"
+                    ],
+                    "missile": [
+                        "ionmissiles"
+                    ]
+                }
+            },
+            {
+                "id": "seynmarana",
+                "points": 30,
+                "ship": "tielnfighter",
+                "upgrades": {}
+            },
+            {
+                "id": "lieutenantkestal",
+                "points": 39,
+                "ship": "tieagaggressor",
+                "upgrades": {
+                    "missile": [
+                        "barragerockets"
+                    ]
+                }
+            }
+        ],
+        "points": 197,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Galactic%20Empire&d=v8ZsZ200Z180XW249WY171XWWY170X73WW101Y224XWY187XWWW97WW&sn=Tyler%20Samplonius%20JTO&obs="
+}

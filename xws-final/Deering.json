@@ -1,0 +1,53 @@
+{
+    "discord": "Deering#2743",
+    "name": "Deering",
+    "xws": {
+        "faction": "galacticempire",
+        "name": "Matthew Deering JTO",
+        "pilots": [
+            {
+                "id": "puresabacc",
+                "points": 53,
+                "ship": "tieskstriker",
+                "upgrades": {
+                    "device": [
+                        "seismiccharges"
+                    ],
+                    "modification": [
+                        "afterburners"
+                    ]
+                }
+            },
+            {
+                "id": "deathfire",
+                "points": 34,
+                "ship": "tiesabomber",
+                "upgrades": {
+                    "gunner": [
+                        "skilledbombardier"
+                    ]
+                }
+            },
+            {
+                "id": "captainoicunn",
+                "points": 85,
+                "ship": "vt49decimator",
+                "upgrades": {
+                    "crew": [
+                        "emperorpalpatine"
+                    ]
+                }
+            },
+            {
+                "id": "sienarspecialist",
+                "points": 26,
+                "ship": "tieagaggressor",
+                "upgrades": {}
+            }
+        ],
+        "points": 198,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Galactic%20Empire&d=v8ZsZ200Z210XWW71W105Y206XWWW88WWWY215XWW29WWWWWWY190XWWWW&sn=Matthew%20Deering%20JTO&obs="
+}

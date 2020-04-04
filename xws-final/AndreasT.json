@@ -1,0 +1,50 @@
+{
+    "discord": "Calitoolman",
+    "name": "AndreasT",
+    "xws": {
+        "faction": "galacticrepublic",
+        "name": "Andreas Tolman JTO",
+        "pilots": [
+            {
+                "id": "goji",
+                "points": 38,
+                "ship": "btlbywing",
+                "upgrades": {
+                    "torpedo": [
+                        "advprotontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "oddball-arc170starfighter",
+                "points": 64,
+                "ship": "arc170starfighter",
+                "upgrades": {
+                    "torpedo": [
+                        "protontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "anakinskywalker",
+                "points": 67,
+                "ship": "delta7aethersprite",
+                "upgrades": {
+                    "configuration": [
+                        "calibratedlasertargeting"
+                    ]
+                }
+            },
+            {
+                "id": "tucker",
+                "points": 29,
+                "ship": "v19torrentstarfighter",
+                "upgrades": {}
+            }
+        ],
+        "points": 198,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Galactic%20Republic&d=v8ZsZ200Z363XW134WWWWY338XW136WWWWY273XWW200WY319XW&sn=Andreas%20Tolman%20JTO&obs="
+}

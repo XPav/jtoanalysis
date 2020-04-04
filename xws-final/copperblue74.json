@@ -1,0 +1,67 @@
+{
+    "discord": "Copperblue74 #3997",
+    "name": "copperblue74",
+    "xws": {
+        "faction": "galacticempire",
+        "name": "JON FEUCHT JTO",
+        "obstacles": [
+            "gascloud1",
+            "gascloud2",
+            "gascloud6"
+        ],
+        "pilots": [
+            {
+                "id": "blacksquadronscout",
+                "points": 36,
+                "ship": "tieskstriker",
+                "upgrades": {
+                    "modification": [
+                        "delayedfuses"
+                    ],
+                    "talent": [
+                        "ruthless"
+                    ]
+                }
+            },
+            {
+                "id": "nusquadronpilot",
+                "points": 45,
+                "ship": "alphaclassstarwing",
+                "upgrades": {
+                    "configuration": [
+                        "os1arsenalloadout"
+                    ],
+                    "torpedo": [
+                        "protontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "alphasquadronpilot",
+                "points": 31,
+                "ship": "tieininterceptor",
+                "upgrades": {}
+            },
+            {
+                "id": "gammasquadronace",
+                "points": 39,
+                "ship": "tiesabomber",
+                "upgrades": {
+                    "torpedo": [
+                        "plasmatorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "captainferoph",
+                "points": 47,
+                "ship": "tiereaper",
+                "upgrades": {}
+            }
+        ],
+        "points": 198,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Galactic%20Empire&d=v8ZsZ200Z212X128WWW236Y164XWWWW139W136WY182XWY207XW234WWWWWWY184XWWW&sn=JON%20FEUCHT%20JTO&obs=gascloud1,gascloud2,gascloud6"
+}

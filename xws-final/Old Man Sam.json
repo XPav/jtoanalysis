@@ -1,0 +1,53 @@
+{
+    "discord": "Mordax (8472)",
+    "name": "Old Man Sam",
+    "xws": {
+        "faction": "firstorder",
+        "name": "Samuel Moorhead JTO",
+        "pilots": [
+            {
+                "id": "omegasquadronexpert",
+                "points": 47,
+                "ship": "tiesffighter",
+                "upgrades": {
+                    "missile": [
+                        "ionmissiles"
+                    ],
+                    "tech": [
+                        "deuteriumpowercells"
+                    ]
+                }
+            },
+            {
+                "id": "lieutenantdormitz",
+                "points": 86,
+                "ship": "upsilonclasscommandshuttle",
+                "upgrades": {
+                    "sensor": [
+                        "advancedsensors"
+                    ],
+                    "tech": [
+                        "targetingsynchronizer"
+                    ]
+                }
+            },
+            {
+                "id": "pettyofficerthanisson",
+                "points": 67,
+                "ship": "upsilonclasscommandshuttle",
+                "upgrades": {
+                    "cannon": [
+                        "jammingbeam"
+                    ],
+                    "crew": [
+                        "perceptivecopilot"
+                    ]
+                }
+            }
+        ],
+        "points": 200,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=First%20Order&d=v8ZsZ200Z285XW318W101WWWY238X177WWWWWW111WY281XWW54WWW12WW&sn=Samuel%20Moorhead%20JTO&obs="
+}

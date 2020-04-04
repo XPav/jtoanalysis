@@ -1,0 +1,58 @@
+{
+    "discord": "Spinner#3228",
+    "name": "Michael Spin",
+    "xws": {
+        "faction": "rebelalliance",
+        "name": "Mike Spin JTO",
+        "obstacles": [
+            "gascloud1",
+            "gascloud2",
+            "gascloud3"
+        ],
+        "pilots": [
+            {
+                "id": "lieutenantblount",
+                "points": 33,
+                "ship": "z95af4headhunter",
+                "upgrades": {
+                    "talent": [
+                        "intimidation"
+                    ]
+                }
+            },
+            {
+                "id": "corranhorn",
+                "points": 75,
+                "ship": "ewing",
+                "upgrades": {
+                    "astromech": [
+                        "r2astromech"
+                    ]
+                }
+            },
+            {
+                "id": "benthictwotubes",
+                "points": 53,
+                "ship": "ut60duwing",
+                "upgrades": {
+                    "configuration": [
+                        "pivotwing"
+                    ],
+                    "crew": [
+                        "leiaorgana"
+                    ]
+                }
+            },
+            {
+                "id": "airencracken",
+                "points": 36,
+                "ship": "z95af4headhunter",
+                "upgrades": {}
+            }
+        ],
+        "points": 197,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Rebel%20Alliance&d=v8ZsZ200Z55X122WWY21XWWW2WY36XWW46WWW140Y54XWW&sn=Mike%20Spin%20JTO&obs=gascloud1,gascloud2,gascloud3"
+}

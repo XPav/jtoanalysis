@@ -1,0 +1,64 @@
+{
+    "discord": "Eruletho #9471",
+    "name": "Eruletho",
+    "xws": {
+        "faction": "galacticrepublic",
+        "name": "Eruletho JTO",
+        "obstacles": [
+            "coreasteroid5",
+            "yt2400debris2",
+            "core2asteroid5"
+        ],
+        "pilots": [
+            {
+                "id": "dineeellberger",
+                "points": 54,
+                "ship": "nabooroyaln1starfighter",
+                "upgrades": {
+                    "astromech": [
+                        "r2a6"
+                    ],
+                    "talent": [
+                        "crackshot"
+                    ],
+                    "torpedo": [
+                        "plasmatorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "jag",
+                "points": 56,
+                "ship": "arc170starfighter",
+                "upgrades": {
+                    "gunner": [
+                        "skilledbombardier"
+                    ],
+                    "modification": [
+                        "angleddeflectors"
+                    ]
+                }
+            },
+            {
+                "id": "anakinskywalker-nabooroyaln1starfighter",
+                "points": 54,
+                "ship": "nabooroyaln1starfighter",
+                "upgrades": {
+                    "torpedo": [
+                        "protontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "oddball",
+                "points": 34,
+                "ship": "v19torrentstarfighter",
+                "upgrades": {}
+            }
+        ],
+        "points": 198,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Galactic%20Republic&d=v8ZsZ200Z331X116WW241W234Y339XWW88WW247Y322XWWW136Y316XWW&sn=Eruletho%20JTO&obs=coreasteroid5,yt2400debris2,core2asteroid5"
+}

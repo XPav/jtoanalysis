@@ -1,0 +1,65 @@
+{
+    "discord": "RelativeShoe",
+    "name": "RelativeShoe",
+    "xws": {
+        "faction": "galacticempire",
+        "name": "Dan Xuereb JTO",
+        "obstacles": [
+            "coreasteroid0",
+            "core2asteroid0",
+            "core2asteroid2"
+        ],
+        "pilots": [
+            {
+                "id": "imdaartestpilot",
+                "points": 53,
+                "ship": "tiephphantom",
+                "upgrades": {
+                    "gunner": [
+                        "agilegunner"
+                    ],
+                    "sensor": [
+                        "firecontrolsystem"
+                    ]
+                }
+            },
+            {
+                "id": "stormsquadronace",
+                "points": 51,
+                "ship": "tieadvancedx1",
+                "upgrades": {
+                    "missile": [
+                        "homingmissiles"
+                    ],
+                    "modification": [
+                        "hullupgrade"
+                    ]
+                }
+            },
+            {
+                "id": "tempestsquadronpilot",
+                "points": 42,
+                "ship": "tieadvancedx1",
+                "upgrades": {
+                    "sensor": [
+                        "trajectorysimulator"
+                    ]
+                }
+            },
+            {
+                "id": "duchess",
+                "points": 53,
+                "ship": "tieskstriker",
+                "upgrades": {
+                    "gunner": [
+                        "fifthbrother"
+                    ]
+                }
+            }
+        ],
+        "points": 199,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Galactic%20Empire&d=v8ZsZ200Z202X113W76WY177XWW100W164Y178X114WWY211XW82WW&sn=Dan%20Xuereb%20JTO&obs=coreasteroid0,core2asteroid0,core2asteroid2"
+}

@@ -1,0 +1,59 @@
+{
+    "discord": "Largo#1833",
+    "name": "Largo12",
+    "xws": {
+        "faction": "firstorder",
+        "name": "Romain Bonnet JTO",
+        "pilots": [
+            {
+                "id": "lieutenantrivas",
+                "points": 35,
+                "ship": "tiefofighter",
+                "upgrades": {
+                    "modification": [
+                        "targetingcomputer"
+                    ],
+                    "tech": [
+                        "patternanalyzer"
+                    ]
+                }
+            },
+            {
+                "id": "recoil",
+                "points": 71,
+                "ship": "tievnsilencer",
+                "upgrades": {
+                    "tech": [
+                        "primedthrusters"
+                    ],
+                    "torpedo": [
+                        "advprotontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "backdraft",
+                "points": 59,
+                "ship": "tiesffighter",
+                "upgrades": {
+                    "gunner": [
+                        "specialforcesgunner"
+                    ],
+                    "sensor": [
+                        "advancedsensors"
+                    ]
+                }
+            },
+            {
+                "id": "static",
+                "points": 33,
+                "ship": "tiefofighter",
+                "upgrades": {}
+            }
+        ],
+        "points": 198,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=First%20Order&d=v8ZsZ200Z265X206W249Y284XW178W134WY242XWWW182W111WY264XWW&sn=Romain%20Bonnet%20JTO&obs="
+}

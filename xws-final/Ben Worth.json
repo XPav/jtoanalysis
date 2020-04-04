@@ -1,0 +1,56 @@
+{
+    "discord": "#8358",
+    "name": "Ben Worth",
+    "xws": {
+        "faction": "rebelalliance",
+        "name": "Ben Worth JTO",
+        "pilots": [
+            {
+                "id": "lieutenantblount",
+                "points": 30,
+                "ship": "z95af4headhunter",
+                "upgrades": {}
+            },
+            {
+                "id": "mirandadoni",
+                "points": 54,
+                "ship": "btls8kwing",
+                "upgrades": {
+                    "device": [
+                        "electroprotonbomb"
+                    ]
+                }
+            },
+            {
+                "id": "hortonsalm",
+                "points": 58,
+                "ship": "btla4ywing",
+                "upgrades": {
+                    "gunner": [
+                        "skilledbombardier"
+                    ],
+                    "modification": [
+                        "afterburners"
+                    ],
+                    "torpedo": [
+                        "protontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "lowhhrick",
+                "points": 58,
+                "ship": "auzituckgunship",
+                "upgrades": {
+                    "crew": [
+                        "cassianandor"
+                    ]
+                }
+            }
+        ],
+        "points": 200,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Rebel%20Alliance&d=v8ZsZ200Z55XWWY17XWWWWW235WWY26XWW136WW105WW88Y59XW19WW&sn=Ben%20Worth%20JTO&obs="
+}

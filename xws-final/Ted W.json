@@ -1,0 +1,74 @@
+{
+    "discord": "Ted W #4013",
+    "name": "Ted W",
+    "xws": {
+        "faction": "galacticempire",
+        "name": "Ted W (JTO)",
+        "obstacles": [
+            "vt49decimatordebris2",
+            "core2asteroid0",
+            "core2asteroid1"
+        ],
+        "pilots": [
+            {
+                "id": "maarekstele",
+                "points": 61,
+                "ship": "tieadvancedx1",
+                "upgrades": {
+                    "missile": [
+                        "magpulsewarheads"
+                    ],
+                    "modification": [
+                        "afterburners"
+                    ],
+                    "sensor": [
+                        "passivesensors"
+                    ],
+                    "talent": [
+                        "marksmanship"
+                    ]
+                }
+            },
+            {
+                "id": "fifthbrother",
+                "points": 50,
+                "ship": "tieadvancedv1",
+                "upgrades": {
+                    "force-power": [
+                        "brilliantevasion"
+                    ],
+                    "missile": [
+                        "homingmissiles"
+                    ]
+                }
+            },
+            {
+                "id": "seventhsister",
+                "points": 48,
+                "ship": "tieadvancedv1",
+                "upgrades": {
+                    "missile": [
+                        "homingmissiles"
+                    ]
+                }
+            },
+            {
+                "id": "sienarspecialist",
+                "points": 39,
+                "ship": "tieagaggressor",
+                "upgrades": {
+                    "gunner": [
+                        "veteranturretgunner"
+                    ],
+                    "turret": [
+                        "dorsalturret"
+                    ]
+                }
+            }
+        ],
+        "points": 198,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Galactic%20Empire&d=v8ZsZ200Z174X125W240W311W105Y394X199WW100Y170XWW100Y190X137WWW90W&sn=Ted%20W%20(JTO)&obs=vt49decimatordebris2,core2asteroid0,core2asteroid1"
+}

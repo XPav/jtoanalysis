@@ -1,0 +1,56 @@
+{
+    "discord": "DukeofHobbies#7036",
+    "name": "Duke of Hobbies",
+    "xws": {
+        "faction": "galacticrepublic",
+        "name": "Nick Yurko JTO",
+        "pilots": [
+            {
+                "id": "anakinskywalker-nabooroyaln1starfighter",
+                "points": 49,
+                "ship": "nabooroyaln1starfighter",
+                "upgrades": {
+                    "astromech": [
+                        "r2astromech"
+                    ],
+                    "talent": [
+                        "crackshot"
+                    ]
+                }
+            },
+            {
+                "id": "padmeamidala",
+                "points": 62,
+                "ship": "nabooroyaln1starfighter",
+                "upgrades": {
+                    "astromech": [
+                        "r2astromech"
+                    ],
+                    "sensor": [
+                        "advancedsensors"
+                    ]
+                }
+            },
+            {
+                "id": "104thbattalionpilot",
+                "points": 42,
+                "ship": "arc170starfighter",
+                "upgrades": {}
+            },
+            {
+                "id": "barrissoffee",
+                "points": 45,
+                "ship": "delta7aethersprite",
+                "upgrades": {
+                    "astromech": [
+                        "c110p"
+                    ]
+                }
+            }
+        ],
+        "points": 198,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Galactic%20Republic&d=v8ZsZ200Z322X116WW2WY332XW111W2WY341XWWWWY275XW252WW&sn=Nick%20Yurko%20JTO&obs="
+}

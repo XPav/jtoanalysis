@@ -1,0 +1,60 @@
+{
+    "discord": "IMpintobeanz",
+    "name": "IMpintobeanz",
+    "xws": {
+        "faction": "scumandvillainy",
+        "name": "Jason Pint JTO",
+        "obstacles": [
+            "yt2400debris1",
+            "core2asteroid3",
+            "core2asteroid5"
+        ],
+        "pilots": [
+            {
+                "id": "torkilmux",
+                "points": 65,
+                "ship": "hwk290lightfreighter",
+                "upgrades": {
+                    "crew": [
+                        "ig88d"
+                    ],
+                    "modification": [
+                        "shieldupgrade"
+                    ],
+                    "title": [
+                        "moldycrow"
+                    ]
+                }
+            },
+            {
+                "id": "princexizor",
+                "points": 64,
+                "ship": "starviperclassattackplatform",
+                "upgrades": {
+                    "sensor": [
+                        "passivesensors"
+                    ],
+                    "talent": [
+                        "snapshot"
+                    ]
+                }
+            },
+            {
+                "id": "ndrusuhlak",
+                "points": 30,
+                "ship": "z95af4headhunter",
+                "upgrades": {}
+            },
+            {
+                "id": "gandfindsman",
+                "points": 41,
+                "ship": "g1astarfighter",
+                "upgrades": {}
+            }
+        ],
+        "points": 200,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Scum%20and%20Villainy&d=v8ZsZ200Z114X36WWW165WW156Y148X256W240WWWY156XWWWY111XWWWW&sn=Jason%20Pint%20JTO&obs=yt2400debris1,core2asteroid3,core2asteroid5"
+}

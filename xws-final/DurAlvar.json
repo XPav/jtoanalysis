@@ -1,0 +1,66 @@
+{
+    "discord": "DurAlvar (Luke)#1106",
+    "name": "DurAlvar",
+    "xws": {
+        "faction": "galacticempire",
+        "name": "Luke Thompson JTO",
+        "pilots": [
+            {
+                "id": "coloneljendon",
+                "points": 72,
+                "ship": "lambdaclasst4ashuttle",
+                "upgrades": {
+                    "cannon": [
+                        "heavylasercannon"
+                    ],
+                    "crew": [
+                        "darthvader"
+                    ],
+                    "modification": [
+                        "hullupgrade"
+                    ],
+                    "sensor": [
+                        "firecontrolsystem"
+                    ]
+                }
+            },
+            {
+                "id": "sienarspecialist",
+                "points": 34,
+                "ship": "tieagaggressor",
+                "upgrades": {
+                    "missile": [
+                        "barragerockets"
+                    ]
+                }
+            },
+            {
+                "id": "seventhsister",
+                "points": 49,
+                "ship": "tieadvancedv1",
+                "upgrades": {
+                    "missile": [
+                        "concussionmissiles"
+                    ]
+                }
+            },
+            {
+                "id": "gammasquadronace",
+                "points": 42,
+                "ship": "tiesabomber",
+                "upgrades": {
+                    "modification": [
+                        "staticdischargevanes"
+                    ],
+                    "torpedo": [
+                        "iontorpedoes"
+                    ]
+                }
+            }
+        ],
+        "points": 197,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Galactic%20Empire&d=v8ZsZ200Z167X113W10W26WW164WY190XW97WWWY170XWW99Y207XW135WWWWWW109&sn=Luke%20Thompson%20JTO&obs="
+}

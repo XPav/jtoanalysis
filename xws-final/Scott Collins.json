@@ -1,0 +1,59 @@
+{
+    "discord": "Burning_Stick.exe#1138",
+    "name": "Scott Collins",
+    "xws": {
+        "faction": "galacticempire",
+        "name": "Scott Collins JTO",
+        "pilots": [
+            {
+                "id": "countessryad",
+                "points": 95,
+                "ship": "tieddefender",
+                "upgrades": {
+                    "cannon": [
+                        "autoblasters"
+                    ],
+                    "sensor": [
+                        "passivesensors"
+                    ],
+                    "talent": [
+                        "snapshot"
+                    ]
+                }
+            },
+            {
+                "id": "grandinquisitor",
+                "points": 58,
+                "ship": "tieadvancedv1",
+                "upgrades": {
+                    "force-power": [
+                        "brilliantevasion"
+                    ],
+                    "sensor": [
+                        "passivesensors"
+                    ]
+                }
+            },
+            {
+                "id": "lieutenantkarsabi",
+                "points": 46,
+                "ship": "alphaclassstarwing",
+                "upgrades": {
+                    "configuration": [
+                        "xg1assaultconfiguration"
+                    ],
+                    "missile": [
+                        "homingmissiles"
+                    ],
+                    "talent": [
+                        "trickshot"
+                    ]
+                }
+            }
+        ],
+        "points": 199,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Galactic%20Empire&d=v8ZsZ200Z195X256W240W232WY169X199W240WY162X133WWW100WW144W&sn=Scott%20Collins%20JTO&obs="
+}

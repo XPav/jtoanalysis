@@ -1,0 +1,75 @@
+{
+    "discord": "JKLOL#6971",
+    "name": "JKLOL",
+    "xws": {
+        "faction": "rebelalliance",
+        "name": "JKLOL JTO",
+        "obstacles": [
+            "coreasteroid5",
+            "core2asteroid4",
+            "core2asteroid5"
+        ],
+        "pilots": [
+            {
+                "id": "dutchvander",
+                "points": 72,
+                "ship": "btla4ywing",
+                "upgrades": {
+                    "astromech": [
+                        "r5astromech"
+                    ],
+                    "device": [
+                        "proximitymines"
+                    ],
+                    "modification": [
+                        "stealthdevice"
+                    ],
+                    "torpedo": [
+                        "protontorpedoes"
+                    ],
+                    "turret": [
+                        "ioncannonturret"
+                    ]
+                }
+            },
+            {
+                "id": "redsquadronveteran",
+                "points": 66,
+                "ship": "t65xwing",
+                "upgrades": {
+                    "astromech": [
+                        "r5d8"
+                    ],
+                    "configuration": [
+                        "servomotorsfoils"
+                    ],
+                    "modification": [
+                        "electronicbaffle"
+                    ],
+                    "talent": [
+                        "trickshot"
+                    ],
+                    "torpedo": [
+                        "protontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "lieutenantblount",
+                "points": 30,
+                "ship": "z95af4headhunter",
+                "upgrades": {}
+            },
+            {
+                "id": "ezrabridger-tielnfighter",
+                "points": 31,
+                "ship": "tielnfighter",
+                "upgrades": {}
+            }
+        ],
+        "points": 199,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Rebel%20Alliance&d=v8ZsZ200Z27XW138W136W6W166W70WY2X133W136W7W106W142Y55XWWY14XW&sn=JKLOL%20JTO&obs=coreasteroid5,core2asteroid4,core2asteroid5"
+}

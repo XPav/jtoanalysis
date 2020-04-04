@@ -1,0 +1,49 @@
+{
+    "discord": "JamietheBruce#0579",
+    "name": "JamietheBruce",
+    "xws": {
+        "faction": "galacticempire",
+        "name": "Jamie Bruce JTO",
+        "pilots": [
+            {
+                "id": "doubleedge",
+                "points": 29,
+                "ship": "tieagaggressor",
+                "upgrades": {}
+            },
+            {
+                "id": "countessryad",
+                "points": 83,
+                "ship": "tieddefender",
+                "upgrades": {
+                    "cannon": [
+                        "jammingbeam"
+                    ],
+                    "talent": [
+                        "ruthless"
+                    ]
+                }
+            },
+            {
+                "id": "gammasquadronace",
+                "points": 30,
+                "ship": "tiesabomber",
+                "upgrades": {}
+            },
+            {
+                "id": "majorvermeil",
+                "points": 58,
+                "ship": "tiereaper",
+                "upgrades": {
+                    "crew": [
+                        "seventhsister"
+                    ]
+                }
+            }
+        ],
+        "points": 200,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Galactic%20Empire&d=v8ZsZ200Z188XWWWWWY195X128WW12WY207XWWWWWWWY183XW60WW&sn=Jamie%20Bruce%20JTO&obs="
+}

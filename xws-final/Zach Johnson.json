@@ -1,0 +1,66 @@
+{
+    "discord": "zeke770#4936",
+    "name": "Zach Johnson",
+    "xws": {
+        "faction": "galacticempire",
+        "name": "Zach Johnson JTO",
+        "obstacles": [
+            "coreasteroid3",
+            "core2asteroid3",
+            "core2asteroid5"
+        ],
+        "pilots": [
+            {
+                "id": "scarifbasepilot",
+                "points": 59,
+                "ship": "tiereaper",
+                "upgrades": {
+                    "crew": [
+                        "grandinquisitor",
+                        "ministertua"
+                    ]
+                }
+            },
+            {
+                "id": "tempestsquadronpilot",
+                "points": 44,
+                "ship": "tieadvancedx1",
+                "upgrades": {
+                    "missile": [
+                        "protonrockets"
+                    ],
+                    "modification": [
+                        "munitionsfailsafe"
+                    ]
+                }
+            },
+            {
+                "id": "zertikstrom",
+                "points": 50,
+                "ship": "tieadvancedx1",
+                "upgrades": {
+                    "modification": [
+                        "afterburners"
+                    ],
+                    "sensor": [
+                        "passivesensors"
+                    ]
+                }
+            },
+            {
+                "id": "scarifbasepilot",
+                "points": 44,
+                "ship": "tiereaper",
+                "upgrades": {
+                    "crew": [
+                        "informant"
+                    ]
+                }
+            }
+        ],
+        "points": 197,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Galactic%20Empire&d=v8ZsZ200Z186X33W49WY178XW102W108Y176X240WW105Y186X37WW&sn=Zach%20Johnson%20JTO&obs=coreasteroid3,core2asteroid3,core2asteroid5"
+}

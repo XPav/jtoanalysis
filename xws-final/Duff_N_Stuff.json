@@ -1,0 +1,58 @@
+{
+    "discord": "Kysoldier312 (#6403)",
+    "name": "Duff_N_Stuff",
+    "xws": {
+        "faction": "rebelalliance",
+        "name": "Duff_N_Stuff JTO",
+        "obstacles": [
+            "gascloud3",
+            "gascloud4",
+            "gascloud5"
+        ],
+        "pilots": [
+            {
+                "id": "evaanverlaine",
+                "points": 45,
+                "ship": "btla4ywing",
+                "upgrades": {
+                    "gunner": [
+                        "skilledbombardier"
+                    ],
+                    "talent": [
+                        "squadleader"
+                    ]
+                }
+            },
+            {
+                "id": "corranhorn",
+                "points": 66,
+                "ship": "ewing",
+                "upgrades": {}
+            },
+            {
+                "id": "zeborrelios-sheathipedeclassshuttle",
+                "points": 34,
+                "ship": "sheathipedeclassshuttle",
+                "upgrades": {
+                    "title": [
+                        "phantom"
+                    ]
+                }
+            },
+            {
+                "id": "esegetuketu",
+                "points": 52,
+                "ship": "btls8kwing",
+                "upgrades": {
+                    "crew": [
+                        "perceptivecopilot"
+                    ]
+                }
+            }
+        ],
+        "points": 197,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Rebel%20Alliance&d=v8ZsZ200Z28X131WWWWWW88Y21XWWWWY71XWWWW167Y18XWWWW54WWW&sn=Duff_N_Stuff%20JTO&obs=gascloud3,gascloud4,gascloud5"
+}

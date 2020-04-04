@@ -1,0 +1,59 @@
+{
+    "discord": "Horngrim",
+    "name": "PaulHeaver",
+    "xws": {
+        "faction": "galacticempire",
+        "name": "Paul Heaver JTO",
+        "pilots": [
+            {
+                "id": "lieutenantsai",
+                "points": 65,
+                "ship": "lambdaclasst4ashuttle",
+                "upgrades": {
+                    "crew": [
+                        "directorkrennic"
+                    ],
+                    "sensor": [
+                        "advancedsensors"
+                    ],
+                    "title": [
+                        "st321"
+                    ]
+                }
+            },
+            {
+                "id": "deathfire",
+                "points": 47,
+                "ship": "tiesabomber",
+                "upgrades": {
+                    "modification": [
+                        "stealthdevice"
+                    ],
+                    "torpedo": [
+                        "plasmatorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "redline",
+                "points": 61,
+                "ship": "tiecapunisher",
+                "upgrades": {
+                    "torpedo": [
+                        "plasmatorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "valenrudor",
+                "points": 27,
+                "ship": "tielnfighter",
+                "upgrades": {}
+            }
+        ],
+        "points": 200,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Galactic%20Empire&d=v8ZsZ200Z166X111WW28WWW162Y206X234WWWWWW166Y191XW234WWWWWWY225XW&sn=Paul%20Heaver%20JTO&obs="
+}

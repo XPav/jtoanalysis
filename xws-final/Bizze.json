@@ -1,0 +1,69 @@
+{
+    "discord": "Bizze #3009",
+    "name": "Bizze",
+    "xws": {
+        "faction": "rebelalliance",
+        "name": "Johan Bisenius JTO",
+        "obstacles": [
+            "coreasteroid5",
+            "core2asteroid4",
+            "core2asteroid5"
+        ],
+        "pilots": [
+            {
+                "id": "arvelcrynyd",
+                "points": 43,
+                "ship": "rz1awing",
+                "upgrades": {
+                    "talent": [
+                        "outmaneuver",
+                        "intimidation"
+                    ]
+                }
+            },
+            {
+                "id": "norrawexley-btla4ywing",
+                "points": 64,
+                "ship": "btla4ywing",
+                "upgrades": {
+                    "device": [
+                        "clustermines"
+                    ],
+                    "gunner": [
+                        "veteranturretgunner"
+                    ],
+                    "turret": [
+                        "ioncannonturret"
+                    ]
+                }
+            },
+            {
+                "id": "janors",
+                "points": 50,
+                "ship": "hwk290lightfreighter",
+                "upgrades": {
+                    "device": [
+                        "seismiccharges"
+                    ],
+                    "modification": [
+                        "afterburners"
+                    ]
+                }
+            },
+            {
+                "id": "partisanrenegade",
+                "points": 43,
+                "ship": "ut60duwing",
+                "upgrades": {
+                    "configuration": [
+                        "pivotwing"
+                    ]
+                }
+            }
+        ],
+        "points": 200,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Rebel%20Alliance&d=v8ZsZ200Z51X126W122WY25XW138WWWW316W90Y46XW71WW105WWY38XWWWWW140&sn=Johan%20Bisenius%20JTO&obs=coreasteroid5,core2asteroid4,core2asteroid5"
+}

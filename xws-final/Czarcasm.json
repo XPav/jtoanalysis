@@ -1,0 +1,67 @@
+{
+    "discord": "Czarcasm#9120",
+    "name": "Czarcasm",
+    "xws": {
+        "faction": "resistance",
+        "name": "Anthony Hillen JTO",
+        "obstacles": [
+            "coreasteroid3",
+            "coreasteroid4",
+            "core2asteroid3"
+        ],
+        "pilots": [
+            {
+                "id": "bb8",
+                "points": 45,
+                "ship": "resistancetransportpod",
+                "upgrades": {
+                    "crew": [
+                        "rosetico"
+                    ],
+                    "talent": [
+                        "swarmtactics"
+                    ],
+                    "tech": [
+                        "primedthrusters"
+                    ]
+                }
+            },
+            {
+                "id": "hansolo-scavengedyt1300",
+                "points": 91,
+                "ship": "scavengedyt1300",
+                "upgrades": {
+                    "gunner": [
+                        "rey-gunner"
+                    ],
+                    "illicit": [
+                        "deadmansswitch"
+                    ],
+                    "missile": [
+                        "homingmissiles"
+                    ],
+                    "talent": [
+                        "lonewolf"
+                    ]
+                }
+            },
+            {
+                "id": "cobaltsquadronbomber",
+                "points": 64,
+                "ship": "mg100starfortress",
+                "upgrades": {
+                    "device": [
+                        "protonbombs"
+                    ],
+                    "gunner": [
+                        "paigetico"
+                    ]
+                }
+            }
+        ],
+        "points": 200,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Resistance&d=v8ZsZ200Z349X132W178W173WY245X124W100WWW187W93WWY260XWWW189WWW69W&sn=Anthony%20Hillen%20JTO&obs=coreasteroid3,coreasteroid4,core2asteroid3"
+}

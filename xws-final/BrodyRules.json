@@ -1,0 +1,64 @@
+{
+    "discord": "BrodyRules#9748",
+    "name": "BrodyRules ",
+    "xws": {
+        "faction": "galacticempire",
+        "name": "Drew Brody JTO",
+        "pilots": [
+            {
+                "id": "alphasquadronpilot",
+                "points": 42,
+                "ship": "tieininterceptor",
+                "upgrades": {
+                    "modification": [
+                        "shieldupgrade",
+                        "targetingcomputer"
+                    ]
+                }
+            },
+            {
+                "id": "coloneljendon",
+                "points": 58,
+                "ship": "lambdaclasst4ashuttle",
+                "upgrades": {
+                    "cannon": [
+                        "tractorbeam"
+                    ],
+                    "modification": [
+                        "hullupgrade"
+                    ],
+                    "title": [
+                        "st321"
+                    ]
+                }
+            },
+            {
+                "id": "seventhsister",
+                "points": 56,
+                "ship": "tieadvancedv1",
+                "upgrades": {
+                    "force-power": [
+                        "hate"
+                    ],
+                    "sensor": [
+                        "advancedsensors"
+                    ]
+                }
+            },
+            {
+                "id": "blacksquadronscout",
+                "points": 39,
+                "ship": "tieskstriker",
+                "upgrades": {
+                    "modification": [
+                        "hullupgrade"
+                    ]
+                }
+            }
+        ],
+        "points": 195,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Galactic%20Empire&d=v8ZsZ200Z182X165W249Y167XW13WWW164W162Y170X204W111WY212XWWW164&sn=Drew%20Brody%20JTO&obs="
+}

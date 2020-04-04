@@ -1,0 +1,61 @@
+{
+    "discord": "Angrypeon#3283",
+    "name": "miguel",
+    "xws": {
+        "faction": "scumandvillainy",
+        "name": "Miguel Justiniano JTO",
+        "pilots": [
+            {
+                "id": "cartelmarauder",
+                "points": 38,
+                "ship": "kihraxzfighter",
+                "upgrades": {}
+            },
+            {
+                "id": "dacebonearm",
+                "points": 63,
+                "ship": "hwk290lightfreighter",
+                "upgrades": {
+                    "device": [
+                        "ionbombs"
+                    ],
+                    "modification": [
+                        "stealthdevice"
+                    ],
+                    "title": [
+                        "moldycrow"
+                    ]
+                }
+            },
+            {
+                "id": "kavil",
+                "points": 54,
+                "ship": "btla4ywing",
+                "upgrades": {
+                    "device": [
+                        "ionbombs"
+                    ],
+                    "turret": [
+                        "ioncannonturret"
+                    ]
+                }
+            },
+            {
+                "id": "binayrepirate",
+                "points": 22,
+                "ship": "z95af4headhunter",
+                "upgrades": {}
+            },
+            {
+                "id": "miningguildsurveyor",
+                "points": 23,
+                "ship": "modifiedtielnfighter",
+                "upgrades": {}
+            }
+        ],
+        "points": 200,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Scum%20and%20Villainy&d=v8ZsZ200Z124XWWWWY113XWW317WW166WW156Y85XW138WWWW317WWY159XWWY248XW&sn=Miguel%20Justiniano%20JTO&obs="
+}

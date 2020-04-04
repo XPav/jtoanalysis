@@ -1,0 +1,64 @@
+{
+    "discord": "Handy-Eye-Candy#5392",
+    "name": "Nate",
+    "xws": {
+        "faction": "rebelalliance",
+        "name": "Nate Handy JTO",
+        "obstacles": [
+            "yt2400debris1",
+            "core2asteroid3",
+            "gascloud2"
+        ],
+        "pilots": [
+            {
+                "id": "mirandadoni",
+                "points": 55,
+                "ship": "btls8kwing",
+                "upgrades": {
+                    "crew": [
+                        "leiaorgana"
+                    ],
+                    "torpedo": [
+                        "iontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "corranhorn",
+                "points": 82,
+                "ship": "ewing",
+                "upgrades": {
+                    "astromech": [
+                        "r2d2"
+                    ],
+                    "talent": [
+                        "outmaneuver"
+                    ]
+                }
+            },
+            {
+                "id": "magvayarro",
+                "points": 63,
+                "ship": "ut60duwing",
+                "upgrades": {
+                    "configuration": [
+                        "pivotwing"
+                    ],
+                    "crew": [
+                        "k2so"
+                    ],
+                    "sensor": [
+                        "passivesensors"
+                    ],
+                    "talent": [
+                        "predator"
+                    ]
+                }
+            }
+        ],
+        "points": 200,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "yasb": "https://raithos.github.io/?f=Rebel%20Alliance&d=v8ZsZ200Z17X135WWWW46WWWY21X126WWW3WY34X127W240W314WWW140W&sn=Nate%20Handy%20JTO&obs=yt2400debris1,core2asteroid3,gascloud2"
+}
