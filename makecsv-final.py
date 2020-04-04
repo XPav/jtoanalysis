@@ -145,40 +145,34 @@ def LoadShip( pilots, upgrades, ship, listid, faction, url ):
     if 'upgrades' in p:
         for slot in p['upgrades']:
             for u in p['upgrades'][slot]:
+
                 useless = False
                 upgrade = upgrades[u]['sides'][0]
 
-                useless |= (u in [ 'delayedfuses', 'skilledbombardier', 'andrasta', 'genius' ] and bombcount == 0)
-                useless |= (u == 'cadbane' and devicecount == 0)
+                useless |= ('ability' in upgrade and 'Attack ([Lock])' in upgrade['ability'] and not 'Lock' in actiontype)
+                useless |= ('ability' in upgrade and 'Attack ([Focus])' in upgrade['ability'] and not 'Focus' in actiontype)
+
+                useless |= (u in [ 'andrasta', 'genius', 'delayedfuses', 'cadbane', 'skilledbombardier' ] and devicecount == 0)
+                useless |= (u in [ 'gnkgonkdroid', 'inertialdampeners', 'r2d2-crew', 'r2astromech', 'r2d2' ] and shields == 0)
+                useless |= (u in [ 'saturationsalvo', 'munitionsfailsafe', 'os1arsenalloadout', 'instinctiveaim' ] and torpsmissiles == 0)
+                useless |= (u in [ 'hotshotgunner', 'agilegunner', 'bistan', 'hansolo'] and (not 'Single Turret Arc' in arcs and not 'Double Turret Arc' in arcs))
+
+                useless |= (u == 'paigetico' and (not 'Single Turret Arc' in arcs and not 'Double Turret Arc' in arcs) and (bombcount == 0) )
+
+                useless |= (u == 'trajectorysimulator' and bombcount == 0)
                 useless |= (u == 'perceptivecopilot' and not 'Focus' in actiontype)
                 useless |= (u == 'bazemalbus' and not 'Focus' in actiontype)
                 useless |= (u == 'r3astromech' and not 'Lock' in actiontype)
                 useless |= (u == 'firecontrolsystem' and not 'Lock' in actiontype)
-                useless |= ('ability' in upgrade and 'Attack ([Lock])' in upgrade['ability'] and not 'Lock' in actiontype)
-                useless |= ('ability' in upgrade and 'Attack ([Focus])' in upgrade['ability'] and not 'Focus' in actiontype)
-                useless |= (u in [ 'gnkgonkdroid', 'inertialdampeners', 'r2d2-crew' ] and shields == 0)
-                useless |= (u in [ 'saturationsalvo', 'munitionsfailsafe', 'os1arsenalloadout', 'instinctiveaim' ] and torpsmissiles == 0)
-
-                if u in [ 'hotshotgunner', 'agilegunner', 'bistan', 'hansolo']:
-                    if not 'Single Turret Arc' in arcs and not 'Double Turret Arc' in arcs:
-                        useless = True
-
                 useless |= (u == 'outmaneuver' and not 'Front Arc' in arcs)
                 useless |= (u == 'veterantailgunner' and not 'Rear Arc' in arcs)
                 useless |= (u == 'agilegunner' and sdata['xws'] == 'tiesffighter' ) 
-
-                if u == 'paigetico':
-                    if not 'Single Turret Arc' in arcs and not 'Double Turret Arc' in arcs: 
-                        useless = True
-                    if bombcount == 0:
-                        useless = True
-
                 useless |= (u == 'jabbathehutt' and illicits == 0)
+                useless |= (u == 'squadleader' and 'Coordinate' in originalactions )
+                useless |= (u == 'targetingcomputer' and 'Lock' in originalactions )
+                useless |= (u == 'havoc' and astromechs == 0 and sensors == 0 )
+                useless |= (u == 'xg1assaultconfiguration' and cannons == 0 )
 
-                useless |= (u =='squadleader' and 'Coordinate' in originalactions )
-                useless |= (u =='targetingcomputer' and 'Lock' in originalactions )
-                useless |= (u =='havoc' and astromechs == 0 and sensors == 0 )
-                useless |= (u =='xg1assaultconfiguration' and cannons == 0 )
 
                 if useless:
                     oship[f'useless{uselesscount:02d}'] = u
