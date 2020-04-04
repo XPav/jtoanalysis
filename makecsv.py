@@ -6,6 +6,8 @@ import csv
 ships = {}
 pilots = {}
 upgrades = {}
+allpilots = {}
+allupgrades = {}
 
 def GetCostValue( cost, pdata, sdata ):
     if 'value' in cost:
@@ -19,6 +21,8 @@ def LoadShip( pilots, upgrades, ship, listid, faction, yasb ):
     oship = {}
     # one line per ship
     pdata = pilots[p['id']]
+
+    allpilots[p['id']]['count'] += 1
 
     # workround for upsilon
     shipid = p['ship']
@@ -84,6 +88,8 @@ def LoadShip( pilots, upgrades, ship, listid, faction, yasb ):
         if slot in ['torpedo', 'missile']:
             torpsmissiles += 1
         for u in p['upgrades'][slot]:
+            allupgrades[u]['count'] += 1
+
             upgrade = upgrades[u]['sides'][0]
             oship[f'upgrade{upgradecount:02d}'] = u
             upgradecount += 1
@@ -186,14 +192,18 @@ for (dirpath, dirnames, filenames) in walk('../xwing-data2/data/pilots'):
             ships[j['xws']] = j
 
             for p in j['pilots']:
-                pilots[p['xws']] = p
+                xws = p['xws']
+                pilots[xws] = p
+                allpilots[ p['xws'] ] = { 'name': xws, 'type': 'pilot', 'count': 0 }
 
 for (dirpath, dirnames, filenames) in walk('../xwing-data2/data/upgrades'):
     for filename in filenames:
         with open(os.path.join(dirpath,filename),'r') as f:
             j = json.load(f)
             for u in j:
-                upgrades[u['xws']] = u
+                xws = u['xws']
+                upgrades[xws] = u
+                allupgrades[xws ] = { 'name': xws, 'type': 'upgrade', 'count': 0 }
 
 # Add stuff to the data
 with open('combined.json', 'r') as combinedf:
@@ -241,14 +251,18 @@ for l in combined:
 with open('ships.csv', 'w', newline='') as csvfile:
     writer = csv.DictWriter(csvfile, fieldnames=[*oship])
     writer.writeheader()
-    for os in oships:
-        writer.writerow(os)
+    writer.writerows(oships)
 
 with open('lists.csv', 'w', newline='') as csvfile:
     writer = csv.DictWriter(csvfile, fieldnames=[*olist])
     writer.writeheader()
-    for ol in olists:
-        writer.writerow(ol)
+    writer.writerows(olists)
+
+with open('cards.csv', 'w', newline='') as csvfile:
+    writer = csv.DictWriter(csvfile, fieldnames= ['name', 'type', 'count'])
+    writer.writeheader()
+    writer.writerows(allpilots.values())
+    writer.writerows(allupgrades.values())
 
  
 
