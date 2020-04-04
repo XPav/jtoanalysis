@@ -107,7 +107,7 @@ def LoadShip( pilots, upgrades, ship, listid, faction, yasb ):
             # Keep track of things for uselessness
             if 'Device' in upgrade['slots']:
                 devicecount += 1
-                if 'device' in upgrade and upgrade['device']['type'] == 'Bomb':
+                if ('device' in upgrade and upgrade['device']['type'] == 'Bomb') or 'bomb' in u:
                     bombcount += 1
             if 'Illicit' in upgrade['slots']:
                 illicits += 1
@@ -134,15 +134,15 @@ def LoadShip( pilots, upgrades, ship, listid, faction, yasb ):
             useless = False
             upgrade = upgrades[u]['sides'][0]
 
-            useless |= (u in [ 'delayedfuses', 'skilledbombardier', 'andrasta', 'genius' ] and bombcount == 0)
-            useless |= (u == 'cadbane' and devicecount == 0)
+            useless |= (u == 'trajectorysimulator' and bombcount == 0)
+            useless |= (u in [ 'andrasta', 'genius', 'delayedfuses', 'cadbane', 'skilledbombardier' ] and devicecount == 0)
             useless |= (u == 'perceptivecopilot' and not 'Focus' in actiontype)
             useless |= (u == 'bazemalbus' and not 'Focus' in actiontype)
             useless |= (u == 'r3astromech' and not 'Lock' in actiontype)
             useless |= (u == 'firecontrolsystem' and not 'Lock' in actiontype)
             useless |= ('ability' in upgrade and 'Attack ([Lock])' in upgrade['ability'] and not 'Lock' in actiontype)
             useless |= ('ability' in upgrade and 'Attack ([Focus])' in upgrade['ability'] and not 'Focus' in actiontype)
-            useless |= (u in [ 'gnkgonkdroid', 'inertialdampeners', 'r2d2-crew' ] and shields == 0)
+            useless |= (u in [ 'gnkgonkdroid', 'inertialdampeners', 'r2d2-crew', 'r2astromech', 'r2d2' ] and shields == 0)
             useless |= (u in [ 'saturationsalvo', 'munitionsfailsafe', 'os1arsenalloadout', 'instinctiveaim' ] and torpsmissiles == 0)
 
             if u in [ 'hotshotgunner', 'agilegunner', 'bistan', 'hansolo']:
