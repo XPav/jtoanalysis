@@ -1,0 +1,90 @@
+[
+    {
+        "cost": {
+            "value": 3
+        },
+        "hyperspace": false,
+        "limited": 0,
+        "name": "Dorsal Turret",
+        "sides": [
+            {
+                "ability": "Attack",
+                "actions": [
+                    {
+                        "difficulty": "White",
+                        "type": "Rotate Arc"
+                    }
+                ],
+                "artwork": "https://sb-cdn.fantasyflightgames.com/card_art/Card_art_XW_U_31.jpg",
+                "attack": {
+                    "arc": "Single Turret Arc",
+                    "maxrange": 2,
+                    "minrange": 1,
+                    "ordnance": false,
+                    "value": 2
+                },
+                "ffg": 260,
+                "grants": [
+                    {
+                        "type": "action",
+                        "value": {
+                            "difficulty": "White",
+                            "type": "Rotate Arc"
+                        }
+                    }
+                ],
+                "image": "https://sb-cdn.fantasyflightgames.com/card_images/Card_Upgrade_31.png",
+                "slots": [
+                    "Turret"
+                ],
+                "title": "Dorsal Turret",
+                "type": "Turret"
+            }
+        ],
+        "xws": "dorsalturret"
+    },
+    {
+        "cost": {
+            "value": 5
+        },
+        "hyperspace": true,
+        "limited": 0,
+        "name": "Ion Cannon Turret",
+        "sides": [
+            {
+                "ability": "Attack: If this attack hits, spend 1 [Hit] or [Critical Hit] result to cause the defender to suffer 1 [Hit] damage. All remaining [Hit]/[Critical Hit] results inflict ion tokens instead of damage.",
+                "actions": [
+                    {
+                        "difficulty": "White",
+                        "type": "Rotate Arc"
+                    }
+                ],
+                "artwork": "https://sb-cdn.fantasyflightgames.com/card_art/Card_art_XW_U_32.jpg",
+                "attack": {
+                    "arc": "Single Turret Arc",
+                    "maxrange": 2,
+                    "minrange": 1,
+                    "ordnance": false,
+                    "value": 3
+                },
+                "ffg": 261,
+                "grants": [
+                    {
+                        "type": "action",
+                        "value": {
+                            "difficulty": "White",
+                            "type": "Rotate Arc"
+                        }
+                    }
+                ],
+                "image": "https://sb-cdn.fantasyflightgames.com/card_images/Card_Upgrade_32.png",
+                "slots": [
+                    "Turret"
+                ],
+                "title": "Ion Cannon Turret",
+                "type": "Turret"
+            }
+        ],
+        "xws": "ioncannonturret"
+    }
+]

@@ -1,0 +1,419 @@
+name,faction,totalhealth,totalmainattack,totalagility,totalupgradecount,totaluselesscount,totaluselesscost,shipcount,avginitiative
+Aaron Czajkowski,firstorder,30,10,7,3,0,0,4,4.25
+Aaron Daiter,resistance,26,8,4,8,0,0,3,3.0
+Aaron DePiano,galacticrepublic,27,10,7,4,0,0,4,3.75
+Aaron Furminger,separatistalliance,29,12,10,5,1,1,5,3.4
+Aaron Pa_,galacticempire,25,10,9,2,0,0,4,2.25
+Aaron Thatcher,rebelalliance,28,12,10,3,0,0,5,3.0
+Aaron Troeger,firstorder,26,11,9,7,1,1,4,3.5
+Abel Schelfhout,galacticempire,17,9,11,6,0,0,4,3.5
+Adam Elleston,rebelalliance,25,7,5,8,1,2,3,4.0
+Adam Nieting,firstorder,22,10,10,5,0,0,4,3.75
+Adam Nordquist,galacticrepublic,23,8,5,7,0,0,3,3.6666666666666665
+Adam Shipley,galacticempire,23,10,9,4,0,0,4,3.5
+Adam Sitnick,rebelalliance,30,10,3,5,0,0,3,3.3333333333333335
+Agata Pikulska,firstorder,28,10,8,4,0,0,4,4.25
+AJ Scarson,firstorder,17,10,11,7,1,2,4,3.5
+Akhter Khan,galacticrepublic,21,8,9,4,0,0,4,5.0
+Alan Beard,galacticrepublic,20,8,8,6,0,0,4,3.0
+Alejandro Sparano,rebelalliance,26,8,3,10,1,7,3,3.0
+Alex Boho,resistance,25,9,5,6,0,0,3,3.6666666666666665
+Alex Boulton,galacticempire,23,11,12,5,0,0,5,3.2
+Alex De Rosa,firstorder,30,11,5,5,1,1,3,2.3333333333333335
+Alex Pavloff,galacticrepublic,27,9,6,7,0,0,4,3.75
+Alex Raubach,separatistalliance,26,12,10,9,0,0,5,2.2
+Alex Smittle ,galacticempire,30,7,4,4,0,0,3,4.0
+Alfred Schnabel,scumandvillainy,30,7,5,10,1,1,3,2.6666666666666665
+Andreas Karlsson,scumandvillainy,26,11,9,7,1,1,4,3.25
+Andreas Tolman,galacticrepublic,26,9,7,3,0,0,4,3.75
+Andrew Cox,resistance,24,8,5,6,0,0,3,5.333333333333333
+Andrew Ferguson,resistance,27,10,10,6,0,0,5,2.6
+Andrew Lippens,rebelalliance,22,8,7,6,0,0,3,4.333333333333333
+Andrew Neusch,galacticempire,19,8,5,11,1,1,3,3.6666666666666665
+Andrew steel,resistance,29,9,6,5,0,0,4,3.5
+Andrew Symons,resistance,27,11,11,4,0,0,5,3.8
+Andy van Zanten,firstorder,14,9,9,7,0,0,3,4.666666666666667
+Anthony Hillen,resistance,27,8,4,9,0,0,3,3.3333333333333335
+Arkadiusz Kuna,separatistalliance,24,10,8,6,0,0,4,4.25
+Ashok Photay ,firstorder,18,9,11,4,0,0,4,5.25
+Assistant Beaker,scumandvillainy,32,8,3,10,1,6,3,3.0
+balindamood,scumandvillainy,21,9,11,8,0,0,4,3.0
+BazAvJoes,galacticempire,30,10,10,8,0,0,5,3.0
+Ben Doyle,separatistalliance,27,14,13,6,0,0,6,2.1666666666666665
+Ben Harding,rebelalliance,32,9,3,2,0,0,3,4.666666666666667
+Ben Janssen,scumandvillainy,30,10,7,3,0,0,4,2.75
+Ben McCarty,resistance,27,11,12,7,0,0,5,2.4
+Ben Pappas,rebelalliance,19,9,6,11,1,3,3,3.0
+Ben Worth,rebelalliance,29,9,5,5,1,2,4,3.75
+BenD,firstorder,30,11,5,6,0,0,3,1.3333333333333333
+BenjaminCapovilla ,rebelalliance,26,10,5,8,0,0,3,2.0
+Blair Bunke,firstorder,28,12,13,3,0,0,5,3.0
+Blair Gray,galacticrepublic,26,9,7,8,0,0,4,2.5
+Bobby Ott,scumandvillainy,19,9,9,6,0,0,4,3.0
+BobbySapphire,galacticempire,21,12,13,8,2,2,5,3.0
+Bohan Li,rebelalliance,24,12,14,3,0,0,5,3.0
+Brack Lee,galacticempire,18,8,5,10,1,2,3,4.333333333333333
+Brad Smith / Corrvan,galacticrepublic,28,10,6,5,0,0,4,3.75
+Bradley Ho,rebelalliance,24,8,4,11,1,3,3,3.0
+Brandon Carey,scumandvillainy,24,9,9,7,0,0,4,2.0
+Bremy,resistance,29,9,4,5,0,0,3,3.6666666666666665
+Brendan Desjarlais,scumandvillainy,23,10,10,7,0,0,4,3.5
+Brendan Morrissey,firstorder,26,10,9,6,0,0,4,3.25
+Brendon Osmann-Deyman,scumandvillainy,23,10,8,2,0,0,4,4.0
+Brent T Grelle,galacticempire,30,9,7,4,0,0,4,3.75
+Brett Bird,galacticempire,30,10,7,5,0,0,4,2.75
+Brian Squidgy Sloan,scumandvillainy,24,11,10,4,0,0,4,2.5
+Brian Walling,rebelalliance,30,9,7,5,0,0,4,2.25
+Brian Webb,rebelalliance,18,10,10,3,0,0,4,3.75
+Brien Robles (slim),galacticempire,25,9,9,8,0,0,4,2.75
+Britton Carr,scumandvillainy,27,11,8,5,0,0,4,3.0
+Bryan Javorek,firstorder,25,9,6,9,1,2,3,3.0
+Cailean Pritchard,resistance,38,11,7,3,0,0,5,2.6
+Cal Neuvost,separatistalliance,20,11,11,13,0,0,5,1.8
+Cam Murray ,scumandvillainy,24,11,10,6,0,0,5,2.2
+CaptainSebastian ,resistance,23,9,8,11,1,6,4,3.75
+Carl Tinsley,firstorder,19,10,12,6,0,0,4,3.5
+Carlo Veltri,resistance,29,9,8,8,1,7,4,3.5
+Carson Hopper,rebelalliance,28,8,5,2,0,0,3,3.0
+Catchyslim,galacticempire,35,9,2,7,0,0,3,2.0
+Catherine Nyxsera,firstorder,30,10,4,6,0,0,3,3.6666666666666665
+Chandler H.,separatistalliance,21,13,12,7,0,0,5,3.2
+Charles Fletcher III,galacticrepublic,31,10,8,10,0,0,5,2.8
+Charles Holcomb,galacticrepublic,28,10,6,4,0,0,4,3.0
+Chris Allen,firstorder,24,9,6,6,0,0,3,2.3333333333333335
+Chris Bobby ,galacticempire,23,12,12,4,0,0,5,2.8
+Chris Burnett,rebelalliance,22,9,8,7,0,0,4,3.5
+Chris Daykin,galacticrepublic,25,9,7,9,2,1,4,2.5
+Chris Donahue,firstorder,19,9,11,8,0,0,4,3.75
+Chris Langland,firstorder,26,12,10,2,0,0,4,1.75
+Christian Bonet,rebelalliance,27,8,4,6,0,0,3,5.0
+Christian Krogager Jespersen,firstorder,22,12,14,1,0,0,5,2.8
+Christopher Dunn,galacticempire,24,8,9,8,1,8,4,3.0
+Christopher Patrick,firstorder,20,10,10,6,0,0,4,3.75
+Christopher Peters -CrazyVulcan,resistance,29,9,6,9,0,0,4,2.5
+Christopher Spenner,firstorder,23,11,14,5,1,1,5,2.8
+Claude Matte,galacticempire,21,11,9,5,1,1,4,3.75
+Claudio Veas,scumandvillainy,21,10,11,4,0,0,4,3.5
+cody wood,scumandvillainy,26,10,8,8,1,1,4,3.5
+Colin Miner,resistance,34,11,10,2,0,0,5,2.8
+Colin Weber,galacticempire,27,10,7,6,0,0,4,2.5
+Cormac Higgins,galacticrepublic,31,10,8,6,0,0,5,2.4
+Cory Noel,galacticrepublic,23,8,7,10,2,2,4,3.5
+Crispus Knight,firstorder,28,10,8,4,0,0,4,3.75
+cubsfan4life,separatistalliance,25,12,11,8,0,0,5,2.8
+CurtisBeatovich,scumandvillainy,20,8,6,7,1,1,3,4.666666666666667
+Dale Bennion,resistance,27,9,7,13,1,1,4,3.0
+Dale Capron,rebelalliance,23,8,6,11,0,0,3,3.6666666666666665
+Dale Cromwell,firstorder,22,9,6,8,0,0,3,4.0
+Damian Robinson,rebelalliance,21,10,8,7,0,0,4,4.25
+Dan Mercer,galacticempire,26,9,5,7,0,0,3,1.3333333333333333
+Dan Sunderland,rebelalliance,26,10,7,7,0,0,4,4.0
+Dan Xuereb,galacticempire,20,10,10,6,2,8,4,3.25
+Daniel Leon,galacticempire,19,10,9,8,1,1,4,3.5
+Daniel lim,rebelalliance,27,10,7,2,0,0,4,4.75
+Daniel Mahony,galacticempire,21,11,9,6,1,8,4,3.75
+Daniel McCarthy,galacticrepublic,20,8,5,8,0,0,3,3.0
+Daniel Smith,separatistalliance,25,10,7,7,0,0,4,2.5
+Daniel Sullivan,firstorder,21,9,10,6,1,1,4,4.25
+Daniel Wochnick,resistance,33,9,3,2,0,0,3,4.0
+Darin Schwarze,rebelalliance,26,10,6,6,1,3,3,2.3333333333333335
+Dave Laffan,separatistalliance,24,13,12,6,0,0,6,2.8333333333333335
+David Burger ,rebelalliance,32,11,5,4,0,0,4,3.75
+David Chabot,galacticrepublic,24,9,7,8,1,3,4,3.25
+David Feith,rebelalliance,26,11,7,6,0,0,4,3.25
+David Rowley,scumandvillainy,32,9,7,6,0,0,4,3.0
+David Secretain,scumandvillainy,21,10,8,7,0,0,4,4.0
+David Welman,scumandvillainy,22,8,6,9,0,0,3,3.0
+DeDeKale,galacticrepublic,24,9,7,5,0,0,4,3.75
+Derek Foglein,galacticempire,30,9,3,8,2,4,3,2.6666666666666665
+Des Darklighter,galacticempire,31,9,3,7,1,3,3,3.6666666666666665
+Dom Flannigan,firstorder,28,11,5,6,0,0,3,2.3333333333333335
+Dominick DiCarlo,galacticempire,29,9,8,4,0,0,4,3.0
+Don Walker,galacticrepublic,25,8,7,5,0,0,4,3.5
+donfonni,galacticrepublic,26,9,7,6,0,0,4,3.0
+Doug Howe,firstorder,16,8,8,9,0,0,3,3.6666666666666665
+Douglas Foglein,separatistalliance,28,12,9,9,0,0,5,2.6
+Drew Brody,galacticempire,24,11,9,8,0,0,4,2.75
+DukeofHobbies,galacticrepublic,23,9,8,5,0,0,4,3.5
+Dylan Emde,scumandvillainy,21,11,12,10,3,4,5,2.0
+E Cannon,resistance,31,10,6,7,0,0,4,2.5
+Ed Gold,rebelalliance,23,8,6,8,0,0,3,3.0
+Eddie Preisser,rebelalliance,30,11,8,5,0,0,5,2.6
+Ellen Ce,scumandvillainy,25,11,10,6,0,0,5,3.0
+eltwigg,rebelalliance,23,10,9,6,0,0,4,3.25
+Eric Maynard,firstorder,25,11,10,8,0,0,4,2.5
+Eric Small,scumandvillainy,20,10,10,5,0,0,4,3.25
+Erik Sorensen,galacticrepublic,23,9,8,9,1,1,4,3.25
+Evan Damiano,separatistalliance,24,10,7,12,1,3,4,2.5
+Evan Paul,firstorder,22,10,7,6,1,1,3,3.3333333333333335
+Eyvan SALGADO,rebelalliance,24,11,8,5,0,0,4,2.5
+Frank Fengel,galacticempire,24,10,9,5,0,0,4,3.25
+Full-On,galacticempire,24,12,12,6,0,0,5,2.6
+Fun Wok,resistance,30,10,7,3,0,0,4,2.5
+Gabriel Dennis,galacticrepublic,22,8,5,6,0,0,3,3.6666666666666665
+GamblerTuba,rebelalliance,26,9,3,12,0,0,3,3.3333333333333335
+Garrett Blair,resistance,24,8,7,18,3,2,4,3.5
+Garrett Jost,scumandvillainy,27,12,11,4,1,1,5,2.8
+George Barker,separatistalliance,25,10,7,9,0,0,4,2.0
+Greg Farrell / Farreg,galacticrepublic,18,9,10,6,0,0,4,4.0
+Greg Jones,separatistalliance,23,12,11,5,0,0,5,3.0
+Greg Smith,rebelalliance,24,11,8,6,0,0,4,3.75
+Gregory Paul,galacticempire,19,8,12,4,0,0,4,4.0
+Hasan Khan,galacticempire,24,9,9,5,1,2,4,4.0
+Heath Carruthers,galacticempire,21,9,5,10,1,1,3,4.333333333333333
+Hunter Borys,rebelalliance,27,10,6,5,0,0,4,3.5
+Ian Becker,rebelalliance,23,8,6,4,1,1,3,4.0
+Ian Campbell,separatistalliance,25,10,7,9,0,0,4,3.25
+isaiah brody,resistance,34,10,6,7,1,1,4,3.5
+J Witherspoon,rebelalliance,22,10,9,7,0,0,4,3.0
+Jacob Donahue,rebelalliance,22,9,8,9,1,2,4,3.0
+Jamal Ahmad,scumandvillainy,28,11,11,6,0,0,5,2.4
+James Carman,galacticrepublic,18,8,10,6,0,0,4,4.0
+James O'Donoghue,rebelalliance,23,9,4,6,0,0,3,4.333333333333333
+James Ritter,separatistalliance,28,11,6,4,0,0,4,2.25
+Jamie Bruce,galacticempire,26,10,8,3,0,0,4,3.25
+Jan Ullerup,scumandvillainy,29,11,10,10,0,0,5,3.0
+Jared Becker,resistance,21,9,9,16,1,3,4,2.75
+Jared M. Paul,galacticempire,23,9,10,5,0,0,4,3.75
+Jared Mackert,resistance,31,9,4,7,0,0,3,3.3333333333333335
+Jared Schwarze,scumandvillainy,23,10,9,7,0,0,4,3.75
+Jarrad Healy,scumandvillainy,24,7,6,10,0,0,3,3.0
+Jason Pint,scumandvillainy,24,10,8,5,0,0,4,2.75
+Jay Davis,galacticrepublic,26,10,11,3,0,0,5,3.2
+Jürgen M.,galacticrepublic,28,9,6,6,0,0,4,3.75
+JBark,scumandvillainy,30,11,10,3,0,0,5,3.4
+Jeff McClain,galacticrepublic,22,8,8,10,1,1,4,3.0
+Jeff Wake,firstorder,18,9,12,7,0,0,4,4.25
+Jeff Wilder,firstorder,26,11,10,6,2,4,4,2.5
+Jeff Wilson,galacticempire,29,11,6,1,0,0,4,4.5
+Jeremy Betsch,galacticrepublic,23,9,7,6,1,2,4,3.75
+Jeremy Buck,resistance,22,8,6,9,0,0,3,4.0
+JERRY HOULT,firstorder,26,10,9,9,0,0,4,2.75
+Jesse Choe,galacticempire,22,10,10,7,1,2,4,3.75
+JF Gaudreau,galacticrepublic,21,8,9,5,1,1,4,4.5
+JM (aka nutano),resistance,31,10,7,2,0,0,4,3.25
+Joe Congdon,scumandvillainy,37,13,8,3,0,0,5,1.6
+Joe Detchemendy,scumandvillainy,25,12,12,4,0,0,5,3.2
+Joe Vincent,galacticrepublic,24,9,7,5,1,1,4,3.0
+Joel Killingsworth,galacticrepublic,21,9,8,10,0,0,4,3.75
+Joel Springle,galacticempire,20,11,9,8,1,1,4,2.5
+Joey Crespino,firstorder,22,9,6,9,0,0,3,3.0
+Johan Bisenius,rebelalliance,25,9,8,8,0,0,4,3.5
+John Gardner ,galacticrepublic,35,12,11,3,0,0,6,3.1666666666666665
+John McDermid,scumandvillainy,24,9,8,7,0,0,4,2.75
+Johnn Crane,firstorder,27,11,10,6,0,0,4,1.5
+Jon Conley,firstorder,22,8,6,12,1,1,3,3.0
+Jonas Malapas,scumandvillainy,25,10,8,5,0,0,4,3.75
+Jonathan Beattie,rebelalliance,33,12,7,4,0,0,5,3.4
+Jonathan Giron,firstorder,28,11,12,3,1,1,5,2.2
+Jonathan Goeres,galacticempire,23,8,5,9,0,0,3,3.0
+Jonathan McKinstray,galacticempire,33,10,7,3,0,0,4,3.5
+Jonathan VanSickle,scumandvillainy,37,11,6,5,0,0,4,2.75
+JonBabcock,firstorder,22,9,6,6,0,0,3,3.6666666666666665
+Jordan Klein,rebelalliance,21,9,8,10,0,0,4,3.5
+Josef Riccio,rebelalliance,23,11,8,6,0,0,4,4.25
+Josh Benjamin,galacticempire,35,11,6,3,0,0,4,2.0
+Josh Dunne,scumandvillainy,27,8,4,10,0,0,3,3.0
+Joshua Bray,scumandvillainy,26,8,6,3,0,0,3,4.333333333333333
+Joshua Richardson,scumandvillainy,23,8,6,9,1,3,3,3.6666666666666665
+Jukequeline,scumandvillainy,31,8,5,3,0,0,3,3.6666666666666665
+Justin Brown,scumandvillainy,34,14,11,7,0,0,6,2.3333333333333335
+Justin Timmons,galacticempire,24,9,9,10,0,0,4,3.0
+Katherine Cr,galacticempire,14,8,8,11,0,0,3,4.666666666666667
+Keith Wong,galacticempire,41,8,1,3,0,0,3,3.0
+Ken Cho,firstorder,20,10,12,3,0,0,4,3.25
+Kenneth Scher,separatistalliance,22,12,11,9,2,2,5,3.2
+Kenny Turner,rebelalliance,32,9,2,6,0,0,3,2.6666666666666665
+Kettch,separatistalliance,30,11,6,3,0,0,4,1.75
+Kevin,firstorder,20,10,11,6,0,0,4,2.75
+Kevin Brimage,galacticrepublic,18,8,10,8,0,0,4,3.75
+Killerbeardhawk,firstorder,28,10,8,6,0,0,4,2.5
+Kimberly Colas,resistance,26,10,8,6,0,0,4,3.75
+Kris Erickson,resistance,31,9,6,7,0,0,4,4.25
+Kristoff Sote,resistance,23,11,12,8,0,0,5,2.6
+Kyle blackman,galacticrepublic,30,9,5,5,0,0,4,3.25
+Kyle Kenyon,galacticrepublic,22,8,8,6,0,0,4,4.0
+Kyle Meidell,galacticempire,23,10,8,3,0,0,4,4.25
+Lachlan Moore,scumandvillainy,22,10,10,5,0,0,4,3.5
+Lee Holland,rebelalliance,27,10,7,5,0,0,4,2.75
+Leif Tangstad ,rebelalliance,23,11,8,9,1,1,4,3.0
+Liam Lee,rebelalliance,24,12,12,5,0,0,5,3.0
+Lionel JOURDAN,scumandvillainy,27,10,8,6,0,0,4,3.25
+"Looryl ""Louie"" Qrygg",rebelalliance,23,9,6,6,0,0,3,2.6666666666666665
+Luc Girod,galacticrepublic,19,7,6,10,0,0,3,4.666666666666667
+Luke  Wilkie ,resistance,33,10,6,5,0,0,4,2.25
+Luke Carrington,separatistalliance,24,11,8,7,1,3,4,3.5
+Luke Paulson,galacticempire,28,9,8,3,0,0,4,3.5
+Luke Sunol,firstorder,15,8,8,11,1,1,3,5.0
+Luke Thompson,galacticempire,26,9,8,8,1,2,4,3.0
+Lysander Lysandrou,resistance,27,10,7,10,0,0,4,3.75
+Magne Gudmundsen,firstorder,16,9,9,4,0,0,3,3.6666666666666665
+Malloc,galacticrepublic,21,8,9,5,0,0,4,3.5
+Marc de Bruyn,galacticempire,24,7,6,9,1,0,3,4.0
+Marc McIntyre,rebelalliance,24,8,6,8,0,0,3,3.6666666666666665
+Marcelo Boldrin,scumandvillainy,26,10,9,6,0,0,4,2.75
+Marco de Scordilli,galacticrepublic,26,9,7,10,0,0,4,3.25
+Marco Tocchi,scumandvillainy,30,11,11,7,1,2,5,2.0
+Marek Marcinkiewicz,scumandvillainy,29,13,9,5,0,0,5,3.2
+Mark Argente,galacticempire,25,11,8,8,1,7,4,2.75
+Mark Sandey,galacticrepublic,27,10,7,8,0,0,4,3.5
+MarkGrawburg,scumandvillainy,28,10,7,12,0,0,4,3.75
+Martyn Chivers,galacticempire,22,9,9,6,0,0,4,3.25
+Mathieu SALGADO,galacticrepublic,24,9,4,5,0,0,3,4.333333333333333
+Mats Jonsson,resistance,26,8,4,8,0,0,3,4.0
+Matt Can,rebelalliance,30,11,6,3,0,0,4,3.0
+Matt Latall,galacticempire,23,9,8,10,0,0,4,3.25
+Matt McAllister ,rebelalliance,19,11,10,6,0,0,4,3.5
+Matt Nute,galacticrepublic,22,8,8,8,0,0,4,3.25
+Matt Petit,scumandvillainy,30,11,9,12,1,1,5,3.0
+Matt Stief,rebelalliance,32,12,6,2,0,0,4,2.25
+MattCourser,firstorder,22,10,11,5,0,0,4,3.0
+Matthew Coggins,resistance,23,7,6,10,0,0,3,4.666666666666667
+Matthew Deering,galacticempire,31,10,6,4,1,2,4,2.75
+Matthew Kreiner,rebelalliance,25,9,9,8,0,0,4,3.0
+Matthew LeCLair,scumandvillainy,27,10,9,13,0,0,4,2.25
+Matthew Tracy,scumandvillainy,28,8,4,11,0,0,3,3.0
+"Maxime ""Maxx"" Clergue",firstorder,18,10,12,4,0,0,4,4.0
+Merrick Kemp,galacticempire,28,10,6,9,1,0,4,2.5
+Michaël Juneau,galacticrepublic,18,8,10,7,0,0,4,4.5
+Michał Lewandowski,resistance,30,10,9,6,2,8,5,3.2
+Michael Frochaux,rebelalliance,28,10,9,5,1,1,4,2.0
+Michael King,galacticrepublic,24,9,4,11,1,1,3,3.0
+Michael Langley,galacticrepublic,19,9,10,6,0,0,4,3.5
+Michael Thiel,firstorder,19,9,7,10,1,1,3,3.6666666666666665
+Micheal Wells,scumandvillainy,24,8,7,5,1,3,3,2.6666666666666665
+Miguel JUstiniano,scumandvillainy,26,11,10,5,0,0,5,2.8
+Mike Domino,galacticempire,24,9,9,11,1,1,4,3.0
+Mike Maurer,galacticempire,24,12,11,4,0,0,5,2.6
+Mike Spin,rebelalliance,22,10,9,4,0,0,4,4.0
+MistbornJedi,resistance,23,7,5,13,1,1,3,3.0
+Morgan Sanders,galacticempire,16,8,8,9,0,0,3,3.3333333333333335
+Nate Handy,rebelalliance,23,8,6,8,0,0,3,4.0
+Nathan Long,firstorder,14,9,9,5,0,0,3,5.0
+Nathan Skelly,galacticempire,18,9,11,5,0,0,4,4.25
+Nathan Willcock,separatistalliance,24,12,10,7,0,0,5,2.4
+Nathaniel Moore,rebelalliance,24,8,8,6,0,0,4,3.5
+Neal Duffy,rebelalliance,28,9,7,4,1,2,4,3.25
+Nemes Balázs,resistance,21,7,6,13,0,0,3,4.0
+Nic Harris,firstorder,22,10,10,5,0,0,4,3.0
+Nicholas Allard,firstorder,28,10,8,3,0,0,4,4.25
+Nicholas Miller,firstorder,16,9,9,5,0,0,3,3.0
+"Nick ""oiseaux"" Rochow",galacticempire,26,8,8,14,0,0,4,2.5
+Nick Aretakis,separatistalliance,23,10,7,7,1,1,4,3.0
+Nick Smith ,firstorder,18,10,11,7,1,3,4,3.75
+Nick Worsley,resistance,30,10,7,2,0,0,4,3.5
+Niklas God,galacticempire,26,9,8,10,0,0,4,3.0
+No Pickles,galacticrepublic,30,11,10,3,0,0,5,3.2
+Noah Hallett,scumandvillainy,23,12,11,3,0,0,5,2.0
+Nobbie,resistance,22,10,10,6,0,0,4,4.0
+Not MHolland,rebelalliance,22,9,5,6,0,0,3,2.6666666666666665
+Old Jester,scumandvillainy,23,10,9,5,0,0,4,4.0
+Patrick Hanson,firstorder,22,11,14,2,0,0,5,4.0
+Patrick Huffman,scumandvillainy,28,9,6,13,0,0,4,3.0
+Patrick Meier,rebelalliance,24,10,8,9,2,2,4,3.0
+Patrick Steiche,galacticempire,25,11,12,3,1,1,5,3.8
+Patrick Wojtowicz ,firstorder,20,10,11,2,0,0,4,4.25
+Paul Adler,galacticrepublic,25,8,7,8,1,3,4,4.0
+Paul Heaver,galacticempire,28,9,7,6,0,0,4,3.25
+Paul Johnson,rebelalliance,29,10,6,5,1,3,4,3.0
+Pete Lambro,galacticrepublic,27,11,11,2,0,0,5,3.6
+Phil Kirby,galacticempire,22,9,9,5,0,0,4,4.0
+Phillip Pond,firstorder,21,9,11,8,0,0,4,3.5
+Plammi,firstorder,18,8,8,8,0,0,3,3.0
+Preston Person,rebelalliance,31,9,2,6,0,0,3,2.6666666666666665
+Quentin Keller,galacticempire,29,11,11,7,0,0,5,3.0
+"Raphael ""GreenDragoon"" Iselin",galacticrepublic,18,8,10,8,0,0,4,3.75
+Ray Wickham,galacticempire,23,9,10,5,0,0,4,3.5
+raymondliong,rebelalliance,22,10,6,4,0,0,3,3.6666666666666665
+Rhett Eldred,rebelalliance,28,10,9,4,0,0,4,2.25
+Ricardo Lopez,firstorder,28,10,8,6,0,0,4,2.75
+Richard Hines,firstorder,22,9,10,7,0,0,4,3.5
+Rinehart,scumandvillainy,21,11,11,4,1,1,4,3.25
+Robbie Connolly,resistance,25,8,8,9,1,5,4,3.0
+Robby Goodhue,scumandvillainy,28,11,8,4,0,0,4,3.25
+Robert Blackstock,scumandvillainy,38,12,8,1,0,0,5,2.8
+Robert Kukuchka,galacticrepublic,27,9,6,7,0,0,4,3.75
+Robin Farndon,galacticrepublic,24,9,7,7,0,0,4,3.0
+Rodrigo Denicol,galacticempire,26,9,7,8,0,0,4,3.25
+RoelBesters,firstorder,22,9,7,6,0,0,3,3.0
+"Rolando ""roshow"" Garcia",galacticempire,26,11,7,8,0,0,4,2.5
+Romain Bonnet,firstorder,20,9,11,6,1,3,4,3.25
+Ron Brannan,rebelalliance,25,8,7,11,0,0,4,3.25
+Ronny Herget,rebelalliance,22,9,9,8,0,0,4,3.25
+RonPon,galacticrepublic,24,9,7,10,0,0,4,2.75
+Runningtargetnz,galacticrepublic,31,11,9,2,0,0,5,2.8
+Ryan Becker,scumandvillainy,32,11,8,4,0,0,4,2.5
+Ryan Burnett,separatistalliance,22,11,9,9,0,0,4,3.0
+Ryan Costello,firstorder,20,11,12,1,0,0,4,3.25
+Ryan Crocker,scumandvillainy,28,9,7,8,0,0,4,3.5
+Ryan Staniszewski,firstorder,20,10,11,4,0,0,4,4.5
+Sam Dameron,firstorder,22,9,10,6,1,1,4,3.5
+Sam McLain,scumandvillainy,28,10,11,10,0,0,5,3.4
+Sam Page,firstorder,19,11,12,3,0,0,4,3.0
+SamTinSquadron,galacticempire,26,10,6,9,1,1,4,2.75
+Samuel Melhado,rebelalliance,24,8,5,9,2,5,3,3.6666666666666665
+Samuel Moorhead,firstorder,30,10,4,6,0,0,3,2.0
+Sara Tessem,separatistalliance,24,11,8,6,0,0,4,3.75
+Scott Bellamy,rebelalliance,26,10,6,8,2,2,4,3.75
+Scott Canham,rebelalliance,29,10,4,5,2,2,3,1.3333333333333333
+Scott Collins,galacticempire,18,7,8,8,1,0,3,4.0
+Sean Pohl,galacticempire,17,9,11,8,0,0,4,4.5
+Sebastien Demers,scumandvillainy,28,10,8,4,0,0,4,2.25
+Sebastien Ledieu ,firstorder,20,10,10,2,0,0,4,4.5
+Sebon,firstorder,19,11,12,4,0,0,4,2.5
+Seth Dunlap,galacticempire,18,10,9,6,0,0,4,4.0
+Shawn Ramberg,rebelalliance,21,9,10,7,0,0,4,3.75
+Simon Heath,rebelalliance,23,8,5,8,0,0,3,4.0
+Sondre Auestad,rebelalliance,21,6,2,14,0,0,2,3.5
+Steffen Lydvo,galacticempire,20,8,5,10,1,0,3,3.6666666666666665
+Stephan Wehr,scumandvillainy,41,9,6,3,0,0,4,1.25
+Stephen Downs,firstorder,26,10,12,7,1,1,5,3.0
+Stephen Gage,resistance,28,9,7,9,1,1,4,3.75
+Stephen Parker,scumandvillainy,25,9,6,8,0,0,3,3.6666666666666665
+Stephen Sesnick,galacticempire,17,9,11,6,0,0,4,4.25
+steve mclean,rebelalliance,27,10,7,5,0,0,4,4.25
+Steven Sior,rebelalliance,27,9,4,6,0,0,3,4.333333333333333
+Tad Wesley,rebelalliance,19,7,5,14,1,3,3,2.6666666666666665
+Taloncor,firstorder,20,10,10,5,2,10,4,4.0
+Ted Traini,resistance,26,10,7,9,0,0,4,4.0
+Ted W,galacticempire,18,8,11,9,0,0,4,3.75
+Thomas Correnti,galacticempire,27,10,7,6,0,0,4,3.0
+Thomas Shaw,resistance,22,8,5,9,0,0,3,4.0
+Thomas Wittenberg,resistance,26,10,10,8,0,0,5,2.2
+tigris,resistance,22,8,5,13,0,0,3,3.3333333333333335
+"Tim ""timathius"" Hilton",galacticrepublic,30,9,5,8,1,2,4,3.0
+Tim Horsburgh,resistance,26,10,8,5,0,0,4,2.5
+Timanseb,resistance,24,9,8,8,0,0,4,3.0
+Timo Hetzel,galacticempire,24,11,8,5,0,0,4,3.0
+TobyN,scumandvillainy,22,9,8,5,0,0,4,2.75
+Tom buis,scumandvillainy,27,10,8,5,0,0,4,3.0
+Tom Candlin,scumandvillainy,25,9,8,5,0,0,4,4.0
+tomasz szyszka,galacticempire,19,7,7,5,0,0,3,4.333333333333333
+Tommaso Loss,galacticrepublic,36,12,10,4,0,0,6,2.3333333333333335
+Tommy Adams,separatistalliance,21,10,8,15,0,0,4,2.5
+Tommy Ryan,galacticrepublic,29,10,6,5,0,0,4,3.75
+Tony Cameron,galacticempire,21,9,9,10,0,0,4,2.5
+Tony Costanti ,galacticrepublic,22,8,8,5,0,0,4,4.0
+Totem,separatistalliance,30,9,3,5,0,0,3,3.3333333333333335
+Travis Johannsen,galacticrepublic,27,10,7,1,0,0,4,4.25
+Travis Johnson ,galacticempire,25,10,8,8,0,0,4,3.5
+trej,firstorder,28,11,9,3,0,0,4,2.5
+Trevor Betts,resistance,27,9,8,4,0,0,4,4.25
+Trukson,galacticempire,20,8,5,10,0,0,3,3.0
+Tyler Duree,scumandvillainy,24,11,11,11,0,0,5,3.2
+Tyler Evans,rebelalliance,24,9,5,10,1,2,3,3.6666666666666665
+Ulie ,scumandvillainy,23,10,9,4,0,0,4,4.25
+Vincent Hamelin,firstorder,25,10,13,7,1,2,5,2.4
+Virgil Hayward,scumandvillainy,24,10,10,5,0,0,5,4.2
+Wally_Shanks,scumandvillainy,34,12,9,6,0,0,5,2.6
+Wesley van Wensen,scumandvillainy,24,10,10,11,2,3,5,3.2
+Wilhelm Fors,firstorder,18,11,12,2,0,0,4,4.0
+Will Frost,firstorder,23,10,10,2,0,0,4,3.75
+Will Pearce,scumandvillainy,26,9,5,6,0,0,3,3.3333333333333335
+William Cameron,galacticrepublic,23,9,8,7,0,0,4,3.5
+William Herbert,galacticrepublic,18,8,10,9,0,0,4,3.75
+William Scott,galacticempire,19,11,10,5,0,0,4,2.5
+william wooldridge,scumandvillainy,25,10,7,4,0,0,4,3.5
+Zach Huffines,scumandvillainy,27,10,8,8,0,0,4,3.25
+Zach RIghetti,scumandvillainy,27,11,11,4,0,0,5,3.2
+Zachery Johnson,galacticempire,26,10,8,7,0,0,4,1.75
