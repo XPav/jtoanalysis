@@ -1,0 +1,228 @@
+{
+    "Add": "Adding Tobias Beckett crew to Lando Calrissian Escape Craft",
+    "Discord": "Finsdale#7172",
+    "Drop": "Removing Boba Fett crew from Lando Calrissian Escape Craft",
+    "Final": {
+        "faction": "scumandvillainy",
+        "name": "Tyler Duree JTO",
+        "obstacles": [
+            "coreasteroid5",
+            "core2asteroid4",
+            "core2asteroid5"
+        ],
+        "pilots": [
+            {
+                "id": "4lom",
+                "points": 67,
+                "ship": "g1astarfighter",
+                "upgrades": {
+                    "cannon": [
+                        "tractorbeam"
+                    ],
+                    "crew": [
+                        "ketsuonyo"
+                    ],
+                    "illicit": [
+                        "inertialdampeners"
+                    ],
+                    "modification": [
+                        "hullupgrade"
+                    ],
+                    "sensor": [
+                        "passivesensors"
+                    ],
+                    "title": [
+                        "misthunter"
+                    ]
+                }
+            },
+            {
+                "id": "ndrusuhlak",
+                "points": 47,
+                "ship": "z95af4headhunter",
+                "upgrades": {
+                    "illicit": [
+                        "contrabandcybernetics"
+                    ],
+                    "missile": [
+                        "homingmissiles"
+                    ],
+                    "modification": [
+                        "staticdischargevanes"
+                    ],
+                    "talent": [
+                        "trickshot"
+                    ]
+                }
+            },
+            {
+                "id": "landocalrissian-escapecraft",
+                "points": 31,
+                "ship": "escapecraft",
+                "upgrades": {
+                    "crew": [
+                        "tobiasbeckett"
+                    ]
+                }
+            },
+            {
+                "id": "captainseevor",
+                "points": 30,
+                "ship": "modifiedtielnfighter",
+                "upgrades": {}
+            },
+            {
+                "id": "miningguildsurveyor",
+                "points": 23,
+                "ship": "modifiedtielnfighter",
+                "upgrades": {}
+            }
+        ],
+        "points": 198,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Name": "Tyler Duree",
+    "Option1": {
+        "faction": "scumandvillainy",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "4lom",
+                "points": 67,
+                "ship": "g1astarfighter",
+                "upgrades": {
+                    "cannon": [
+                        "tractorbeam"
+                    ],
+                    "crew": [
+                        "ketsuonyo"
+                    ],
+                    "illicit": [
+                        "inertialdampeners"
+                    ],
+                    "modification": [
+                        "hullupgrade"
+                    ],
+                    "sensor": [
+                        "passivesensors"
+                    ],
+                    "title": [
+                        "misthunter"
+                    ]
+                }
+            },
+            {
+                "id": "ndrusuhlak",
+                "points": 47,
+                "ship": "z95af4headhunter",
+                "upgrades": {
+                    "illicit": [
+                        "contrabandcybernetics"
+                    ],
+                    "missile": [
+                        "homingmissiles"
+                    ],
+                    "modification": [
+                        "staticdischargevanes"
+                    ],
+                    "talent": [
+                        "trickshot"
+                    ]
+                }
+            },
+            {
+                "id": "landocalrissian-escapecraft",
+                "points": 33,
+                "ship": "escapecraft",
+                "upgrades": {
+                    "crew": [
+                        "bobafett"
+                    ]
+                }
+            },
+            {
+                "id": "captainseevor",
+                "points": 30,
+                "ship": "modifiedtielnfighter",
+                "upgrades": {}
+            },
+            {
+                "id": "miningguildsurveyor",
+                "points": 23,
+                "ship": "modifiedtielnfighter",
+                "upgrades": {}
+            }
+        ],
+        "points": 200,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Option2": {
+        "faction": "galacticrepublic",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "jediknight",
+                "points": 49,
+                "ship": "delta7aethersprite",
+                "upgrades": {
+                    "astromech": [
+                        "r4p17"
+                    ],
+                    "configuration": [
+                        "calibratedlasertargeting"
+                    ],
+                    "force-power": [
+                        "sense"
+                    ]
+                }
+            },
+            {
+                "id": "swoop",
+                "points": 34,
+                "ship": "v19torrentstarfighter",
+                "upgrades": {
+                    "talent": [
+                        "intimidation"
+                    ]
+                }
+            },
+            {
+                "id": "oddball-btlbywing",
+                "points": 53,
+                "ship": "btlbywing",
+                "upgrades": {
+                    "device": [
+                        "seismiccharges"
+                    ],
+                    "torpedo": [
+                        "iontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "luminaraunduli",
+                "points": 59,
+                "ship": "delta7aethersprite",
+                "upgrades": {
+                    "astromech": [
+                        "r4p44"
+                    ],
+                    "force-power": [
+                        "battlemeditation"
+                    ],
+                    "modification": [
+                        "angleddeflectors"
+                    ]
+                }
+            }
+        ],
+        "points": 195,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "TTT": "Tyler Duree",
+    "VassalForm1": "Finsdale",
+    "VassalForm2": "Finsdale"
+}

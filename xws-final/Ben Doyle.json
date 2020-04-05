@@ -1,0 +1,160 @@
+{
+    "Add": "Pattern Analyzer to Thanisson",
+    "Discord": "Snootches#3650",
+    "Drop": "Target Sync from Sienar Engineer ",
+    "Final": {
+        "faction": "firstorder",
+        "name": "Ben Doyle JTO",
+        "pilots": [
+            {
+                "id": "pettyofficerthanisson",
+                "points": 70,
+                "ship": "upsilonclasscommandshuttle",
+                "upgrades": {
+                    "modification": [
+                        "electronicbaffle"
+                    ],
+                    "tech": [
+                        "advancedoptics",
+                        "patternanalyzer"
+                    ]
+                }
+            },
+            {
+                "id": "sienarjaemusengineer",
+                "points": 60,
+                "ship": "tievnsilencer",
+                "upgrades": {
+                    "torpedo": [
+                        "plasmatorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "starkillerbasepilot",
+                "points": 68,
+                "ship": "upsilonclasscommandshuttle",
+                "upgrades": {
+                    "crew": [
+                        "captainphasma"
+                    ],
+                    "tech": [
+                        "patternanalyzer"
+                    ]
+                }
+            }
+        ],
+        "points": 198,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Name": "Ben Doyle",
+    "Option1": {
+        "faction": "rebelalliance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "ezrabridger-sheathipedeclassshuttle",
+                "points": 59,
+                "ship": "sheathipedeclassshuttle",
+                "upgrades": {
+                    "crew": [
+                        "gnkgonkdroid"
+                    ],
+                    "force-power": [
+                        "predictiveshot"
+                    ],
+                    "modification": [
+                        "stealthdevice"
+                    ]
+                }
+            },
+            {
+                "id": "esegetuketu",
+                "points": 45,
+                "ship": "btls8kwing",
+                "upgrades": {
+                    "modification": [
+                        "munitionsfailsafe"
+                    ]
+                }
+            },
+            {
+                "id": "janors",
+                "points": 60,
+                "ship": "hwk290lightfreighter",
+                "upgrades": {
+                    "device": [
+                        "connernets"
+                    ],
+                    "modification": [
+                        "afterburners"
+                    ],
+                    "talent": [
+                        "juke"
+                    ]
+                }
+            },
+            {
+                "id": "arvelcrynyd",
+                "points": 34,
+                "ship": "rz1awing",
+                "upgrades": {}
+            }
+        ],
+        "points": 198,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Option2": {
+        "faction": "firstorder",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "pettyofficerthanisson",
+                "points": 65,
+                "ship": "upsilonclasscommandshuttle",
+                "upgrades": {
+                    "modification": [
+                        "electronicbaffle"
+                    ],
+                    "tech": [
+                        "advancedoptics"
+                    ]
+                }
+            },
+            {
+                "id": "sienarjaemusengineer",
+                "points": 66,
+                "ship": "tievnsilencer",
+                "upgrades": {
+                    "tech": [
+                        "targetingsynchronizer"
+                    ],
+                    "torpedo": [
+                        "plasmatorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "starkillerbasepilot",
+                "points": 68,
+                "ship": "upsilonclasscommandshuttle",
+                "upgrades": {
+                    "crew": [
+                        "captainphasma"
+                    ],
+                    "tech": [
+                        "patternanalyzer"
+                    ]
+                }
+            }
+        ],
+        "points": 199,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "TTT": "Ben Doyle",
+    "VassalForm1": "Ben Doyle",
+    "VassalForm2": "Ben Doyle"
+}

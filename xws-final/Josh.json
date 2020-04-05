@@ -1,0 +1,161 @@
+{
+    "Add": "Adding Targeting Computer to the Planetary Sentinel",
+    "Discord": "Josh#1589",
+    "Drop": "Removing Death Troopers from Jendon",
+    "Final": {
+        "faction": "galacticempire",
+        "name": "Josh JTO",
+        "pilots": [
+            {
+                "id": "patrolleader",
+                "points": 71,
+                "ship": "vt49decimator",
+                "upgrades": {
+                    "title": [
+                        "dauntless"
+                    ]
+                }
+            },
+            {
+                "id": "coloneljendon",
+                "points": 54,
+                "ship": "lambdaclasst4ashuttle",
+                "upgrades": {
+                    "sensor": [
+                        "collisiondetector"
+                    ]
+                }
+            },
+            {
+                "id": "planetarysentinel",
+                "points": 34,
+                "ship": "tieskstriker",
+                "upgrades": {
+                    "modification": [
+                        "targetingcomputer"
+                    ]
+                }
+            },
+            {
+                "id": "tempestsquadronpilot",
+                "points": 36,
+                "ship": "tieadvancedx1",
+                "upgrades": {}
+            }
+        ],
+        "points": 195,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Name": "Josh",
+    "Option1": {
+        "faction": "galacticrepublic",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "oddball-btlbywing",
+                "points": 67,
+                "ship": "btlbywing",
+                "upgrades": {
+                    "device": [
+                        "protonbombs"
+                    ],
+                    "modification": [
+                        "targetingcomputer"
+                    ],
+                    "talent": [
+                        "elusive"
+                    ],
+                    "torpedo": [
+                        "plasmatorpedoes"
+                    ],
+                    "turret": [
+                        "dorsalturret"
+                    ]
+                }
+            },
+            {
+                "id": "dineeellberger",
+                "points": 47,
+                "ship": "nabooroyaln1starfighter",
+                "upgrades": {
+                    "talent": [
+                        "swarmtactics"
+                    ],
+                    "torpedo": [
+                        "iontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "104thbattalionpilot",
+                "points": 49,
+                "ship": "arc170starfighter",
+                "upgrades": {
+                    "astromech": [
+                        "r2astromech"
+                    ],
+                    "gunner": [
+                        "skilledbombardier"
+                    ]
+                }
+            },
+            {
+                "id": "bravoflightofficer",
+                "points": 33,
+                "ship": "nabooroyaln1starfighter",
+                "upgrades": {}
+            }
+        ],
+        "points": 196,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Option2": {
+        "faction": "galacticempire",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "patrolleader",
+                "points": 71,
+                "ship": "vt49decimator",
+                "upgrades": {
+                    "title": [
+                        "dauntless"
+                    ]
+                }
+            },
+            {
+                "id": "coloneljendon",
+                "points": 60,
+                "ship": "lambdaclasst4ashuttle",
+                "upgrades": {
+                    "crew": [
+                        "deathtroopers"
+                    ],
+                    "sensor": [
+                        "collisiondetector"
+                    ]
+                }
+            },
+            {
+                "id": "planetarysentinel",
+                "points": 31,
+                "ship": "tieskstriker",
+                "upgrades": {}
+            },
+            {
+                "id": "tempestsquadronpilot",
+                "points": 36,
+                "ship": "tieadvancedx1",
+                "upgrades": {}
+            }
+        ],
+        "points": 198,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "TTT": "Josh Benjamin",
+    "VassalForm1": "Josh",
+    "VassalForm2": "Josh"
+}

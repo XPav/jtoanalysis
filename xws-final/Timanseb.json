@@ -1,0 +1,168 @@
+{
+    "Add": "Advanced optics to green Squadron Expert",
+    "Discord": "Timanseb#0699",
+    "Drop": "Amylin Holdo from Cova ",
+    "Final": {
+        "faction": "resistance",
+        "name": "Timanseb JTO",
+        "pilots": [
+            {
+                "id": "covanell",
+                "points": 67,
+                "ship": "resistancetransport",
+                "upgrades": {
+                    "astromech": [
+                        "r5x3"
+                    ],
+                    "modification": [
+                        "angleddeflectors"
+                    ],
+                    "tech": [
+                        "patternanalyzer"
+                    ],
+                    "torpedo": [
+                        "protontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "greensquadronexpert",
+                "points": 38,
+                "ship": "rz2awing",
+                "upgrades": {
+                    "tech": [
+                        "advancedoptics"
+                    ]
+                }
+            },
+            {
+                "id": "karekun",
+                "points": 53,
+                "ship": "t70xwing",
+                "upgrades": {
+                    "configuration": [
+                        "integratedsfoils"
+                    ],
+                    "title": [
+                        "blackone"
+                    ]
+                }
+            },
+            {
+                "id": "r1j5",
+                "points": 35,
+                "ship": "fireball",
+                "upgrades": {
+                    "crew": [
+                        "c3po-crew"
+                    ]
+                }
+            }
+        ],
+        "points": 193,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Name": "Sebastian Sanchez",
+    "Option1": {
+        "faction": "resistance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "covanell",
+                "points": 75,
+                "ship": "resistancetransport",
+                "upgrades": {
+                    "astromech": [
+                        "r5x3"
+                    ],
+                    "crew": [
+                        "amilynholdo"
+                    ],
+                    "modification": [
+                        "angleddeflectors"
+                    ],
+                    "tech": [
+                        "patternanalyzer"
+                    ],
+                    "torpedo": [
+                        "protontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "greensquadronexpert",
+                "points": 34,
+                "ship": "rz2awing",
+                "upgrades": {}
+            },
+            {
+                "id": "karekun",
+                "points": 53,
+                "ship": "t70xwing",
+                "upgrades": {
+                    "configuration": [
+                        "integratedsfoils"
+                    ],
+                    "title": [
+                        "blackone"
+                    ]
+                }
+            },
+            {
+                "id": "r1j5",
+                "points": 35,
+                "ship": "fireball",
+                "upgrades": {
+                    "crew": [
+                        "c3po-crew"
+                    ]
+                }
+            }
+        ],
+        "points": 197,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Option2": {
+        "faction": "scumandvillainy",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "krassistrelix",
+                "points": 71,
+                "ship": "firesprayclasspatrolcraft",
+                "upgrades": {
+                    "title": [
+                        "marauder"
+                    ]
+                }
+            },
+            {
+                "id": "ig88c",
+                "points": 71,
+                "ship": "aggressorassaultfighter",
+                "upgrades": {
+                    "illicit": [
+                        "riggedcargochute"
+                    ],
+                    "modification": [
+                        "targetingcomputer"
+                    ]
+                }
+            },
+            {
+                "id": "oldteroch",
+                "points": 56,
+                "ship": "fangfighter",
+                "upgrades": {}
+            }
+        ],
+        "points": 198,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "TTT": "Timanseb",
+    "VassalForm1": "Timanseb",
+    "VassalForm2": "Timanseb"
+}

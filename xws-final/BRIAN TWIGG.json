@@ -1,0 +1,179 @@
+{
+    "Add": "Seismic Charges to Esege (Kwing)",
+    "Discord": "eltwigg#9413",
+    "Drop": "Composure off the Green Squad A-Wing",
+    "Final": {
+        "faction": "rebelalliance",
+        "name": "Brian Terwilliger JTO",
+        "obstacles": [
+            "coreasteroid5",
+            "core2asteroid4",
+            "core2asteroid5"
+        ],
+        "pilots": [
+            {
+                "id": "greensquadronpilot",
+                "points": 38,
+                "ship": "rz1awing",
+                "upgrades": {
+                    "missile": [
+                        "ionmissiles"
+                    ],
+                    "talent": [
+                        "predator"
+                    ]
+                }
+            },
+            {
+                "id": "esegetuketu",
+                "points": 57,
+                "ship": "btls8kwing",
+                "upgrades": {
+                    "device": [
+                        "seismiccharges"
+                    ],
+                    "missile": [
+                        "magpulsewarheads"
+                    ],
+                    "modification": [
+                        "stealthdevice"
+                    ]
+                }
+            },
+            {
+                "id": "corranhorn",
+                "points": 72,
+                "ship": "ewing",
+                "upgrades": {
+                    "sensor": [
+                        "collisiondetector"
+                    ]
+                }
+            },
+            {
+                "id": "zeborrelios",
+                "points": 32,
+                "ship": "attackshuttle",
+                "upgrades": {}
+            }
+        ],
+        "points": 199,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Name": "Brian Terwilliger",
+    "Option1": {
+        "faction": "rebelalliance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "greensquadronpilot",
+                "points": 39,
+                "ship": "rz1awing",
+                "upgrades": {
+                    "missile": [
+                        "ionmissiles"
+                    ],
+                    "talent": [
+                        "composure",
+                        "predator"
+                    ]
+                }
+            },
+            {
+                "id": "esegetuketu",
+                "points": 54,
+                "ship": "btls8kwing",
+                "upgrades": {
+                    "missile": [
+                        "magpulsewarheads"
+                    ],
+                    "modification": [
+                        "stealthdevice"
+                    ]
+                }
+            },
+            {
+                "id": "corranhorn",
+                "points": 72,
+                "ship": "ewing",
+                "upgrades": {
+                    "sensor": [
+                        "collisiondetector"
+                    ]
+                }
+            },
+            {
+                "id": "zeborrelios",
+                "points": 32,
+                "ship": "attackshuttle",
+                "upgrades": {}
+            }
+        ],
+        "points": 197,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Option2": {
+        "faction": "separatistalliance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "darthmaul",
+                "points": 106,
+                "ship": "sithinfiltrator",
+                "upgrades": {
+                    "cannon": [
+                        "tractorbeam"
+                    ],
+                    "crew": [
+                        "gnkgonkdroid"
+                    ],
+                    "device": [
+                        "protonbombs"
+                    ],
+                    "force-power": [
+                        "hate"
+                    ],
+                    "tacticalrelay": [
+                        "tv94"
+                    ],
+                    "torpedo": [
+                        "plasmatorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "separatistbomber",
+                "points": 35,
+                "ship": "hyenaclassdroidbomber",
+                "upgrades": {
+                    "configuration": [
+                        "landingstruts"
+                    ],
+                    "device": [
+                        "connernets"
+                    ]
+                }
+            },
+            {
+                "id": "stalgasinhiveguard",
+                "points": 34,
+                "ship": "nantexclassstarfighter",
+                "upgrades": {}
+            },
+            {
+                "id": "precisehunter",
+                "points": 23,
+                "ship": "vultureclassdroidfighter",
+                "upgrades": {}
+            }
+        ],
+        "points": 198,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "TTT": "eltwigg",
+    "VassalForm1": "BRIAN TWIGG",
+    "VassalForm2": "BRIAN TWIGG"
+}

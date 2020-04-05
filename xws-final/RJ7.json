@@ -1,0 +1,196 @@
+{
+    "Add": "Adding 000 to Lando",
+    "Discord": "Rhys James (#9551)",
+    "Drop": "Removing Chewbacca from Lando ",
+    "Final": {
+        "faction": "scumandvillainy",
+        "name": "Rhys James JTO",
+        "obstacles": [
+            "yt2400debris0",
+            "yt2400debris2",
+            "vt49decimatordebris1"
+        ],
+        "pilots": [
+            {
+                "id": "landocalrissian",
+                "points": 78,
+                "ship": "customizedyt1300lightfreighter",
+                "upgrades": {
+                    "crew": [
+                        "ig88d",
+                        "000"
+                    ],
+                    "gunner": [
+                        "bt1"
+                    ],
+                    "illicit": [
+                        "deadmansswitch"
+                    ],
+                    "missile": [
+                        "protonrockets"
+                    ],
+                    "modification": [
+                        "engineupgrade"
+                    ],
+                    "talent": [
+                        "intimidation"
+                    ]
+                }
+            },
+            {
+                "id": "4lom",
+                "points": 59,
+                "ship": "g1astarfighter",
+                "upgrades": {
+                    "illicit": [
+                        "inertialdampeners"
+                    ],
+                    "modification": [
+                        "ablativeplating"
+                    ],
+                    "title": [
+                        "misthunter"
+                    ]
+                }
+            },
+            {
+                "id": "blacksunassassin",
+                "points": 60,
+                "ship": "starviperclassattackplatform",
+                "upgrades": {
+                    "sensor": [
+                        "collisiondetector"
+                    ],
+                    "torpedo": [
+                        "advprotontorpedoes"
+                    ]
+                }
+            }
+        ],
+        "points": 197,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Name": "Rhys James",
+    "Option1": {
+        "faction": "galacticrepublic",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "luminaraunduli",
+                "points": 61,
+                "ship": "delta7aethersprite",
+                "upgrades": {
+                    "configuration": [
+                        "delta7b"
+                    ]
+                }
+            },
+            {
+                "id": "axe",
+                "points": 43,
+                "ship": "v19torrentstarfighter",
+                "upgrades": {
+                    "missile": [
+                        "clustermissiles"
+                    ],
+                    "modification": [
+                        "munitionsfailsafe"
+                    ],
+                    "talent": [
+                        "lonewolf"
+                    ]
+                }
+            },
+            {
+                "id": "obiwankenobi",
+                "points": 63,
+                "ship": "delta7aethersprite",
+                "upgrades": {
+                    "astromech": [
+                        "r2astromech"
+                    ],
+                    "modification": [
+                        "staticdischargevanes"
+                    ]
+                }
+            },
+            {
+                "id": "tucker",
+                "points": 29,
+                "ship": "v19torrentstarfighter",
+                "upgrades": {}
+            }
+        ],
+        "points": 196,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Option2": {
+        "faction": "scumandvillainy",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "landocalrissian",
+                "points": 77,
+                "ship": "customizedyt1300lightfreighter",
+                "upgrades": {
+                    "crew": [
+                        "ig88d",
+                        "chewbacca-crew"
+                    ],
+                    "gunner": [
+                        "bt1"
+                    ],
+                    "illicit": [
+                        "deadmansswitch"
+                    ],
+                    "missile": [
+                        "protonrockets"
+                    ],
+                    "modification": [
+                        "engineupgrade"
+                    ],
+                    "talent": [
+                        "intimidation"
+                    ]
+                }
+            },
+            {
+                "id": "4lom",
+                "points": 59,
+                "ship": "g1astarfighter",
+                "upgrades": {
+                    "illicit": [
+                        "inertialdampeners"
+                    ],
+                    "modification": [
+                        "ablativeplating"
+                    ],
+                    "title": [
+                        "misthunter"
+                    ]
+                }
+            },
+            {
+                "id": "blacksunassassin",
+                "points": 60,
+                "ship": "starviperclassattackplatform",
+                "upgrades": {
+                    "sensor": [
+                        "collisiondetector"
+                    ],
+                    "torpedo": [
+                        "advprotontorpedoes"
+                    ]
+                }
+            }
+        ],
+        "points": 196,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "TTT": "Rhys James",
+    "VassalForm1": "RJ7",
+    "VassalForm2": "RJ 7"
+}

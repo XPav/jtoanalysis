@@ -1,0 +1,173 @@
+{
+    "Add": "Fearless to Fenn Rau",
+    "Discord": "Slenkhar#1858",
+    "Drop": "Swarm Tactics from Cartel Executioner",
+    "Final": {
+        "faction": "scumandvillainy",
+        "name": "David Secretain JTO",
+        "pilots": [
+            {
+                "id": "blacksunsoldier",
+                "points": 28,
+                "ship": "z95af4headhunter",
+                "upgrades": {
+                    "illicit": [
+                        "cloakingdevice"
+                    ]
+                }
+            },
+            {
+                "id": "cartelexecutioner",
+                "points": 68,
+                "ship": "m12lkimogilafighter",
+                "upgrades": {
+                    "astromech": [
+                        "r3astromech"
+                    ],
+                    "illicit": [
+                        "feedbackarray"
+                    ],
+                    "missile": [
+                        "ionmissiles"
+                    ],
+                    "modification": [
+                        "stealthdevice"
+                    ],
+                    "torpedo": [
+                        "protontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "fennrau",
+                "points": 71,
+                "ship": "fangfighter",
+                "upgrades": {
+                    "talent": [
+                        "fearless"
+                    ]
+                }
+            },
+            {
+                "id": "ndrusuhlak",
+                "points": 30,
+                "ship": "z95af4headhunter",
+                "upgrades": {}
+            }
+        ],
+        "points": 197,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Name": "David Secretain",
+    "Option1": {
+        "faction": "rebelalliance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "dashrendar",
+                "points": 128,
+                "ship": "yt2400lightfreighter",
+                "upgrades": {
+                    "gunner": [
+                        "hotshotgunner"
+                    ],
+                    "missile": [
+                        "protonrockets"
+                    ],
+                    "talent": [
+                        "snapshot"
+                    ],
+                    "title": [
+                        "outrider"
+                    ]
+                }
+            },
+            {
+                "id": "arvelcrynyd",
+                "points": 42,
+                "ship": "rz1awing",
+                "upgrades": {
+                    "missile": [
+                        "magpulsewarheads"
+                    ],
+                    "talent": [
+                        "daredevil"
+                    ]
+                }
+            },
+            {
+                "id": "talasquadronpilot",
+                "points": 26,
+                "ship": "z95af4headhunter",
+                "upgrades": {
+                    "modification": [
+                        "electronicbaffle"
+                    ]
+                }
+            }
+        ],
+        "points": 196,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Option2": {
+        "faction": "scumandvillainy",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "blacksunsoldier",
+                "points": 28,
+                "ship": "z95af4headhunter",
+                "upgrades": {
+                    "illicit": [
+                        "cloakingdevice"
+                    ]
+                }
+            },
+            {
+                "id": "cartelexecutioner",
+                "points": 71,
+                "ship": "m12lkimogilafighter",
+                "upgrades": {
+                    "astromech": [
+                        "r3astromech"
+                    ],
+                    "illicit": [
+                        "feedbackarray"
+                    ],
+                    "missile": [
+                        "ionmissiles"
+                    ],
+                    "modification": [
+                        "stealthdevice"
+                    ],
+                    "talent": [
+                        "swarmtactics"
+                    ],
+                    "torpedo": [
+                        "protontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "fennrau",
+                "points": 68,
+                "ship": "fangfighter",
+                "upgrades": {}
+            },
+            {
+                "id": "ndrusuhlak",
+                "points": 30,
+                "ship": "z95af4headhunter",
+                "upgrades": {}
+            }
+        ],
+        "points": 197,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "TTT": "David Secretain",
+    "VassalForm1": "Slenkhar",
+    "VassalForm2": "Slenkhar"
+}

@@ -1,0 +1,168 @@
+{
+    "Add": "EPT Outmaneuver to Graz the Hunter",
+    "Discord": "TROGDOR#7623",
+    "Drop": "Adv. Proton Torpedoes from the Zealous Recruit (Fang)",
+    "Final": {
+        "faction": "scumandvillainy",
+        "name": "Noah Hallett JTO",
+        "obstacles": [
+            "coreasteroid0",
+            "coreasteroid1",
+            "coreasteroid2"
+        ],
+        "pilots": [
+            {
+                "id": "zealousrecruit",
+                "points": 41,
+                "ship": "fangfighter",
+                "upgrades": {}
+            },
+            {
+                "id": "palobgodalhi",
+                "points": 62,
+                "ship": "hwk290lightfreighter",
+                "upgrades": {
+                    "illicit": [
+                        "cloakingdevice"
+                    ],
+                    "title": [
+                        "moldycrow"
+                    ]
+                }
+            },
+            {
+                "id": "binayrepirate",
+                "points": 22,
+                "ship": "z95af4headhunter",
+                "upgrades": {}
+            },
+            {
+                "id": "graz",
+                "points": 52,
+                "ship": "kihraxzfighter",
+                "upgrades": {
+                    "talent": [
+                        "outmaneuver"
+                    ]
+                }
+            },
+            {
+                "id": "binayrepirate",
+                "points": 22,
+                "ship": "z95af4headhunter",
+                "upgrades": {}
+            }
+        ],
+        "points": 199,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Name": "Noah Hallett",
+    "Option1": {
+        "faction": "scumandvillainy",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "zealousrecruit",
+                "points": 47,
+                "ship": "fangfighter",
+                "upgrades": {
+                    "torpedo": [
+                        "advprotontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "palobgodalhi",
+                "points": 62,
+                "ship": "hwk290lightfreighter",
+                "upgrades": {
+                    "illicit": [
+                        "cloakingdevice"
+                    ],
+                    "title": [
+                        "moldycrow"
+                    ]
+                }
+            },
+            {
+                "id": "binayrepirate",
+                "points": 22,
+                "ship": "z95af4headhunter",
+                "upgrades": {}
+            },
+            {
+                "id": "graz",
+                "points": 46,
+                "ship": "kihraxzfighter",
+                "upgrades": {}
+            },
+            {
+                "id": "binayrepirate",
+                "points": 22,
+                "ship": "z95af4headhunter",
+                "upgrades": {}
+            }
+        ],
+        "points": 199,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Option2": {
+        "faction": "firstorder",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "null",
+                "points": 36,
+                "ship": "tiefofighter",
+                "upgrades": {
+                    "modification": [
+                        "staticdischargevanes"
+                    ]
+                }
+            },
+            {
+                "id": "captaincardinal",
+                "points": 65,
+                "ship": "upsilonclasscommandshuttle",
+                "upgrades": {
+                    "crew": [
+                        "freelanceslicer"
+                    ]
+                }
+            },
+            {
+                "id": "tn3465",
+                "points": 31,
+                "ship": "tiefofighter",
+                "upgrades": {
+                    "modification": [
+                        "electronicbaffle"
+                    ],
+                    "tech": [
+                        "biohexacryptcodes"
+                    ]
+                }
+            },
+            {
+                "id": "commandermalarus",
+                "points": 38,
+                "ship": "tiefofighter",
+                "upgrades": {}
+            },
+            {
+                "id": "omegasquadronace",
+                "points": 28,
+                "ship": "tiefofighter",
+                "upgrades": {}
+            }
+        ],
+        "points": 198,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "TTT": "Noah Hallett",
+    "VassalForm1": "Noah Hallett",
+    "VassalForm2": "Noah Hallett"
+}

@@ -1,0 +1,176 @@
+{
+    "Add": "Proton bomb",
+    "Discord": "Mattcogg",
+    "Drop": "Squad leader",
+    "Final": {
+        "faction": "resistance",
+        "name": "Matt Coggins JTO",
+        "obstacles": [
+            "gascloud1",
+            "gascloud3",
+            "gascloud5"
+        ],
+        "pilots": [
+            {
+                "id": "tallissanlintra",
+                "points": 49,
+                "ship": "rz2awing",
+                "upgrades": {
+                    "missile": [
+                        "protonrockets"
+                    ],
+                    "talent": [
+                        "marksmanship"
+                    ],
+                    "tech": [
+                        "patternanalyzer"
+                    ]
+                }
+            },
+            {
+                "id": "paigetico",
+                "points": 102,
+                "ship": "mg100starfortress",
+                "upgrades": {
+                    "crew": [
+                        "perceptivecopilot"
+                    ],
+                    "device": [
+                        "protonbombs"
+                    ],
+                    "gunner": [
+                        "hotshotgunner",
+                        "agilegunner"
+                    ],
+                    "modification": [
+                        "shieldupgrade"
+                    ],
+                    "sensor": [
+                        "advancedsensors"
+                    ]
+                }
+            },
+            {
+                "id": "kazudaxiono",
+                "points": 42,
+                "ship": "fireball",
+                "upgrades": {
+                    "title": [
+                        "kazsfireball"
+                    ]
+                }
+            }
+        ],
+        "points": 193,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Name": "Matt Coggins",
+    "Option1": {
+        "faction": "resistance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "tallissanlintra",
+                "points": 49,
+                "ship": "rz2awing",
+                "upgrades": {
+                    "missile": [
+                        "protonrockets"
+                    ],
+                    "talent": [
+                        "marksmanship"
+                    ],
+                    "tech": [
+                        "patternanalyzer"
+                    ]
+                }
+            },
+            {
+                "id": "paigetico",
+                "points": 109,
+                "ship": "mg100starfortress",
+                "upgrades": {
+                    "crew": [
+                        "perceptivecopilot"
+                    ],
+                    "gunner": [
+                        "hotshotgunner",
+                        "agilegunner"
+                    ],
+                    "modification": [
+                        "shieldupgrade"
+                    ],
+                    "sensor": [
+                        "advancedsensors"
+                    ],
+                    "talent": [
+                        "squadleader"
+                    ]
+                }
+            },
+            {
+                "id": "kazudaxiono",
+                "points": 42,
+                "ship": "fireball",
+                "upgrades": {
+                    "title": [
+                        "kazsfireball"
+                    ]
+                }
+            }
+        ],
+        "points": 200,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Option2": {
+        "faction": "firstorder",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "ember",
+                "points": 55,
+                "ship": "tiebainterceptor",
+                "upgrades": {
+                    "modification": [
+                        "angleddeflectors"
+                    ]
+                }
+            },
+            {
+                "id": "lieutenantdormitz",
+                "points": 100,
+                "ship": "upsilonclasscommandshuttle",
+                "upgrades": {
+                    "crew": [
+                        "supremeleadersnoke",
+                        "kyloren"
+                    ],
+                    "tech": [
+                        "targetingsynchronizer"
+                    ]
+                }
+            },
+            {
+                "id": "longshot",
+                "points": 45,
+                "ship": "tiefofighter",
+                "upgrades": {
+                    "modification": [
+                        "shieldupgrade"
+                    ],
+                    "tech": [
+                        "targetingsynchronizer"
+                    ]
+                }
+            }
+        ],
+        "points": 200,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "TTT": "Matthew Coggins",
+    "VassalForm1": "Mattcogg",
+    "VassalForm2": "Matt Coggins"
+}

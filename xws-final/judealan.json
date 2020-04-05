@@ -1,0 +1,174 @@
+{
+    "Add": "Seismic Charges to Deathrain",
+    "Discord": "judealan#7893",
+    "Drop": "Shield Upgrade from Deathrain",
+    "Final": {
+        "faction": "galacticempire",
+        "name": "Judealan JTO",
+        "pilots": [
+            {
+                "id": "vagabond",
+                "points": 46,
+                "ship": "tieskstriker",
+                "upgrades": {
+                    "device": [
+                        "ionbombs"
+                    ],
+                    "talent": [
+                        "lonewolf"
+                    ]
+                }
+            },
+            {
+                "id": "onyxsquadronscout",
+                "points": 28,
+                "ship": "tieagaggressor",
+                "upgrades": {}
+            },
+            {
+                "id": "omicrongrouppilot",
+                "points": 47,
+                "ship": "lambdaclasst4ashuttle",
+                "upgrades": {
+                    "modification": [
+                        "electronicbaffle"
+                    ],
+                    "sensor": [
+                        "firecontrolsystem"
+                    ]
+                }
+            },
+            {
+                "id": "deathrain",
+                "points": 47,
+                "ship": "tiecapunisher",
+                "upgrades": {
+                    "device": [
+                        "seismiccharges"
+                    ]
+                }
+            },
+            {
+                "id": "lieutenantkestal",
+                "points": 31,
+                "ship": "tieagaggressor",
+                "upgrades": {}
+            }
+        ],
+        "points": 199,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Name": "Colton",
+    "Option1": {
+        "faction": "galacticrepublic",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "ricolie",
+                "points": 64,
+                "ship": "nabooroyaln1starfighter",
+                "upgrades": {
+                    "sensor": [
+                        "firecontrolsystem"
+                    ],
+                    "talent": [
+                        "snapshot"
+                    ],
+                    "torpedo": [
+                        "protontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "sinker",
+                "points": 63,
+                "ship": "arc170starfighter",
+                "upgrades": {
+                    "torpedo": [
+                        "plasmatorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "goji",
+                "points": 37,
+                "ship": "btlbywing",
+                "upgrades": {
+                    "astromech": [
+                        "r4p17"
+                    ]
+                }
+            },
+            {
+                "id": "r2d2",
+                "points": 35,
+                "ship": "btlbywing",
+                "upgrades": {}
+            }
+        ],
+        "points": 199,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Option2": {
+        "faction": "galacticempire",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "vagabond",
+                "points": 46,
+                "ship": "tieskstriker",
+                "upgrades": {
+                    "device": [
+                        "ionbombs"
+                    ],
+                    "talent": [
+                        "lonewolf"
+                    ]
+                }
+            },
+            {
+                "id": "onyxsquadronscout",
+                "points": 28,
+                "ship": "tieagaggressor",
+                "upgrades": {}
+            },
+            {
+                "id": "omicrongrouppilot",
+                "points": 47,
+                "ship": "lambdaclasst4ashuttle",
+                "upgrades": {
+                    "modification": [
+                        "electronicbaffle"
+                    ],
+                    "sensor": [
+                        "firecontrolsystem"
+                    ]
+                }
+            },
+            {
+                "id": "deathrain",
+                "points": 48,
+                "ship": "tiecapunisher",
+                "upgrades": {
+                    "modification": [
+                        "shieldupgrade"
+                    ]
+                }
+            },
+            {
+                "id": "lieutenantkestal",
+                "points": 31,
+                "ship": "tieagaggressor",
+                "upgrades": {}
+            }
+        ],
+        "points": 200,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "TTT": "judealan",
+    "VassalForm1": "judealan",
+    "VassalForm2": "judealan"
+}

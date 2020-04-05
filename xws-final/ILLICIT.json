@@ -1,0 +1,168 @@
+{
+    "Add": "Added Special Forces Gunner to Omega Squadron Expert ",
+    "Discord": "illicit #3049",
+    "Drop": "Hyperspace Tracking Data from Captain Cardinal",
+    "Final": {
+        "faction": "firstorder",
+        "name": "Shaun Pretorius JTO",
+        "pilots": [
+            {
+                "id": "holo",
+                "points": 76,
+                "ship": "tiebainterceptor",
+                "upgrades": {
+                    "missile": [
+                        "magpulsewarheads"
+                    ],
+                    "modification": [
+                        "stealthdevice"
+                    ],
+                    "talent": [
+                        "debrisgambit"
+                    ],
+                    "tech": [
+                        "advancedoptics"
+                    ]
+                }
+            },
+            {
+                "id": "captaincardinal",
+                "points": 78,
+                "ship": "upsilonclasscommandshuttle",
+                "upgrades": {
+                    "crew": [
+                        "captainphasma",
+                        "informant",
+                        "freelanceslicer"
+                    ],
+                    "sensor": [
+                        "firecontrolsystem"
+                    ],
+                    "tech": [
+                        "biohexacryptcodes"
+                    ]
+                }
+            },
+            {
+                "id": "omegasquadronexpert",
+                "points": 44,
+                "ship": "tiesffighter",
+                "upgrades": {
+                    "gunner": [
+                        "specialforcesgunner"
+                    ]
+                }
+            }
+        ],
+        "points": 198,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Name": "Shaun",
+    "Option1": {
+        "faction": "scumandvillainy",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "dalanoberos-starviperclassattackplatform",
+                "points": 63,
+                "ship": "starviperclassattackplatform",
+                "upgrades": {
+                    "modification": [
+                        "angleddeflectors"
+                    ],
+                    "sensor": [
+                        "trajectorysimulator"
+                    ]
+                }
+            },
+            {
+                "id": "ndrusuhlak",
+                "points": 30,
+                "ship": "z95af4headhunter",
+                "upgrades": {}
+            },
+            {
+                "id": "freightercaptain",
+                "points": 46,
+                "ship": "customizedyt1300lightfreighter",
+                "upgrades": {}
+            },
+            {
+                "id": "captainnym",
+                "points": 60,
+                "ship": "scurrgh6bomber",
+                "upgrades": {
+                    "astromech": [
+                        "r5tk"
+                    ],
+                    "gunner": [
+                        "bossk"
+                    ],
+                    "title": [
+                        "havoc"
+                    ]
+                }
+            }
+        ],
+        "points": 199,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Option2": {
+        "faction": "firstorder",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "holo",
+                "points": 76,
+                "ship": "tiebainterceptor",
+                "upgrades": {
+                    "missile": [
+                        "magpulsewarheads"
+                    ],
+                    "modification": [
+                        "stealthdevice"
+                    ],
+                    "talent": [
+                        "debrisgambit"
+                    ],
+                    "tech": [
+                        "advancedoptics"
+                    ]
+                }
+            },
+            {
+                "id": "captaincardinal",
+                "points": 88,
+                "ship": "upsilonclasscommandshuttle",
+                "upgrades": {
+                    "crew": [
+                        "captainphasma",
+                        "informant",
+                        "freelanceslicer"
+                    ],
+                    "sensor": [
+                        "firecontrolsystem"
+                    ],
+                    "tech": [
+                        "hyperspacetrackingdata",
+                        "biohexacryptcodes"
+                    ]
+                }
+            },
+            {
+                "id": "omegasquadronexpert",
+                "points": 34,
+                "ship": "tiesffighter",
+                "upgrades": {}
+            }
+        ],
+        "points": 198,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "TTT": "Shaun Pretorius",
+    "VassalForm1": "ILLICIT",
+    "VassalForm2": "ILLICIT"
+}

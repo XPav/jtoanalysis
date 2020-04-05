@@ -1,0 +1,181 @@
+{
+    "Add": "Perceptive Co-pilot to Kyle Katarn",
+    "Discord": "SquisheeBall#4102",
+    "Drop": "Stealth device off Kyle Katarn",
+    "Final": {
+        "faction": "rebelalliance",
+        "name": "Calen Wong JTO",
+        "pilots": [
+            {
+                "id": "kylekatarn",
+                "points": 48,
+                "ship": "hwk290lightfreighter",
+                "upgrades": {
+                    "crew": [
+                        "perceptivecopilot"
+                    ],
+                    "modification": [
+                        "shieldupgrade"
+                    ]
+                }
+            },
+            {
+                "id": "esegetuketu",
+                "points": 63,
+                "ship": "btls8kwing",
+                "upgrades": {
+                    "missile": [
+                        "diamondboronmissiles"
+                    ],
+                    "torpedo": [
+                        "protontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "greensquadronpilot",
+                "points": 32,
+                "ship": "rz1awing",
+                "upgrades": {}
+            },
+            {
+                "id": "ibtisam",
+                "points": 55,
+                "ship": "arc170starfighter",
+                "upgrades": {
+                    "gunner": [
+                        "skilledbombardier"
+                    ],
+                    "talent": [
+                        "composure"
+                    ],
+                    "torpedo": [
+                        "iontorpedoes"
+                    ]
+                }
+            }
+        ],
+        "points": 198,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Name": "Calen Wong",
+    "Option1": {
+        "faction": "rebelalliance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "kylekatarn",
+                "points": 46,
+                "ship": "hwk290lightfreighter",
+                "upgrades": {
+                    "modification": [
+                        "stealthdevice",
+                        "shieldupgrade"
+                    ]
+                }
+            },
+            {
+                "id": "esegetuketu",
+                "points": 63,
+                "ship": "btls8kwing",
+                "upgrades": {
+                    "missile": [
+                        "diamondboronmissiles"
+                    ],
+                    "torpedo": [
+                        "protontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "greensquadronpilot",
+                "points": 32,
+                "ship": "rz1awing",
+                "upgrades": {}
+            },
+            {
+                "id": "ibtisam",
+                "points": 55,
+                "ship": "arc170starfighter",
+                "upgrades": {
+                    "gunner": [
+                        "skilledbombardier"
+                    ],
+                    "talent": [
+                        "composure"
+                    ],
+                    "torpedo": [
+                        "iontorpedoes"
+                    ]
+                }
+            }
+        ],
+        "points": 196,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Option2": {
+        "faction": "scumandvillainy",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "overseeryushyn",
+                "points": 32,
+                "ship": "modifiedtielnfighter",
+                "upgrades": {
+                    "modification": [
+                        "staticdischargevanes"
+                    ]
+                }
+            },
+            {
+                "id": "koshkafrost",
+                "points": 86,
+                "ship": "firesprayclasspatrolcraft",
+                "upgrades": {
+                    "cannon": [
+                        "autoblasters"
+                    ],
+                    "device": [
+                        "ionbombs"
+                    ],
+                    "illicit": [
+                        "cloakingdevice"
+                    ],
+                    "modification": [
+                        "angleddeflectors"
+                    ]
+                }
+            },
+            {
+                "id": "l337-escapecraft",
+                "points": 29,
+                "ship": "escapecraft",
+                "upgrades": {
+                    "talent": [
+                        "intimidation"
+                    ]
+                }
+            },
+            {
+                "id": "autopilotdrone",
+                "points": 12,
+                "ship": "escapecraft",
+                "upgrades": {}
+            },
+            {
+                "id": "palobgodalhi",
+                "points": 40,
+                "ship": "hwk290lightfreighter",
+                "upgrades": {}
+            }
+        ],
+        "points": 199,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "TTT": "Calen Wong ",
+    "VassalForm1": "Squishee",
+    "VassalForm2": "Squishee"
+}

@@ -1,0 +1,169 @@
+{
+    "Add": "Added Latts Razzi to Asajj Ventress",
+    "Discord": "Lannes #9142",
+    "Drop": "Removed Advanced Optics from Constable Zuvio",
+    "Final": {
+        "faction": "scumandvillainy",
+        "name": "Quad Scum JTO",
+        "pilots": [
+            {
+                "id": "asajjventress",
+                "points": 86,
+                "ship": "lancerclasspursuitcraft",
+                "upgrades": {
+                    "crew": [
+                        "lattsrazzi"
+                    ],
+                    "illicit": [
+                        "inertialdampeners",
+                        "contrabandcybernetics"
+                    ],
+                    "title": [
+                        "shadowcaster"
+                    ]
+                }
+            },
+            {
+                "id": "constablezuvio",
+                "points": 39,
+                "ship": "quadrijettransferspacetug",
+                "upgrades": {
+                    "crew": [
+                        "freelanceslicer"
+                    ],
+                    "illicit": [
+                        "feedbackarray"
+                    ]
+                }
+            },
+            {
+                "id": "genesisred",
+                "points": 45,
+                "ship": "m3ainterceptor",
+                "upgrades": {
+                    "missile": [
+                        "concussionmissiles"
+                    ],
+                    "modification": [
+                        "shieldupgrade"
+                    ]
+                }
+            },
+            {
+                "id": "bossk-z95af4headhunter",
+                "points": 29,
+                "ship": "z95af4headhunter",
+                "upgrades": {}
+            }
+        ],
+        "points": 199,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Name": "Chris Borzumato",
+    "Option1": {
+        "faction": "galacticempire",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "coloneljendon",
+                "points": 60,
+                "ship": "lambdaclasst4ashuttle",
+                "upgrades": {
+                    "crew": [
+                        "moffjerjerrod"
+                    ],
+                    "title": [
+                        "st321"
+                    ]
+                }
+            },
+            {
+                "id": "grandinquisitor",
+                "points": 52,
+                "ship": "tieadvancedv1",
+                "upgrades": {}
+            },
+            {
+                "id": "mornakee",
+                "points": 86,
+                "ship": "vt49decimator",
+                "upgrades": {
+                    "crew": [
+                        "freelanceslicer"
+                    ],
+                    "device": [
+                        "proximitymines"
+                    ],
+                    "talent": [
+                        "predator"
+                    ]
+                }
+            }
+        ],
+        "points": 198,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Option2": {
+        "faction": "scumandvillainy",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "asajjventress",
+                "points": 79,
+                "ship": "lancerclasspursuitcraft",
+                "upgrades": {
+                    "illicit": [
+                        "inertialdampeners",
+                        "contrabandcybernetics"
+                    ],
+                    "title": [
+                        "shadowcaster"
+                    ]
+                }
+            },
+            {
+                "id": "constablezuvio",
+                "points": 43,
+                "ship": "quadrijettransferspacetug",
+                "upgrades": {
+                    "crew": [
+                        "freelanceslicer"
+                    ],
+                    "illicit": [
+                        "feedbackarray"
+                    ],
+                    "tech": [
+                        "advancedoptics"
+                    ]
+                }
+            },
+            {
+                "id": "genesisred",
+                "points": 45,
+                "ship": "m3ainterceptor",
+                "upgrades": {
+                    "missile": [
+                        "concussionmissiles"
+                    ],
+                    "modification": [
+                        "shieldupgrade"
+                    ]
+                }
+            },
+            {
+                "id": "bossk-z95af4headhunter",
+                "points": 29,
+                "ship": "z95af4headhunter",
+                "upgrades": {}
+            }
+        ],
+        "points": 196,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "TTT": "Chris Borzumato",
+    "VassalForm1": "Lannes10",
+    "VassalForm2": "Lannes 10"
+}

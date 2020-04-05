@@ -1,0 +1,71 @@
+{
+    "Add": "",
+    "Discord": "eagleblackbelt1",
+    "Drop": "",
+    "Final": {
+        "faction": "scumandvillainy",
+        "obstacles": [
+            "yt2400debris0",
+            "yt2400debris1",
+            "yt2400debris2"
+        ],
+        "pilots": [
+            {
+                "id": "moraloeval",
+                "points": 86,
+                "ship": "yv666lightfreighter",
+                "upgrades": {
+                    "cannon": [
+                        "heavylasercannon"
+                    ],
+                    "crew": [
+                        "bobafett"
+                    ],
+                    "gunner": [
+                        "greedo"
+                    ],
+                    "illicit": [
+                        "inertialdampeners"
+                    ],
+                    "talent": [
+                        "lonewolf"
+                    ],
+                    "title": [
+                        "houndstooth"
+                    ]
+                }
+            },
+            {
+                "id": "guri",
+                "points": 81,
+                "ship": "starviperclassattackplatform",
+                "upgrades": {
+                    "modification": [
+                        "targetingcomputer"
+                    ],
+                    "talent": [
+                        "outmaneuver"
+                    ],
+                    "title": [
+                        "virago"
+                    ]
+                }
+            },
+            {
+                "id": "sarcoplank",
+                "points": 32,
+                "ship": "quadrijettransferspacetug",
+                "upgrades": {}
+            }
+        ],
+        "points": 199,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Name": "Joshua Richardson",
+    "Option1": null,
+    "Option2": null,
+    "TTT": "Joshua Richardson",
+    "VassalForm1": "",
+    "VassalForm2": "eagleblackbelt1"
+}

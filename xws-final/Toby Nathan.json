@@ -1,0 +1,188 @@
+{
+    "Add": "Promity Mines to Zuvio",
+    "Discord": "tobynathan83",
+    "Drop": "Gonk from Zuvio",
+    "Final": {
+        "faction": "scumandvillainy",
+        "name": "Toby Nathan JTO",
+        "obstacles": [
+            "coreasteroid3",
+            "coreasteroid4",
+            "coreasteroid5"
+        ],
+        "pilots": [
+            {
+                "id": "jakkugunrunner",
+                "points": 30,
+                "ship": "quadrijettransferspacetug",
+                "upgrades": {}
+            },
+            {
+                "id": "guri",
+                "points": 85,
+                "ship": "starviperclassattackplatform",
+                "upgrades": {
+                    "modification": [
+                        "angleddeflectors"
+                    ],
+                    "sensor": [
+                        "trajectorysimulator"
+                    ],
+                    "talent": [
+                        "squadleader"
+                    ]
+                }
+            },
+            {
+                "id": "constablezuvio",
+                "points": 39,
+                "ship": "quadrijettransferspacetug",
+                "upgrades": {
+                    "device": [
+                        "proximitymines"
+                    ]
+                }
+            },
+            {
+                "id": "crymorahgoon",
+                "points": 40,
+                "ship": "btla4ywing",
+                "upgrades": {
+                    "gunner": [
+                        "hansolo-gunner"
+                    ]
+                }
+            }
+        ],
+        "points": 194,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Name": "Toby Nathan",
+    "Option1": {
+        "faction": "scumandvillainy",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "jakkugunrunner",
+                "points": 30,
+                "ship": "quadrijettransferspacetug",
+                "upgrades": {}
+            },
+            {
+                "id": "guri",
+                "points": 85,
+                "ship": "starviperclassattackplatform",
+                "upgrades": {
+                    "modification": [
+                        "angleddeflectors"
+                    ],
+                    "sensor": [
+                        "trajectorysimulator"
+                    ],
+                    "talent": [
+                        "squadleader"
+                    ]
+                }
+            },
+            {
+                "id": "constablezuvio",
+                "points": 43,
+                "ship": "quadrijettransferspacetug",
+                "upgrades": {
+                    "crew": [
+                        "gnkgonkdroid"
+                    ]
+                }
+            },
+            {
+                "id": "crymorahgoon",
+                "points": 40,
+                "ship": "btla4ywing",
+                "upgrades": {
+                    "gunner": [
+                        "hansolo-gunner"
+                    ]
+                }
+            }
+        ],
+        "points": 198,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Option2": {
+        "faction": "resistance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "covanell",
+                "points": 78,
+                "ship": "resistancetransport",
+                "upgrades": {
+                    "astromech": [
+                        "bbastromech"
+                    ],
+                    "cannon": [
+                        "ioncannon"
+                    ],
+                    "crew": [
+                        "korrsella",
+                        "novicetechnician"
+                    ],
+                    "talent": [
+                        "intimidation"
+                    ],
+                    "tech": [
+                        "primedthrusters"
+                    ],
+                    "torpedo": [
+                        "plasmatorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "colossusstationmechanic",
+                "points": 29,
+                "ship": "fireball",
+                "upgrades": {
+                    "illicit": [
+                        "coaxiumhyperfuel"
+                    ],
+                    "modification": [
+                        "delayedfuses"
+                    ]
+                }
+            },
+            {
+                "id": "nodinchavdri",
+                "points": 51,
+                "ship": "resistancetransport",
+                "upgrades": {
+                    "crew": [
+                        "seasonednavigator",
+                        "chewbacca-crew-swz19"
+                    ],
+                    "torpedo": [
+                        "advprotontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "bluesquadronrecruit",
+                "points": 37,
+                "ship": "rz2awing",
+                "upgrades": {
+                    "missile": [
+                        "homingmissiles"
+                    ]
+                }
+            }
+        ],
+        "points": 195,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "TTT": "TobyN",
+    "VassalForm1": "Toby Nathan",
+    "VassalForm2": "Toby Nathan"
+}

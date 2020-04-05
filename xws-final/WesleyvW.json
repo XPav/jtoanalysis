@@ -1,0 +1,234 @@
+{
+    "Add": "Pattern Analyzer on Jakku Gunrunner",
+    "Discord": "BoxerlessBossk#6038",
+    "Drop": "Agile Gunner from Kavil",
+    "Final": {
+        "faction": "scumandvillainy",
+        "name": "Wesley van Wensen JTO",
+        "pilots": [
+            {
+                "id": "ndrusuhlak",
+                "points": 40,
+                "ship": "z95af4headhunter",
+                "upgrades": {
+                    "illicit": [
+                        "deadmansswitch"
+                    ],
+                    "missile": [
+                        "ionmissiles"
+                    ],
+                    "modification": [
+                        "delayedfuses"
+                    ],
+                    "talent": [
+                        "swarmtactics"
+                    ]
+                }
+            },
+            {
+                "id": "kavil",
+                "points": 65,
+                "ship": "btla4ywing",
+                "upgrades": {
+                    "astromech": [
+                        "genius"
+                    ],
+                    "illicit": [
+                        "inertialdampeners"
+                    ],
+                    "talent": [
+                        "crackshot"
+                    ],
+                    "torpedo": [
+                        "plasmatorpedoes"
+                    ],
+                    "turret": [
+                        "ioncannonturret"
+                    ]
+                }
+            },
+            {
+                "id": "jakkugunrunner",
+                "points": 38,
+                "ship": "quadrijettransferspacetug",
+                "upgrades": {
+                    "device": [
+                        "seismiccharges"
+                    ],
+                    "tech": [
+                        "patternanalyzer"
+                    ]
+                }
+            },
+            {
+                "id": "blacksunsoldier",
+                "points": 24,
+                "ship": "z95af4headhunter",
+                "upgrades": {}
+            },
+            {
+                "id": "captainseevor",
+                "points": 30,
+                "ship": "modifiedtielnfighter",
+                "upgrades": {}
+            }
+        ],
+        "points": 197,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Name": "Wesley van Wensen",
+    "Option1": {
+        "faction": "scumandvillainy",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "ndrusuhlak",
+                "points": 40,
+                "ship": "z95af4headhunter",
+                "upgrades": {
+                    "illicit": [
+                        "deadmansswitch"
+                    ],
+                    "missile": [
+                        "ionmissiles"
+                    ],
+                    "modification": [
+                        "delayedfuses"
+                    ],
+                    "talent": [
+                        "swarmtactics"
+                    ]
+                }
+            },
+            {
+                "id": "kavil",
+                "points": 73,
+                "ship": "btla4ywing",
+                "upgrades": {
+                    "astromech": [
+                        "genius"
+                    ],
+                    "gunner": [
+                        "agilegunner"
+                    ],
+                    "illicit": [
+                        "inertialdampeners"
+                    ],
+                    "talent": [
+                        "crackshot"
+                    ],
+                    "torpedo": [
+                        "plasmatorpedoes"
+                    ],
+                    "turret": [
+                        "ioncannonturret"
+                    ]
+                }
+            },
+            {
+                "id": "jakkugunrunner",
+                "points": 33,
+                "ship": "quadrijettransferspacetug",
+                "upgrades": {
+                    "device": [
+                        "seismiccharges"
+                    ]
+                }
+            },
+            {
+                "id": "blacksunsoldier",
+                "points": 24,
+                "ship": "z95af4headhunter",
+                "upgrades": {}
+            },
+            {
+                "id": "captainseevor",
+                "points": 30,
+                "ship": "modifiedtielnfighter",
+                "upgrades": {}
+            }
+        ],
+        "points": 200,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Option2": {
+        "faction": "rebelalliance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "ap5",
+                "points": 48,
+                "ship": "sheathipedeclassshuttle",
+                "upgrades": {
+                    "astromech": [
+                        "r5d8"
+                    ],
+                    "crew": [
+                        "novicetechnician"
+                    ],
+                    "modification": [
+                        "afterburners"
+                    ],
+                    "title": [
+                        "phantom"
+                    ]
+                }
+            },
+            {
+                "id": "talasquadronpilot",
+                "points": 30,
+                "ship": "z95af4headhunter",
+                "upgrades": {
+                    "modification": [
+                        "targetingcomputer"
+                    ],
+                    "talent": [
+                        "swarmtactics"
+                    ]
+                }
+            },
+            {
+                "id": "kashyyykdefender",
+                "points": 52,
+                "ship": "auzituckgunship",
+                "upgrades": {
+                    "crew": [
+                        "jynerso",
+                        "informant"
+                    ],
+                    "modification": [
+                        "delayedfuses"
+                    ]
+                }
+            },
+            {
+                "id": "banditsquadronpilot",
+                "points": 27,
+                "ship": "z95af4headhunter",
+                "upgrades": {
+                    "missile": [
+                        "homingmissiles"
+                    ]
+                }
+            },
+            {
+                "id": "ezrabridger-tielnfighter",
+                "points": 39,
+                "ship": "tielnfighter",
+                "upgrades": {
+                    "force-power": [
+                        "supernaturalreflexes"
+                    ]
+                }
+            }
+        ],
+        "points": 196,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "TTT": "Wesley van Wensen",
+    "VassalForm1": "WesleyvW",
+    "VassalForm2": "WesleyvW"
+}

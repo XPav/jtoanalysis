@@ -1,0 +1,162 @@
+{
+    "Add": "Rose Tico on Han",
+    "Discord": "Quack_Shot#0846",
+    "Drop": "Targeting Synchronizer on Zari",
+    "Final": {
+        "faction": "resistance",
+        "name": "Trevor Betts JTO",
+        "pilots": [
+            {
+                "id": "zaribangel",
+                "points": 39,
+                "ship": "rz2awing",
+                "upgrades": {
+                    "missile": [
+                        "ionmissiles"
+                    ]
+                }
+            },
+            {
+                "id": "lulolampar",
+                "points": 43,
+                "ship": "rz2awing",
+                "upgrades": {}
+            },
+            {
+                "id": "pammichnerrogoode",
+                "points": 42,
+                "ship": "resistancetransport",
+                "upgrades": {
+                    "tech": [
+                        "targetingsynchronizer"
+                    ]
+                }
+            },
+            {
+                "id": "hansolo-scavengedyt1300",
+                "points": 76,
+                "ship": "scavengedyt1300",
+                "upgrades": {
+                    "crew": [
+                        "rosetico"
+                    ],
+                    "title": [
+                        "reysmillenniumfalcon"
+                    ]
+                }
+            }
+        ],
+        "points": 200,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Name": "Trevor Betts",
+    "Option1": {
+        "faction": "resistance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "zaribangel",
+                "points": 45,
+                "ship": "rz2awing",
+                "upgrades": {
+                    "missile": [
+                        "ionmissiles"
+                    ],
+                    "tech": [
+                        "targetingsynchronizer"
+                    ]
+                }
+            },
+            {
+                "id": "lulolampar",
+                "points": 43,
+                "ship": "rz2awing",
+                "upgrades": {}
+            },
+            {
+                "id": "pammichnerrogoode",
+                "points": 42,
+                "ship": "resistancetransport",
+                "upgrades": {
+                    "tech": [
+                        "targetingsynchronizer"
+                    ]
+                }
+            },
+            {
+                "id": "hansolo-scavengedyt1300",
+                "points": 67,
+                "ship": "scavengedyt1300",
+                "upgrades": {
+                    "title": [
+                        "reysmillenniumfalcon"
+                    ]
+                }
+            }
+        ],
+        "points": 197,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Option2": {
+        "faction": "galacticrepublic",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "redsquadronbomber",
+                "points": 48,
+                "ship": "btlbywing",
+                "upgrades": {
+                    "astromech": [
+                        "c110p"
+                    ],
+                    "device": [
+                        "protonbombs"
+                    ],
+                    "modification": [
+                        "munitionsfailsafe"
+                    ],
+                    "turret": [
+                        "ioncannonturret"
+                    ]
+                }
+            },
+            {
+                "id": "macewindu",
+                "points": 57,
+                "ship": "delta7aethersprite",
+                "upgrades": {
+                    "astromech": [
+                        "r5astromech"
+                    ],
+                    "force-power": [
+                        "battlemeditation"
+                    ]
+                }
+            },
+            {
+                "id": "jag",
+                "points": 50,
+                "ship": "arc170starfighter",
+                "upgrades": {
+                    "modification": [
+                        "electronicbaffle"
+                    ]
+                }
+            },
+            {
+                "id": "anakinskywalker-nabooroyaln1starfighter",
+                "points": 41,
+                "ship": "nabooroyaln1starfighter",
+                "upgrades": {}
+            }
+        ],
+        "points": 196,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "TTT": "Trevor Betts",
+    "VassalForm1": "Quack_Shot",
+    "VassalForm2": "Quack_Shot"
+}

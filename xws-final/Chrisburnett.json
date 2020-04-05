@@ -1,0 +1,190 @@
+{
+    "Add": "K2s0 onto norra",
+    "Discord": "Kern0wChris#3872",
+    "Drop": "Squad leader from arvel",
+    "Final": {
+        "faction": "rebelalliance",
+        "name": "Chris Burnett JTO",
+        "pilots": [
+            {
+                "id": "norrawexley",
+                "points": 63,
+                "ship": "arc170starfighter",
+                "upgrades": {
+                    "crew": [
+                        "k2so"
+                    ]
+                }
+            },
+            {
+                "id": "lieutenantblount",
+                "points": 37,
+                "ship": "z95af4headhunter",
+                "upgrades": {
+                    "missile": [
+                        "concussionmissiles"
+                    ],
+                    "talent": [
+                        "crackshot"
+                    ]
+                }
+            },
+            {
+                "id": "arvelcrynyd",
+                "points": 34,
+                "ship": "rz1awing",
+                "upgrades": {}
+            },
+            {
+                "id": "rebelscout",
+                "points": 66,
+                "ship": "hwk290lightfreighter",
+                "upgrades": {
+                    "crew": [
+                        "leiaorgana"
+                    ],
+                    "device": [
+                        "protonbombs"
+                    ],
+                    "modification": [
+                        "staticdischargevanes"
+                    ],
+                    "title": [
+                        "moldycrow"
+                    ]
+                }
+            }
+        ],
+        "points": 200,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Name": "Chris Burnett",
+    "Option1": {
+        "faction": "rebelalliance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "rebelscout",
+                "points": 66,
+                "ship": "hwk290lightfreighter",
+                "upgrades": {
+                    "crew": [
+                        "leiaorgana"
+                    ],
+                    "device": [
+                        "protonbombs"
+                    ],
+                    "modification": [
+                        "staticdischargevanes"
+                    ],
+                    "title": [
+                        "moldycrow"
+                    ]
+                }
+            },
+            {
+                "id": "lieutenantblount",
+                "points": 37,
+                "ship": "z95af4headhunter",
+                "upgrades": {
+                    "missile": [
+                        "concussionmissiles"
+                    ],
+                    "talent": [
+                        "crackshot"
+                    ]
+                }
+            },
+            {
+                "id": "arvelcrynyd",
+                "points": 42,
+                "ship": "rz1awing",
+                "upgrades": {
+                    "talent": [
+                        "squadleader"
+                    ]
+                }
+            },
+            {
+                "id": "norrawexley",
+                "points": 55,
+                "ship": "arc170starfighter",
+                "upgrades": {}
+            }
+        ],
+        "points": 200,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Option2": {
+        "faction": "scumandvillainy",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "outerrimpioneer",
+                "points": 35,
+                "ship": "escapecraft",
+                "upgrades": {
+                    "talent": [
+                        "snapshot"
+                    ]
+                }
+            },
+            {
+                "id": "solsixxa",
+                "points": 59,
+                "ship": "scurrgh6bomber",
+                "upgrades": {
+                    "gunner": [
+                        "bossk"
+                    ],
+                    "modification": [
+                        "tacticalscrambler"
+                    ],
+                    "talent": [
+                        "composure"
+                    ]
+                }
+            },
+            {
+                "id": "kaatoleeachos",
+                "points": 32,
+                "ship": "z95af4headhunter",
+                "upgrades": {
+                    "missile": [
+                        "clustermissiles"
+                    ]
+                }
+            },
+            {
+                "id": "landocalrissian-escapecraft",
+                "points": 29,
+                "ship": "escapecraft",
+                "upgrades": {}
+            },
+            {
+                "id": "l337-escapecraft",
+                "points": 29,
+                "ship": "escapecraft",
+                "upgrades": {
+                    "modification": [
+                        "angleddeflectors"
+                    ]
+                }
+            },
+            {
+                "id": "autopilotdrone",
+                "points": 12,
+                "ship": "escapecraft",
+                "upgrades": {}
+            }
+        ],
+        "points": 196,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "TTT": "Chris Burnett",
+    "VassalForm1": "Chrisburnett",
+    "VassalForm2": "Chris Burnett"
+}

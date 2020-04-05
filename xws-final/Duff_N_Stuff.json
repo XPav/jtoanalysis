@@ -1,0 +1,189 @@
+{
+    "Add": "Perceptive Copilot to Esege Tuketu",
+    "Discord": "Kysoldier312 (#6403)",
+    "Drop": "Collision Detector from Corran Horn",
+    "Final": {
+        "faction": "rebelalliance",
+        "name": "Duff_N_Stuff JTO",
+        "obstacles": [
+            "gascloud3",
+            "gascloud4",
+            "gascloud5"
+        ],
+        "pilots": [
+            {
+                "id": "evaanverlaine",
+                "points": 45,
+                "ship": "btla4ywing",
+                "upgrades": {
+                    "gunner": [
+                        "skilledbombardier"
+                    ],
+                    "talent": [
+                        "squadleader"
+                    ]
+                }
+            },
+            {
+                "id": "corranhorn",
+                "points": 66,
+                "ship": "ewing",
+                "upgrades": {}
+            },
+            {
+                "id": "zeborrelios-sheathipedeclassshuttle",
+                "points": 34,
+                "ship": "sheathipedeclassshuttle",
+                "upgrades": {
+                    "title": [
+                        "phantom"
+                    ]
+                }
+            },
+            {
+                "id": "esegetuketu",
+                "points": 52,
+                "ship": "btls8kwing",
+                "upgrades": {
+                    "crew": [
+                        "perceptivecopilot"
+                    ]
+                }
+            }
+        ],
+        "points": 197,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Name": "Neal Duffy",
+    "Option1": {
+        "faction": "rebelalliance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "evaanverlaine",
+                "points": 45,
+                "ship": "btla4ywing",
+                "upgrades": {
+                    "gunner": [
+                        "skilledbombardier"
+                    ],
+                    "talent": [
+                        "squadleader"
+                    ]
+                }
+            },
+            {
+                "id": "corranhorn",
+                "points": 72,
+                "ship": "ewing",
+                "upgrades": {
+                    "sensor": [
+                        "collisiondetector"
+                    ]
+                }
+            },
+            {
+                "id": "zeborrelios-sheathipedeclassshuttle",
+                "points": 34,
+                "ship": "sheathipedeclassshuttle",
+                "upgrades": {
+                    "title": [
+                        "phantom"
+                    ]
+                }
+            },
+            {
+                "id": "esegetuketu",
+                "points": 44,
+                "ship": "btls8kwing",
+                "upgrades": {}
+            }
+        ],
+        "points": 195,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Option2": {
+        "faction": "resistance",
+        "name": "Unsaved Squadron",
+        "pilots": [
+            {
+                "id": "covanell",
+                "points": 74,
+                "ship": "resistancetransport",
+                "upgrades": {
+                    "astromech": [
+                        "r5x3"
+                    ],
+                    "cannon": [
+                        "heavylasercannon"
+                    ],
+                    "crew": [
+                        "c3po-crew"
+                    ],
+                    "modification": [
+                        "angleddeflectors"
+                    ],
+                    "talent": [
+                        "outmaneuver"
+                    ],
+                    "tech": [
+                        "primedthrusters"
+                    ]
+                }
+            },
+            {
+                "id": "kazudaxiono",
+                "points": 54,
+                "ship": "fireball",
+                "upgrades": {
+                    "missile": [
+                        "protonrockets"
+                    ],
+                    "modification": [
+                        "munitionsfailsafe",
+                        "electronicbaffle"
+                    ],
+                    "talent": [
+                        "predator"
+                    ],
+                    "title": [
+                        "kazsfireball"
+                    ]
+                }
+            },
+            {
+                "id": "blacksquadronace-t70xwing",
+                "points": 67,
+                "ship": "t70xwing",
+                "upgrades": {
+                    "astromech": [
+                        "m9g8"
+                    ],
+                    "cannon": [
+                        "tractorbeam"
+                    ],
+                    "configuration": [
+                        "integratedsfoils"
+                    ],
+                    "modification": [
+                        "staticdischargevanes"
+                    ],
+                    "talent": [
+                        "daredevil"
+                    ],
+                    "title": [
+                        "blackone"
+                    ]
+                }
+            }
+        ],
+        "points": 195,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "TTT": "Neal Duffy",
+    "VassalForm1": "Duff_N_Stuff",
+    "VassalForm2": "Duff_N_Stuff"
+}

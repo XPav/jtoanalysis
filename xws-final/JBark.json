@@ -1,0 +1,153 @@
+{
+    "Add": "Maul (crew) to Zuckuss (G-1A Starfighter)",
+    "Discord": "Joe B#7837",
+    "Drop": "Snapshot from Foreman Proach",
+    "Final": {
+        "faction": "scumandvillainy",
+        "name": "JBark - Jank Tourney",
+        "pilots": [
+            {
+                "id": "foremanproach",
+                "points": 32,
+                "ship": "modifiedtielnfighter",
+                "upgrades": {}
+            },
+            {
+                "id": "zuckuss",
+                "points": 59,
+                "ship": "g1astarfighter",
+                "upgrades": {
+                    "crew": [
+                        "maul"
+                    ],
+                    "modification": [
+                        "tacticalscrambler"
+                    ]
+                }
+            },
+            {
+                "id": "ahhav",
+                "points": 30,
+                "ship": "modifiedtielnfighter",
+                "upgrades": {}
+            },
+            {
+                "id": "blacksunsoldier",
+                "points": 24,
+                "ship": "z95af4headhunter",
+                "upgrades": {}
+            },
+            {
+                "id": "landocalrissian",
+                "points": 55,
+                "ship": "customizedyt1300lightfreighter",
+                "upgrades": {
+                    "missile": [
+                        "magpulsewarheads"
+                    ]
+                }
+            }
+        ],
+        "points": 200,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Name": "Joe Barkovich",
+    "Option1": {
+        "faction": "scumandvillainy",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "foremanproach",
+                "points": 39,
+                "ship": "modifiedtielnfighter",
+                "upgrades": {
+                    "talent": [
+                        "snapshot"
+                    ]
+                }
+            },
+            {
+                "id": "zuckuss",
+                "points": 47,
+                "ship": "g1astarfighter",
+                "upgrades": {
+                    "modification": [
+                        "tacticalscrambler"
+                    ]
+                }
+            },
+            {
+                "id": "ahhav",
+                "points": 30,
+                "ship": "modifiedtielnfighter",
+                "upgrades": {}
+            },
+            {
+                "id": "blacksunsoldier",
+                "points": 24,
+                "ship": "z95af4headhunter",
+                "upgrades": {}
+            },
+            {
+                "id": "landocalrissian",
+                "points": 55,
+                "ship": "customizedyt1300lightfreighter",
+                "upgrades": {
+                    "missile": [
+                        "magpulsewarheads"
+                    ]
+                }
+            }
+        ],
+        "points": 195,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Option2": {
+        "faction": "galacticempire",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "mornakee",
+                "points": 89,
+                "ship": "vt49decimator",
+                "upgrades": {
+                    "crew": [
+                        "moffjerjerrod"
+                    ],
+                    "modification": [
+                        "staticdischargevanes"
+                    ]
+                }
+            },
+            {
+                "id": "majorvynder",
+                "points": 43,
+                "ship": "alphaclassstarwing",
+                "upgrades": {
+                    "talent": [
+                        "predator"
+                    ]
+                }
+            },
+            {
+                "id": "redline",
+                "points": 63,
+                "ship": "tiecapunisher",
+                "upgrades": {
+                    "device": [
+                        "proximitymines",
+                        "protonbombs"
+                    ]
+                }
+            }
+        ],
+        "points": 195,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "TTT": "JBark",
+    "VassalForm1": "JBark",
+    "VassalForm2": "JBark"
+}

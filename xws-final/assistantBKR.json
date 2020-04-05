@@ -1,0 +1,181 @@
+{
+    "Add": "Cluster missiles on YT-1300.  Front arc dice = 270 degrees of gudnis.",
+    "Discord": "assistantBKR (#5451)",
+    "Drop": "Ablative plating from the YV-666.  No bombs, I better not hit rocks.",
+    "Final": {
+        "faction": "scumandvillainy",
+        "name": "Be- Pr- JTO",
+        "obstacles": [
+            "gascloud3",
+            "gascloud4",
+            "gascloud6"
+        ],
+        "pilots": [
+            {
+                "id": "4lom",
+                "points": 55,
+                "ship": "g1astarfighter",
+                "upgrades": {
+                    "crew": [
+                        "zuckuss"
+                    ],
+                    "modification": [
+                        "stealthdevice"
+                    ]
+                }
+            },
+            {
+                "id": "l337",
+                "points": 65,
+                "ship": "customizedyt1300lightfreighter",
+                "upgrades": {
+                    "crew": [
+                        "chewbacca-crew",
+                        "novicetechnician"
+                    ],
+                    "illicit": [
+                        "contrabandcybernetics"
+                    ],
+                    "missile": [
+                        "clustermissiles"
+                    ],
+                    "title": [
+                        "landosmillenniumfalcon"
+                    ]
+                }
+            },
+            {
+                "id": "moraloeval",
+                "points": 76,
+                "ship": "yv666lightfreighter",
+                "upgrades": {
+                    "cannon": [
+                        "autoblasters"
+                    ],
+                    "crew": [
+                        "jabbathehutt"
+                    ],
+                    "talent": [
+                        "composure"
+                    ]
+                }
+            }
+        ],
+        "points": 196,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Name": "Be- Pr-",
+    "Option1": {
+        "faction": "scumandvillainy",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "4lom",
+                "points": 55,
+                "ship": "g1astarfighter",
+                "upgrades": {
+                    "crew": [
+                        "zuckuss"
+                    ],
+                    "modification": [
+                        "stealthdevice"
+                    ]
+                }
+            },
+            {
+                "id": "l337",
+                "points": 60,
+                "ship": "customizedyt1300lightfreighter",
+                "upgrades": {
+                    "crew": [
+                        "chewbacca-crew",
+                        "novicetechnician"
+                    ],
+                    "illicit": [
+                        "contrabandcybernetics"
+                    ],
+                    "title": [
+                        "landosmillenniumfalcon"
+                    ]
+                }
+            },
+            {
+                "id": "moraloeval",
+                "points": 82,
+                "ship": "yv666lightfreighter",
+                "upgrades": {
+                    "cannon": [
+                        "autoblasters"
+                    ],
+                    "crew": [
+                        "jabbathehutt"
+                    ],
+                    "modification": [
+                        "ablativeplating"
+                    ],
+                    "talent": [
+                        "composure"
+                    ]
+                }
+            }
+        ],
+        "points": 197,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Option2": {
+        "faction": "rebelalliance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "roarkgarnet",
+                "points": 72,
+                "ship": "hwk290lightfreighter",
+                "upgrades": {
+                    "device": [
+                        "connernets"
+                    ],
+                    "modification": [
+                        "engineupgrade",
+                        "delayedfuses"
+                    ],
+                    "talent": [
+                        "snapshot"
+                    ],
+                    "title": [
+                        "moldycrow"
+                    ]
+                }
+            },
+            {
+                "id": "kananjarrus",
+                "points": 97,
+                "ship": "vcx100lightfreighter",
+                "upgrades": {
+                    "force-power": [
+                        "predictiveshot"
+                    ],
+                    "torpedo": [
+                        "protontorpedoes"
+                    ],
+                    "turret": [
+                        "dorsalturret"
+                    ]
+                }
+            },
+            {
+                "id": "phoenixsquadronpilot",
+                "points": 29,
+                "ship": "rz1awing",
+                "upgrades": {}
+            }
+        ],
+        "points": 198,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "TTT": "Assistant Beaker",
+    "VassalForm1": "assistantBKR",
+    "VassalForm2": "assistantBKR"
+}

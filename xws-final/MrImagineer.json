@@ -1,0 +1,200 @@
+{
+    "Add": "Special Forces Gunner to Quickdraw",
+    "Discord": "ImagineeringMan \"Skipper Steve\"#2753",
+    "Drop": "Advanced sensors from Zeta Squadron Survivor",
+    "Final": {
+        "faction": "firstorder",
+        "name": "Stephen Downs JTO",
+        "pilots": [
+            {
+                "id": "zetasquadronsurvivor",
+                "points": 47,
+                "ship": "tiesffighter",
+                "upgrades": {
+                    "gunner": [
+                        "specialforcesgunner"
+                    ],
+                    "missile": [
+                        "homingmissiles"
+                    ]
+                }
+            },
+            {
+                "id": "quickdraw",
+                "points": 55,
+                "ship": "tiesffighter",
+                "upgrades": {
+                    "gunner": [
+                        "specialforcesgunner"
+                    ]
+                }
+            },
+            {
+                "id": "zetasquadronsurvivor",
+                "points": 35,
+                "ship": "tiesffighter",
+                "upgrades": {
+                    "modification": [
+                        "munitionsfailsafe"
+                    ],
+                    "sensor": [
+                        "firecontrolsystem"
+                    ]
+                }
+            },
+            {
+                "id": "muse",
+                "points": 35,
+                "ship": "tiefofighter",
+                "upgrades": {
+                    "talent": [
+                        "crackshot"
+                    ],
+                    "tech": [
+                        "advancedoptics"
+                    ]
+                }
+            },
+            {
+                "id": "omegasquadronace",
+                "points": 28,
+                "ship": "tiefofighter",
+                "upgrades": {}
+            }
+        ],
+        "points": 200,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Name": "Stephen Downs",
+    "Option1": {
+        "faction": "firstorder",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "zetasquadronsurvivor",
+                "points": 57,
+                "ship": "tiesffighter",
+                "upgrades": {
+                    "gunner": [
+                        "specialforcesgunner"
+                    ],
+                    "missile": [
+                        "homingmissiles"
+                    ],
+                    "sensor": [
+                        "advancedsensors"
+                    ]
+                }
+            },
+            {
+                "id": "quickdraw",
+                "points": 45,
+                "ship": "tiesffighter",
+                "upgrades": {}
+            },
+            {
+                "id": "zetasquadronsurvivor",
+                "points": 35,
+                "ship": "tiesffighter",
+                "upgrades": {
+                    "modification": [
+                        "munitionsfailsafe"
+                    ],
+                    "sensor": [
+                        "firecontrolsystem"
+                    ]
+                }
+            },
+            {
+                "id": "muse",
+                "points": 35,
+                "ship": "tiefofighter",
+                "upgrades": {
+                    "talent": [
+                        "crackshot"
+                    ],
+                    "tech": [
+                        "advancedoptics"
+                    ]
+                }
+            },
+            {
+                "id": "omegasquadronace",
+                "points": 28,
+                "ship": "tiefofighter",
+                "upgrades": {}
+            }
+        ],
+        "points": 200,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Option2": {
+        "faction": "separatistalliance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "dfs081",
+                "points": 27,
+                "ship": "vultureclassdroidfighter",
+                "upgrades": {
+                    "configuration": [
+                        "grapplingstruts"
+                    ]
+                }
+            },
+            {
+                "id": "baktoidprototype",
+                "points": 35,
+                "ship": "hyenaclassdroidbomber",
+                "upgrades": {
+                    "configuration": [
+                        "landingstruts"
+                    ],
+                    "missile": [
+                        "magpulsewarheads"
+                    ]
+                }
+            },
+            {
+                "id": "countdooku",
+                "points": 73,
+                "ship": "sithinfiltrator",
+                "upgrades": {
+                    "cannon": [
+                        "jammingbeam"
+                    ],
+                    "device": [
+                        "connernets"
+                    ],
+                    "title": [
+                        "scimitar"
+                    ]
+                }
+            },
+            {
+                "id": "separatistbomber",
+                "points": 34,
+                "ship": "hyenaclassdroidbomber",
+                "upgrades": {
+                    "modification": [
+                        "staticdischargevanes"
+                    ]
+                }
+            },
+            {
+                "id": "separatistbomber",
+                "points": 28,
+                "ship": "hyenaclassdroidbomber",
+                "upgrades": {}
+            }
+        ],
+        "points": 197,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "TTT": "Stephen Downs",
+    "VassalForm1": "MrImagineer",
+    "VassalForm2": "MrImagineer"
+}

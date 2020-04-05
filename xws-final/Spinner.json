@@ -1,0 +1,164 @@
+{
+    "Add": "Leia Organa to Benthic",
+    "Discord": "Spinner#3228",
+    "Drop": "Proton Rockets from Blount",
+    "Final": {
+        "faction": "rebelalliance",
+        "name": "Mike Spin JTO",
+        "obstacles": [
+            "gascloud1",
+            "gascloud2",
+            "gascloud3"
+        ],
+        "pilots": [
+            {
+                "id": "lieutenantblount",
+                "points": 33,
+                "ship": "z95af4headhunter",
+                "upgrades": {
+                    "talent": [
+                        "intimidation"
+                    ]
+                }
+            },
+            {
+                "id": "corranhorn",
+                "points": 75,
+                "ship": "ewing",
+                "upgrades": {
+                    "astromech": [
+                        "r2astromech"
+                    ]
+                }
+            },
+            {
+                "id": "benthictwotubes",
+                "points": 53,
+                "ship": "ut60duwing",
+                "upgrades": {
+                    "configuration": [
+                        "pivotwing"
+                    ],
+                    "crew": [
+                        "leiaorgana"
+                    ]
+                }
+            },
+            {
+                "id": "airencracken",
+                "points": 36,
+                "ship": "z95af4headhunter",
+                "upgrades": {}
+            }
+        ],
+        "points": 197,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Name": "Michael Spin",
+    "Option1": {
+        "faction": "rebelalliance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "lieutenantblount",
+                "points": 40,
+                "ship": "z95af4headhunter",
+                "upgrades": {
+                    "missile": [
+                        "protonrockets"
+                    ],
+                    "talent": [
+                        "intimidation"
+                    ]
+                }
+            },
+            {
+                "id": "corranhorn",
+                "points": 75,
+                "ship": "ewing",
+                "upgrades": {
+                    "astromech": [
+                        "r2astromech"
+                    ]
+                }
+            },
+            {
+                "id": "benthictwotubes",
+                "points": 46,
+                "ship": "ut60duwing",
+                "upgrades": {
+                    "configuration": [
+                        "pivotwing"
+                    ]
+                }
+            },
+            {
+                "id": "airencracken",
+                "points": 36,
+                "ship": "z95af4headhunter",
+                "upgrades": {}
+            }
+        ],
+        "points": 197,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Option2": {
+        "faction": "galacticempire",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "fifthbrother",
+                "points": 56,
+                "ship": "tieadvancedv1",
+                "upgrades": {
+                    "force-power": [
+                        "precognitivereflexes"
+                    ],
+                    "missile": [
+                        "protonrockets"
+                    ]
+                }
+            },
+            {
+                "id": "majorvynder",
+                "points": 59,
+                "ship": "alphaclassstarwing",
+                "upgrades": {
+                    "missile": [
+                        "ionmissiles"
+                    ],
+                    "talent": [
+                        "saturationsalvo"
+                    ],
+                    "torpedo": [
+                        "plasmatorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "doubleedge",
+                "points": 37,
+                "ship": "tieagaggressor",
+                "upgrades": {
+                    "gunner": [
+                        "agilegunner"
+                    ]
+                }
+            },
+            {
+                "id": "imdaartestpilot",
+                "points": 43,
+                "ship": "tiephphantom",
+                "upgrades": {}
+            }
+        ],
+        "points": 195,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "TTT": "Mike Spin",
+    "VassalForm1": "Spinner",
+    "VassalForm2": "Michael Spin"
+}

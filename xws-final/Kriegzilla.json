@@ -1,0 +1,185 @@
+{
+    "Add": "Discord Missiles to Separatist Drone",
+    "Discord": "Kriegzilla#6356",
+    "Drop": "Electronic Baffle from Separatist Drone",
+    "Final": {
+        "faction": "separatistalliance",
+        "name": "Ian Campbell JTO",
+        "pilots": [
+            {
+                "id": "skakoanace",
+                "points": 60,
+                "ship": "belbullab22starfighter",
+                "upgrades": {
+                    "tacticalrelay": [
+                        "kraken"
+                    ],
+                    "talent": [
+                        "outmaneuver"
+                    ],
+                    "title": [
+                        "soullessone"
+                    ]
+                }
+            },
+            {
+                "id": "separatistdrone",
+                "points": 25,
+                "ship": "vultureclassdroidfighter",
+                "upgrades": {
+                    "missile": [
+                        "discordmissiles"
+                    ]
+                }
+            },
+            {
+                "id": "066",
+                "points": 78,
+                "ship": "sithinfiltrator",
+                "upgrades": {
+                    "cannon": [
+                        "heavylasercannon"
+                    ],
+                    "crew": [
+                        "seasonednavigator"
+                    ],
+                    "title": [
+                        "scimitar"
+                    ],
+                    "torpedo": [
+                        "protontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "dbs404",
+                "points": 36,
+                "ship": "hyenaclassdroidbomber",
+                "upgrades": {
+                    "device": [
+                        "proximitymines"
+                    ]
+                }
+            }
+        ],
+        "points": 199,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Name": "Ian Campbell",
+    "Option1": {
+        "faction": "galacticempire",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "tempestsquadronpilot",
+                "points": 49,
+                "ship": "tieadvancedx1",
+                "upgrades": {
+                    "missile": [
+                        "protonrockets"
+                    ],
+                    "sensor": [
+                        "trajectorysimulator"
+                    ]
+                }
+            },
+            {
+                "id": "vizier",
+                "points": 61,
+                "ship": "tiereaper",
+                "upgrades": {
+                    "crew": [
+                        "grandinquisitor"
+                    ],
+                    "modification": [
+                        "targetingcomputer"
+                    ]
+                }
+            },
+            {
+                "id": "rexlerbrath",
+                "points": 90,
+                "ship": "tieddefender",
+                "upgrades": {
+                    "missile": [
+                        "homingmissiles"
+                    ],
+                    "talent": [
+                        "trickshot"
+                    ]
+                }
+            }
+        ],
+        "points": 200,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Option2": {
+        "faction": "separatistalliance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "skakoanace",
+                "points": 60,
+                "ship": "belbullab22starfighter",
+                "upgrades": {
+                    "tacticalrelay": [
+                        "kraken"
+                    ],
+                    "talent": [
+                        "outmaneuver"
+                    ],
+                    "title": [
+                        "soullessone"
+                    ]
+                }
+            },
+            {
+                "id": "separatistdrone",
+                "points": 23,
+                "ship": "vultureclassdroidfighter",
+                "upgrades": {
+                    "modification": [
+                        "electronicbaffle"
+                    ]
+                }
+            },
+            {
+                "id": "066",
+                "points": 78,
+                "ship": "sithinfiltrator",
+                "upgrades": {
+                    "cannon": [
+                        "heavylasercannon"
+                    ],
+                    "crew": [
+                        "seasonednavigator"
+                    ],
+                    "title": [
+                        "scimitar"
+                    ],
+                    "torpedo": [
+                        "protontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "dbs404",
+                "points": 36,
+                "ship": "hyenaclassdroidbomber",
+                "upgrades": {
+                    "device": [
+                        "proximitymines"
+                    ]
+                }
+            }
+        ],
+        "points": 197,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "TTT": "Ian Campbell",
+    "VassalForm1": "Kriegzilla",
+    "VassalForm2": "Kriegzilla"
+}

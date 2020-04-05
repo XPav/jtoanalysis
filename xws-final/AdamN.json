@@ -1,0 +1,161 @@
+{
+    "Add": "Calibrated Laser Targeting to Obi-Wan Kenobi",
+    "Discord": "MrMountie#5916",
+    "Drop": "Outmaneuver from Squad Seven Veteran",
+    "Final": {
+        "faction": "galacticrepublic",
+        "name": "Adam Nordquist JTO",
+        "pilots": [
+            {
+                "id": "sinker",
+                "points": 75,
+                "ship": "arc170starfighter",
+                "upgrades": {
+                    "gunner": [
+                        "clonecommandercody"
+                    ],
+                    "modification": [
+                        "shieldupgrade"
+                    ],
+                    "torpedo": [
+                        "protontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "squadsevenveteran",
+                "points": 59,
+                "ship": "arc170starfighter",
+                "upgrades": {
+                    "modification": [
+                        "tacticalscrambler"
+                    ],
+                    "torpedo": [
+                        "protontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "obiwankenobi",
+                "points": 61,
+                "ship": "delta7aethersprite",
+                "upgrades": {
+                    "astromech": [
+                        "r2astromech"
+                    ],
+                    "configuration": [
+                        "calibratedlasertargeting"
+                    ]
+                }
+            }
+        ],
+        "points": 195,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Name": "Adam Nordquist",
+    "Option1": {
+        "faction": "scumandvillainy",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "laetinashera",
+                "points": 36,
+                "ship": "m3ainterceptor",
+                "upgrades": {
+                    "torpedo": [
+                        "iontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "kavil",
+                "points": 52,
+                "ship": "btla4ywing",
+                "upgrades": {
+                    "illicit": [
+                        "cloakingdevice"
+                    ],
+                    "turret": [
+                        "ioncannonturret"
+                    ]
+                }
+            },
+            {
+                "id": "l337-escapecraft",
+                "points": 26,
+                "ship": "escapecraft",
+                "upgrades": {}
+            },
+            {
+                "id": "bossk-z95af4headhunter",
+                "points": 29,
+                "ship": "z95af4headhunter",
+                "upgrades": {}
+            },
+            {
+                "id": "princexizor",
+                "points": 54,
+                "ship": "starviperclassattackplatform",
+                "upgrades": {}
+            }
+        ],
+        "points": 197,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Option2": {
+        "faction": "galacticrepublic",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "sinker",
+                "points": 75,
+                "ship": "arc170starfighter",
+                "upgrades": {
+                    "gunner": [
+                        "clonecommandercody"
+                    ],
+                    "modification": [
+                        "shieldupgrade"
+                    ],
+                    "torpedo": [
+                        "protontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "squadsevenveteran",
+                "points": 65,
+                "ship": "arc170starfighter",
+                "upgrades": {
+                    "modification": [
+                        "tacticalscrambler"
+                    ],
+                    "talent": [
+                        "outmaneuver"
+                    ],
+                    "torpedo": [
+                        "protontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "obiwankenobi",
+                "points": 57,
+                "ship": "delta7aethersprite",
+                "upgrades": {
+                    "astromech": [
+                        "r2astromech"
+                    ]
+                }
+            }
+        ],
+        "points": 197,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "TTT": "Adam Nordquist",
+    "VassalForm1": "AdamN",
+    "VassalForm2": "AdamN"
+}

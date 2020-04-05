@@ -1,0 +1,153 @@
+{
+    "Add": "Afterburners to Talonbane",
+    "Discord": "wpearce17#9638",
+    "Drop": "Agile gunner from Lok Revenant",
+    "Final": {
+        "faction": "scumandvillainy",
+        "name": "Will Pearce JTO",
+        "pilots": [
+            {
+                "id": "talonbanecobra",
+                "points": 63,
+                "ship": "kihraxzfighter",
+                "upgrades": {
+                    "missile": [
+                        "magpulsewarheads"
+                    ],
+                    "modification": [
+                        "munitionsfailsafe",
+                        "afterburners"
+                    ]
+                }
+            },
+            {
+                "id": "krassistrelix",
+                "points": 90,
+                "ship": "firesprayclasspatrolcraft",
+                "upgrades": {
+                    "crew": [
+                        "maul"
+                    ],
+                    "device": [
+                        "connernets"
+                    ],
+                    "missile": [
+                        "protonrockets"
+                    ]
+                }
+            },
+            {
+                "id": "lokrevenant",
+                "points": 45,
+                "ship": "scurrgh6bomber",
+                "upgrades": {}
+            }
+        ],
+        "points": 198,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Name": "Will Pearce",
+    "Option1": {
+        "faction": "resistance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "greersonnel",
+                "points": 52,
+                "ship": "rz2awing",
+                "upgrades": {
+                    "missile": [
+                        "magpulsewarheads"
+                    ],
+                    "talent": [
+                        "squadleader"
+                    ]
+                }
+            },
+            {
+                "id": "jophseastriker",
+                "points": 52,
+                "ship": "t70xwing",
+                "upgrades": {
+                    "configuration": [
+                        "integratedsfoils"
+                    ],
+                    "modification": [
+                        "munitionsfailsafe"
+                    ]
+                }
+            },
+            {
+                "id": "bb8",
+                "points": 29,
+                "ship": "resistancetransportpod",
+                "upgrades": {
+                    "crew": [
+                        "freelanceslicer"
+                    ]
+                }
+            },
+            {
+                "id": "hansolo-scavengedyt1300",
+                "points": 65,
+                "ship": "scavengedyt1300",
+                "upgrades": {}
+            }
+        ],
+        "points": 198,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Option2": {
+        "faction": "scumandvillainy",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "talonbanecobra",
+                "points": 57,
+                "ship": "kihraxzfighter",
+                "upgrades": {
+                    "missile": [
+                        "magpulsewarheads"
+                    ],
+                    "modification": [
+                        "munitionsfailsafe"
+                    ]
+                }
+            },
+            {
+                "id": "krassistrelix",
+                "points": 90,
+                "ship": "firesprayclasspatrolcraft",
+                "upgrades": {
+                    "crew": [
+                        "maul"
+                    ],
+                    "device": [
+                        "connernets"
+                    ],
+                    "missile": [
+                        "protonrockets"
+                    ]
+                }
+            },
+            {
+                "id": "lokrevenant",
+                "points": 53,
+                "ship": "scurrgh6bomber",
+                "upgrades": {
+                    "gunner": [
+                        "agilegunner"
+                    ]
+                }
+            }
+        ],
+        "points": 200,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "TTT": "Will Pearce",
+    "VassalForm1": "wpearce17",
+    "VassalForm2": "Will CRNA"
+}

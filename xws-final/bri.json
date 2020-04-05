@@ -1,0 +1,64 @@
+{
+    "Add": "",
+    "Discord": "Swede",
+    "Drop": "",
+    "Final": {
+        "faction": "rebelalliance",
+        "name": "Brian Walling JTO",
+        "obstacles": [
+            "coreasteroid5",
+            "core2asteroid4",
+            "core2asteroid5"
+        ],
+        "pilots": [
+            {
+                "id": "wardensquadronpilot",
+                "points": 60,
+                "ship": "btls8kwing",
+                "upgrades": {
+                    "device": [
+                        "seismiccharges",
+                        "protonbombs"
+                    ],
+                    "missile": [
+                        "barragerockets"
+                    ],
+                    "torpedo": [
+                        "iontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "outerrimsmuggler",
+                "points": 75,
+                "ship": "modifiedyt1300lightfreighter",
+                "upgrades": {
+                    "crew": [
+                        "magvayarro"
+                    ]
+                }
+            },
+            {
+                "id": "phoenixsquadronpilot",
+                "points": 29,
+                "ship": "rz1awing",
+                "upgrades": {}
+            },
+            {
+                "id": "airencracken",
+                "points": 36,
+                "ship": "z95af4headhunter",
+                "upgrades": {}
+            }
+        ],
+        "points": 200,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Name": "Brian Walling",
+    "Option1": null,
+    "Option2": null,
+    "TTT": "Brian Walling",
+    "VassalForm1": "",
+    "VassalForm2": "bri"
+}

@@ -1,0 +1,164 @@
+{
+    "Add": "R2D2 Crew to Han Solo",
+    "Discord": "Snake#0625",
+    "Drop": "Juke from Blade Squadren Veteran ",
+    "Final": {
+        "faction": "rebelalliance",
+        "name": "Christian Bonet JTO",
+        "obstacles": [
+            "coreasteroid5",
+            "core2asteroid4",
+            "core2asteroid5"
+        ],
+        "pilots": [
+            {
+                "id": "fennrau-sheathipedeclassshuttle",
+                "points": 64,
+                "ship": "sheathipedeclassshuttle",
+                "upgrades": {
+                    "astromech": [
+                        "r4astromech"
+                    ],
+                    "modification": [
+                        "hullupgrade"
+                    ],
+                    "talent": [
+                        "snapshot"
+                    ],
+                    "title": [
+                        "phantom"
+                    ]
+                }
+            },
+            {
+                "id": "hansolo-modifiedyt1300lightfreighter",
+                "points": 90,
+                "ship": "modifiedyt1300lightfreighter",
+                "upgrades": {
+                    "crew": [
+                        "r2d2-crew"
+                    ]
+                }
+            },
+            {
+                "id": "bladesquadronveteran",
+                "points": 45,
+                "ship": "asf01bwing",
+                "upgrades": {
+                    "cannon": [
+                        "autoblasters"
+                    ]
+                }
+            }
+        ],
+        "points": 199,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Name": "Christian Bonet",
+    "Option1": {
+        "faction": "resistance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "cat",
+                "points": 54,
+                "ship": "mg100starfortress",
+                "upgrades": {}
+            },
+            {
+                "id": "pammichnerrogoode",
+                "points": 63,
+                "ship": "resistancetransport",
+                "upgrades": {
+                    "cannon": [
+                        "jammingbeam"
+                    ],
+                    "crew": [
+                        "gnkgonkdroid",
+                        "kaydelconnix"
+                    ],
+                    "tech": [
+                        "targetingsynchronizer"
+                    ],
+                    "torpedo": [
+                        "advprotontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "finn",
+                "points": 34,
+                "ship": "resistancetransportpod",
+                "upgrades": {
+                    "tech": [
+                        "patternanalyzer"
+                    ]
+                }
+            },
+            {
+                "id": "lulolampar",
+                "points": 48,
+                "ship": "rz2awing",
+                "upgrades": {
+                    "talent": [
+                        "lonewolf"
+                    ]
+                }
+            }
+        ],
+        "points": 199,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Option2": {
+        "faction": "rebelalliance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "fennrau-sheathipedeclassshuttle",
+                "points": 64,
+                "ship": "sheathipedeclassshuttle",
+                "upgrades": {
+                    "astromech": [
+                        "r4astromech"
+                    ],
+                    "modification": [
+                        "hullupgrade"
+                    ],
+                    "talent": [
+                        "snapshot"
+                    ],
+                    "title": [
+                        "phantom"
+                    ]
+                }
+            },
+            {
+                "id": "hansolo-modifiedyt1300lightfreighter",
+                "points": 80,
+                "ship": "modifiedyt1300lightfreighter",
+                "upgrades": {}
+            },
+            {
+                "id": "bladesquadronveteran",
+                "points": 52,
+                "ship": "asf01bwing",
+                "upgrades": {
+                    "cannon": [
+                        "autoblasters"
+                    ],
+                    "talent": [
+                        "juke"
+                    ]
+                }
+            }
+        ],
+        "points": 196,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "TTT": "Christian Bonet",
+    "VassalForm1": "CB",
+    "VassalForm2": "CB"
+}

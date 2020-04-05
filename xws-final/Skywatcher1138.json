@@ -1,0 +1,188 @@
+{
+    "Add": "Maul onto Sabine Wren",
+    "Discord": "Alfred_S#1919",
+    "Drop": "Latts Razzi removed from Sabine Wren",
+    "Final": {
+        "faction": "scumandvillainy",
+        "name": "Alfred Schnabel JTO",
+        "obstacles": [
+            "vt49decimatordebris1",
+            "vt49decimatordebris2",
+            "core2asteroid2"
+        ],
+        "pilots": [
+            {
+                "id": "freightercaptain",
+                "points": 65,
+                "ship": "customizedyt1300lightfreighter",
+                "upgrades": {
+                    "crew": [
+                        "l337",
+                        "bobafett"
+                    ],
+                    "missile": [
+                        "concussionmissiles"
+                    ],
+                    "modification": [
+                        "tacticalscrambler"
+                    ],
+                    "title": [
+                        "landosmillenniumfalcon"
+                    ]
+                }
+            },
+            {
+                "id": "sabinewren-lancerclasspursuitcraft",
+                "points": 76,
+                "ship": "lancerclasspursuitcraft",
+                "upgrades": {
+                    "crew": [
+                        "maul"
+                    ],
+                    "modification": [
+                        "munitionsfailsafe"
+                    ],
+                    "talent": [
+                        "predator"
+                    ]
+                }
+            },
+            {
+                "id": "teltrevura",
+                "points": 59,
+                "ship": "jumpmaster5000",
+                "upgrades": {
+                    "talent": [
+                        "squadleader"
+                    ],
+                    "title": [
+                        "punishingone"
+                    ]
+                }
+            }
+        ],
+        "points": 200,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Name": "Alfred Schnabel",
+    "Option1": {
+        "faction": "scumandvillainy",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "freightercaptain",
+                "points": 65,
+                "ship": "customizedyt1300lightfreighter",
+                "upgrades": {
+                    "crew": [
+                        "l337",
+                        "bobafett"
+                    ],
+                    "missile": [
+                        "concussionmissiles"
+                    ],
+                    "modification": [
+                        "tacticalscrambler"
+                    ],
+                    "title": [
+                        "landosmillenniumfalcon"
+                    ]
+                }
+            },
+            {
+                "id": "sabinewren-lancerclasspursuitcraft",
+                "points": 71,
+                "ship": "lancerclasspursuitcraft",
+                "upgrades": {
+                    "crew": [
+                        "lattsrazzi"
+                    ],
+                    "modification": [
+                        "munitionsfailsafe"
+                    ],
+                    "talent": [
+                        "predator"
+                    ]
+                }
+            },
+            {
+                "id": "teltrevura",
+                "points": 59,
+                "ship": "jumpmaster5000",
+                "upgrades": {
+                    "talent": [
+                        "squadleader"
+                    ],
+                    "title": [
+                        "punishingone"
+                    ]
+                }
+            }
+        ],
+        "points": 195,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Option2": {
+        "faction": "rebelalliance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "herasyndulla",
+                "points": 43,
+                "ship": "attackshuttle",
+                "upgrades": {
+                    "title": [
+                        "phantom"
+                    ],
+                    "turret": [
+                        "ioncannonturret"
+                    ]
+                }
+            },
+            {
+                "id": "sabinewren",
+                "points": 49,
+                "ship": "attackshuttle",
+                "upgrades": {
+                    "talent": [
+                        "swarmtactics"
+                    ],
+                    "turret": [
+                        "ioncannonturret"
+                    ]
+                }
+            },
+            {
+                "id": "zeborrelios",
+                "points": 43,
+                "ship": "attackshuttle",
+                "upgrades": {
+                    "crew": [
+                        "magvayarro"
+                    ],
+                    "turret": [
+                        "dorsalturret"
+                    ]
+                }
+            },
+            {
+                "id": "ginamoonsong",
+                "points": 60,
+                "ship": "asf01bwing",
+                "upgrades": {
+                    "sensor": [
+                        "advancedsensors"
+                    ]
+                }
+            }
+        ],
+        "points": 195,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "TTT": "Alfred Schnabel",
+    "VassalForm1": "Skywatcher1138",
+    "VassalForm2": "Skywatcher1138"
+}

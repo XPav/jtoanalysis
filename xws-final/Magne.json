@@ -1,0 +1,152 @@
+{
+    "Add": "Plasma Torpedoes to \"Rush\"",
+    "Discord": "mega_magnar#1550",
+    "Drop": "Target Synchronizer from \"Avenger\"",
+    "Final": {
+        "faction": "firstorder",
+        "name": "Magne Gudmundsen JTO",
+        "pilots": [
+            {
+                "id": "avenger",
+                "points": 62,
+                "ship": "tievnsilencer",
+                "upgrades": {
+                    "torpedo": [
+                        "advprotontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "rush",
+                "points": 66,
+                "ship": "tievnsilencer",
+                "upgrades": {
+                    "torpedo": [
+                        "plasmatorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "majorvonreg",
+                "points": 70,
+                "ship": "tiebainterceptor",
+                "upgrades": {
+                    "missile": [
+                        "protonrockets"
+                    ],
+                    "tech": [
+                        "targetingsynchronizer"
+                    ]
+                }
+            }
+        ],
+        "points": 198,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Name": "Magne Gudmundsen",
+    "Option1": {
+        "faction": "firstorder",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "avenger",
+                "points": 68,
+                "ship": "tievnsilencer",
+                "upgrades": {
+                    "tech": [
+                        "targetingsynchronizer"
+                    ],
+                    "torpedo": [
+                        "advprotontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "rush",
+                "points": 57,
+                "ship": "tievnsilencer",
+                "upgrades": {}
+            },
+            {
+                "id": "majorvonreg",
+                "points": 70,
+                "ship": "tiebainterceptor",
+                "upgrades": {
+                    "missile": [
+                        "protonrockets"
+                    ],
+                    "tech": [
+                        "targetingsynchronizer"
+                    ]
+                }
+            }
+        ],
+        "points": 195,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Option2": {
+        "faction": "separatistalliance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "countdooku",
+                "points": 109,
+                "ship": "sithinfiltrator",
+                "upgrades": {
+                    "cannon": [
+                        "ioncannon"
+                    ],
+                    "crew": [
+                        "gnkgonkdroid"
+                    ],
+                    "device": [
+                        "proximitymines"
+                    ],
+                    "force-power": [
+                        "predictiveshot"
+                    ],
+                    "modification": [
+                        "targetingcomputer"
+                    ],
+                    "tacticalrelay": [
+                        "kraken"
+                    ],
+                    "title": [
+                        "scimitar"
+                    ],
+                    "torpedo": [
+                        "advprotontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "skakoanace",
+                "points": 44,
+                "ship": "belbullab22starfighter",
+                "upgrades": {
+                    "talent": [
+                        "outmaneuver"
+                    ]
+                }
+            },
+            {
+                "id": "captainsear",
+                "points": 47,
+                "ship": "belbullab22starfighter",
+                "upgrades": {
+                    "modification": [
+                        "electronicbaffle"
+                    ]
+                }
+            }
+        ],
+        "points": 200,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "TTT": "Magne Gudmundsen",
+    "VassalForm1": "Magne",
+    "VassalForm2": "Magne"
+}

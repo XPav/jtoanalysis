@@ -1,0 +1,176 @@
+{
+    "Add": "Concussion missiles to Zeta Squadron Survivor",
+    "Discord": "eldaec#6701",
+    "Drop": "Hotshot gunner from Zeta Squadron Survivor",
+    "Final": {
+        "faction": "firstorder",
+        "name": "Kevin JTO",
+        "obstacles": [
+            "coreasteroid5",
+            "yt2400debris2",
+            "gascloud5"
+        ],
+        "pilots": [
+            {
+                "id": "zetasquadronsurvivor",
+                "points": 41,
+                "ship": "tiesffighter",
+                "upgrades": {
+                    "missile": [
+                        "concussionmissiles"
+                    ],
+                    "sensor": [
+                        "passivesensors"
+                    ]
+                }
+            },
+            {
+                "id": "recoil",
+                "points": 62,
+                "ship": "tievnsilencer",
+                "upgrades": {
+                    "missile": [
+                        "ionmissiles"
+                    ],
+                    "tech": [
+                        "biohexacryptcodes"
+                    ]
+                }
+            },
+            {
+                "id": "holo",
+                "points": 66,
+                "ship": "tiebainterceptor",
+                "upgrades": {
+                    "missile": [
+                        "concussionmissiles"
+                    ],
+                    "talent": [
+                        "outmaneuver"
+                    ]
+                }
+            },
+            {
+                "id": "null",
+                "points": 30,
+                "ship": "tiefofighter",
+                "upgrades": {}
+            }
+        ],
+        "points": 199,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Name": "Kevin",
+    "Option1": {
+        "faction": "scumandvillainy",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "ig88c",
+                "points": 71,
+                "ship": "aggressorassaultfighter",
+                "upgrades": {
+                    "modification": [
+                        "angleddeflectors"
+                    ],
+                    "sensor": [
+                        "passivesensors"
+                    ],
+                    "title": [
+                        "ig2000"
+                    ]
+                }
+            },
+            {
+                "id": "ndrusuhlak",
+                "points": 30,
+                "ship": "z95af4headhunter",
+                "upgrades": {}
+            },
+            {
+                "id": "spicerunner",
+                "points": 33,
+                "ship": "hwk290lightfreighter",
+                "upgrades": {
+                    "crew": [
+                        "qira"
+                    ],
+                    "illicit": [
+                        "inertialdampeners"
+                    ]
+                }
+            },
+            {
+                "id": "ig88b",
+                "points": 64,
+                "ship": "aggressorassaultfighter",
+                "upgrades": {
+                    "title": [
+                        "ig2000"
+                    ]
+                }
+            }
+        ],
+        "points": 198,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Option2": {
+        "faction": "firstorder",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "zetasquadronsurvivor",
+                "points": 42,
+                "ship": "tiesffighter",
+                "upgrades": {
+                    "gunner": [
+                        "hotshotgunner"
+                    ],
+                    "sensor": [
+                        "passivesensors"
+                    ]
+                }
+            },
+            {
+                "id": "recoil",
+                "points": 62,
+                "ship": "tievnsilencer",
+                "upgrades": {
+                    "missile": [
+                        "ionmissiles"
+                    ],
+                    "tech": [
+                        "biohexacryptcodes"
+                    ]
+                }
+            },
+            {
+                "id": "holo",
+                "points": 66,
+                "ship": "tiebainterceptor",
+                "upgrades": {
+                    "missile": [
+                        "concussionmissiles"
+                    ],
+                    "talent": [
+                        "outmaneuver"
+                    ]
+                }
+            },
+            {
+                "id": "null",
+                "points": 30,
+                "ship": "tiefofighter",
+                "upgrades": {}
+            }
+        ],
+        "points": 200,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "TTT": "Kevin",
+    "VassalForm1": "Woodford",
+    "VassalForm2": "Woodford"
+}

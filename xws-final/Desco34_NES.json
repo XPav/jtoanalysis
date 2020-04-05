@@ -1,0 +1,198 @@
+{
+    "Add": "Hull Upgrade to Saesee Tin (Delta-7)",
+    "Discord": "desco34#8474",
+    "Drop": "Angled Deflectors from Broadside (BTL-B Y-Wing)",
+    "Final": {
+        "faction": "galacticrepublic",
+        "name": "Marco de Scordilli Jank Squad",
+        "pilots": [
+            {
+                "id": "bluesquadronprotector",
+                "points": 40,
+                "ship": "v19torrentstarfighter",
+                "upgrades": {
+                    "missile": [
+                        "concussionmissiles"
+                    ],
+                    "modification": [
+                        "hullupgrade"
+                    ],
+                    "talent": [
+                        "predator"
+                    ]
+                }
+            },
+            {
+                "id": "saeseetiin",
+                "points": 72,
+                "ship": "delta7aethersprite",
+                "upgrades": {
+                    "astromech": [
+                        "r5astromech"
+                    ],
+                    "configuration": [
+                        "delta7b"
+                    ],
+                    "modification": [
+                        "hullupgrade"
+                    ]
+                }
+            },
+            {
+                "id": "broadside",
+                "points": 53,
+                "ship": "btlbywing",
+                "upgrades": {
+                    "astromech": [
+                        "r5astromech"
+                    ],
+                    "talent": [
+                        "debrisgambit"
+                    ],
+                    "torpedo": [
+                        "iontorpedoes"
+                    ],
+                    "turret": [
+                        "dorsalturret"
+                    ]
+                }
+            },
+            {
+                "id": "axe",
+                "points": 32,
+                "ship": "v19torrentstarfighter",
+                "upgrades": {}
+            }
+        ],
+        "points": 197,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Name": "Marco de Scordilli",
+    "Option1": {
+        "faction": "galacticrepublic",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "bluesquadronprotector",
+                "points": 40,
+                "ship": "v19torrentstarfighter",
+                "upgrades": {
+                    "missile": [
+                        "concussionmissiles"
+                    ],
+                    "modification": [
+                        "hullupgrade"
+                    ],
+                    "talent": [
+                        "predator"
+                    ]
+                }
+            },
+            {
+                "id": "saeseetiin",
+                "points": 65,
+                "ship": "delta7aethersprite",
+                "upgrades": {
+                    "astromech": [
+                        "r5astromech"
+                    ],
+                    "configuration": [
+                        "delta7b"
+                    ]
+                }
+            },
+            {
+                "id": "broadside",
+                "points": 59,
+                "ship": "btlbywing",
+                "upgrades": {
+                    "astromech": [
+                        "r5astromech"
+                    ],
+                    "modification": [
+                        "angleddeflectors"
+                    ],
+                    "talent": [
+                        "debrisgambit"
+                    ],
+                    "torpedo": [
+                        "iontorpedoes"
+                    ],
+                    "turret": [
+                        "dorsalturret"
+                    ]
+                }
+            },
+            {
+                "id": "axe",
+                "points": 32,
+                "ship": "v19torrentstarfighter",
+                "upgrades": {}
+            }
+        ],
+        "points": 196,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Option2": {
+        "faction": "firstorder",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "lieutenanttavson",
+                "points": 97,
+                "ship": "upsilonclasscommandshuttle",
+                "upgrades": {
+                    "cannon": [
+                        "ioncannon"
+                    ],
+                    "crew": [
+                        "pettyofficerthanisson",
+                        "captainphasma",
+                        "novicetechnician"
+                    ],
+                    "modification": [
+                        "munitionsfailsafe"
+                    ],
+                    "sensor": [
+                        "trajectorysimulator"
+                    ],
+                    "tech": [
+                        "biohexacryptcodes",
+                        "targetingsynchronizer"
+                    ]
+                }
+            },
+            {
+                "id": "static",
+                "points": 40,
+                "ship": "tiefofighter",
+                "upgrades": {
+                    "modification": [
+                        "targetingcomputer"
+                    ],
+                    "talent": [
+                        "debrisgambit"
+                    ]
+                }
+            },
+            {
+                "id": "firstordertestpilot",
+                "points": 60,
+                "ship": "tievnsilencer",
+                "upgrades": {
+                    "tech": [
+                        "advancedoptics"
+                    ]
+                }
+            }
+        ],
+        "points": 197,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "TTT": "Marco de Scordilli",
+    "VassalForm1": "Desco34_NES",
+    "VassalForm2": "desco34_NES"
+}

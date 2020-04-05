@@ -1,0 +1,160 @@
+{
+    "Add": "Sabine crew on the warden squadron pilot",
+    "Discord": "Goldie#7060",
+    "Drop": "Diamond Boron Missiles on the warden squadron pilot",
+    "Final": {
+        "faction": "rebelalliance",
+        "name": "Ed Gold JTO",
+        "pilots": [
+            {
+                "id": "leebo",
+                "points": 88,
+                "ship": "yt2400lightfreighter",
+                "upgrades": {
+                    "illicit": [
+                        "deadmansswitch"
+                    ],
+                    "missile": [
+                        "clustermissiles"
+                    ]
+                }
+            },
+            {
+                "id": "jakefarrell",
+                "points": 45,
+                "ship": "rz1awing",
+                "upgrades": {
+                    "talent": [
+                        "juke",
+                        "daredevil"
+                    ]
+                }
+            },
+            {
+                "id": "wardensquadronpilot",
+                "points": 63,
+                "ship": "btls8kwing",
+                "upgrades": {
+                    "crew": [
+                        "sabinewren"
+                    ],
+                    "device": [
+                        "ionbombs"
+                    ],
+                    "modification": [
+                        "advancedslam"
+                    ],
+                    "torpedo": [
+                        "protontorpedoes"
+                    ]
+                }
+            }
+        ],
+        "points": 196,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Name": "Ed Gold",
+    "Option1": {
+        "faction": "rebelalliance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "leebo",
+                "points": 88,
+                "ship": "yt2400lightfreighter",
+                "upgrades": {
+                    "illicit": [
+                        "deadmansswitch"
+                    ],
+                    "missile": [
+                        "clustermissiles"
+                    ]
+                }
+            },
+            {
+                "id": "jakefarrell",
+                "points": 45,
+                "ship": "rz1awing",
+                "upgrades": {
+                    "talent": [
+                        "juke",
+                        "daredevil"
+                    ]
+                }
+            },
+            {
+                "id": "wardensquadronpilot",
+                "points": 66,
+                "ship": "btls8kwing",
+                "upgrades": {
+                    "device": [
+                        "ionbombs"
+                    ],
+                    "missile": [
+                        "diamondboronmissiles"
+                    ],
+                    "modification": [
+                        "advancedslam"
+                    ],
+                    "torpedo": [
+                        "protontorpedoes"
+                    ]
+                }
+            }
+        ],
+        "points": 199,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Option2": {
+        "faction": "galacticempire",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "inquisitor",
+                "points": 40,
+                "ship": "tieadvancedv1",
+                "upgrades": {
+                    "force-power": [
+                        "sense"
+                    ]
+                }
+            },
+            {
+                "id": "omicrongrouppilot",
+                "points": 43,
+                "ship": "lambdaclasst4ashuttle",
+                "upgrades": {}
+            },
+            {
+                "id": "vizier",
+                "points": 45,
+                "ship": "tiereaper",
+                "upgrades": {}
+            },
+            {
+                "id": "wampa",
+                "points": 36,
+                "ship": "tielnfighter",
+                "upgrades": {
+                    "modification": [
+                        "hullupgrade"
+                    ]
+                }
+            },
+            {
+                "id": "maulermithel",
+                "points": 31,
+                "ship": "tielnfighter",
+                "upgrades": {}
+            }
+        ],
+        "points": 195,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "TTT": "Ed Gold",
+    "VassalForm1": "SWGoldie",
+    "VassalForm2": "SWGoldie"
+}

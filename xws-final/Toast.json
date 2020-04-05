@@ -1,0 +1,183 @@
+{
+    "Add": "Advanced Optics on First Order Test Pilot",
+    "Discord": "ButteredToast#8878",
+    "Drop": "Delayed Fuses from First Order Provocateur",
+    "Final": {
+        "faction": "firstorder",
+        "name": "Toast JTO",
+        "pilots": [
+            {
+                "id": "firstorderprovocateur",
+                "points": 56,
+                "ship": "tiebainterceptor",
+                "upgrades": {
+                    "missile": [
+                        "ionmissiles"
+                    ],
+                    "talent": [
+                        "marksmanship"
+                    ],
+                    "tech": [
+                        "targetingsynchronizer"
+                    ]
+                }
+            },
+            {
+                "id": "commandermalarus",
+                "points": 38,
+                "ship": "tiefofighter",
+                "upgrades": {}
+            },
+            {
+                "id": "zetasquadronsurvivor",
+                "points": 40,
+                "ship": "tiesffighter",
+                "upgrades": {
+                    "gunner": [
+                        "agilegunner"
+                    ]
+                }
+            },
+            {
+                "id": "firstordertestpilot",
+                "points": 66,
+                "ship": "tievnsilencer",
+                "upgrades": {
+                    "missile": [
+                        "magpulsewarheads"
+                    ],
+                    "tech": [
+                        "advancedoptics"
+                    ]
+                }
+            }
+        ],
+        "points": 200,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Name": "Josh",
+    "Option1": {
+        "faction": "scumandvillainy",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "hiredgun",
+                "points": 52,
+                "ship": "btla4ywing",
+                "upgrades": {
+                    "device": [
+                        "ionbombs"
+                    ],
+                    "gunner": [
+                        "skilledbombardier"
+                    ],
+                    "modification": [
+                        "staticdischargevanes"
+                    ],
+                    "talent": [
+                        "marksmanship"
+                    ],
+                    "turret": [
+                        "ioncannonturret"
+                    ]
+                }
+            },
+            {
+                "id": "captainnym",
+                "points": 58,
+                "ship": "scurrgh6bomber",
+                "upgrades": {
+                    "crew": [
+                        "informant"
+                    ],
+                    "device": [
+                        "protonbombs"
+                    ]
+                }
+            },
+            {
+                "id": "jakkugunrunner",
+                "points": 35,
+                "ship": "quadrijettransferspacetug",
+                "upgrades": {
+                    "tech": [
+                        "primedthrusters"
+                    ]
+                }
+            },
+            {
+                "id": "foremanproach",
+                "points": 32,
+                "ship": "modifiedtielnfighter",
+                "upgrades": {}
+            },
+            {
+                "id": "binayrepirate",
+                "points": 22,
+                "ship": "z95af4headhunter",
+                "upgrades": {}
+            }
+        ],
+        "points": 199,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Option2": {
+        "faction": "firstorder",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "firstorderprovocateur",
+                "points": 57,
+                "ship": "tiebainterceptor",
+                "upgrades": {
+                    "missile": [
+                        "ionmissiles"
+                    ],
+                    "modification": [
+                        "delayedfuses"
+                    ],
+                    "talent": [
+                        "marksmanship"
+                    ],
+                    "tech": [
+                        "targetingsynchronizer"
+                    ]
+                }
+            },
+            {
+                "id": "commandermalarus",
+                "points": 38,
+                "ship": "tiefofighter",
+                "upgrades": {}
+            },
+            {
+                "id": "zetasquadronsurvivor",
+                "points": 40,
+                "ship": "tiesffighter",
+                "upgrades": {
+                    "gunner": [
+                        "agilegunner"
+                    ]
+                }
+            },
+            {
+                "id": "firstordertestpilot",
+                "points": 62,
+                "ship": "tievnsilencer",
+                "upgrades": {
+                    "missile": [
+                        "magpulsewarheads"
+                    ]
+                }
+            }
+        ],
+        "points": 197,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "TTT": "Josh Davis",
+    "VassalForm1": "Toast",
+    "VassalForm2": "Toast"
+}

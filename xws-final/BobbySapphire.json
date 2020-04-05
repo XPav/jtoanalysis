@@ -1,0 +1,199 @@
+{
+    "Add": "Ion Canon to Rho Squadron Pilot",
+    "Discord": "BobbySapphire #5108",
+    "Drop": "Shield Upgrade from Alpha Squadron Pilot",
+    "Final": {
+        "faction": "galacticempire",
+        "name": "BobbySapphire JTO",
+        "pilots": [
+            {
+                "id": "rhosquadronpilot",
+                "points": 47,
+                "ship": "alphaclassstarwing",
+                "upgrades": {
+                    "cannon": [
+                        "ioncannon"
+                    ],
+                    "configuration": [
+                        "xg1assaultconfiguration"
+                    ],
+                    "modification": [
+                        "munitionsfailsafe"
+                    ],
+                    "sensor": [
+                        "firecontrolsystem"
+                    ],
+                    "talent": [
+                        "intimidation"
+                    ]
+                }
+            },
+            {
+                "id": "sigmasquadronace",
+                "points": 59,
+                "ship": "tiephphantom",
+                "upgrades": {
+                    "modification": [
+                        "delayedfuses"
+                    ],
+                    "sensor": [
+                        "advancedsensors"
+                    ]
+                }
+            },
+            {
+                "id": "alphasquadronpilot",
+                "points": 31,
+                "ship": "tieininterceptor",
+                "upgrades": {}
+            },
+            {
+                "id": "valenrudor",
+                "points": 30,
+                "ship": "tielnfighter",
+                "upgrades": {
+                    "talent": [
+                        "intimidation"
+                    ]
+                }
+            },
+            {
+                "id": "gideonhask",
+                "points": 30,
+                "ship": "tielnfighter",
+                "upgrades": {}
+            }
+        ],
+        "points": 197,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Name": "Mike Gemme",
+    "Option1": {
+        "faction": "galacticempire",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "rhosquadronpilot",
+                "points": 41,
+                "ship": "alphaclassstarwing",
+                "upgrades": {
+                    "configuration": [
+                        "xg1assaultconfiguration"
+                    ],
+                    "modification": [
+                        "munitionsfailsafe"
+                    ],
+                    "sensor": [
+                        "firecontrolsystem"
+                    ],
+                    "talent": [
+                        "intimidation"
+                    ]
+                }
+            },
+            {
+                "id": "sigmasquadronace",
+                "points": 59,
+                "ship": "tiephphantom",
+                "upgrades": {
+                    "modification": [
+                        "delayedfuses"
+                    ],
+                    "sensor": [
+                        "advancedsensors"
+                    ]
+                }
+            },
+            {
+                "id": "alphasquadronpilot",
+                "points": 39,
+                "ship": "tieininterceptor",
+                "upgrades": {
+                    "modification": [
+                        "shieldupgrade"
+                    ]
+                }
+            },
+            {
+                "id": "valenrudor",
+                "points": 30,
+                "ship": "tielnfighter",
+                "upgrades": {
+                    "talent": [
+                        "intimidation"
+                    ]
+                }
+            },
+            {
+                "id": "gideonhask",
+                "points": 30,
+                "ship": "tielnfighter",
+                "upgrades": {}
+            }
+        ],
+        "points": 199,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Option2": {
+        "faction": "separatistalliance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "wattambor",
+                "points": 56,
+                "ship": "belbullab22starfighter",
+                "upgrades": {
+                    "modification": [
+                        "staticdischargevanes"
+                    ],
+                    "talent": [
+                        "treacherous"
+                    ],
+                    "title": [
+                        "soullessone"
+                    ]
+                }
+            },
+            {
+                "id": "captainsear",
+                "points": 54,
+                "ship": "belbullab22starfighter",
+                "upgrades": {
+                    "tacticalrelay": [
+                        "ta175"
+                    ]
+                }
+            },
+            {
+                "id": "chertek",
+                "points": 45,
+                "ship": "nantexclassstarfighter",
+                "upgrades": {
+                    "talent": [
+                        "outmaneuver"
+                    ]
+                }
+            },
+            {
+                "id": "tradefederationdrone",
+                "points": 19,
+                "ship": "vultureclassdroidfighter",
+                "upgrades": {}
+            },
+            {
+                "id": "dfs081",
+                "points": 26,
+                "ship": "vultureclassdroidfighter",
+                "upgrades": {}
+            }
+        ],
+        "points": 200,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "TTT": "BobbySapphire",
+    "VassalForm1": "BobbySapphire",
+    "VassalForm2": "BobbySapphire"
+}

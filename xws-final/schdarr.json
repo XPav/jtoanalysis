@@ -1,0 +1,177 @@
+{
+    "Add": "Leia to Blue Squadron Scout",
+    "Discord": "schdarr#1992",
+    "Drop": "Vet Turret Gunner from Leebo",
+    "Final": {
+        "faction": "rebelalliance",
+        "name": "Darin Schwarze JTO",
+        "obstacles": [
+            "vt49decimatordebris1",
+            "vt49decimatordebris2",
+            "gascloud6"
+        ],
+        "pilots": [
+            {
+                "id": "bluesquadronscout",
+                "points": 50,
+                "ship": "ut60duwing",
+                "upgrades": {
+                    "configuration": [
+                        "pivotwing"
+                    ],
+                    "crew": [
+                        "leiaorgana"
+                    ]
+                }
+            },
+            {
+                "id": "leebo",
+                "points": 101,
+                "ship": "yt2400lightfreighter",
+                "upgrades": {
+                    "illicit": [
+                        "feedbackarray"
+                    ],
+                    "modification": [
+                        "targetingcomputer"
+                    ],
+                    "title": [
+                        "outrider"
+                    ]
+                }
+            },
+            {
+                "id": "benthictwotubes",
+                "points": 46,
+                "ship": "ut60duwing",
+                "upgrades": {
+                    "configuration": [
+                        "pivotwing"
+                    ]
+                }
+            }
+        ],
+        "points": 197,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Name": "Darin Schwarze",
+    "Option1": {
+        "faction": "rebelalliance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "bluesquadronscout",
+                "points": 43,
+                "ship": "ut60duwing",
+                "upgrades": {
+                    "configuration": [
+                        "pivotwing"
+                    ]
+                }
+            },
+            {
+                "id": "leebo",
+                "points": 111,
+                "ship": "yt2400lightfreighter",
+                "upgrades": {
+                    "gunner": [
+                        "veteranturretgunner"
+                    ],
+                    "illicit": [
+                        "feedbackarray"
+                    ],
+                    "modification": [
+                        "targetingcomputer"
+                    ],
+                    "title": [
+                        "outrider"
+                    ]
+                }
+            },
+            {
+                "id": "benthictwotubes",
+                "points": 46,
+                "ship": "ut60duwing",
+                "upgrades": {
+                    "configuration": [
+                        "pivotwing"
+                    ]
+                }
+            }
+        ],
+        "points": 200,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Option2": {
+        "faction": "galacticrepublic",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "bravoflightofficer",
+                "points": 41,
+                "ship": "nabooroyaln1starfighter",
+                "upgrades": {
+                    "astromech": [
+                        "r4p44"
+                    ],
+                    "sensor": [
+                        "passivesensors"
+                    ]
+                }
+            },
+            {
+                "id": "kickback",
+                "points": 43,
+                "ship": "v19torrentstarfighter",
+                "upgrades": {
+                    "missile": [
+                        "concussionmissiles"
+                    ],
+                    "talent": [
+                        "trickshot"
+                    ]
+                }
+            },
+            {
+                "id": "oddball-arc170starfighter",
+                "points": 77,
+                "ship": "arc170starfighter",
+                "upgrades": {
+                    "astromech": [
+                        "r3astromech"
+                    ],
+                    "crew": [
+                        "novicetechnician"
+                    ],
+                    "modification": [
+                        "angleddeflectors"
+                    ],
+                    "talent": [
+                        "debrisgambit"
+                    ],
+                    "torpedo": [
+                        "plasmatorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "swoop",
+                "points": 36,
+                "ship": "v19torrentstarfighter",
+                "upgrades": {
+                    "modification": [
+                        "hullupgrade"
+                    ]
+                }
+            }
+        ],
+        "points": 197,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "TTT": "Darin Schwarze",
+    "VassalForm1": "schdarr",
+    "VassalForm2": "schdarr"
+}

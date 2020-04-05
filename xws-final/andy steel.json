@@ -1,0 +1,176 @@
+{
+    "Add": "REY to chewie falcon",
+    "Discord": "steelwraith#5209",
+    "Drop": "FINN from chewie falcon",
+    "Final": {
+        "faction": "resistance",
+        "name": "andy steel JTO",
+        "pilots": [
+            {
+                "id": "bb8",
+                "points": 33,
+                "ship": "resistancetransportpod",
+                "upgrades": {
+                    "tech": [
+                        "primedthrusters"
+                    ]
+                }
+            },
+            {
+                "id": "nodinchavdri",
+                "points": 45,
+                "ship": "resistancetransport",
+                "upgrades": {
+                    "torpedo": [
+                        "plasmatorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "jarekyeager",
+                "points": 37,
+                "ship": "fireball",
+                "upgrades": {
+                    "talent": [
+                        "swarmtactics"
+                    ]
+                }
+            },
+            {
+                "id": "chewbacca-scavengedyt1300",
+                "points": 84,
+                "ship": "scavengedyt1300",
+                "upgrades": {
+                    "gunner": [
+                        "rey-gunner"
+                    ],
+                    "missile": [
+                        "protonrockets"
+                    ]
+                }
+            }
+        ],
+        "points": 199,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Name": "andrew steel",
+    "Option1": {
+        "faction": "resistance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "chewbacca-scavengedyt1300",
+                "points": 80,
+                "ship": "scavengedyt1300",
+                "upgrades": {
+                    "gunner": [
+                        "finn"
+                    ],
+                    "missile": [
+                        "protonrockets"
+                    ]
+                }
+            },
+            {
+                "id": "bb8",
+                "points": 33,
+                "ship": "resistancetransportpod",
+                "upgrades": {
+                    "tech": [
+                        "primedthrusters"
+                    ]
+                }
+            },
+            {
+                "id": "nodinchavdri",
+                "points": 45,
+                "ship": "resistancetransport",
+                "upgrades": {
+                    "torpedo": [
+                        "plasmatorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "jarekyeager",
+                "points": 37,
+                "ship": "fireball",
+                "upgrades": {
+                    "talent": [
+                        "swarmtactics"
+                    ]
+                }
+            }
+        ],
+        "points": 195,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Option2": {
+        "faction": "rebelalliance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "corranhorn",
+                "points": 83,
+                "ship": "ewing",
+                "upgrades": {
+                    "modification": [
+                        "angleddeflectors"
+                    ],
+                    "sensor": [
+                        "trajectorysimulator"
+                    ],
+                    "talent": [
+                        "daredevil"
+                    ],
+                    "torpedo": [
+                        "advprotontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "ibtisam",
+                "points": 67,
+                "ship": "arc170starfighter",
+                "upgrades": {
+                    "astromech": [
+                        "r2astromech"
+                    ],
+                    "crew": [
+                        "landocalrissian"
+                    ],
+                    "talent": [
+                        "lonewolf"
+                    ],
+                    "torpedo": [
+                        "plasmatorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "zeborrelios-sheathipedeclassshuttle",
+                "points": 47,
+                "ship": "sheathipedeclassshuttle",
+                "upgrades": {
+                    "astromech": [
+                        "r3astromech"
+                    ],
+                    "crew": [
+                        "gnkgonkdroid"
+                    ],
+                    "title": [
+                        "phantom"
+                    ]
+                }
+            }
+        ],
+        "points": 197,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "TTT": "Andrew steel",
+    "VassalForm1": "andy steel",
+    "VassalForm2": "andy steel"
+}

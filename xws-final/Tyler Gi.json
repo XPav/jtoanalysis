@@ -1,0 +1,170 @@
+{
+    "Add": "Proton Torpedoes-TIE Pubisher",
+    "Discord": "509",
+    "Drop": "Skilled Bombardier-TIE Phantom",
+    "Final": {
+        "faction": "galacticempire",
+        "name": "Tyler Gi- JTO",
+        "pilots": [
+            {
+                "id": "scarifbasepilot",
+                "points": 52,
+                "ship": "tiereaper",
+                "upgrades": {
+                    "crew": [
+                        "isbslicer",
+                        "gnkgonkdroid"
+                    ]
+                }
+            },
+            {
+                "id": "redline",
+                "points": 72,
+                "ship": "tiecapunisher",
+                "upgrades": {
+                    "missile": [
+                        "ionmissiles"
+                    ],
+                    "sensor": [
+                        "passivesensors"
+                    ],
+                    "torpedo": [
+                        "protontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "planetarysentinel",
+                "points": 31,
+                "ship": "tieskstriker",
+                "upgrades": {}
+            },
+            {
+                "id": "echo",
+                "points": 51,
+                "ship": "tiephphantom",
+                "upgrades": {}
+            }
+        ],
+        "points": 206,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Name": "Tyler Giebelhausen",
+    "Option1": {
+        "faction": "resistance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "nodinchavdri",
+                "points": 51,
+                "ship": "resistancetransport",
+                "upgrades": {
+                    "astromech": [
+                        "r2astromech"
+                    ],
+                    "tech": [
+                        "advancedoptics"
+                    ],
+                    "torpedo": [
+                        "iontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "covanell",
+                "points": 73,
+                "ship": "resistancetransport",
+                "upgrades": {
+                    "astromech": [
+                        "m9g8"
+                    ],
+                    "crew": [
+                        "leiaorgana-resistance"
+                    ],
+                    "tech": [
+                        "patternanalyzer"
+                    ],
+                    "torpedo": [
+                        "advprotontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "colossusstationmechanic",
+                "points": 31,
+                "ship": "fireball",
+                "upgrades": {
+                    "missile": [
+                        "homingmissiles"
+                    ]
+                }
+            },
+            {
+                "id": "bluesquadronrookie",
+                "points": 42,
+                "ship": "t70xwing",
+                "upgrades": {
+                    "configuration": [
+                        "integratedsfoils"
+                    ]
+                }
+            }
+        ],
+        "points": 197,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Option2": {
+        "faction": "galacticempire",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "scarifbasepilot",
+                "points": 52,
+                "ship": "tiereaper",
+                "upgrades": {
+                    "crew": [
+                        "isbslicer",
+                        "gnkgonkdroid"
+                    ]
+                }
+            },
+            {
+                "id": "redline",
+                "points": 59,
+                "ship": "tiecapunisher",
+                "upgrades": {
+                    "missile": [
+                        "ionmissiles"
+                    ],
+                    "sensor": [
+                        "passivesensors"
+                    ]
+                }
+            },
+            {
+                "id": "planetarysentinel",
+                "points": 31,
+                "ship": "tieskstriker",
+                "upgrades": {}
+            },
+            {
+                "id": "echo",
+                "points": 53,
+                "ship": "tiephphantom",
+                "upgrades": {
+                    "gunner": [
+                        "skilledbombardier"
+                    ]
+                }
+            }
+        ],
+        "points": 195,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "TTT": "Tyler Giebelhausen",
+    "VassalForm1": "Tyler Gi-",
+    "VassalForm2": "Tyler Gi-"
+}

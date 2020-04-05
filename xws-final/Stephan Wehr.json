@@ -1,0 +1,141 @@
+{
+    "Add": "Ion Cannon to Nom Lumb",
+    "Discord": "iswehr#2390",
+    "Drop": "Tractor Beam from Nom Lumb",
+    "Final": {
+        "faction": "scumandvillainy",
+        "name": "Stephan Wehr JTO",
+        "pilots": [
+            {
+                "id": "freightercaptain",
+                "points": 53,
+                "ship": "customizedyt1300lightfreighter",
+                "upgrades": {
+                    "crew": [
+                        "ig88d"
+                    ],
+                    "illicit": [
+                        "riggedcargochute"
+                    ]
+                }
+            },
+            {
+                "id": "nomlumb",
+                "points": 44,
+                "ship": "jumpmaster5000",
+                "upgrades": {
+                    "cannon": [
+                        "ioncannon"
+                    ]
+                }
+            },
+            {
+                "id": "shadowporthunter",
+                "points": 56,
+                "ship": "lancerclasspursuitcraft",
+                "upgrades": {}
+            },
+            {
+                "id": "freightercaptain",
+                "points": 46,
+                "ship": "customizedyt1300lightfreighter",
+                "upgrades": {}
+            }
+        ],
+        "points": 199,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Name": "Stephan Wehr",
+    "Option1": {
+        "faction": "galacticempire",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "rexlerbrath",
+                "points": 82,
+                "ship": "tieddefender",
+                "upgrades": {
+                    "talent": [
+                        "composure"
+                    ]
+                }
+            },
+            {
+                "id": "coloneljendon",
+                "points": 61,
+                "ship": "lambdaclasst4ashuttle",
+                "upgrades": {
+                    "crew": [
+                        "seventhsister"
+                    ],
+                    "title": [
+                        "st321"
+                    ]
+                }
+            },
+            {
+                "id": "sienarspecialist",
+                "points": 26,
+                "ship": "tieagaggressor",
+                "upgrades": {}
+            },
+            {
+                "id": "alphasquadronpilot",
+                "points": 31,
+                "ship": "tieininterceptor",
+                "upgrades": {}
+            }
+        ],
+        "points": 200,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Option2": {
+        "faction": "scumandvillainy",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "freightercaptain",
+                "points": 53,
+                "ship": "customizedyt1300lightfreighter",
+                "upgrades": {
+                    "crew": [
+                        "ig88d"
+                    ],
+                    "illicit": [
+                        "riggedcargochute"
+                    ]
+                }
+            },
+            {
+                "id": "nomlumb",
+                "points": 41,
+                "ship": "jumpmaster5000",
+                "upgrades": {
+                    "cannon": [
+                        "tractorbeam"
+                    ]
+                }
+            },
+            {
+                "id": "shadowporthunter",
+                "points": 56,
+                "ship": "lancerclasspursuitcraft",
+                "upgrades": {}
+            },
+            {
+                "id": "freightercaptain",
+                "points": 46,
+                "ship": "customizedyt1300lightfreighter",
+                "upgrades": {}
+            }
+        ],
+        "points": 196,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "TTT": "Stephan Wehr",
+    "VassalForm1": "Stephan Wehr",
+    "VassalForm2": "Stephan Wehr"
+}

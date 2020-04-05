@@ -1,0 +1,193 @@
+{
+    "Add": "Darth Vadar Crew - TIE Reaper",
+    "Discord": "#9738",
+    "Drop": "Electo-Proton Bomb --- TIE Bomber",
+    "Final": {
+        "faction": "galacticempire",
+        "name": "Tony Cameron JTO",
+        "pilots": [
+            {
+                "id": "captainjonus",
+                "points": 71,
+                "ship": "tiesabomber",
+                "upgrades": {
+                    "device": [
+                        "clustermines"
+                    ],
+                    "missile": [
+                        "clustermissiles",
+                        "concussionmissiles"
+                    ],
+                    "talent": [
+                        "composure"
+                    ],
+                    "torpedo": [
+                        "advprotontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "inquisitor",
+                "points": 48,
+                "ship": "tieadvancedv1",
+                "upgrades": {
+                    "force-power": [
+                        "instinctiveaim"
+                    ],
+                    "missile": [
+                        "concussionmissiles"
+                    ],
+                    "sensor": [
+                        "trajectorysimulator"
+                    ]
+                }
+            },
+            {
+                "id": "nightbeast",
+                "points": 25,
+                "ship": "tielnfighter",
+                "upgrades": {}
+            },
+            {
+                "id": "scarifbasepilot",
+                "points": 55,
+                "ship": "tiereaper",
+                "upgrades": {
+                    "crew": [
+                        "darthvader"
+                    ],
+                    "modification": [
+                        "electronicbaffle"
+                    ]
+                }
+            }
+        ],
+        "points": 199,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Name": "Tony Cameron",
+    "Option1": {
+        "faction": "galacticempire",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "captainjonus",
+                "points": 83,
+                "ship": "tiesabomber",
+                "upgrades": {
+                    "device": [
+                        "clustermines",
+                        "electroprotonbomb"
+                    ],
+                    "missile": [
+                        "clustermissiles",
+                        "concussionmissiles"
+                    ],
+                    "talent": [
+                        "composure"
+                    ],
+                    "torpedo": [
+                        "advprotontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "inquisitor",
+                "points": 48,
+                "ship": "tieadvancedv1",
+                "upgrades": {
+                    "force-power": [
+                        "instinctiveaim"
+                    ],
+                    "missile": [
+                        "concussionmissiles"
+                    ],
+                    "sensor": [
+                        "trajectorysimulator"
+                    ]
+                }
+            },
+            {
+                "id": "nightbeast",
+                "points": 25,
+                "ship": "tielnfighter",
+                "upgrades": {}
+            },
+            {
+                "id": "scarifbasepilot",
+                "points": 41,
+                "ship": "tiereaper",
+                "upgrades": {
+                    "modification": [
+                        "electronicbaffle"
+                    ]
+                }
+            }
+        ],
+        "points": 197,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Option2": {
+        "faction": "scumandvillainy",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "outerrimpioneer",
+                "points": 30,
+                "ship": "escapecraft",
+                "upgrades": {
+                    "crew": [
+                        "tobiasbeckett"
+                    ]
+                }
+            },
+            {
+                "id": "captainjostero",
+                "points": 58,
+                "ship": "kihraxzfighter",
+                "upgrades": {
+                    "missile": [
+                        "protonrockets"
+                    ],
+                    "modification": [
+                        "staticdischargevanes",
+                        "angleddeflectors"
+                    ]
+                }
+            },
+            {
+                "id": "lattsrazzi",
+                "points": 67,
+                "ship": "yv666lightfreighter",
+                "upgrades": {
+                    "cannon": [
+                        "heavylasercannon"
+                    ],
+                    "gunner": [
+                        "greedo"
+                    ],
+                    "talent": [
+                        "fearless"
+                    ],
+                    "title": [
+                        "houndstooth"
+                    ]
+                }
+            },
+            {
+                "id": "contractedscout",
+                "points": 41,
+                "ship": "jumpmaster5000",
+                "upgrades": {}
+            }
+        ],
+        "points": 196,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "TTT": "Tony Cameron",
+    "VassalForm1": "Tony (Tin Squadron)",
+    "VassalForm2": "Tony (Tin Sqdn)"
+}

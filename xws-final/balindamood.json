@@ -1,0 +1,202 @@
+{
+    "Add": "snapshot to captian Seevor",
+    "Discord": "3251",
+    "Drop": "Plasma torpedoes from the black sun assassin",
+    "Final": {
+        "faction": "scumandvillainy",
+        "name": "Brian Lindamood JTO",
+        "pilots": [
+            {
+                "id": "blacksunassassin",
+                "points": 69,
+                "ship": "starviperclassattackplatform",
+                "upgrades": {
+                    "modification": [
+                        "shieldupgrade"
+                    ],
+                    "sensor": [
+                        "advancedsensors"
+                    ],
+                    "talent": [
+                        "swarmtactics"
+                    ]
+                }
+            },
+            {
+                "id": "miningguildsurveyor",
+                "points": 26,
+                "ship": "modifiedtielnfighter",
+                "upgrades": {
+                    "modification": [
+                        "targetingcomputer"
+                    ]
+                }
+            },
+            {
+                "id": "teltrevura",
+                "points": 55,
+                "ship": "jumpmaster5000",
+                "upgrades": {
+                    "title": [
+                        "punishingone"
+                    ],
+                    "torpedo": [
+                        "advprotontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "captainseevor",
+                "points": 45,
+                "ship": "modifiedtielnfighter",
+                "upgrades": {
+                    "modification": [
+                        "stealthdevice"
+                    ],
+                    "talent": [
+                        "snapshot"
+                    ]
+                }
+            }
+        ],
+        "points": 195,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Name": "Brian Lindamood",
+    "Option1": {
+        "faction": "scumandvillainy",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "blacksunassassin",
+                "points": 78,
+                "ship": "starviperclassattackplatform",
+                "upgrades": {
+                    "modification": [
+                        "shieldupgrade"
+                    ],
+                    "sensor": [
+                        "advancedsensors"
+                    ],
+                    "talent": [
+                        "swarmtactics"
+                    ],
+                    "torpedo": [
+                        "plasmatorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "miningguildsurveyor",
+                "points": 26,
+                "ship": "modifiedtielnfighter",
+                "upgrades": {
+                    "modification": [
+                        "targetingcomputer"
+                    ]
+                }
+            },
+            {
+                "id": "teltrevura",
+                "points": 55,
+                "ship": "jumpmaster5000",
+                "upgrades": {
+                    "title": [
+                        "punishingone"
+                    ],
+                    "torpedo": [
+                        "advprotontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "captainseevor",
+                "points": 38,
+                "ship": "modifiedtielnfighter",
+                "upgrades": {
+                    "modification": [
+                        "stealthdevice"
+                    ]
+                }
+            }
+        ],
+        "points": 197,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Option2": {
+        "faction": "resistance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "colossusstationmechanic",
+                "points": 38,
+                "ship": "fireball",
+                "upgrades": {
+                    "astromech": [
+                        "r4astromech"
+                    ],
+                    "illicit": [
+                        "cloakingdevice"
+                    ],
+                    "missile": [
+                        "ionmissiles"
+                    ],
+                    "title": [
+                        "kazsfireball"
+                    ]
+                }
+            },
+            {
+                "id": "cat",
+                "points": 92,
+                "ship": "mg100starfortress",
+                "upgrades": {
+                    "crew": [
+                        "freelanceslicer"
+                    ],
+                    "device": [
+                        "electroprotonbomb"
+                    ],
+                    "gunner": [
+                        "agilegunner",
+                        "veteranturretgunner"
+                    ],
+                    "tech": [
+                        "patternanalyzer"
+                    ]
+                }
+            },
+            {
+                "id": "vimoradi",
+                "points": 34,
+                "ship": "resistancetransportpod",
+                "upgrades": {
+                    "crew": [
+                        "larmadacy"
+                    ],
+                    "modification": [
+                        "targetingcomputer"
+                    ]
+                }
+            },
+            {
+                "id": "finn",
+                "points": 31,
+                "ship": "resistancetransportpod",
+                "upgrades": {
+                    "modification": [
+                        "electronicbaffle"
+                    ]
+                }
+            }
+        ],
+        "points": 195,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "TTT": "balindamood",
+    "VassalForm1": "balindamood",
+    "VassalForm2": "balindamood"
+}

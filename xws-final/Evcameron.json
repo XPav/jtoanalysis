@@ -1,0 +1,179 @@
+{
+    "Add": "Mag-Pulse Warheads to Oddball",
+    "Discord": "evcameron#5354",
+    "Drop": "Stealth Device from 104th Battalion pilot",
+    "Final": {
+        "faction": "galacticrepublic",
+        "name": "Evan Cameron JTO",
+        "pilots": [
+            {
+                "id": "104thbattalionpilot",
+                "points": 67,
+                "ship": "arc170starfighter",
+                "upgrades": {
+                    "crew": [
+                        "gnkgonkdroid"
+                    ],
+                    "gunner": [
+                        "seventhfleetgunner"
+                    ],
+                    "torpedo": [
+                        "advprotontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "macewindu",
+                "points": 66,
+                "ship": "delta7aethersprite",
+                "upgrades": {
+                    "astromech": [
+                        "r4astromech"
+                    ],
+                    "configuration": [
+                        "calibratedlasertargeting"
+                    ],
+                    "force-power": [
+                        "supernaturalreflexes"
+                    ]
+                }
+            },
+            {
+                "id": "oddball",
+                "points": 40,
+                "ship": "v19torrentstarfighter",
+                "upgrades": {
+                    "missile": [
+                        "magpulsewarheads"
+                    ]
+                }
+            },
+            {
+                "id": "bluesquadronprotector",
+                "points": 27,
+                "ship": "v19torrentstarfighter",
+                "upgrades": {}
+            }
+        ],
+        "points": 200,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Name": "Evan Cameron",
+    "Option1": {
+        "faction": "firstorder",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "captainphasma",
+                "points": 64,
+                "ship": "tiesffighter",
+                "upgrades": {
+                    "gunner": [
+                        "hotshotgunner"
+                    ],
+                    "missile": [
+                        "clustermissiles"
+                    ],
+                    "modification": [
+                        "munitionsfailsafe"
+                    ],
+                    "sensor": [
+                        "trajectorysimulator"
+                    ],
+                    "talent": [
+                        "fanatical"
+                    ],
+                    "tech": [
+                        "advancedoptics"
+                    ]
+                }
+            },
+            {
+                "id": "avenger",
+                "points": 68,
+                "ship": "tievnsilencer",
+                "upgrades": {
+                    "talent": [
+                        "elusive"
+                    ],
+                    "torpedo": [
+                        "plasmatorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "pettyofficerthanisson",
+                "points": 68,
+                "ship": "upsilonclasscommandshuttle",
+                "upgrades": {
+                    "tech": [
+                        "deuteriumpowercells"
+                    ]
+                }
+            }
+        ],
+        "points": 200,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Option2": {
+        "faction": "galacticrepublic",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "104thbattalionpilot",
+                "points": 71,
+                "ship": "arc170starfighter",
+                "upgrades": {
+                    "crew": [
+                        "gnkgonkdroid"
+                    ],
+                    "gunner": [
+                        "seventhfleetgunner"
+                    ],
+                    "modification": [
+                        "stealthdevice"
+                    ],
+                    "torpedo": [
+                        "advprotontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "macewindu",
+                "points": 66,
+                "ship": "delta7aethersprite",
+                "upgrades": {
+                    "astromech": [
+                        "r4astromech"
+                    ],
+                    "configuration": [
+                        "calibratedlasertargeting"
+                    ],
+                    "force-power": [
+                        "supernaturalreflexes"
+                    ]
+                }
+            },
+            {
+                "id": "oddball",
+                "points": 34,
+                "ship": "v19torrentstarfighter",
+                "upgrades": {}
+            },
+            {
+                "id": "bluesquadronprotector",
+                "points": 27,
+                "ship": "v19torrentstarfighter",
+                "upgrades": {}
+            }
+        ],
+        "points": 198,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "TTT": "William Cameron",
+    "VassalForm1": "Evcameron",
+    "VassalForm2": "evcameron"
+}

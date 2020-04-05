@@ -1,0 +1,225 @@
+{
+    "Add": "Count Dooku to Dark Courier",
+    "Discord": "MegaSilver#8035",
+    "Drop": "GONK Droid from Dark Courier",
+    "Final": {
+        "faction": "separatistalliance",
+        "name": "Tommy Adams JTO",
+        "obstacles": [
+            "vt49decimatordebris0",
+            "vt49decimatordebris1",
+            "vt49decimatordebris2"
+        ],
+        "pilots": [
+            {
+                "id": "separatistdrone",
+                "points": 31,
+                "ship": "vultureclassdroidfighter",
+                "upgrades": {
+                    "configuration": [
+                        "grapplingstruts"
+                    ],
+                    "missile": [
+                        "discordmissiles"
+                    ],
+                    "modification": [
+                        "hullupgrade"
+                    ]
+                }
+            },
+            {
+                "id": "tradefederationdrone",
+                "points": 30,
+                "ship": "vultureclassdroidfighter",
+                "upgrades": {
+                    "configuration": [
+                        "grapplingstruts"
+                    ],
+                    "missile": [
+                        "discordmissiles"
+                    ],
+                    "modification": [
+                        "stealthdevice"
+                    ]
+                }
+            },
+            {
+                "id": "darkcourier",
+                "points": 94,
+                "ship": "sithinfiltrator",
+                "upgrades": {
+                    "cannon": [
+                        "heavylasercannon"
+                    ],
+                    "crew": [
+                        "countdooku",
+                        "novicetechnician"
+                    ],
+                    "device": [
+                        "connernets"
+                    ],
+                    "tacticalrelay": [
+                        "tv94"
+                    ],
+                    "title": [
+                        "scimitar"
+                    ],
+                    "torpedo": [
+                        "plasmatorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "petranakiarenaace",
+                "points": 44,
+                "ship": "nantexclassstarfighter",
+                "upgrades": {
+                    "talent": [
+                        "graviticdeflection",
+                        "composure"
+                    ]
+                }
+            }
+        ],
+        "points": 199,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Name": "Tommy Adams",
+    "Option1": {
+        "faction": "firstorder",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "firstorderprovocateur",
+                "points": 53,
+                "ship": "tiebainterceptor",
+                "upgrades": {
+                    "missile": [
+                        "ionmissiles"
+                    ],
+                    "talent": [
+                        "debrisgambit"
+                    ]
+                }
+            },
+            {
+                "id": "lieutenanttavson",
+                "points": 83,
+                "ship": "upsilonclasscommandshuttle",
+                "upgrades": {
+                    "crew": [
+                        "informant",
+                        "gnkgonkdroid"
+                    ],
+                    "sensor": [
+                        "passivesensors"
+                    ],
+                    "tech": [
+                        "biohexacryptcodes"
+                    ]
+                }
+            },
+            {
+                "id": "ember",
+                "points": 64,
+                "ship": "tiebainterceptor",
+                "upgrades": {
+                    "missile": [
+                        "clustermissiles"
+                    ],
+                    "talent": [
+                        "marksmanship"
+                    ],
+                    "tech": [
+                        "targetingsynchronizer"
+                    ]
+                }
+            }
+        ],
+        "points": 200,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Option2": {
+        "faction": "separatistalliance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "separatistdrone",
+                "points": 31,
+                "ship": "vultureclassdroidfighter",
+                "upgrades": {
+                    "configuration": [
+                        "grapplingstruts"
+                    ],
+                    "missile": [
+                        "discordmissiles"
+                    ],
+                    "modification": [
+                        "hullupgrade"
+                    ]
+                }
+            },
+            {
+                "id": "tradefederationdrone",
+                "points": 30,
+                "ship": "vultureclassdroidfighter",
+                "upgrades": {
+                    "configuration": [
+                        "grapplingstruts"
+                    ],
+                    "missile": [
+                        "discordmissiles"
+                    ],
+                    "modification": [
+                        "stealthdevice"
+                    ]
+                }
+            },
+            {
+                "id": "darkcourier",
+                "points": 94,
+                "ship": "sithinfiltrator",
+                "upgrades": {
+                    "cannon": [
+                        "heavylasercannon"
+                    ],
+                    "crew": [
+                        "gnkgonkdroid",
+                        "novicetechnician"
+                    ],
+                    "device": [
+                        "connernets"
+                    ],
+                    "tacticalrelay": [
+                        "tv94"
+                    ],
+                    "title": [
+                        "scimitar"
+                    ],
+                    "torpedo": [
+                        "plasmatorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "petranakiarenaace",
+                "points": 44,
+                "ship": "nantexclassstarfighter",
+                "upgrades": {
+                    "talent": [
+                        "composure",
+                        "graviticdeflection"
+                    ]
+                }
+            }
+        ],
+        "points": 199,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "TTT": "Tommy Adams",
+    "VassalForm1": "MegaSilver",
+    "VassalForm2": "MegaSilver"
+}

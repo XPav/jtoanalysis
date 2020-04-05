@@ -1,0 +1,200 @@
+{
+    "Add": "Advanced Optics on Avenger",
+    "Discord": "#8108",
+    "Drop": "Juke from Backdraft",
+    "Final": {
+        "faction": "firstorder",
+        "name": "Phillip Pond JTO",
+        "pilots": [
+            {
+                "id": "backdraft",
+                "points": 61,
+                "ship": "tiesffighter",
+                "upgrades": {
+                    "missile": [
+                        "protonrockets"
+                    ],
+                    "modification": [
+                        "hullupgrade"
+                    ],
+                    "sensor": [
+                        "firecontrolsystem"
+                    ],
+                    "tech": [
+                        "primedthrusters"
+                    ]
+                }
+            },
+            {
+                "id": "static",
+                "points": 41,
+                "ship": "tiefofighter",
+                "upgrades": {
+                    "talent": [
+                        "trickshot"
+                    ],
+                    "tech": [
+                        "advancedoptics"
+                    ]
+                }
+            },
+            {
+                "id": "avenger",
+                "points": 60,
+                "ship": "tievnsilencer",
+                "upgrades": {
+                    "tech": [
+                        "advancedoptics"
+                    ]
+                }
+            },
+            {
+                "id": "omegasquadronace",
+                "points": 35,
+                "ship": "tiefofighter",
+                "upgrades": {
+                    "tech": [
+                        "primedthrusters"
+                    ]
+                }
+            }
+        ],
+        "points": 197,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Name": "Phillip Pond",
+    "Option1": {
+        "faction": "scumandvillainy",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "jakkugunrunner",
+                "points": 39,
+                "ship": "quadrijettransferspacetug",
+                "upgrades": {
+                    "device": [
+                        "connernets"
+                    ],
+                    "modification": [
+                        "targetingcomputer"
+                    ]
+                }
+            },
+            {
+                "id": "outerrimpioneer",
+                "points": 37,
+                "ship": "escapecraft",
+                "upgrades": {
+                    "crew": [
+                        "freelanceslicer"
+                    ],
+                    "modification": [
+                        "shieldupgrade"
+                    ]
+                }
+            },
+            {
+                "id": "inaldra",
+                "points": 38,
+                "ship": "m3ainterceptor",
+                "upgrades": {
+                    "modification": [
+                        "stealthdevice"
+                    ]
+                }
+            },
+            {
+                "id": "blacksunsoldier",
+                "points": 32,
+                "ship": "z95af4headhunter",
+                "upgrades": {
+                    "missile": [
+                        "magpulsewarheads"
+                    ],
+                    "modification": [
+                        "electronicbaffle"
+                    ]
+                }
+            },
+            {
+                "id": "blacksunsoldier",
+                "points": 24,
+                "ship": "z95af4headhunter",
+                "upgrades": {}
+            },
+            {
+                "id": "overseeryushyn",
+                "points": 26,
+                "ship": "modifiedtielnfighter",
+                "upgrades": {}
+            }
+        ],
+        "points": 196,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Option2": {
+        "faction": "firstorder",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "backdraft",
+                "points": 68,
+                "ship": "tiesffighter",
+                "upgrades": {
+                    "missile": [
+                        "protonrockets"
+                    ],
+                    "modification": [
+                        "hullupgrade"
+                    ],
+                    "sensor": [
+                        "firecontrolsystem"
+                    ],
+                    "talent": [
+                        "juke"
+                    ],
+                    "tech": [
+                        "primedthrusters"
+                    ]
+                }
+            },
+            {
+                "id": "static",
+                "points": 41,
+                "ship": "tiefofighter",
+                "upgrades": {
+                    "talent": [
+                        "trickshot"
+                    ],
+                    "tech": [
+                        "advancedoptics"
+                    ]
+                }
+            },
+            {
+                "id": "avenger",
+                "points": 56,
+                "ship": "tievnsilencer",
+                "upgrades": {}
+            },
+            {
+                "id": "omegasquadronace",
+                "points": 35,
+                "ship": "tiefofighter",
+                "upgrades": {
+                    "tech": [
+                        "primedthrusters"
+                    ]
+                }
+            }
+        ],
+        "points": 200,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "TTT": "Phillip Pond",
+    "VassalForm1": "Phillip Pond",
+    "VassalForm2": "Phill0091"
+}

@@ -1,0 +1,183 @@
+{
+    "Add": "Ion Cannon Turret to Norra Wexley",
+    "Discord": "AlmostBrave#3338",
+    "Drop": "Swarm Tactics from Rogue Squadron Escort",
+    "Final": {
+        "faction": "rebelalliance",
+        "name": "Shawn Ramberg JTO",
+        "pilots": [
+            {
+                "id": "roguesquadronescort",
+                "points": 68,
+                "ship": "ewing",
+                "upgrades": {
+                    "astromech": [
+                        "r5d8"
+                    ],
+                    "torpedo": [
+                        "plasmatorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "norrawexley-btla4ywing",
+                "points": 59,
+                "ship": "btla4ywing",
+                "upgrades": {
+                    "astromech": [
+                        "r3astromech"
+                    ],
+                    "talent": [
+                        "swarmtactics"
+                    ],
+                    "torpedo": [
+                        "iontorpedoes"
+                    ],
+                    "turret": [
+                        "ioncannonturret"
+                    ]
+                }
+            },
+            {
+                "id": "jakefarrell",
+                "points": 43,
+                "ship": "rz1awing",
+                "upgrades": {
+                    "talent": [
+                        "snapshot"
+                    ]
+                }
+            },
+            {
+                "id": "captainrex",
+                "points": 30,
+                "ship": "tielnfighter",
+                "upgrades": {}
+            }
+        ],
+        "points": 200,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Name": "Shawn Ramberg",
+    "Option1": {
+        "faction": "rebelalliance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "roguesquadronescort",
+                "points": 71,
+                "ship": "ewing",
+                "upgrades": {
+                    "astromech": [
+                        "r5d8"
+                    ],
+                    "talent": [
+                        "swarmtactics"
+                    ],
+                    "torpedo": [
+                        "plasmatorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "norrawexley-btla4ywing",
+                "points": 54,
+                "ship": "btla4ywing",
+                "upgrades": {
+                    "astromech": [
+                        "r3astromech"
+                    ],
+                    "talent": [
+                        "swarmtactics"
+                    ],
+                    "torpedo": [
+                        "iontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "jakefarrell",
+                "points": 43,
+                "ship": "rz1awing",
+                "upgrades": {
+                    "talent": [
+                        "snapshot"
+                    ]
+                }
+            },
+            {
+                "id": "captainrex",
+                "points": 30,
+                "ship": "tielnfighter",
+                "upgrades": {}
+            }
+        ],
+        "points": 198,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Option2": {
+        "faction": "scumandvillainy",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "l337-escapecraft",
+                "points": 32,
+                "ship": "escapecraft",
+                "upgrades": {
+                    "crew": [
+                        "cadbane"
+                    ],
+                    "modification": [
+                        "munitionsfailsafe"
+                    ],
+                    "talent": [
+                        "crackshot"
+                    ]
+                }
+            },
+            {
+                "id": "kavil",
+                "points": 54,
+                "ship": "btla4ywing",
+                "upgrades": {
+                    "gunner": [
+                        "agilegunner"
+                    ],
+                    "modification": [
+                        "hullupgrade"
+                    ]
+                }
+            },
+            {
+                "id": "quinnjast",
+                "points": 31,
+                "ship": "m3ainterceptor",
+                "upgrades": {}
+            },
+            {
+                "id": "landocalrissian-escapecraft",
+                "points": 32,
+                "ship": "escapecraft",
+                "upgrades": {
+                    "modification": [
+                        "targetingcomputer"
+                    ]
+                }
+            },
+            {
+                "id": "drearenthal",
+                "points": 49,
+                "ship": "btla4ywing",
+                "upgrades": {}
+            }
+        ],
+        "points": 198,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "TTT": "Shawn Ramberg",
+    "VassalForm1": "Almost Brave",
+    "VassalForm2": "Almost Brave"
+}

@@ -1,0 +1,163 @@
+{
+    "Add": "I added plasma torps to Anakin ",
+    "Discord": "KFull#6898",
+    "Drop": "I removed stealth device from Axe",
+    "Final": {
+        "faction": "galacticrepublic",
+        "name": "Kyle Fuller JTO",
+        "obstacles": [
+            "gascloud4",
+            "gascloud5",
+            "gascloud6"
+        ],
+        "pilots": [
+            {
+                "id": "obiwankenobi",
+                "points": 52,
+                "ship": "delta7aethersprite",
+                "upgrades": {
+                    "configuration": [
+                        "calibratedlasertargeting"
+                    ]
+                }
+            },
+            {
+                "id": "plokoon",
+                "points": 44,
+                "ship": "delta7aethersprite",
+                "upgrades": {}
+            },
+            {
+                "id": "axe",
+                "points": 35,
+                "ship": "v19torrentstarfighter",
+                "upgrades": {
+                    "talent": [
+                        "swarmtactics"
+                    ]
+                }
+            },
+            {
+                "id": "anakinskywalker-btlbywing",
+                "points": 69,
+                "ship": "btlbywing",
+                "upgrades": {
+                    "torpedo": [
+                        "plasmatorpedoes"
+                    ]
+                }
+            }
+        ],
+        "points": 200,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Name": "Kyle Fuller ",
+    "Option1": {
+        "faction": "rebelalliance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "bodhirook",
+                "points": 64,
+                "ship": "ut60duwing",
+                "upgrades": {
+                    "configuration": [
+                        "pivotwing"
+                    ],
+                    "crew": [
+                        "r2d2-crew"
+                    ],
+                    "sensor": [
+                        "collisiondetector"
+                    ]
+                }
+            },
+            {
+                "id": "benthictwotubes",
+                "points": 54,
+                "ship": "ut60duwing",
+                "upgrades": {
+                    "configuration": [
+                        "pivotwing"
+                    ],
+                    "illicit": [
+                        "contrabandcybernetics"
+                    ],
+                    "sensor": [
+                        "trajectorysimulator"
+                    ]
+                }
+            },
+            {
+                "id": "roarkgarnet",
+                "points": 52,
+                "ship": "hwk290lightfreighter",
+                "upgrades": {
+                    "crew": [
+                        "sawgerrera"
+                    ],
+                    "device": [
+                        "protonbombs"
+                    ]
+                }
+            },
+            {
+                "id": "captainrex",
+                "points": 30,
+                "ship": "tielnfighter",
+                "upgrades": {}
+            }
+        ],
+        "points": 200,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Option2": {
+        "faction": "galacticrepublic",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "obiwankenobi",
+                "points": 52,
+                "ship": "delta7aethersprite",
+                "upgrades": {
+                    "configuration": [
+                        "calibratedlasertargeting"
+                    ]
+                }
+            },
+            {
+                "id": "plokoon",
+                "points": 44,
+                "ship": "delta7aethersprite",
+                "upgrades": {}
+            },
+            {
+                "id": "axe",
+                "points": 41,
+                "ship": "v19torrentstarfighter",
+                "upgrades": {
+                    "modification": [
+                        "stealthdevice"
+                    ],
+                    "talent": [
+                        "swarmtactics"
+                    ]
+                }
+            },
+            {
+                "id": "anakinskywalker-btlbywing",
+                "points": 60,
+                "ship": "btlbywing",
+                "upgrades": {}
+            }
+        ],
+        "points": 197,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "TTT": "Kyle Fuller ",
+    "VassalForm1": "KFull",
+    "VassalForm2": "KFull"
+}

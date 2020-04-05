@@ -1,0 +1,176 @@
+{
+    "Add": "R2-D2 to Corran",
+    "Discord": "Handy-Eye-Candy#5392",
+    "Drop": "Veteran Turret Gunner from Miranda",
+    "Final": {
+        "faction": "rebelalliance",
+        "name": "Nate Handy JTO",
+        "obstacles": [
+            "yt2400debris1",
+            "core2asteroid3",
+            "gascloud2"
+        ],
+        "pilots": [
+            {
+                "id": "mirandadoni",
+                "points": 55,
+                "ship": "btls8kwing",
+                "upgrades": {
+                    "crew": [
+                        "leiaorgana"
+                    ],
+                    "torpedo": [
+                        "iontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "corranhorn",
+                "points": 82,
+                "ship": "ewing",
+                "upgrades": {
+                    "astromech": [
+                        "r2d2"
+                    ],
+                    "talent": [
+                        "outmaneuver"
+                    ]
+                }
+            },
+            {
+                "id": "magvayarro",
+                "points": 63,
+                "ship": "ut60duwing",
+                "upgrades": {
+                    "configuration": [
+                        "pivotwing"
+                    ],
+                    "crew": [
+                        "k2so"
+                    ],
+                    "sensor": [
+                        "passivesensors"
+                    ],
+                    "talent": [
+                        "predator"
+                    ]
+                }
+            }
+        ],
+        "points": 200,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Name": "Nathan (Nate) Handy",
+    "Option1": {
+        "faction": "galacticempire",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "alphasquadronpilot",
+                "points": 31,
+                "ship": "tieininterceptor",
+                "upgrades": {}
+            },
+            {
+                "id": "majorvynder",
+                "points": 52,
+                "ship": "alphaclassstarwing",
+                "upgrades": {
+                    "missile": [
+                        "homingmissiles"
+                    ],
+                    "talent": [
+                        "outmaneuver"
+                    ]
+                }
+            },
+            {
+                "id": "obsidiansquadronpilot",
+                "points": 23,
+                "ship": "tielnfighter",
+                "upgrades": {}
+            },
+            {
+                "id": "whisper",
+                "points": 59,
+                "ship": "tiephphantom",
+                "upgrades": {
+                    "sensor": [
+                        "firecontrolsystem"
+                    ]
+                }
+            },
+            {
+                "id": "baronoftheempire",
+                "points": 32,
+                "ship": "tieadvancedv1",
+                "upgrades": {
+                    "sensor": [
+                        "firecontrolsystem"
+                    ]
+                }
+            }
+        ],
+        "points": 197,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Option2": {
+        "faction": "rebelalliance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "mirandadoni",
+                "points": 65,
+                "ship": "btls8kwing",
+                "upgrades": {
+                    "crew": [
+                        "leiaorgana"
+                    ],
+                    "gunner": [
+                        "veteranturretgunner"
+                    ],
+                    "torpedo": [
+                        "iontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "corranhorn",
+                "points": 72,
+                "ship": "ewing",
+                "upgrades": {
+                    "talent": [
+                        "outmaneuver"
+                    ]
+                }
+            },
+            {
+                "id": "magvayarro",
+                "points": 63,
+                "ship": "ut60duwing",
+                "upgrades": {
+                    "configuration": [
+                        "pivotwing"
+                    ],
+                    "crew": [
+                        "k2so"
+                    ],
+                    "sensor": [
+                        "passivesensors"
+                    ],
+                    "talent": [
+                        "predator"
+                    ]
+                }
+            }
+        ],
+        "points": 200,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "TTT": "Nate Handy",
+    "VassalForm1": "Nate",
+    "VassalForm2": "Nate"
+}

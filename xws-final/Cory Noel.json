@@ -1,0 +1,198 @@
+{
+    "Add": "Proton Torpedoes to Bravo Flight Officer",
+    "Discord": "Cory#9783",
+    "Drop": "Advanced Sensors from Bravo Flight Officer",
+    "Final": {
+        "faction": "galacticrepublic",
+        "name": "Cory Noel JTO",
+        "obstacles": [
+            "coreasteroid5",
+            "yt2400debris0",
+            "core2asteroid5"
+        ],
+        "pilots": [
+            {
+                "id": "shadowsquadronveteran",
+                "points": 61,
+                "ship": "btlbywing",
+                "upgrades": {
+                    "astromech": [
+                        "r4astromech"
+                    ],
+                    "gunner": [
+                        "agilegunner"
+                    ],
+                    "modification": [
+                        "delayedfuses"
+                    ],
+                    "torpedo": [
+                        "protontorpedoes"
+                    ],
+                    "turret": [
+                        "ioncannonturret"
+                    ]
+                }
+            },
+            {
+                "id": "padmeamidala",
+                "points": 53,
+                "ship": "nabooroyaln1starfighter",
+                "upgrades": {
+                    "talent": [
+                        "daredevil"
+                    ],
+                    "torpedo": [
+                        "iontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "bravoflightofficer",
+                "points": 49,
+                "ship": "nabooroyaln1starfighter",
+                "upgrades": {
+                    "astromech": [
+                        "r3astromech"
+                    ],
+                    "torpedo": [
+                        "protontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "oddball",
+                "points": 35,
+                "ship": "v19torrentstarfighter",
+                "upgrades": {
+                    "modification": [
+                        "munitionsfailsafe"
+                    ]
+                }
+            }
+        ],
+        "points": 198,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Name": "Cory Noel",
+    "Option1": {
+        "faction": "galacticrepublic",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "shadowsquadronveteran",
+                "points": 61,
+                "ship": "btlbywing",
+                "upgrades": {
+                    "astromech": [
+                        "r4astromech"
+                    ],
+                    "gunner": [
+                        "agilegunner"
+                    ],
+                    "modification": [
+                        "delayedfuses"
+                    ],
+                    "torpedo": [
+                        "protontorpedoes"
+                    ],
+                    "turret": [
+                        "ioncannonturret"
+                    ]
+                }
+            },
+            {
+                "id": "padmeamidala",
+                "points": 53,
+                "ship": "nabooroyaln1starfighter",
+                "upgrades": {
+                    "talent": [
+                        "daredevil"
+                    ],
+                    "torpedo": [
+                        "iontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "bravoflightofficer",
+                "points": 46,
+                "ship": "nabooroyaln1starfighter",
+                "upgrades": {
+                    "astromech": [
+                        "r3astromech"
+                    ],
+                    "sensor": [
+                        "advancedsensors"
+                    ]
+                }
+            },
+            {
+                "id": "oddball",
+                "points": 35,
+                "ship": "v19torrentstarfighter",
+                "upgrades": {
+                    "modification": [
+                        "munitionsfailsafe"
+                    ]
+                }
+            }
+        ],
+        "points": 195,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Option2": {
+        "faction": "firstorder",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "backdraft",
+                "points": 57,
+                "ship": "tiesffighter",
+                "upgrades": {
+                    "gunner": [
+                        "specialforcesgunner"
+                    ],
+                    "sensor": [
+                        "collisiondetector"
+                    ],
+                    "talent": [
+                        "predator"
+                    ]
+                }
+            },
+            {
+                "id": "rush",
+                "points": 57,
+                "ship": "tievnsilencer",
+                "upgrades": {}
+            },
+            {
+                "id": "majorstridan",
+                "points": 83,
+                "ship": "upsilonclasscommandshuttle",
+                "upgrades": {
+                    "cannon": [
+                        "ioncannon"
+                    ],
+                    "crew": [
+                        "novicetechnician"
+                    ],
+                    "sensor": [
+                        "trajectorysimulator"
+                    ],
+                    "tech": [
+                        "targetingsynchronizer"
+                    ]
+                }
+            }
+        ],
+        "points": 197,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "TTT": "Cory Noel",
+    "VassalForm1": "Cory Noel",
+    "VassalForm2": "Cory Noel"
+}

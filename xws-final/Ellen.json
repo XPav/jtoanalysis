@@ -1,0 +1,178 @@
+{
+    "Add": "R4 astromech to the Y wing",
+    "Discord": "ellenczes#4218",
+    "Drop": "Greedo from the Y wing",
+    "Final": {
+        "faction": "scumandvillainy",
+        "name": "Ellen Ce JTO",
+        "pilots": [
+            {
+                "id": "zealousrecruit",
+                "points": 41,
+                "ship": "fangfighter",
+                "upgrades": {}
+            },
+            {
+                "id": "kavil",
+                "points": 56,
+                "ship": "btla4ywing",
+                "upgrades": {
+                    "astromech": [
+                        "r4astromech"
+                    ],
+                    "modification": [
+                        "afterburners"
+                    ],
+                    "turret": [
+                        "ioncannonturret"
+                    ]
+                }
+            },
+            {
+                "id": "ndrusuhlak",
+                "points": 30,
+                "ship": "z95af4headhunter",
+                "upgrades": {}
+            },
+            {
+                "id": "unkarplutt",
+                "points": 47,
+                "ship": "quadrijettransferspacetug",
+                "upgrades": {
+                    "device": [
+                        "ionbombs"
+                    ],
+                    "modification": [
+                        "afterburners"
+                    ],
+                    "tech": [
+                        "patternanalyzer"
+                    ]
+                }
+            },
+            {
+                "id": "blacksunsoldier",
+                "points": 24,
+                "ship": "z95af4headhunter",
+                "upgrades": {}
+            }
+        ],
+        "points": 198,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Name": "Ellen Ce",
+    "Option1": {
+        "faction": "scumandvillainy",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "zealousrecruit",
+                "points": 41,
+                "ship": "fangfighter",
+                "upgrades": {}
+            },
+            {
+                "id": "kavil",
+                "points": 55,
+                "ship": "btla4ywing",
+                "upgrades": {
+                    "gunner": [
+                        "greedo"
+                    ],
+                    "modification": [
+                        "afterburners"
+                    ],
+                    "turret": [
+                        "ioncannonturret"
+                    ]
+                }
+            },
+            {
+                "id": "ndrusuhlak",
+                "points": 30,
+                "ship": "z95af4headhunter",
+                "upgrades": {}
+            },
+            {
+                "id": "unkarplutt",
+                "points": 47,
+                "ship": "quadrijettransferspacetug",
+                "upgrades": {
+                    "device": [
+                        "ionbombs"
+                    ],
+                    "modification": [
+                        "afterburners"
+                    ],
+                    "tech": [
+                        "patternanalyzer"
+                    ]
+                }
+            },
+            {
+                "id": "blacksunsoldier",
+                "points": 24,
+                "ship": "z95af4headhunter",
+                "upgrades": {}
+            }
+        ],
+        "points": 197,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Option2": {
+        "faction": "separatistalliance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "generalgrievous",
+                "points": 47,
+                "ship": "belbullab22starfighter",
+                "upgrades": {
+                    "talent": [
+                        "swarmtactics"
+                    ]
+                }
+            },
+            {
+                "id": "bombardmentdrone",
+                "points": 50,
+                "ship": "hyenaclassdroidbomber",
+                "upgrades": {
+                    "device": [
+                        "proximitymines",
+                        "protonbombs"
+                    ],
+                    "sensor": [
+                        "advancedsensors"
+                    ]
+                }
+            },
+            {
+                "id": "berwerkret",
+                "points": 40,
+                "ship": "nantexclassstarfighter",
+                "upgrades": {}
+            },
+            {
+                "id": "wattambor",
+                "points": 42,
+                "ship": "belbullab22starfighter",
+                "upgrades": {}
+            },
+            {
+                "id": "separatistdrone",
+                "points": 21,
+                "ship": "vultureclassdroidfighter",
+                "upgrades": {}
+            }
+        ],
+        "points": 200,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "TTT": "Ellen Ce",
+    "VassalForm1": "Ellen",
+    "VassalForm2": "Ellen"
+}

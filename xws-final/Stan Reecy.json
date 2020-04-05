@@ -1,0 +1,170 @@
+{
+    "Add": "Hull Upgrade to Wulffwarro",
+    "Discord": "atlh1989#7841",
+    "Drop": "Proton Rockets from Leebo",
+    "Final": {
+        "faction": "rebelalliance",
+        "name": "Wullff of Wall Street",
+        "pilots": [
+            {
+                "id": "ap5",
+                "points": 35,
+                "ship": "sheathipedeclassshuttle",
+                "upgrades": {
+                    "crew": [
+                        "jynerso"
+                    ],
+                    "talent": [
+                        "crackshot"
+                    ],
+                    "title": [
+                        "phantom"
+                    ]
+                }
+            },
+            {
+                "id": "wullffwarro",
+                "points": 71,
+                "ship": "auzituckgunship",
+                "upgrades": {
+                    "crew": [
+                        "informant",
+                        "niennunb"
+                    ],
+                    "modification": [
+                        "hullupgrade"
+                    ],
+                    "talent": [
+                        "experthandling"
+                    ]
+                }
+            },
+            {
+                "id": "leebo",
+                "points": 89,
+                "ship": "yt2400lightfreighter",
+                "upgrades": {
+                    "gunner": [
+                        "agilegunner"
+                    ]
+                }
+            }
+        ],
+        "points": 195,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Name": "Stan Reecy",
+    "Option1": {
+        "faction": "resistance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "bb8",
+                "points": 32,
+                "ship": "resistancetransportpod",
+                "upgrades": {
+                    "talent": [
+                        "outmaneuver"
+                    ]
+                }
+            },
+            {
+                "id": "covanell",
+                "points": 64,
+                "ship": "resistancetransport",
+                "upgrades": {
+                    "crew": [
+                        "leiaorgana-resistance"
+                    ],
+                    "torpedo": [
+                        "plasmatorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "finchdallow",
+                "points": 75,
+                "ship": "mg100starfortress",
+                "upgrades": {
+                    "crew": [
+                        "chewbacca-crew-swz19"
+                    ],
+                    "device": [
+                        "seismiccharges"
+                    ],
+                    "modification": [
+                        "delayedfuses"
+                    ],
+                    "tech": [
+                        "targetingsynchronizer"
+                    ]
+                }
+            },
+            {
+                "id": "vimoradi",
+                "points": 27,
+                "ship": "resistancetransportpod",
+                "upgrades": {}
+            }
+        ],
+        "points": 198,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Option2": {
+        "faction": "rebelalliance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "ap5",
+                "points": 35,
+                "ship": "sheathipedeclassshuttle",
+                "upgrades": {
+                    "crew": [
+                        "jynerso"
+                    ],
+                    "talent": [
+                        "crackshot"
+                    ],
+                    "title": [
+                        "phantom"
+                    ]
+                }
+            },
+            {
+                "id": "wullffwarro",
+                "points": 68,
+                "ship": "auzituckgunship",
+                "upgrades": {
+                    "crew": [
+                        "informant",
+                        "niennunb"
+                    ],
+                    "talent": [
+                        "experthandling"
+                    ]
+                }
+            },
+            {
+                "id": "leebo",
+                "points": 96,
+                "ship": "yt2400lightfreighter",
+                "upgrades": {
+                    "gunner": [
+                        "agilegunner"
+                    ],
+                    "missile": [
+                        "protonrockets"
+                    ]
+                }
+            }
+        ],
+        "points": 199,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "TTT": "Stan Reecy",
+    "VassalForm1": "Stan Reecy",
+    "VassalForm2": "Stan Reecy"
+}

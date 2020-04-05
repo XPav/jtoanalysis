@@ -1,0 +1,218 @@
+{
+    "Add": "Adding 0-0-0 to Latts",
+    "Discord": "Chewels#6849",
+    "Drop": "Freelance Slicer off Latts",
+    "Final": {
+        "faction": "scumandvillainy",
+        "name": "Matthew LeClair JTO",
+        "pilots": [
+            {
+                "id": "lattsrazzi",
+                "points": 82,
+                "ship": "yv666lightfreighter",
+                "upgrades": {
+                    "cannon": [
+                        "jammingbeam"
+                    ],
+                    "crew": [
+                        "bobafett",
+                        "000"
+                    ],
+                    "gunner": [
+                        "bt1"
+                    ],
+                    "illicit": [
+                        "feedbackarray"
+                    ],
+                    "missile": [
+                        "concussionmissiles"
+                    ],
+                    "modification": [
+                        "hullupgrade"
+                    ],
+                    "talent": [
+                        "marksmanship"
+                    ],
+                    "title": [
+                        "houndstooth"
+                    ]
+                }
+            },
+            {
+                "id": "cartelspacer",
+                "points": 31,
+                "ship": "m3ainterceptor",
+                "upgrades": {
+                    "torpedo": [
+                        "iontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "graz",
+                "points": 57,
+                "ship": "kihraxzfighter",
+                "upgrades": {
+                    "illicit": [
+                        "inertialdampeners"
+                    ],
+                    "modification": [
+                        "staticdischargevanes"
+                    ],
+                    "talent": [
+                        "marksmanship"
+                    ]
+                }
+            },
+            {
+                "id": "sunnybounder",
+                "points": 27,
+                "ship": "m3ainterceptor",
+                "upgrades": {}
+            }
+        ],
+        "points": 197,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Name": "Matthew LeClair",
+    "Option1": {
+        "faction": "scumandvillainy",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "lattsrazzi",
+                "points": 80,
+                "ship": "yv666lightfreighter",
+                "upgrades": {
+                    "cannon": [
+                        "jammingbeam"
+                    ],
+                    "crew": [
+                        "freelanceslicer",
+                        "bobafett"
+                    ],
+                    "gunner": [
+                        "bt1"
+                    ],
+                    "illicit": [
+                        "feedbackarray"
+                    ],
+                    "missile": [
+                        "concussionmissiles"
+                    ],
+                    "modification": [
+                        "hullupgrade"
+                    ],
+                    "talent": [
+                        "marksmanship"
+                    ],
+                    "title": [
+                        "houndstooth"
+                    ]
+                }
+            },
+            {
+                "id": "cartelspacer",
+                "points": 31,
+                "ship": "m3ainterceptor",
+                "upgrades": {
+                    "torpedo": [
+                        "iontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "graz",
+                "points": 57,
+                "ship": "kihraxzfighter",
+                "upgrades": {
+                    "illicit": [
+                        "inertialdampeners"
+                    ],
+                    "modification": [
+                        "staticdischargevanes"
+                    ],
+                    "talent": [
+                        "marksmanship"
+                    ]
+                }
+            },
+            {
+                "id": "sunnybounder",
+                "points": 27,
+                "ship": "m3ainterceptor",
+                "upgrades": {}
+            }
+        ],
+        "points": 195,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Option2": {
+        "faction": "galacticrepublic",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "oddball-btlbywing",
+                "points": 72,
+                "ship": "btlbywing",
+                "upgrades": {
+                    "astromech": [
+                        "r4p17"
+                    ],
+                    "device": [
+                        "electroprotonbomb"
+                    ],
+                    "gunner": [
+                        "hotshotgunner"
+                    ],
+                    "talent": [
+                        "debrisgambit"
+                    ]
+                }
+            },
+            {
+                "id": "anakinskywalker-nabooroyaln1starfighter",
+                "points": 58,
+                "ship": "nabooroyaln1starfighter",
+                "upgrades": {
+                    "astromech": [
+                        "r2c4"
+                    ],
+                    "talent": [
+                        "outmaneuver"
+                    ],
+                    "torpedo": [
+                        "advprotontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "broadside",
+                "points": 40,
+                "ship": "btlbywing",
+                "upgrades": {
+                    "modification": [
+                        "synchronizedconsole"
+                    ],
+                    "turret": [
+                        "dorsalturret"
+                    ]
+                }
+            },
+            {
+                "id": "goldsquadrontrooper",
+                "points": 25,
+                "ship": "v19torrentstarfighter",
+                "upgrades": {}
+            }
+        ],
+        "points": 195,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "TTT": "Matthew LeCLair",
+    "VassalForm1": "Chewels",
+    "VassalForm2": "Chewels"
+}

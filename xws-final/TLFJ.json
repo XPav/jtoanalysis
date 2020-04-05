@@ -1,0 +1,177 @@
+{
+    "Add": "Xg-1 Assault Configuration to major vynder",
+    "Discord": "TLFJ#7286",
+    "Drop": "Xg-1 Assault Configuration from major vynder",
+    "Final": {
+        "faction": "galacticempire",
+        "name": "Johnson's Jank Tank",
+        "obstacles": [
+            "coreasteroid5",
+            "core2asteroid4",
+            "core2asteroid5"
+        ],
+        "pilots": [
+            {
+                "id": "majorvynder",
+                "points": 67,
+                "ship": "alphaclassstarwing",
+                "upgrades": {
+                    "configuration": [
+                        "os1arsenalloadout"
+                    ],
+                    "missile": [
+                        "ionmissiles"
+                    ],
+                    "modification": [
+                        "advancedslam"
+                    ],
+                    "sensor": [
+                        "passivesensors"
+                    ],
+                    "talent": [
+                        "elusive"
+                    ],
+                    "torpedo": [
+                        "protontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "idenversio",
+                "points": 41,
+                "ship": "tielnfighter",
+                "upgrades": {}
+            },
+            {
+                "id": "coloneljendon",
+                "points": 55,
+                "ship": "lambdaclasst4ashuttle",
+                "upgrades": {
+                    "modification": [
+                        "hullupgrade"
+                    ],
+                    "title": [
+                        "st321"
+                    ]
+                }
+            },
+            {
+                "id": "blacksquadronscout",
+                "points": 34,
+                "ship": "tieskstriker",
+                "upgrades": {}
+            }
+        ],
+        "points": 197,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Name": "Travis Johnson",
+    "Option1": {
+        "faction": "rebelalliance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "captainrex",
+                "points": 30,
+                "ship": "tielnfighter",
+                "upgrades": {}
+            },
+            {
+                "id": "outerrimsmuggler",
+                "points": 76,
+                "ship": "modifiedyt1300lightfreighter",
+                "upgrades": {
+                    "crew": [
+                        "sabinewren",
+                        "chopper-crew"
+                    ],
+                    "missile": [
+                        "clustermissiles"
+                    ]
+                }
+            },
+            {
+                "id": "corranhorn",
+                "points": 72,
+                "ship": "ewing",
+                "upgrades": {
+                    "modification": [
+                        "staticdischargevanes"
+                    ]
+                }
+            },
+            {
+                "id": "banditsquadronpilot",
+                "points": 22,
+                "ship": "z95af4headhunter",
+                "upgrades": {}
+            }
+        ],
+        "points": 200,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Option2": {
+        "faction": "galacticempire",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "majorvynder",
+                "points": 67,
+                "ship": "alphaclassstarwing",
+                "upgrades": {
+                    "configuration": [
+                        "xg1assaultconfiguration"
+                    ],
+                    "missile": [
+                        "ionmissiles"
+                    ],
+                    "modification": [
+                        "advancedslam"
+                    ],
+                    "sensor": [
+                        "passivesensors"
+                    ],
+                    "talent": [
+                        "elusive"
+                    ],
+                    "torpedo": [
+                        "protontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "idenversio",
+                "points": 41,
+                "ship": "tielnfighter",
+                "upgrades": {}
+            },
+            {
+                "id": "coloneljendon",
+                "points": 55,
+                "ship": "lambdaclasst4ashuttle",
+                "upgrades": {
+                    "modification": [
+                        "hullupgrade"
+                    ],
+                    "title": [
+                        "st321"
+                    ]
+                }
+            },
+            {
+                "id": "blacksquadronscout",
+                "points": 34,
+                "ship": "tieskstriker",
+                "upgrades": {}
+            }
+        ],
+        "points": 197,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "TTT": "Travis Johnson ",
+    "VassalForm1": "TLFJ",
+    "VassalForm2": "TLFJ"
+}

@@ -1,0 +1,180 @@
+{
+    "Add": "Ion Cannon Turret onto Dutch ",
+    "Discord": "unclepatchie (user#5608) ",
+    "Drop": "Ion Cannon Turret off Ezra ",
+    "Final": {
+        "faction": "rebelalliance",
+        "pilots": [
+            {
+                "id": "ezrabridger",
+                "points": 43,
+                "ship": "attackshuttle",
+                "upgrades": {
+                    "force-power": [
+                        "heightenedperception"
+                    ],
+                    "title": [
+                        "phantom"
+                    ]
+                }
+            },
+            {
+                "id": "roguesquadronescort",
+                "points": 53,
+                "ship": "ewing",
+                "upgrades": {}
+            },
+            {
+                "id": "dutchvander",
+                "points": 51,
+                "ship": "btla4ywing",
+                "upgrades": {
+                    "astromech": [
+                        "r5d8"
+                    ],
+                    "turret": [
+                        "ioncannonturret"
+                    ]
+                }
+            },
+            {
+                "id": "jekporkins",
+                "points": 52,
+                "ship": "t65xwing",
+                "upgrades": {
+                    "astromech": [
+                        "r2astromech"
+                    ],
+                    "configuration": [
+                        "servomotorsfoils"
+                    ]
+                }
+            }
+        ],
+        "points": 199,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Name": "Greg Smith",
+    "Option1": {
+        "faction": "rebelalliance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "ezrabridger",
+                "points": 48,
+                "ship": "attackshuttle",
+                "upgrades": {
+                    "force-power": [
+                        "heightenedperception"
+                    ],
+                    "title": [
+                        "phantom"
+                    ],
+                    "turret": [
+                        "ioncannonturret"
+                    ]
+                }
+            },
+            {
+                "id": "dutchvander",
+                "points": 46,
+                "ship": "btla4ywing",
+                "upgrades": {
+                    "astromech": [
+                        "r5d8"
+                    ]
+                }
+            },
+            {
+                "id": "jekporkins",
+                "points": 52,
+                "ship": "t65xwing",
+                "upgrades": {
+                    "astromech": [
+                        "r2astromech"
+                    ],
+                    "configuration": [
+                        "servomotorsfoils"
+                    ]
+                }
+            },
+            {
+                "id": "roguesquadronescort",
+                "points": 53,
+                "ship": "ewing",
+                "upgrades": {}
+            }
+        ],
+        "points": 199,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Option2": {
+        "faction": "firstorder",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "longshot",
+                "points": 36,
+                "ship": "tiefofighter",
+                "upgrades": {
+                    "modification": [
+                        "munitionsfailsafe"
+                    ],
+                    "tech": [
+                        "advancedoptics"
+                    ]
+                }
+            },
+            {
+                "id": "captainphasma",
+                "points": 57,
+                "ship": "tiesffighter",
+                "upgrades": {
+                    "gunner": [
+                        "hotshotgunner"
+                    ],
+                    "sensor": [
+                        "advancedsensors"
+                    ],
+                    "tech": [
+                        "biohexacryptcodes"
+                    ]
+                }
+            },
+            {
+                "id": "firstorderprovocateur",
+                "points": 55,
+                "ship": "tiebainterceptor",
+                "upgrades": {
+                    "missile": [
+                        "protonrockets"
+                    ],
+                    "modification": [
+                        "targetingcomputer"
+                    ]
+                }
+            },
+            {
+                "id": "backdraft",
+                "points": 47,
+                "ship": "tiesffighter",
+                "upgrades": {
+                    "gunner": [
+                        "skilledbombardier"
+                    ],
+                    "modification": [
+                        "stealthdevice"
+                    ]
+                }
+            }
+        ],
+        "points": 195,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "TTT": "Greg Smith",
+    "VassalForm1": "Greg Smith",
+    "VassalForm2": "Greg Smith"
+}

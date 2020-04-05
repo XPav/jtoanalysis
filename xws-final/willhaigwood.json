@@ -1,0 +1,166 @@
+{
+    "Add": "Special forces gunner to zeta ",
+    "Discord": "Killerbeardhawk #0037",
+    "Drop": "Cells off Tavson",
+    "Final": {
+        "faction": "firstorder",
+        "name": "Willhaigwood jto",
+        "pilots": [
+            {
+                "id": "lieutenanttavson",
+                "points": 76,
+                "ship": "upsilonclasscommandshuttle",
+                "upgrades": {
+                    "cannon": [
+                        "autoblasters"
+                    ],
+                    "crew": [
+                        "novicetechnician",
+                        "captainphasma"
+                    ]
+                }
+            },
+            {
+                "id": "null",
+                "points": 36,
+                "ship": "tiefofighter",
+                "upgrades": {
+                    "tech": [
+                        "targetingsynchronizer"
+                    ]
+                }
+            },
+            {
+                "id": "lieutenantlehuse",
+                "points": 43,
+                "ship": "tiesffighter",
+                "upgrades": {
+                    "missile": [
+                        "ionmissiles"
+                    ]
+                }
+            },
+            {
+                "id": "zetasquadronsurvivor",
+                "points": 42,
+                "ship": "tiesffighter",
+                "upgrades": {
+                    "gunner": [
+                        "specialforcesgunner"
+                    ]
+                }
+            }
+        ],
+        "points": 197,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Name": "William Haigwood ",
+    "Option1": {
+        "faction": "firstorder",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "lieutenanttavson",
+                "points": 85,
+                "ship": "upsilonclasscommandshuttle",
+                "upgrades": {
+                    "cannon": [
+                        "autoblasters"
+                    ],
+                    "crew": [
+                        "novicetechnician",
+                        "captainphasma"
+                    ],
+                    "tech": [
+                        "deuteriumpowercells"
+                    ]
+                }
+            },
+            {
+                "id": "null",
+                "points": 36,
+                "ship": "tiefofighter",
+                "upgrades": {
+                    "tech": [
+                        "targetingsynchronizer"
+                    ]
+                }
+            },
+            {
+                "id": "lieutenantlehuse",
+                "points": 43,
+                "ship": "tiesffighter",
+                "upgrades": {
+                    "missile": [
+                        "ionmissiles"
+                    ]
+                }
+            },
+            {
+                "id": "zetasquadronsurvivor",
+                "points": 32,
+                "ship": "tiesffighter",
+                "upgrades": {}
+            }
+        ],
+        "points": 196,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Option2": {
+        "faction": "separatistalliance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "captainsear",
+                "points": 56,
+                "ship": "belbullab22starfighter",
+                "upgrades": {
+                    "tacticalrelay": [
+                        "tv94"
+                    ],
+                    "title": [
+                        "soullessone"
+                    ]
+                }
+            },
+            {
+                "id": "precisehunter",
+                "points": 31,
+                "ship": "vultureclassdroidfighter",
+                "upgrades": {
+                    "configuration": [
+                        "grapplingstruts"
+                    ],
+                    "missile": [
+                        "protonrockets"
+                    ]
+                }
+            },
+            {
+                "id": "sunfac",
+                "points": 71,
+                "ship": "nantexclassstarfighter",
+                "upgrades": {
+                    "talent": [
+                        "intimidation",
+                        "squadleader"
+                    ]
+                }
+            },
+            {
+                "id": "berwerkret",
+                "points": 40,
+                "ship": "nantexclassstarfighter",
+                "upgrades": {}
+            }
+        ],
+        "points": 198,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "TTT": "Killerbeardhawk",
+    "VassalForm1": "willhaigwood",
+    "VassalForm2": "Willhaigwood "
+}

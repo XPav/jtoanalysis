@@ -1,0 +1,159 @@
+{
+    "Add": "Outmaneuver to Kare Kun",
+    "Discord": "Bremy #0795",
+    "Drop": "Juke from Kare Kun",
+    "Final": {
+        "faction": "resistance",
+        "name": "Christopher Bremner JTO",
+        "pilots": [
+            {
+                "id": "karekun",
+                "points": 69,
+                "ship": "t70xwing",
+                "upgrades": {
+                    "astromech": [
+                        "bb8"
+                    ],
+                    "configuration": [
+                        "integratedsfoils"
+                    ],
+                    "modification": [
+                        "electronicbaffle"
+                    ],
+                    "talent": [
+                        "outmaneuver"
+                    ],
+                    "tech": [
+                        "advancedoptics"
+                    ]
+                }
+            },
+            {
+                "id": "resistancesympathizer",
+                "points": 60,
+                "ship": "scavengedyt1300",
+                "upgrades": {}
+            },
+            {
+                "id": "rey",
+                "points": 70,
+                "ship": "scavengedyt1300",
+                "upgrades": {}
+            }
+        ],
+        "points": 199,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Name": "Christopher Bremner",
+    "Option1": {
+        "faction": "resistance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "karekun",
+                "points": 70,
+                "ship": "t70xwing",
+                "upgrades": {
+                    "astromech": [
+                        "bb8"
+                    ],
+                    "configuration": [
+                        "integratedsfoils"
+                    ],
+                    "modification": [
+                        "electronicbaffle"
+                    ],
+                    "talent": [
+                        "juke"
+                    ],
+                    "tech": [
+                        "advancedoptics"
+                    ]
+                }
+            },
+            {
+                "id": "resistancesympathizer",
+                "points": 60,
+                "ship": "scavengedyt1300",
+                "upgrades": {}
+            },
+            {
+                "id": "rey",
+                "points": 70,
+                "ship": "scavengedyt1300",
+                "upgrades": {}
+            }
+        ],
+        "points": 200,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Option2": {
+        "faction": "separatistalliance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "captainsear",
+                "points": 51,
+                "ship": "belbullab22starfighter",
+                "upgrades": {
+                    "title": [
+                        "soullessone"
+                    ]
+                }
+            },
+            {
+                "id": "dbs32c",
+                "points": 62,
+                "ship": "hyenaclassdroidbomber",
+                "upgrades": {
+                    "configuration": [
+                        "landingstruts"
+                    ],
+                    "modification": [
+                        "staticdischargevanes"
+                    ],
+                    "sensor": [
+                        "collisiondetector"
+                    ],
+                    "tacticalrelay": [
+                        "ta175"
+                    ]
+                }
+            },
+            {
+                "id": "generalgrievous",
+                "points": 53,
+                "ship": "belbullab22starfighter",
+                "upgrades": {
+                    "modification": [
+                        "shieldupgrade"
+                    ],
+                    "talent": [
+                        "elusive"
+                    ]
+                }
+            },
+            {
+                "id": "precisehunter",
+                "points": 29,
+                "ship": "vultureclassdroidfighter",
+                "upgrades": {
+                    "configuration": [
+                        "grapplingstruts"
+                    ],
+                    "missile": [
+                        "energyshellcharges"
+                    ]
+                }
+            }
+        ],
+        "points": 195,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "TTT": "Bremy",
+    "VassalForm1": "Bremy",
+    "VassalForm2": "Bremy"
+}

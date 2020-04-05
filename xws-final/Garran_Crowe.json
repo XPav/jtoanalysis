@@ -1,0 +1,179 @@
+{
+    "Add": "Moldy Crowe, Palob Godalhi",
+    "Discord": "Garran Crowe 4570",
+    "Drop": "Proton Torpedo, Dalan Oberos",
+    "Final": {
+        "faction": "scumandvillainy",
+        "name": "Cam Murray JTO",
+        "pilots": [
+            {
+                "id": "binayrepirate",
+                "points": 28,
+                "ship": "z95af4headhunter",
+                "upgrades": {
+                    "missile": [
+                        "concussionmissiles"
+                    ]
+                }
+            },
+            {
+                "id": "dalanoberos",
+                "points": 60,
+                "ship": "m12lkimogilafighter",
+                "upgrades": {
+                    "astromech": [
+                        "r5p8"
+                    ],
+                    "missile": [
+                        "clustermissiles"
+                    ],
+                    "modification": [
+                        "angleddeflectors"
+                    ]
+                }
+            },
+            {
+                "id": "palobgodalhi",
+                "points": 63,
+                "ship": "hwk290lightfreighter",
+                "upgrades": {
+                    "device": [
+                        "protonbombs"
+                    ],
+                    "title": [
+                        "moldycrow"
+                    ]
+                }
+            },
+            {
+                "id": "miningguildsentry",
+                "points": 22,
+                "ship": "modifiedtielnfighter",
+                "upgrades": {}
+            },
+            {
+                "id": "kaatoleeachos",
+                "points": 27,
+                "ship": "z95af4headhunter",
+                "upgrades": {}
+            }
+        ],
+        "points": 200,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Name": "Cameron Murray",
+    "Option1": {
+        "faction": "scumandvillainy",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "binayrepirate",
+                "points": 28,
+                "ship": "z95af4headhunter",
+                "upgrades": {
+                    "missile": [
+                        "concussionmissiles"
+                    ]
+                }
+            },
+            {
+                "id": "dalanoberos",
+                "points": 73,
+                "ship": "m12lkimogilafighter",
+                "upgrades": {
+                    "astromech": [
+                        "r5p8"
+                    ],
+                    "missile": [
+                        "clustermissiles"
+                    ],
+                    "modification": [
+                        "angleddeflectors"
+                    ],
+                    "torpedo": [
+                        "protontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "palobgodalhi",
+                "points": 45,
+                "ship": "hwk290lightfreighter",
+                "upgrades": {
+                    "device": [
+                        "protonbombs"
+                    ]
+                }
+            },
+            {
+                "id": "miningguildsentry",
+                "points": 22,
+                "ship": "modifiedtielnfighter",
+                "upgrades": {}
+            },
+            {
+                "id": "kaatoleeachos",
+                "points": 27,
+                "ship": "z95af4headhunter",
+                "upgrades": {}
+            }
+        ],
+        "points": 195,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Option2": {
+        "faction": "separatistalliance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "separatistdrone",
+                "points": 21,
+                "ship": "vultureclassdroidfighter",
+                "upgrades": {}
+            },
+            {
+                "id": "countdooku",
+                "points": 101,
+                "ship": "sithinfiltrator",
+                "upgrades": {
+                    "crew": [
+                        "chancellorpalpatine"
+                    ],
+                    "modification": [
+                        "tacticalscrambler"
+                    ],
+                    "tacticalrelay": [
+                        "ta175"
+                    ],
+                    "torpedo": [
+                        "protontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "darkcourier",
+                "points": 59,
+                "ship": "sithinfiltrator",
+                "upgrades": {
+                    "device": [
+                        "clustermines"
+                    ]
+                }
+            },
+            {
+                "id": "tradefederationdrone",
+                "points": 19,
+                "ship": "vultureclassdroidfighter",
+                "upgrades": {}
+            }
+        ],
+        "points": 200,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "TTT": "Cam Murray ",
+    "VassalForm1": "Garran_Crowe",
+    "VassalForm2": "Garran_Crowe"
+}

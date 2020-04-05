@@ -1,0 +1,177 @@
+{
+    "Add": "K2S0 on Leia",
+    "Discord": "Marc M #4050",
+    "Drop": "Cassian Andor on Leia",
+    "Final": {
+        "faction": "rebelalliance",
+        "name": "Marc McIntyre JTO",
+        "pilots": [
+            {
+                "id": "zeborrelios-sheathipedeclassshuttle",
+                "points": 43,
+                "ship": "sheathipedeclassshuttle",
+                "upgrades": {
+                    "astromech": [
+                        "r2astromech"
+                    ],
+                    "modification": [
+                        "electronicbaffle"
+                    ],
+                    "title": [
+                        "phantom"
+                    ]
+                }
+            },
+            {
+                "id": "leiaorgana",
+                "points": 92,
+                "ship": "modifiedyt1300lightfreighter",
+                "upgrades": {
+                    "crew": [
+                        "landocalrissian",
+                        "k2so"
+                    ],
+                    "force-power": [
+                        "brilliantevasion"
+                    ]
+                }
+            },
+            {
+                "id": "roguesquadronescort",
+                "points": 62,
+                "ship": "ewing",
+                "upgrades": {
+                    "talent": [
+                        "intimidation"
+                    ],
+                    "torpedo": [
+                        "advprotontorpedoes"
+                    ]
+                }
+            }
+        ],
+        "points": 197,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Name": "Marc McIntyre",
+    "Option1": {
+        "faction": "rebelalliance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "zeborrelios-sheathipedeclassshuttle",
+                "points": 43,
+                "ship": "sheathipedeclassshuttle",
+                "upgrades": {
+                    "astromech": [
+                        "r2astromech"
+                    ],
+                    "modification": [
+                        "electronicbaffle"
+                    ],
+                    "title": [
+                        "phantom"
+                    ]
+                }
+            },
+            {
+                "id": "leiaorgana",
+                "points": 90,
+                "ship": "modifiedyt1300lightfreighter",
+                "upgrades": {
+                    "crew": [
+                        "landocalrissian",
+                        "cassianandor"
+                    ],
+                    "force-power": [
+                        "brilliantevasion"
+                    ]
+                }
+            },
+            {
+                "id": "roguesquadronescort",
+                "points": 62,
+                "ship": "ewing",
+                "upgrades": {
+                    "talent": [
+                        "intimidation"
+                    ],
+                    "torpedo": [
+                        "advprotontorpedoes"
+                    ]
+                }
+            }
+        ],
+        "points": 195,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Option2": {
+        "faction": "scumandvillainy",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "contractedscout",
+                "points": 57,
+                "ship": "jumpmaster5000",
+                "upgrades": {
+                    "illicit": [
+                        "riggedcargochute"
+                    ],
+                    "modification": [
+                        "shieldupgrade"
+                    ],
+                    "torpedo": [
+                        "iontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "crymorahgoon",
+                "points": 35,
+                "ship": "btla4ywing",
+                "upgrades": {
+                    "astromech": [
+                        "r4astromech"
+                    ],
+                    "turret": [
+                        "dorsalturret"
+                    ]
+                }
+            },
+            {
+                "id": "lattsrazzi",
+                "points": 73,
+                "ship": "yv666lightfreighter",
+                "upgrades": {
+                    "crew": [
+                        "l337",
+                        "freelanceslicer"
+                    ],
+                    "illicit": [
+                        "contrabandcybernetics"
+                    ],
+                    "missile": [
+                        "magpulsewarheads"
+                    ],
+                    "title": [
+                        "houndstooth"
+                    ]
+                }
+            },
+            {
+                "id": "jakkugunrunner",
+                "points": 30,
+                "ship": "quadrijettransferspacetug",
+                "upgrades": {}
+            }
+        ],
+        "points": 195,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "TTT": "Marc McIntyre",
+    "VassalForm1": "Marc",
+    "VassalForm2": "Marc"
+}

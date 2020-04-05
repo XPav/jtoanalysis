@@ -1,0 +1,161 @@
+{
+    "Add": "Dauntless to Oicunn",
+    "Discord": "Gypsygambit#3671",
+    "Drop": "Delayed Fuses from Oicunn",
+    "Final": {
+        "faction": "galacticempire",
+        "name": "Jonathan McKinstray JTO",
+        "pilots": [
+            {
+                "id": "maulermithel",
+                "points": 31,
+                "ship": "tielnfighter",
+                "upgrades": {}
+            },
+            {
+                "id": "captainoicunn",
+                "points": 85,
+                "ship": "vt49decimator",
+                "upgrades": {
+                    "crew": [
+                        "directorkrennic",
+                        "isbslicer"
+                    ],
+                    "title": [
+                        "dauntless"
+                    ]
+                }
+            },
+            {
+                "id": "inquisitor",
+                "points": 35,
+                "ship": "tieadvancedv1",
+                "upgrades": {}
+            },
+            {
+                "id": "lieutenantsai",
+                "points": 47,
+                "ship": "lambdaclasst4ashuttle",
+                "upgrades": {}
+            }
+        ],
+        "points": 198,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Name": "Jonathan McKinstray",
+    "Option1": {
+        "faction": "galacticempire",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "maulermithel",
+                "points": 31,
+                "ship": "tielnfighter",
+                "upgrades": {}
+            },
+            {
+                "id": "captainoicunn",
+                "points": 82,
+                "ship": "vt49decimator",
+                "upgrades": {
+                    "crew": [
+                        "directorkrennic",
+                        "isbslicer"
+                    ],
+                    "modification": [
+                        "delayedfuses"
+                    ]
+                }
+            },
+            {
+                "id": "inquisitor",
+                "points": 35,
+                "ship": "tieadvancedv1",
+                "upgrades": {}
+            },
+            {
+                "id": "lieutenantsai",
+                "points": 47,
+                "ship": "lambdaclasst4ashuttle",
+                "upgrades": {}
+            }
+        ],
+        "points": 195,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Option2": {
+        "faction": "scumandvillainy",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "overseeryushyn",
+                "points": 27,
+                "ship": "modifiedtielnfighter",
+                "upgrades": {
+                    "modification": [
+                        "delayedfuses"
+                    ]
+                }
+            },
+            {
+                "id": "drearenthal",
+                "points": 73,
+                "ship": "btla4ywing",
+                "upgrades": {
+                    "astromech": [
+                        "r5astromech"
+                    ],
+                    "device": [
+                        "electroprotonbomb"
+                    ],
+                    "illicit": [
+                        "deadmansswitch"
+                    ],
+                    "torpedo": [
+                        "advprotontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "ndrusuhlak",
+                "points": 38,
+                "ship": "z95af4headhunter",
+                "upgrades": {
+                    "illicit": [
+                        "inertialdampeners"
+                    ],
+                    "modification": [
+                        "targetingcomputer"
+                    ],
+                    "talent": [
+                        "crackshot"
+                    ]
+                }
+            },
+            {
+                "id": "blacksunsoldier",
+                "points": 29,
+                "ship": "z95af4headhunter",
+                "upgrades": {
+                    "modification": [
+                        "hullupgrade"
+                    ]
+                }
+            },
+            {
+                "id": "outerrimpioneer",
+                "points": 28,
+                "ship": "escapecraft",
+                "upgrades": {}
+            }
+        ],
+        "points": 195,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "TTT": "Jonathan McKinstray",
+    "VassalForm1": "JMcK",
+    "VassalForm2": "FA-57"
+}

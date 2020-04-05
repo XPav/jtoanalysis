@@ -1,0 +1,200 @@
+{
+    "Add": "Proximity Mines to Vagabond",
+    "Discord": "dleon user#8505",
+    "Drop": "Bomblet Generator From Rhymer",
+    "Final": {
+        "faction": "galacticempire",
+        "name": "Janks a Ton",
+        "obstacles": [
+            "coreasteroid5",
+            "yt2400debris2",
+            "core2asteroid5"
+        ],
+        "pilots": [
+            {
+                "id": "majorrhymer",
+                "points": 46,
+                "ship": "tiesabomber",
+                "upgrades": {
+                    "missile": [
+                        "clustermissiles"
+                    ],
+                    "talent": [
+                        "trickshot"
+                    ]
+                }
+            },
+            {
+                "id": "turrphennir",
+                "points": 46,
+                "ship": "tieininterceptor",
+                "upgrades": {
+                    "modification": [
+                        "targetingcomputer",
+                        "munitionsfailsafe"
+                    ]
+                }
+            },
+            {
+                "id": "vagabond",
+                "points": 41,
+                "ship": "tieskstriker",
+                "upgrades": {
+                    "device": [
+                        "proximitymines"
+                    ]
+                }
+            },
+            {
+                "id": "captainjonus",
+                "points": 66,
+                "ship": "tiesabomber",
+                "upgrades": {
+                    "missile": [
+                        "magpulsewarheads"
+                    ],
+                    "modification": [
+                        "electronicbaffle"
+                    ],
+                    "torpedo": [
+                        "protontorpedoes"
+                    ]
+                }
+            }
+        ],
+        "points": 199,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Name": "Daniel Leon",
+    "Option1": {
+        "faction": "resistance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "hansolo-scavengedyt1300",
+                "points": 76,
+                "ship": "scavengedyt1300",
+                "upgrades": {
+                    "crew": [
+                        "freelanceslicer"
+                    ],
+                    "gunner": [
+                        "skilledbombardier"
+                    ],
+                    "talent": [
+                        "trickshot"
+                    ],
+                    "title": [
+                        "reysmillenniumfalcon"
+                    ]
+                }
+            },
+            {
+                "id": "covanell",
+                "points": 60,
+                "ship": "resistancetransport",
+                "upgrades": {
+                    "astromech": [
+                        "r2ha"
+                    ],
+                    "cannon": [
+                        "heavylasercannon"
+                    ],
+                    "crew": [
+                        "ga97"
+                    ],
+                    "talent": [
+                        "elusive"
+                    ],
+                    "tech": [
+                        "advancedoptics"
+                    ]
+                }
+            },
+            {
+                "id": "vimoradi",
+                "points": 33,
+                "ship": "resistancetransportpod",
+                "upgrades": {
+                    "crew": [
+                        "kaydelconnix"
+                    ],
+                    "modification": [
+                        "delayedfuses"
+                    ]
+                }
+            },
+            {
+                "id": "rosetico",
+                "points": 26,
+                "ship": "resistancetransportpod",
+                "upgrades": {}
+            }
+        ],
+        "points": 195,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Option2": {
+        "faction": "galacticempire",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "majorrhymer",
+                "points": 51,
+                "ship": "tiesabomber",
+                "upgrades": {
+                    "device": [
+                        "bombletgenerator"
+                    ],
+                    "missile": [
+                        "clustermissiles"
+                    ],
+                    "talent": [
+                        "trickshot"
+                    ]
+                }
+            },
+            {
+                "id": "turrphennir",
+                "points": 46,
+                "ship": "tieininterceptor",
+                "upgrades": {
+                    "modification": [
+                        "targetingcomputer",
+                        "munitionsfailsafe"
+                    ]
+                }
+            },
+            {
+                "id": "vagabond",
+                "points": 35,
+                "ship": "tieskstriker",
+                "upgrades": {}
+            },
+            {
+                "id": "captainjonus",
+                "points": 66,
+                "ship": "tiesabomber",
+                "upgrades": {
+                    "missile": [
+                        "magpulsewarheads"
+                    ],
+                    "modification": [
+                        "electronicbaffle"
+                    ],
+                    "torpedo": [
+                        "protontorpedoes"
+                    ]
+                }
+            }
+        ],
+        "points": 198,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "TTT": "Daniel Leon",
+    "VassalForm1": "Epyonic",
+    "VassalForm2": "epyonic"
+}

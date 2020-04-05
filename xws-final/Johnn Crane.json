@@ -1,0 +1,176 @@
+{
+    "Add": "Pattern Analyzer to Major Stridan",
+    "Discord": "Johnn#9481",
+    "Drop": "Freelance Slicer from Major Stridan",
+    "Final": {
+        "faction": "firstorder",
+        "name": "Johnn Crane JTO",
+        "obstacles": [
+            "gascloud1",
+            "gascloud4",
+            "gascloud5"
+        ],
+        "pilots": [
+            {
+                "id": "null",
+                "points": 37,
+                "ship": "tiefofighter",
+                "upgrades": {
+                    "modification": [
+                        "hullupgrade"
+                    ]
+                }
+            },
+            {
+                "id": "majorstridan",
+                "points": 85,
+                "ship": "upsilonclasscommandshuttle",
+                "upgrades": {
+                    "cannon": [
+                        "autoblasters"
+                    ],
+                    "crew": [
+                        "captainphasma"
+                    ],
+                    "sensor": [
+                        "firecontrolsystem"
+                    ],
+                    "tech": [
+                        "deuteriumpowercells",
+                        "patternanalyzer"
+                    ]
+                }
+            },
+            {
+                "id": "sienarjaemusengineer",
+                "points": 51,
+                "ship": "tievnsilencer",
+                "upgrades": {}
+            },
+            {
+                "id": "epsilonsquadroncadet",
+                "points": 25,
+                "ship": "tiefofighter",
+                "upgrades": {}
+            }
+        ],
+        "points": 198,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Name": "Johnn Crane",
+    "Option1": {
+        "faction": "resistance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "finn",
+                "points": 44,
+                "ship": "resistancetransportpod",
+                "upgrades": {
+                    "crew": [
+                        "perceptivecopilot"
+                    ],
+                    "talent": [
+                        "heroic"
+                    ],
+                    "tech": [
+                        "targetingsynchronizer"
+                    ]
+                }
+            },
+            {
+                "id": "finchdallow",
+                "points": 77,
+                "ship": "mg100starfortress",
+                "upgrades": {
+                    "crew": [
+                        "larmadacy"
+                    ],
+                    "device": [
+                        "ionbombs"
+                    ],
+                    "sensor": [
+                        "firecontrolsystem"
+                    ],
+                    "tech": [
+                        "patternanalyzer"
+                    ]
+                }
+            },
+            {
+                "id": "greersonnel",
+                "points": 42,
+                "ship": "rz2awing",
+                "upgrades": {
+                    "tech": [
+                        "ferrospherepaint"
+                    ]
+                }
+            },
+            {
+                "id": "logisticsdivisionpilot",
+                "points": 32,
+                "ship": "resistancetransport",
+                "upgrades": {}
+            }
+        ],
+        "points": 195,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Option2": {
+        "faction": "firstorder",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "null",
+                "points": 37,
+                "ship": "tiefofighter",
+                "upgrades": {
+                    "modification": [
+                        "hullupgrade"
+                    ]
+                }
+            },
+            {
+                "id": "majorstridan",
+                "points": 83,
+                "ship": "upsilonclasscommandshuttle",
+                "upgrades": {
+                    "cannon": [
+                        "autoblasters"
+                    ],
+                    "crew": [
+                        "freelanceslicer",
+                        "captainphasma"
+                    ],
+                    "sensor": [
+                        "firecontrolsystem"
+                    ],
+                    "tech": [
+                        "deuteriumpowercells"
+                    ]
+                }
+            },
+            {
+                "id": "sienarjaemusengineer",
+                "points": 51,
+                "ship": "tievnsilencer",
+                "upgrades": {}
+            },
+            {
+                "id": "epsilonsquadroncadet",
+                "points": 25,
+                "ship": "tiefofighter",
+                "upgrades": {}
+            }
+        ],
+        "points": 196,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "TTT": "Johnn Crane",
+    "VassalForm1": "Johnn Crane",
+    "VassalForm2": "Johnn Crane"
+}

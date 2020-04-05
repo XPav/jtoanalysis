@@ -1,0 +1,186 @@
+{
+    "Add": "IG-88D crew to Dace Bonearm",
+    "Discord": "Knuckles53 (User#2699)",
+    "Drop": "Hull Upgrade from G4R-GOR V/M",
+    "Final": {
+        "faction": "scumandvillainy",
+        "name": "Mark Johnson JTO",
+        "obstacles": [
+            "coreasteroid5",
+            "core2asteroid4",
+            "core2asteroid5"
+        ],
+        "pilots": [
+            {
+                "id": "g4rgorvm",
+                "points": 28,
+                "ship": "m3ainterceptor",
+                "upgrades": {}
+            },
+            {
+                "id": "ig88a",
+                "points": 72,
+                "ship": "aggressorassaultfighter",
+                "upgrades": {
+                    "cannon": [
+                        "jammingbeam"
+                    ],
+                    "illicit": [
+                        "riggedcargochute"
+                    ],
+                    "title": [
+                        "ig2000"
+                    ]
+                }
+            },
+            {
+                "id": "kaatoleeachos",
+                "points": 30,
+                "ship": "z95af4headhunter",
+                "upgrades": {
+                    "talent": [
+                        "elusive"
+                    ]
+                }
+            },
+            {
+                "id": "ahhav",
+                "points": 30,
+                "ship": "modifiedtielnfighter",
+                "upgrades": {}
+            },
+            {
+                "id": "dacebonearm",
+                "points": 36,
+                "ship": "hwk290lightfreighter",
+                "upgrades": {
+                    "crew": [
+                        "ig88d"
+                    ]
+                }
+            }
+        ],
+        "points": 196,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Name": "Mark Johnson",
+    "Option1": {
+        "faction": "scumandvillainy",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "g4rgorvm",
+                "points": 35,
+                "ship": "m3ainterceptor",
+                "upgrades": {
+                    "modification": [
+                        "hullupgrade"
+                    ]
+                }
+            },
+            {
+                "id": "ig88a",
+                "points": 72,
+                "ship": "aggressorassaultfighter",
+                "upgrades": {
+                    "cannon": [
+                        "jammingbeam"
+                    ],
+                    "illicit": [
+                        "riggedcargochute"
+                    ],
+                    "title": [
+                        "ig2000"
+                    ]
+                }
+            },
+            {
+                "id": "kaatoleeachos",
+                "points": 30,
+                "ship": "z95af4headhunter",
+                "upgrades": {
+                    "talent": [
+                        "elusive"
+                    ]
+                }
+            },
+            {
+                "id": "ahhav",
+                "points": 30,
+                "ship": "modifiedtielnfighter",
+                "upgrades": {}
+            },
+            {
+                "id": "dacebonearm",
+                "points": 33,
+                "ship": "hwk290lightfreighter",
+                "upgrades": {}
+            }
+        ],
+        "points": 200,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Option2": {
+        "faction": "firstorder",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "recoil",
+                "points": 62,
+                "ship": "tievnsilencer",
+                "upgrades": {
+                    "missile": [
+                        "homingmissiles"
+                    ]
+                }
+            },
+            {
+                "id": "static",
+                "points": 49,
+                "ship": "tiefofighter",
+                "upgrades": {
+                    "modification": [
+                        "stealthdevice"
+                    ],
+                    "talent": [
+                        "juke"
+                    ],
+                    "tech": [
+                        "biohexacryptcodes"
+                    ]
+                }
+            },
+            {
+                "id": "omegasquadronexpert",
+                "points": 44,
+                "ship": "tiesffighter",
+                "upgrades": {
+                    "missile": [
+                        "protonrockets"
+                    ],
+                    "talent": [
+                        "intimidation"
+                    ]
+                }
+            },
+            {
+                "id": "lieutenantlehuse",
+                "points": 45,
+                "ship": "tiesffighter",
+                "upgrades": {
+                    "missile": [
+                        "concussionmissiles"
+                    ]
+                }
+            }
+        ],
+        "points": 200,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "TTT": "Mark Johnson",
+    "VassalForm1": "Knuckles",
+    "VassalForm2": "Knuckles"
+}

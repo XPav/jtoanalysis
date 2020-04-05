@@ -1,0 +1,151 @@
+{
+    "Add": "Lone Wolf to \"Whisper\"",
+    "Discord": "Mr.Moe#2766",
+    "Drop": "Angled Deflectors from \"Whisper\"",
+    "Final": {
+        "faction": "galacticempire",
+        "name": "Moritz Gwiasda JTO",
+        "pilots": [
+            {
+                "id": "whisper",
+                "points": 68,
+                "ship": "tiephphantom",
+                "upgrades": {
+                    "sensor": [
+                        "trajectorysimulator"
+                    ],
+                    "talent": [
+                        "lonewolf"
+                    ]
+                }
+            },
+            {
+                "id": "duchess",
+                "points": 48,
+                "ship": "tieskstriker",
+                "upgrades": {
+                    "gunner": [
+                        "skilledbombardier"
+                    ],
+                    "talent": [
+                        "swarmtactics"
+                    ]
+                }
+            },
+            {
+                "id": "seventhsister",
+                "points": 43,
+                "ship": "tieadvancedv1",
+                "upgrades": {}
+            },
+            {
+                "id": "idenversio",
+                "points": 41,
+                "ship": "tielnfighter",
+                "upgrades": {}
+            }
+        ],
+        "points": 200,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Name": "Moritz Gwiasda",
+    "Option1": {
+        "faction": "galacticempire",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "whisper",
+                "points": 66,
+                "ship": "tiephphantom",
+                "upgrades": {
+                    "modification": [
+                        "angleddeflectors"
+                    ],
+                    "sensor": [
+                        "trajectorysimulator"
+                    ]
+                }
+            },
+            {
+                "id": "duchess",
+                "points": 48,
+                "ship": "tieskstriker",
+                "upgrades": {
+                    "gunner": [
+                        "skilledbombardier"
+                    ],
+                    "talent": [
+                        "swarmtactics"
+                    ]
+                }
+            },
+            {
+                "id": "seventhsister",
+                "points": 43,
+                "ship": "tieadvancedv1",
+                "upgrades": {}
+            },
+            {
+                "id": "idenversio",
+                "points": 41,
+                "ship": "tielnfighter",
+                "upgrades": {}
+            }
+        ],
+        "points": 198,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Option2": {
+        "faction": "scumandvillainy",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "shadowporthunter",
+                "points": 71,
+                "ship": "lancerclasspursuitcraft",
+                "upgrades": {
+                    "crew": [
+                        "informant"
+                    ],
+                    "illicit": [
+                        "riggedcargochute"
+                    ],
+                    "modification": [
+                        "ablativeplating"
+                    ]
+                }
+            },
+            {
+                "id": "captainjostero",
+                "points": 52,
+                "ship": "kihraxzfighter",
+                "upgrades": {
+                    "missile": [
+                        "ionmissiles"
+                    ],
+                    "modification": [
+                        "stealthdevice"
+                    ]
+                }
+            },
+            {
+                "id": "guri",
+                "points": 76,
+                "ship": "starviperclassattackplatform",
+                "upgrades": {
+                    "talent": [
+                        "squadleader"
+                    ]
+                }
+            }
+        ],
+        "points": 199,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "TTT": "?",
+    "VassalForm1": "Mr.Moe",
+    "VassalForm2": "Mr.Moe"
+}

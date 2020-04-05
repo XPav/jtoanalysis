@@ -1,0 +1,170 @@
+{
+    "Add": "Mag-pulse warheads to Onyx squadron scout (tie/ ag aggressor) ",
+    "Discord": "Bozzer#3700",
+    "Drop": "Lone Wolf from Mauler Mithel (tie/ ln fighter)",
+    "Final": {
+        "faction": "galacticempire",
+        "name": "Alex Boulton JTO",
+        "pilots": [
+            {
+                "id": "valenrudor",
+                "points": 37,
+                "ship": "tielnfighter",
+                "upgrades": {
+                    "modification": [
+                        "staticdischargevanes"
+                    ],
+                    "talent": [
+                        "trickshot"
+                    ]
+                }
+            },
+            {
+                "id": "scarifbasepilot",
+                "points": 57,
+                "ship": "tiereaper",
+                "upgrades": {
+                    "crew": [
+                        "darthvader"
+                    ],
+                    "modification": [
+                        "shieldupgrade"
+                    ]
+                }
+            },
+            {
+                "id": "maulermithel",
+                "points": 31,
+                "ship": "tielnfighter",
+                "upgrades": {}
+            },
+            {
+                "id": "idenversio",
+                "points": 41,
+                "ship": "tielnfighter",
+                "upgrades": {}
+            },
+            {
+                "id": "onyxsquadronscout",
+                "points": 34,
+                "ship": "tieagaggressor",
+                "upgrades": {
+                    "missile": [
+                        "magpulsewarheads"
+                    ]
+                }
+            }
+        ],
+        "points": 200,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Name": "Alex Boulton ",
+    "Option1": {
+        "faction": "firstorder",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "lieutenantdormitz",
+                "points": 90,
+                "ship": "upsilonclasscommandshuttle",
+                "upgrades": {
+                    "cannon": [
+                        "ioncannon"
+                    ],
+                    "crew": [
+                        "novicetechnician"
+                    ],
+                    "sensor": [
+                        "advancedsensors"
+                    ]
+                }
+            },
+            {
+                "id": "ember",
+                "points": 69,
+                "ship": "tiebainterceptor",
+                "upgrades": {
+                    "missile": [
+                        "protonrockets"
+                    ],
+                    "modification": [
+                        "angleddeflectors"
+                    ],
+                    "talent": [
+                        "snapshot"
+                    ]
+                }
+            },
+            {
+                "id": "backdraft",
+                "points": 39,
+                "ship": "tiesffighter",
+                "upgrades": {}
+            }
+        ],
+        "points": 198,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Option2": {
+        "faction": "galacticempire",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "valenrudor",
+                "points": 37,
+                "ship": "tielnfighter",
+                "upgrades": {
+                    "modification": [
+                        "staticdischargevanes"
+                    ],
+                    "talent": [
+                        "trickshot"
+                    ]
+                }
+            },
+            {
+                "id": "scarifbasepilot",
+                "points": 57,
+                "ship": "tiereaper",
+                "upgrades": {
+                    "crew": [
+                        "darthvader"
+                    ],
+                    "modification": [
+                        "shieldupgrade"
+                    ]
+                }
+            },
+            {
+                "id": "maulermithel",
+                "points": 36,
+                "ship": "tielnfighter",
+                "upgrades": {
+                    "talent": [
+                        "lonewolf"
+                    ]
+                }
+            },
+            {
+                "id": "idenversio",
+                "points": 41,
+                "ship": "tielnfighter",
+                "upgrades": {}
+            },
+            {
+                "id": "onyxsquadronscout",
+                "points": 28,
+                "ship": "tieagaggressor",
+                "upgrades": {}
+            }
+        ],
+        "points": 199,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "TTT": "Alex Boulton",
+    "VassalForm1": "boulton",
+    "VassalForm2": "boulton"
+}

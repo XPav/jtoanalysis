@@ -1,0 +1,156 @@
+{
+    "Add": "L3-37 (4) to Moralo Eval",
+    "Discord": "jossmabic",
+    "Drop": "Inertials Dampeners (4*) from Moralo Eval",
+    "Final": {
+        "faction": "scumandvillainy",
+        "name": "Jossmabic",
+        "pilots": [
+            {
+                "id": "zealousrecruit",
+                "points": 54,
+                "ship": "fangfighter",
+                "upgrades": {
+                    "torpedo": [
+                        "protontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "moraloeval",
+                "points": 79,
+                "ship": "yv666lightfreighter",
+                "upgrades": {
+                    "crew": [
+                        "l337"
+                    ],
+                    "missile": [
+                        "ionmissiles"
+                    ],
+                    "modification": [
+                        "shieldupgrade"
+                    ],
+                    "title": [
+                        "houndstooth"
+                    ]
+                }
+            },
+            {
+                "id": "landocalrissian-escapecraft",
+                "points": 34,
+                "ship": "escapecraft",
+                "upgrades": {
+                    "modification": [
+                        "hullupgrade"
+                    ]
+                }
+            },
+            {
+                "id": "constablezuvio",
+                "points": 33,
+                "ship": "quadrijettransferspacetug",
+                "upgrades": {}
+            }
+        ],
+        "points": 200,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Name": "Lionel JOURDAN",
+    "Option1": {
+        "faction": "scumandvillainy",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "zealousrecruit",
+                "points": 54,
+                "ship": "fangfighter",
+                "upgrades": {
+                    "torpedo": [
+                        "protontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "moraloeval",
+                "points": 79,
+                "ship": "yv666lightfreighter",
+                "upgrades": {
+                    "illicit": [
+                        "inertialdampeners"
+                    ],
+                    "missile": [
+                        "ionmissiles"
+                    ],
+                    "modification": [
+                        "shieldupgrade"
+                    ],
+                    "title": [
+                        "houndstooth"
+                    ]
+                }
+            },
+            {
+                "id": "landocalrissian-escapecraft",
+                "points": 34,
+                "ship": "escapecraft",
+                "upgrades": {
+                    "modification": [
+                        "hullupgrade"
+                    ]
+                }
+            },
+            {
+                "id": "constablezuvio",
+                "points": 33,
+                "ship": "quadrijettransferspacetug",
+                "upgrades": {}
+            }
+        ],
+        "points": 200,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Option2": {
+        "faction": "firstorder",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "rush",
+                "points": 62,
+                "ship": "tievnsilencer",
+                "upgrades": {
+                    "missile": [
+                        "homingmissiles"
+                    ]
+                }
+            },
+            {
+                "id": "majorstridan",
+                "points": 77,
+                "ship": "upsilonclasscommandshuttle",
+                "upgrades": {
+                    "crew": [
+                        "gnkgonkdroid",
+                        "pettyofficerthanisson"
+                    ],
+                    "modification": [
+                        "tacticalscrambler"
+                    ]
+                }
+            },
+            {
+                "id": "starkillerbasepilot",
+                "points": 58,
+                "ship": "upsilonclasscommandshuttle",
+                "upgrades": {}
+            }
+        ],
+        "points": 197,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "TTT": "Lionel JOURDAN",
+    "VassalForm1": "Jossmabic",
+    "VassalForm2": "Jossmabic"
+}

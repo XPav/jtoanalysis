@@ -1,0 +1,173 @@
+{
+    "Add": "Outmanuever on Blackout",
+    "Discord": "Fluffyn#6280",
+    "Drop": "Lone Wolf from First Order Provocateur",
+    "Final": {
+        "faction": "firstorder",
+        "name": "Noah Routhier JTO",
+        "obstacles": [
+            "yt2400debris0",
+            "yt2400debris1",
+            "gascloud5"
+        ],
+        "pilots": [
+            {
+                "id": "firstorderprovocateur",
+                "points": 59,
+                "ship": "tiebainterceptor",
+                "upgrades": {
+                    "missile": [
+                        "clustermissiles"
+                    ],
+                    "tech": [
+                        "deuteriumpowercells"
+                    ]
+                }
+            },
+            {
+                "id": "holo",
+                "points": 59,
+                "ship": "tiebainterceptor",
+                "upgrades": {
+                    "talent": [
+                        "swarmtactics"
+                    ],
+                    "tech": [
+                        "biohexacryptcodes"
+                    ]
+                }
+            },
+            {
+                "id": "blackout",
+                "points": 78,
+                "ship": "tievnsilencer",
+                "upgrades": {
+                    "talent": [
+                        "outmaneuver"
+                    ],
+                    "tech": [
+                        "primedthrusters"
+                    ]
+                }
+            }
+        ],
+        "points": 196,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Name": "Noah Routhier",
+    "Option1": {
+        "faction": "firstorder",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "firstorderprovocateur",
+                "points": 64,
+                "ship": "tiebainterceptor",
+                "upgrades": {
+                    "missile": [
+                        "clustermissiles"
+                    ],
+                    "talent": [
+                        "lonewolf"
+                    ],
+                    "tech": [
+                        "deuteriumpowercells"
+                    ]
+                }
+            },
+            {
+                "id": "holo",
+                "points": 59,
+                "ship": "tiebainterceptor",
+                "upgrades": {
+                    "talent": [
+                        "swarmtactics"
+                    ],
+                    "tech": [
+                        "biohexacryptcodes"
+                    ]
+                }
+            },
+            {
+                "id": "blackout",
+                "points": 72,
+                "ship": "tievnsilencer",
+                "upgrades": {
+                    "tech": [
+                        "primedthrusters"
+                    ]
+                }
+            }
+        ],
+        "points": 195,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Option2": {
+        "faction": "scumandvillainy",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "nomlumb",
+                "points": 44,
+                "ship": "jumpmaster5000",
+                "upgrades": {
+                    "gunner": [
+                        "bt1"
+                    ],
+                    "illicit": [
+                        "deadmansswitch"
+                    ],
+                    "modification": [
+                        "electronicbaffle"
+                    ]
+                }
+            },
+            {
+                "id": "l337",
+                "points": 58,
+                "ship": "customizedyt1300lightfreighter",
+                "upgrades": {
+                    "crew": [
+                        "ig88d"
+                    ],
+                    "illicit": [
+                        "riggedcargochute"
+                    ],
+                    "missile": [
+                        "ionmissiles"
+                    ]
+                }
+            },
+            {
+                "id": "contractedscout",
+                "points": 53,
+                "ship": "jumpmaster5000",
+                "upgrades": {
+                    "illicit": [
+                        "deadmansswitch"
+                    ],
+                    "modification": [
+                        "delayedfuses"
+                    ],
+                    "torpedo": [
+                        "plasmatorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "blacksunenforcer",
+                "points": 45,
+                "ship": "starviperclassattackplatform",
+                "upgrades": {}
+            }
+        ],
+        "points": 200,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "TTT": "Noah Routhier",
+    "VassalForm1": "Noah Routhier",
+    "VassalForm2": "Noah Routhier"
+}

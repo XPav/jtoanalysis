@@ -1,0 +1,193 @@
+{
+    "Add": "Proton Rocket to airen",
+    "Discord": "Herschet#3836",
+    "Drop": "Droid from ewing",
+    "Final": {
+        "faction": "rebelalliance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "knavesquadronescort",
+                "points": 59,
+                "ship": "ewing",
+                "upgrades": {
+                    "torpedo": [
+                        "plasmatorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "dutchvander",
+                "points": 66,
+                "ship": "btla4ywing",
+                "upgrades": {
+                    "device": [
+                        "connernets"
+                    ],
+                    "modification": [
+                        "hullupgrade"
+                    ],
+                    "talent": [
+                        "crackshot"
+                    ],
+                    "torpedo": [
+                        "protontorpedoes"
+                    ],
+                    "turret": [
+                        "dorsalturret"
+                    ]
+                }
+            },
+            {
+                "id": "airencracken",
+                "points": 49,
+                "ship": "z95af4headhunter",
+                "upgrades": {
+                    "missile": [
+                        "protonrockets"
+                    ],
+                    "modification": [
+                        "stealthdevice"
+                    ]
+                }
+            },
+            {
+                "id": "zeborrelios-tielnfighter",
+                "points": 24,
+                "ship": "tielnfighter",
+                "upgrades": {}
+            }
+        ],
+        "points": 198,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Name": "Ronny Herget",
+    "Option1": {
+        "faction": "galacticrepublic",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "dineeellberger",
+                "points": 55,
+                "ship": "nabooroyaln1starfighter",
+                "upgrades": {
+                    "sensor": [
+                        "passivesensors"
+                    ],
+                    "talent": [
+                        "crackshot"
+                    ],
+                    "torpedo": [
+                        "protontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "kickback",
+                "points": 46,
+                "ship": "v19torrentstarfighter",
+                "upgrades": {
+                    "missile": [
+                        "protonrockets"
+                    ],
+                    "modification": [
+                        "stealthdevice"
+                    ]
+                }
+            },
+            {
+                "id": "axe",
+                "points": 43,
+                "ship": "v19torrentstarfighter",
+                "upgrades": {
+                    "missile": [
+                        "ionmissiles"
+                    ],
+                    "talent": [
+                        "juke"
+                    ]
+                }
+            },
+            {
+                "id": "naboohandmaiden",
+                "points": 53,
+                "ship": "nabooroyaln1starfighter",
+                "upgrades": {
+                    "astromech": [
+                        "r2c4"
+                    ],
+                    "torpedo": [
+                        "iontorpedoes"
+                    ]
+                }
+            }
+        ],
+        "points": 197,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Option2": {
+        "faction": "rebelalliance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "knavesquadronescort",
+                "points": 65,
+                "ship": "ewing",
+                "upgrades": {
+                    "astromech": [
+                        "r5d8"
+                    ],
+                    "torpedo": [
+                        "plasmatorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "dutchvander",
+                "points": 66,
+                "ship": "btla4ywing",
+                "upgrades": {
+                    "device": [
+                        "connernets"
+                    ],
+                    "modification": [
+                        "hullupgrade"
+                    ],
+                    "talent": [
+                        "crackshot"
+                    ],
+                    "torpedo": [
+                        "protontorpedoes"
+                    ],
+                    "turret": [
+                        "dorsalturret"
+                    ]
+                }
+            },
+            {
+                "id": "airencracken",
+                "points": 42,
+                "ship": "z95af4headhunter",
+                "upgrades": {
+                    "modification": [
+                        "stealthdevice"
+                    ]
+                }
+            },
+            {
+                "id": "zeborrelios-tielnfighter",
+                "points": 24,
+                "ship": "tielnfighter",
+                "upgrades": {}
+            }
+        ],
+        "points": 197,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "TTT": "Ronny Herget",
+    "VassalForm1": "herschet",
+    "VassalForm2": "Herschet"
+}

@@ -1,0 +1,191 @@
+{
+    "Add": "Fifth Brother to Whisper",
+    "Discord": "lydhvin#9268",
+    "Drop": "Admiral Sloane from Vizier",
+    "Final": {
+        "faction": "galacticempire",
+        "name": "Steffen Lydvo JTO",
+        "obstacles": [
+            "vt49decimatordebris0",
+            "vt49decimatordebris1",
+            "vt49decimatordebris2"
+        ],
+        "pilots": [
+            {
+                "id": "majorvynder",
+                "points": 72,
+                "ship": "alphaclassstarwing",
+                "upgrades": {
+                    "configuration": [
+                        "xg1assaultconfiguration"
+                    ],
+                    "missile": [
+                        "protonrockets"
+                    ],
+                    "modification": [
+                        "electronicbaffle"
+                    ],
+                    "sensor": [
+                        "collisiondetector"
+                    ],
+                    "talent": [
+                        "swarmtactics"
+                    ],
+                    "torpedo": [
+                        "protontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "vizier",
+                "points": 57,
+                "ship": "tiereaper",
+                "upgrades": {
+                    "crew": [
+                        "perceptivecopilot"
+                    ],
+                    "modification": [
+                        "stealthdevice"
+                    ]
+                }
+            },
+            {
+                "id": "whisper",
+                "points": 71,
+                "ship": "tiephphantom",
+                "upgrades": {
+                    "gunner": [
+                        "fifthbrother"
+                    ],
+                    "talent": [
+                        "elusive"
+                    ]
+                }
+            }
+        ],
+        "points": 200,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Name": "Steffen Lydvo",
+    "Option1": {
+        "faction": "galacticempire",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "majorvynder",
+                "points": 72,
+                "ship": "alphaclassstarwing",
+                "upgrades": {
+                    "configuration": [
+                        "xg1assaultconfiguration"
+                    ],
+                    "missile": [
+                        "protonrockets"
+                    ],
+                    "modification": [
+                        "electronicbaffle"
+                    ],
+                    "sensor": [
+                        "collisiondetector"
+                    ],
+                    "talent": [
+                        "swarmtactics"
+                    ],
+                    "torpedo": [
+                        "protontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "vizier",
+                "points": 66,
+                "ship": "tiereaper",
+                "upgrades": {
+                    "crew": [
+                        "perceptivecopilot",
+                        "admiralsloane"
+                    ],
+                    "modification": [
+                        "stealthdevice"
+                    ]
+                }
+            },
+            {
+                "id": "whisper",
+                "points": 60,
+                "ship": "tiephphantom",
+                "upgrades": {
+                    "talent": [
+                        "elusive"
+                    ]
+                }
+            }
+        ],
+        "points": 198,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Option2": {
+        "faction": "separatistalliance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "separatistbomber",
+                "points": 48,
+                "ship": "hyenaclassdroidbomber",
+                "upgrades": {
+                    "configuration": [
+                        "landingstruts"
+                    ],
+                    "device": [
+                        "proximitymines"
+                    ],
+                    "torpedo": [
+                        "protontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "haorchallprototype",
+                "points": 33,
+                "ship": "vultureclassdroidfighter",
+                "upgrades": {
+                    "configuration": [
+                        "grapplingstruts"
+                    ],
+                    "missile": [
+                        "clustermissiles"
+                    ],
+                    "modification": [
+                        "afterburners"
+                    ]
+                }
+            },
+            {
+                "id": "separatistdrone",
+                "points": 21,
+                "ship": "vultureclassdroidfighter",
+                "upgrades": {}
+            },
+            {
+                "id": "chertek",
+                "points": 39,
+                "ship": "nantexclassstarfighter",
+                "upgrades": {}
+            },
+            {
+                "id": "sunfac",
+                "points": 54,
+                "ship": "nantexclassstarfighter",
+                "upgrades": {}
+            }
+        ],
+        "points": 195,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "TTT": "Steffen Lydvo",
+    "VassalForm1": "steffen",
+    "VassalForm2": "steffen"
+}

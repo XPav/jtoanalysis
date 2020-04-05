@@ -1,0 +1,147 @@
+{
+    "Add": "Juke (Whisper)",
+    "Discord": "dfoglein00 (#9923)",
+    "Drop": "Intimidation (Whisper)",
+    "Final": {
+        "faction": "galacticempire",
+        "name": "Derek Foglein JTO",
+        "obstacles": [
+            "coreasteroid0",
+            "coreasteroid1",
+            "core2asteroid2"
+        ],
+        "pilots": [
+            {
+                "id": "patrolleader",
+                "points": 94,
+                "ship": "vt49decimator",
+                "upgrades": {
+                    "crew": [
+                        "novicetechnician",
+                        "ministertua"
+                    ],
+                    "device": [
+                        "clustermines"
+                    ],
+                    "gunner": [
+                        "skilledbombardier"
+                    ],
+                    "modification": [
+                        "hullupgrade"
+                    ],
+                    "title": [
+                        "dauntless"
+                    ]
+                }
+            },
+            {
+                "id": "whisper",
+                "points": 66,
+                "ship": "tiephphantom",
+                "upgrades": {
+                    "sensor": [
+                        "firecontrolsystem"
+                    ],
+                    "talent": [
+                        "juke"
+                    ]
+                }
+            },
+            {
+                "id": "scarifbasepilot",
+                "points": 39,
+                "ship": "tiereaper",
+                "upgrades": {}
+            }
+        ],
+        "points": 199,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Name": "Derek Foglein",
+    "Option1": {
+        "faction": "firstorder",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "captaincardinal",
+                "points": 64,
+                "ship": "upsilonclasscommandshuttle",
+                "upgrades": {
+                    "modification": [
+                        "tacticalscrambler"
+                    ]
+                }
+            },
+            {
+                "id": "lieutenantdormitz",
+                "points": 70,
+                "ship": "upsilonclasscommandshuttle",
+                "upgrades": {}
+            },
+            {
+                "id": "blackout",
+                "points": 63,
+                "ship": "tievnsilencer",
+                "upgrades": {}
+            }
+        ],
+        "points": 197,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Option2": {
+        "faction": "galacticempire",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "patrolleader",
+                "points": 94,
+                "ship": "vt49decimator",
+                "upgrades": {
+                    "crew": [
+                        "novicetechnician",
+                        "ministertua"
+                    ],
+                    "device": [
+                        "clustermines"
+                    ],
+                    "gunner": [
+                        "skilledbombardier"
+                    ],
+                    "modification": [
+                        "hullupgrade"
+                    ],
+                    "title": [
+                        "dauntless"
+                    ]
+                }
+            },
+            {
+                "id": "whisper",
+                "points": 62,
+                "ship": "tiephphantom",
+                "upgrades": {
+                    "sensor": [
+                        "firecontrolsystem"
+                    ],
+                    "talent": [
+                        "intimidation"
+                    ]
+                }
+            },
+            {
+                "id": "scarifbasepilot",
+                "points": 39,
+                "ship": "tiereaper",
+                "upgrades": {}
+            }
+        ],
+        "points": 195,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "TTT": "Derek Foglein",
+    "VassalForm1": "dfoglein00",
+    "VassalForm2": "dfoglein00"
+}

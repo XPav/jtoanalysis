@@ -1,0 +1,180 @@
+{
+    "Add": "Concussion missiles to quickdraw",
+    "Discord": "w1zpr#2979",
+    "Drop": "Proton rockets from Quickdraw",
+    "Final": {
+        "faction": "firstorder",
+        "name": "Andrew Bunn JTO",
+        "pilots": [
+            {
+                "id": "firstordertestpilot",
+                "points": 75,
+                "ship": "tievnsilencer",
+                "upgrades": {
+                    "missile": [
+                        "protonrockets"
+                    ],
+                    "talent": [
+                        "proudtradition"
+                    ],
+                    "tech": [
+                        "biohexacryptcodes"
+                    ],
+                    "torpedo": [
+                        "plasmatorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "quickdraw",
+                "points": 66,
+                "ship": "tiesffighter",
+                "upgrades": {
+                    "gunner": [
+                        "skilledbombardier"
+                    ],
+                    "missile": [
+                        "concussionmissiles"
+                    ],
+                    "sensor": [
+                        "advancedsensors"
+                    ],
+                    "talent": [
+                        "proudtradition"
+                    ],
+                    "tech": [
+                        "biohexacryptcodes"
+                    ]
+                }
+            },
+            {
+                "id": "holo",
+                "points": 58,
+                "ship": "tiebainterceptor",
+                "upgrades": {
+                    "missile": [
+                        "ionmissiles"
+                    ]
+                }
+            }
+        ],
+        "points": 199,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Name": "Andrew Bunn",
+    "Option1": {
+        "faction": "firstorder",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "firstordertestpilot",
+                "points": 75,
+                "ship": "tievnsilencer",
+                "upgrades": {
+                    "missile": [
+                        "protonrockets"
+                    ],
+                    "talent": [
+                        "proudtradition"
+                    ],
+                    "tech": [
+                        "biohexacryptcodes"
+                    ],
+                    "torpedo": [
+                        "plasmatorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "quickdraw",
+                "points": 67,
+                "ship": "tiesffighter",
+                "upgrades": {
+                    "gunner": [
+                        "skilledbombardier"
+                    ],
+                    "missile": [
+                        "protonrockets"
+                    ],
+                    "sensor": [
+                        "advancedsensors"
+                    ],
+                    "talent": [
+                        "proudtradition"
+                    ],
+                    "tech": [
+                        "biohexacryptcodes"
+                    ]
+                }
+            },
+            {
+                "id": "holo",
+                "points": 58,
+                "ship": "tiebainterceptor",
+                "upgrades": {
+                    "missile": [
+                        "ionmissiles"
+                    ]
+                }
+            }
+        ],
+        "points": 200,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Option2": {
+        "faction": "separatistalliance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "gorgol",
+                "points": 37,
+                "ship": "nantexclassstarfighter",
+                "upgrades": {
+                    "modification": [
+                        "delayedfuses"
+                    ]
+                }
+            },
+            {
+                "id": "darthmaul",
+                "points": 75,
+                "ship": "sithinfiltrator",
+                "upgrades": {
+                    "tacticalrelay": [
+                        "kraken"
+                    ]
+                }
+            },
+            {
+                "id": "tradefederationdrone",
+                "points": 19,
+                "ship": "vultureclassdroidfighter",
+                "upgrades": {}
+            },
+            {
+                "id": "dbs32c",
+                "points": 45,
+                "ship": "hyenaclassdroidbomber",
+                "upgrades": {
+                    "modification": [
+                        "hullupgrade"
+                    ]
+                }
+            },
+            {
+                "id": "dfs311",
+                "points": 23,
+                "ship": "vultureclassdroidfighter",
+                "upgrades": {}
+            }
+        ],
+        "points": 199,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "TTT": "Andrew Bunn",
+    "VassalForm1": "veyl",
+    "VassalForm2": "veyl"
+}

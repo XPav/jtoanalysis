@@ -1,0 +1,197 @@
+{
+    "Add": "Advanced Optics to Longshot",
+    "Discord": "Rearview",
+    "Drop": "Angles Deflectors from Holo",
+    "Final": {
+        "faction": "firstorder",
+        "name": "Eric Dignard JTO",
+        "pilots": [
+            {
+                "id": "holo",
+                "points": 55,
+                "ship": "tiebainterceptor",
+                "upgrades": {
+                    "talent": [
+                        "crackshot"
+                    ]
+                }
+            },
+            {
+                "id": "longshot",
+                "points": 36,
+                "ship": "tiefofighter",
+                "upgrades": {
+                    "modification": [
+                        "delayedfuses"
+                    ],
+                    "tech": [
+                        "advancedoptics"
+                    ]
+                }
+            },
+            {
+                "id": "zetasquadronsurvivor",
+                "points": 39,
+                "ship": "tiesffighter",
+                "upgrades": {
+                    "sensor": [
+                        "trajectorysimulator"
+                    ],
+                    "tech": [
+                        "biohexacryptcodes"
+                    ]
+                }
+            },
+            {
+                "id": "lieutenanttavson",
+                "points": 70,
+                "ship": "upsilonclasscommandshuttle",
+                "upgrades": {
+                    "crew": [
+                        "informant"
+                    ],
+                    "modification": [
+                        "munitionsfailsafe"
+                    ]
+                }
+            }
+        ],
+        "points": 200,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Name": "Eric Dignard",
+    "Option1": {
+        "faction": "firstorder",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "holo",
+                "points": 58,
+                "ship": "tiebainterceptor",
+                "upgrades": {
+                    "modification": [
+                        "angleddeflectors"
+                    ],
+                    "talent": [
+                        "crackshot"
+                    ]
+                }
+            },
+            {
+                "id": "longshot",
+                "points": 32,
+                "ship": "tiefofighter",
+                "upgrades": {
+                    "modification": [
+                        "delayedfuses"
+                    ]
+                }
+            },
+            {
+                "id": "zetasquadronsurvivor",
+                "points": 39,
+                "ship": "tiesffighter",
+                "upgrades": {
+                    "sensor": [
+                        "trajectorysimulator"
+                    ],
+                    "tech": [
+                        "biohexacryptcodes"
+                    ]
+                }
+            },
+            {
+                "id": "lieutenanttavson",
+                "points": 70,
+                "ship": "upsilonclasscommandshuttle",
+                "upgrades": {
+                    "crew": [
+                        "informant"
+                    ],
+                    "modification": [
+                        "munitionsfailsafe"
+                    ]
+                }
+            }
+        ],
+        "points": 199,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Option2": {
+        "faction": "galacticrepublic",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "swoop",
+                "points": 44,
+                "ship": "v19torrentstarfighter",
+                "upgrades": {
+                    "missile": [
+                        "ionmissiles"
+                    ],
+                    "modification": [
+                        "stealthdevice"
+                    ],
+                    "talent": [
+                        "elusive"
+                    ]
+                }
+            },
+            {
+                "id": "sinker",
+                "points": 80,
+                "ship": "arc170starfighter",
+                "upgrades": {
+                    "astromech": [
+                        "r4p44"
+                    ],
+                    "crew": [
+                        "seasonednavigator"
+                    ],
+                    "gunner": [
+                        "skilledbombardier"
+                    ],
+                    "modification": [
+                        "synchronizedconsole"
+                    ],
+                    "torpedo": [
+                        "protontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "squadsevenveteran",
+                "points": 75,
+                "ship": "arc170starfighter",
+                "upgrades": {
+                    "astromech": [
+                        "r4pastromech"
+                    ],
+                    "crew": [
+                        "perceptivecopilot"
+                    ],
+                    "gunner": [
+                        "agilegunner"
+                    ],
+                    "modification": [
+                        "electronicbaffle"
+                    ],
+                    "talent": [
+                        "elusive"
+                    ],
+                    "torpedo": [
+                        "iontorpedoes"
+                    ]
+                }
+            }
+        ],
+        "points": 199,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "TTT": "Eric Dignard",
+    "VassalForm1": "rearview",
+    "VassalForm2": "rearview"
+}

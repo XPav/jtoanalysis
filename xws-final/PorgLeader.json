@@ -1,0 +1,158 @@
+{
+    "Add": "Tactical Officer to Lando",
+    "Discord": "PorgLeader (#5484)",
+    "Drop": "Juke from Guri",
+    "Final": {
+        "faction": "scumandvillainy",
+        "name": "Eric Small JTO",
+        "pilots": [
+            {
+                "id": "sarcoplank",
+                "points": 42,
+                "ship": "quadrijettransferspacetug",
+                "upgrades": {
+                    "crew": [
+                        "informant"
+                    ],
+                    "tech": [
+                        "patternanalyzer"
+                    ]
+                }
+            },
+            {
+                "id": "guri",
+                "points": 75,
+                "ship": "starviperclassattackplatform",
+                "upgrades": {
+                    "sensor": [
+                        "passivesensors"
+                    ],
+                    "title": [
+                        "virago"
+                    ]
+                }
+            },
+            {
+                "id": "blacksunenforcer",
+                "points": 45,
+                "ship": "starviperclassattackplatform",
+                "upgrades": {}
+            },
+            {
+                "id": "landocalrissian-escapecraft",
+                "points": 35,
+                "ship": "escapecraft",
+                "upgrades": {
+                    "crew": [
+                        "tacticalofficer"
+                    ]
+                }
+            }
+        ],
+        "points": 197,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Name": "Eric Small",
+    "Option1": {
+        "faction": "resistance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "zizitlo",
+                "points": 51,
+                "ship": "rz2awing",
+                "upgrades": {
+                    "missile": [
+                        "ionmissiles"
+                    ],
+                    "talent": [
+                        "crackshot"
+                    ],
+                    "tech": [
+                        "ferrospherepaint"
+                    ]
+                }
+            },
+            {
+                "id": "benteene",
+                "points": 84,
+                "ship": "mg100starfortress",
+                "upgrades": {
+                    "gunner": [
+                        "veteranturretgunner",
+                        "paigetico"
+                    ],
+                    "modification": [
+                        "ablativeplating"
+                    ],
+                    "sensor": [
+                        "passivesensors"
+                    ]
+                }
+            },
+            {
+                "id": "chewbacca-scavengedyt1300",
+                "points": 63,
+                "ship": "scavengedyt1300",
+                "upgrades": {}
+            }
+        ],
+        "points": 198,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Option2": {
+        "faction": "scumandvillainy",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "sarcoplank",
+                "points": 42,
+                "ship": "quadrijettransferspacetug",
+                "upgrades": {
+                    "crew": [
+                        "informant"
+                    ],
+                    "tech": [
+                        "patternanalyzer"
+                    ]
+                }
+            },
+            {
+                "id": "guri",
+                "points": 82,
+                "ship": "starviperclassattackplatform",
+                "upgrades": {
+                    "sensor": [
+                        "passivesensors"
+                    ],
+                    "talent": [
+                        "juke"
+                    ],
+                    "title": [
+                        "virago"
+                    ]
+                }
+            },
+            {
+                "id": "blacksunenforcer",
+                "points": 45,
+                "ship": "starviperclassattackplatform",
+                "upgrades": {}
+            },
+            {
+                "id": "landocalrissian-escapecraft",
+                "points": 29,
+                "ship": "escapecraft",
+                "upgrades": {}
+            }
+        ],
+        "points": 198,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "TTT": "Eric Small",
+    "VassalForm1": "PorgLeader",
+    "VassalForm2": "PorgLeader"
+}

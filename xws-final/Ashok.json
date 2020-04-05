@@ -1,0 +1,157 @@
+{
+    "Add": "Adding Special Forces Gunner to Captain Phasma",
+    "Discord": "PerfectBroken#6261",
+    "Drop": "Removing Hull Upgrade from Midnight",
+    "Final": {
+        "faction": "firstorder",
+        "name": "FO Mugs JTO",
+        "obstacles": [
+            "coreasteroid0",
+            "core2asteroid0",
+            "core2asteroid2"
+        ],
+        "pilots": [
+            {
+                "id": "majorvonreg",
+                "points": 57,
+                "ship": "tiebainterceptor",
+                "upgrades": {}
+            },
+            {
+                "id": "commandermalarus",
+                "points": 43,
+                "ship": "tiefofighter",
+                "upgrades": {
+                    "tech": [
+                        "patternanalyzer"
+                    ]
+                }
+            },
+            {
+                "id": "midnight",
+                "points": 42,
+                "ship": "tiefofighter",
+                "upgrades": {}
+            },
+            {
+                "id": "captainphasma",
+                "points": 57,
+                "ship": "tiesffighter",
+                "upgrades": {
+                    "gunner": [
+                        "specialforcesgunner"
+                    ],
+                    "talent": [
+                        "elusive"
+                    ],
+                    "tech": [
+                        "patternanalyzer"
+                    ]
+                }
+            }
+        ],
+        "points": 199,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Name": "Ashok Ph-",
+    "Option1": {
+        "faction": "firstorder",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "majorvonreg",
+                "points": 57,
+                "ship": "tiebainterceptor",
+                "upgrades": {}
+            },
+            {
+                "id": "commandermalarus",
+                "points": 43,
+                "ship": "tiefofighter",
+                "upgrades": {
+                    "tech": [
+                        "patternanalyzer"
+                    ]
+                }
+            },
+            {
+                "id": "midnight",
+                "points": 49,
+                "ship": "tiefofighter",
+                "upgrades": {
+                    "modification": [
+                        "hullupgrade"
+                    ]
+                }
+            },
+            {
+                "id": "captainphasma",
+                "points": 47,
+                "ship": "tiesffighter",
+                "upgrades": {
+                    "talent": [
+                        "elusive"
+                    ],
+                    "tech": [
+                        "patternanalyzer"
+                    ]
+                }
+            }
+        ],
+        "points": 196,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Option2": {
+        "faction": "scumandvillainy",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "kavil",
+                "points": 48,
+                "ship": "btla4ywing",
+                "upgrades": {
+                    "turret": [
+                        "ioncannonturret"
+                    ]
+                }
+            },
+            {
+                "id": "miningguildsentry",
+                "points": 22,
+                "ship": "modifiedtielnfighter",
+                "upgrades": {}
+            },
+            {
+                "id": "lokrevenant",
+                "points": 58,
+                "ship": "scurrgh6bomber",
+                "upgrades": {
+                    "device": [
+                        "clustermines"
+                    ],
+                    "turret": [
+                        "ioncannonturret"
+                    ]
+                }
+            },
+            {
+                "id": "sabinewren-lancerclasspursuitcraft",
+                "points": 69,
+                "ship": "lancerclasspursuitcraft",
+                "upgrades": {
+                    "crew": [
+                        "perceptivecopilot"
+                    ]
+                }
+            }
+        ],
+        "points": 197,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "TTT": "Ashok Photay ",
+    "VassalForm1": "Ashok",
+    "VassalForm2": "Ashok"
+}

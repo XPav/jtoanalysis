@@ -1,0 +1,177 @@
+{
+    "Add": "Plasma Torpedoes to stupid Karsabi",
+    "Discord": "doubledown#5317",
+    "Drop": "Stupid Proton Rockets from stupid Karsabi",
+    "Final": {
+        "faction": "galacticempire",
+        "name": "Marc de Bruyn JTO",
+        "pilots": [
+            {
+                "id": "redline",
+                "points": 70,
+                "ship": "tiecapunisher",
+                "upgrades": {
+                    "device": [
+                        "ionbombs"
+                    ],
+                    "modification": [
+                        "shieldupgrade"
+                    ],
+                    "sensor": [
+                        "firecontrolsystem"
+                    ],
+                    "torpedo": [
+                        "iontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "lieutenantkarsabi",
+                "points": 49,
+                "ship": "alphaclassstarwing",
+                "upgrades": {
+                    "configuration": [
+                        "xg1assaultconfiguration"
+                    ],
+                    "sensor": [
+                        "passivesensors"
+                    ],
+                    "torpedo": [
+                        "plasmatorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "onyxsquadronace",
+                "points": 80,
+                "ship": "tieddefender",
+                "upgrades": {
+                    "cannon": [
+                        "jammingbeam"
+                    ],
+                    "sensor": [
+                        "collisiondetector"
+                    ]
+                }
+            }
+        ],
+        "points": 199,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Name": "Marc de Bruyn",
+    "Option1": {
+        "faction": "galacticempire",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "redline",
+                "points": 70,
+                "ship": "tiecapunisher",
+                "upgrades": {
+                    "device": [
+                        "ionbombs"
+                    ],
+                    "modification": [
+                        "shieldupgrade"
+                    ],
+                    "sensor": [
+                        "firecontrolsystem"
+                    ],
+                    "torpedo": [
+                        "iontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "lieutenantkarsabi",
+                "points": 47,
+                "ship": "alphaclassstarwing",
+                "upgrades": {
+                    "configuration": [
+                        "xg1assaultconfiguration"
+                    ],
+                    "missile": [
+                        "protonrockets"
+                    ],
+                    "sensor": [
+                        "passivesensors"
+                    ]
+                }
+            },
+            {
+                "id": "onyxsquadronace",
+                "points": 80,
+                "ship": "tieddefender",
+                "upgrades": {
+                    "cannon": [
+                        "jammingbeam"
+                    ],
+                    "sensor": [
+                        "collisiondetector"
+                    ]
+                }
+            }
+        ],
+        "points": 197,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Option2": {
+        "faction": "separatistalliance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "darkcourier",
+                "points": 64,
+                "ship": "sithinfiltrator",
+                "upgrades": {
+                    "cannon": [
+                        "autoblasters"
+                    ],
+                    "crew": [
+                        "seasonednavigator"
+                    ],
+                    "device": [
+                        "ionbombs"
+                    ]
+                }
+            },
+            {
+                "id": "countdooku",
+                "points": 79,
+                "ship": "sithinfiltrator",
+                "upgrades": {
+                    "modification": [
+                        "hullupgrade"
+                    ],
+                    "title": [
+                        "scimitar"
+                    ],
+                    "torpedo": [
+                        "plasmatorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "captainsear",
+                "points": 56,
+                "ship": "belbullab22starfighter",
+                "upgrades": {
+                    "tacticalrelay": [
+                        "tv94"
+                    ],
+                    "title": [
+                        "soullessone"
+                    ]
+                }
+            }
+        ],
+        "points": 199,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "TTT": "Marc de Bruyn",
+    "VassalForm1": "dbldown11",
+    "VassalForm2": "dbldown11"
+}

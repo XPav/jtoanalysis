@@ -1,0 +1,203 @@
+{
+    "Add": "Esege Tuketu - Perceptive Copilot",
+    "Discord": "direweasel #4289",
+    "Drop": "Esege Tuketu - Mag Pulse Warheads",
+    "Final": {
+        "faction": "rebelalliance",
+        "name": "Tad Wesley - Jank Tank Open",
+        "pilots": [
+            {
+                "id": "cavernangelszealot",
+                "points": 64,
+                "ship": "t65xwing",
+                "upgrades": {
+                    "astromech": [
+                        "r2astromech"
+                    ],
+                    "configuration": [
+                        "servomotorsfoils"
+                    ],
+                    "illicit": [
+                        "deadmansswitch"
+                    ],
+                    "modification": [
+                        "targetingcomputer"
+                    ],
+                    "torpedo": [
+                        "protontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "esegetuketu",
+                "points": 91,
+                "ship": "btls8kwing",
+                "upgrades": {
+                    "crew": [
+                        "perceptivecopilot"
+                    ],
+                    "device": [
+                        "proximitymines",
+                        "clustermines"
+                    ],
+                    "gunner": [
+                        "bistan"
+                    ],
+                    "missile": [
+                        "homingmissiles"
+                    ],
+                    "torpedo": [
+                        "iontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "lieutenantblount",
+                "points": 45,
+                "ship": "z95af4headhunter",
+                "upgrades": {
+                    "missile": [
+                        "concussionmissiles"
+                    ],
+                    "modification": [
+                        "stealthdevice"
+                    ],
+                    "talent": [
+                        "selfless"
+                    ]
+                }
+            }
+        ],
+        "points": 200,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Name": "Tad Wesley",
+    "Option1": {
+        "faction": "rebelalliance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "cavernangelszealot",
+                "points": 64,
+                "ship": "t65xwing",
+                "upgrades": {
+                    "astromech": [
+                        "r2astromech"
+                    ],
+                    "configuration": [
+                        "servomotorsfoils"
+                    ],
+                    "illicit": [
+                        "deadmansswitch"
+                    ],
+                    "modification": [
+                        "targetingcomputer"
+                    ],
+                    "torpedo": [
+                        "protontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "esegetuketu",
+                "points": 89,
+                "ship": "btls8kwing",
+                "upgrades": {
+                    "device": [
+                        "proximitymines",
+                        "clustermines"
+                    ],
+                    "gunner": [
+                        "bistan"
+                    ],
+                    "missile": [
+                        "homingmissiles",
+                        "magpulsewarheads"
+                    ],
+                    "torpedo": [
+                        "iontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "lieutenantblount",
+                "points": 45,
+                "ship": "z95af4headhunter",
+                "upgrades": {
+                    "missile": [
+                        "concussionmissiles"
+                    ],
+                    "modification": [
+                        "stealthdevice"
+                    ],
+                    "talent": [
+                        "selfless"
+                    ]
+                }
+            }
+        ],
+        "points": 198,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Option2": {
+        "faction": "scumandvillainy",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "hansolo",
+                "points": 69,
+                "ship": "customizedyt1300lightfreighter",
+                "upgrades": {
+                    "crew": [
+                        "jabbathehutt"
+                    ],
+                    "missile": [
+                        "homingmissiles"
+                    ],
+                    "modification": [
+                        "delayedfuses"
+                    ],
+                    "title": [
+                        "landosmillenniumfalcon"
+                    ]
+                }
+            },
+            {
+                "id": "unkarplutt",
+                "points": 32,
+                "ship": "quadrijettransferspacetug",
+                "upgrades": {
+                    "crew": [
+                        "zuckuss"
+                    ]
+                }
+            },
+            {
+                "id": "zealousrecruit",
+                "points": 41,
+                "ship": "fangfighter",
+                "upgrades": {}
+            },
+            {
+                "id": "blacksunsoldier",
+                "points": 24,
+                "ship": "z95af4headhunter",
+                "upgrades": {}
+            },
+            {
+                "id": "bossk-z95af4headhunter",
+                "points": 29,
+                "ship": "z95af4headhunter",
+                "upgrades": {}
+            }
+        ],
+        "points": 195,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "TTT": "Tad Wesley",
+    "VassalForm1": "direweasel",
+    "VassalForm2": "direweasel"
+}

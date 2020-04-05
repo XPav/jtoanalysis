@@ -1,0 +1,178 @@
+{
+    "Add": "Proximity Mines on Constable Zuvio (Quadjumper)",
+    "Discord": "bgFish#1383",
+    "Drop": "Juke on Bossk (Z-95)",
+    "Final": {
+        "faction": "scumandvillainy",
+        "name": "Jonas Malapas JTO",
+        "pilots": [
+            {
+                "id": "dalanoberos-starviperclassattackplatform",
+                "points": 86,
+                "ship": "starviperclassattackplatform",
+                "upgrades": {
+                    "modification": [
+                        "shieldupgrade"
+                    ],
+                    "sensor": [
+                        "advancedsensors"
+                    ],
+                    "title": [
+                        "virago"
+                    ],
+                    "torpedo": [
+                        "advprotontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "cartelexecutioner",
+                "points": 41,
+                "ship": "m12lkimogilafighter",
+                "upgrades": {}
+            },
+            {
+                "id": "bossk-z95af4headhunter",
+                "points": 29,
+                "ship": "z95af4headhunter",
+                "upgrades": {}
+            },
+            {
+                "id": "constablezuvio",
+                "points": 39,
+                "ship": "quadrijettransferspacetug",
+                "upgrades": {
+                    "device": [
+                        "proximitymines"
+                    ]
+                }
+            }
+        ],
+        "points": 195,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Name": "Jonas Malapas",
+    "Option1": {
+        "faction": "scumandvillainy",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "dalanoberos-starviperclassattackplatform",
+                "points": 86,
+                "ship": "starviperclassattackplatform",
+                "upgrades": {
+                    "modification": [
+                        "shieldupgrade"
+                    ],
+                    "sensor": [
+                        "advancedsensors"
+                    ],
+                    "title": [
+                        "virago"
+                    ],
+                    "torpedo": [
+                        "advprotontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "cartelexecutioner",
+                "points": 41,
+                "ship": "m12lkimogilafighter",
+                "upgrades": {}
+            },
+            {
+                "id": "bossk-z95af4headhunter",
+                "points": 36,
+                "ship": "z95af4headhunter",
+                "upgrades": {
+                    "talent": [
+                        "juke"
+                    ]
+                }
+            },
+            {
+                "id": "constablezuvio",
+                "points": 33,
+                "ship": "quadrijettransferspacetug",
+                "upgrades": {}
+            }
+        ],
+        "points": 196,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Option2": {
+        "faction": "rebelalliance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "garvendreis",
+                "points": 73,
+                "ship": "arc170starfighter",
+                "upgrades": {
+                    "astromech": [
+                        "r2d2"
+                    ],
+                    "crew": [
+                        "seasonednavigator"
+                    ],
+                    "modification": [
+                        "tacticalscrambler"
+                    ],
+                    "talent": [
+                        "trickshot"
+                    ],
+                    "torpedo": [
+                        "iontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "bladesquadronveteran",
+                "points": 65,
+                "ship": "asf01bwing",
+                "upgrades": {
+                    "cannon": [
+                        "tractorbeam"
+                    ],
+                    "configuration": [
+                        "stabilizedsfoils"
+                    ],
+                    "modification": [
+                        "targetingcomputer"
+                    ],
+                    "sensor": [
+                        "collisiondetector"
+                    ],
+                    "talent": [
+                        "elusive"
+                    ],
+                    "torpedo": [
+                        "iontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "dutchvander",
+                "points": 57,
+                "ship": "btla4ywing",
+                "upgrades": {
+                    "gunner": [
+                        "bistan"
+                    ],
+                    "turret": [
+                        "dorsalturret"
+                    ]
+                }
+            }
+        ],
+        "points": 195,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "TTT": "Jonas Malapas",
+    "VassalForm1": "bgFish",
+    "VassalForm2": "bgFish"
+}

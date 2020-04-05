@@ -1,0 +1,185 @@
+{
+    "Add": "Ion Cannon Turret, from Broadside",
+    "Discord": "mightynute#6531",
+    "Drop": "Angled Deflectors, from Broadside",
+    "Final": {
+        "faction": "galacticrepublic",
+        "name": "Matt Nute JTO",
+        "pilots": [
+            {
+                "id": "padmeamidala",
+                "points": 69,
+                "ship": "nabooroyaln1starfighter",
+                "upgrades": {
+                    "astromech": [
+                        "r2c4"
+                    ],
+                    "sensor": [
+                        "firecontrolsystem"
+                    ],
+                    "talent": [
+                        "trickshot"
+                    ],
+                    "torpedo": [
+                        "protontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "bravoflightofficer",
+                "points": 40,
+                "ship": "nabooroyaln1starfighter",
+                "upgrades": {
+                    "astromech": [
+                        "c110p"
+                    ]
+                }
+            },
+            {
+                "id": "broadside",
+                "points": 41,
+                "ship": "btlbywing",
+                "upgrades": {
+                    "turret": [
+                        "ioncannonturret"
+                    ]
+                }
+            },
+            {
+                "id": "barrissoffee",
+                "points": 44,
+                "ship": "delta7aethersprite",
+                "upgrades": {
+                    "astromech": [
+                        "r4p17"
+                    ],
+                    "force-power": [
+                        "predictiveshot"
+                    ]
+                }
+            }
+        ],
+        "points": 194,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Name": "Matt Nute",
+    "Option1": {
+        "faction": "galacticrepublic",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "padmeamidala",
+                "points": 69,
+                "ship": "nabooroyaln1starfighter",
+                "upgrades": {
+                    "astromech": [
+                        "r2c4"
+                    ],
+                    "sensor": [
+                        "firecontrolsystem"
+                    ],
+                    "talent": [
+                        "trickshot"
+                    ],
+                    "torpedo": [
+                        "protontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "bravoflightofficer",
+                "points": 40,
+                "ship": "nabooroyaln1starfighter",
+                "upgrades": {
+                    "astromech": [
+                        "c110p"
+                    ]
+                }
+            },
+            {
+                "id": "broadside",
+                "points": 42,
+                "ship": "btlbywing",
+                "upgrades": {
+                    "modification": [
+                        "angleddeflectors"
+                    ]
+                }
+            },
+            {
+                "id": "barrissoffee",
+                "points": 44,
+                "ship": "delta7aethersprite",
+                "upgrades": {
+                    "astromech": [
+                        "r4p17"
+                    ],
+                    "force-power": [
+                        "predictiveshot"
+                    ]
+                }
+            }
+        ],
+        "points": 195,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Option2": {
+        "faction": "rebelalliance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "alexsandrkallus",
+                "points": 95,
+                "ship": "vcx100lightfreighter",
+                "upgrades": {
+                    "crew": [
+                        "sabinewren"
+                    ],
+                    "gunner": [
+                        "ezrabridger"
+                    ],
+                    "modification": [
+                        "staticdischargevanes"
+                    ],
+                    "title": [
+                        "ghost"
+                    ],
+                    "turret": [
+                        "dorsalturret"
+                    ]
+                }
+            },
+            {
+                "id": "thanekyrell",
+                "points": 51,
+                "ship": "t65xwing",
+                "upgrades": {
+                    "configuration": [
+                        "servomotorsfoils"
+                    ],
+                    "talent": [
+                        "selfless"
+                    ]
+                }
+            },
+            {
+                "id": "fennrau-sheathipedeclassshuttle",
+                "points": 50,
+                "ship": "sheathipedeclassshuttle",
+                "upgrades": {
+                    "title": [
+                        "phantom"
+                    ]
+                }
+            }
+        ],
+        "points": 196,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "TTT": "Matt Nute",
+    "VassalForm1": "mightynute",
+    "VassalForm2": "mightynute"
+}

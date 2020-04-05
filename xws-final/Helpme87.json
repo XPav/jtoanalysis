@@ -1,0 +1,195 @@
+{
+    "Add": "Barrage Rockets to Miranda",
+    "Discord": "helpme87#5974",
+    "Drop": "GONK from Miranda",
+    "Final": {
+        "faction": "rebelalliance",
+        "name": "Helpme87 JTO",
+        "pilots": [
+            {
+                "id": "leiaorgana",
+                "points": 106,
+                "ship": "modifiedyt1300lightfreighter",
+                "upgrades": {
+                    "crew": [
+                        "chewbacca"
+                    ],
+                    "gunner": [
+                        "ezrabridger"
+                    ],
+                    "missile": [
+                        "concussionmissiles"
+                    ],
+                    "title": [
+                        "millenniumfalcon"
+                    ]
+                }
+            },
+            {
+                "id": "mirandadoni",
+                "points": 61,
+                "ship": "btls8kwing",
+                "upgrades": {
+                    "device": [
+                        "ionbombs"
+                    ],
+                    "gunner": [
+                        "skilledbombardier"
+                    ],
+                    "missile": [
+                        "barragerockets"
+                    ],
+                    "modification": [
+                        "advancedslam"
+                    ]
+                }
+            },
+            {
+                "id": "sabinewren-tielnfighter",
+                "points": 29,
+                "ship": "tielnfighter",
+                "upgrades": {}
+            }
+        ],
+        "points": 196,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Name": "Adam Elleston",
+    "Option1": {
+        "faction": "resistance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "colossusstationmechanic",
+                "points": 48,
+                "ship": "fireball",
+                "upgrades": {
+                    "astromech": [
+                        "r2astromech"
+                    ],
+                    "illicit": [
+                        "inertialdampeners"
+                    ],
+                    "missile": [
+                        "ionmissiles"
+                    ],
+                    "modification": [
+                        "stealthdevice",
+                        "munitionsfailsafe"
+                    ],
+                    "title": [
+                        "kazsfireball"
+                    ]
+                }
+            },
+            {
+                "id": "vimoradi",
+                "points": 32,
+                "ship": "resistancetransportpod",
+                "upgrades": {
+                    "tech": [
+                        "patternanalyzer"
+                    ]
+                }
+            },
+            {
+                "id": "r1j5",
+                "points": 42,
+                "ship": "fireball",
+                "upgrades": {
+                    "crew": [
+                        "kaydelconnix"
+                    ],
+                    "illicit": [
+                        "contrabandcybernetics"
+                    ],
+                    "missile": [
+                        "homingmissiles"
+                    ],
+                    "modification": [
+                        "munitionsfailsafe"
+                    ]
+                }
+            },
+            {
+                "id": "blacksquadronace-t70xwing",
+                "points": 51,
+                "ship": "t70xwing",
+                "upgrades": {
+                    "configuration": [
+                        "integratedsfoils"
+                    ],
+                    "talent": [
+                        "trickshot"
+                    ]
+                }
+            },
+            {
+                "id": "rosetico",
+                "points": 26,
+                "ship": "resistancetransportpod",
+                "upgrades": {}
+            }
+        ],
+        "points": 199,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Option2": {
+        "faction": "rebelalliance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "leiaorgana",
+                "points": 106,
+                "ship": "modifiedyt1300lightfreighter",
+                "upgrades": {
+                    "crew": [
+                        "chewbacca"
+                    ],
+                    "gunner": [
+                        "ezrabridger"
+                    ],
+                    "missile": [
+                        "concussionmissiles"
+                    ],
+                    "title": [
+                        "millenniumfalcon"
+                    ]
+                }
+            },
+            {
+                "id": "mirandadoni",
+                "points": 63,
+                "ship": "btls8kwing",
+                "upgrades": {
+                    "crew": [
+                        "gnkgonkdroid"
+                    ],
+                    "device": [
+                        "ionbombs"
+                    ],
+                    "gunner": [
+                        "skilledbombardier"
+                    ],
+                    "modification": [
+                        "advancedslam"
+                    ]
+                }
+            },
+            {
+                "id": "sabinewren-tielnfighter",
+                "points": 29,
+                "ship": "tielnfighter",
+                "upgrades": {}
+            }
+        ],
+        "points": 198,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "TTT": "Adam Elleston",
+    "VassalForm1": "Helpme87",
+    "VassalForm2": "helpme87"
+}

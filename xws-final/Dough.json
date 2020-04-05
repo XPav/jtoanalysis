@@ -1,0 +1,202 @@
+{
+    "Add": "Concussion Missles on Phasma",
+    "Discord": "Doug#7350",
+    "Drop": "Concussion Missles from Rush",
+    "Final": {
+        "faction": "firstorder",
+        "name": "Doug Howe JTO",
+        "pilots": [
+            {
+                "id": "rush",
+                "points": 74,
+                "ship": "tievnsilencer",
+                "upgrades": {
+                    "tech": [
+                        "advancedoptics"
+                    ],
+                    "torpedo": [
+                        "protontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "holo",
+                "points": 68,
+                "ship": "tiebainterceptor",
+                "upgrades": {
+                    "missile": [
+                        "magpulsewarheads"
+                    ],
+                    "talent": [
+                        "swarmtactics"
+                    ],
+                    "tech": [
+                        "advancedoptics"
+                    ]
+                }
+            },
+            {
+                "id": "captainphasma",
+                "points": 58,
+                "ship": "tiesffighter",
+                "upgrades": {
+                    "gunner": [
+                        "hotshotgunner"
+                    ],
+                    "missile": [
+                        "concussionmissiles"
+                    ],
+                    "sensor": [
+                        "passivesensors"
+                    ],
+                    "talent": [
+                        "swarmtactics"
+                    ]
+                }
+            }
+        ],
+        "points": 200,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Name": "Doug Howe",
+    "Option1": {
+        "faction": "firstorder",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "rush",
+                "points": 80,
+                "ship": "tievnsilencer",
+                "upgrades": {
+                    "missile": [
+                        "concussionmissiles"
+                    ],
+                    "tech": [
+                        "advancedoptics"
+                    ],
+                    "torpedo": [
+                        "protontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "holo",
+                "points": 68,
+                "ship": "tiebainterceptor",
+                "upgrades": {
+                    "missile": [
+                        "magpulsewarheads"
+                    ],
+                    "talent": [
+                        "swarmtactics"
+                    ],
+                    "tech": [
+                        "advancedoptics"
+                    ]
+                }
+            },
+            {
+                "id": "captainphasma",
+                "points": 52,
+                "ship": "tiesffighter",
+                "upgrades": {
+                    "gunner": [
+                        "hotshotgunner"
+                    ],
+                    "sensor": [
+                        "passivesensors"
+                    ],
+                    "talent": [
+                        "swarmtactics"
+                    ]
+                }
+            }
+        ],
+        "points": 200,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Option2": {
+        "faction": "resistance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "greersonnel",
+                "points": 49,
+                "ship": "rz2awing",
+                "upgrades": {
+                    "missile": [
+                        "magpulsewarheads"
+                    ],
+                    "talent": [
+                        "crackshot"
+                    ],
+                    "tech": [
+                        "ferrospherepaint"
+                    ]
+                }
+            },
+            {
+                "id": "jarekyeager",
+                "points": 45,
+                "ship": "fireball",
+                "upgrades": {
+                    "astromech": [
+                        "r2ha"
+                    ],
+                    "modification": [
+                        "sparepartscanisters"
+                    ],
+                    "talent": [
+                        "swarmtactics"
+                    ]
+                }
+            },
+            {
+                "id": "covanell",
+                "points": 66,
+                "ship": "resistancetransport",
+                "upgrades": {
+                    "astromech": [
+                        "m9g8"
+                    ],
+                    "crew": [
+                        "korrsella"
+                    ],
+                    "talent": [
+                        "elusive"
+                    ],
+                    "tech": [
+                        "ferrospherepaint"
+                    ],
+                    "torpedo": [
+                        "iontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "colossusstationmechanic",
+                "points": 36,
+                "ship": "fireball",
+                "upgrades": {
+                    "astromech": [
+                        "r4astromech"
+                    ],
+                    "missile": [
+                        "magpulsewarheads"
+                    ],
+                    "title": [
+                        "kazsfireball"
+                    ]
+                }
+            }
+        ],
+        "points": 196,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "TTT": "Doug Howe",
+    "VassalForm1": "Doug.h",
+    "VassalForm2": "Doug.h"
+}

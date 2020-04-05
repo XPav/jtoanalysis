@@ -1,0 +1,165 @@
+{
+    "Add": "Leia Organa to Bohdi Rook",
+    "Discord": "Bohan#2327",
+    "Drop": "Static Discharge Vanes from Captain Rex",
+    "Final": {
+        "faction": "rebelalliance",
+        "name": "Joining the Bodhi Boys",
+        "pilots": [
+            {
+                "id": "roguesquadronescort",
+                "points": 56,
+                "ship": "ewing",
+                "upgrades": {
+                    "astromech": [
+                        "r3astromech"
+                    ]
+                }
+            },
+            {
+                "id": "captainrex",
+                "points": 30,
+                "ship": "tielnfighter",
+                "upgrades": {}
+            },
+            {
+                "id": "arvelcrynyd",
+                "points": 34,
+                "ship": "rz1awing",
+                "upgrades": {}
+            },
+            {
+                "id": "bodhirook",
+                "points": 55,
+                "ship": "ut60duwing",
+                "upgrades": {
+                    "configuration": [
+                        "pivotwing"
+                    ],
+                    "crew": [
+                        "leiaorgana"
+                    ]
+                }
+            },
+            {
+                "id": "zeborrelios-tielnfighter",
+                "points": 24,
+                "ship": "tielnfighter",
+                "upgrades": {}
+            }
+        ],
+        "points": 199,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Name": "Bohan Li",
+    "Option1": {
+        "faction": "firstorder",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "ember",
+                "points": 61,
+                "ship": "tiebainterceptor",
+                "upgrades": {
+                    "talent": [
+                        "trickshot"
+                    ],
+                    "tech": [
+                        "patternanalyzer"
+                    ]
+                }
+            },
+            {
+                "id": "blackout",
+                "points": 69,
+                "ship": "tievnsilencer",
+                "upgrades": {
+                    "talent": [
+                        "composure"
+                    ],
+                    "tech": [
+                        "patternanalyzer"
+                    ]
+                }
+            },
+            {
+                "id": "epsilonsquadroncadet",
+                "points": 33,
+                "ship": "tiefofighter",
+                "upgrades": {
+                    "modification": [
+                        "shieldupgrade"
+                    ]
+                }
+            },
+            {
+                "id": "null",
+                "points": 35,
+                "ship": "tiefofighter",
+                "upgrades": {
+                    "tech": [
+                        "patternanalyzer"
+                    ]
+                }
+            }
+        ],
+        "points": 198,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Option2": {
+        "faction": "rebelalliance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "roguesquadronescort",
+                "points": 56,
+                "ship": "ewing",
+                "upgrades": {
+                    "astromech": [
+                        "r3astromech"
+                    ]
+                }
+            },
+            {
+                "id": "captainrex",
+                "points": 36,
+                "ship": "tielnfighter",
+                "upgrades": {
+                    "modification": [
+                        "staticdischargevanes"
+                    ]
+                }
+            },
+            {
+                "id": "arvelcrynyd",
+                "points": 34,
+                "ship": "rz1awing",
+                "upgrades": {}
+            },
+            {
+                "id": "bodhirook",
+                "points": 48,
+                "ship": "ut60duwing",
+                "upgrades": {
+                    "configuration": [
+                        "pivotwing"
+                    ]
+                }
+            },
+            {
+                "id": "zeborrelios-tielnfighter",
+                "points": 24,
+                "ship": "tielnfighter",
+                "upgrades": {}
+            }
+        ],
+        "points": 198,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "TTT": "Bohan Li",
+    "VassalForm1": "bluerook17",
+    "VassalForm2": "bluerook17"
+}

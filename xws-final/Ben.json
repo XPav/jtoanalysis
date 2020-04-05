@@ -1,0 +1,145 @@
+{
+    "Add": "Saw Gerrera to Hera Syndulla",
+    "Discord": "User#6300",
+    "Drop": "Lone Wolf from Jan Ors",
+    "Final": {
+        "faction": "rebelalliance",
+        "name": "Ben Harding JTO",
+        "pilots": [
+            {
+                "id": "janors",
+                "points": 47,
+                "ship": "hwk290lightfreighter",
+                "upgrades": {
+                    "device": [
+                        "proximitymines"
+                    ]
+                }
+            },
+            {
+                "id": "herasyndulla-vcx100lightfreighter",
+                "points": 81,
+                "ship": "vcx100lightfreighter",
+                "upgrades": {
+                    "crew": [
+                        "sawgerrera"
+                    ]
+                }
+            },
+            {
+                "id": "chewbacca",
+                "points": 71,
+                "ship": "modifiedyt1300lightfreighter",
+                "upgrades": {}
+            }
+        ],
+        "points": 199,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Name": "Ben Harding",
+    "Option1": {
+        "faction": "galacticempire",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "planetarysentinel",
+                "points": 42,
+                "ship": "tieskstriker",
+                "upgrades": {
+                    "device": [
+                        "protonbombs"
+                    ],
+                    "modification": [
+                        "stealthdevice"
+                    ]
+                }
+            },
+            {
+                "id": "rhosquadronpilot",
+                "points": 50,
+                "ship": "alphaclassstarwing",
+                "upgrades": {
+                    "sensor": [
+                        "trajectorysimulator"
+                    ],
+                    "torpedo": [
+                        "plasmatorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "stormsquadronace",
+                "points": 47,
+                "ship": "tieadvancedx1",
+                "upgrades": {
+                    "missile": [
+                        "clustermissiles"
+                    ],
+                    "sensor": [
+                        "passivesensors"
+                    ]
+                }
+            },
+            {
+                "id": "coloneljendon",
+                "points": 60,
+                "ship": "lambdaclasst4ashuttle",
+                "upgrades": {
+                    "cannon": [
+                        "autoblasters"
+                    ],
+                    "crew": [
+                        "isbslicer"
+                    ],
+                    "modification": [
+                        "electronicbaffle"
+                    ],
+                    "title": [
+                        "st321"
+                    ]
+                }
+            }
+        ],
+        "points": 199,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Option2": {
+        "faction": "rebelalliance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "janors",
+                "points": 52,
+                "ship": "hwk290lightfreighter",
+                "upgrades": {
+                    "device": [
+                        "proximitymines"
+                    ],
+                    "talent": [
+                        "lonewolf"
+                    ]
+                }
+            },
+            {
+                "id": "herasyndulla-vcx100lightfreighter",
+                "points": 72,
+                "ship": "vcx100lightfreighter",
+                "upgrades": {}
+            },
+            {
+                "id": "chewbacca",
+                "points": 71,
+                "ship": "modifiedyt1300lightfreighter",
+                "upgrades": {}
+            }
+        ],
+        "points": 195,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "TTT": "Ben Harding",
+    "VassalForm1": "Ben",
+    "VassalForm2": "Ben"
+}

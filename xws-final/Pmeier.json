@@ -1,0 +1,197 @@
+{
+    "Add": "Perceptive Copilot on Kyle",
+    "Discord": "6903",
+    "Drop": "Static Discharge Veins from Kyle",
+    "Final": {
+        "faction": "rebelalliance",
+        "name": "Patrick Meier JTO",
+        "obstacles": [
+            "coreasteroid5",
+            "core2asteroid4",
+            "core2asteroid5"
+        ],
+        "pilots": [
+            {
+                "id": "cassianandor",
+                "points": 62,
+                "ship": "ut60duwing",
+                "upgrades": {
+                    "configuration": [
+                        "pivotwing"
+                    ],
+                    "crew": [
+                        "seasonednavigator"
+                    ],
+                    "modification": [
+                        "delayedfuses"
+                    ],
+                    "sensor": [
+                        "firecontrolsystem"
+                    ],
+                    "talent": [
+                        "selfless"
+                    ]
+                }
+            },
+            {
+                "id": "kylekatarn",
+                "points": 52,
+                "ship": "hwk290lightfreighter",
+                "upgrades": {
+                    "crew": [
+                        "perceptivecopilot"
+                    ],
+                    "device": [
+                        "ionbombs"
+                    ],
+                    "talent": [
+                        "trickshot"
+                    ]
+                }
+            },
+            {
+                "id": "captainrex",
+                "points": 31,
+                "ship": "tielnfighter",
+                "upgrades": {
+                    "modification": [
+                        "munitionsfailsafe"
+                    ]
+                }
+            },
+            {
+                "id": "braylenstramm",
+                "points": 52,
+                "ship": "asf01bwing",
+                "upgrades": {}
+            }
+        ],
+        "points": 197,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Name": "Patrick Meier",
+    "Option1": {
+        "faction": "rebelalliance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "cassianandor",
+                "points": 62,
+                "ship": "ut60duwing",
+                "upgrades": {
+                    "configuration": [
+                        "pivotwing"
+                    ],
+                    "crew": [
+                        "seasonednavigator"
+                    ],
+                    "modification": [
+                        "delayedfuses"
+                    ],
+                    "sensor": [
+                        "firecontrolsystem"
+                    ],
+                    "talent": [
+                        "selfless"
+                    ]
+                }
+            },
+            {
+                "id": "kylekatarn",
+                "points": 50,
+                "ship": "hwk290lightfreighter",
+                "upgrades": {
+                    "device": [
+                        "ionbombs"
+                    ],
+                    "modification": [
+                        "staticdischargevanes"
+                    ],
+                    "talent": [
+                        "trickshot"
+                    ]
+                }
+            },
+            {
+                "id": "captainrex",
+                "points": 31,
+                "ship": "tielnfighter",
+                "upgrades": {
+                    "modification": [
+                        "munitionsfailsafe"
+                    ]
+                }
+            },
+            {
+                "id": "braylenstramm",
+                "points": 52,
+                "ship": "asf01bwing",
+                "upgrades": {}
+            }
+        ],
+        "points": 195,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Option2": {
+        "faction": "scumandvillainy",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "bountyhunter",
+                "points": 78,
+                "ship": "firesprayclasspatrolcraft",
+                "upgrades": {
+                    "cannon": [
+                        "autoblasters"
+                    ],
+                    "crew": [
+                        "cadbane"
+                    ],
+                    "device": [
+                        "seismiccharges"
+                    ],
+                    "missile": [
+                        "ionmissiles"
+                    ],
+                    "modification": [
+                        "electronicbaffle"
+                    ]
+                }
+            },
+            {
+                "id": "binayrepirate",
+                "points": 26,
+                "ship": "z95af4headhunter",
+                "upgrades": {
+                    "missile": [
+                        "ionmissiles"
+                    ]
+                }
+            },
+            {
+                "id": "drearenthal",
+                "points": 59,
+                "ship": "btla4ywing",
+                "upgrades": {
+                    "gunner": [
+                        "hansolo-gunner"
+                    ]
+                }
+            },
+            {
+                "id": "sarcoplank",
+                "points": 32,
+                "ship": "quadrijettransferspacetug",
+                "upgrades": {}
+            }
+        ],
+        "points": 195,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "TTT": "Patrick Meier",
+    "VassalForm1": "Pmeier",
+    "VassalForm2": "pmeier"
+}

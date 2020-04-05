@@ -1,0 +1,200 @@
+{
+    "Add": "Add Virago title to Dalan Oberos in the Star Viper",
+    "Discord": "Ajay2017#8782",
+    "Drop": "Remove Targeting Computer from Dalan Oberos in the Star Viper",
+    "Final": {
+        "faction": "scumandvillainy",
+        "name": "Ion Madness",
+        "obstacles": [
+            "coreasteroid0",
+            "coreasteroid1",
+            "coreasteroid2"
+        ],
+        "pilots": [
+            {
+                "id": "toranikulda",
+                "points": 60,
+                "ship": "m12lkimogilafighter",
+                "upgrades": {
+                    "astromech": [
+                        "r5tk"
+                    ],
+                    "illicit": [
+                        "deadmansswitch"
+                    ],
+                    "modification": [
+                        "shieldupgrade"
+                    ],
+                    "torpedo": [
+                        "iontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "dalanoberos-starviperclassattackplatform",
+                "points": 68,
+                "ship": "starviperclassattackplatform",
+                "upgrades": {
+                    "title": [
+                        "virago"
+                    ],
+                    "torpedo": [
+                        "iontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "lattsrazzi",
+                "points": 72,
+                "ship": "yv666lightfreighter",
+                "upgrades": {
+                    "cannon": [
+                        "ioncannon"
+                    ],
+                    "crew": [
+                        "tobiasbeckett"
+                    ],
+                    "missile": [
+                        "homingmissiles"
+                    ],
+                    "modification": [
+                        "electronicbaffle"
+                    ]
+                }
+            }
+        ],
+        "points": 200,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Name": "Aaron Chambers",
+    "Option1": {
+        "faction": "scumandvillainy",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "dalanoberos-starviperclassattackplatform",
+                "points": 63,
+                "ship": "starviperclassattackplatform",
+                "upgrades": {
+                    "modification": [
+                        "targetingcomputer"
+                    ],
+                    "torpedo": [
+                        "iontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "lattsrazzi",
+                "points": 72,
+                "ship": "yv666lightfreighter",
+                "upgrades": {
+                    "cannon": [
+                        "ioncannon"
+                    ],
+                    "crew": [
+                        "tobiasbeckett"
+                    ],
+                    "missile": [
+                        "homingmissiles"
+                    ],
+                    "modification": [
+                        "electronicbaffle"
+                    ]
+                }
+            },
+            {
+                "id": "toranikulda",
+                "points": 60,
+                "ship": "m12lkimogilafighter",
+                "upgrades": {
+                    "astromech": [
+                        "r5tk"
+                    ],
+                    "illicit": [
+                        "deadmansswitch"
+                    ],
+                    "modification": [
+                        "shieldupgrade"
+                    ],
+                    "torpedo": [
+                        "iontorpedoes"
+                    ]
+                }
+            }
+        ],
+        "points": 195,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Option2": {
+        "faction": "rebelalliance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "braylenstramm",
+                "points": 81,
+                "ship": "asf01bwing",
+                "upgrades": {
+                    "cannon": [
+                        "ioncannon"
+                    ],
+                    "configuration": [
+                        "stabilizedsfoils"
+                    ],
+                    "modification": [
+                        "targetingcomputer"
+                    ],
+                    "sensor": [
+                        "collisiondetector"
+                    ],
+                    "talent": [
+                        "elusive"
+                    ],
+                    "torpedo": [
+                        "plasmatorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "ezrabridger",
+                "points": 51,
+                "ship": "attackshuttle",
+                "upgrades": {
+                    "modification": [
+                        "afterburners"
+                    ],
+                    "title": [
+                        "phantom"
+                    ],
+                    "turret": [
+                        "ioncannonturret"
+                    ]
+                }
+            },
+            {
+                "id": "zeborrelios-tielnfighter",
+                "points": 24,
+                "ship": "tielnfighter",
+                "upgrades": {}
+            },
+            {
+                "id": "hortonsalm",
+                "points": 39,
+                "ship": "btla4ywing",
+                "upgrades": {
+                    "astromech": [
+                        "r4astromech"
+                    ]
+                }
+            }
+        ],
+        "points": 195,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "TTT": "AaronChambers",
+    "VassalForm1": "Ajay2017",
+    "VassalForm2": "Ajay2017"
+}

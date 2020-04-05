@@ -1,0 +1,176 @@
+{
+    "Add": "M9-G8 (Kare Kun)",
+    "Discord": "Whisper",
+    "Drop": "Cluster Missles (L'ulo)",
+    "Final": {
+        "faction": "resistance",
+        "name": "Nobbie JTO",
+        "obstacles": [
+            "gascloud1",
+            "gascloud2",
+            "gascloud3"
+        ],
+        "pilots": [
+            {
+                "id": "greensquadronexpert",
+                "points": 34,
+                "ship": "rz2awing",
+                "upgrades": {}
+            },
+            {
+                "id": "lulolampar",
+                "points": 48,
+                "ship": "rz2awing",
+                "upgrades": {
+                    "talent": [
+                        "lonewolf"
+                    ]
+                }
+            },
+            {
+                "id": "temminwexley",
+                "points": 59,
+                "ship": "t70xwing",
+                "upgrades": {
+                    "astromech": [
+                        "r2ha"
+                    ],
+                    "configuration": [
+                        "integratedsfoils"
+                    ],
+                    "title": [
+                        "blackone"
+                    ]
+                }
+            },
+            {
+                "id": "karekun",
+                "points": 58,
+                "ship": "t70xwing",
+                "upgrades": {
+                    "astromech": [
+                        "m9g8"
+                    ],
+                    "configuration": [
+                        "integratedsfoils"
+                    ]
+                }
+            }
+        ],
+        "points": 199,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Name": "Nobbie",
+    "Option1": {
+        "faction": "resistance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "greensquadronexpert",
+                "points": 34,
+                "ship": "rz2awing",
+                "upgrades": {}
+            },
+            {
+                "id": "lulolampar",
+                "points": 53,
+                "ship": "rz2awing",
+                "upgrades": {
+                    "missile": [
+                        "clustermissiles"
+                    ],
+                    "talent": [
+                        "lonewolf"
+                    ]
+                }
+            },
+            {
+                "id": "temminwexley",
+                "points": 59,
+                "ship": "t70xwing",
+                "upgrades": {
+                    "astromech": [
+                        "r2ha"
+                    ],
+                    "configuration": [
+                        "integratedsfoils"
+                    ],
+                    "title": [
+                        "blackone"
+                    ]
+                }
+            },
+            {
+                "id": "karekun",
+                "points": 51,
+                "ship": "t70xwing",
+                "upgrades": {
+                    "configuration": [
+                        "integratedsfoils"
+                    ]
+                }
+            }
+        ],
+        "points": 197,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Option2": {
+        "faction": "rebelalliance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "knavesquadronescort",
+                "points": 60,
+                "ship": "ewing",
+                "upgrades": {
+                    "astromech": [
+                        "r2d2"
+                    ]
+                }
+            },
+            {
+                "id": "janors",
+                "points": 59,
+                "ship": "hwk290lightfreighter",
+                "upgrades": {
+                    "title": [
+                        "moldycrow"
+                    ]
+                }
+            },
+            {
+                "id": "norrawexley-btla4ywing",
+                "points": 77,
+                "ship": "btla4ywing",
+                "upgrades": {
+                    "device": [
+                        "protonbombs"
+                    ],
+                    "gunner": [
+                        "hotshotgunner"
+                    ],
+                    "modification": [
+                        "munitionsfailsafe"
+                    ],
+                    "talent": [
+                        "squadleader"
+                    ],
+                    "torpedo": [
+                        "iontorpedoes"
+                    ],
+                    "turret": [
+                        "ioncannonturret"
+                    ]
+                }
+            }
+        ],
+        "points": 196,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "TTT": "Nobbie",
+    "VassalForm1": "Loud_Whisper",
+    "VassalForm2": "Loud_Whisper"
+}

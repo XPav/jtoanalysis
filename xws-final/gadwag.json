@@ -1,0 +1,173 @@
+{
+    "Add": "drk-1 probe droids to separatist bomber",
+    "Discord": "gadwag#1395",
+    "Drop": "autoblasters from maul",
+    "Final": {
+        "faction": "separatistalliance",
+        "name": "Daniel Smith JTO",
+        "pilots": [
+            {
+                "id": "darthmaul",
+                "points": 88,
+                "ship": "sithinfiltrator",
+                "upgrades": {
+                    "crew": [
+                        "countdooku"
+                    ],
+                    "title": [
+                        "scimitar"
+                    ],
+                    "torpedo": [
+                        "plasmatorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "technounionbomber",
+                "points": 40,
+                "ship": "hyenaclassdroidbomber",
+                "upgrades": {
+                    "device": [
+                        "proximitymines"
+                    ],
+                    "torpedo": [
+                        "plasmatorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "feethanottrawautopilot",
+                "points": 39,
+                "ship": "belbullab22starfighter",
+                "upgrades": {
+                    "modification": [
+                        "imperviumplating"
+                    ]
+                }
+            },
+            {
+                "id": "separatistbomber",
+                "points": 33,
+                "ship": "hyenaclassdroidbomber",
+                "upgrades": {
+                    "device": [
+                        "drk1probedroids"
+                    ]
+                }
+            }
+        ],
+        "points": 200,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Name": "Daniel Smith",
+    "Option1": {
+        "faction": "separatistalliance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "darthmaul",
+                "points": 91,
+                "ship": "sithinfiltrator",
+                "upgrades": {
+                    "cannon": [
+                        "autoblasters"
+                    ],
+                    "crew": [
+                        "countdooku"
+                    ],
+                    "title": [
+                        "scimitar"
+                    ],
+                    "torpedo": [
+                        "plasmatorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "technounionbomber",
+                "points": 40,
+                "ship": "hyenaclassdroidbomber",
+                "upgrades": {
+                    "device": [
+                        "proximitymines"
+                    ],
+                    "torpedo": [
+                        "plasmatorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "feethanottrawautopilot",
+                "points": 39,
+                "ship": "belbullab22starfighter",
+                "upgrades": {
+                    "modification": [
+                        "imperviumplating"
+                    ]
+                }
+            },
+            {
+                "id": "separatistbomber",
+                "points": 28,
+                "ship": "hyenaclassdroidbomber",
+                "upgrades": {}
+            }
+        ],
+        "points": 198,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Option2": {
+        "faction": "rebelalliance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "kananjarrus",
+                "points": 96,
+                "ship": "vcx100lightfreighter",
+                "upgrades": {
+                    "crew": [
+                        "bazemalbus"
+                    ],
+                    "force-power": [
+                        "predictiveshot"
+                    ],
+                    "sensor": [
+                        "passivesensors"
+                    ],
+                    "title": [
+                        "ghost"
+                    ],
+                    "torpedo": [
+                        "plasmatorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "captainrex",
+                "points": 30,
+                "ship": "tielnfighter",
+                "upgrades": {}
+            },
+            {
+                "id": "sabinewren-tielnfighter",
+                "points": 29,
+                "ship": "tielnfighter",
+                "upgrades": {}
+            },
+            {
+                "id": "mirandadoni",
+                "points": 42,
+                "ship": "btls8kwing",
+                "upgrades": {}
+            }
+        ],
+        "points": 197,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "TTT": "Daniel Smith",
+    "VassalForm1": "gadwag",
+    "VassalForm2": "gadwag"
+}

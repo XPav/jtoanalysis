@@ -1,0 +1,181 @@
+{
+    "Add": "Director Krennic on Jendon",
+    "Discord": "Soontirfe_aceoflegen (#4757)",
+    "Drop": "Trajectory Simulator off Jendon",
+    "Final": {
+        "faction": "galacticempire",
+        "name": "Thomas Correnti JTO",
+        "pilots": [
+            {
+                "id": "gammasquadronace",
+                "points": 57,
+                "ship": "tiesabomber",
+                "upgrades": {
+                    "gunner": [
+                        "fifthbrother"
+                    ],
+                    "missile": [
+                        "barragerockets"
+                    ],
+                    "talent": [
+                        "squadleader"
+                    ]
+                }
+            },
+            {
+                "id": "lieutenantkarsabi",
+                "points": 51,
+                "ship": "alphaclassstarwing",
+                "upgrades": {
+                    "talent": [
+                        "crackshot"
+                    ],
+                    "torpedo": [
+                        "protontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "coloneljendon",
+                "points": 52,
+                "ship": "lambdaclasst4ashuttle",
+                "upgrades": {
+                    "crew": [
+                        "directorkrennic"
+                    ]
+                }
+            },
+            {
+                "id": "blacksquadronscout",
+                "points": 34,
+                "ship": "tieskstriker",
+                "upgrades": {}
+            }
+        ],
+        "points": 194,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Name": "Thomas Correnti",
+    "Option1": {
+        "faction": "galacticempire",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "gammasquadronace",
+                "points": 57,
+                "ship": "tiesabomber",
+                "upgrades": {
+                    "gunner": [
+                        "fifthbrother"
+                    ],
+                    "missile": [
+                        "barragerockets"
+                    ],
+                    "talent": [
+                        "squadleader"
+                    ]
+                }
+            },
+            {
+                "id": "lieutenantkarsabi",
+                "points": 51,
+                "ship": "alphaclassstarwing",
+                "upgrades": {
+                    "talent": [
+                        "crackshot"
+                    ],
+                    "torpedo": [
+                        "protontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "coloneljendon",
+                "points": 54,
+                "ship": "lambdaclasst4ashuttle",
+                "upgrades": {
+                    "sensor": [
+                        "trajectorysimulator"
+                    ]
+                }
+            },
+            {
+                "id": "blacksquadronscout",
+                "points": 34,
+                "ship": "tieskstriker",
+                "upgrades": {}
+            }
+        ],
+        "points": 196,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Option2": {
+        "faction": "galacticrepublic",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "oddball-arc170starfighter",
+                "points": 72,
+                "ship": "arc170starfighter",
+                "upgrades": {
+                    "astromech": [
+                        "r4pastromech"
+                    ],
+                    "talent": [
+                        "debrisgambit"
+                    ],
+                    "torpedo": [
+                        "protontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "swoop",
+                "points": 41,
+                "ship": "v19torrentstarfighter",
+                "upgrades": {
+                    "missile": [
+                        "homingmissiles"
+                    ],
+                    "modification": [
+                        "electronicbaffle"
+                    ],
+                    "talent": [
+                        "intimidation"
+                    ]
+                }
+            },
+            {
+                "id": "bravoflightofficer",
+                "points": 44,
+                "ship": "nabooroyaln1starfighter",
+                "upgrades": {
+                    "astromech": [
+                        "r4p44"
+                    ],
+                    "sensor": [
+                        "collisiondetector"
+                    ]
+                }
+            },
+            {
+                "id": "bravoflightofficer",
+                "points": 39,
+                "ship": "nabooroyaln1starfighter",
+                "upgrades": {
+                    "astromech": [
+                        "r2a6"
+                    ]
+                }
+            }
+        ],
+        "points": 196,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "TTT": "Thomas Correnti",
+    "VassalForm1": "soontirfel_aceoflegend",
+    "VassalForm2": "Soontirfel_aceoflegend"
+}

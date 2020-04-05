@@ -1,0 +1,148 @@
+{
+    "Add": "Juke to Countess Ryad",
+    "Discord": "Mad_Chemist#4914",
+    "Drop": "Hull Upgrade from Tomax BRen",
+    "Final": {
+        "faction": "galacticempire",
+        "name": "Chuck Crawford [JTO]",
+        "pilots": [
+            {
+                "id": "countessryad",
+                "points": 89,
+                "ship": "tieddefender",
+                "upgrades": {
+                    "talent": [
+                        "juke"
+                    ]
+                }
+            },
+            {
+                "id": "tomaxbren",
+                "points": 38,
+                "ship": "tiesabomber",
+                "upgrades": {
+                    "device": [
+                        "seismiccharges"
+                    ]
+                }
+            },
+            {
+                "id": "countdown",
+                "points": 44,
+                "ship": "tieskstriker",
+                "upgrades": {}
+            },
+            {
+                "id": "wampa",
+                "points": 29,
+                "ship": "tielnfighter",
+                "upgrades": {}
+            }
+        ],
+        "points": 200,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Name": "Chuck Crawford",
+    "Option1": {
+        "faction": "firstorder",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "firstorderprovocateur",
+                "points": 49,
+                "ship": "tiebainterceptor",
+                "upgrades": {
+                    "missile": [
+                        "ionmissiles"
+                    ]
+                }
+            },
+            {
+                "id": "commandermalarus",
+                "points": 44,
+                "ship": "tiefofighter",
+                "upgrades": {
+                    "tech": [
+                        "targetingsynchronizer"
+                    ]
+                }
+            },
+            {
+                "id": "captainphasma",
+                "points": 46,
+                "ship": "tiesffighter",
+                "upgrades": {
+                    "modification": [
+                        "shieldupgrade"
+                    ],
+                    "talent": [
+                        "composure"
+                    ]
+                }
+            },
+            {
+                "id": "epsilonsquadroncadet",
+                "points": 30,
+                "ship": "tiefofighter",
+                "upgrades": {
+                    "tech": [
+                        "primedthrusters"
+                    ]
+                }
+            },
+            {
+                "id": "omegasquadronace",
+                "points": 28,
+                "ship": "tiefofighter",
+                "upgrades": {}
+            }
+        ],
+        "points": 197,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Option2": {
+        "faction": "galacticempire",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "countessryad",
+                "points": 82,
+                "ship": "tieddefender",
+                "upgrades": {}
+            },
+            {
+                "id": "tomaxbren",
+                "points": 43,
+                "ship": "tiesabomber",
+                "upgrades": {
+                    "device": [
+                        "seismiccharges"
+                    ],
+                    "modification": [
+                        "hullupgrade"
+                    ]
+                }
+            },
+            {
+                "id": "countdown",
+                "points": 44,
+                "ship": "tieskstriker",
+                "upgrades": {}
+            },
+            {
+                "id": "wampa",
+                "points": 29,
+                "ship": "tielnfighter",
+                "upgrades": {}
+            }
+        ],
+        "points": 198,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "TTT": "mad_chemist",
+    "VassalForm1": "Mad Chemist",
+    "VassalForm2": "Mad_Chemist"
+}

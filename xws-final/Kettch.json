@@ -1,0 +1,159 @@
+{
+    "Add": "DRK-1 Probe Droids (Dark Courier)",
+    "Discord": "Kettch#4217",
+    "Drop": "Fire-Control System (Baktoid Prototype)",
+    "Final": {
+        "faction": "separatistalliance",
+        "name": "Thomas Schulte JTO",
+        "obstacles": [
+            "coreasteroid4",
+            "core2asteroid0",
+            "core2asteroid2"
+        ],
+        "pilots": [
+            {
+                "id": "baktoidprototype",
+                "points": 28,
+                "ship": "hyenaclassdroidbomber",
+                "upgrades": {}
+            },
+            {
+                "id": "darkcourier",
+                "points": 73,
+                "ship": "sithinfiltrator",
+                "upgrades": {
+                    "device": [
+                        "drk1probedroids"
+                    ],
+                    "title": [
+                        "scimitar"
+                    ],
+                    "torpedo": [
+                        "protontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "feethanottrawautopilot",
+                "points": 35,
+                "ship": "belbullab22starfighter",
+                "upgrades": {}
+            },
+            {
+                "id": "countdooku",
+                "points": 63,
+                "ship": "sithinfiltrator",
+                "upgrades": {}
+            }
+        ],
+        "points": 199,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Name": "Thomas Schulte",
+    "Option1": {
+        "faction": "scumandvillainy",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "nomlumb",
+                "points": 51,
+                "ship": "jumpmaster5000",
+                "upgrades": {
+                    "crew": [
+                        "qira"
+                    ],
+                    "illicit": [
+                        "contrabandcybernetics"
+                    ],
+                    "modification": [
+                        "targetingcomputer"
+                    ],
+                    "torpedo": [
+                        "iontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "ig88a",
+                "points": 76,
+                "ship": "aggressorassaultfighter",
+                "upgrades": {
+                    "cannon": [
+                        "ioncannon",
+                        "autoblasters"
+                    ]
+                }
+            },
+            {
+                "id": "lattsrazzi",
+                "points": 69,
+                "ship": "yv666lightfreighter",
+                "upgrades": {
+                    "cannon": [
+                        "ioncannon"
+                    ],
+                    "modification": [
+                        "electronicbaffle"
+                    ],
+                    "talent": [
+                        "swarmtactics"
+                    ],
+                    "title": [
+                        "houndstooth"
+                    ]
+                }
+            }
+        ],
+        "points": 196,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Option2": {
+        "faction": "separatistalliance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "baktoidprototype",
+                "points": 30,
+                "ship": "hyenaclassdroidbomber",
+                "upgrades": {
+                    "sensor": [
+                        "firecontrolsystem"
+                    ]
+                }
+            },
+            {
+                "id": "darkcourier",
+                "points": 68,
+                "ship": "sithinfiltrator",
+                "upgrades": {
+                    "title": [
+                        "scimitar"
+                    ],
+                    "torpedo": [
+                        "protontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "feethanottrawautopilot",
+                "points": 35,
+                "ship": "belbullab22starfighter",
+                "upgrades": {}
+            },
+            {
+                "id": "countdooku",
+                "points": 63,
+                "ship": "sithinfiltrator",
+                "upgrades": {}
+            }
+        ],
+        "points": 196,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "TTT": "Kettch",
+    "VassalForm1": "Kettch",
+    "VassalForm2": "Kettch"
+}

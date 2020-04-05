@@ -1,0 +1,162 @@
+{
+    "Add": "Targeting Computer to Sigma Squadron Ace",
+    "Discord": "Sheev#9487",
+    "Drop": "Angled Deflectors from Sigma Squadron Ace",
+    "Final": {
+        "faction": "galacticempire",
+        "name": "Daniel Sheev JTO",
+        "pilots": [
+            {
+                "id": "sigmasquadronace",
+                "points": 65,
+                "ship": "tiephphantom",
+                "upgrades": {
+                    "gunner": [
+                        "agilegunner"
+                    ],
+                    "modification": [
+                        "targetingcomputer"
+                    ],
+                    "sensor": [
+                        "firecontrolsystem"
+                    ],
+                    "talent": [
+                        "trickshot"
+                    ]
+                }
+            },
+            {
+                "id": "sabersquadronace",
+                "points": 41,
+                "ship": "tieininterceptor",
+                "upgrades": {
+                    "talent": [
+                        "lonewolf"
+                    ]
+                }
+            },
+            {
+                "id": "captainferoph",
+                "points": 47,
+                "ship": "tiereaper",
+                "upgrades": {}
+            },
+            {
+                "id": "vedfoslo",
+                "points": 47,
+                "ship": "tieadvancedx1",
+                "upgrades": {
+                    "sensor": [
+                        "passivesensors"
+                    ]
+                }
+            }
+        ],
+        "points": 200,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Name": "Daniel Mahony",
+    "Option1": {
+        "faction": "galacticempire",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "sigmasquadronace",
+                "points": 65,
+                "ship": "tiephphantom",
+                "upgrades": {
+                    "gunner": [
+                        "agilegunner"
+                    ],
+                    "modification": [
+                        "angleddeflectors"
+                    ],
+                    "sensor": [
+                        "firecontrolsystem"
+                    ],
+                    "talent": [
+                        "trickshot"
+                    ]
+                }
+            },
+            {
+                "id": "sabersquadronace",
+                "points": 41,
+                "ship": "tieininterceptor",
+                "upgrades": {
+                    "talent": [
+                        "lonewolf"
+                    ]
+                }
+            },
+            {
+                "id": "captainferoph",
+                "points": 47,
+                "ship": "tiereaper",
+                "upgrades": {}
+            },
+            {
+                "id": "vedfoslo",
+                "points": 47,
+                "ship": "tieadvancedx1",
+                "upgrades": {
+                    "sensor": [
+                        "passivesensors"
+                    ]
+                }
+            }
+        ],
+        "points": 200,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Option2": {
+        "faction": "rebelalliance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "landocalrissian-modifiedyt1300lightfreighter",
+                "points": 102,
+                "ship": "modifiedyt1300lightfreighter",
+                "upgrades": {
+                    "crew": [
+                        "kananjarrus"
+                    ],
+                    "modification": [
+                        "engineupgrade",
+                        "targetingcomputer"
+                    ],
+                    "talent": [
+                        "composure"
+                    ]
+                }
+            },
+            {
+                "id": "arvelcrynyd",
+                "points": 34,
+                "ship": "rz1awing",
+                "upgrades": {}
+            },
+            {
+                "id": "magvayarro",
+                "points": 60,
+                "ship": "ut60duwing",
+                "upgrades": {
+                    "configuration": [
+                        "pivotwing"
+                    ],
+                    "sensor": [
+                        "advancedsensors"
+                    ]
+                }
+            }
+        ],
+        "points": 196,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "TTT": "Daniel Mahony",
+    "VassalForm1": "SheevPhx",
+    "VassalForm2": "SheevPhx"
+}

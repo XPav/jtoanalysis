@@ -1,0 +1,184 @@
+{
+    "Add": "Maul crew to Han Solo",
+    "Discord": "flyingkiwi#3739",
+    "Drop": "Squad Leader from Han Solo",
+    "Final": {
+        "faction": "scumandvillainy",
+        "name": "David Rowley JTO",
+        "obstacles": [
+            "coreasteroid5",
+            "core2asteroid4",
+            "core2asteroid5"
+        ],
+        "pilots": [
+            {
+                "id": "hansolo",
+                "points": 81,
+                "ship": "customizedyt1300lightfreighter",
+                "upgrades": {
+                    "crew": [
+                        "maul"
+                    ],
+                    "illicit": [
+                        "inertialdampeners"
+                    ],
+                    "missile": [
+                        "magpulsewarheads"
+                    ],
+                    "title": [
+                        "landosmillenniumfalcon"
+                    ]
+                }
+            },
+            {
+                "id": "nomlumb",
+                "points": 48,
+                "ship": "jumpmaster5000",
+                "upgrades": {
+                    "crew": [
+                        "l337"
+                    ],
+                    "torpedo": [
+                        "advprotontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "zuckuss",
+                "points": 45,
+                "ship": "g1astarfighter",
+                "upgrades": {}
+            },
+            {
+                "id": "miningguildsurveyor",
+                "points": 23,
+                "ship": "modifiedtielnfighter",
+                "upgrades": {}
+            }
+        ],
+        "points": 197,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Name": "David Rowley",
+    "Option1": {
+        "faction": "scumandvillainy",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "hansolo",
+                "points": 83,
+                "ship": "customizedyt1300lightfreighter",
+                "upgrades": {
+                    "illicit": [
+                        "inertialdampeners"
+                    ],
+                    "missile": [
+                        "magpulsewarheads"
+                    ],
+                    "talent": [
+                        "squadleader"
+                    ],
+                    "title": [
+                        "landosmillenniumfalcon"
+                    ]
+                }
+            },
+            {
+                "id": "nomlumb",
+                "points": 48,
+                "ship": "jumpmaster5000",
+                "upgrades": {
+                    "crew": [
+                        "l337"
+                    ],
+                    "torpedo": [
+                        "advprotontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "zuckuss",
+                "points": 45,
+                "ship": "g1astarfighter",
+                "upgrades": {}
+            },
+            {
+                "id": "miningguildsurveyor",
+                "points": 23,
+                "ship": "modifiedtielnfighter",
+                "upgrades": {}
+            }
+        ],
+        "points": 199,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Option2": {
+        "faction": "resistance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "logisticsdivisionpilot",
+                "points": 60,
+                "ship": "resistancetransport",
+                "upgrades": {
+                    "cannon": [
+                        "ioncannon"
+                    ],
+                    "crew": [
+                        "novicetechnician",
+                        "tacticalofficer"
+                    ],
+                    "modification": [
+                        "delayedfuses"
+                    ],
+                    "tech": [
+                        "primedthrusters"
+                    ],
+                    "torpedo": [
+                        "advprotontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "vimoradi",
+                "points": 36,
+                "ship": "resistancetransportpod",
+                "upgrades": {
+                    "crew": [
+                        "larmadacy"
+                    ],
+                    "tech": [
+                        "patternanalyzer"
+                    ]
+                }
+            },
+            {
+                "id": "kazudaxiono",
+                "points": 43,
+                "ship": "fireball",
+                "upgrades": {
+                    "talent": [
+                        "composure"
+                    ],
+                    "title": [
+                        "kazsfireball"
+                    ]
+                }
+            },
+            {
+                "id": "resistancesympathizer",
+                "points": 60,
+                "ship": "scavengedyt1300",
+                "upgrades": {}
+            }
+        ],
+        "points": 199,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "TTT": "David Rowley",
+    "VassalForm1": "FlyingKiwi",
+    "VassalForm2": "FlyingKiwi"
+}

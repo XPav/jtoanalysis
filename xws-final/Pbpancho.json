@@ -1,0 +1,165 @@
+{
+    "Add": "Trick Shot to Dash",
+    "Discord": "pbpancho#0429",
+    "Drop": "Static Discharge Vanes from Dash",
+    "Final": {
+        "faction": "rebelalliance",
+        "name": "Pbpancho's Jank",
+        "pilots": [
+            {
+                "id": "talasquadronpilot",
+                "points": 35,
+                "ship": "z95af4headhunter",
+                "upgrades": {
+                    "missile": [
+                        "concussionmissiles"
+                    ],
+                    "modification": [
+                        "electronicbaffle"
+                    ],
+                    "talent": [
+                        "intimidation"
+                    ]
+                }
+            },
+            {
+                "id": "dashrendar",
+                "points": 109,
+                "ship": "yt2400lightfreighter",
+                "upgrades": {
+                    "talent": [
+                        "trickshot"
+                    ],
+                    "title": [
+                        "outrider"
+                    ]
+                }
+            },
+            {
+                "id": "kashyyykdefender",
+                "points": 52,
+                "ship": "auzituckgunship",
+                "upgrades": {
+                    "crew": [
+                        "perceptivecopilot"
+                    ]
+                }
+            }
+        ],
+        "points": 196,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Name": "Not Matt Holland",
+    "Option1": {
+        "faction": "rebelalliance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "talasquadronpilot",
+                "points": 35,
+                "ship": "z95af4headhunter",
+                "upgrades": {
+                    "missile": [
+                        "concussionmissiles"
+                    ],
+                    "modification": [
+                        "electronicbaffle"
+                    ],
+                    "talent": [
+                        "intimidation"
+                    ]
+                }
+            },
+            {
+                "id": "dashrendar",
+                "points": 111,
+                "ship": "yt2400lightfreighter",
+                "upgrades": {
+                    "modification": [
+                        "staticdischargevanes"
+                    ],
+                    "title": [
+                        "outrider"
+                    ]
+                }
+            },
+            {
+                "id": "kashyyykdefender",
+                "points": 52,
+                "ship": "auzituckgunship",
+                "upgrades": {
+                    "crew": [
+                        "perceptivecopilot"
+                    ]
+                }
+            }
+        ],
+        "points": 198,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Option2": {
+        "faction": "galacticempire",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "gammasquadronace",
+                "points": 59,
+                "ship": "tiesabomber",
+                "upgrades": {
+                    "device": [
+                        "ionbombs"
+                    ],
+                    "gunner": [
+                        "hotshotgunner"
+                    ],
+                    "missile": [
+                        "magpulsewarheads"
+                    ],
+                    "modification": [
+                        "electronicbaffle"
+                    ],
+                    "talent": [
+                        "predator"
+                    ],
+                    "torpedo": [
+                        "advprotontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "imdaartestpilot",
+                "points": 55,
+                "ship": "tiephphantom",
+                "upgrades": {
+                    "gunner": [
+                        "hotshotgunner"
+                    ],
+                    "modification": [
+                        "hullupgrade"
+                    ]
+                }
+            },
+            {
+                "id": "captainoicunn",
+                "points": 85,
+                "ship": "vt49decimator",
+                "upgrades": {
+                    "crew": [
+                        "isbslicer"
+                    ],
+                    "device": [
+                        "clustermines"
+                    ]
+                }
+            }
+        ],
+        "points": 199,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "TTT": "Not MHolland",
+    "VassalForm1": "Pbpancho",
+    "VassalForm2": "pbpancho"
+}

@@ -1,0 +1,157 @@
+{
+    "Add": "Scimitar to Dooku",
+    "Discord": "Totem#6562",
+    "Drop": "Scimitar from Maul",
+    "Final": {
+        "faction": "separatistalliance",
+        "name": "The Maul, the Tyrant, and the UPS guy",
+        "pilots": [
+            {
+                "id": "darthmaul",
+                "points": 72,
+                "ship": "sithinfiltrator",
+                "upgrades": {
+                    "cannon": [
+                        "jammingbeam"
+                    ],
+                    "force-power": [
+                        "predictiveshot"
+                    ],
+                    "modification": [
+                        "staticdischargevanes"
+                    ]
+                }
+            },
+            {
+                "id": "countdooku",
+                "points": 76,
+                "ship": "sithinfiltrator",
+                "upgrades": {
+                    "title": [
+                        "scimitar"
+                    ],
+                    "torpedo": [
+                        "plasmatorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "darkcourier",
+                "points": 51,
+                "ship": "sithinfiltrator",
+                "upgrades": {}
+            }
+        ],
+        "points": 199,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Name": "Attila Bodnar-Sobczak",
+    "Option1": {
+        "faction": "separatistalliance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "darthmaul",
+                "points": 76,
+                "ship": "sithinfiltrator",
+                "upgrades": {
+                    "cannon": [
+                        "jammingbeam"
+                    ],
+                    "force-power": [
+                        "predictiveshot"
+                    ],
+                    "modification": [
+                        "staticdischargevanes"
+                    ],
+                    "title": [
+                        "scimitar"
+                    ]
+                }
+            },
+            {
+                "id": "countdooku",
+                "points": 72,
+                "ship": "sithinfiltrator",
+                "upgrades": {
+                    "torpedo": [
+                        "plasmatorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "darkcourier",
+                "points": 51,
+                "ship": "sithinfiltrator",
+                "upgrades": {}
+            }
+        ],
+        "points": 199,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Option2": {
+        "faction": "resistance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "pammichnerrogoode",
+                "points": 54,
+                "ship": "resistancetransport",
+                "upgrades": {
+                    "astromech": [
+                        "r2ha"
+                    ],
+                    "crew": [
+                        "perceptivecopilot"
+                    ],
+                    "tech": [
+                        "targetingsynchronizer"
+                    ]
+                }
+            },
+            {
+                "id": "bb8",
+                "points": 29,
+                "ship": "resistancetransportpod",
+                "upgrades": {
+                    "talent": [
+                        "intimidation"
+                    ]
+                }
+            },
+            {
+                "id": "chewbacca-scavengedyt1300",
+                "points": 82,
+                "ship": "scavengedyt1300",
+                "upgrades": {
+                    "crew": [
+                        "pz4co"
+                    ],
+                    "missile": [
+                        "magpulsewarheads"
+                    ],
+                    "talent": [
+                        "lonewolf"
+                    ],
+                    "title": [
+                        "reysmillenniumfalcon"
+                    ]
+                }
+            },
+            {
+                "id": "ronithblario",
+                "points": 34,
+                "ship": "rz2awing",
+                "upgrades": {}
+            }
+        ],
+        "points": 199,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "TTT": "Totem",
+    "VassalForm1": "Totem",
+    "VassalForm2": "Totem"
+}

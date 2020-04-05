@@ -1,0 +1,185 @@
+{
+    "Add": "Plasma torpedo to Bravo flight",
+    "Discord": "Basscor#0012",
+    "Drop": "Removed Chopper from Padme",
+    "Final": {
+        "faction": "galacticrepublic",
+        "name": "Alan Beard JTO",
+        "pilots": [
+            {
+                "id": "padmeamidala",
+                "points": 59,
+                "ship": "nabooroyaln1starfighter",
+                "upgrades": {
+                    "sensor": [
+                        "firecontrolsystem"
+                    ],
+                    "talent": [
+                        "elusive"
+                    ],
+                    "torpedo": [
+                        "plasmatorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "bravoflightofficer",
+                "points": 42,
+                "ship": "nabooroyaln1starfighter",
+                "upgrades": {
+                    "torpedo": [
+                        "plasmatorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "naboohandmaiden",
+                "points": 55,
+                "ship": "nabooroyaln1starfighter",
+                "upgrades": {
+                    "astromech": [
+                        "r4pastromech"
+                    ],
+                    "torpedo": [
+                        "plasmatorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "ricolie",
+                "points": 42,
+                "ship": "nabooroyaln1starfighter",
+                "upgrades": {}
+            }
+        ],
+        "points": 198,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Name": "Alan Beard",
+    "Option1": {
+        "faction": "firstorder",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "pettyofficerthanisson",
+                "points": 95,
+                "ship": "upsilonclasscommandshuttle",
+                "upgrades": {
+                    "cannon": [
+                        "autoblasters"
+                    ],
+                    "crew": [
+                        "kyloren",
+                        "generalhux",
+                        "novicetechnician"
+                    ],
+                    "sensor": [
+                        "firecontrolsystem"
+                    ],
+                    "tech": [
+                        "targetingsynchronizer",
+                        "advancedoptics"
+                    ]
+                }
+            },
+            {
+                "id": "omegasquadronace",
+                "points": 34,
+                "ship": "tiefofighter",
+                "upgrades": {
+                    "modification": [
+                        "delayedfuses"
+                    ],
+                    "talent": [
+                        "crackshot"
+                    ],
+                    "tech": [
+                        "advancedoptics"
+                    ]
+                }
+            },
+            {
+                "id": "backdraft",
+                "points": 71,
+                "ship": "tiesffighter",
+                "upgrades": {
+                    "gunner": [
+                        "hotshotgunner"
+                    ],
+                    "missile": [
+                        "concussionmissiles"
+                    ],
+                    "modification": [
+                        "staticdischargevanes"
+                    ],
+                    "sensor": [
+                        "passivesensors"
+                    ],
+                    "talent": [
+                        "squadleader"
+                    ]
+                }
+            }
+        ],
+        "points": 200,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Option2": {
+        "faction": "galacticrepublic",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "padmeamidala",
+                "points": 66,
+                "ship": "nabooroyaln1starfighter",
+                "upgrades": {
+                    "astromech": [
+                        "c110p"
+                    ],
+                    "sensor": [
+                        "firecontrolsystem"
+                    ],
+                    "talent": [
+                        "elusive"
+                    ],
+                    "torpedo": [
+                        "plasmatorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "bravoflightofficer",
+                "points": 33,
+                "ship": "nabooroyaln1starfighter",
+                "upgrades": {}
+            },
+            {
+                "id": "naboohandmaiden",
+                "points": 55,
+                "ship": "nabooroyaln1starfighter",
+                "upgrades": {
+                    "astromech": [
+                        "r4pastromech"
+                    ],
+                    "torpedo": [
+                        "plasmatorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "ricolie",
+                "points": 42,
+                "ship": "nabooroyaln1starfighter",
+                "upgrades": {}
+            }
+        ],
+        "points": 196,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "TTT": "Alan Beard",
+    "VassalForm1": "Basscor",
+    "VassalForm2": "Basscor"
+}

@@ -1,0 +1,194 @@
+{
+    "Add": "Calibrated Laser Targeting for Anakin Skywalker",
+    "Discord": "Mu0nVassal#4658",
+    "Drop": "Outmaneuver from Blue Squadron Protector",
+    "Final": {
+        "faction": "galacticrepublic",
+        "name": "Mu0n JTO",
+        "obstacles": [
+            "coreasteroid5",
+            "gascloud1",
+            "gascloud2"
+        ],
+        "pilots": [
+            {
+                "id": "bluesquadronprotector",
+                "points": 32,
+                "ship": "v19torrentstarfighter",
+                "upgrades": {
+                    "missile": [
+                        "homingmissiles"
+                    ]
+                }
+            },
+            {
+                "id": "kickback",
+                "points": 38,
+                "ship": "v19torrentstarfighter",
+                "upgrades": {
+                    "missile": [
+                        "ionmissiles"
+                    ],
+                    "talent": [
+                        "marksmanship"
+                    ]
+                }
+            },
+            {
+                "id": "anakinskywalker",
+                "points": 78,
+                "ship": "delta7aethersprite",
+                "upgrades": {
+                    "astromech": [
+                        "c110p"
+                    ],
+                    "configuration": [
+                        "calibratedlasertargeting"
+                    ],
+                    "force-power": [
+                        "foresight"
+                    ]
+                }
+            },
+            {
+                "id": "plokoon",
+                "points": 48,
+                "ship": "delta7aethersprite",
+                "upgrades": {
+                    "configuration": [
+                        "calibratedlasertargeting"
+                    ]
+                }
+            }
+        ],
+        "points": 196,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Name": "Micha\u00c3\u0192\u00c2\u00abl Juneau",
+    "Option1": {
+        "faction": "rebelalliance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "tennumb",
+                "points": 74,
+                "ship": "asf01bwing",
+                "upgrades": {
+                    "cannon": [
+                        "jammingbeam",
+                        "heavylasercannon"
+                    ],
+                    "configuration": [
+                        "stabilizedsfoils"
+                    ],
+                    "modification": [
+                        "stealthdevice"
+                    ],
+                    "sensor": [
+                        "firecontrolsystem"
+                    ],
+                    "torpedo": [
+                        "protontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "captainrex",
+                "points": 30,
+                "ship": "tielnfighter",
+                "upgrades": {}
+            },
+            {
+                "id": "bladesquadronveteran",
+                "points": 59,
+                "ship": "asf01bwing",
+                "upgrades": {
+                    "cannon": [
+                        "heavylasercannon"
+                    ],
+                    "sensor": [
+                        "trajectorysimulator"
+                    ],
+                    "torpedo": [
+                        "iontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "kylekatarn",
+                "points": 36,
+                "ship": "hwk290lightfreighter",
+                "upgrades": {
+                    "modification": [
+                        "engineupgrade"
+                    ]
+                }
+            }
+        ],
+        "points": 199,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Option2": {
+        "faction": "galacticrepublic",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "bluesquadronprotector",
+                "points": 38,
+                "ship": "v19torrentstarfighter",
+                "upgrades": {
+                    "missile": [
+                        "homingmissiles"
+                    ],
+                    "talent": [
+                        "outmaneuver"
+                    ]
+                }
+            },
+            {
+                "id": "kickback",
+                "points": 38,
+                "ship": "v19torrentstarfighter",
+                "upgrades": {
+                    "missile": [
+                        "ionmissiles"
+                    ],
+                    "talent": [
+                        "marksmanship"
+                    ]
+                }
+            },
+            {
+                "id": "anakinskywalker",
+                "points": 73,
+                "ship": "delta7aethersprite",
+                "upgrades": {
+                    "astromech": [
+                        "c110p"
+                    ],
+                    "force-power": [
+                        "foresight"
+                    ]
+                }
+            },
+            {
+                "id": "plokoon",
+                "points": 48,
+                "ship": "delta7aethersprite",
+                "upgrades": {
+                    "configuration": [
+                        "calibratedlasertargeting"
+                    ]
+                }
+            }
+        ],
+        "points": 197,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "TTT": "Micha\u00c3\u0192\u00c2\u00abl Juneau",
+    "VassalForm1": "Mu0n",
+    "VassalForm2": "Mu0n"
+}

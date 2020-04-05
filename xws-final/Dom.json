@@ -1,0 +1,155 @@
+{
+    "Add": "Kylo Crew to Starkillerbase Pilot",
+    "Discord": "Dom_88#8162",
+    "Drop": "Trajectory Simulator",
+    "Final": {
+        "faction": "firstorder",
+        "name": "Angry Kylo",
+        "pilots": [
+            {
+                "id": "pettyofficerthanisson",
+                "points": 73,
+                "ship": "upsilonclasscommandshuttle",
+                "upgrades": {
+                    "cannon": [
+                        "ioncannon"
+                    ],
+                    "crew": [
+                        "generalhux"
+                    ],
+                    "sensor": [
+                        "firecontrolsystem"
+                    ]
+                }
+            },
+            {
+                "id": "starkillerbasepilot",
+                "points": 73,
+                "ship": "upsilonclasscommandshuttle",
+                "upgrades": {
+                    "crew": [
+                        "kyloren"
+                    ],
+                    "modification": [
+                        "stealthdevice"
+                    ]
+                }
+            },
+            {
+                "id": "ember",
+                "points": 54,
+                "ship": "tiebainterceptor",
+                "upgrades": {
+                    "talent": [
+                        "fanatical"
+                    ]
+                }
+            }
+        ],
+        "points": 200,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Name": "Dominic Flannigan",
+    "Option1": {
+        "faction": "firstorder",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "pettyofficerthanisson",
+                "points": 73,
+                "ship": "upsilonclasscommandshuttle",
+                "upgrades": {
+                    "cannon": [
+                        "ioncannon"
+                    ],
+                    "crew": [
+                        "generalhux"
+                    ],
+                    "sensor": [
+                        "firecontrolsystem"
+                    ]
+                }
+            },
+            {
+                "id": "starkillerbasepilot",
+                "points": 68,
+                "ship": "upsilonclasscommandshuttle",
+                "upgrades": {
+                    "modification": [
+                        "stealthdevice"
+                    ],
+                    "sensor": [
+                        "trajectorysimulator"
+                    ]
+                }
+            },
+            {
+                "id": "ember",
+                "points": 54,
+                "ship": "tiebainterceptor",
+                "upgrades": {
+                    "talent": [
+                        "fanatical"
+                    ]
+                }
+            }
+        ],
+        "points": 195,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Option2": {
+        "faction": "galacticrepublic",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "padmeamidala",
+                "points": 52,
+                "ship": "nabooroyaln1starfighter",
+                "upgrades": {
+                    "talent": [
+                        "composure"
+                    ],
+                    "torpedo": [
+                        "iontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "oddball",
+                "points": 34,
+                "ship": "v19torrentstarfighter",
+                "upgrades": {}
+            },
+            {
+                "id": "jag",
+                "points": 54,
+                "ship": "arc170starfighter",
+                "upgrades": {
+                    "modification": [
+                        "ablativeplating"
+                    ]
+                }
+            },
+            {
+                "id": "swoop",
+                "points": 31,
+                "ship": "v19torrentstarfighter",
+                "upgrades": {}
+            },
+            {
+                "id": "goldsquadrontrooper",
+                "points": 25,
+                "ship": "v19torrentstarfighter",
+                "upgrades": {}
+            }
+        ],
+        "points": 196,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "TTT": "Dom Flannigan",
+    "VassalForm1": "Dom",
+    "VassalForm2": "Dom"
+}

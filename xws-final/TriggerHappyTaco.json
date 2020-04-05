@@ -1,0 +1,126 @@
+{
+    "Add": "Lone Wolf on Han Solo",
+    "Discord": "TriggerHappyTaco#0952",
+    "Drop": "n/a",
+    "Final": {
+        "faction": "resistance",
+        "name": "Daniel Wochnick JTO",
+        "pilots": [
+            {
+                "id": "hansolo-scavengedyt1300",
+                "points": 70,
+                "ship": "scavengedyt1300",
+                "upgrades": {
+                    "talent": [
+                        "lonewolf"
+                    ]
+                }
+            },
+            {
+                "id": "chewbacca-scavengedyt1300",
+                "points": 70,
+                "ship": "scavengedyt1300",
+                "upgrades": {
+                    "gunner": [
+                        "hotshotgunner"
+                    ]
+                }
+            },
+            {
+                "id": "resistancesympathizer",
+                "points": 60,
+                "ship": "scavengedyt1300",
+                "upgrades": {}
+            }
+        ],
+        "points": 200,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Name": "Daniel Wochnick",
+    "Option1": {
+        "faction": "resistance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "resistancesympathizer",
+                "points": 60,
+                "ship": "scavengedyt1300",
+                "upgrades": {}
+            },
+            {
+                "id": "chewbacca-scavengedyt1300",
+                "points": 70,
+                "ship": "scavengedyt1300",
+                "upgrades": {
+                    "gunner": [
+                        "hotshotgunner"
+                    ]
+                }
+            },
+            {
+                "id": "hansolo-scavengedyt1300",
+                "points": 65,
+                "ship": "scavengedyt1300",
+                "upgrades": {}
+            }
+        ],
+        "points": 195,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Option2": {
+        "faction": "rebelalliance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "mirandadoni",
+                "points": 53,
+                "ship": "btls8kwing",
+                "upgrades": {
+                    "device": [
+                        "bombletgenerator"
+                    ],
+                    "missile": [
+                        "ionmissiles"
+                    ],
+                    "modification": [
+                        "electronicbaffle"
+                    ]
+                }
+            },
+            {
+                "id": "ezrabridger-tielnfighter",
+                "points": 31,
+                "ship": "tielnfighter",
+                "upgrades": {}
+            },
+            {
+                "id": "ginamoonsong",
+                "points": 56,
+                "ship": "asf01bwing",
+                "upgrades": {
+                    "torpedo": [
+                        "iontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "lowhhrick",
+                "points": 60,
+                "ship": "auzituckgunship",
+                "upgrades": {
+                    "crew": [
+                        "magvayarro"
+                    ]
+                }
+            }
+        ],
+        "points": 200,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "TTT": "Daniel Wochnick",
+    "VassalForm1": "TriggerHappyTaco",
+    "VassalForm2": "TriggerHappyTaco"
+}

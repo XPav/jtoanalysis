@@ -1,0 +1,200 @@
+{
+    "Add": "Passive Sensors to Zertik Strom",
+    "Discord": "BuzzBox#1697",
+    "Drop": "Collision detector from Zertik Strom",
+    "Final": {
+        "faction": "galacticempire",
+        "name": "Justin Ti- JTO",
+        "pilots": [
+            {
+                "id": "alphasquadronpilot",
+                "points": 33,
+                "ship": "tieininterceptor",
+                "upgrades": {
+                    "modification": [
+                        "electronicbaffle"
+                    ]
+                }
+            },
+            {
+                "id": "rhosquadronpilot",
+                "points": 56,
+                "ship": "alphaclassstarwing",
+                "upgrades": {
+                    "configuration": [
+                        "os1arsenalloadout"
+                    ],
+                    "missile": [
+                        "concussionmissiles"
+                    ],
+                    "modification": [
+                        "electronicbaffle"
+                    ],
+                    "talent": [
+                        "trickshot"
+                    ],
+                    "torpedo": [
+                        "plasmatorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "redline",
+                "points": 60,
+                "ship": "tiecapunisher",
+                "upgrades": {
+                    "missile": [
+                        "concussionmissiles"
+                    ],
+                    "sensor": [
+                        "firecontrolsystem"
+                    ]
+                }
+            },
+            {
+                "id": "zertikstrom",
+                "points": 46,
+                "ship": "tieadvancedx1",
+                "upgrades": {
+                    "modification": [
+                        "electronicbaffle"
+                    ],
+                    "sensor": [
+                        "passivesensors"
+                    ]
+                }
+            }
+        ],
+        "points": 195,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Name": "Justin Ti-",
+    "Option1": {
+        "faction": "galacticempire",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "alphasquadronpilot",
+                "points": 33,
+                "ship": "tieininterceptor",
+                "upgrades": {
+                    "modification": [
+                        "electronicbaffle"
+                    ]
+                }
+            },
+            {
+                "id": "rhosquadronpilot",
+                "points": 56,
+                "ship": "alphaclassstarwing",
+                "upgrades": {
+                    "configuration": [
+                        "os1arsenalloadout"
+                    ],
+                    "missile": [
+                        "concussionmissiles"
+                    ],
+                    "modification": [
+                        "electronicbaffle"
+                    ],
+                    "talent": [
+                        "trickshot"
+                    ],
+                    "torpedo": [
+                        "plasmatorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "redline",
+                "points": 60,
+                "ship": "tiecapunisher",
+                "upgrades": {
+                    "missile": [
+                        "concussionmissiles"
+                    ],
+                    "sensor": [
+                        "firecontrolsystem"
+                    ]
+                }
+            },
+            {
+                "id": "zertikstrom",
+                "points": 49,
+                "ship": "tieadvancedx1",
+                "upgrades": {
+                    "modification": [
+                        "electronicbaffle"
+                    ],
+                    "sensor": [
+                        "collisiondetector"
+                    ]
+                }
+            }
+        ],
+        "points": 198,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Option2": {
+        "faction": "scumandvillainy",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "blacksunsoldier",
+                "points": 33,
+                "ship": "z95af4headhunter",
+                "upgrades": {
+                    "missile": [
+                        "protonrockets"
+                    ],
+                    "talent": [
+                        "predator"
+                    ]
+                }
+            },
+            {
+                "id": "moraloeval",
+                "points": 76,
+                "ship": "yv666lightfreighter",
+                "upgrades": {
+                    "crew": [
+                        "cadbane"
+                    ],
+                    "missile": [
+                        "concussionmissiles"
+                    ]
+                }
+            },
+            {
+                "id": "binayrepirate",
+                "points": 22,
+                "ship": "z95af4headhunter",
+                "upgrades": {}
+            },
+            {
+                "id": "unkarplutt",
+                "points": 35,
+                "ship": "quadrijettransferspacetug",
+                "upgrades": {
+                    "device": [
+                        "protonbombs"
+                    ]
+                }
+            },
+            {
+                "id": "captainseevor",
+                "points": 30,
+                "ship": "modifiedtielnfighter",
+                "upgrades": {}
+            }
+        ],
+        "points": 196,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "TTT": "Justin Timmons",
+    "VassalForm1": "BuzzBox",
+    "VassalForm2": "BuzzBox"
+}

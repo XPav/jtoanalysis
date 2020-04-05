@@ -1,0 +1,191 @@
+{
+    "Add": "Add Shield Upgrade to the Provocateur",
+    "Discord": "GlaDos",
+    "Drop": "Remove Trajectory Sim from Starkiller Base Pilot",
+    "Final": {
+        "faction": "firstorder",
+        "name": "Eric Maynard JTO",
+        "pilots": [
+            {
+                "id": "longshot",
+                "points": 33,
+                "ship": "tiefofighter",
+                "upgrades": {
+                    "talent": [
+                        "fanatical"
+                    ]
+                }
+            },
+            {
+                "id": "starkillerbasepilot",
+                "points": 73,
+                "ship": "upsilonclasscommandshuttle",
+                "upgrades": {
+                    "cannon": [
+                        "tractorbeam"
+                    ],
+                    "crew": [
+                        "captainphasma",
+                        "freelanceslicer"
+                    ],
+                    "tech": [
+                        "advancedoptics"
+                    ]
+                }
+            },
+            {
+                "id": "tn3465",
+                "points": 33,
+                "ship": "tiefofighter",
+                "upgrades": {
+                    "tech": [
+                        "patternanalyzer"
+                    ]
+                }
+            },
+            {
+                "id": "firstorderprovocateur",
+                "points": 60,
+                "ship": "tiebainterceptor",
+                "upgrades": {
+                    "missile": [
+                        "protonrockets"
+                    ],
+                    "modification": [
+                        "shieldupgrade"
+                    ]
+                }
+            }
+        ],
+        "points": 199,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Name": "Eric Maynard",
+    "Option1": {
+        "faction": "firstorder",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "longshot",
+                "points": 33,
+                "ship": "tiefofighter",
+                "upgrades": {
+                    "talent": [
+                        "fanatical"
+                    ]
+                }
+            },
+            {
+                "id": "starkillerbasepilot",
+                "points": 79,
+                "ship": "upsilonclasscommandshuttle",
+                "upgrades": {
+                    "cannon": [
+                        "tractorbeam"
+                    ],
+                    "crew": [
+                        "captainphasma",
+                        "freelanceslicer"
+                    ],
+                    "sensor": [
+                        "trajectorysimulator"
+                    ],
+                    "tech": [
+                        "advancedoptics"
+                    ]
+                }
+            },
+            {
+                "id": "tn3465",
+                "points": 33,
+                "ship": "tiefofighter",
+                "upgrades": {
+                    "tech": [
+                        "patternanalyzer"
+                    ]
+                }
+            },
+            {
+                "id": "firstorderprovocateur",
+                "points": 52,
+                "ship": "tiebainterceptor",
+                "upgrades": {
+                    "missile": [
+                        "protonrockets"
+                    ]
+                }
+            }
+        ],
+        "points": 197,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Option2": {
+        "faction": "separatistalliance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "skakoanace",
+                "points": 55,
+                "ship": "belbullab22starfighter",
+                "upgrades": {
+                    "modification": [
+                        "delayedfuses"
+                    ],
+                    "tacticalrelay": [
+                        "tv94"
+                    ],
+                    "talent": [
+                        "lonewolf"
+                    ],
+                    "title": [
+                        "soullessone"
+                    ]
+                }
+            },
+            {
+                "id": "precisehunter",
+                "points": 33,
+                "ship": "vultureclassdroidfighter",
+                "upgrades": {
+                    "configuration": [
+                        "grapplingstruts"
+                    ],
+                    "missile": [
+                        "concussionmissiles"
+                    ],
+                    "modification": [
+                        "targetingcomputer"
+                    ]
+                }
+            },
+            {
+                "id": "066",
+                "points": 75,
+                "ship": "sithinfiltrator",
+                "upgrades": {
+                    "crew": [
+                        "gnkgonkdroid",
+                        "seasonednavigator"
+                    ],
+                    "torpedo": [
+                        "plasmatorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "feethanottrawautopilot",
+                "points": 35,
+                "ship": "belbullab22starfighter",
+                "upgrades": {}
+            }
+        ],
+        "points": 198,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "TTT": "Eric Maynard",
+    "VassalForm1": "GlaDos",
+    "VassalForm2": "GlaDos"
+}

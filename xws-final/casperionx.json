@@ -1,0 +1,184 @@
+{
+    "Add": "Director Krennic to Major Vermiel",
+    "Discord": "casperionx#2267",
+    "Drop": "Admiral sloane off Major Vermiel",
+    "Final": {
+        "faction": "galacticempire",
+        "name": "HEATH CARRUTHERS JTO",
+        "pilots": [
+            {
+                "id": "coloneljendon",
+                "points": 72,
+                "ship": "lambdaclasst4ashuttle",
+                "upgrades": {
+                    "cannon": [
+                        "heavylasercannon"
+                    ],
+                    "crew": [
+                        "ministertua"
+                    ],
+                    "modification": [
+                        "electronicbaffle"
+                    ],
+                    "sensor": [
+                        "advancedsensors"
+                    ]
+                }
+            },
+            {
+                "id": "majorvermeil",
+                "points": 62,
+                "ship": "tiereaper",
+                "upgrades": {
+                    "crew": [
+                        "freelanceslicer",
+                        "directorkrennic"
+                    ],
+                    "modification": [
+                        "stealthdevice"
+                    ],
+                    "talent": [
+                        "predator"
+                    ]
+                }
+            },
+            {
+                "id": "soontirfel",
+                "points": 60,
+                "ship": "tieininterceptor",
+                "upgrades": {
+                    "modification": [
+                        "munitionsfailsafe"
+                    ],
+                    "talent": [
+                        "outmaneuver"
+                    ]
+                }
+            }
+        ],
+        "points": 194,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Name": "Heath Carruthers",
+    "Option1": {
+        "faction": "firstorder",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "pettyofficerthanisson",
+                "points": 91,
+                "ship": "upsilonclasscommandshuttle",
+                "upgrades": {
+                    "cannon": [
+                        "ioncannon"
+                    ],
+                    "crew": [
+                        "kyloren",
+                        "perceptivecopilot",
+                        "novicetechnician"
+                    ],
+                    "sensor": [
+                        "firecontrolsystem"
+                    ],
+                    "tech": [
+                        "biohexacryptcodes"
+                    ]
+                }
+            },
+            {
+                "id": "tn3465",
+                "points": 35,
+                "ship": "tiefofighter",
+                "upgrades": {
+                    "modification": [
+                        "munitionsfailsafe"
+                    ],
+                    "tech": [
+                        "targetingsynchronizer"
+                    ]
+                }
+            },
+            {
+                "id": "commandermalarus",
+                "points": 38,
+                "ship": "tiefofighter",
+                "upgrades": {}
+            },
+            {
+                "id": "zetasquadronpilot",
+                "points": 35,
+                "ship": "tiefofighter",
+                "upgrades": {
+                    "tech": [
+                        "deuteriumpowercells"
+                    ]
+                }
+            }
+        ],
+        "points": 199,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Option2": {
+        "faction": "galacticempire",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "coloneljendon",
+                "points": 72,
+                "ship": "lambdaclasst4ashuttle",
+                "upgrades": {
+                    "cannon": [
+                        "heavylasercannon"
+                    ],
+                    "crew": [
+                        "ministertua"
+                    ],
+                    "modification": [
+                        "electronicbaffle"
+                    ],
+                    "sensor": [
+                        "advancedsensors"
+                    ]
+                }
+            },
+            {
+                "id": "majorvermeil",
+                "points": 67,
+                "ship": "tiereaper",
+                "upgrades": {
+                    "crew": [
+                        "freelanceslicer",
+                        "admiralsloane"
+                    ],
+                    "modification": [
+                        "stealthdevice"
+                    ],
+                    "talent": [
+                        "predator"
+                    ]
+                }
+            },
+            {
+                "id": "soontirfel",
+                "points": 60,
+                "ship": "tieininterceptor",
+                "upgrades": {
+                    "modification": [
+                        "munitionsfailsafe"
+                    ],
+                    "talent": [
+                        "outmaneuver"
+                    ]
+                }
+            }
+        ],
+        "points": 199,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "TTT": "Heath Carruthers",
+    "VassalForm1": "casperionx",
+    "VassalForm2": "casperionx"
+}

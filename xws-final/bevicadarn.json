@@ -1,0 +1,189 @@
+{
+    "Add": "Finn - Rey",
+    "Discord": "bevicadarn",
+    "Drop": "Concussion Missiles - Jarek Jaeger",
+    "Final": {
+        "faction": "resistance",
+        "name": "Stephen Gage JTO",
+        "pilots": [
+            {
+                "id": "jarekyeager",
+                "points": 50,
+                "ship": "fireball",
+                "upgrades": {
+                    "astromech": [
+                        "bb8"
+                    ],
+                    "modification": [
+                        "delayedfuses"
+                    ],
+                    "talent": [
+                        "juke"
+                    ],
+                    "title": [
+                        "kazsfireball"
+                    ]
+                }
+            },
+            {
+                "id": "colossusstationmechanic",
+                "points": 36,
+                "ship": "fireball",
+                "upgrades": {
+                    "astromech": [
+                        "r5astromech"
+                    ],
+                    "modification": [
+                        "shieldupgrade"
+                    ]
+                }
+            },
+            {
+                "id": "rey",
+                "points": 87,
+                "ship": "scavengedyt1300",
+                "upgrades": {
+                    "crew": [
+                        "informant"
+                    ],
+                    "gunner": [
+                        "finn"
+                    ],
+                    "title": [
+                        "reysmillenniumfalcon"
+                    ]
+                }
+            },
+            {
+                "id": "rosetico",
+                "points": 26,
+                "ship": "resistancetransportpod",
+                "upgrades": {}
+            }
+        ],
+        "points": 199,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Name": "Stephen Gage",
+    "Option1": {
+        "faction": "resistance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "jarekyeager",
+                "points": 56,
+                "ship": "fireball",
+                "upgrades": {
+                    "astromech": [
+                        "bb8"
+                    ],
+                    "missile": [
+                        "concussionmissiles"
+                    ],
+                    "modification": [
+                        "delayedfuses"
+                    ],
+                    "talent": [
+                        "juke"
+                    ],
+                    "title": [
+                        "kazsfireball"
+                    ]
+                }
+            },
+            {
+                "id": "colossusstationmechanic",
+                "points": 36,
+                "ship": "fireball",
+                "upgrades": {
+                    "astromech": [
+                        "r5astromech"
+                    ],
+                    "modification": [
+                        "shieldupgrade"
+                    ]
+                }
+            },
+            {
+                "id": "rey",
+                "points": 77,
+                "ship": "scavengedyt1300",
+                "upgrades": {
+                    "crew": [
+                        "informant"
+                    ],
+                    "title": [
+                        "reysmillenniumfalcon"
+                    ]
+                }
+            },
+            {
+                "id": "rosetico",
+                "points": 26,
+                "ship": "resistancetransportpod",
+                "upgrades": {}
+            }
+        ],
+        "points": 195,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Option2": {
+        "faction": "galacticempire",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "zertikstrom",
+                "points": 60,
+                "ship": "tieadvancedx1",
+                "upgrades": {
+                    "missile": [
+                        "homingmissiles"
+                    ],
+                    "modification": [
+                        "stealthdevice"
+                    ],
+                    "sensor": [
+                        "trajectorysimulator"
+                    ]
+                }
+            },
+            {
+                "id": "darthvader",
+                "points": 70,
+                "ship": "tieadvancedx1",
+                "upgrades": {
+                    "sensor": [
+                        "passivesensors"
+                    ]
+                }
+            },
+            {
+                "id": "doubleedge",
+                "points": 39,
+                "ship": "tieagaggressor",
+                "upgrades": {
+                    "gunner": [
+                        "hotshotgunner"
+                    ],
+                    "turret": [
+                        "dorsalturret"
+                    ]
+                }
+            },
+            {
+                "id": "lieutenantkestal",
+                "points": 31,
+                "ship": "tieagaggressor",
+                "upgrades": {}
+            }
+        ],
+        "points": 200,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "TTT": "Stephen Gage",
+    "VassalForm1": "bevicadarn",
+    "VassalForm2": "bevicadarn"
+}

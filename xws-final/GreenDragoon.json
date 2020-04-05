@@ -1,0 +1,188 @@
+{
+    "Add": "CLT to Mace Windu",
+    "Discord": "GreenDragoon",
+    "Drop": "Nothing",
+    "Final": {
+        "faction": "galacticrepublic",
+        "name": "Raphael Iselin JTO",
+        "obstacles": [
+            "gascloud3",
+            "gascloud5",
+            "gascloud6"
+        ],
+        "pilots": [
+            {
+                "id": "dineeellberger",
+                "points": 52,
+                "ship": "nabooroyaln1starfighter",
+                "upgrades": {
+                    "astromech": [
+                        "r2astromech"
+                    ],
+                    "talent": [
+                        "marksmanship"
+                    ],
+                    "torpedo": [
+                        "iontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "axe",
+                "points": 37,
+                "ship": "v19torrentstarfighter",
+                "upgrades": {
+                    "talent": [
+                        "lonewolf"
+                    ]
+                }
+            },
+            {
+                "id": "obiwankenobi",
+                "points": 57,
+                "ship": "delta7aethersprite",
+                "upgrades": {
+                    "astromech": [
+                        "r4p17"
+                    ],
+                    "configuration": [
+                        "calibratedlasertargeting"
+                    ]
+                }
+            },
+            {
+                "id": "macewindu",
+                "points": 53,
+                "ship": "delta7aethersprite",
+                "upgrades": {
+                    "astromech": [
+                        "r2c4"
+                    ],
+                    "configuration": [
+                        "calibratedlasertargeting"
+                    ]
+                }
+            }
+        ],
+        "points": 199,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Name": "Raphael Iselin",
+    "Option1": {
+        "faction": "galacticrepublic",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "dineeellberger",
+                "points": 52,
+                "ship": "nabooroyaln1starfighter",
+                "upgrades": {
+                    "astromech": [
+                        "r2astromech"
+                    ],
+                    "talent": [
+                        "marksmanship"
+                    ],
+                    "torpedo": [
+                        "iontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "axe",
+                "points": 37,
+                "ship": "v19torrentstarfighter",
+                "upgrades": {
+                    "talent": [
+                        "lonewolf"
+                    ]
+                }
+            },
+            {
+                "id": "obiwankenobi",
+                "points": 57,
+                "ship": "delta7aethersprite",
+                "upgrades": {
+                    "astromech": [
+                        "r4p17"
+                    ],
+                    "configuration": [
+                        "calibratedlasertargeting"
+                    ]
+                }
+            },
+            {
+                "id": "macewindu",
+                "points": 50,
+                "ship": "delta7aethersprite",
+                "upgrades": {
+                    "astromech": [
+                        "r2c4"
+                    ]
+                }
+            }
+        ],
+        "points": 196,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Option2": {
+        "faction": "resistance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "jarekyeager",
+                "points": 43,
+                "ship": "fireball",
+                "upgrades": {
+                    "astromech": [
+                        "r2ha"
+                    ],
+                    "illicit": [
+                        "coaxiumhyperfuel"
+                    ],
+                    "modification": [
+                        "munitionsfailsafe",
+                        "advancedslam"
+                    ]
+                }
+            },
+            {
+                "id": "hansolo-scavengedyt1300",
+                "points": 84,
+                "ship": "scavengedyt1300",
+                "upgrades": {
+                    "crew": [
+                        "leiaorgana-resistance"
+                    ],
+                    "title": [
+                        "reysmillenniumfalcon"
+                    ]
+                }
+            },
+            {
+                "id": "colossusstationmechanic",
+                "points": 26,
+                "ship": "fireball",
+                "upgrades": {}
+            },
+            {
+                "id": "nodinchavdri",
+                "points": 42,
+                "ship": "resistancetransport",
+                "upgrades": {
+                    "crew": [
+                        "tacticalofficer"
+                    ]
+                }
+            }
+        ],
+        "points": 195,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "TTT": "Raphael \"GreenDragoon\" Iselin",
+    "VassalForm1": "GreenDragoon",
+    "VassalForm2": "GreenDragoon"
+}

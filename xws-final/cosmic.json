@@ -1,0 +1,196 @@
+{
+    "Add": "Rigged Cargo Chute added to Koshka Frost (Firespray)",
+    "Discord": "C\u00c3\u0192\u00cb\u0153SMIC#1746",
+    "Drop": "N/A",
+    "Final": {
+        "faction": "scumandvillainy",
+        "name": "David Welman JTO",
+        "pilots": [
+            {
+                "id": "talonbanecobra",
+                "points": 60,
+                "ship": "kihraxzfighter",
+                "upgrades": {
+                    "illicit": [
+                        "cloakingdevice"
+                    ],
+                    "modification": [
+                        "shieldupgrade"
+                    ]
+                }
+            },
+            {
+                "id": "spicerunner",
+                "points": 40,
+                "ship": "hwk290lightfreighter",
+                "upgrades": {
+                    "crew": [
+                        "novicetechnician"
+                    ],
+                    "modification": [
+                        "staticdischargevanes"
+                    ]
+                }
+            },
+            {
+                "id": "koshkafrost",
+                "points": 99,
+                "ship": "firesprayclasspatrolcraft",
+                "upgrades": {
+                    "cannon": [
+                        "heavylasercannon"
+                    ],
+                    "illicit": [
+                        "riggedcargochute"
+                    ],
+                    "missile": [
+                        "magpulsewarheads"
+                    ],
+                    "talent": [
+                        "snapshot"
+                    ],
+                    "title": [
+                        "marauder"
+                    ]
+                }
+            }
+        ],
+        "points": 199,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Name": "David Welman",
+    "Option1": {
+        "faction": "galacticrepublic",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "goldsquadrontrooper",
+                "points": 25,
+                "ship": "v19torrentstarfighter",
+                "upgrades": {}
+            },
+            {
+                "id": "r2d2",
+                "points": 54,
+                "ship": "btlbywing",
+                "upgrades": {
+                    "crew": [
+                        "freelanceslicer"
+                    ],
+                    "device": [
+                        "ionbombs"
+                    ],
+                    "modification": [
+                        "munitionsfailsafe"
+                    ],
+                    "torpedo": [
+                        "iontorpedoes"
+                    ],
+                    "turret": [
+                        "dorsalturret"
+                    ]
+                }
+            },
+            {
+                "id": "oddball",
+                "points": 42,
+                "ship": "v19torrentstarfighter",
+                "upgrades": {
+                    "missile": [
+                        "clustermissiles"
+                    ],
+                    "modification": [
+                        "targetingcomputer"
+                    ]
+                }
+            },
+            {
+                "id": "broadside",
+                "points": 46,
+                "ship": "btlbywing",
+                "upgrades": {
+                    "gunner": [
+                        "clonecommandercody"
+                    ],
+                    "talent": [
+                        "elusive"
+                    ],
+                    "turret": [
+                        "dorsalturret"
+                    ]
+                }
+            },
+            {
+                "id": "bluesquadronprotector",
+                "points": 32,
+                "ship": "v19torrentstarfighter",
+                "upgrades": {
+                    "talent": [
+                        "lonewolf"
+                    ]
+                }
+            }
+        ],
+        "points": 199,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Option2": {
+        "faction": "scumandvillainy",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "talonbanecobra",
+                "points": 60,
+                "ship": "kihraxzfighter",
+                "upgrades": {
+                    "illicit": [
+                        "cloakingdevice"
+                    ],
+                    "modification": [
+                        "shieldupgrade"
+                    ]
+                }
+            },
+            {
+                "id": "spicerunner",
+                "points": 40,
+                "ship": "hwk290lightfreighter",
+                "upgrades": {
+                    "crew": [
+                        "novicetechnician"
+                    ],
+                    "modification": [
+                        "staticdischargevanes"
+                    ]
+                }
+            },
+            {
+                "id": "koshkafrost",
+                "points": 95,
+                "ship": "firesprayclasspatrolcraft",
+                "upgrades": {
+                    "cannon": [
+                        "heavylasercannon"
+                    ],
+                    "missile": [
+                        "magpulsewarheads"
+                    ],
+                    "talent": [
+                        "snapshot"
+                    ],
+                    "title": [
+                        "marauder"
+                    ]
+                }
+            }
+        ],
+        "points": 195,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "TTT": "David Welman",
+    "VassalForm1": "cosmic",
+    "VassalForm2": "cosmic"
+}

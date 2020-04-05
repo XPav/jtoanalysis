@@ -1,0 +1,135 @@
+{
+    "Add": "Shadow caster title to Lancer class pursuit craft",
+    "Discord": "Arc17-26#2855",
+    "Drop": "Juke from the Escape Craft",
+    "Final": null,
+    "Name": "John McDermid",
+    "Option1": {
+        "faction": "scumandvillainy",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "overseeryushyn",
+                "points": 34,
+                "ship": "modifiedtielnfighter",
+                "upgrades": {
+                    "modification": [
+                        "stealthdevice"
+                    ]
+                }
+            },
+            {
+                "id": "outerrimpioneer",
+                "points": 41,
+                "ship": "escapecraft",
+                "upgrades": {
+                    "crew": [
+                        "ig88d"
+                    ],
+                    "modification": [
+                        "angleddeflectors"
+                    ],
+                    "talent": [
+                        "juke"
+                    ]
+                }
+            },
+            {
+                "id": "hiredgun",
+                "points": 46,
+                "ship": "btla4ywing",
+                "upgrades": {
+                    "gunner": [
+                        "hansolo-gunner"
+                    ],
+                    "illicit": [
+                        "cloakingdevice"
+                    ]
+                }
+            },
+            {
+                "id": "asajjventress",
+                "points": 74,
+                "ship": "lancerclasspursuitcraft",
+                "upgrades": {
+                    "illicit": [
+                        "contrabandcybernetics"
+                    ]
+                }
+            }
+        ],
+        "points": 195,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Option2": {
+        "faction": "galacticrepublic",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "kickback",
+                "points": 46,
+                "ship": "v19torrentstarfighter",
+                "upgrades": {
+                    "missile": [
+                        "magpulsewarheads"
+                    ],
+                    "talent": [
+                        "snapshot"
+                    ]
+                }
+            },
+            {
+                "id": "bluesquadronprotector",
+                "points": 28,
+                "ship": "v19torrentstarfighter",
+                "upgrades": {
+                    "talent": [
+                        "crackshot"
+                    ]
+                }
+            },
+            {
+                "id": "broadside",
+                "points": 56,
+                "ship": "btlbywing",
+                "upgrades": {
+                    "device": [
+                        "proximitymines"
+                    ],
+                    "gunner": [
+                        "hotshotgunner"
+                    ],
+                    "modification": [
+                        "electronicbaffle"
+                    ],
+                    "talent": [
+                        "lonewolf"
+                    ]
+                }
+            },
+            {
+                "id": "matchstick",
+                "points": 67,
+                "ship": "btlbywing",
+                "upgrades": {
+                    "astromech": [
+                        "r5astromech"
+                    ],
+                    "gunner": [
+                        "hotshotgunner"
+                    ],
+                    "torpedo": [
+                        "protontorpedoes"
+                    ]
+                }
+            }
+        ],
+        "points": 197,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "TTT": "John McDermid",
+    "VassalForm1": "John McDermid",
+    "VassalForm2": "John McDermid"
+}

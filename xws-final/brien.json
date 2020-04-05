@@ -1,0 +1,193 @@
+{
+    "Add": "proton torpedoes to major vynder",
+    "Discord": "brien robles-slim (CST)#3491",
+    "Drop": "advanced sensors from omicron group pilot",
+    "Final": {
+        "faction": "galacticempire",
+        "name": "Brien Robles JTO",
+        "pilots": [
+            {
+                "id": "majorvynder",
+                "points": 64,
+                "ship": "alphaclassstarwing",
+                "upgrades": {
+                    "missile": [
+                        "clustermissiles"
+                    ],
+                    "modification": [
+                        "advancedslam"
+                    ],
+                    "talent": [
+                        "predator"
+                    ],
+                    "torpedo": [
+                        "protontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "omicrongrouppilot",
+                "points": 50,
+                "ship": "lambdaclasst4ashuttle",
+                "upgrades": {
+                    "cannon": [
+                        "jammingbeam"
+                    ],
+                    "modification": [
+                        "hullupgrade"
+                    ],
+                    "title": [
+                        "st321"
+                    ]
+                }
+            },
+            {
+                "id": "grandinquisitor",
+                "points": 62,
+                "ship": "tieadvancedv1",
+                "upgrades": {
+                    "force-power": [
+                        "precognitivereflexes"
+                    ]
+                }
+            },
+            {
+                "id": "academypilot",
+                "points": 22,
+                "ship": "tielnfighter",
+                "upgrades": {}
+            }
+        ],
+        "points": 198,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Name": "brien robles",
+    "Option1": {
+        "faction": "galacticempire",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "majorvynder",
+                "points": 51,
+                "ship": "alphaclassstarwing",
+                "upgrades": {
+                    "missile": [
+                        "clustermissiles"
+                    ],
+                    "modification": [
+                        "advancedslam"
+                    ],
+                    "talent": [
+                        "predator"
+                    ]
+                }
+            },
+            {
+                "id": "omicrongrouppilot",
+                "points": 60,
+                "ship": "lambdaclasst4ashuttle",
+                "upgrades": {
+                    "cannon": [
+                        "jammingbeam"
+                    ],
+                    "modification": [
+                        "hullupgrade"
+                    ],
+                    "sensor": [
+                        "advancedsensors"
+                    ],
+                    "title": [
+                        "st321"
+                    ]
+                }
+            },
+            {
+                "id": "grandinquisitor",
+                "points": 62,
+                "ship": "tieadvancedv1",
+                "upgrades": {
+                    "force-power": [
+                        "precognitivereflexes"
+                    ]
+                }
+            },
+            {
+                "id": "academypilot",
+                "points": 22,
+                "ship": "tielnfighter",
+                "upgrades": {}
+            }
+        ],
+        "points": 195,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Option2": {
+        "faction": "scumandvillainy",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "bossk-z95af4headhunter",
+                "points": 35,
+                "ship": "z95af4headhunter",
+                "upgrades": {
+                    "missile": [
+                        "magpulsewarheads"
+                    ]
+                }
+            },
+            {
+                "id": "jakkugunrunner",
+                "points": 38,
+                "ship": "quadrijettransferspacetug",
+                "upgrades": {
+                    "device": [
+                        "proximitymines"
+                    ],
+                    "illicit": [
+                        "deadmansswitch"
+                    ]
+                }
+            },
+            {
+                "id": "princexizor",
+                "points": 62,
+                "ship": "starviperclassattackplatform",
+                "upgrades": {
+                    "modification": [
+                        "stealthdevice"
+                    ]
+                }
+            },
+            {
+                "id": "blacksunsoldier",
+                "points": 35,
+                "ship": "z95af4headhunter",
+                "upgrades": {
+                    "illicit": [
+                        "cloakingdevice"
+                    ],
+                    "missile": [
+                        "magpulsewarheads"
+                    ],
+                    "modification": [
+                        "munitionsfailsafe"
+                    ]
+                }
+            },
+            {
+                "id": "cartelspacer",
+                "points": 25,
+                "ship": "m3ainterceptor",
+                "upgrades": {}
+            }
+        ],
+        "points": 195,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "TTT": "Brien Robles (slim)",
+    "VassalForm1": "brien",
+    "VassalForm2": "brien"
+}

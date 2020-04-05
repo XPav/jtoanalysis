@@ -1,0 +1,192 @@
+{
+    "Add": "Lieutenant Karsabi:  Plasma Torpedoes",
+    "Discord": "Sky_Paladin#7635",
+    "Drop": "Rho Squadron Pilot:  Juke",
+    "Final": {
+        "faction": "galacticempire",
+        "name": "The Dark Seas of Infinity",
+        "obstacles": [
+            "gascloud1",
+            "gascloud2",
+            "gascloud3"
+        ],
+        "pilots": [
+            {
+                "id": "rhosquadronpilot",
+                "points": 54,
+                "ship": "alphaclassstarwing",
+                "upgrades": {
+                    "missile": [
+                        "magpulsewarheads"
+                    ],
+                    "modification": [
+                        "hullupgrade"
+                    ],
+                    "sensor": [
+                        "firecontrolsystem"
+                    ],
+                    "torpedo": [
+                        "iontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "fifthbrother",
+                "points": 58,
+                "ship": "tieadvancedv1",
+                "upgrades": {
+                    "force-power": [
+                        "supernaturalreflexes"
+                    ]
+                }
+            },
+            {
+                "id": "sienarspecialist",
+                "points": 39,
+                "ship": "tieagaggressor",
+                "upgrades": {
+                    "gunner": [
+                        "agilegunner"
+                    ],
+                    "missile": [
+                        "homingmissiles"
+                    ]
+                }
+            },
+            {
+                "id": "lieutenantkarsabi",
+                "points": 46,
+                "ship": "alphaclassstarwing",
+                "upgrades": {
+                    "torpedo": [
+                        "plasmatorpedoes"
+                    ]
+                }
+            }
+        ],
+        "points": 197,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Name": "Christopher Dunn",
+    "Option1": {
+        "faction": "galacticempire",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "rhosquadronpilot",
+                "points": 61,
+                "ship": "alphaclassstarwing",
+                "upgrades": {
+                    "missile": [
+                        "magpulsewarheads"
+                    ],
+                    "modification": [
+                        "hullupgrade"
+                    ],
+                    "sensor": [
+                        "firecontrolsystem"
+                    ],
+                    "talent": [
+                        "juke"
+                    ],
+                    "torpedo": [
+                        "iontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "fifthbrother",
+                "points": 58,
+                "ship": "tieadvancedv1",
+                "upgrades": {
+                    "force-power": [
+                        "supernaturalreflexes"
+                    ]
+                }
+            },
+            {
+                "id": "sienarspecialist",
+                "points": 39,
+                "ship": "tieagaggressor",
+                "upgrades": {
+                    "gunner": [
+                        "agilegunner"
+                    ],
+                    "missile": [
+                        "homingmissiles"
+                    ]
+                }
+            },
+            {
+                "id": "lieutenantkarsabi",
+                "points": 37,
+                "ship": "alphaclassstarwing",
+                "upgrades": {}
+            }
+        ],
+        "points": 195,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Option2": {
+        "faction": "galacticrepublic",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "goldsquadrontrooper",
+                "points": 25,
+                "ship": "v19torrentstarfighter",
+                "upgrades": {}
+            },
+            {
+                "id": "104thbattalionpilot",
+                "points": 53,
+                "ship": "arc170starfighter",
+                "upgrades": {
+                    "astromech": [
+                        "r2a6"
+                    ],
+                    "crew": [
+                        "seasonednavigator"
+                    ],
+                    "modification": [
+                        "munitionsfailsafe"
+                    ]
+                }
+            },
+            {
+                "id": "barrissoffee",
+                "points": 46,
+                "ship": "delta7aethersprite",
+                "upgrades": {
+                    "force-power": [
+                        "battlemeditation"
+                    ]
+                }
+            },
+            {
+                "id": "oddball",
+                "points": 41,
+                "ship": "v19torrentstarfighter",
+                "upgrades": {
+                    "talent": [
+                        "juke"
+                    ]
+                }
+            },
+            {
+                "id": "redsquadronbomber",
+                "points": 30,
+                "ship": "btlbywing",
+                "upgrades": {}
+            }
+        ],
+        "points": 195,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "TTT": "Christopher Dunn",
+    "VassalForm1": "Sky_Paladin",
+    "VassalForm2": "Sky_Paladin"
+}

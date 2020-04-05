@@ -1,0 +1,166 @@
+{
+    "Add": "Han Solo (Gunner) to Chopper",
+    "Discord": "Scrub_Lord_27#4628",
+    "Drop": "Bistan (Gunner) from Chopper",
+    "Final": {
+        "faction": "rebelalliance",
+        "name": "Benjamin Capovilla JTO",
+        "pilots": [
+            {
+                "id": "knavesquadronescort",
+                "points": 62,
+                "ship": "ewing",
+                "upgrades": {
+                    "astromech": [
+                        "r5astromech"
+                    ],
+                    "sensor": [
+                        "firecontrolsystem"
+                    ],
+                    "torpedo": [
+                        "iontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "chopper",
+                "points": 95,
+                "ship": "vcx100lightfreighter",
+                "upgrades": {
+                    "crew": [
+                        "landocalrissian",
+                        "cassianandor"
+                    ],
+                    "gunner": [
+                        "hansolo"
+                    ],
+                    "turret": [
+                        "ioncannonturret"
+                    ]
+                }
+            },
+            {
+                "id": "bluesquadronescort",
+                "points": 40,
+                "ship": "t65xwing",
+                "upgrades": {
+                    "configuration": [
+                        "servomotorsfoils"
+                    ]
+                }
+            }
+        ],
+        "points": 197,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Name": "Benjamin Capovilla",
+    "Option1": {
+        "faction": "rebelalliance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "knavesquadronescort",
+                "points": 62,
+                "ship": "ewing",
+                "upgrades": {
+                    "astromech": [
+                        "r5astromech"
+                    ],
+                    "sensor": [
+                        "firecontrolsystem"
+                    ],
+                    "torpedo": [
+                        "iontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "chopper",
+                "points": 95,
+                "ship": "vcx100lightfreighter",
+                "upgrades": {
+                    "crew": [
+                        "landocalrissian",
+                        "cassianandor"
+                    ],
+                    "gunner": [
+                        "bistan"
+                    ],
+                    "turret": [
+                        "ioncannonturret"
+                    ]
+                }
+            },
+            {
+                "id": "bluesquadronescort",
+                "points": 40,
+                "ship": "t65xwing",
+                "upgrades": {
+                    "configuration": [
+                        "servomotorsfoils"
+                    ]
+                }
+            }
+        ],
+        "points": 197,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Option2": {
+        "faction": "separatistalliance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "sunfac",
+                "points": 54,
+                "ship": "nantexclassstarfighter",
+                "upgrades": {}
+            },
+            {
+                "id": "gorgol",
+                "points": 41,
+                "ship": "nantexclassstarfighter",
+                "upgrades": {
+                    "talent": [
+                        "lonewolf"
+                    ]
+                }
+            },
+            {
+                "id": "technounionbomber",
+                "points": 40,
+                "ship": "hyenaclassdroidbomber",
+                "upgrades": {
+                    "configuration": [
+                        "landingstruts"
+                    ],
+                    "missile": [
+                        "clustermissiles"
+                    ],
+                    "torpedo": [
+                        "plasmatorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "petranakiarenaace",
+                "points": 38,
+                "ship": "nantexclassstarfighter",
+                "upgrades": {}
+            },
+            {
+                "id": "dfs311",
+                "points": 23,
+                "ship": "vultureclassdroidfighter",
+                "upgrades": {}
+            }
+        ],
+        "points": 196,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "TTT": "BenjaminCapovilla ",
+    "VassalForm1": "Benjamin",
+    "VassalForm2": "Benjamin"
+}

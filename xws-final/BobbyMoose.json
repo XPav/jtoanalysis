@@ -1,0 +1,198 @@
+{
+    "Add": "Special force gunner on Zeta squadron survivor",
+    "Discord": "BobbyMoose#1331",
+    "Drop": "Deuterium Power cell from TN-3465",
+    "Final": {
+        "faction": "firstorder",
+        "name": "Vincent Hamelin JTO",
+        "pilots": [
+            {
+                "id": "tn3465",
+                "points": 28,
+                "ship": "tiefofighter",
+                "upgrades": {}
+            },
+            {
+                "id": "captainphasma",
+                "points": 56,
+                "ship": "tiesffighter",
+                "upgrades": {
+                    "gunner": [
+                        "skilledbombardier"
+                    ],
+                    "modification": [
+                        "stealthdevice"
+                    ],
+                    "sensor": [
+                        "passivesensors"
+                    ],
+                    "talent": [
+                        "outmaneuver"
+                    ]
+                }
+            },
+            {
+                "id": "longshot",
+                "points": 44,
+                "ship": "tiefofighter",
+                "upgrades": {
+                    "modification": [
+                        "shieldupgrade"
+                    ],
+                    "tech": [
+                        "patternanalyzer"
+                    ]
+                }
+            },
+            {
+                "id": "zetasquadronsurvivor",
+                "points": 42,
+                "ship": "tiesffighter",
+                "upgrades": {
+                    "gunner": [
+                        "specialforcesgunner"
+                    ]
+                }
+            },
+            {
+                "id": "lieutenantrivas",
+                "points": 27,
+                "ship": "tiefofighter",
+                "upgrades": {}
+            }
+        ],
+        "points": 197,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Name": "Vincent Hamelin",
+    "Option1": {
+        "faction": "scumandvillainy",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "sabinewren-lancerclasspursuitcraft",
+                "points": 79,
+                "ship": "lancerclasspursuitcraft",
+                "upgrades": {
+                    "crew": [
+                        "maul"
+                    ],
+                    "illicit": [
+                        "contrabandcybernetics"
+                    ],
+                    "modification": [
+                        "munitionsfailsafe"
+                    ],
+                    "talent": [
+                        "predator"
+                    ],
+                    "title": [
+                        "shadowcaster"
+                    ]
+                }
+            },
+            {
+                "id": "autopilotdrone",
+                "points": 12,
+                "ship": "escapecraft",
+                "upgrades": {}
+            },
+            {
+                "id": "l337-escapecraft",
+                "points": 30,
+                "ship": "escapecraft",
+                "upgrades": {
+                    "talent": [
+                        "debrisgambit"
+                    ]
+                }
+            },
+            {
+                "id": "kaatoleeachos",
+                "points": 27,
+                "ship": "z95af4headhunter",
+                "upgrades": {}
+            },
+            {
+                "id": "blacksunenforcer",
+                "points": 52,
+                "ship": "starviperclassattackplatform",
+                "upgrades": {
+                    "modification": [
+                        "hullupgrade"
+                    ]
+                }
+            }
+        ],
+        "points": 200,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Option2": {
+        "faction": "firstorder",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "tn3465",
+                "points": 37,
+                "ship": "tiefofighter",
+                "upgrades": {
+                    "tech": [
+                        "deuteriumpowercells"
+                    ]
+                }
+            },
+            {
+                "id": "captainphasma",
+                "points": 56,
+                "ship": "tiesffighter",
+                "upgrades": {
+                    "gunner": [
+                        "skilledbombardier"
+                    ],
+                    "modification": [
+                        "stealthdevice"
+                    ],
+                    "sensor": [
+                        "passivesensors"
+                    ],
+                    "talent": [
+                        "outmaneuver"
+                    ]
+                }
+            },
+            {
+                "id": "longshot",
+                "points": 44,
+                "ship": "tiefofighter",
+                "upgrades": {
+                    "modification": [
+                        "shieldupgrade"
+                    ],
+                    "tech": [
+                        "patternanalyzer"
+                    ]
+                }
+            },
+            {
+                "id": "zetasquadronsurvivor",
+                "points": 32,
+                "ship": "tiesffighter",
+                "upgrades": {}
+            },
+            {
+                "id": "lieutenantrivas",
+                "points": 27,
+                "ship": "tiefofighter",
+                "upgrades": {}
+            }
+        ],
+        "points": 196,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "TTT": "Vincent Hamelin",
+    "VassalForm1": "BobbyMoose",
+    "VassalForm2": "BobbyMoose"
+}

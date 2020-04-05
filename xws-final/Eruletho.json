@@ -1,0 +1,187 @@
+{
+    "Add": "Adding Proton Torpedoes to Anakin Skywalker",
+    "Discord": "Eruletho #9471",
+    "Drop": "Removing Advanced Sensors from Dine\u00c3\u0192\u00c2\u00a9 Ellberger",
+    "Final": {
+        "faction": "galacticrepublic",
+        "name": "Eruletho JTO",
+        "obstacles": [
+            "coreasteroid5",
+            "yt2400debris2",
+            "core2asteroid5"
+        ],
+        "pilots": [
+            {
+                "id": "dineeellberger",
+                "points": 54,
+                "ship": "nabooroyaln1starfighter",
+                "upgrades": {
+                    "astromech": [
+                        "r2a6"
+                    ],
+                    "talent": [
+                        "crackshot"
+                    ],
+                    "torpedo": [
+                        "plasmatorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "jag",
+                "points": 56,
+                "ship": "arc170starfighter",
+                "upgrades": {
+                    "gunner": [
+                        "skilledbombardier"
+                    ],
+                    "modification": [
+                        "angleddeflectors"
+                    ]
+                }
+            },
+            {
+                "id": "anakinskywalker-nabooroyaln1starfighter",
+                "points": 54,
+                "ship": "nabooroyaln1starfighter",
+                "upgrades": {
+                    "torpedo": [
+                        "protontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "oddball",
+                "points": 34,
+                "ship": "v19torrentstarfighter",
+                "upgrades": {}
+            }
+        ],
+        "points": 198,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Name": "Jeremy Betsch",
+    "Option1": {
+        "faction": "galacticempire",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "patrolleader",
+                "points": 103,
+                "ship": "vt49decimator",
+                "upgrades": {
+                    "crew": [
+                        "deathtroopers"
+                    ],
+                    "device": [
+                        "seismiccharges"
+                    ],
+                    "gunner": [
+                        "agilegunner"
+                    ],
+                    "modification": [
+                        "staticdischargevanes"
+                    ],
+                    "title": [
+                        "dauntless"
+                    ],
+                    "torpedo": [
+                        "plasmatorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "nusquadronpilot",
+                "points": 43,
+                "ship": "alphaclassstarwing",
+                "upgrades": {
+                    "configuration": [
+                        "xg1assaultconfiguration"
+                    ],
+                    "missile": [
+                        "homingmissiles"
+                    ],
+                    "modification": [
+                        "afterburners"
+                    ]
+                }
+            },
+            {
+                "id": "gammasquadronace",
+                "points": 52,
+                "ship": "tiesabomber",
+                "upgrades": {
+                    "gunner": [
+                        "agilegunner"
+                    ],
+                    "missile": [
+                        "magpulsewarheads"
+                    ],
+                    "talent": [
+                        "squadleader"
+                    ]
+                }
+            }
+        ],
+        "points": 198,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Option2": {
+        "faction": "galacticrepublic",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "dineeellberger",
+                "points": 64,
+                "ship": "nabooroyaln1starfighter",
+                "upgrades": {
+                    "astromech": [
+                        "r2a6"
+                    ],
+                    "sensor": [
+                        "advancedsensors"
+                    ],
+                    "talent": [
+                        "crackshot"
+                    ],
+                    "torpedo": [
+                        "plasmatorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "jag",
+                "points": 56,
+                "ship": "arc170starfighter",
+                "upgrades": {
+                    "gunner": [
+                        "skilledbombardier"
+                    ],
+                    "modification": [
+                        "angleddeflectors"
+                    ]
+                }
+            },
+            {
+                "id": "anakinskywalker-nabooroyaln1starfighter",
+                "points": 41,
+                "ship": "nabooroyaln1starfighter",
+                "upgrades": {}
+            },
+            {
+                "id": "oddball",
+                "points": 34,
+                "ship": "v19torrentstarfighter",
+                "upgrades": {}
+            }
+        ],
+        "points": 195,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "TTT": "Jeremy Betsch",
+    "VassalForm1": "Eruletho",
+    "VassalForm2": "Eruletho"
+}

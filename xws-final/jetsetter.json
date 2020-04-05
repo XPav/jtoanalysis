@@ -1,0 +1,202 @@
+{
+    "Add": "Hotshot Gunner",
+    "Discord": "Ron \"jetsetter\" Brannan",
+    "Drop": "Static discharge vanes",
+    "Final": {
+        "faction": "rebelalliance",
+        "name": "Ron Brannan JTO",
+        "obstacles": [
+            "coreasteroid5",
+            "core2asteroid4",
+            "core2asteroid5"
+        ],
+        "pilots": [
+            {
+                "id": "hortonsalm",
+                "points": 63,
+                "ship": "btla4ywing",
+                "upgrades": {
+                    "device": [
+                        "connernets"
+                    ],
+                    "gunner": [
+                        "hotshotgunner"
+                    ],
+                    "talent": [
+                        "debrisgambit"
+                    ],
+                    "torpedo": [
+                        "advprotontorpedoes"
+                    ],
+                    "turret": [
+                        "dorsalturret"
+                    ]
+                }
+            },
+            {
+                "id": "zeborrelios-tielnfighter",
+                "points": 24,
+                "ship": "tielnfighter",
+                "upgrades": {}
+            },
+            {
+                "id": "esegetuketu",
+                "points": 63,
+                "ship": "btls8kwing",
+                "upgrades": {
+                    "crew": [
+                        "niennunb"
+                    ],
+                    "device": [
+                        "seismiccharges"
+                    ],
+                    "gunner": [
+                        "hotshotgunner"
+                    ],
+                    "missile": [
+                        "ionmissiles"
+                    ]
+                }
+            },
+            {
+                "id": "roarkgarnet",
+                "points": 49,
+                "ship": "hwk290lightfreighter",
+                "upgrades": {
+                    "crew": [
+                        "informant"
+                    ],
+                    "modification": [
+                        "staticdischargevanes"
+                    ]
+                }
+            }
+        ],
+        "points": 199,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Name": "Ronald Brannan",
+    "Option1": {
+        "faction": "rebelalliance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "hortonsalm",
+                "points": 62,
+                "ship": "btla4ywing",
+                "upgrades": {
+                    "device": [
+                        "connernets"
+                    ],
+                    "modification": [
+                        "staticdischargevanes"
+                    ],
+                    "talent": [
+                        "debrisgambit"
+                    ],
+                    "torpedo": [
+                        "advprotontorpedoes"
+                    ],
+                    "turret": [
+                        "dorsalturret"
+                    ]
+                }
+            },
+            {
+                "id": "zeborrelios-tielnfighter",
+                "points": 24,
+                "ship": "tielnfighter",
+                "upgrades": {}
+            },
+            {
+                "id": "esegetuketu",
+                "points": 63,
+                "ship": "btls8kwing",
+                "upgrades": {
+                    "crew": [
+                        "niennunb"
+                    ],
+                    "device": [
+                        "seismiccharges"
+                    ],
+                    "gunner": [
+                        "hotshotgunner"
+                    ],
+                    "missile": [
+                        "ionmissiles"
+                    ]
+                }
+            },
+            {
+                "id": "roarkgarnet",
+                "points": 49,
+                "ship": "hwk290lightfreighter",
+                "upgrades": {
+                    "crew": [
+                        "informant"
+                    ],
+                    "modification": [
+                        "staticdischargevanes"
+                    ]
+                }
+            }
+        ],
+        "points": 198,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Option2": {
+        "faction": "scumandvillainy",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "nomlumb",
+                "points": 60,
+                "ship": "jumpmaster5000",
+                "upgrades": {
+                    "cannon": [
+                        "heavylasercannon"
+                    ],
+                    "modification": [
+                        "targetingcomputer"
+                    ],
+                    "title": [
+                        "punishingone"
+                    ],
+                    "torpedo": [
+                        "plasmatorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "zuckuss",
+                "points": 47,
+                "ship": "g1astarfighter",
+                "upgrades": {
+                    "sensor": [
+                        "firecontrolsystem"
+                    ]
+                }
+            },
+            {
+                "id": "ig88d",
+                "points": 63,
+                "ship": "aggressorassaultfighter",
+                "upgrades": {}
+            },
+            {
+                "id": "landocalrissian-escapecraft",
+                "points": 29,
+                "ship": "escapecraft",
+                "upgrades": {}
+            }
+        ],
+        "points": 199,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "TTT": "Ron Brannan",
+    "VassalForm1": "jetsetter",
+    "VassalForm2": "jetsetter"
+}

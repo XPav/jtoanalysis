@@ -1,0 +1,190 @@
+{
+    "Add": "discord missles to baktoid prototype",
+    "Discord": "geedogjones",
+    "Drop": "none",
+    "Final": {
+        "faction": "separatistalliance",
+        "name": "geedogjonesjto",
+        "obstacles": [
+            "coreasteroid5",
+            "vt49decimatordebris2",
+            "gascloud1"
+        ],
+        "pilots": [
+            {
+                "id": "wattambor",
+                "points": 51,
+                "ship": "belbullab22starfighter",
+                "upgrades": {
+                    "modification": [
+                        "imperviumplating"
+                    ],
+                    "talent": [
+                        "lonewolf"
+                    ]
+                }
+            },
+            {
+                "id": "dbs32c",
+                "points": 50,
+                "ship": "hyenaclassdroidbomber",
+                "upgrades": {
+                    "modification": [
+                        "hullupgrade"
+                    ],
+                    "tacticalrelay": [
+                        "tv94"
+                    ]
+                }
+            },
+            {
+                "id": "dfs081",
+                "points": 26,
+                "ship": "vultureclassdroidfighter",
+                "upgrades": {}
+            },
+            {
+                "id": "berwerkret",
+                "points": 40,
+                "ship": "nantexclassstarfighter",
+                "upgrades": {}
+            },
+            {
+                "id": "baktoidprototype",
+                "points": 32,
+                "ship": "hyenaclassdroidbomber",
+                "upgrades": {
+                    "missile": [
+                        "discordmissiles"
+                    ]
+                }
+            }
+        ],
+        "points": 199,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Name": "greg jones",
+    "Option1": {
+        "faction": "galacticrepublic",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "shadowsquadronveteran",
+                "points": 70,
+                "ship": "btlbywing",
+                "upgrades": {
+                    "astromech": [
+                        "r2astromech"
+                    ],
+                    "device": [
+                        "clustermines"
+                    ],
+                    "gunner": [
+                        "hotshotgunner"
+                    ],
+                    "modification": [
+                        "sparepartscanisters"
+                    ],
+                    "talent": [
+                        "predator"
+                    ],
+                    "torpedo": [
+                        "plasmatorpedoes"
+                    ],
+                    "turret": [
+                        "dorsalturret"
+                    ]
+                }
+            },
+            {
+                "id": "oddball",
+                "points": 44,
+                "ship": "v19torrentstarfighter",
+                "upgrades": {
+                    "missile": [
+                        "magpulsewarheads"
+                    ],
+                    "talent": [
+                        "debrisgambit"
+                    ]
+                }
+            },
+            {
+                "id": "anakinskywalker-btlbywing",
+                "points": 83,
+                "ship": "btlbywing",
+                "upgrades": {
+                    "astromech": [
+                        "r4p17"
+                    ],
+                    "force-power": [
+                        "precognitivereflexes"
+                    ],
+                    "turret": [
+                        "ioncannonturret"
+                    ]
+                }
+            }
+        ],
+        "points": 197,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Option2": {
+        "faction": "separatistalliance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "wattambor",
+                "points": 51,
+                "ship": "belbullab22starfighter",
+                "upgrades": {
+                    "modification": [
+                        "imperviumplating"
+                    ],
+                    "talent": [
+                        "lonewolf"
+                    ]
+                }
+            },
+            {
+                "id": "dbs32c",
+                "points": 50,
+                "ship": "hyenaclassdroidbomber",
+                "upgrades": {
+                    "modification": [
+                        "hullupgrade"
+                    ],
+                    "tacticalrelay": [
+                        "tv94"
+                    ]
+                }
+            },
+            {
+                "id": "dfs081",
+                "points": 26,
+                "ship": "vultureclassdroidfighter",
+                "upgrades": {}
+            },
+            {
+                "id": "berwerkret",
+                "points": 40,
+                "ship": "nantexclassstarfighter",
+                "upgrades": {}
+            },
+            {
+                "id": "baktoidprototype",
+                "points": 28,
+                "ship": "hyenaclassdroidbomber",
+                "upgrades": {}
+            }
+        ],
+        "points": 195,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "TTT": "Greg Jones",
+    "VassalForm1": "geedogjones",
+    "VassalForm2": "geedogjones"
+}

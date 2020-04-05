@@ -1,0 +1,196 @@
+{
+    "Add": "fifth brother on duchess",
+    "Discord": "JamaicanLumberjack#8217",
+    "Drop": "removing gonk from sai",
+    "Final": {
+        "faction": "galacticempire",
+        "name": "Michael Grieb JTO",
+        "pilots": [
+            {
+                "id": "duchess",
+                "points": 58,
+                "ship": "tieskstriker",
+                "upgrades": {
+                    "gunner": [
+                        "fifthbrother"
+                    ],
+                    "modification": [
+                        "munitionsfailsafe"
+                    ],
+                    "talent": [
+                        "trickshot"
+                    ]
+                }
+            },
+            {
+                "id": "grandinquisitor",
+                "points": 67,
+                "ship": "tieadvancedv1",
+                "upgrades": {
+                    "force-power": [
+                        "foresight"
+                    ],
+                    "missile": [
+                        "clustermissiles"
+                    ],
+                    "sensor": [
+                        "trajectorysimulator"
+                    ]
+                }
+            },
+            {
+                "id": "lieutenantsai",
+                "points": 73,
+                "ship": "lambdaclasst4ashuttle",
+                "upgrades": {
+                    "cannon": [
+                        "heavylasercannon"
+                    ],
+                    "crew": [
+                        "agentkallus"
+                    ],
+                    "modification": [
+                        "staticdischargevanes"
+                    ],
+                    "sensor": [
+                        "trajectorysimulator"
+                    ],
+                    "title": [
+                        "st321"
+                    ]
+                }
+            }
+        ],
+        "points": 198,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Name": "Michael Grieb",
+    "Option1": {
+        "faction": "separatistalliance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "separatistbomber",
+                "points": 39,
+                "ship": "hyenaclassdroidbomber",
+                "upgrades": {
+                    "missile": [
+                        "clustermissiles"
+                    ],
+                    "torpedo": [
+                        "advprotontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "066",
+                "points": 81,
+                "ship": "sithinfiltrator",
+                "upgrades": {
+                    "cannon": [
+                        "tractorbeam"
+                    ],
+                    "device": [
+                        "seismiccharges"
+                    ],
+                    "modification": [
+                        "ablativeplating"
+                    ],
+                    "tacticalrelay": [
+                        "ta175"
+                    ],
+                    "talent": [
+                        "swarmtactics"
+                    ],
+                    "torpedo": [
+                        "iontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "chertek",
+                "points": 39,
+                "ship": "nantexclassstarfighter",
+                "upgrades": {}
+            },
+            {
+                "id": "dbs404",
+                "points": 36,
+                "ship": "hyenaclassdroidbomber",
+                "upgrades": {
+                    "device": [
+                        "proximitymines"
+                    ]
+                }
+            }
+        ],
+        "points": 195,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Option2": {
+        "faction": "galacticempire",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "duchess",
+                "points": 47,
+                "ship": "tieskstriker",
+                "upgrades": {
+                    "modification": [
+                        "munitionsfailsafe"
+                    ],
+                    "talent": [
+                        "trickshot"
+                    ]
+                }
+            },
+            {
+                "id": "grandinquisitor",
+                "points": 67,
+                "ship": "tieadvancedv1",
+                "upgrades": {
+                    "force-power": [
+                        "foresight"
+                    ],
+                    "missile": [
+                        "clustermissiles"
+                    ],
+                    "sensor": [
+                        "trajectorysimulator"
+                    ]
+                }
+            },
+            {
+                "id": "lieutenantsai",
+                "points": 83,
+                "ship": "lambdaclasst4ashuttle",
+                "upgrades": {
+                    "cannon": [
+                        "heavylasercannon"
+                    ],
+                    "crew": [
+                        "agentkallus",
+                        "gnkgonkdroid"
+                    ],
+                    "modification": [
+                        "staticdischargevanes"
+                    ],
+                    "sensor": [
+                        "trajectorysimulator"
+                    ],
+                    "title": [
+                        "st321"
+                    ]
+                }
+            }
+        ],
+        "points": 197,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "TTT": "jamaicanlumberjack",
+    "VassalForm1": "JamaicanLumberjack",
+    "VassalForm2": "JamaicanLumberjack"
+}

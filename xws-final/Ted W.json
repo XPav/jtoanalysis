@@ -1,0 +1,199 @@
+{
+    "Add": "Homing Missiles (Fifth Brother)",
+    "Discord": "Ted W #4013",
+    "Drop": "Cluster Missiles (Sienar Specialist)",
+    "Final": {
+        "faction": "galacticempire",
+        "name": "Ted W (JTO)",
+        "obstacles": [
+            "vt49decimatordebris2",
+            "core2asteroid0",
+            "core2asteroid1"
+        ],
+        "pilots": [
+            {
+                "id": "maarekstele",
+                "points": 61,
+                "ship": "tieadvancedx1",
+                "upgrades": {
+                    "missile": [
+                        "magpulsewarheads"
+                    ],
+                    "modification": [
+                        "afterburners"
+                    ],
+                    "sensor": [
+                        "passivesensors"
+                    ],
+                    "talent": [
+                        "marksmanship"
+                    ]
+                }
+            },
+            {
+                "id": "fifthbrother",
+                "points": 50,
+                "ship": "tieadvancedv1",
+                "upgrades": {
+                    "force-power": [
+                        "brilliantevasion"
+                    ],
+                    "missile": [
+                        "homingmissiles"
+                    ]
+                }
+            },
+            {
+                "id": "seventhsister",
+                "points": 48,
+                "ship": "tieadvancedv1",
+                "upgrades": {
+                    "missile": [
+                        "homingmissiles"
+                    ]
+                }
+            },
+            {
+                "id": "sienarspecialist",
+                "points": 39,
+                "ship": "tieagaggressor",
+                "upgrades": {
+                    "gunner": [
+                        "veteranturretgunner"
+                    ],
+                    "turret": [
+                        "dorsalturret"
+                    ]
+                }
+            }
+        ],
+        "points": 198,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Name": "Ted Wakar",
+    "Option1": {
+        "faction": "resistance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "hansolo-scavengedyt1300",
+                "points": 81,
+                "ship": "scavengedyt1300",
+                "upgrades": {
+                    "crew": [
+                        "rosetico"
+                    ],
+                    "gunner": [
+                        "hotshotgunner"
+                    ]
+                }
+            },
+            {
+                "id": "nodinchavdri",
+                "points": 67,
+                "ship": "resistancetransport",
+                "upgrades": {
+                    "astromech": [
+                        "r2astromech"
+                    ],
+                    "cannon": [
+                        "heavylasercannon"
+                    ],
+                    "crew": [
+                        "perceptivecopilot"
+                    ],
+                    "torpedo": [
+                        "protontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "logisticsdivisionpilot",
+                "points": 50,
+                "ship": "resistancetransport",
+                "upgrades": {
+                    "astromech": [
+                        "r1j5"
+                    ],
+                    "cannon": [
+                        "ioncannon"
+                    ],
+                    "torpedo": [
+                        "iontorpedoes"
+                    ]
+                }
+            }
+        ],
+        "points": 198,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Option2": {
+        "faction": "galacticempire",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "maarekstele",
+                "points": 61,
+                "ship": "tieadvancedx1",
+                "upgrades": {
+                    "missile": [
+                        "magpulsewarheads"
+                    ],
+                    "modification": [
+                        "afterburners"
+                    ],
+                    "sensor": [
+                        "passivesensors"
+                    ],
+                    "talent": [
+                        "marksmanship"
+                    ]
+                }
+            },
+            {
+                "id": "fifthbrother",
+                "points": 45,
+                "ship": "tieadvancedv1",
+                "upgrades": {
+                    "force-power": [
+                        "brilliantevasion"
+                    ]
+                }
+            },
+            {
+                "id": "seventhsister",
+                "points": 48,
+                "ship": "tieadvancedv1",
+                "upgrades": {
+                    "missile": [
+                        "homingmissiles"
+                    ]
+                }
+            },
+            {
+                "id": "sienarspecialist",
+                "points": 44,
+                "ship": "tieagaggressor",
+                "upgrades": {
+                    "gunner": [
+                        "veteranturretgunner"
+                    ],
+                    "missile": [
+                        "clustermissiles"
+                    ],
+                    "turret": [
+                        "dorsalturret"
+                    ]
+                }
+            }
+        ],
+        "points": 198,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "TTT": "Ted W",
+    "VassalForm1": "Ted W",
+    "VassalForm2": "Ted W"
+}

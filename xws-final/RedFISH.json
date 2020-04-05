@@ -1,0 +1,181 @@
+{
+    "Add": "Add Proton Torpedoes to Anakin Skywalker",
+    "Discord": "Red-FISH- (#2788)",
+    "Drop": "Remove Gonk from the Squad Seven Veteran",
+    "Final": {
+        "faction": "galacticrepublic",
+        "name": "Zach Mertens JTO",
+        "pilots": [
+            {
+                "id": "saeseetiin",
+                "points": 46,
+                "ship": "delta7aethersprite",
+                "upgrades": {
+                    "configuration": [
+                        "calibratedlasertargeting"
+                    ]
+                }
+            },
+            {
+                "id": "bravoflightofficer",
+                "points": 44,
+                "ship": "nabooroyaln1starfighter",
+                "upgrades": {
+                    "astromech": [
+                        "r2c4"
+                    ],
+                    "torpedo": [
+                        "iontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "anakinskywalker-nabooroyaln1starfighter",
+                "points": 55,
+                "ship": "nabooroyaln1starfighter",
+                "upgrades": {
+                    "talent": [
+                        "composure"
+                    ],
+                    "torpedo": [
+                        "protontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "squadsevenveteran",
+                "points": 53,
+                "ship": "arc170starfighter",
+                "upgrades": {
+                    "astromech": [
+                        "r4p44"
+                    ],
+                    "talent": [
+                        "trickshot"
+                    ]
+                }
+            }
+        ],
+        "points": 198,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Name": "Zach Mertens",
+    "Option1": {
+        "faction": "rebelalliance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "roarkgarnet",
+                "points": 69,
+                "ship": "hwk290lightfreighter",
+                "upgrades": {
+                    "crew": [
+                        "chewbacca"
+                    ],
+                    "device": [
+                        "connernets"
+                    ],
+                    "talent": [
+                        "elusive"
+                    ],
+                    "title": [
+                        "moldycrow"
+                    ]
+                }
+            },
+            {
+                "id": "rebelscout",
+                "points": 30,
+                "ship": "hwk290lightfreighter",
+                "upgrades": {}
+            },
+            {
+                "id": "dutchvander",
+                "points": 40,
+                "ship": "btla4ywing",
+                "upgrades": {}
+            },
+            {
+                "id": "norrawexley-btla4ywing",
+                "points": 56,
+                "ship": "btla4ywing",
+                "upgrades": {
+                    "astromech": [
+                        "chopper"
+                    ],
+                    "device": [
+                        "ionbombs"
+                    ],
+                    "talent": [
+                        "juke"
+                    ]
+                }
+            }
+        ],
+        "points": 195,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Option2": {
+        "faction": "galacticrepublic",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "saeseetiin",
+                "points": 46,
+                "ship": "delta7aethersprite",
+                "upgrades": {
+                    "configuration": [
+                        "calibratedlasertargeting"
+                    ]
+                }
+            },
+            {
+                "id": "bravoflightofficer",
+                "points": 44,
+                "ship": "nabooroyaln1starfighter",
+                "upgrades": {
+                    "astromech": [
+                        "r2c4"
+                    ],
+                    "torpedo": [
+                        "iontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "anakinskywalker-nabooroyaln1starfighter",
+                "points": 42,
+                "ship": "nabooroyaln1starfighter",
+                "upgrades": {
+                    "talent": [
+                        "composure"
+                    ]
+                }
+            },
+            {
+                "id": "squadsevenveteran",
+                "points": 63,
+                "ship": "arc170starfighter",
+                "upgrades": {
+                    "astromech": [
+                        "r4p44"
+                    ],
+                    "crew": [
+                        "gnkgonkdroid"
+                    ],
+                    "talent": [
+                        "trickshot"
+                    ]
+                }
+            }
+        ],
+        "points": 195,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "TTT": "Zach Mertens ",
+    "VassalForm1": "Red-FISH-",
+    "VassalForm2": "Red-FISH-"
+}

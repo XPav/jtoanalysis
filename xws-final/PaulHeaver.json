@@ -1,0 +1,182 @@
+{
+    "Add": "Plasma Torp on Redline",
+    "Discord": "Horngrim",
+    "Drop": "Prockets on Redline",
+    "Final": {
+        "faction": "galacticempire",
+        "name": "Paul Heaver JTO",
+        "pilots": [
+            {
+                "id": "lieutenantsai",
+                "points": 65,
+                "ship": "lambdaclasst4ashuttle",
+                "upgrades": {
+                    "crew": [
+                        "directorkrennic"
+                    ],
+                    "sensor": [
+                        "advancedsensors"
+                    ],
+                    "title": [
+                        "st321"
+                    ]
+                }
+            },
+            {
+                "id": "deathfire",
+                "points": 47,
+                "ship": "tiesabomber",
+                "upgrades": {
+                    "modification": [
+                        "stealthdevice"
+                    ],
+                    "torpedo": [
+                        "plasmatorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "redline",
+                "points": 61,
+                "ship": "tiecapunisher",
+                "upgrades": {
+                    "torpedo": [
+                        "plasmatorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "valenrudor",
+                "points": 27,
+                "ship": "tielnfighter",
+                "upgrades": {}
+            }
+        ],
+        "points": 200,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Name": "Paul Heaver",
+    "Option1": {
+        "faction": "galacticempire",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "lieutenantsai",
+                "points": 65,
+                "ship": "lambdaclasst4ashuttle",
+                "upgrades": {
+                    "crew": [
+                        "directorkrennic"
+                    ],
+                    "sensor": [
+                        "advancedsensors"
+                    ],
+                    "title": [
+                        "st321"
+                    ]
+                }
+            },
+            {
+                "id": "deathfire",
+                "points": 47,
+                "ship": "tiesabomber",
+                "upgrades": {
+                    "modification": [
+                        "stealthdevice"
+                    ],
+                    "torpedo": [
+                        "plasmatorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "redline",
+                "points": 59,
+                "ship": "tiecapunisher",
+                "upgrades": {
+                    "missile": [
+                        "protonrockets"
+                    ]
+                }
+            },
+            {
+                "id": "valenrudor",
+                "points": 27,
+                "ship": "tielnfighter",
+                "upgrades": {}
+            }
+        ],
+        "points": 198,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Option2": {
+        "faction": "scumandvillainy",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "drearenthal",
+                "points": 81,
+                "ship": "btla4ywing",
+                "upgrades": {
+                    "astromech": [
+                        "r5p8"
+                    ],
+                    "device": [
+                        "protonbombs"
+                    ],
+                    "gunner": [
+                        "bossk"
+                    ],
+                    "modification": [
+                        "sparepartscanisters"
+                    ],
+                    "torpedo": [
+                        "advprotontorpedoes"
+                    ],
+                    "turret": [
+                        "dorsalturret"
+                    ]
+                }
+            },
+            {
+                "id": "kaatoleeachos",
+                "points": 48,
+                "ship": "z95af4headhunter",
+                "upgrades": {
+                    "illicit": [
+                        "cloakingdevice"
+                    ],
+                    "missile": [
+                        "protonrockets"
+                    ],
+                    "modification": [
+                        "shieldupgrade"
+                    ],
+                    "talent": [
+                        "trickshot"
+                    ]
+                }
+            },
+            {
+                "id": "captainjostero",
+                "points": 42,
+                "ship": "kihraxzfighter",
+                "upgrades": {}
+            },
+            {
+                "id": "cartelspacer",
+                "points": 25,
+                "ship": "m3ainterceptor",
+                "upgrades": {}
+            }
+        ],
+        "points": 196,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "TTT": "Paul Heaver",
+    "VassalForm1": "PaulHeaver",
+    "VassalForm2": "PaulHeaver"
+}

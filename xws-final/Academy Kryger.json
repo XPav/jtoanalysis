@@ -1,0 +1,169 @@
+{
+    "Add": "Proud Tradition on Holo",
+    "Discord": "ChrisKryger#6656",
+    "Drop": "FCS from Zeta Sqd. Survivor",
+    "Final": {
+        "faction": "firstorder",
+        "name": "CK_Jespersen_JTO",
+        "obstacles": [
+            "coreasteroid0",
+            "coreasteroid1",
+            "coreasteroid2"
+        ],
+        "pilots": [
+            {
+                "id": "null",
+                "points": 30,
+                "ship": "tiefofighter",
+                "upgrades": {}
+            },
+            {
+                "id": "holo",
+                "points": 56,
+                "ship": "tiebainterceptor",
+                "upgrades": {
+                    "talent": [
+                        "proudtradition"
+                    ]
+                }
+            },
+            {
+                "id": "majorvonreg",
+                "points": 57,
+                "ship": "tiebainterceptor",
+                "upgrades": {}
+            },
+            {
+                "id": "zetasquadronsurvivor",
+                "points": 32,
+                "ship": "tiesffighter",
+                "upgrades": {}
+            },
+            {
+                "id": "epsilonsquadroncadet",
+                "points": 25,
+                "ship": "tiefofighter",
+                "upgrades": {}
+            }
+        ],
+        "points": 200,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Name": "Christian Krogager Jespersen",
+    "Option1": {
+        "faction": "galacticempire",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "fifthbrother",
+                "points": 51,
+                "ship": "tieadvancedv1",
+                "upgrades": {
+                    "force-power": [
+                        "brilliantevasion"
+                    ],
+                    "missile": [
+                        "magpulsewarheads"
+                    ]
+                }
+            },
+            {
+                "id": "nusquadronpilot",
+                "points": 54,
+                "ship": "alphaclassstarwing",
+                "upgrades": {
+                    "cannon": [
+                        "ioncannon"
+                    ],
+                    "configuration": [
+                        "xg1assaultconfiguration"
+                    ],
+                    "missile": [
+                        "clustermissiles"
+                    ],
+                    "modification": [
+                        "electronicbaffle"
+                    ],
+                    "sensor": [
+                        "passivesensors"
+                    ],
+                    "torpedo": [
+                        "iontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "sabersquadronace",
+                "points": 36,
+                "ship": "tieininterceptor",
+                "upgrades": {}
+            },
+            {
+                "id": "gideonhask",
+                "points": 33,
+                "ship": "tielnfighter",
+                "upgrades": {
+                    "modification": [
+                        "targetingcomputer"
+                    ]
+                }
+            },
+            {
+                "id": "obsidiansquadronpilot",
+                "points": 23,
+                "ship": "tielnfighter",
+                "upgrades": {}
+            }
+        ],
+        "points": 197,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Option2": {
+        "faction": "firstorder",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "null",
+                "points": 30,
+                "ship": "tiefofighter",
+                "upgrades": {}
+            },
+            {
+                "id": "holo",
+                "points": 54,
+                "ship": "tiebainterceptor",
+                "upgrades": {}
+            },
+            {
+                "id": "majorvonreg",
+                "points": 57,
+                "ship": "tiebainterceptor",
+                "upgrades": {}
+            },
+            {
+                "id": "zetasquadronsurvivor",
+                "points": 34,
+                "ship": "tiesffighter",
+                "upgrades": {
+                    "sensor": [
+                        "firecontrolsystem"
+                    ]
+                }
+            },
+            {
+                "id": "epsilonsquadroncadet",
+                "points": 25,
+                "ship": "tiefofighter",
+                "upgrades": {}
+            }
+        ],
+        "points": 200,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "TTT": "Christian Krogager Jespersen",
+    "VassalForm1": "Academy Kryger",
+    "VassalForm2": "Academy Kryger"
+}

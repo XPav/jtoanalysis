@@ -1,0 +1,171 @@
+{
+    "Add": "Veteran Turret Gunner to Gold Squadron Veteran",
+    "Discord": "A Coke Product#7685",
+    "Drop": "Seasoned Navigator from Lowhhrick",
+    "Final": {
+        "faction": "rebelalliance",
+        "name": "Aaron Thatcher JTO",
+        "pilots": [
+            {
+                "id": "lowhhrick",
+                "points": 52,
+                "ship": "auzituckgunship",
+                "upgrades": {}
+            },
+            {
+                "id": "greensquadronpilot",
+                "points": 32,
+                "ship": "rz1awing",
+                "upgrades": {}
+            },
+            {
+                "id": "goldsquadronveteran",
+                "points": 49,
+                "ship": "btla4ywing",
+                "upgrades": {
+                    "astromech": [
+                        "chopper"
+                    ],
+                    "gunner": [
+                        "veteranturretgunner"
+                    ],
+                    "turret": [
+                        "ioncannonturret"
+                    ]
+                }
+            },
+            {
+                "id": "phoenixsquadronpilot",
+                "points": 29,
+                "ship": "rz1awing",
+                "upgrades": {}
+            },
+            {
+                "id": "herasyndulla",
+                "points": 38,
+                "ship": "attackshuttle",
+                "upgrades": {}
+            }
+        ],
+        "points": 200,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Name": "Aaron Thatcher",
+    "Option1": {
+        "faction": "rebelalliance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "lowhhrick",
+                "points": 57,
+                "ship": "auzituckgunship",
+                "upgrades": {
+                    "crew": [
+                        "seasonednavigator"
+                    ]
+                }
+            },
+            {
+                "id": "greensquadronpilot",
+                "points": 32,
+                "ship": "rz1awing",
+                "upgrades": {}
+            },
+            {
+                "id": "goldsquadronveteran",
+                "points": 39,
+                "ship": "btla4ywing",
+                "upgrades": {
+                    "astromech": [
+                        "chopper"
+                    ],
+                    "turret": [
+                        "ioncannonturret"
+                    ]
+                }
+            },
+            {
+                "id": "phoenixsquadronpilot",
+                "points": 29,
+                "ship": "rz1awing",
+                "upgrades": {}
+            },
+            {
+                "id": "herasyndulla",
+                "points": 38,
+                "ship": "attackshuttle",
+                "upgrades": {}
+            }
+        ],
+        "points": 195,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Option2": {
+        "faction": "galacticrepublic",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "oddball-arc170starfighter",
+                "points": 71,
+                "ship": "arc170starfighter",
+                "upgrades": {
+                    "astromech": [
+                        "r4pastromech"
+                    ],
+                    "crew": [
+                        "freelanceslicer"
+                    ],
+                    "modification": [
+                        "shieldupgrade"
+                    ],
+                    "talent": [
+                        "experthandling"
+                    ],
+                    "torpedo": [
+                        "advprotontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "squadsevenveteran",
+                "points": 56,
+                "ship": "arc170starfighter",
+                "upgrades": {
+                    "astromech": [
+                        "r4pastromech"
+                    ],
+                    "crew": [
+                        "freelanceslicer"
+                    ],
+                    "gunner": [
+                        "veterantailgunner"
+                    ],
+                    "modification": [
+                        "delayedfuses"
+                    ]
+                }
+            },
+            {
+                "id": "macewindu",
+                "points": 71,
+                "ship": "delta7aethersprite",
+                "upgrades": {
+                    "configuration": [
+                        "delta7b"
+                    ],
+                    "modification": [
+                        "shieldupgrade"
+                    ]
+                }
+            }
+        ],
+        "points": 198,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "TTT": "Aaron Thatcher",
+    "VassalForm1": "Aaron Thatcher",
+    "VassalForm2": "Aaron Thatcher"
+}

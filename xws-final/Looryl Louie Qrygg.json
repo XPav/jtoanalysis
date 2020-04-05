@@ -1,0 +1,166 @@
+{
+    "Add": "K-2SO Crew to Magva Yarro",
+    "Discord": "ootinni#1425",
+    "Drop": "Cluster Missiels from Lt Blount",
+    "Final": {
+        "faction": "rebelalliance",
+        "name": "Looryl \"Louie\" Qrygg JTO",
+        "pilots": [
+            {
+                "id": "lieutenantblount",
+                "points": 32,
+                "ship": "z95af4headhunter",
+                "upgrades": {
+                    "talent": [
+                        "predator"
+                    ]
+                }
+            },
+            {
+                "id": "wildspacefringer",
+                "points": 110,
+                "ship": "yt2400lightfreighter",
+                "upgrades": {
+                    "gunner": [
+                        "lukeskywalker"
+                    ],
+                    "illicit": [
+                        "contrabandcybernetics"
+                    ],
+                    "modification": [
+                        "hullupgrade"
+                    ]
+                }
+            },
+            {
+                "id": "magvayarro",
+                "points": 58,
+                "ship": "ut60duwing",
+                "upgrades": {
+                    "configuration": [
+                        "pivotwing"
+                    ],
+                    "crew": [
+                        "k2so"
+                    ]
+                }
+            }
+        ],
+        "points": 200,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Name": "Louis Leong",
+    "Option1": {
+        "faction": "galacticempire",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "inquisitor",
+                "points": 42,
+                "ship": "tieadvancedv1",
+                "upgrades": {
+                    "force-power": [
+                        "predictiveshot"
+                    ],
+                    "sensor": [
+                        "collisiondetector"
+                    ]
+                }
+            },
+            {
+                "id": "tempestsquadronpilot",
+                "points": 45,
+                "ship": "tieadvancedx1",
+                "upgrades": {
+                    "modification": [
+                        "angleddeflectors"
+                    ],
+                    "sensor": [
+                        "trajectorysimulator"
+                    ]
+                }
+            },
+            {
+                "id": "scarifbasepilot",
+                "points": 39,
+                "ship": "tiereaper",
+                "upgrades": {}
+            },
+            {
+                "id": "lieutenantkarsabi",
+                "points": 37,
+                "ship": "alphaclassstarwing",
+                "upgrades": {
+                    "configuration": [
+                        "os1arsenalloadout"
+                    ]
+                }
+            },
+            {
+                "id": "seynmarana",
+                "points": 36,
+                "ship": "tielnfighter",
+                "upgrades": {
+                    "modification": [
+                        "afterburners"
+                    ]
+                }
+            }
+        ],
+        "points": 199,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Option2": {
+        "faction": "rebelalliance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "lieutenantblount",
+                "points": 37,
+                "ship": "z95af4headhunter",
+                "upgrades": {
+                    "missile": [
+                        "clustermissiles"
+                    ],
+                    "talent": [
+                        "predator"
+                    ]
+                }
+            },
+            {
+                "id": "wildspacefringer",
+                "points": 110,
+                "ship": "yt2400lightfreighter",
+                "upgrades": {
+                    "gunner": [
+                        "lukeskywalker"
+                    ],
+                    "illicit": [
+                        "contrabandcybernetics"
+                    ],
+                    "modification": [
+                        "hullupgrade"
+                    ]
+                }
+            },
+            {
+                "id": "magvayarro",
+                "points": 50,
+                "ship": "ut60duwing",
+                "upgrades": {
+                    "configuration": [
+                        "pivotwing"
+                    ]
+                }
+            }
+        ],
+        "points": 197,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "TTT": "Looryl \"Louie\" Qrygg",
+    "VassalForm1": "Looryl \"Louie\" Qrygg",
+    "VassalForm2": "Looryl \"Louie\" Qrygg"
+}

@@ -1,0 +1,159 @@
+{
+    "Add": "Kanan Jarrus to Wullffwarro",
+    "Discord": "5133",
+    "Drop": "Veteran Turret Gunner on Miranda Doni",
+    "Final": {
+        "faction": "rebelalliance",
+        "name": "Michael Wnek JTO",
+        "obstacles": [
+            "core2asteroid0",
+            "core2asteroid1",
+            "core2asteroid2"
+        ],
+        "pilots": [
+            {
+                "id": "mirandadoni",
+                "points": 67,
+                "ship": "btls8kwing",
+                "upgrades": {
+                    "device": [
+                        "electroprotonbomb"
+                    ],
+                    "torpedo": [
+                        "protontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "knavesquadronescort",
+                "points": 62,
+                "ship": "ewing",
+                "upgrades": {
+                    "astromech": [
+                        "r3astromech"
+                    ],
+                    "modification": [
+                        "hullupgrade"
+                    ],
+                    "sensor": [
+                        "firecontrolsystem"
+                    ]
+                }
+            },
+            {
+                "id": "wullffwarro",
+                "points": 68,
+                "ship": "auzituckgunship",
+                "upgrades": {
+                    "crew": [
+                        "kananjarrus"
+                    ]
+                }
+            }
+        ],
+        "points": 197,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Name": "Michael Wnek",
+    "Option1": {
+        "faction": "rebelalliance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "mirandadoni",
+                "points": 77,
+                "ship": "btls8kwing",
+                "upgrades": {
+                    "device": [
+                        "electroprotonbomb"
+                    ],
+                    "gunner": [
+                        "veteranturretgunner"
+                    ],
+                    "torpedo": [
+                        "protontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "knavesquadronescort",
+                "points": 62,
+                "ship": "ewing",
+                "upgrades": {
+                    "astromech": [
+                        "r3astromech"
+                    ],
+                    "modification": [
+                        "hullupgrade"
+                    ],
+                    "sensor": [
+                        "firecontrolsystem"
+                    ]
+                }
+            },
+            {
+                "id": "wullffwarro",
+                "points": 56,
+                "ship": "auzituckgunship",
+                "upgrades": {}
+            }
+        ],
+        "points": 195,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Option2": {
+        "faction": "firstorder",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "pettyofficerthanisson",
+                "points": 82,
+                "ship": "upsilonclasscommandshuttle",
+                "upgrades": {
+                    "cannon": [
+                        "autoblasters"
+                    ],
+                    "crew": [
+                        "supremeleadersnoke"
+                    ],
+                    "modification": [
+                        "delayedfuses"
+                    ],
+                    "tech": [
+                        "targetingsynchronizer"
+                    ]
+                }
+            },
+            {
+                "id": "zetasquadronpilot",
+                "points": 26,
+                "ship": "tiefofighter",
+                "upgrades": {}
+            },
+            {
+                "id": "zetasquadronsurvivor",
+                "points": 32,
+                "ship": "tiesffighter",
+                "upgrades": {}
+            },
+            {
+                "id": "holo",
+                "points": 58,
+                "ship": "tiebainterceptor",
+                "upgrades": {
+                    "tech": [
+                        "advancedoptics"
+                    ]
+                }
+            }
+        ],
+        "points": 198,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "TTT": "Mike Wnek",
+    "VassalForm1": "Orpheus_16",
+    "VassalForm2": "Orpheus_16"
+}

@@ -1,0 +1,180 @@
+{
+    "Add": "Adding Veteran Tail Gunner to the ARC-170",
+    "Discord": "NilsTillander#7371",
+    "Drop": "Removing Skilled Bombardier from the ARC-170",
+    "Final": {
+        "faction": "galacticrepublic",
+        "name": "Luc Girod JTO",
+        "pilots": [
+            {
+                "id": "squadsevenveteran",
+                "points": 80,
+                "ship": "arc170starfighter",
+                "upgrades": {
+                    "astromech": [
+                        "r5astromech"
+                    ],
+                    "crew": [
+                        "perceptivecopilot"
+                    ],
+                    "gunner": [
+                        "veterantailgunner"
+                    ],
+                    "modification": [
+                        "shieldupgrade"
+                    ],
+                    "talent": [
+                        "experthandling"
+                    ],
+                    "torpedo": [
+                        "protontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "anakinskywalker",
+                "points": 75,
+                "ship": "delta7aethersprite",
+                "upgrades": {
+                    "astromech": [
+                        "r4p17"
+                    ],
+                    "configuration": [
+                        "calibratedlasertargeting"
+                    ],
+                    "force-power": [
+                        "heightenedperception"
+                    ]
+                }
+            },
+            {
+                "id": "ricolie",
+                "points": 45,
+                "ship": "nabooroyaln1starfighter",
+                "upgrades": {
+                    "talent": [
+                        "elusive"
+                    ]
+                }
+            }
+        ],
+        "points": 200,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Name": "Luc Girod",
+    "Option1": {
+        "faction": "galacticrepublic",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "squadsevenveteran",
+                "points": 78,
+                "ship": "arc170starfighter",
+                "upgrades": {
+                    "astromech": [
+                        "r5astromech"
+                    ],
+                    "crew": [
+                        "perceptivecopilot"
+                    ],
+                    "gunner": [
+                        "skilledbombardier"
+                    ],
+                    "modification": [
+                        "shieldupgrade"
+                    ],
+                    "talent": [
+                        "experthandling"
+                    ],
+                    "torpedo": [
+                        "protontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "anakinskywalker",
+                "points": 75,
+                "ship": "delta7aethersprite",
+                "upgrades": {
+                    "astromech": [
+                        "r4p17"
+                    ],
+                    "configuration": [
+                        "calibratedlasertargeting"
+                    ],
+                    "force-power": [
+                        "heightenedperception"
+                    ]
+                }
+            },
+            {
+                "id": "ricolie",
+                "points": 45,
+                "ship": "nabooroyaln1starfighter",
+                "upgrades": {
+                    "talent": [
+                        "elusive"
+                    ]
+                }
+            }
+        ],
+        "points": 198,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Option2": {
+        "faction": "rebelalliance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "phoenixsquadronpilot",
+                "points": 33,
+                "ship": "rz1awing",
+                "upgrades": {
+                    "missile": [
+                        "ionmissiles"
+                    ]
+                }
+            },
+            {
+                "id": "bluesquadronescort",
+                "points": 51,
+                "ship": "t65xwing",
+                "upgrades": {
+                    "astromech": [
+                        "chopper"
+                    ],
+                    "configuration": [
+                        "servomotorsfoils"
+                    ],
+                    "torpedo": [
+                        "plasmatorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "wildspacefringer",
+                "points": 89,
+                "ship": "yt2400lightfreighter",
+                "upgrades": {
+                    "crew": [
+                        "kananjarrus"
+                    ]
+                }
+            },
+            {
+                "id": "zeborrelios-tielnfighter",
+                "points": 24,
+                "ship": "tielnfighter",
+                "upgrades": {}
+            }
+        ],
+        "points": 197,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "TTT": "Luc Girod",
+    "VassalForm1": "NilsTillander",
+    "VassalForm2": "NilsTillander"
+}

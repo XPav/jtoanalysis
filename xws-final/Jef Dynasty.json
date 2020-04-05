@@ -1,0 +1,178 @@
+{
+    "Add": "Outmaneuver to \"Blackout\"",
+    "Discord": "Jef Dynasty #1082",
+    "Drop": "Marksmanship from \"Midnight\"",
+    "Final": {
+        "faction": "firstorder",
+        "name": "Jeff Wake JTO",
+        "pilots": [
+            {
+                "id": "omegasquadronace",
+                "points": 37,
+                "ship": "tiefofighter",
+                "upgrades": {
+                    "modification": [
+                        "afterburners"
+                    ],
+                    "talent": [
+                        "intimidation"
+                    ]
+                }
+            },
+            {
+                "id": "midnight",
+                "points": 46,
+                "ship": "tiefofighter",
+                "upgrades": {
+                    "tech": [
+                        "advancedoptics"
+                    ]
+                }
+            },
+            {
+                "id": "omegasquadronace",
+                "points": 41,
+                "ship": "tiefofighter",
+                "upgrades": {
+                    "talent": [
+                        "squadleader"
+                    ],
+                    "tech": [
+                        "patternanalyzer"
+                    ]
+                }
+            },
+            {
+                "id": "blackout",
+                "points": 76,
+                "ship": "tievnsilencer",
+                "upgrades": {
+                    "missile": [
+                        "protonrockets"
+                    ],
+                    "talent": [
+                        "outmaneuver"
+                    ]
+                }
+            }
+        ],
+        "points": 200,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Name": "Jeff Wake",
+    "Option1": {
+        "faction": "firstorder",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "omegasquadronace",
+                "points": 37,
+                "ship": "tiefofighter",
+                "upgrades": {
+                    "modification": [
+                        "afterburners"
+                    ],
+                    "talent": [
+                        "intimidation"
+                    ]
+                }
+            },
+            {
+                "id": "midnight",
+                "points": 47,
+                "ship": "tiefofighter",
+                "upgrades": {
+                    "talent": [
+                        "marksmanship"
+                    ],
+                    "tech": [
+                        "advancedoptics"
+                    ]
+                }
+            },
+            {
+                "id": "omegasquadronace",
+                "points": 41,
+                "ship": "tiefofighter",
+                "upgrades": {
+                    "talent": [
+                        "squadleader"
+                    ],
+                    "tech": [
+                        "patternanalyzer"
+                    ]
+                }
+            },
+            {
+                "id": "blackout",
+                "points": 70,
+                "ship": "tievnsilencer",
+                "upgrades": {
+                    "missile": [
+                        "protonrockets"
+                    ]
+                }
+            }
+        ],
+        "points": 195,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Option2": {
+        "faction": "rebelalliance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "phoenixsquadronpilot",
+                "points": 37,
+                "ship": "rz1awing",
+                "upgrades": {
+                    "missile": [
+                        "concussionmissiles"
+                    ],
+                    "talent": [
+                        "predator"
+                    ]
+                }
+            },
+            {
+                "id": "knavesquadronescort",
+                "points": 62,
+                "ship": "ewing",
+                "upgrades": {
+                    "astromech": [
+                        "r5d8"
+                    ],
+                    "torpedo": [
+                        "iontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "sabinewren-tielnfighter",
+                "points": 29,
+                "ship": "tielnfighter",
+                "upgrades": {}
+            },
+            {
+                "id": "kylekatarn",
+                "points": 34,
+                "ship": "hwk290lightfreighter",
+                "upgrades": {}
+            },
+            {
+                "id": "airencracken",
+                "points": 36,
+                "ship": "z95af4headhunter",
+                "upgrades": {}
+            }
+        ],
+        "points": 198,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "TTT": "Jeff Wake",
+    "VassalForm1": "Jef Dynasty",
+    "VassalForm2": "Jef Dynasty"
+}

@@ -1,0 +1,175 @@
+{
+    "Add": "Proximity Mines to the Quad Jumper",
+    "Discord": "SirDunkirk#6273",
+    "Drop": "Tractor Beam off of the JumpMaster",
+    "Final": {
+        "faction": "scumandvillainy",
+        "name": "Zach Righetti JTO",
+        "pilots": [
+            {
+                "id": "captainjostero",
+                "points": 48,
+                "ship": "kihraxzfighter",
+                "upgrades": {
+                    "modification": [
+                        "stealthdevice"
+                    ]
+                }
+            },
+            {
+                "id": "ahhav",
+                "points": 33,
+                "ship": "modifiedtielnfighter",
+                "upgrades": {
+                    "talent": [
+                        "fearless"
+                    ]
+                }
+            },
+            {
+                "id": "contractedscout",
+                "points": 50,
+                "ship": "jumpmaster5000",
+                "upgrades": {
+                    "torpedo": [
+                        "plasmatorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "landocalrissian-escapecraft",
+                "points": 29,
+                "ship": "escapecraft",
+                "upgrades": {}
+            },
+            {
+                "id": "constablezuvio",
+                "points": 39,
+                "ship": "quadrijettransferspacetug",
+                "upgrades": {
+                    "device": [
+                        "proximitymines"
+                    ]
+                }
+            }
+        ],
+        "points": 199,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Name": "Zach Righetti",
+    "Option1": {
+        "faction": "scumandvillainy",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "captainjostero",
+                "points": 48,
+                "ship": "kihraxzfighter",
+                "upgrades": {
+                    "modification": [
+                        "stealthdevice"
+                    ]
+                }
+            },
+            {
+                "id": "ahhav",
+                "points": 33,
+                "ship": "modifiedtielnfighter",
+                "upgrades": {
+                    "talent": [
+                        "fearless"
+                    ]
+                }
+            },
+            {
+                "id": "contractedscout",
+                "points": 53,
+                "ship": "jumpmaster5000",
+                "upgrades": {
+                    "cannon": [
+                        "tractorbeam"
+                    ],
+                    "torpedo": [
+                        "plasmatorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "landocalrissian-escapecraft",
+                "points": 29,
+                "ship": "escapecraft",
+                "upgrades": {}
+            },
+            {
+                "id": "constablezuvio",
+                "points": 33,
+                "ship": "quadrijettransferspacetug",
+                "upgrades": {}
+            }
+        ],
+        "points": 196,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Option2": {
+        "faction": "resistance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "hansolo-scavengedyt1300",
+                "points": 80,
+                "ship": "scavengedyt1300",
+                "upgrades": {
+                    "crew": [
+                        "gnkgonkdroid"
+                    ],
+                    "modification": [
+                        "targetingcomputer"
+                    ],
+                    "talent": [
+                        "predator"
+                    ]
+                }
+            },
+            {
+                "id": "jophseastriker",
+                "points": 62,
+                "ship": "t70xwing",
+                "upgrades": {
+                    "configuration": [
+                        "integratedsfoils"
+                    ],
+                    "modification": [
+                        "staticdischargevanes"
+                    ],
+                    "tech": [
+                        "patternanalyzer"
+                    ]
+                }
+            },
+            {
+                "id": "covanell",
+                "points": 53,
+                "ship": "resistancetransport",
+                "upgrades": {
+                    "cannon": [
+                        "tractorbeam"
+                    ],
+                    "modification": [
+                        "afterburners"
+                    ],
+                    "torpedo": [
+                        "advprotontorpedoes"
+                    ]
+                }
+            }
+        ],
+        "points": 195,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "TTT": "Zach RIghetti",
+    "VassalForm1": "SirDunkirk",
+    "VassalForm2": "SirDunkirk"
+}

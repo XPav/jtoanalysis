@@ -1,0 +1,183 @@
+{
+    "Add": "Adding Passive Sensors to Zertik Strom. ",
+    "Discord": "zeke770#4936",
+    "Drop": "Removing Ablative Plating from the first Scarif Base Pilot",
+    "Final": {
+        "faction": "galacticempire",
+        "name": "Zach Johnson JTO",
+        "obstacles": [
+            "coreasteroid3",
+            "core2asteroid3",
+            "core2asteroid5"
+        ],
+        "pilots": [
+            {
+                "id": "scarifbasepilot",
+                "points": 59,
+                "ship": "tiereaper",
+                "upgrades": {
+                    "crew": [
+                        "grandinquisitor",
+                        "ministertua"
+                    ]
+                }
+            },
+            {
+                "id": "tempestsquadronpilot",
+                "points": 44,
+                "ship": "tieadvancedx1",
+                "upgrades": {
+                    "missile": [
+                        "protonrockets"
+                    ],
+                    "modification": [
+                        "munitionsfailsafe"
+                    ]
+                }
+            },
+            {
+                "id": "zertikstrom",
+                "points": 50,
+                "ship": "tieadvancedx1",
+                "upgrades": {
+                    "modification": [
+                        "afterburners"
+                    ],
+                    "sensor": [
+                        "passivesensors"
+                    ]
+                }
+            },
+            {
+                "id": "scarifbasepilot",
+                "points": 44,
+                "ship": "tiereaper",
+                "upgrades": {
+                    "crew": [
+                        "informant"
+                    ]
+                }
+            }
+        ],
+        "points": 197,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Name": "Zach Johnson",
+    "Option1": {
+        "faction": "galacticempire",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "scarifbasepilot",
+                "points": 65,
+                "ship": "tiereaper",
+                "upgrades": {
+                    "crew": [
+                        "ministertua",
+                        "grandinquisitor"
+                    ],
+                    "modification": [
+                        "ablativeplating"
+                    ]
+                }
+            },
+            {
+                "id": "tempestsquadronpilot",
+                "points": 44,
+                "ship": "tieadvancedx1",
+                "upgrades": {
+                    "missile": [
+                        "protonrockets"
+                    ],
+                    "modification": [
+                        "munitionsfailsafe"
+                    ]
+                }
+            },
+            {
+                "id": "zertikstrom",
+                "points": 47,
+                "ship": "tieadvancedx1",
+                "upgrades": {
+                    "modification": [
+                        "afterburners"
+                    ]
+                }
+            },
+            {
+                "id": "scarifbasepilot",
+                "points": 44,
+                "ship": "tiereaper",
+                "upgrades": {
+                    "crew": [
+                        "informant"
+                    ]
+                }
+            }
+        ],
+        "points": 200,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Option2": {
+        "faction": "resistance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "logisticsdivisionpilot",
+                "points": 46,
+                "ship": "resistancetransport",
+                "upgrades": {
+                    "cannon": [
+                        "ioncannon"
+                    ],
+                    "crew": [
+                        "amilynholdo"
+                    ]
+                }
+            },
+            {
+                "id": "vimoradi",
+                "points": 27,
+                "ship": "resistancetransportpod",
+                "upgrades": {}
+            },
+            {
+                "id": "rosetico",
+                "points": 30,
+                "ship": "resistancetransportpod",
+                "upgrades": {
+                    "crew": [
+                        "novicetechnician"
+                    ]
+                }
+            },
+            {
+                "id": "jophseastriker",
+                "points": 57,
+                "ship": "t70xwing",
+                "upgrades": {
+                    "configuration": [
+                        "integratedsfoils"
+                    ],
+                    "talent": [
+                        "outmaneuver"
+                    ]
+                }
+            },
+            {
+                "id": "greersonnel",
+                "points": 36,
+                "ship": "rz2awing",
+                "upgrades": {}
+            }
+        ],
+        "points": 196,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "TTT": "Zachery Johnson",
+    "VassalForm1": "Zach Johnson",
+    "VassalForm2": "Zach Johnson"
+}

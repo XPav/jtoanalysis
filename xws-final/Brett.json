@@ -1,0 +1,184 @@
+{
+    "Add": "C1-10p to jedi knight",
+    "Discord": "Brett#0601",
+    "Drop": "Trajectory Simulator from Padme ",
+    "Final": {
+        "faction": "galacticrepublic",
+        "name": "Brett Freeman JTO",
+        "pilots": [
+            {
+                "id": "104thbattalionpilot",
+                "points": 45,
+                "ship": "arc170starfighter",
+                "upgrades": {
+                    "crew": [
+                        "freelanceslicer"
+                    ]
+                }
+            },
+            {
+                "id": "jediknight",
+                "points": 64,
+                "ship": "delta7aethersprite",
+                "upgrades": {
+                    "astromech": [
+                        "c110p"
+                    ],
+                    "configuration": [
+                        "delta7b"
+                    ],
+                    "force-power": [
+                        "heightenedperception"
+                    ]
+                }
+            },
+            {
+                "id": "padmeamidala",
+                "points": 55,
+                "ship": "nabooroyaln1starfighter",
+                "upgrades": {
+                    "astromech": [
+                        "r4pastromech"
+                    ],
+                    "torpedo": [
+                        "advprotontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "kickback",
+                "points": 33,
+                "ship": "v19torrentstarfighter",
+                "upgrades": {}
+            }
+        ],
+        "points": 197,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Name": "Brett Freeman",
+    "Option1": {
+        "faction": "galacticrepublic",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "104thbattalionpilot",
+                "points": 45,
+                "ship": "arc170starfighter",
+                "upgrades": {
+                    "crew": [
+                        "freelanceslicer"
+                    ]
+                }
+            },
+            {
+                "id": "jediknight",
+                "points": 57,
+                "ship": "delta7aethersprite",
+                "upgrades": {
+                    "configuration": [
+                        "delta7b"
+                    ],
+                    "force-power": [
+                        "heightenedperception"
+                    ]
+                }
+            },
+            {
+                "id": "padmeamidala",
+                "points": 61,
+                "ship": "nabooroyaln1starfighter",
+                "upgrades": {
+                    "astromech": [
+                        "r4pastromech"
+                    ],
+                    "sensor": [
+                        "trajectorysimulator"
+                    ],
+                    "torpedo": [
+                        "advprotontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "kickback",
+                "points": 33,
+                "ship": "v19torrentstarfighter",
+                "upgrades": {}
+            }
+        ],
+        "points": 196,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Option2": {
+        "faction": "firstorder",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "recoil",
+                "points": 83,
+                "ship": "tievnsilencer",
+                "upgrades": {
+                    "missile": [
+                        "protonrockets"
+                    ],
+                    "talent": [
+                        "lonewolf"
+                    ],
+                    "tech": [
+                        "patternanalyzer"
+                    ],
+                    "torpedo": [
+                        "plasmatorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "lieutenantrivas",
+                "points": 33,
+                "ship": "tiefofighter",
+                "upgrades": {
+                    "modification": [
+                        "munitionsfailsafe"
+                    ],
+                    "tech": [
+                        "primedthrusters"
+                    ]
+                }
+            },
+            {
+                "id": "zetasquadronsurvivor",
+                "points": 44,
+                "ship": "tiesffighter",
+                "upgrades": {
+                    "gunner": [
+                        "agilegunner"
+                    ],
+                    "sensor": [
+                        "passivesensors"
+                    ],
+                    "tech": [
+                        "biohexacryptcodes"
+                    ]
+                }
+            },
+            {
+                "id": "longshot",
+                "points": 36,
+                "ship": "tiefofighter",
+                "upgrades": {
+                    "tech": [
+                        "patternanalyzer"
+                    ]
+                }
+            }
+        ],
+        "points": 196,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "TTT": "Brett Freeman",
+    "VassalForm1": "Brett",
+    "VassalForm2": "Brett"
+}

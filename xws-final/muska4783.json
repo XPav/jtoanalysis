@@ -1,0 +1,181 @@
+{
+    "Add": "Ion Cannon Turret to Lok Revenant",
+    "Discord": "Josh Addington#0119",
+    "Drop": "Intimidation from Joy Rekkoff",
+    "Final": {
+        "faction": "scumandvillainy",
+        "name": "Josh Addington JTO",
+        "pilots": [
+            {
+                "id": "unkarplutt",
+                "points": 34,
+                "ship": "quadrijettransferspacetug",
+                "upgrades": {
+                    "crew": [
+                        "bobafett"
+                    ]
+                }
+            },
+            {
+                "id": "joyrekkoff",
+                "points": 58,
+                "ship": "fangfighter",
+                "upgrades": {
+                    "torpedo": [
+                        "advprotontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "binayrepirate",
+                "points": 27,
+                "ship": "z95af4headhunter",
+                "upgrades": {
+                    "missile": [
+                        "homingmissiles"
+                    ]
+                }
+            },
+            {
+                "id": "captainseevor",
+                "points": 30,
+                "ship": "modifiedtielnfighter",
+                "upgrades": {}
+            },
+            {
+                "id": "lokrevenant",
+                "points": 50,
+                "ship": "scurrgh6bomber",
+                "upgrades": {
+                    "turret": [
+                        "ioncannonturret"
+                    ]
+                }
+            }
+        ],
+        "points": 199,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Name": "Josh Addington",
+    "Option1": {
+        "faction": "scumandvillainy",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "unkarplutt",
+                "points": 34,
+                "ship": "quadrijettransferspacetug",
+                "upgrades": {
+                    "crew": [
+                        "bobafett"
+                    ]
+                }
+            },
+            {
+                "id": "joyrekkoff",
+                "points": 61,
+                "ship": "fangfighter",
+                "upgrades": {
+                    "talent": [
+                        "intimidation"
+                    ],
+                    "torpedo": [
+                        "advprotontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "binayrepirate",
+                "points": 27,
+                "ship": "z95af4headhunter",
+                "upgrades": {
+                    "missile": [
+                        "homingmissiles"
+                    ]
+                }
+            },
+            {
+                "id": "captainseevor",
+                "points": 30,
+                "ship": "modifiedtielnfighter",
+                "upgrades": {}
+            },
+            {
+                "id": "lokrevenant",
+                "points": 45,
+                "ship": "scurrgh6bomber",
+                "upgrades": {}
+            }
+        ],
+        "points": 197,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Option2": {
+        "faction": "separatistalliance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "darthmaul",
+                "points": 99,
+                "ship": "sithinfiltrator",
+                "upgrades": {
+                    "cannon": [
+                        "jammingbeam"
+                    ],
+                    "crew": [
+                        "countdooku"
+                    ],
+                    "device": [
+                        "clustermines"
+                    ],
+                    "force-power": [
+                        "sense"
+                    ],
+                    "modification": [
+                        "munitionsfailsafe"
+                    ],
+                    "title": [
+                        "scimitar"
+                    ],
+                    "torpedo": [
+                        "advprotontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "skakoanace",
+                "points": 55,
+                "ship": "belbullab22starfighter",
+                "upgrades": {
+                    "modification": [
+                        "stealthdevice"
+                    ],
+                    "tacticalrelay": [
+                        "kraken"
+                    ],
+                    "talent": [
+                        "marksmanship"
+                    ]
+                }
+            },
+            {
+                "id": "feethanottrawautopilot",
+                "points": 41,
+                "ship": "belbullab22starfighter",
+                "upgrades": {
+                    "modification": [
+                        "shieldupgrade"
+                    ]
+                }
+            }
+        ],
+        "points": 195,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "TTT": "Josh Addington",
+    "VassalForm1": "muska4783",
+    "VassalForm2": "muska4783"
+}

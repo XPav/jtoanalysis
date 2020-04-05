@@ -1,0 +1,168 @@
+{
+    "Add": "Leia Organa to Partisan Renegade",
+    "Discord": "arctic_rogue (#6494)",
+    "Drop": "Trajectory Simulator from Partisan Renegade",
+    "Final": {
+        "faction": "rebelalliance",
+        "name": "Trevor Finlay JTO",
+        "pilots": [
+            {
+                "id": "ezrabridger-tielnfighter",
+                "points": 32,
+                "ship": "tielnfighter",
+                "upgrades": {
+                    "force-power": [
+                        "instinctiveaim"
+                    ]
+                }
+            },
+            {
+                "id": "janors",
+                "points": 68,
+                "ship": "hwk290lightfreighter",
+                "upgrades": {
+                    "crew": [
+                        "freelanceslicer"
+                    ],
+                    "modification": [
+                        "staticdischargevanes"
+                    ],
+                    "title": [
+                        "moldycrow"
+                    ]
+                }
+            },
+            {
+                "id": "partisanrenegade",
+                "points": 51,
+                "ship": "ut60duwing",
+                "upgrades": {
+                    "configuration": [
+                        "pivotwing"
+                    ],
+                    "crew": [
+                        "leiaorgana"
+                    ],
+                    "modification": [
+                        "munitionsfailsafe"
+                    ]
+                }
+            },
+            {
+                "id": "garvendreis",
+                "points": 49,
+                "ship": "arc170starfighter",
+                "upgrades": {}
+            }
+        ],
+        "points": 200,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Name": "Trevor Finlay",
+    "Option1": {
+        "faction": "scumandvillainy",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "dalanoberos",
+                "points": 61,
+                "ship": "m12lkimogilafighter",
+                "upgrades": {
+                    "missile": [
+                        "protonrockets"
+                    ],
+                    "talent": [
+                        "experthandling"
+                    ],
+                    "torpedo": [
+                        "advprotontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "ig88a",
+                "points": 73,
+                "ship": "aggressorassaultfighter",
+                "upgrades": {
+                    "sensor": [
+                        "trajectorysimulator"
+                    ]
+                }
+            },
+            {
+                "id": "sabinewren-lancerclasspursuitcraft",
+                "points": 63,
+                "ship": "lancerclasspursuitcraft",
+                "upgrades": {
+                    "illicit": [
+                        "contrabandcybernetics"
+                    ]
+                }
+            }
+        ],
+        "points": 197,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Option2": {
+        "faction": "rebelalliance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "ezrabridger-tielnfighter",
+                "points": 32,
+                "ship": "tielnfighter",
+                "upgrades": {
+                    "force-power": [
+                        "instinctiveaim"
+                    ]
+                }
+            },
+            {
+                "id": "janors",
+                "points": 68,
+                "ship": "hwk290lightfreighter",
+                "upgrades": {
+                    "crew": [
+                        "freelanceslicer"
+                    ],
+                    "modification": [
+                        "staticdischargevanes"
+                    ],
+                    "title": [
+                        "moldycrow"
+                    ]
+                }
+            },
+            {
+                "id": "partisanrenegade",
+                "points": 50,
+                "ship": "ut60duwing",
+                "upgrades": {
+                    "configuration": [
+                        "pivotwing"
+                    ],
+                    "modification": [
+                        "munitionsfailsafe"
+                    ],
+                    "sensor": [
+                        "trajectorysimulator"
+                    ]
+                }
+            },
+            {
+                "id": "garvendreis",
+                "points": 49,
+                "ship": "arc170starfighter",
+                "upgrades": {}
+            }
+        ],
+        "points": 199,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "TTT": "Trevor Finlay",
+    "VassalForm1": "arctic_rogue",
+    "VassalForm2": "arctic_rogue"
+}

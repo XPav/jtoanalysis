@@ -1,0 +1,188 @@
+{
+    "Add": "Advanced Proton Torpedos",
+    "Discord": "NickArrow",
+    "Drop": "Proton Rockets",
+    "Final": {
+        "faction": "separatistalliance",
+        "name": "NickArrowJTO",
+        "obstacles": [
+            "yt2400debris0",
+            "yt2400debris1",
+            "yt2400debris2"
+        ],
+        "pilots": [
+            {
+                "id": "dbs404",
+                "points": 42,
+                "ship": "hyenaclassdroidbomber",
+                "upgrades": {
+                    "modification": [
+                        "staticdischargevanes"
+                    ],
+                    "torpedo": [
+                        "advprotontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "dfs081",
+                "points": 28,
+                "ship": "vultureclassdroidfighter",
+                "upgrades": {
+                    "configuration": [
+                        "grapplingstruts"
+                    ],
+                    "modification": [
+                        "delayedfuses"
+                    ]
+                }
+            },
+            {
+                "id": "countdooku",
+                "points": 83,
+                "ship": "sithinfiltrator",
+                "upgrades": {
+                    "tacticalrelay": [
+                        "kraken"
+                    ],
+                    "title": [
+                        "scimitar"
+                    ],
+                    "torpedo": [
+                        "advprotontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "captainsear",
+                "points": 45,
+                "ship": "belbullab22starfighter",
+                "upgrades": {}
+            }
+        ],
+        "points": 198,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Name": "Nick Aretakis",
+    "Option1": {
+        "faction": "resistance",
+        "name": "Unsaved Squadron",
+        "pilots": [
+            {
+                "id": "logisticsdivisionpilot",
+                "points": 55,
+                "ship": "resistancetransport",
+                "upgrades": {
+                    "astromech": [
+                        "r2astromech"
+                    ],
+                    "cannon": [
+                        "autoblasters"
+                    ],
+                    "tech": [
+                        "ferrospherepaint"
+                    ],
+                    "torpedo": [
+                        "plasmatorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "paigetico",
+                "points": 73,
+                "ship": "mg100starfortress",
+                "upgrades": {
+                    "device": [
+                        "ionbombs"
+                    ],
+                    "modification": [
+                        "munitionsfailsafe"
+                    ],
+                    "tech": [
+                        "ferrospherepaint"
+                    ]
+                }
+            },
+            {
+                "id": "nodinchavdri",
+                "points": 36,
+                "ship": "resistancetransport",
+                "upgrades": {}
+            },
+            {
+                "id": "vimoradi",
+                "points": 31,
+                "ship": "resistancetransportpod",
+                "upgrades": {
+                    "tech": [
+                        "advancedoptics"
+                    ]
+                }
+            }
+        ],
+        "points": 195,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Option2": {
+        "faction": "separatistalliance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "dbs404",
+                "points": 43,
+                "ship": "hyenaclassdroidbomber",
+                "upgrades": {
+                    "missile": [
+                        "protonrockets"
+                    ],
+                    "modification": [
+                        "staticdischargevanes"
+                    ]
+                }
+            },
+            {
+                "id": "dfs081",
+                "points": 28,
+                "ship": "vultureclassdroidfighter",
+                "upgrades": {
+                    "configuration": [
+                        "grapplingstruts"
+                    ],
+                    "modification": [
+                        "delayedfuses"
+                    ]
+                }
+            },
+            {
+                "id": "countdooku",
+                "points": 83,
+                "ship": "sithinfiltrator",
+                "upgrades": {
+                    "tacticalrelay": [
+                        "kraken"
+                    ],
+                    "title": [
+                        "scimitar"
+                    ],
+                    "torpedo": [
+                        "advprotontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "captainsear",
+                "points": 45,
+                "ship": "belbullab22starfighter",
+                "upgrades": {}
+            }
+        ],
+        "points": 199,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "TTT": "Nick Aretakis",
+    "VassalForm1": "NickArrow",
+    "VassalForm2": "NickArrow"
+}

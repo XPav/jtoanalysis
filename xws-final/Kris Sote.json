@@ -1,0 +1,193 @@
+{
+    "Add": "Advanced Optics on Greer Sonnel",
+    "Discord": "KTOFF#4119",
+    "Drop": "Pattern analyzer from Greer Sonnel",
+    "Final": {
+        "faction": "resistance",
+        "name": "Kristoff Sotelo JTO",
+        "pilots": [
+            {
+                "id": "rosetico",
+                "points": 40,
+                "ship": "resistancetransportpod",
+                "upgrades": {
+                    "modification": [
+                        "stealthdevice"
+                    ],
+                    "talent": [
+                        "experthandling"
+                    ],
+                    "tech": [
+                        "targetingsynchronizer"
+                    ]
+                }
+            },
+            {
+                "id": "greersonnel",
+                "points": 43,
+                "ship": "rz2awing",
+                "upgrades": {
+                    "talent": [
+                        "intimidation"
+                    ],
+                    "tech": [
+                        "advancedoptics"
+                    ]
+                }
+            },
+            {
+                "id": "bluesquadronrookie",
+                "points": 48,
+                "ship": "t70xwing",
+                "upgrades": {
+                    "configuration": [
+                        "integratedsfoils"
+                    ],
+                    "tech": [
+                        "advancedoptics"
+                    ],
+                    "title": [
+                        "blackone"
+                    ]
+                }
+            },
+            {
+                "id": "finn",
+                "points": 29,
+                "ship": "resistancetransportpod",
+                "upgrades": {}
+            },
+            {
+                "id": "greensquadronexpert",
+                "points": 34,
+                "ship": "rz2awing",
+                "upgrades": {}
+            }
+        ],
+        "points": 194,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Name": "Kristoff Sotelo",
+    "Option1": {
+        "faction": "resistance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "rosetico",
+                "points": 40,
+                "ship": "resistancetransportpod",
+                "upgrades": {
+                    "modification": [
+                        "stealthdevice"
+                    ],
+                    "talent": [
+                        "experthandling"
+                    ],
+                    "tech": [
+                        "targetingsynchronizer"
+                    ]
+                }
+            },
+            {
+                "id": "greersonnel",
+                "points": 44,
+                "ship": "rz2awing",
+                "upgrades": {
+                    "talent": [
+                        "intimidation"
+                    ],
+                    "tech": [
+                        "patternanalyzer"
+                    ]
+                }
+            },
+            {
+                "id": "bluesquadronrookie",
+                "points": 48,
+                "ship": "t70xwing",
+                "upgrades": {
+                    "configuration": [
+                        "integratedsfoils"
+                    ],
+                    "tech": [
+                        "advancedoptics"
+                    ],
+                    "title": [
+                        "blackone"
+                    ]
+                }
+            },
+            {
+                "id": "finn",
+                "points": 29,
+                "ship": "resistancetransportpod",
+                "upgrades": {}
+            },
+            {
+                "id": "greensquadronexpert",
+                "points": 34,
+                "ship": "rz2awing",
+                "upgrades": {}
+            }
+        ],
+        "points": 195,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Option2": {
+        "faction": "galacticempire",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "coloneljendon",
+                "points": 67,
+                "ship": "lambdaclasst4ashuttle",
+                "upgrades": {
+                    "cannon": [
+                        "tractorbeam"
+                    ],
+                    "crew": [
+                        "freelanceslicer",
+                        "seventhsister"
+                    ],
+                    "title": [
+                        "st321"
+                    ]
+                }
+            },
+            {
+                "id": "redline",
+                "points": 75,
+                "ship": "tiecapunisher",
+                "upgrades": {
+                    "device": [
+                        "connernets"
+                    ],
+                    "gunner": [
+                        "fifthbrother"
+                    ],
+                    "sensor": [
+                        "trajectorysimulator"
+                    ]
+                }
+            },
+            {
+                "id": "vizier",
+                "points": 55,
+                "ship": "tiereaper",
+                "upgrades": {
+                    "crew": [
+                        "gnkgonkdroid"
+                    ]
+                }
+            }
+        ],
+        "points": 197,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "TTT": "Kristoff Sote",
+    "VassalForm1": "Kris Sote",
+    "VassalForm2": "Kris Sote"
+}

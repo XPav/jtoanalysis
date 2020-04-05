@@ -1,0 +1,189 @@
+{
+    "Add": "R2 Astromech to Ric Olie",
+    "Discord": "Chemical_Jedi",
+    "Drop": "R2-A6 from Bravo Flight Officer N1",
+    "Final": {
+        "faction": "galacticrepublic",
+        "name": "Kevin Brimage JTO",
+        "pilots": [
+            {
+                "id": "bravoflightofficer",
+                "points": 42,
+                "ship": "nabooroyaln1starfighter",
+                "upgrades": {
+                    "sensor": [
+                        "passivesensors"
+                    ],
+                    "torpedo": [
+                        "iontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "ricolie",
+                "points": 56,
+                "ship": "nabooroyaln1starfighter",
+                "upgrades": {
+                    "astromech": [
+                        "r2astromech"
+                    ],
+                    "talent": [
+                        "crackshot"
+                    ],
+                    "torpedo": [
+                        "advprotontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "saeseetiin",
+                "points": 49,
+                "ship": "delta7aethersprite",
+                "upgrades": {
+                    "astromech": [
+                        "r3astromech"
+                    ],
+                    "configuration": [
+                        "calibratedlasertargeting"
+                    ]
+                }
+            },
+            {
+                "id": "luminaraunduli",
+                "points": 52,
+                "ship": "delta7aethersprite",
+                "upgrades": {
+                    "astromech": [
+                        "r2astromech"
+                    ]
+                }
+            }
+        ],
+        "points": 199,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Name": "Kevin Brimage",
+    "Option1": {
+        "faction": "rebelalliance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "kylekatarn",
+                "points": 77,
+                "ship": "hwk290lightfreighter",
+                "upgrades": {
+                    "crew": [
+                        "leiaorgana"
+                    ],
+                    "device": [
+                        "proximitymines"
+                    ],
+                    "modification": [
+                        "munitionsfailsafe",
+                        "shieldupgrade"
+                    ],
+                    "talent": [
+                        "lonewolf"
+                    ],
+                    "title": [
+                        "moldycrow"
+                    ]
+                }
+            },
+            {
+                "id": "wardensquadronpilot",
+                "points": 46,
+                "ship": "btls8kwing",
+                "upgrades": {
+                    "gunner": [
+                        "agilegunner"
+                    ]
+                }
+            },
+            {
+                "id": "ezrabridger-tielnfighter",
+                "points": 39,
+                "ship": "tielnfighter",
+                "upgrades": {
+                    "force-power": [
+                        "supernaturalreflexes"
+                    ]
+                }
+            },
+            {
+                "id": "evaanverlaine",
+                "points": 35,
+                "ship": "btla4ywing",
+                "upgrades": {}
+            }
+        ],
+        "points": 197,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Option2": {
+        "faction": "galacticrepublic",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "bravoflightofficer",
+                "points": 48,
+                "ship": "nabooroyaln1starfighter",
+                "upgrades": {
+                    "astromech": [
+                        "r2a6"
+                    ],
+                    "sensor": [
+                        "passivesensors"
+                    ],
+                    "torpedo": [
+                        "iontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "ricolie",
+                "points": 49,
+                "ship": "nabooroyaln1starfighter",
+                "upgrades": {
+                    "talent": [
+                        "crackshot"
+                    ],
+                    "torpedo": [
+                        "advprotontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "saeseetiin",
+                "points": 49,
+                "ship": "delta7aethersprite",
+                "upgrades": {
+                    "astromech": [
+                        "r3astromech"
+                    ],
+                    "configuration": [
+                        "calibratedlasertargeting"
+                    ]
+                }
+            },
+            {
+                "id": "luminaraunduli",
+                "points": 52,
+                "ship": "delta7aethersprite",
+                "upgrades": {
+                    "astromech": [
+                        "r2astromech"
+                    ]
+                }
+            }
+        ],
+        "points": 198,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "TTT": "Kevin Brimage",
+    "VassalForm1": "Chemical Jedi",
+    "VassalForm2": "Chemical Jedi"
+}

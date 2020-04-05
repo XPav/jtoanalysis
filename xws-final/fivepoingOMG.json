@@ -1,0 +1,182 @@
+{
+    "Add": "CLT to Anakin",
+    "Discord": "fivepointOMG#1137",
+    "Drop": "Electronic Baffle from Tucker",
+    "Final": {
+        "faction": "galacticrepublic",
+        "name": "Five point Jank",
+        "pilots": [
+            {
+                "id": "tucker",
+                "points": 34,
+                "ship": "v19torrentstarfighter",
+                "upgrades": {
+                    "missile": [
+                        "clustermissiles"
+                    ]
+                }
+            },
+            {
+                "id": "axe",
+                "points": 44,
+                "ship": "v19torrentstarfighter",
+                "upgrades": {
+                    "missile": [
+                        "magpulsewarheads"
+                    ],
+                    "talent": [
+                        "outmaneuver"
+                    ]
+                }
+            },
+            {
+                "id": "anakinskywalker",
+                "points": 71,
+                "ship": "delta7aethersprite",
+                "upgrades": {
+                    "configuration": [
+                        "calibratedlasertargeting"
+                    ],
+                    "force-power": [
+                        "foresight"
+                    ]
+                }
+            },
+            {
+                "id": "oddball-btlbywing",
+                "points": 49,
+                "ship": "btlbywing",
+                "upgrades": {
+                    "astromech": [
+                        "r4p44"
+                    ]
+                }
+            }
+        ],
+        "points": 198,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Name": "Kyle Kenyon",
+    "Option1": {
+        "faction": "resistance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "resistancesympathizer",
+                "points": 80,
+                "ship": "scavengedyt1300",
+                "upgrades": {
+                    "gunner": [
+                        "paigetico"
+                    ],
+                    "missile": [
+                        "clustermissiles"
+                    ],
+                    "modification": [
+                        "staticdischargevanes"
+                    ],
+                    "title": [
+                        "reysmillenniumfalcon"
+                    ]
+                }
+            },
+            {
+                "id": "kazudaxiono",
+                "points": 58,
+                "ship": "fireball",
+                "upgrades": {
+                    "astromech": [
+                        "r5astromech"
+                    ],
+                    "missile": [
+                        "magpulsewarheads"
+                    ],
+                    "modification": [
+                        "staticdischargevanes"
+                    ],
+                    "title": [
+                        "kazsfireball"
+                    ]
+                }
+            },
+            {
+                "id": "r1j5",
+                "points": 32,
+                "ship": "fireball",
+                "upgrades": {
+                    "illicit": [
+                        "feedbackarray"
+                    ]
+                }
+            },
+            {
+                "id": "colossusstationmechanic",
+                "points": 26,
+                "ship": "fireball",
+                "upgrades": {}
+            }
+        ],
+        "points": 196,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Option2": {
+        "faction": "galacticrepublic",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "tucker",
+                "points": 36,
+                "ship": "v19torrentstarfighter",
+                "upgrades": {
+                    "missile": [
+                        "clustermissiles"
+                    ],
+                    "modification": [
+                        "electronicbaffle"
+                    ]
+                }
+            },
+            {
+                "id": "axe",
+                "points": 44,
+                "ship": "v19torrentstarfighter",
+                "upgrades": {
+                    "missile": [
+                        "magpulsewarheads"
+                    ],
+                    "talent": [
+                        "outmaneuver"
+                    ]
+                }
+            },
+            {
+                "id": "anakinskywalker",
+                "points": 66,
+                "ship": "delta7aethersprite",
+                "upgrades": {
+                    "force-power": [
+                        "foresight"
+                    ]
+                }
+            },
+            {
+                "id": "oddball-btlbywing",
+                "points": 49,
+                "ship": "btlbywing",
+                "upgrades": {
+                    "astromech": [
+                        "r4p44"
+                    ]
+                }
+            }
+        ],
+        "points": 195,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "TTT": "Kyle Kenyon",
+    "VassalForm1": "fivepoingOMG",
+    "VassalForm2": "fivepointOMG"
+}

@@ -1,0 +1,145 @@
+{
+    "Add": "Special Forces Gunner to Quick Draw ",
+    "Discord": "Shutabyss",
+    "Drop": "Advance Sensors from Captain Phasma ",
+    "Final": {
+        "faction": "firstorder",
+        "name": "208th Special Forces Strike Group \"Specter\"",
+        "pilots": [
+            {
+                "id": "captainphasma",
+                "points": 41,
+                "ship": "tiesffighter",
+                "upgrades": {
+                    "talent": [
+                        "fanatical"
+                    ]
+                }
+            },
+            {
+                "id": "majorstridan",
+                "points": 70,
+                "ship": "upsilonclasscommandshuttle",
+                "upgrades": {
+                    "tech": [
+                        "deuteriumpowercells"
+                    ]
+                }
+            },
+            {
+                "id": "omegasquadronexpert",
+                "points": 34,
+                "ship": "tiesffighter",
+                "upgrades": {}
+            },
+            {
+                "id": "quickdraw",
+                "points": 55,
+                "ship": "tiesffighter",
+                "upgrades": {
+                    "gunner": [
+                        "specialforcesgunner"
+                    ]
+                }
+            }
+        ],
+        "points": 200,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Name": "Aaron Czajkowski",
+    "Option1": {
+        "faction": "firstorder",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "captainphasma",
+                "points": 51,
+                "ship": "tiesffighter",
+                "upgrades": {
+                    "sensor": [
+                        "advancedsensors"
+                    ],
+                    "talent": [
+                        "fanatical"
+                    ]
+                }
+            },
+            {
+                "id": "majorstridan",
+                "points": 70,
+                "ship": "upsilonclasscommandshuttle",
+                "upgrades": {
+                    "tech": [
+                        "deuteriumpowercells"
+                    ]
+                }
+            },
+            {
+                "id": "omegasquadronexpert",
+                "points": 34,
+                "ship": "tiesffighter",
+                "upgrades": {}
+            },
+            {
+                "id": "quickdraw",
+                "points": 45,
+                "ship": "tiesffighter",
+                "upgrades": {}
+            }
+        ],
+        "points": 200,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Option2": {
+        "faction": "galacticrepublic",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "shadowsquadronveteran",
+                "points": 49,
+                "ship": "btlbywing",
+                "upgrades": {
+                    "astromech": [
+                        "r2c4"
+                    ],
+                    "modification": [
+                        "staticdischargevanes"
+                    ],
+                    "torpedo": [
+                        "iontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "oddball-arc170starfighter",
+                "points": 57,
+                "ship": "arc170starfighter",
+                "upgrades": {
+                    "modification": [
+                        "ablativeplating"
+                    ]
+                }
+            },
+            {
+                "id": "anakinskywalker",
+                "points": 62,
+                "ship": "delta7aethersprite",
+                "upgrades": {}
+            },
+            {
+                "id": "goji",
+                "points": 32,
+                "ship": "btlbywing",
+                "upgrades": {}
+            }
+        ],
+        "points": 200,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "TTT": "Aaron Czajkowski",
+    "VassalForm1": "Shutabyss",
+    "VassalForm2": "Shutabyss"
+}

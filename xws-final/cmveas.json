@@ -1,0 +1,174 @@
+{
+    "Add": "Fearless to the Skull Squadron Pilot",
+    "Discord": "cmveas",
+    "Drop": "Ion Torpedo from the Skull Squadron Pilot",
+    "Final": {
+        "faction": "scumandvillainy",
+        "name": "Claudio Veas JTO",
+        "pilots": [
+            {
+                "id": "ig88b",
+                "points": 63,
+                "ship": "aggressorassaultfighter",
+                "upgrades": {
+                    "cannon": [
+                        "jammingbeam"
+                    ]
+                }
+            },
+            {
+                "id": "jakkugunrunner",
+                "points": 32,
+                "ship": "quadrijettransferspacetug",
+                "upgrades": {
+                    "modification": [
+                        "electronicbaffle"
+                    ]
+                }
+            },
+            {
+                "id": "serissu",
+                "points": 47,
+                "ship": "m3ainterceptor",
+                "upgrades": {
+                    "torpedo": [
+                        "iontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "skullsquadronpilot",
+                "points": 50,
+                "ship": "fangfighter",
+                "upgrades": {
+                    "talent": [
+                        "fearless"
+                    ]
+                }
+            }
+        ],
+        "points": 192,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Name": "Claudio Veas",
+    "Option1": {
+        "faction": "galacticrepublic",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "redsquadronbomber",
+                "points": 60,
+                "ship": "btlbywing",
+                "upgrades": {
+                    "astromech": [
+                        "r4pastromech"
+                    ],
+                    "gunner": [
+                        "agilegunner"
+                    ],
+                    "modification": [
+                        "staticdischargevanes"
+                    ],
+                    "torpedo": [
+                        "plasmatorpedoes"
+                    ],
+                    "turret": [
+                        "dorsalturret"
+                    ]
+                }
+            },
+            {
+                "id": "axe",
+                "points": 40,
+                "ship": "v19torrentstarfighter",
+                "upgrades": {
+                    "missile": [
+                        "concussionmissiles"
+                    ],
+                    "modification": [
+                        "munitionsfailsafe"
+                    ],
+                    "talent": [
+                        "composure"
+                    ]
+                }
+            },
+            {
+                "id": "padmeamidala",
+                "points": 46,
+                "ship": "nabooroyaln1starfighter",
+                "upgrades": {
+                    "talent": [
+                        "marksmanship"
+                    ]
+                }
+            },
+            {
+                "id": "oddball-btlbywing",
+                "points": 49,
+                "ship": "btlbywing",
+                "upgrades": {
+                    "talent": [
+                        "saturationsalvo"
+                    ]
+                }
+            }
+        ],
+        "points": 195,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Option2": {
+        "faction": "scumandvillainy",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "ig88b",
+                "points": 63,
+                "ship": "aggressorassaultfighter",
+                "upgrades": {
+                    "cannon": [
+                        "jammingbeam"
+                    ]
+                }
+            },
+            {
+                "id": "jakkugunrunner",
+                "points": 32,
+                "ship": "quadrijettransferspacetug",
+                "upgrades": {
+                    "modification": [
+                        "electronicbaffle"
+                    ]
+                }
+            },
+            {
+                "id": "serissu",
+                "points": 47,
+                "ship": "m3ainterceptor",
+                "upgrades": {
+                    "torpedo": [
+                        "iontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "skullsquadronpilot",
+                "points": 53,
+                "ship": "fangfighter",
+                "upgrades": {
+                    "torpedo": [
+                        "iontorpedoes"
+                    ]
+                }
+            }
+        ],
+        "points": 195,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "TTT": "Claudio Veas",
+    "VassalForm1": "cmveas",
+    "VassalForm2": "cmveas"
+}

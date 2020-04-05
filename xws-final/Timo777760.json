@@ -1,0 +1,160 @@
+{
+    "Add": "Barrage Rockets on Jonus  (+8)",
+    "Discord": "Timo7777#4422",
+    "Drop": "HLC from OGP (-5)",
+    "Final": {
+        "faction": "galacticempire",
+        "name": "Timo Hetzel JTO",
+        "pilots": [
+            {
+                "id": "soontirfel",
+                "points": 53,
+                "ship": "tieininterceptor",
+                "upgrades": {}
+            },
+            {
+                "id": "captainjonus",
+                "points": 68,
+                "ship": "tiesabomber",
+                "upgrades": {
+                    "device": [
+                        "proximitymines"
+                    ],
+                    "missile": [
+                        "barragerockets"
+                    ],
+                    "modification": [
+                        "shieldupgrade"
+                    ],
+                    "talent": [
+                        "intimidation"
+                    ]
+                }
+            },
+            {
+                "id": "omicrongrouppilot",
+                "points": 48,
+                "ship": "lambdaclasst4ashuttle",
+                "upgrades": {
+                    "crew": [
+                        "agentkallus"
+                    ]
+                }
+            },
+            {
+                "id": "planetarysentinel",
+                "points": 31,
+                "ship": "tieskstriker",
+                "upgrades": {}
+            }
+        ],
+        "points": 200,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Name": "Timo Hetzel",
+    "Option1": {
+        "faction": "galacticempire",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "soontirfel",
+                "points": 53,
+                "ship": "tieininterceptor",
+                "upgrades": {}
+            },
+            {
+                "id": "captainjonus",
+                "points": 60,
+                "ship": "tiesabomber",
+                "upgrades": {
+                    "device": [
+                        "proximitymines"
+                    ],
+                    "modification": [
+                        "shieldupgrade"
+                    ],
+                    "talent": [
+                        "intimidation"
+                    ]
+                }
+            },
+            {
+                "id": "omicrongrouppilot",
+                "points": 53,
+                "ship": "lambdaclasst4ashuttle",
+                "upgrades": {
+                    "cannon": [
+                        "heavylasercannon"
+                    ],
+                    "crew": [
+                        "agentkallus"
+                    ]
+                }
+            },
+            {
+                "id": "planetarysentinel",
+                "points": 31,
+                "ship": "tieskstriker",
+                "upgrades": {}
+            }
+        ],
+        "points": 197,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Option2": {
+        "faction": "rebelalliance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "hansolo-modifiedyt1300lightfreighter",
+                "points": 92,
+                "ship": "modifiedyt1300lightfreighter",
+                "upgrades": {
+                    "crew": [
+                        "cassianandor"
+                    ],
+                    "modification": [
+                        "tacticalscrambler"
+                    ],
+                    "talent": [
+                        "marksmanship"
+                    ],
+                    "title": [
+                        "millenniumfalcon"
+                    ]
+                }
+            },
+            {
+                "id": "zeborrelios",
+                "points": 33,
+                "ship": "attackshuttle",
+                "upgrades": {
+                    "crew": [
+                        "chopper-crew"
+                    ],
+                    "title": [
+                        "phantom"
+                    ]
+                }
+            },
+            {
+                "id": "corranhorn",
+                "points": 72,
+                "ship": "ewing",
+                "upgrades": {
+                    "sensor": [
+                        "collisiondetector"
+                    ]
+                }
+            }
+        ],
+        "points": 197,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "TTT": "Timo Hetzel",
+    "VassalForm1": "Timo777760",
+    "VassalForm2": "Timo777760"
+}

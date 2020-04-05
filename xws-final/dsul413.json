@@ -1,0 +1,179 @@
+{
+    "Add": "Special Forces Gunner to Lt LeHuse",
+    "Discord": "dsul413 #7711",
+    "Drop": "Trajectory Simulator from Omega Squadron Expert",
+    "Final": {
+        "faction": "firstorder",
+        "name": "Daniel Sullivan JTO",
+        "pilots": [
+            {
+                "id": "firstorderprovocateur",
+                "points": 61,
+                "ship": "tiebainterceptor",
+                "upgrades": {
+                    "missile": [
+                        "protonrockets"
+                    ],
+                    "tech": [
+                        "deuteriumpowercells"
+                    ]
+                }
+            },
+            {
+                "id": "midnight",
+                "points": 49,
+                "ship": "tiefofighter",
+                "upgrades": {
+                    "modification": [
+                        "munitionsfailsafe"
+                    ],
+                    "tech": [
+                        "targetingsynchronizer"
+                    ]
+                }
+            },
+            {
+                "id": "omegasquadronexpert",
+                "points": 40,
+                "ship": "tiesffighter",
+                "upgrades": {
+                    "modification": [
+                        "shieldupgrade"
+                    ]
+                }
+            },
+            {
+                "id": "lieutenantlehuse",
+                "points": 49,
+                "ship": "tiesffighter",
+                "upgrades": {
+                    "gunner": [
+                        "specialforcesgunner"
+                    ]
+                }
+            }
+        ],
+        "points": 199,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Name": "Daniel Sullivan",
+    "Option1": {
+        "faction": "firstorder",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "firstorderprovocateur",
+                "points": 61,
+                "ship": "tiebainterceptor",
+                "upgrades": {
+                    "missile": [
+                        "protonrockets"
+                    ],
+                    "tech": [
+                        "deuteriumpowercells"
+                    ]
+                }
+            },
+            {
+                "id": "midnight",
+                "points": 49,
+                "ship": "tiefofighter",
+                "upgrades": {
+                    "modification": [
+                        "munitionsfailsafe"
+                    ],
+                    "tech": [
+                        "targetingsynchronizer"
+                    ]
+                }
+            },
+            {
+                "id": "omegasquadronexpert",
+                "points": 46,
+                "ship": "tiesffighter",
+                "upgrades": {
+                    "modification": [
+                        "shieldupgrade"
+                    ],
+                    "sensor": [
+                        "trajectorysimulator"
+                    ]
+                }
+            },
+            {
+                "id": "lieutenantlehuse",
+                "points": 39,
+                "ship": "tiesffighter",
+                "upgrades": {}
+            }
+        ],
+        "points": 195,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Option2": {
+        "faction": "separatistalliance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "dfs311",
+                "points": 35,
+                "ship": "vultureclassdroidfighter",
+                "upgrades": {
+                    "configuration": [
+                        "grapplingstruts"
+                    ],
+                    "missile": [
+                        "energyshellcharges"
+                    ],
+                    "modification": [
+                        "staticdischargevanes"
+                    ]
+                }
+            },
+            {
+                "id": "wattambor",
+                "points": 47,
+                "ship": "belbullab22starfighter",
+                "upgrades": {
+                    "tacticalrelay": [
+                        "tv94"
+                    ]
+                }
+            },
+            {
+                "id": "066",
+                "points": 66,
+                "ship": "sithinfiltrator",
+                "upgrades": {
+                    "cannon": [
+                        "jammingbeam"
+                    ],
+                    "modification": [
+                        "staticdischargevanes"
+                    ],
+                    "torpedo": [
+                        "plasmatorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "captainsear",
+                "points": 51,
+                "ship": "belbullab22starfighter",
+                "upgrades": {
+                    "modification": [
+                        "stealthdevice"
+                    ]
+                }
+            }
+        ],
+        "points": 199,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "TTT": "Daniel Sullivan",
+    "VassalForm1": "dsul413",
+    "VassalForm2": "dsul413"
+}

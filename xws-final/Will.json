@@ -1,0 +1,195 @@
+{
+    "Add": "Fifth Brother Tie Striker ",
+    "Discord": "Scooter8709#5600",
+    "Drop": "Stealth Device from Tie Interceptor",
+    "Final": {
+        "faction": "galacticempire",
+        "name": "William Scott JTO",
+        "obstacles": [
+            "gascloud4",
+            "gascloud5",
+            "gascloud6"
+        ],
+        "pilots": [
+            {
+                "id": "deltasquadronpilot",
+                "points": 72,
+                "ship": "tieddefender",
+                "upgrades": {
+                    "missile": [
+                        "homingmissiles"
+                    ]
+                }
+            },
+            {
+                "id": "puresabacc",
+                "points": 59,
+                "ship": "tieskstriker",
+                "upgrades": {
+                    "device": [
+                        "seismiccharges"
+                    ],
+                    "gunner": [
+                        "fifthbrother"
+                    ],
+                    "talent": [
+                        "ruthless"
+                    ]
+                }
+            },
+            {
+                "id": "lieutenantkestal",
+                "points": 36,
+                "ship": "tieagaggressor",
+                "upgrades": {
+                    "missile": [
+                        "homingmissiles"
+                    ]
+                }
+            },
+            {
+                "id": "alphasquadronpilot",
+                "points": 31,
+                "ship": "tieininterceptor",
+                "upgrades": {}
+            }
+        ],
+        "points": 198,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Name": "William Scott",
+    "Option1": {
+        "faction": "galacticempire",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "deltasquadronpilot",
+                "points": 72,
+                "ship": "tieddefender",
+                "upgrades": {
+                    "missile": [
+                        "homingmissiles"
+                    ]
+                }
+            },
+            {
+                "id": "puresabacc",
+                "points": 48,
+                "ship": "tieskstriker",
+                "upgrades": {
+                    "device": [
+                        "seismiccharges"
+                    ],
+                    "talent": [
+                        "ruthless"
+                    ]
+                }
+            },
+            {
+                "id": "lieutenantkestal",
+                "points": 36,
+                "ship": "tieagaggressor",
+                "upgrades": {
+                    "missile": [
+                        "homingmissiles"
+                    ]
+                }
+            },
+            {
+                "id": "alphasquadronpilot",
+                "points": 39,
+                "ship": "tieininterceptor",
+                "upgrades": {
+                    "modification": [
+                        "stealthdevice"
+                    ]
+                }
+            }
+        ],
+        "points": 195,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Option2": {
+        "faction": "resistance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "kazudaxiono",
+                "points": 64,
+                "ship": "fireball",
+                "upgrades": {
+                    "illicit": [
+                        "coaxiumhyperfuel"
+                    ],
+                    "missile": [
+                        "concussionmissiles"
+                    ],
+                    "modification": [
+                        "staticdischargevanes",
+                        "munitionsfailsafe"
+                    ],
+                    "talent": [
+                        "snapshot"
+                    ],
+                    "title": [
+                        "kazsfireball"
+                    ]
+                }
+            },
+            {
+                "id": "logisticsdivisionpilot",
+                "points": 45,
+                "ship": "resistancetransport",
+                "upgrades": {
+                    "astromech": [
+                        "r1j5"
+                    ],
+                    "modification": [
+                        "delayedfuses"
+                    ],
+                    "torpedo": [
+                        "iontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "zaribangel",
+                "points": 43,
+                "ship": "rz2awing",
+                "upgrades": {
+                    "talent": [
+                        "predator",
+                        "composure"
+                    ],
+                    "tech": [
+                        "patternanalyzer"
+                    ]
+                }
+            },
+            {
+                "id": "finn",
+                "points": 45,
+                "ship": "resistancetransportpod",
+                "upgrades": {
+                    "crew": [
+                        "hansolo-crew"
+                    ],
+                    "modification": [
+                        "shieldupgrade"
+                    ],
+                    "tech": [
+                        "primedthrusters"
+                    ]
+                }
+            }
+        ],
+        "points": 197,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "TTT": "William Scott",
+    "VassalForm1": "Will",
+    "VassalForm2": "Will"
+}

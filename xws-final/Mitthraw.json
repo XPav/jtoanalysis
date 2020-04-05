@@ -1,0 +1,181 @@
+{
+    "Add": "Shield Upgrade Holo",
+    "Discord": "Mitthraw#7534",
+    "Drop": "Agile Gunner from Quickdraw",
+    "Final": {
+        "faction": "firstorder",
+        "name": "Joseph Hegeman JTO",
+        "obstacles": [
+            "coreasteroid5",
+            "core2asteroid3",
+            "core2asteroid5"
+        ],
+        "pilots": [
+            {
+                "id": "quickdraw",
+                "points": 71,
+                "ship": "tiesffighter",
+                "upgrades": {
+                    "missile": [
+                        "ionmissiles"
+                    ],
+                    "sensor": [
+                        "collisiondetector"
+                    ],
+                    "talent": [
+                        "juke"
+                    ],
+                    "tech": [
+                        "deuteriumpowercells"
+                    ]
+                }
+            },
+            {
+                "id": "firstorderprovocateur",
+                "points": 62,
+                "ship": "tiebainterceptor",
+                "upgrades": {
+                    "missile": [
+                        "concussionmissiles"
+                    ],
+                    "modification": [
+                        "shieldupgrade"
+                    ],
+                    "talent": [
+                        "intimidation"
+                    ]
+                }
+            },
+            {
+                "id": "holo",
+                "points": 67,
+                "ship": "tiebainterceptor",
+                "upgrades": {
+                    "modification": [
+                        "shieldupgrade"
+                    ],
+                    "talent": [
+                        "lonewolf"
+                    ]
+                }
+            }
+        ],
+        "points": 200,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Name": "Joseph Hegeman",
+    "Option1": {
+        "faction": "firstorder",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "quickdraw",
+                "points": 79,
+                "ship": "tiesffighter",
+                "upgrades": {
+                    "gunner": [
+                        "agilegunner"
+                    ],
+                    "missile": [
+                        "ionmissiles"
+                    ],
+                    "sensor": [
+                        "collisiondetector"
+                    ],
+                    "talent": [
+                        "juke"
+                    ],
+                    "tech": [
+                        "deuteriumpowercells"
+                    ]
+                }
+            },
+            {
+                "id": "firstorderprovocateur",
+                "points": 62,
+                "ship": "tiebainterceptor",
+                "upgrades": {
+                    "missile": [
+                        "concussionmissiles"
+                    ],
+                    "modification": [
+                        "shieldupgrade"
+                    ],
+                    "talent": [
+                        "intimidation"
+                    ]
+                }
+            },
+            {
+                "id": "holo",
+                "points": 59,
+                "ship": "tiebainterceptor",
+                "upgrades": {
+                    "talent": [
+                        "lonewolf"
+                    ]
+                }
+            }
+        ],
+        "points": 200,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Option2": {
+        "faction": "resistance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "blacksquadronace-t70xwing",
+                "points": 55,
+                "ship": "t70xwing",
+                "upgrades": {
+                    "astromech": [
+                        "bb8"
+                    ],
+                    "configuration": [
+                        "integratedsfoils"
+                    ],
+                    "title": [
+                        "blackone"
+                    ]
+                }
+            },
+            {
+                "id": "finn",
+                "points": 29,
+                "ship": "resistancetransportpod",
+                "upgrades": {}
+            },
+            {
+                "id": "lulolampar",
+                "points": 43,
+                "ship": "rz2awing",
+                "upgrades": {}
+            },
+            {
+                "id": "jarekyeager",
+                "points": 40,
+                "ship": "fireball",
+                "upgrades": {
+                    "missile": [
+                        "protonrockets"
+                    ]
+                }
+            },
+            {
+                "id": "r1j5",
+                "points": 29,
+                "ship": "fireball",
+                "upgrades": {}
+            }
+        ],
+        "points": 196,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "TTT": "Joseph Hegeman",
+    "VassalForm1": "Mitthraw",
+    "VassalForm2": "Mitthraw"
+}

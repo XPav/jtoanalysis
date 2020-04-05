@@ -1,0 +1,183 @@
+{
+    "Add": "special forces gunner to backdraft",
+    "Discord": "Largo#1833",
+    "Drop": "juke from recoil",
+    "Final": {
+        "faction": "firstorder",
+        "name": "Romain Bonnet JTO",
+        "pilots": [
+            {
+                "id": "lieutenantrivas",
+                "points": 35,
+                "ship": "tiefofighter",
+                "upgrades": {
+                    "modification": [
+                        "targetingcomputer"
+                    ],
+                    "tech": [
+                        "patternanalyzer"
+                    ]
+                }
+            },
+            {
+                "id": "recoil",
+                "points": 71,
+                "ship": "tievnsilencer",
+                "upgrades": {
+                    "tech": [
+                        "primedthrusters"
+                    ],
+                    "torpedo": [
+                        "advprotontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "backdraft",
+                "points": 59,
+                "ship": "tiesffighter",
+                "upgrades": {
+                    "gunner": [
+                        "specialforcesgunner"
+                    ],
+                    "sensor": [
+                        "advancedsensors"
+                    ]
+                }
+            },
+            {
+                "id": "static",
+                "points": 33,
+                "ship": "tiefofighter",
+                "upgrades": {}
+            }
+        ],
+        "points": 198,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Name": "Romain Bonnet",
+    "Option1": {
+        "faction": "firstorder",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "lieutenantrivas",
+                "points": 35,
+                "ship": "tiefofighter",
+                "upgrades": {
+                    "modification": [
+                        "targetingcomputer"
+                    ],
+                    "tech": [
+                        "patternanalyzer"
+                    ]
+                }
+            },
+            {
+                "id": "recoil",
+                "points": 78,
+                "ship": "tievnsilencer",
+                "upgrades": {
+                    "talent": [
+                        "juke"
+                    ],
+                    "tech": [
+                        "primedthrusters"
+                    ],
+                    "torpedo": [
+                        "advprotontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "backdraft",
+                "points": 49,
+                "ship": "tiesffighter",
+                "upgrades": {
+                    "sensor": [
+                        "advancedsensors"
+                    ]
+                }
+            },
+            {
+                "id": "static",
+                "points": 33,
+                "ship": "tiefofighter",
+                "upgrades": {}
+            }
+        ],
+        "points": 195,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Option2": {
+        "faction": "resistance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "vimoradi",
+                "points": 27,
+                "ship": "resistancetransportpod",
+                "upgrades": {}
+            },
+            {
+                "id": "bb8",
+                "points": 31,
+                "ship": "resistancetransportpod",
+                "upgrades": {
+                    "talent": [
+                        "crackshot"
+                    ],
+                    "tech": [
+                        "advancedoptics"
+                    ]
+                }
+            },
+            {
+                "id": "ronithblario",
+                "points": 40,
+                "ship": "rz2awing",
+                "upgrades": {
+                    "missile": [
+                        "homingmissiles"
+                    ],
+                    "talent": [
+                        "composure"
+                    ]
+                }
+            },
+            {
+                "id": "pammichnerrogoode",
+                "points": 59,
+                "ship": "resistancetransport",
+                "upgrades": {
+                    "astromech": [
+                        "r5astromech"
+                    ],
+                    "cannon": [
+                        "tractorbeam"
+                    ],
+                    "crew": [
+                        "gnkgonkdroid"
+                    ],
+                    "torpedo": [
+                        "advprotontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "kazudaxiono",
+                "points": 40,
+                "ship": "fireball",
+                "upgrades": {}
+            }
+        ],
+        "points": 197,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "TTT": "Romain Bonnet",
+    "VassalForm1": "Largo12",
+    "VassalForm2": "Largo12"
+}

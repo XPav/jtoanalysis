@@ -1,0 +1,197 @@
+{
+    "Add": "Seismic Charge to BTLB Pilot Shadow Squadron Veteran",
+    "Discord": "Targaradude  #5346",
+    "Drop": "Swarm Tactics from v19 Pilot  \"Axe\"",
+    "Final": {
+        "faction": "galacticrepublic",
+        "name": "Charles Fletcher JTO",
+        "pilots": [
+            {
+                "id": "broadside",
+                "points": 57,
+                "ship": "btlbywing",
+                "upgrades": {
+                    "astromech": [
+                        "r5astromech"
+                    ],
+                    "modification": [
+                        "synchronizedconsole"
+                    ],
+                    "talent": [
+                        "predator"
+                    ],
+                    "torpedo": [
+                        "plasmatorpedoes"
+                    ],
+                    "turret": [
+                        "ioncannonturret"
+                    ]
+                }
+            },
+            {
+                "id": "tucker",
+                "points": 29,
+                "ship": "v19torrentstarfighter",
+                "upgrades": {}
+            },
+            {
+                "id": "axe",
+                "points": 37,
+                "ship": "v19torrentstarfighter",
+                "upgrades": {
+                    "missile": [
+                        "clustermissiles"
+                    ]
+                }
+            },
+            {
+                "id": "shadowsquadronveteran",
+                "points": 50,
+                "ship": "btlbywing",
+                "upgrades": {
+                    "astromech": [
+                        "r3astromech"
+                    ],
+                    "device": [
+                        "seismiccharges"
+                    ],
+                    "torpedo": [
+                        "plasmatorpedoes"
+                    ],
+                    "turret": [
+                        "dorsalturret"
+                    ]
+                }
+            },
+            {
+                "id": "bluesquadronprotector",
+                "points": 27,
+                "ship": "v19torrentstarfighter",
+                "upgrades": {}
+            }
+        ],
+        "points": 200,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Name": "Charles Fletcher III",
+    "Option1": {
+        "faction": "scumandvillainy",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "talonbanecobra",
+                "points": 50,
+                "ship": "kihraxzfighter",
+                "upgrades": {}
+            },
+            {
+                "id": "4lom",
+                "points": 57,
+                "ship": "g1astarfighter",
+                "upgrades": {
+                    "crew": [
+                        "perceptivecopilot"
+                    ]
+                }
+            },
+            {
+                "id": "ndrusuhlak",
+                "points": 30,
+                "ship": "z95af4headhunter",
+                "upgrades": {}
+            },
+            {
+                "id": "solsixxa",
+                "points": 63,
+                "ship": "scurrgh6bomber",
+                "upgrades": {
+                    "gunner": [
+                        "bossk"
+                    ],
+                    "talent": [
+                        "juke"
+                    ]
+                }
+            }
+        ],
+        "points": 200,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Option2": {
+        "faction": "galacticrepublic",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "broadside",
+                "points": 57,
+                "ship": "btlbywing",
+                "upgrades": {
+                    "astromech": [
+                        "r5astromech"
+                    ],
+                    "modification": [
+                        "synchronizedconsole"
+                    ],
+                    "talent": [
+                        "predator"
+                    ],
+                    "torpedo": [
+                        "plasmatorpedoes"
+                    ],
+                    "turret": [
+                        "ioncannonturret"
+                    ]
+                }
+            },
+            {
+                "id": "tucker",
+                "points": 29,
+                "ship": "v19torrentstarfighter",
+                "upgrades": {}
+            },
+            {
+                "id": "axe",
+                "points": 40,
+                "ship": "v19torrentstarfighter",
+                "upgrades": {
+                    "missile": [
+                        "clustermissiles"
+                    ],
+                    "talent": [
+                        "swarmtactics"
+                    ]
+                }
+            },
+            {
+                "id": "shadowsquadronveteran",
+                "points": 47,
+                "ship": "btlbywing",
+                "upgrades": {
+                    "astromech": [
+                        "r3astromech"
+                    ],
+                    "torpedo": [
+                        "plasmatorpedoes"
+                    ],
+                    "turret": [
+                        "dorsalturret"
+                    ]
+                }
+            },
+            {
+                "id": "bluesquadronprotector",
+                "points": 27,
+                "ship": "v19torrentstarfighter",
+                "upgrades": {}
+            }
+        ],
+        "points": 200,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "TTT": "Charles Fletcher III",
+    "VassalForm1": "Targaradude",
+    "VassalForm2": "Targaradude"
+}

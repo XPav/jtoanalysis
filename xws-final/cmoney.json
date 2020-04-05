@@ -1,0 +1,175 @@
+{
+    "Add": "Concussion missles to the Tie/sf Fighter",
+    "Discord": "cmoney#3209",
+    "Drop": "Proton Rockets from Tie/sf Fighter",
+    "Final": {
+        "faction": "firstorder",
+        "name": "cmoney JTO",
+        "obstacles": [
+            "gascloud4",
+            "gascloud5",
+            "gascloud6"
+        ],
+        "pilots": [
+            {
+                "id": "majorvonreg",
+                "points": 71,
+                "ship": "tiebainterceptor",
+                "upgrades": {
+                    "modification": [
+                        "shieldupgrade"
+                    ],
+                    "talent": [
+                        "daredevil"
+                    ],
+                    "tech": [
+                        "advancedoptics"
+                    ]
+                }
+            },
+            {
+                "id": "lieutenantlehuse",
+                "points": 71,
+                "ship": "tiesffighter",
+                "upgrades": {
+                    "gunner": [
+                        "hotshotgunner"
+                    ],
+                    "missile": [
+                        "concussionmissiles"
+                    ],
+                    "sensor": [
+                        "collisiondetector"
+                    ],
+                    "talent": [
+                        "trickshot"
+                    ],
+                    "tech": [
+                        "primedthrusters"
+                    ]
+                }
+            },
+            {
+                "id": "muse",
+                "points": 30,
+                "ship": "tiefofighter",
+                "upgrades": {}
+            },
+            {
+                "id": "zetasquadronpilot",
+                "points": 26,
+                "ship": "tiefofighter",
+                "upgrades": {}
+            }
+        ],
+        "points": 198,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Name": "Chris",
+    "Option1": {
+        "faction": "firstorder",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "majorvonreg",
+                "points": 71,
+                "ship": "tiebainterceptor",
+                "upgrades": {
+                    "modification": [
+                        "shieldupgrade"
+                    ],
+                    "talent": [
+                        "daredevil"
+                    ],
+                    "tech": [
+                        "advancedoptics"
+                    ]
+                }
+            },
+            {
+                "id": "zetasquadronpilot",
+                "points": 26,
+                "ship": "tiefofighter",
+                "upgrades": {}
+            },
+            {
+                "id": "lieutenantlehuse",
+                "points": 72,
+                "ship": "tiesffighter",
+                "upgrades": {
+                    "gunner": [
+                        "hotshotgunner"
+                    ],
+                    "missile": [
+                        "protonrockets"
+                    ],
+                    "sensor": [
+                        "collisiondetector"
+                    ],
+                    "talent": [
+                        "trickshot"
+                    ],
+                    "tech": [
+                        "primedthrusters"
+                    ]
+                }
+            },
+            {
+                "id": "muse",
+                "points": 30,
+                "ship": "tiefofighter",
+                "upgrades": {}
+            }
+        ],
+        "points": 199,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Option2": {
+        "faction": "galacticrepublic",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "naboohandmaiden",
+                "points": 44,
+                "ship": "nabooroyaln1starfighter",
+                "upgrades": {
+                    "astromech": [
+                        "r4astromech"
+                    ]
+                }
+            },
+            {
+                "id": "redsquadronbomber",
+                "points": 30,
+                "ship": "btlbywing",
+                "upgrades": {}
+            },
+            {
+                "id": "anakinskywalker-nabooroyaln1starfighter",
+                "points": 41,
+                "ship": "nabooroyaln1starfighter",
+                "upgrades": {}
+            },
+            {
+                "id": "wolffe",
+                "points": 50,
+                "ship": "arc170starfighter",
+                "upgrades": {}
+            },
+            {
+                "id": "axe",
+                "points": 32,
+                "ship": "v19torrentstarfighter",
+                "upgrades": {}
+            }
+        ],
+        "points": 197,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "TTT": "Chris Donahue",
+    "VassalForm1": "cmoney",
+    "VassalForm2": "cmoney"
+}

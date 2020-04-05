@@ -1,0 +1,149 @@
+{
+    "Add": "R2 Astromech to Corran Horn",
+    "Discord": "6128",
+    "Drop": "Proton Torpedoes from Garven Dreis",
+    "Final": {
+        "faction": "rebelalliance",
+        "name": "Alex Jean JTO",
+        "obstacles": [
+            "yt2400debris0",
+            "yt2400debris1",
+            "yt2400debris2"
+        ],
+        "pilots": [
+            {
+                "id": "corranhorn",
+                "points": 75,
+                "ship": "ewing",
+                "upgrades": {
+                    "astromech": [
+                        "r2astromech"
+                    ]
+                }
+            },
+            {
+                "id": "garvendreis",
+                "points": 53,
+                "ship": "arc170starfighter",
+                "upgrades": {
+                    "talent": [
+                        "debrisgambit"
+                    ]
+                }
+            },
+            {
+                "id": "greensquadronpilot",
+                "points": 36,
+                "ship": "rz1awing",
+                "upgrades": {
+                    "missile": [
+                        "ionmissiles"
+                    ]
+                }
+            },
+            {
+                "id": "goldsquadronveteran",
+                "points": 32,
+                "ship": "btla4ywing",
+                "upgrades": {}
+            }
+        ],
+        "points": 196,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Name": "Alex Jean",
+    "Option1": {
+        "faction": "rebelalliance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "greensquadronpilot",
+                "points": 36,
+                "ship": "rz1awing",
+                "upgrades": {
+                    "missile": [
+                        "ionmissiles"
+                    ]
+                }
+            },
+            {
+                "id": "garvendreis",
+                "points": 66,
+                "ship": "arc170starfighter",
+                "upgrades": {
+                    "talent": [
+                        "debrisgambit"
+                    ],
+                    "torpedo": [
+                        "protontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "goldsquadronveteran",
+                "points": 32,
+                "ship": "btla4ywing",
+                "upgrades": {}
+            },
+            {
+                "id": "corranhorn",
+                "points": 66,
+                "ship": "ewing",
+                "upgrades": {}
+            }
+        ],
+        "points": 200,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Option2": {
+        "faction": "firstorder",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "null",
+                "points": 39,
+                "ship": "tiefofighter",
+                "upgrades": {
+                    "tech": [
+                        "deuteriumpowercells"
+                    ]
+                }
+            },
+            {
+                "id": "lieutenantdormitz",
+                "points": 102,
+                "ship": "upsilonclasscommandshuttle",
+                "upgrades": {
+                    "cannon": [
+                        "jammingbeam"
+                    ],
+                    "crew": [
+                        "generalhux",
+                        "kyloren"
+                    ],
+                    "modification": [
+                        "munitionsfailsafe"
+                    ],
+                    "tech": [
+                        "advancedoptics",
+                        "hyperspacetrackingdata"
+                    ]
+                }
+            },
+            {
+                "id": "pettyofficerthanisson",
+                "points": 59,
+                "ship": "upsilonclasscommandshuttle",
+                "upgrades": {}
+            }
+        ],
+        "points": 200,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "TTT": "Alex Jean",
+    "VassalForm1": "hockeydude41",
+    "VassalForm2": "hockeydude41"
+}

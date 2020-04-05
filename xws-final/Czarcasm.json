@@ -1,0 +1,187 @@
+{
+    "Add": "Rey to Han Solo",
+    "Discord": "Czarcasm#9120",
+    "Drop": "Electro-Proton Bomb from Cobalt Squadron Bomber",
+    "Final": {
+        "faction": "resistance",
+        "name": "Anthony Hillen JTO",
+        "obstacles": [
+            "coreasteroid3",
+            "coreasteroid4",
+            "core2asteroid3"
+        ],
+        "pilots": [
+            {
+                "id": "bb8",
+                "points": 45,
+                "ship": "resistancetransportpod",
+                "upgrades": {
+                    "crew": [
+                        "rosetico"
+                    ],
+                    "talent": [
+                        "swarmtactics"
+                    ],
+                    "tech": [
+                        "primedthrusters"
+                    ]
+                }
+            },
+            {
+                "id": "hansolo-scavengedyt1300",
+                "points": 91,
+                "ship": "scavengedyt1300",
+                "upgrades": {
+                    "gunner": [
+                        "rey-gunner"
+                    ],
+                    "illicit": [
+                        "deadmansswitch"
+                    ],
+                    "missile": [
+                        "homingmissiles"
+                    ],
+                    "talent": [
+                        "lonewolf"
+                    ]
+                }
+            },
+            {
+                "id": "cobaltsquadronbomber",
+                "points": 64,
+                "ship": "mg100starfortress",
+                "upgrades": {
+                    "device": [
+                        "protonbombs"
+                    ],
+                    "gunner": [
+                        "paigetico"
+                    ]
+                }
+            }
+        ],
+        "points": 200,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Name": "Anthony Hillen",
+    "Option1": {
+        "faction": "resistance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "bb8",
+                "points": 45,
+                "ship": "resistancetransportpod",
+                "upgrades": {
+                    "crew": [
+                        "rosetico"
+                    ],
+                    "talent": [
+                        "swarmtactics"
+                    ],
+                    "tech": [
+                        "primedthrusters"
+                    ]
+                }
+            },
+            {
+                "id": "hansolo-scavengedyt1300",
+                "points": 77,
+                "ship": "scavengedyt1300",
+                "upgrades": {
+                    "illicit": [
+                        "deadmansswitch"
+                    ],
+                    "missile": [
+                        "homingmissiles"
+                    ],
+                    "talent": [
+                        "lonewolf"
+                    ]
+                }
+            },
+            {
+                "id": "cobaltsquadronbomber",
+                "points": 76,
+                "ship": "mg100starfortress",
+                "upgrades": {
+                    "device": [
+                        "electroprotonbomb",
+                        "protonbombs"
+                    ],
+                    "gunner": [
+                        "paigetico"
+                    ]
+                }
+            }
+        ],
+        "points": 198,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Option2": {
+        "faction": "galacticrepublic",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "dineeellberger",
+                "points": 50,
+                "ship": "nabooroyaln1starfighter",
+                "upgrades": {
+                    "sensor": [
+                        "trajectorysimulator"
+                    ],
+                    "torpedo": [
+                        "advprotontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "kickback",
+                "points": 37,
+                "ship": "v19torrentstarfighter",
+                "upgrades": {
+                    "modification": [
+                        "munitionsfailsafe"
+                    ],
+                    "talent": [
+                        "elusive"
+                    ]
+                }
+            },
+            {
+                "id": "naboohandmaiden",
+                "points": 52,
+                "ship": "nabooroyaln1starfighter",
+                "upgrades": {
+                    "astromech": [
+                        "r4pastromech"
+                    ],
+                    "torpedo": [
+                        "advprotontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "oddball-arc170starfighter",
+                "points": 56,
+                "ship": "arc170starfighter",
+                "upgrades": {
+                    "gunner": [
+                        "clonecommandercody"
+                    ],
+                    "talent": [
+                        "composure"
+                    ]
+                }
+            }
+        ],
+        "points": 195,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "TTT": "Anthony Hillen",
+    "VassalForm1": "Czarcasm",
+    "VassalForm2": "Czarcasm"
+}

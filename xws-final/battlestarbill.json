@@ -1,0 +1,165 @@
+{
+    "Add": "barrage rockets to lt kestal ",
+    "Discord": "battlestarbill#8097",
+    "Drop": "remove trajectory simulator from 7th sister",
+    "Final": {
+        "faction": "galacticempire",
+        "name": "Tyler Samplonius JTO",
+        "pilots": [
+            {
+                "id": "turrphennir",
+                "points": 45,
+                "ship": "tieininterceptor",
+                "upgrades": {
+                    "modification": [
+                        "targetingcomputer"
+                    ]
+                }
+            },
+            {
+                "id": "inquisitor",
+                "points": 35,
+                "ship": "tieadvancedv1",
+                "upgrades": {}
+            },
+            {
+                "id": "seventhsister",
+                "points": 48,
+                "ship": "tieadvancedv1",
+                "upgrades": {
+                    "force-power": [
+                        "instinctiveaim"
+                    ],
+                    "missile": [
+                        "ionmissiles"
+                    ]
+                }
+            },
+            {
+                "id": "seynmarana",
+                "points": 30,
+                "ship": "tielnfighter",
+                "upgrades": {}
+            },
+            {
+                "id": "lieutenantkestal",
+                "points": 39,
+                "ship": "tieagaggressor",
+                "upgrades": {
+                    "missile": [
+                        "barragerockets"
+                    ]
+                }
+            }
+        ],
+        "points": 197,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Name": "Tyler Samplonius",
+    "Option1": {
+        "faction": "galacticempire",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "turrphennir",
+                "points": 45,
+                "ship": "tieininterceptor",
+                "upgrades": {
+                    "modification": [
+                        "targetingcomputer"
+                    ]
+                }
+            },
+            {
+                "id": "inquisitor",
+                "points": 35,
+                "ship": "tieadvancedv1",
+                "upgrades": {}
+            },
+            {
+                "id": "seventhsister",
+                "points": 54,
+                "ship": "tieadvancedv1",
+                "upgrades": {
+                    "force-power": [
+                        "instinctiveaim"
+                    ],
+                    "missile": [
+                        "ionmissiles"
+                    ],
+                    "sensor": [
+                        "trajectorysimulator"
+                    ]
+                }
+            },
+            {
+                "id": "seynmarana",
+                "points": 30,
+                "ship": "tielnfighter",
+                "upgrades": {}
+            },
+            {
+                "id": "lieutenantkestal",
+                "points": 31,
+                "ship": "tieagaggressor",
+                "upgrades": {}
+            }
+        ],
+        "points": 195,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Option2": {
+        "faction": "firstorder",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "majorstridan",
+                "points": 85,
+                "ship": "upsilonclasscommandshuttle",
+                "upgrades": {
+                    "cannon": [
+                        "heavylasercannon"
+                    ],
+                    "crew": [
+                        "kyloren",
+                        "novicetechnician",
+                        "freelanceslicer"
+                    ],
+                    "tech": [
+                        "biohexacryptcodes"
+                    ]
+                }
+            },
+            {
+                "id": "firstorderprovocateur",
+                "points": 57,
+                "ship": "tiebainterceptor",
+                "upgrades": {
+                    "missile": [
+                        "homingmissiles"
+                    ],
+                    "modification": [
+                        "afterburners"
+                    ],
+                    "talent": [
+                        "marksmanship"
+                    ]
+                }
+            },
+            {
+                "id": "recoil",
+                "points": 57,
+                "ship": "tievnsilencer",
+                "upgrades": {}
+            }
+        ],
+        "points": 199,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "TTT": "Tyler Samplonius",
+    "VassalForm1": "battlestarbill",
+    "VassalForm2": "battlestarbill"
+}

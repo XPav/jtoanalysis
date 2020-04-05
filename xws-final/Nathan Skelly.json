@@ -1,0 +1,168 @@
+{
+    "Add": "Juke onto Colonel Vessery",
+    "Discord": "Roundy #7077",
+    "Drop": "Proton Rockets on Lieutenant Kestal",
+    "Final": {
+        "faction": "galacticempire",
+        "name": "Nathan Skelly JTO",
+        "pilots": [
+            {
+                "id": "colonelvessery",
+                "points": 98,
+                "ship": "tieddefender",
+                "upgrades": {
+                    "cannon": [
+                        "jammingbeam"
+                    ],
+                    "missile": [
+                        "protonrockets"
+                    ],
+                    "talent": [
+                        "juke"
+                    ]
+                }
+            },
+            {
+                "id": "scourgeskutu",
+                "points": 31,
+                "ship": "tielnfighter",
+                "upgrades": {}
+            },
+            {
+                "id": "lieutenantkestal",
+                "points": 39,
+                "ship": "tieagaggressor",
+                "upgrades": {
+                    "missile": [
+                        "homingmissiles"
+                    ],
+                    "turret": [
+                        "dorsalturret"
+                    ]
+                }
+            },
+            {
+                "id": "delmeeko",
+                "points": 30,
+                "ship": "tielnfighter",
+                "upgrades": {}
+            }
+        ],
+        "points": 198,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Name": "Nathan Skelly",
+    "Option1": {
+        "faction": "galacticempire",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "colonelvessery",
+                "points": 91,
+                "ship": "tieddefender",
+                "upgrades": {
+                    "cannon": [
+                        "jammingbeam"
+                    ],
+                    "missile": [
+                        "protonrockets"
+                    ]
+                }
+            },
+            {
+                "id": "scourgeskutu",
+                "points": 31,
+                "ship": "tielnfighter",
+                "upgrades": {}
+            },
+            {
+                "id": "lieutenantkestal",
+                "points": 46,
+                "ship": "tieagaggressor",
+                "upgrades": {
+                    "missile": [
+                        "homingmissiles",
+                        "protonrockets"
+                    ],
+                    "turret": [
+                        "dorsalturret"
+                    ]
+                }
+            },
+            {
+                "id": "delmeeko",
+                "points": 30,
+                "ship": "tielnfighter",
+                "upgrades": {}
+            }
+        ],
+        "points": 198,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Option2": {
+        "faction": "scumandvillainy",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "princexizor",
+                "points": 71,
+                "ship": "starviperclassattackplatform",
+                "upgrades": {
+                    "modification": [
+                        "stealthdevice"
+                    ],
+                    "torpedo": [
+                        "plasmatorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "landocalrissian-escapecraft",
+                "points": 30,
+                "ship": "escapecraft",
+                "upgrades": {
+                    "modification": [
+                        "delayedfuses"
+                    ]
+                }
+            },
+            {
+                "id": "ahhav",
+                "points": 38,
+                "ship": "modifiedtielnfighter",
+                "upgrades": {
+                    "modification": [
+                        "shieldupgrade"
+                    ]
+                }
+            },
+            {
+                "id": "dacebonearm",
+                "points": 60,
+                "ship": "hwk290lightfreighter",
+                "upgrades": {
+                    "crew": [
+                        "qira"
+                    ],
+                    "device": [
+                        "protonbombs"
+                    ],
+                    "modification": [
+                        "electronicbaffle"
+                    ],
+                    "title": [
+                        "moldycrow"
+                    ]
+                }
+            }
+        ],
+        "points": 199,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "TTT": "Nathan Skelly",
+    "VassalForm1": "Nathan Skelly",
+    "VassalForm2": "Nathan Skelly"
+}

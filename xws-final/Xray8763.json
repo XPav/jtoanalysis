@@ -1,0 +1,166 @@
+{
+    "Add": "Advanced Sensors on Ved Foslo",
+    "Discord": "Xray8763#7766",
+    "Drop": "Remove Advanced Sensors from Storm Squadron Ace",
+    "Final": {
+        "faction": "galacticempire",
+        "name": "Ray Wickham JTO",
+        "pilots": [
+            {
+                "id": "maarekstele",
+                "points": 53,
+                "ship": "tieadvancedx1",
+                "upgrades": {
+                    "missile": [
+                        "protonrockets"
+                    ],
+                    "modification": [
+                        "munitionsfailsafe"
+                    ]
+                }
+            },
+            {
+                "id": "vizier",
+                "points": 54,
+                "ship": "tiereaper",
+                "upgrades": {
+                    "crew": [
+                        "grandmofftarkin"
+                    ],
+                    "modification": [
+                        "targetingcomputer"
+                    ]
+                }
+            },
+            {
+                "id": "vedfoslo",
+                "points": 54,
+                "ship": "tieadvancedx1",
+                "upgrades": {
+                    "sensor": [
+                        "advancedsensors"
+                    ]
+                }
+            },
+            {
+                "id": "stormsquadronace",
+                "points": 39,
+                "ship": "tieadvancedx1",
+                "upgrades": {}
+            }
+        ],
+        "points": 200,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Name": "Ray Wickham",
+    "Option1": {
+        "faction": "galacticempire",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "maarekstele",
+                "points": 53,
+                "ship": "tieadvancedx1",
+                "upgrades": {
+                    "missile": [
+                        "protonrockets"
+                    ],
+                    "modification": [
+                        "munitionsfailsafe"
+                    ]
+                }
+            },
+            {
+                "id": "vizier",
+                "points": 54,
+                "ship": "tiereaper",
+                "upgrades": {
+                    "crew": [
+                        "grandmofftarkin"
+                    ],
+                    "modification": [
+                        "targetingcomputer"
+                    ]
+                }
+            },
+            {
+                "id": "vedfoslo",
+                "points": 44,
+                "ship": "tieadvancedx1",
+                "upgrades": {}
+            },
+            {
+                "id": "stormsquadronace",
+                "points": 49,
+                "ship": "tieadvancedx1",
+                "upgrades": {
+                    "sensor": [
+                        "advancedsensors"
+                    ]
+                }
+            }
+        ],
+        "points": 200,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Option2": {
+        "faction": "scumandvillainy",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "skullsquadronpilot",
+                "points": 48,
+                "ship": "fangfighter",
+                "upgrades": {
+                    "talent": [
+                        "marksmanship"
+                    ]
+                }
+            },
+            {
+                "id": "moraloeval",
+                "points": 75,
+                "ship": "yv666lightfreighter",
+                "upgrades": {
+                    "cannon": [
+                        "heavylasercannon"
+                    ],
+                    "illicit": [
+                        "inertialdampeners"
+                    ]
+                }
+            },
+            {
+                "id": "ahhav",
+                "points": 36,
+                "ship": "modifiedtielnfighter",
+                "upgrades": {
+                    "modification": [
+                        "afterburners"
+                    ]
+                }
+            },
+            {
+                "id": "ndrusuhlak",
+                "points": 38,
+                "ship": "z95af4headhunter",
+                "upgrades": {
+                    "missile": [
+                        "concussionmissiles"
+                    ],
+                    "modification": [
+                        "electronicbaffle"
+                    ]
+                }
+            }
+        ],
+        "points": 197,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "TTT": "Ray Wickham",
+    "VassalForm1": "Xray8763",
+    "VassalForm2": "xray8763"
+}

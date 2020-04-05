@@ -1,0 +1,197 @@
+{
+    "Add": "I am adding Plasma Torpedoes to Dine\u00c3\u0192\u00c2\u00a9 Ellberger",
+    "Discord": "Jello Knight#6419",
+    "Drop": "I am removing Lone Wolf from Swoop",
+    "Final": {
+        "faction": "galacticrepublic",
+        "name": "Joel Killingsworth JTO",
+        "pilots": [
+            {
+                "id": "dineeellberger",
+                "points": 55,
+                "ship": "nabooroyaln1starfighter",
+                "upgrades": {
+                    "astromech": [
+                        "r5astromech"
+                    ],
+                    "sensor": [
+                        "passivesensors"
+                    ],
+                    "talent": [
+                        "crackshot"
+                    ],
+                    "torpedo": [
+                        "plasmatorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "macewindu",
+                "points": 69,
+                "ship": "delta7aethersprite",
+                "upgrades": {
+                    "astromech": [
+                        "r4pastromech"
+                    ],
+                    "configuration": [
+                        "delta7b"
+                    ],
+                    "force-power": [
+                        "predictiveshot"
+                    ],
+                    "modification": [
+                        "synchronizedconsole"
+                    ]
+                }
+            },
+            {
+                "id": "oddball",
+                "points": 41,
+                "ship": "v19torrentstarfighter",
+                "upgrades": {
+                    "talent": [
+                        "juke"
+                    ]
+                }
+            },
+            {
+                "id": "swoop",
+                "points": 35,
+                "ship": "v19torrentstarfighter",
+                "upgrades": {
+                    "missile": [
+                        "ionmissiles"
+                    ]
+                }
+            }
+        ],
+        "points": 200,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Name": "Joel Killingsworth",
+    "Option1": {
+        "faction": "galacticrepublic",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "dineeellberger",
+                "points": 46,
+                "ship": "nabooroyaln1starfighter",
+                "upgrades": {
+                    "astromech": [
+                        "r5astromech"
+                    ],
+                    "sensor": [
+                        "passivesensors"
+                    ],
+                    "talent": [
+                        "crackshot"
+                    ]
+                }
+            },
+            {
+                "id": "macewindu",
+                "points": 69,
+                "ship": "delta7aethersprite",
+                "upgrades": {
+                    "astromech": [
+                        "r4pastromech"
+                    ],
+                    "configuration": [
+                        "delta7b"
+                    ],
+                    "force-power": [
+                        "predictiveshot"
+                    ],
+                    "modification": [
+                        "synchronizedconsole"
+                    ]
+                }
+            },
+            {
+                "id": "oddball",
+                "points": 41,
+                "ship": "v19torrentstarfighter",
+                "upgrades": {
+                    "talent": [
+                        "juke"
+                    ]
+                }
+            },
+            {
+                "id": "swoop",
+                "points": 40,
+                "ship": "v19torrentstarfighter",
+                "upgrades": {
+                    "missile": [
+                        "ionmissiles"
+                    ],
+                    "talent": [
+                        "lonewolf"
+                    ]
+                }
+            }
+        ],
+        "points": 196,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Option2": {
+        "faction": "resistance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "zizitlo",
+                "points": 57,
+                "ship": "rz2awing",
+                "upgrades": {
+                    "talent": [
+                        "marksmanship",
+                        "squadleader"
+                    ],
+                    "tech": [
+                        "advancedoptics"
+                    ]
+                }
+            },
+            {
+                "id": "colossusstationmechanic",
+                "points": 33,
+                "ship": "fireball",
+                "upgrades": {
+                    "missile": [
+                        "protonrockets"
+                    ]
+                }
+            },
+            {
+                "id": "r1j5",
+                "points": 41,
+                "ship": "fireball",
+                "upgrades": {
+                    "modification": [
+                        "shieldupgrade",
+                        "stealthdevice"
+                    ]
+                }
+            },
+            {
+                "id": "hansolo-scavengedyt1300",
+                "points": 69,
+                "ship": "scavengedyt1300",
+                "upgrades": {
+                    "crew": [
+                        "larmadacy"
+                    ]
+                }
+            }
+        ],
+        "points": 200,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "TTT": "Joel Killingsworth",
+    "VassalForm1": "Jello_Knight",
+    "VassalForm2": "Jello_Knight"
+}

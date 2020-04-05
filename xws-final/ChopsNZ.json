@@ -1,0 +1,173 @@
+{
+    "Add": "Proton Bombs to Horton Salm (Ywing)",
+    "Discord": "Chops#4342",
+    "Drop": "Angled Deflectors from Gavin Darklighter (Ewing)",
+    "Final": {
+        "faction": "rebelalliance",
+        "name": "Simon Heath JTO",
+        "obstacles": [
+            "coreasteroid5",
+            "core2asteroid4",
+            "core2asteroid5"
+        ],
+        "pilots": [
+            {
+                "id": "sharabey",
+                "points": 82,
+                "ship": "arc170starfighter",
+                "upgrades": {
+                    "astromech": [
+                        "r5d8"
+                    ],
+                    "crew": [
+                        "freelanceslicer"
+                    ],
+                    "gunner": [
+                        "ezrabridger"
+                    ],
+                    "torpedo": [
+                        "plasmatorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "gavindarklighter",
+                "points": 67,
+                "ship": "ewing",
+                "upgrades": {
+                    "sensor": [
+                        "collisiondetector"
+                    ]
+                }
+            },
+            {
+                "id": "hortonsalm",
+                "points": 49,
+                "ship": "btla4ywing",
+                "upgrades": {
+                    "device": [
+                        "protonbombs"
+                    ],
+                    "gunner": [
+                        "skilledbombardier"
+                    ],
+                    "turret": [
+                        "ioncannonturret"
+                    ]
+                }
+            }
+        ],
+        "points": 198,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Name": "Simon Heath",
+    "Option1": {
+        "faction": "rebelalliance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "sharabey",
+                "points": 82,
+                "ship": "arc170starfighter",
+                "upgrades": {
+                    "astromech": [
+                        "r5d8"
+                    ],
+                    "crew": [
+                        "freelanceslicer"
+                    ],
+                    "gunner": [
+                        "ezrabridger"
+                    ],
+                    "torpedo": [
+                        "plasmatorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "gavindarklighter",
+                "points": 70,
+                "ship": "ewing",
+                "upgrades": {
+                    "modification": [
+                        "angleddeflectors"
+                    ],
+                    "sensor": [
+                        "collisiondetector"
+                    ]
+                }
+            },
+            {
+                "id": "hortonsalm",
+                "points": 44,
+                "ship": "btla4ywing",
+                "upgrades": {
+                    "gunner": [
+                        "skilledbombardier"
+                    ],
+                    "turret": [
+                        "ioncannonturret"
+                    ]
+                }
+            }
+        ],
+        "points": 196,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Option2": {
+        "faction": "galacticempire",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "mornakee",
+                "points": 97,
+                "ship": "vt49decimator",
+                "upgrades": {
+                    "crew": [
+                        "cienaree"
+                    ],
+                    "device": [
+                        "ionbombs"
+                    ],
+                    "title": [
+                        "dauntless"
+                    ],
+                    "torpedo": [
+                        "advprotontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "imdaartestpilot",
+                "points": 48,
+                "ship": "tiephphantom",
+                "upgrades": {
+                    "gunner": [
+                        "skilledbombardier"
+                    ],
+                    "sensor": [
+                        "passivesensors"
+                    ]
+                }
+            },
+            {
+                "id": "captainkagi",
+                "points": 52,
+                "ship": "lambdaclasst4ashuttle",
+                "upgrades": {
+                    "crew": [
+                        "novicetechnician"
+                    ]
+                }
+            }
+        ],
+        "points": 197,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "TTT": "Simon Heath",
+    "VassalForm1": "ChopsNZ",
+    "VassalForm2": "ChopsNZ"
+}

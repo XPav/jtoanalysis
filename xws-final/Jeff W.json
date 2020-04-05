@@ -1,0 +1,178 @@
+{
+    "Add": "Mag-Pulse Warheads - Avenger",
+    "Discord": "Jeff Wilder #9855",
+    "Drop": "Targeting Synchronizer - Lt. Rivas",
+    "Final": {
+        "faction": "firstorder",
+        "name": "Jeff Wilder JTO",
+        "pilots": [
+            {
+                "id": "lieutenantrivas",
+                "points": 28,
+                "ship": "tiefofighter",
+                "upgrades": {
+                    "modification": [
+                        "delayedfuses"
+                    ]
+                }
+            },
+            {
+                "id": "zetasquadronpilot",
+                "points": 32,
+                "ship": "tiefofighter",
+                "upgrades": {
+                    "tech": [
+                        "targetingsynchronizer"
+                    ]
+                }
+            },
+            {
+                "id": "majorstridan",
+                "points": 75,
+                "ship": "upsilonclasscommandshuttle",
+                "upgrades": {
+                    "modification": [
+                        "targetingcomputer"
+                    ],
+                    "sensor": [
+                        "advancedsensors"
+                    ],
+                    "tech": [
+                        "biohexacryptcodes"
+                    ]
+                }
+            },
+            {
+                "id": "avenger",
+                "points": 62,
+                "ship": "tievnsilencer",
+                "upgrades": {
+                    "missile": [
+                        "magpulsewarheads"
+                    ]
+                }
+            }
+        ],
+        "points": 197,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Name": "Jeff Wilder",
+    "Option1": {
+        "faction": "firstorder",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "lieutenantrivas",
+                "points": 34,
+                "ship": "tiefofighter",
+                "upgrades": {
+                    "modification": [
+                        "delayedfuses"
+                    ],
+                    "tech": [
+                        "targetingsynchronizer"
+                    ]
+                }
+            },
+            {
+                "id": "zetasquadronpilot",
+                "points": 32,
+                "ship": "tiefofighter",
+                "upgrades": {
+                    "tech": [
+                        "targetingsynchronizer"
+                    ]
+                }
+            },
+            {
+                "id": "majorstridan",
+                "points": 75,
+                "ship": "upsilonclasscommandshuttle",
+                "upgrades": {
+                    "modification": [
+                        "targetingcomputer"
+                    ],
+                    "sensor": [
+                        "advancedsensors"
+                    ],
+                    "tech": [
+                        "biohexacryptcodes"
+                    ]
+                }
+            },
+            {
+                "id": "avenger",
+                "points": 56,
+                "ship": "tievnsilencer",
+                "upgrades": {}
+            }
+        ],
+        "points": 197,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Option2": {
+        "faction": "scumandvillainy",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "lattsrazzi",
+                "points": 67,
+                "ship": "yv666lightfreighter",
+                "upgrades": {
+                    "gunner": [
+                        "skilledbombardier"
+                    ],
+                    "missile": [
+                        "ionmissiles"
+                    ],
+                    "talent": [
+                        "intimidation"
+                    ],
+                    "title": [
+                        "houndstooth"
+                    ]
+                }
+            },
+            {
+                "id": "princexizor",
+                "points": 70,
+                "ship": "starviperclassattackplatform",
+                "upgrades": {
+                    "modification": [
+                        "delayedfuses"
+                    ],
+                    "sensor": [
+                        "collisiondetector"
+                    ],
+                    "torpedo": [
+                        "plasmatorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "l337-escapecraft",
+                "points": 27,
+                "ship": "escapecraft",
+                "upgrades": {
+                    "talent": [
+                        "marksmanship"
+                    ]
+                }
+            },
+            {
+                "id": "dacebonearm",
+                "points": 33,
+                "ship": "hwk290lightfreighter",
+                "upgrades": {}
+            }
+        ],
+        "points": 197,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "TTT": "Jeff Wilder",
+    "VassalForm1": "Jeff W",
+    "VassalForm2": "Jeff W"
+}

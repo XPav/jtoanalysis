@@ -1,0 +1,195 @@
+{
+    "Add": "Perceptive copilot to Norra",
+    "Discord": "Vipcard3#8546",
+    "Drop": "Trajectory simulator from braylen",
+    "Final": {
+        "faction": "rebelalliance",
+        "name": "Scott B JTO",
+        "obstacles": [
+            "yt2400debris0",
+            "yt2400debris1",
+            "yt2400debris2"
+        ],
+        "pilots": [
+            {
+                "id": "braylenstramm",
+                "points": 56,
+                "ship": "asf01bwing",
+                "upgrades": {
+                    "cannon": [
+                        "jammingbeam"
+                    ],
+                    "configuration": [
+                        "stabilizedsfoils"
+                    ],
+                    "modification": [
+                        "delayedfuses"
+                    ],
+                    "talent": [
+                        "marksmanship"
+                    ]
+                }
+            },
+            {
+                "id": "norrawexley",
+                "points": 76,
+                "ship": "arc170starfighter",
+                "upgrades": {
+                    "crew": [
+                        "perceptivecopilot"
+                    ],
+                    "modification": [
+                        "munitionsfailsafe"
+                    ],
+                    "talent": [
+                        "squadleader"
+                    ]
+                }
+            },
+            {
+                "id": "janors",
+                "points": 43,
+                "ship": "hwk290lightfreighter",
+                "upgrades": {
+                    "crew": [
+                        "jynerso"
+                    ]
+                }
+            },
+            {
+                "id": "banditsquadronpilot",
+                "points": 22,
+                "ship": "z95af4headhunter",
+                "upgrades": {}
+            }
+        ],
+        "points": 197,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Name": "Scott B",
+    "Option1": {
+        "faction": "rebelalliance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "braylenstramm",
+                "points": 62,
+                "ship": "asf01bwing",
+                "upgrades": {
+                    "cannon": [
+                        "jammingbeam"
+                    ],
+                    "configuration": [
+                        "stabilizedsfoils"
+                    ],
+                    "modification": [
+                        "delayedfuses"
+                    ],
+                    "sensor": [
+                        "trajectorysimulator"
+                    ],
+                    "talent": [
+                        "marksmanship"
+                    ]
+                }
+            },
+            {
+                "id": "norrawexley",
+                "points": 68,
+                "ship": "arc170starfighter",
+                "upgrades": {
+                    "modification": [
+                        "munitionsfailsafe"
+                    ],
+                    "talent": [
+                        "squadleader"
+                    ]
+                }
+            },
+            {
+                "id": "janors",
+                "points": 43,
+                "ship": "hwk290lightfreighter",
+                "upgrades": {
+                    "crew": [
+                        "jynerso"
+                    ]
+                }
+            },
+            {
+                "id": "banditsquadronpilot",
+                "points": 22,
+                "ship": "z95af4headhunter",
+                "upgrades": {}
+            }
+        ],
+        "points": 195,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Option2": {
+        "faction": "resistance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "kazudaxiono",
+                "points": 59,
+                "ship": "fireball",
+                "upgrades": {
+                    "missile": [
+                        "magpulsewarheads"
+                    ],
+                    "modification": [
+                        "delayedfuses",
+                        "staticdischargevanes"
+                    ],
+                    "talent": [
+                        "trickshot"
+                    ],
+                    "title": [
+                        "kazsfireball"
+                    ]
+                }
+            },
+            {
+                "id": "tallissanlintra",
+                "points": 43,
+                "ship": "rz2awing",
+                "upgrades": {
+                    "missile": [
+                        "protonrockets"
+                    ]
+                }
+            },
+            {
+                "id": "blacksquadronace-t70xwing",
+                "points": 58,
+                "ship": "t70xwing",
+                "upgrades": {
+                    "astromech": [
+                        "bb8"
+                    ],
+                    "cannon": [
+                        "heavylasercannon"
+                    ],
+                    "configuration": [
+                        "integratedsfoils"
+                    ]
+                }
+            },
+            {
+                "id": "zaribangel",
+                "points": 35,
+                "ship": "rz2awing",
+                "upgrades": {}
+            }
+        ],
+        "points": 195,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "TTT": "Scott Bellamy",
+    "VassalForm1": "Vipcard3",
+    "VassalForm2": "Vipcard3"
+}

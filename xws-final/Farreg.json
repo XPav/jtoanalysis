@@ -1,0 +1,182 @@
+{
+    "Add": "Delta 7B to Jedi Knight",
+    "Discord": "Farreg#1347",
+    "Drop": "Squad Leader from Ric Olie",
+    "Final": {
+        "faction": "galacticrepublic",
+        "name": "Greg Farrell JTO",
+        "pilots": [
+            {
+                "id": "ricolie",
+                "points": 50,
+                "ship": "nabooroyaln1starfighter",
+                "upgrades": {
+                    "astromech": [
+                        "r4p17"
+                    ],
+                    "sensor": [
+                        "passivesensors"
+                    ]
+                }
+            },
+            {
+                "id": "jediknight",
+                "points": 44,
+                "ship": "delta7aethersprite",
+                "upgrades": {
+                    "force-power": [
+                        "precognitivereflexes"
+                    ],
+                    "modification": [
+                        "angleddeflectors"
+                    ]
+                }
+            },
+            {
+                "id": "plokoon",
+                "points": 44,
+                "ship": "delta7aethersprite",
+                "upgrades": {}
+            },
+            {
+                "id": "jediknight",
+                "points": 62,
+                "ship": "delta7aethersprite",
+                "upgrades": {
+                    "configuration": [
+                        "delta7b"
+                    ],
+                    "force-power": [
+                        "supernaturalreflexes"
+                    ]
+                }
+            }
+        ],
+        "points": 200,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Name": "Greg Farrell",
+    "Option1": {
+        "faction": "rebelalliance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "bluesquadronescort",
+                "points": 43,
+                "ship": "t65xwing",
+                "upgrades": {
+                    "configuration": [
+                        "servomotorsfoils"
+                    ],
+                    "modification": [
+                        "targetingcomputer"
+                    ]
+                }
+            },
+            {
+                "id": "cavernangelszealot",
+                "points": 55,
+                "ship": "t65xwing",
+                "upgrades": {
+                    "astromech": [
+                        "chopper"
+                    ],
+                    "configuration": [
+                        "servomotorsfoils"
+                    ],
+                    "illicit": [
+                        "contrabandcybernetics"
+                    ],
+                    "modification": [
+                        "stealthdevice"
+                    ],
+                    "torpedo": [
+                        "advprotontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "outerrimsmuggler",
+                "points": 99,
+                "ship": "modifiedyt1300lightfreighter",
+                "upgrades": {
+                    "crew": [
+                        "herasyndulla",
+                        "cassianandor"
+                    ],
+                    "gunner": [
+                        "agilegunner"
+                    ],
+                    "modification": [
+                        "engineupgrade",
+                        "stealthdevice"
+                    ],
+                    "title": [
+                        "millenniumfalcon"
+                    ]
+                }
+            }
+        ],
+        "points": 197,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Option2": {
+        "faction": "galacticrepublic",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "ricolie",
+                "points": 62,
+                "ship": "nabooroyaln1starfighter",
+                "upgrades": {
+                    "astromech": [
+                        "r4p17"
+                    ],
+                    "sensor": [
+                        "passivesensors"
+                    ],
+                    "talent": [
+                        "squadleader"
+                    ]
+                }
+            },
+            {
+                "id": "jediknight",
+                "points": 44,
+                "ship": "delta7aethersprite",
+                "upgrades": {
+                    "force-power": [
+                        "precognitivereflexes"
+                    ],
+                    "modification": [
+                        "angleddeflectors"
+                    ]
+                }
+            },
+            {
+                "id": "plokoon",
+                "points": 44,
+                "ship": "delta7aethersprite",
+                "upgrades": {}
+            },
+            {
+                "id": "jediknight",
+                "points": 45,
+                "ship": "delta7aethersprite",
+                "upgrades": {
+                    "force-power": [
+                        "supernaturalreflexes"
+                    ]
+                }
+            }
+        ],
+        "points": 195,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "TTT": "Greg Farrell / Farreg",
+    "VassalForm1": "Farreg",
+    "VassalForm2": "Farreg"
+}

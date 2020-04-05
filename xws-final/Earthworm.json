@@ -1,0 +1,149 @@
+{
+    "Add": "Magva Yarro to same ship",
+    "Discord": "Earthworm #3395",
+    "Drop": "Perceptive Copilot from Outer Rim Smuggler #1",
+    "Final": {
+        "faction": "rebelalliance",
+        "name": "You came in that?  You're braver than I thought!",
+        "obstacles": [
+            "yt2400debris0",
+            "yt2400debris2",
+            "vt49decimatordebris0"
+        ],
+        "pilots": [
+            {
+                "id": "captainrex",
+                "points": 30,
+                "ship": "tielnfighter",
+                "upgrades": {}
+            },
+            {
+                "id": "outerrimsmuggler",
+                "points": 95,
+                "ship": "modifiedyt1300lightfreighter",
+                "upgrades": {
+                    "crew": [
+                        "magvayarro",
+                        "sawgerrera"
+                    ],
+                    "missile": [
+                        "clustermissiles"
+                    ],
+                    "modification": [
+                        "hullupgrade"
+                    ],
+                    "title": [
+                        "millenniumfalcon"
+                    ]
+                }
+            },
+            {
+                "id": "outerrimsmuggler",
+                "points": 73,
+                "ship": "modifiedyt1300lightfreighter",
+                "upgrades": {
+                    "missile": [
+                        "concussionmissiles"
+                    ]
+                }
+            }
+        ],
+        "points": 198,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Name": "Kyle Meidell",
+    "Option1": {
+        "faction": "rebelalliance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "captainrex",
+                "points": 30,
+                "ship": "tielnfighter",
+                "upgrades": {}
+            },
+            {
+                "id": "outerrimsmuggler",
+                "points": 95,
+                "ship": "modifiedyt1300lightfreighter",
+                "upgrades": {
+                    "crew": [
+                        "perceptivecopilot",
+                        "sawgerrera"
+                    ],
+                    "missile": [
+                        "clustermissiles"
+                    ],
+                    "modification": [
+                        "hullupgrade"
+                    ],
+                    "title": [
+                        "millenniumfalcon"
+                    ]
+                }
+            },
+            {
+                "id": "outerrimsmuggler",
+                "points": 73,
+                "ship": "modifiedyt1300lightfreighter",
+                "upgrades": {
+                    "missile": [
+                        "concussionmissiles"
+                    ]
+                }
+            }
+        ],
+        "points": 198,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Option2": {
+        "faction": "galacticempire",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "gideonhask",
+                "points": 37,
+                "ship": "tielnfighter",
+                "upgrades": {
+                    "modification": [
+                        "hullupgrade"
+                    ]
+                }
+            },
+            {
+                "id": "captainferoph",
+                "points": 60,
+                "ship": "tiereaper",
+                "upgrades": {
+                    "crew": [
+                        "grandinquisitor"
+                    ]
+                }
+            },
+            {
+                "id": "deathrain",
+                "points": 50,
+                "ship": "tiecapunisher",
+                "upgrades": {
+                    "torpedo": [
+                        "iontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "soontirfel",
+                "points": 53,
+                "ship": "tieininterceptor",
+                "upgrades": {}
+            }
+        ],
+        "points": 200,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "TTT": "Kyle Meidell",
+    "VassalForm1": "Earthworm",
+    "VassalForm2": "Earthworm"
+}

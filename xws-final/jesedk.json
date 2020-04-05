@@ -1,0 +1,164 @@
+{
+    "Add": "Afterburners to Tie Advanced X1",
+    "Discord": "jesedk",
+    "Drop": "trajectory simulator from Lambda Shuttle",
+    "Final": {
+        "faction": "galacticempire",
+        "name": "Jorge Silva JTO",
+        "pilots": [
+            {
+                "id": "darthvader",
+                "points": 88,
+                "ship": "tieadvancedx1",
+                "upgrades": {
+                    "force-power": [
+                        "brilliantevasion"
+                    ],
+                    "missile": [
+                        "concussionmissiles"
+                    ],
+                    "modification": [
+                        "afterburners"
+                    ],
+                    "sensor": [
+                        "collisiondetector"
+                    ]
+                }
+            },
+            {
+                "id": "captainferoph",
+                "points": 50,
+                "ship": "tiereaper",
+                "upgrades": {
+                    "modification": [
+                        "hullupgrade"
+                    ]
+                }
+            },
+            {
+                "id": "lieutenantsai",
+                "points": 61,
+                "ship": "lambdaclasst4ashuttle",
+                "upgrades": {
+                    "cannon": [
+                        "ioncannon"
+                    ],
+                    "modification": [
+                        "shieldupgrade"
+                    ],
+                    "title": [
+                        "st321"
+                    ]
+                }
+            }
+        ],
+        "points": 199,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Name": "Jorge Silva",
+    "Option1": {
+        "faction": "galacticempire",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "darthvader",
+                "points": 82,
+                "ship": "tieadvancedx1",
+                "upgrades": {
+                    "force-power": [
+                        "brilliantevasion"
+                    ],
+                    "missile": [
+                        "concussionmissiles"
+                    ],
+                    "sensor": [
+                        "collisiondetector"
+                    ]
+                }
+            },
+            {
+                "id": "captainferoph",
+                "points": 50,
+                "ship": "tiereaper",
+                "upgrades": {
+                    "modification": [
+                        "hullupgrade"
+                    ]
+                }
+            },
+            {
+                "id": "lieutenantsai",
+                "points": 67,
+                "ship": "lambdaclasst4ashuttle",
+                "upgrades": {
+                    "cannon": [
+                        "ioncannon"
+                    ],
+                    "modification": [
+                        "shieldupgrade"
+                    ],
+                    "sensor": [
+                        "trajectorysimulator"
+                    ],
+                    "title": [
+                        "st321"
+                    ]
+                }
+            }
+        ],
+        "points": 199,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Option2": {
+        "faction": "galacticrepublic",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "oddball-btlbywing",
+                "points": 69,
+                "ship": "btlbywing",
+                "upgrades": {
+                    "gunner": [
+                        "ahsokatano"
+                    ],
+                    "talent": [
+                        "snapshot"
+                    ],
+                    "torpedo": [
+                        "iontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "kickback",
+                "points": 39,
+                "ship": "v19torrentstarfighter",
+                "upgrades": {
+                    "modification": [
+                        "shieldupgrade"
+                    ]
+                }
+            },
+            {
+                "id": "jag",
+                "points": 48,
+                "ship": "arc170starfighter",
+                "upgrades": {}
+            },
+            {
+                "id": "matchstick",
+                "points": 43,
+                "ship": "btlbywing",
+                "upgrades": {}
+            }
+        ],
+        "points": 199,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "TTT": "Jorge Silva",
+    "VassalForm1": "jesedk",
+    "VassalForm2": "jesedk"
+}

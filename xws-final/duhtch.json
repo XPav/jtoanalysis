@@ -1,0 +1,176 @@
+{
+    "Add": "Ahsoka Gunner to Oddball",
+    "Discord": "Duhtch #7859",
+    "Drop": "Battle Meditation from Saesee",
+    "Final": {
+        "faction": "galacticrepublic",
+        "name": "Duhtch JTO",
+        "pilots": [
+            {
+                "id": "saeseetiin",
+                "points": 58,
+                "ship": "delta7aethersprite",
+                "upgrades": {
+                    "astromech": [
+                        "r2astromech"
+                    ],
+                    "modification": [
+                        "afterburners"
+                    ]
+                }
+            },
+            {
+                "id": "104thbattalionpilot",
+                "points": 68,
+                "ship": "arc170starfighter",
+                "upgrades": {
+                    "astromech": [
+                        "r4p44"
+                    ],
+                    "crew": [
+                        "perceptivecopilot"
+                    ],
+                    "gunner": [
+                        "veterantailgunner"
+                    ],
+                    "torpedo": [
+                        "plasmatorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "oddball-arc170starfighter",
+                "points": 74,
+                "ship": "arc170starfighter",
+                "upgrades": {
+                    "astromech": [
+                        "r4p17"
+                    ],
+                    "gunner": [
+                        "ahsokatano"
+                    ],
+                    "torpedo": [
+                        "advprotontorpedoes"
+                    ]
+                }
+            }
+        ],
+        "points": 200,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Name": "Duhtch Cuthbert ",
+    "Option1": {
+        "faction": "scumandvillainy",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "dacebonearm",
+                "points": 40,
+                "ship": "hwk290lightfreighter",
+                "upgrades": {
+                    "device": [
+                        "connernets"
+                    ],
+                    "modification": [
+                        "delayedfuses"
+                    ]
+                }
+            },
+            {
+                "id": "ig88c",
+                "points": 68,
+                "ship": "aggressorassaultfighter",
+                "upgrades": {
+                    "sensor": [
+                        "passivesensors"
+                    ],
+                    "title": [
+                        "ig2000"
+                    ]
+                }
+            },
+            {
+                "id": "constablezuvio",
+                "points": 33,
+                "ship": "quadrijettransferspacetug",
+                "upgrades": {}
+            },
+            {
+                "id": "viktorhel",
+                "points": 44,
+                "ship": "kihraxzfighter",
+                "upgrades": {}
+            },
+            {
+                "id": "autopilotdrone",
+                "points": 12,
+                "ship": "escapecraft",
+                "upgrades": {}
+            }
+        ],
+        "points": 197,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Option2": {
+        "faction": "galacticrepublic",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "saeseetiin",
+                "points": 66,
+                "ship": "delta7aethersprite",
+                "upgrades": {
+                    "astromech": [
+                        "r2astromech"
+                    ],
+                    "force-power": [
+                        "battlemeditation"
+                    ],
+                    "modification": [
+                        "afterburners"
+                    ]
+                }
+            },
+            {
+                "id": "104thbattalionpilot",
+                "points": 68,
+                "ship": "arc170starfighter",
+                "upgrades": {
+                    "astromech": [
+                        "r4p44"
+                    ],
+                    "crew": [
+                        "perceptivecopilot"
+                    ],
+                    "gunner": [
+                        "veterantailgunner"
+                    ],
+                    "torpedo": [
+                        "plasmatorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "oddball-arc170starfighter",
+                "points": 62,
+                "ship": "arc170starfighter",
+                "upgrades": {
+                    "astromech": [
+                        "r4p17"
+                    ],
+                    "torpedo": [
+                        "advprotontorpedoes"
+                    ]
+                }
+            }
+        ],
+        "points": 196,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "TTT": "Duhtch Cuthbert",
+    "VassalForm1": "duhtch",
+    "VassalForm2": "Duhtch"
+}

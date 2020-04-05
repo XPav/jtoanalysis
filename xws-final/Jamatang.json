@@ -1,0 +1,171 @@
+{
+    "Add": "Advanced Sensors to Hera",
+    "Discord": "Jamatang#5839",
+    "Drop": "Proximity Mines from Jan Ors",
+    "Final": {
+        "faction": "rebelalliance",
+        "name": "James O'Donoghue JTO",
+        "obstacles": [
+            "gascloud1",
+            "gascloud2",
+            "gascloud3"
+        ],
+        "pilots": [
+            {
+                "id": "janors",
+                "points": 67,
+                "ship": "hwk290lightfreighter",
+                "upgrades": {
+                    "crew": [
+                        "c3po"
+                    ],
+                    "title": [
+                        "moldycrow"
+                    ]
+                }
+            },
+            {
+                "id": "herasyndulla-vcx100lightfreighter",
+                "points": 82,
+                "ship": "vcx100lightfreighter",
+                "upgrades": {
+                    "sensor": [
+                        "advancedsensors"
+                    ],
+                    "title": [
+                        "ghost"
+                    ]
+                }
+            },
+            {
+                "id": "ezrabridger",
+                "points": 51,
+                "ship": "attackshuttle",
+                "upgrades": {
+                    "crew": [
+                        "cassianandor"
+                    ],
+                    "turret": [
+                        "ioncannonturret"
+                    ]
+                }
+            }
+        ],
+        "points": 200,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Name": "James O'Donoghue",
+    "Option1": {
+        "faction": "resistance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "pammichnerrogoode",
+                "points": 57,
+                "ship": "resistancetransport",
+                "upgrades": {
+                    "astromech": [
+                        "r2ha"
+                    ],
+                    "cannon": [
+                        "autoblasters"
+                    ],
+                    "crew": [
+                        "perceptivecopilot",
+                        "pz4co"
+                    ]
+                }
+            },
+            {
+                "id": "bb8",
+                "points": 26,
+                "ship": "resistancetransportpod",
+                "upgrades": {}
+            },
+            {
+                "id": "colossusstationmechanic",
+                "points": 26,
+                "ship": "fireball",
+                "upgrades": {}
+            },
+            {
+                "id": "logisticsdivisionpilot",
+                "points": 33,
+                "ship": "resistancetransport",
+                "upgrades": {
+                    "astromech": [
+                        "bbastromech"
+                    ],
+                    "cannon": [
+                        "jammingbeam"
+                    ]
+                }
+            },
+            {
+                "id": "temminwexley",
+                "points": 53,
+                "ship": "t70xwing",
+                "upgrades": {
+                    "configuration": [
+                        "integratedsfoils"
+                    ]
+                }
+            }
+        ],
+        "points": 195,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Option2": {
+        "faction": "rebelalliance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "janors",
+                "points": 73,
+                "ship": "hwk290lightfreighter",
+                "upgrades": {
+                    "crew": [
+                        "c3po"
+                    ],
+                    "device": [
+                        "proximitymines"
+                    ],
+                    "title": [
+                        "moldycrow"
+                    ]
+                }
+            },
+            {
+                "id": "herasyndulla-vcx100lightfreighter",
+                "points": 72,
+                "ship": "vcx100lightfreighter",
+                "upgrades": {
+                    "title": [
+                        "ghost"
+                    ]
+                }
+            },
+            {
+                "id": "ezrabridger",
+                "points": 51,
+                "ship": "attackshuttle",
+                "upgrades": {
+                    "crew": [
+                        "cassianandor"
+                    ],
+                    "turret": [
+                        "ioncannonturret"
+                    ]
+                }
+            }
+        ],
+        "points": 196,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "TTT": "James O'Donoghue",
+    "VassalForm1": "Jamatang",
+    "VassalForm2": "Jamatang"
+}

@@ -1,0 +1,168 @@
+{
+    "Add": "Ion Cannon Turret, Matchstick",
+    "Discord": "aureus#9055",
+    "Drop": "R2-C4, Delta-7 Aethersprite",
+    "Final": {
+        "faction": "galacticrepublic",
+        "name": "Tony Costanti JTO",
+        "pilots": [
+            {
+                "id": "anakinskywalker",
+                "points": 67,
+                "ship": "delta7aethersprite",
+                "upgrades": {
+                    "configuration": [
+                        "calibratedlasertargeting"
+                    ]
+                }
+            },
+            {
+                "id": "padmeamidala",
+                "points": 46,
+                "ship": "nabooroyaln1starfighter",
+                "upgrades": {
+                    "talent": [
+                        "marksmanship"
+                    ]
+                }
+            },
+            {
+                "id": "goldsquadrontrooper",
+                "points": 25,
+                "ship": "v19torrentstarfighter",
+                "upgrades": {}
+            },
+            {
+                "id": "matchstick",
+                "points": 57,
+                "ship": "btlbywing",
+                "upgrades": {
+                    "device": [
+                        "proximitymines"
+                    ],
+                    "talent": [
+                        "intimidation"
+                    ],
+                    "turret": [
+                        "ioncannonturret"
+                    ]
+                }
+            }
+        ],
+        "points": 195,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Name": "Tony Costanti",
+    "Option1": {
+        "faction": "galacticempire",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "onyxsquadronace",
+                "points": 80,
+                "ship": "tieddefender",
+                "upgrades": {
+                    "missile": [
+                        "clustermissiles"
+                    ],
+                    "talent": [
+                        "marksmanship"
+                    ]
+                }
+            },
+            {
+                "id": "tomaxbren",
+                "points": 65,
+                "ship": "tiesabomber",
+                "upgrades": {
+                    "device": [
+                        "bombletgenerator"
+                    ],
+                    "missile": [
+                        "diamondboronmissiles"
+                    ],
+                    "modification": [
+                        "afterburners"
+                    ],
+                    "torpedo": [
+                        "protontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "vedfoslo",
+                "points": 53,
+                "ship": "tieadvancedx1",
+                "upgrades": {
+                    "missile": [
+                        "homingmissiles"
+                    ],
+                    "modification": [
+                        "targetingcomputer"
+                    ],
+                    "talent": [
+                        "marksmanship"
+                    ]
+                }
+            }
+        ],
+        "points": 198,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Option2": {
+        "faction": "galacticrepublic",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "anakinskywalker",
+                "points": 72,
+                "ship": "delta7aethersprite",
+                "upgrades": {
+                    "astromech": [
+                        "r2c4"
+                    ],
+                    "configuration": [
+                        "calibratedlasertargeting"
+                    ]
+                }
+            },
+            {
+                "id": "padmeamidala",
+                "points": 46,
+                "ship": "nabooroyaln1starfighter",
+                "upgrades": {
+                    "talent": [
+                        "marksmanship"
+                    ]
+                }
+            },
+            {
+                "id": "goldsquadrontrooper",
+                "points": 25,
+                "ship": "v19torrentstarfighter",
+                "upgrades": {}
+            },
+            {
+                "id": "matchstick",
+                "points": 52,
+                "ship": "btlbywing",
+                "upgrades": {
+                    "device": [
+                        "proximitymines"
+                    ],
+                    "talent": [
+                        "intimidation"
+                    ]
+                }
+            }
+        ],
+        "points": 195,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "TTT": "Tony Costanti ",
+    "VassalForm1": "TonyC (Extended)",
+    "VassalForm2": "Tony C"
+}

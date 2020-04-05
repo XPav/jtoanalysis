@@ -1,0 +1,140 @@
+{
+    "Add": "none",
+    "Discord": "clanofwolves",
+    "Drop": "none",
+    "Final": {
+        "faction": "rebelalliance",
+        "name": "David Bryson JTO",
+        "obstacles": [
+            "coreasteroid2",
+            "coreasteroid3",
+            "coreasteroid4"
+        ],
+        "pilots": [
+            {
+                "id": "norrawexley",
+                "points": 61,
+                "ship": "arc170starfighter",
+                "upgrades": {
+                    "astromech": [
+                        "r5d8"
+                    ]
+                }
+            },
+            {
+                "id": "dashrendar",
+                "points": 109,
+                "ship": "yt2400lightfreighter",
+                "upgrades": {
+                    "illicit": [
+                        "riggedcargochute"
+                    ],
+                    "title": [
+                        "outrider"
+                    ]
+                }
+            },
+            {
+                "id": "rebelscout",
+                "points": 30,
+                "ship": "hwk290lightfreighter",
+                "upgrades": {}
+            }
+        ],
+        "points": 200,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Name": "David Bryson",
+    "Option1": {
+        "faction": "galacticempire",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "coloneljendon",
+                "points": 73,
+                "ship": "lambdaclasst4ashuttle",
+                "upgrades": {
+                    "cannon": [
+                        "ioncannon"
+                    ],
+                    "crew": [
+                        "cienaree"
+                    ],
+                    "modification": [
+                        "targetingcomputer"
+                    ],
+                    "sensor": [
+                        "collisiondetector"
+                    ],
+                    "title": [
+                        "st321"
+                    ]
+                }
+            },
+            {
+                "id": "mornakee",
+                "points": 92,
+                "ship": "vt49decimator",
+                "upgrades": {
+                    "gunner": [
+                        "fifthbrother"
+                    ],
+                    "torpedo": [
+                        "advprotontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "blacksquadronscout",
+                "points": 34,
+                "ship": "tieskstriker",
+                "upgrades": {}
+            }
+        ],
+        "points": 199,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Option2": {
+        "faction": "rebelalliance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "norrawexley",
+                "points": 61,
+                "ship": "arc170starfighter",
+                "upgrades": {
+                    "astromech": [
+                        "r5d8"
+                    ]
+                }
+            },
+            {
+                "id": "dashrendar",
+                "points": 109,
+                "ship": "yt2400lightfreighter",
+                "upgrades": {
+                    "illicit": [
+                        "riggedcargochute"
+                    ],
+                    "title": [
+                        "outrider"
+                    ]
+                }
+            },
+            {
+                "id": "rebelscout",
+                "points": 30,
+                "ship": "hwk290lightfreighter",
+                "upgrades": {}
+            }
+        ],
+        "points": 200,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "TTT": "?",
+    "VassalForm1": "clanofwolves ",
+    "VassalForm2": "clanofwolves"
+}

@@ -1,0 +1,177 @@
+{
+    "Add": "Adv. Proton Torp. to N1 Anakin",
+    "Discord": "Red Squad Bench Warmer#5274",
+    "Drop": "Shield Upgrade from Swoop",
+    "Final": {
+        "faction": "galacticrepublic",
+        "name": "Jay Davis JTO",
+        "obstacles": [
+            "yt2400debris0",
+            "core2asteroid0",
+            "gascloud1"
+        ],
+        "pilots": [
+            {
+                "id": "redsquadronbomber",
+                "points": 40,
+                "ship": "btlbywing",
+                "upgrades": {
+                    "device": [
+                        "protonbombs"
+                    ],
+                    "turret": [
+                        "ioncannonturret"
+                    ]
+                }
+            },
+            {
+                "id": "swoop",
+                "points": 31,
+                "ship": "v19torrentstarfighter",
+                "upgrades": {}
+            },
+            {
+                "id": "anakinskywalker-nabooroyaln1starfighter",
+                "points": 47,
+                "ship": "nabooroyaln1starfighter",
+                "upgrades": {
+                    "torpedo": [
+                        "advprotontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "jediknight",
+                "points": 37,
+                "ship": "delta7aethersprite",
+                "upgrades": {}
+            },
+            {
+                "id": "luminaraunduli",
+                "points": 43,
+                "ship": "delta7aethersprite",
+                "upgrades": {}
+            }
+        ],
+        "points": 198,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Name": "Jay Davis",
+    "Option1": {
+        "faction": "galacticrepublic",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "redsquadronbomber",
+                "points": 40,
+                "ship": "btlbywing",
+                "upgrades": {
+                    "device": [
+                        "protonbombs"
+                    ],
+                    "turret": [
+                        "ioncannonturret"
+                    ]
+                }
+            },
+            {
+                "id": "swoop",
+                "points": 37,
+                "ship": "v19torrentstarfighter",
+                "upgrades": {
+                    "modification": [
+                        "shieldupgrade"
+                    ]
+                }
+            },
+            {
+                "id": "anakinskywalker-nabooroyaln1starfighter",
+                "points": 41,
+                "ship": "nabooroyaln1starfighter",
+                "upgrades": {}
+            },
+            {
+                "id": "jediknight",
+                "points": 37,
+                "ship": "delta7aethersprite",
+                "upgrades": {}
+            },
+            {
+                "id": "luminaraunduli",
+                "points": 43,
+                "ship": "delta7aethersprite",
+                "upgrades": {}
+            }
+        ],
+        "points": 198,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Option2": {
+        "faction": "rebelalliance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "kullbeesperado",
+                "points": 55,
+                "ship": "t65xwing",
+                "upgrades": {
+                    "astromech": [
+                        "r4astromech"
+                    ],
+                    "configuration": [
+                        "servomotorsfoils"
+                    ],
+                    "modification": [
+                        "delayedfuses"
+                    ],
+                    "talent": [
+                        "outmaneuver"
+                    ]
+                }
+            },
+            {
+                "id": "sharabey",
+                "points": 82,
+                "ship": "arc170starfighter",
+                "upgrades": {
+                    "astromech": [
+                        "r2astromech"
+                    ],
+                    "crew": [
+                        "kananjarrus"
+                    ],
+                    "talent": [
+                        "predator"
+                    ],
+                    "torpedo": [
+                        "protontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "kylekatarn",
+                "points": 59,
+                "ship": "hwk290lightfreighter",
+                "upgrades": {
+                    "device": [
+                        "connernets"
+                    ],
+                    "talent": [
+                        "composure"
+                    ],
+                    "title": [
+                        "moldycrow"
+                    ]
+                }
+            }
+        ],
+        "points": 196,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "TTT": "Jay Davis",
+    "VassalForm1": "Red Squad Bench Warmer",
+    "VassalForm2": "Red Squad Bench Warmer"
+}

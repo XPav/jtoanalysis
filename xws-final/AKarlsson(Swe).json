@@ -1,0 +1,182 @@
+{
+    "Add": "Snap Shot to Torani Kulda",
+    "Discord": "AKarlsson(Swe)",
+    "Drop": "Ion Torpedoes on Torani Kulda",
+    "Final": {
+        "faction": "scumandvillainy",
+        "name": "Andreas Karlsson JTO",
+        "obstacles": [
+            "coreasteroid3",
+            "coreasteroid5",
+            "core2asteroid4"
+        ],
+        "pilots": [
+            {
+                "id": "ig88c",
+                "points": 74,
+                "ship": "aggressorassaultfighter",
+                "upgrades": {
+                    "cannon": [
+                        "autoblasters"
+                    ],
+                    "illicit": [
+                        "feedbackarray"
+                    ],
+                    "sensor": [
+                        "firecontrolsystem"
+                    ],
+                    "talent": [
+                        "crackshot"
+                    ],
+                    "title": [
+                        "ig2000"
+                    ]
+                }
+            },
+            {
+                "id": "toranikulda",
+                "points": 57,
+                "ship": "m12lkimogilafighter",
+                "upgrades": {
+                    "modification": [
+                        "delayedfuses"
+                    ],
+                    "talent": [
+                        "snapshot"
+                    ]
+                }
+            },
+            {
+                "id": "captainjostero",
+                "points": 42,
+                "ship": "kihraxzfighter",
+                "upgrades": {}
+            },
+            {
+                "id": "overseeryushyn",
+                "points": 26,
+                "ship": "modifiedtielnfighter",
+                "upgrades": {}
+            }
+        ],
+        "points": 199,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Name": "Andreas Karlsson",
+    "Option1": {
+        "faction": "rebelalliance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "wullffwarro",
+                "points": 65,
+                "ship": "auzituckgunship",
+                "upgrades": {
+                    "crew": [
+                        "sabinewren",
+                        "landocalrissian"
+                    ],
+                    "modification": [
+                        "delayedfuses"
+                    ],
+                    "talent": [
+                        "elusive"
+                    ]
+                }
+            },
+            {
+                "id": "partisanrenegade",
+                "points": 74,
+                "ship": "ut60duwing",
+                "upgrades": {
+                    "configuration": [
+                        "pivotwing"
+                    ],
+                    "crew": [
+                        "k2so",
+                        "leiaorgana"
+                    ],
+                    "modification": [
+                        "shieldupgrade"
+                    ],
+                    "sensor": [
+                        "advancedsensors"
+                    ]
+                }
+            },
+            {
+                "id": "ibtisam",
+                "points": 59,
+                "ship": "arc170starfighter",
+                "upgrades": {
+                    "torpedo": [
+                        "protontorpedoes"
+                    ]
+                }
+            }
+        ],
+        "points": 198,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Option2": {
+        "faction": "scumandvillainy",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "ig88c",
+                "points": 74,
+                "ship": "aggressorassaultfighter",
+                "upgrades": {
+                    "cannon": [
+                        "autoblasters"
+                    ],
+                    "illicit": [
+                        "feedbackarray"
+                    ],
+                    "sensor": [
+                        "firecontrolsystem"
+                    ],
+                    "talent": [
+                        "crackshot"
+                    ],
+                    "title": [
+                        "ig2000"
+                    ]
+                }
+            },
+            {
+                "id": "toranikulda",
+                "points": 55,
+                "ship": "m12lkimogilafighter",
+                "upgrades": {
+                    "modification": [
+                        "delayedfuses"
+                    ],
+                    "torpedo": [
+                        "iontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "captainjostero",
+                "points": 42,
+                "ship": "kihraxzfighter",
+                "upgrades": {}
+            },
+            {
+                "id": "overseeryushyn",
+                "points": 26,
+                "ship": "modifiedtielnfighter",
+                "upgrades": {}
+            }
+        ],
+        "points": 197,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "TTT": "Andreas Karlsson",
+    "VassalForm1": "AKarlsson(Swe)",
+    "VassalForm2": "AKarlsson(Swe)"
+}

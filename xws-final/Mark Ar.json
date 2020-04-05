@@ -1,0 +1,196 @@
+{
+    "Add": "Shield Upgrade to Soontir Fel",
+    "Discord": "silverededge#3582",
+    "Drop": "Hotshot Gunner From Deathfire",
+    "Final": {
+        "faction": "galacticempire",
+        "name": "Mark Argente [JTO]",
+        "pilots": [
+            {
+                "id": "soontirfel",
+                "points": 67,
+                "ship": "tieininterceptor",
+                "upgrades": {
+                    "modification": [
+                        "targetingcomputer",
+                        "shieldupgrade"
+                    ],
+                    "talent": [
+                        "elusive"
+                    ]
+                }
+            },
+            {
+                "id": "omicrongrouppilot",
+                "points": 54,
+                "ship": "lambdaclasst4ashuttle",
+                "upgrades": {
+                    "cannon": [
+                        "tractorbeam"
+                    ],
+                    "modification": [
+                        "shieldupgrade"
+                    ],
+                    "title": [
+                        "st321"
+                    ]
+                }
+            },
+            {
+                "id": "deathfire",
+                "points": 39,
+                "ship": "tiesabomber",
+                "upgrades": {
+                    "gunner": [
+                        "hotshotgunner"
+                    ]
+                }
+            },
+            {
+                "id": "vagabond",
+                "points": 38,
+                "ship": "tieskstriker",
+                "upgrades": {
+                    "talent": [
+                        "elusive"
+                    ]
+                }
+            }
+        ],
+        "points": 198,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Name": "Mark Argente",
+    "Option1": {
+        "faction": "scumandvillainy",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "landocalrissian",
+                "points": 76,
+                "ship": "customizedyt1300lightfreighter",
+                "upgrades": {
+                    "crew": [
+                        "bobafett",
+                        "seasonednavigator"
+                    ],
+                    "gunner": [
+                        "hotshotgunner"
+                    ],
+                    "modification": [
+                        "electronicbaffle"
+                    ],
+                    "talent": [
+                        "lonewolf"
+                    ],
+                    "title": [
+                        "landosmillenniumfalcon"
+                    ]
+                }
+            },
+            {
+                "id": "zealousrecruit",
+                "points": 41,
+                "ship": "fangfighter",
+                "upgrades": {}
+            },
+            {
+                "id": "l337-escapecraft",
+                "points": 36,
+                "ship": "escapecraft",
+                "upgrades": {
+                    "crew": [
+                        "000"
+                    ],
+                    "modification": [
+                        "hullupgrade"
+                    ]
+                }
+            },
+            {
+                "id": "ndrusuhlak",
+                "points": 47,
+                "ship": "z95af4headhunter",
+                "upgrades": {
+                    "illicit": [
+                        "inertialdampeners"
+                    ],
+                    "missile": [
+                        "protonrockets"
+                    ],
+                    "modification": [
+                        "afterburners"
+                    ]
+                }
+            }
+        ],
+        "points": 200,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Option2": {
+        "faction": "galacticempire",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "soontirfel",
+                "points": 59,
+                "ship": "tieininterceptor",
+                "upgrades": {
+                    "modification": [
+                        "targetingcomputer"
+                    ],
+                    "talent": [
+                        "elusive"
+                    ]
+                }
+            },
+            {
+                "id": "omicrongrouppilot",
+                "points": 54,
+                "ship": "lambdaclasst4ashuttle",
+                "upgrades": {
+                    "cannon": [
+                        "tractorbeam"
+                    ],
+                    "modification": [
+                        "shieldupgrade"
+                    ],
+                    "title": [
+                        "st321"
+                    ]
+                }
+            },
+            {
+                "id": "deathfire",
+                "points": 46,
+                "ship": "tiesabomber",
+                "upgrades": {
+                    "gunner": [
+                        "hotshotgunner"
+                    ],
+                    "missile": [
+                        "protonrockets"
+                    ]
+                }
+            },
+            {
+                "id": "vagabond",
+                "points": 38,
+                "ship": "tieskstriker",
+                "upgrades": {
+                    "talent": [
+                        "elusive"
+                    ]
+                }
+            }
+        ],
+        "points": 197,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "TTT": "Mark Argente",
+    "VassalForm1": "Mark Ar",
+    "VassalForm2": "silverededge"
+}

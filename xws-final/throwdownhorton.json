@@ -1,0 +1,159 @@
+{
+    "Add": "Proton Bombs to Deathrain",
+    "Discord": "throwdownhorton #0463",
+    "Drop": "Proton Rockets from Deathrain",
+    "Final": {
+        "faction": "galacticempire",
+        "name": "Aaron Pa_ JTO",
+        "pilots": [
+            {
+                "id": "deltasquadronpilot",
+                "points": 67,
+                "ship": "tieddefender",
+                "upgrades": {}
+            },
+            {
+                "id": "planetarysentinel",
+                "points": 31,
+                "ship": "tieskstriker",
+                "upgrades": {}
+            },
+            {
+                "id": "zertikstrom",
+                "points": 41,
+                "ship": "tieadvancedx1",
+                "upgrades": {}
+            },
+            {
+                "id": "cutlasssquadronpilot",
+                "points": 50,
+                "ship": "tiecapunisher",
+                "upgrades": {
+                    "device": [
+                        "protonbombs"
+                    ],
+                    "torpedo": [
+                        "plasmatorpedoes"
+                    ]
+                }
+            }
+        ],
+        "points": 189,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Name": "Aaron Pa_",
+    "Option1": {
+        "faction": "galacticrepublic",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "naboohandmaiden",
+                "points": 44,
+                "ship": "nabooroyaln1starfighter",
+                "upgrades": {
+                    "sensor": [
+                        "firecontrolsystem"
+                    ]
+                }
+            },
+            {
+                "id": "r2d2",
+                "points": 51,
+                "ship": "btlbywing",
+                "upgrades": {
+                    "crew": [
+                        "freelanceslicer"
+                    ],
+                    "device": [
+                        "seismiccharges"
+                    ],
+                    "talent": [
+                        "marksmanship"
+                    ],
+                    "torpedo": [
+                        "plasmatorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "shadowsquadronveteran",
+                "points": 65,
+                "ship": "btlbywing",
+                "upgrades": {
+                    "astromech": [
+                        "r5astromech"
+                    ],
+                    "gunner": [
+                        "hotshotgunner"
+                    ],
+                    "talent": [
+                        "debrisgambit"
+                    ],
+                    "torpedo": [
+                        "protontorpedoes"
+                    ],
+                    "turret": [
+                        "ioncannonturret"
+                    ]
+                }
+            },
+            {
+                "id": "bravoflightofficer",
+                "points": 39,
+                "ship": "nabooroyaln1starfighter",
+                "upgrades": {
+                    "torpedo": [
+                        "iontorpedoes"
+                    ]
+                }
+            }
+        ],
+        "points": 199,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Option2": {
+        "faction": "galacticempire",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "deathrain",
+                "points": 60,
+                "ship": "tiecapunisher",
+                "upgrades": {
+                    "missile": [
+                        "protonrockets"
+                    ],
+                    "torpedo": [
+                        "plasmatorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "deltasquadronpilot",
+                "points": 67,
+                "ship": "tieddefender",
+                "upgrades": {}
+            },
+            {
+                "id": "zertikstrom",
+                "points": 41,
+                "ship": "tieadvancedx1",
+                "upgrades": {}
+            },
+            {
+                "id": "planetarysentinel",
+                "points": 31,
+                "ship": "tieskstriker",
+                "upgrades": {}
+            }
+        ],
+        "points": 199,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "TTT": "throwdownhorton",
+    "VassalForm1": "throwdownhorton",
+    "VassalForm2": "throwdownhorton"
+}

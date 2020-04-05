@@ -1,0 +1,187 @@
+{
+    "Add": "Special Forces Gunner off Quickdraw",
+    "Discord": "jazznawol#8934",
+    "Drop": "Homing Missiles off Halo",
+    "Final": {
+        "faction": "firstorder",
+        "name": "Jason Seagram JTO",
+        "obstacles": [
+            "coreasteroid0",
+            "vt49decimatordebris0",
+            "gascloud1"
+        ],
+        "pilots": [
+            {
+                "id": "holo",
+                "points": 59,
+                "ship": "tiebainterceptor",
+                "upgrades": {
+                    "modification": [
+                        "angleddeflectors"
+                    ],
+                    "talent": [
+                        "proudtradition"
+                    ]
+                }
+            },
+            {
+                "id": "firstorderprovocateur",
+                "points": 46,
+                "ship": "tiebainterceptor",
+                "upgrades": {
+                    "modification": [
+                        "delayedfuses"
+                    ]
+                }
+            },
+            {
+                "id": "quickdraw",
+                "points": 58,
+                "ship": "tiesffighter",
+                "upgrades": {
+                    "gunner": [
+                        "specialforcesgunner"
+                    ],
+                    "sensor": [
+                        "passivesensors"
+                    ]
+                }
+            },
+            {
+                "id": "zetasquadronsurvivor",
+                "points": 37,
+                "ship": "tiesffighter",
+                "upgrades": {
+                    "tech": [
+                        "patternanalyzer"
+                    ]
+                }
+            }
+        ],
+        "points": 200,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Name": "Jason Seagram",
+    "Option1": {
+        "faction": "firstorder",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "holo",
+                "points": 64,
+                "ship": "tiebainterceptor",
+                "upgrades": {
+                    "missile": [
+                        "homingmissiles"
+                    ],
+                    "modification": [
+                        "angleddeflectors"
+                    ],
+                    "talent": [
+                        "proudtradition"
+                    ]
+                }
+            },
+            {
+                "id": "firstorderprovocateur",
+                "points": 46,
+                "ship": "tiebainterceptor",
+                "upgrades": {
+                    "modification": [
+                        "delayedfuses"
+                    ]
+                }
+            },
+            {
+                "id": "quickdraw",
+                "points": 48,
+                "ship": "tiesffighter",
+                "upgrades": {
+                    "sensor": [
+                        "passivesensors"
+                    ]
+                }
+            },
+            {
+                "id": "zetasquadronsurvivor",
+                "points": 37,
+                "ship": "tiesffighter",
+                "upgrades": {
+                    "tech": [
+                        "patternanalyzer"
+                    ]
+                }
+            }
+        ],
+        "points": 195,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Option2": {
+        "faction": "separatistalliance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "dfs081",
+                "points": 27,
+                "ship": "vultureclassdroidfighter",
+                "upgrades": {
+                    "configuration": [
+                        "grapplingstruts"
+                    ]
+                }
+            },
+            {
+                "id": "chertek",
+                "points": 39,
+                "ship": "nantexclassstarfighter",
+                "upgrades": {}
+            },
+            {
+                "id": "haorchallprototype",
+                "points": 26,
+                "ship": "vultureclassdroidfighter",
+                "upgrades": {
+                    "missile": [
+                        "energyshellcharges"
+                    ]
+                }
+            },
+            {
+                "id": "technounionbomber",
+                "points": 39,
+                "ship": "hyenaclassdroidbomber",
+                "upgrades": {
+                    "device": [
+                        "seismiccharges"
+                    ],
+                    "missile": [
+                        "homingmissiles"
+                    ],
+                    "torpedo": [
+                        "iontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "generalgrievous",
+                "points": 44,
+                "ship": "belbullab22starfighter",
+                "upgrades": {}
+            },
+            {
+                "id": "precisehunter",
+                "points": 23,
+                "ship": "vultureclassdroidfighter",
+                "upgrades": {}
+            }
+        ],
+        "points": 198,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "TTT": "Jason Seagram",
+    "VassalForm1": "Jazz",
+    "VassalForm2": "Jazz"
+}

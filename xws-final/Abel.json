@@ -1,0 +1,180 @@
+{
+    "Add": "Afterburners on Vader",
+    "Discord": "Abel#9795",
+    "Drop": "Munitions Failsaife on Obsidion Squadron Pilot",
+    "Final": {
+        "faction": "galacticempire",
+        "name": "Abel JTO",
+        "obstacles": [
+            "coreasteroid5",
+            "core2asteroid4",
+            "core2asteroid5"
+        ],
+        "pilots": [
+            {
+                "id": "darthvader",
+                "points": 89,
+                "ship": "tieadvancedx1",
+                "upgrades": {
+                    "missile": [
+                        "magpulsewarheads"
+                    ],
+                    "modification": [
+                        "afterburners"
+                    ],
+                    "sensor": [
+                        "advancedsensors"
+                    ]
+                }
+            },
+            {
+                "id": "obsidiansquadronpilot",
+                "points": 23,
+                "ship": "tielnfighter",
+                "upgrades": {}
+            },
+            {
+                "id": "turrphennir",
+                "points": 42,
+                "ship": "tieininterceptor",
+                "upgrades": {}
+            },
+            {
+                "id": "scimitarsquadronpilot",
+                "points": 46,
+                "ship": "tiesabomber",
+                "upgrades": {
+                    "missile": [
+                        "protonrockets",
+                        "concussionmissiles"
+                    ],
+                    "torpedo": [
+                        "iontorpedoes"
+                    ]
+                }
+            }
+        ],
+        "points": 200,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Name": "Abel",
+    "Option1": {
+        "faction": "galacticempire",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "obsidiansquadronpilot",
+                "points": 24,
+                "ship": "tielnfighter",
+                "upgrades": {
+                    "modification": [
+                        "munitionsfailsafe"
+                    ]
+                }
+            },
+            {
+                "id": "scimitarsquadronpilot",
+                "points": 46,
+                "ship": "tiesabomber",
+                "upgrades": {
+                    "missile": [
+                        "concussionmissiles",
+                        "protonrockets"
+                    ],
+                    "torpedo": [
+                        "iontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "darthvader",
+                "points": 83,
+                "ship": "tieadvancedx1",
+                "upgrades": {
+                    "missile": [
+                        "magpulsewarheads"
+                    ],
+                    "sensor": [
+                        "advancedsensors"
+                    ]
+                }
+            },
+            {
+                "id": "turrphennir",
+                "points": 42,
+                "ship": "tieininterceptor",
+                "upgrades": {}
+            }
+        ],
+        "points": 195,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Option2": {
+        "faction": "rebelalliance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "kylekatarn",
+                "points": 74,
+                "ship": "hwk290lightfreighter",
+                "upgrades": {
+                    "crew": [
+                        "leiaorgana"
+                    ],
+                    "device": [
+                        "connernets"
+                    ],
+                    "modification": [
+                        "afterburners"
+                    ],
+                    "talent": [
+                        "selfless"
+                    ],
+                    "title": [
+                        "moldycrow"
+                    ]
+                }
+            },
+            {
+                "id": "ibtisam",
+                "points": 69,
+                "ship": "arc170starfighter",
+                "upgrades": {
+                    "crew": [
+                        "sabinewren"
+                    ],
+                    "modification": [
+                        "angleddeflectors"
+                    ],
+                    "talent": [
+                        "snapshot"
+                    ],
+                    "torpedo": [
+                        "advprotontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "bladesquadronveteran",
+                "points": 55,
+                "ship": "asf01bwing",
+                "upgrades": {
+                    "cannon": [
+                        "tractorbeam"
+                    ],
+                    "sensor": [
+                        "advancedsensors"
+                    ]
+                }
+            }
+        ],
+        "points": 198,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "TTT": "Abel Schelfhout",
+    "VassalForm1": "Abel",
+    "VassalForm2": "Abel"
+}

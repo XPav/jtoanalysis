@@ -1,0 +1,193 @@
+{
+    "Add": "Larma D'Acy to Pammich Nerro Goode",
+    "Discord": "CaptainSebastian#1709",
+    "Drop": "Primed Thrusters from Pammich Nerro Goode",
+    "Final": {
+        "faction": "resistance",
+        "name": "Turret Outmaneuver? Is that...Legal?",
+        "pilots": [
+            {
+                "id": "zizitlo",
+                "points": 56,
+                "ship": "rz2awing",
+                "upgrades": {
+                    "missile": [
+                        "protonrockets"
+                    ],
+                    "talent": [
+                        "outmaneuver",
+                        "intimidation"
+                    ]
+                }
+            },
+            {
+                "id": "rosetico",
+                "points": 37,
+                "ship": "resistancetransportpod",
+                "upgrades": {
+                    "crew": [
+                        "ga97"
+                    ],
+                    "talent": [
+                        "marksmanship"
+                    ],
+                    "tech": [
+                        "advancedoptics"
+                    ]
+                }
+            },
+            {
+                "id": "pammichnerrogoode",
+                "points": 40,
+                "ship": "resistancetransport",
+                "upgrades": {
+                    "crew": [
+                        "larmadacy"
+                    ]
+                }
+            },
+            {
+                "id": "karekun",
+                "points": 64,
+                "ship": "t70xwing",
+                "upgrades": {
+                    "configuration": [
+                        "integratedsfoils"
+                    ],
+                    "missile": [
+                        "homingmissiles"
+                    ],
+                    "modification": [
+                        "staticdischargevanes"
+                    ],
+                    "title": [
+                        "blackone"
+                    ]
+                }
+            }
+        ],
+        "points": 197,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Name": "Andrew Goldbach",
+    "Option1": {
+        "faction": "scumandvillainy",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "torkilmux",
+                "points": 47,
+                "ship": "hwk290lightfreighter",
+                "upgrades": {
+                    "crew": [
+                        "cikatrovizago"
+                    ],
+                    "device": [
+                        "clustermines"
+                    ]
+                }
+            },
+            {
+                "id": "manaroo",
+                "points": 58,
+                "ship": "jumpmaster5000",
+                "upgrades": {
+                    "torpedo": [
+                        "protontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "dengar",
+                "points": 62,
+                "ship": "jumpmaster5000",
+                "upgrades": {
+                    "talent": [
+                        "snapshot"
+                    ]
+                }
+            },
+            {
+                "id": "ndrusuhlak",
+                "points": 30,
+                "ship": "z95af4headhunter",
+                "upgrades": {}
+            }
+        ],
+        "points": 197,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Option2": {
+        "faction": "resistance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "zizitlo",
+                "points": 56,
+                "ship": "rz2awing",
+                "upgrades": {
+                    "missile": [
+                        "protonrockets"
+                    ],
+                    "talent": [
+                        "outmaneuver",
+                        "intimidation"
+                    ]
+                }
+            },
+            {
+                "id": "rosetico",
+                "points": 37,
+                "ship": "resistancetransportpod",
+                "upgrades": {
+                    "crew": [
+                        "ga97"
+                    ],
+                    "talent": [
+                        "marksmanship"
+                    ],
+                    "tech": [
+                        "advancedoptics"
+                    ]
+                }
+            },
+            {
+                "id": "pammichnerrogoode",
+                "points": 43,
+                "ship": "resistancetransport",
+                "upgrades": {
+                    "tech": [
+                        "primedthrusters"
+                    ]
+                }
+            },
+            {
+                "id": "karekun",
+                "points": 64,
+                "ship": "t70xwing",
+                "upgrades": {
+                    "configuration": [
+                        "integratedsfoils"
+                    ],
+                    "missile": [
+                        "homingmissiles"
+                    ],
+                    "modification": [
+                        "staticdischargevanes"
+                    ],
+                    "title": [
+                        "blackone"
+                    ]
+                }
+            }
+        ],
+        "points": 200,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "TTT": "CaptainSebastian ",
+    "VassalForm1": "CaptainSebastian",
+    "VassalForm2": "CaptainSebastian"
+}

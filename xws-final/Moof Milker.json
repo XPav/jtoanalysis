@@ -1,0 +1,181 @@
+{
+    "Add": "none",
+    "Discord": "Moof Milker",
+    "Drop": "none",
+    "Final": {
+        "faction": "resistance",
+        "name": "Jeff Borrowman JTO",
+        "pilots": [
+            {
+                "id": "rosetico",
+                "points": 31,
+                "ship": "resistancetransportpod",
+                "upgrades": {
+                    "modification": [
+                        "targetingcomputer"
+                    ],
+                    "talent": [
+                        "predator"
+                    ]
+                }
+            },
+            {
+                "id": "jaycristubbs",
+                "points": 54,
+                "ship": "t70xwing",
+                "upgrades": {
+                    "configuration": [
+                        "integratedsfoils"
+                    ],
+                    "tech": [
+                        "targetingsynchronizer"
+                    ]
+                }
+            },
+            {
+                "id": "hansolo-scavengedyt1300",
+                "points": 73,
+                "ship": "scavengedyt1300",
+                "upgrades": {
+                    "illicit": [
+                        "contrabandcybernetics"
+                    ],
+                    "talent": [
+                        "trickshot"
+                    ],
+                    "title": [
+                        "reysmillenniumfalcon"
+                    ]
+                }
+            },
+            {
+                "id": "ronithblario",
+                "points": 40,
+                "ship": "rz2awing",
+                "upgrades": {
+                    "tech": [
+                        "primedthrusters"
+                    ]
+                }
+            }
+        ],
+        "points": 198,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Name": "Jeff Borrowman",
+    "Option1": {
+        "faction": "rebelalliance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "zeborrelios",
+                "points": 41,
+                "ship": "attackshuttle",
+                "upgrades": {
+                    "crew": [
+                        "bazemalbus"
+                    ],
+                    "modification": [
+                        "shieldupgrade"
+                    ],
+                    "title": [
+                        "phantom"
+                    ]
+                }
+            },
+            {
+                "id": "norrawexley",
+                "points": 77,
+                "ship": "arc170starfighter",
+                "upgrades": {
+                    "astromech": [
+                        "r5d8"
+                    ],
+                    "crew": [
+                        "sawgerrera"
+                    ],
+                    "talent": [
+                        "crackshot"
+                    ],
+                    "torpedo": [
+                        "iontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "hansolo-modifiedyt1300lightfreighter",
+                "points": 80,
+                "ship": "modifiedyt1300lightfreighter",
+                "upgrades": {}
+            }
+        ],
+        "points": 198,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Option2": {
+        "faction": "resistance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "rosetico",
+                "points": 31,
+                "ship": "resistancetransportpod",
+                "upgrades": {
+                    "modification": [
+                        "targetingcomputer"
+                    ],
+                    "talent": [
+                        "predator"
+                    ]
+                }
+            },
+            {
+                "id": "jaycristubbs",
+                "points": 54,
+                "ship": "t70xwing",
+                "upgrades": {
+                    "configuration": [
+                        "integratedsfoils"
+                    ],
+                    "tech": [
+                        "targetingsynchronizer"
+                    ]
+                }
+            },
+            {
+                "id": "hansolo-scavengedyt1300",
+                "points": 73,
+                "ship": "scavengedyt1300",
+                "upgrades": {
+                    "illicit": [
+                        "contrabandcybernetics"
+                    ],
+                    "talent": [
+                        "trickshot"
+                    ],
+                    "title": [
+                        "reysmillenniumfalcon"
+                    ]
+                }
+            },
+            {
+                "id": "ronithblario",
+                "points": 40,
+                "ship": "rz2awing",
+                "upgrades": {
+                    "tech": [
+                        "primedthrusters"
+                    ]
+                }
+            }
+        ],
+        "points": 198,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "TTT": "Jeff Borrowman",
+    "VassalForm1": "Moof Milker",
+    "VassalForm2": "Moof Milker"
+}

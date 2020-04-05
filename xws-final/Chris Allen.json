@@ -1,0 +1,168 @@
+{
+    "Add": "ZSS, Special Forces Gunner",
+    "Discord": "Brunas#9999",
+    "Drop": "Rush, Targeting Synchronizer",
+    "Final": {
+        "faction": "firstorder",
+        "name": "Chris Allen JTO",
+        "pilots": [
+            {
+                "id": "rush",
+                "points": 62,
+                "ship": "tievnsilencer",
+                "upgrades": {
+                    "missile": [
+                        "clustermissiles"
+                    ]
+                }
+            },
+            {
+                "id": "lieutenanttavson",
+                "points": 90,
+                "ship": "upsilonclasscommandshuttle",
+                "upgrades": {
+                    "cannon": [
+                        "jammingbeam"
+                    ],
+                    "crew": [
+                        "gnkgonkdroid",
+                        "generalhux"
+                    ],
+                    "sensor": [
+                        "advancedsensors"
+                    ]
+                }
+            },
+            {
+                "id": "zetasquadronsurvivor",
+                "points": 38,
+                "ship": "tiesffighter",
+                "upgrades": {
+                    "modification": [
+                        "staticdischargevanes"
+                    ]
+                }
+            }
+        ],
+        "points": 190,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Name": "Chris Allen",
+    "Option1": {
+        "faction": "firstorder",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "rush",
+                "points": 68,
+                "ship": "tievnsilencer",
+                "upgrades": {
+                    "missile": [
+                        "clustermissiles"
+                    ],
+                    "tech": [
+                        "targetingsynchronizer"
+                    ]
+                }
+            },
+            {
+                "id": "lieutenanttavson",
+                "points": 90,
+                "ship": "upsilonclasscommandshuttle",
+                "upgrades": {
+                    "cannon": [
+                        "jammingbeam"
+                    ],
+                    "crew": [
+                        "gnkgonkdroid",
+                        "generalhux"
+                    ],
+                    "sensor": [
+                        "advancedsensors"
+                    ]
+                }
+            },
+            {
+                "id": "zetasquadronsurvivor",
+                "points": 38,
+                "ship": "tiesffighter",
+                "upgrades": {
+                    "modification": [
+                        "staticdischargevanes"
+                    ]
+                }
+            }
+        ],
+        "points": 196,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Option2": {
+        "faction": "separatistalliance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "066",
+                "points": 94,
+                "ship": "sithinfiltrator",
+                "upgrades": {
+                    "cannon": [
+                        "heavylasercannon"
+                    ],
+                    "crew": [
+                        "perceptivecopilot",
+                        "gnkgonkdroid"
+                    ],
+                    "device": [
+                        "ionbombs"
+                    ],
+                    "modification": [
+                        "electronicbaffle"
+                    ],
+                    "talent": [
+                        "squadleader"
+                    ],
+                    "title": [
+                        "scimitar"
+                    ]
+                }
+            },
+            {
+                "id": "feethanottrawautopilot",
+                "points": 46,
+                "ship": "belbullab22starfighter",
+                "upgrades": {
+                    "tacticalrelay": [
+                        "k2b4"
+                    ],
+                    "title": [
+                        "soullessone"
+                    ]
+                }
+            },
+            {
+                "id": "separatistbomber",
+                "points": 29,
+                "ship": "hyenaclassdroidbomber",
+                "upgrades": {
+                    "modification": [
+                        "delayedfuses"
+                    ]
+                }
+            },
+            {
+                "id": "dfs081",
+                "points": 26,
+                "ship": "vultureclassdroidfighter",
+                "upgrades": {}
+            }
+        ],
+        "points": 195,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "TTT": "Chris Allen",
+    "VassalForm1": "Chris Allen",
+    "VassalForm2": "Chris Allen"
+}

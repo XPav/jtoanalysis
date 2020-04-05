@@ -1,0 +1,137 @@
+{
+    "Add": "Oicunn gains agent kallus",
+    "Discord": "ExAce#0002",
+    "Drop": "Deathrain removes munitions failsafe",
+    "Final": {
+        "faction": "galacticempire",
+        "name": "One",
+        "pilots": [
+            {
+                "id": "deathrain",
+                "points": 49,
+                "ship": "tiecapunisher",
+                "upgrades": {
+                    "missile": [
+                        "clustermissiles"
+                    ]
+                }
+            },
+            {
+                "id": "patrolleader",
+                "points": 71,
+                "ship": "vt49decimator",
+                "upgrades": {
+                    "title": [
+                        "dauntless"
+                    ]
+                }
+            },
+            {
+                "id": "captainoicunn",
+                "points": 79,
+                "ship": "vt49decimator",
+                "upgrades": {
+                    "crew": [
+                        "agentkallus"
+                    ]
+                }
+            }
+        ],
+        "points": 199,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Name": "Keith Wong",
+    "Option1": {
+        "faction": "firstorder",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "holo",
+                "points": 65,
+                "ship": "tiebainterceptor",
+                "upgrades": {
+                    "modification": [
+                        "delayedfuses"
+                    ],
+                    "talent": [
+                        "debrisgambit"
+                    ],
+                    "tech": [
+                        "targetingsynchronizer"
+                    ]
+                }
+            },
+            {
+                "id": "ember",
+                "points": 61,
+                "ship": "tiebainterceptor",
+                "upgrades": {
+                    "talent": [
+                        "debrisgambit"
+                    ],
+                    "tech": [
+                        "patternanalyzer"
+                    ]
+                }
+            },
+            {
+                "id": "majorvonreg",
+                "points": 71,
+                "ship": "tiebainterceptor",
+                "upgrades": {
+                    "missile": [
+                        "concussionmissiles"
+                    ],
+                    "modification": [
+                        "shieldupgrade"
+                    ]
+                }
+            }
+        ],
+        "points": 197,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Option2": {
+        "faction": "galacticempire",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "captainoicunn",
+                "points": 74,
+                "ship": "vt49decimator",
+                "upgrades": {}
+            },
+            {
+                "id": "deathrain",
+                "points": 50,
+                "ship": "tiecapunisher",
+                "upgrades": {
+                    "missile": [
+                        "clustermissiles"
+                    ],
+                    "modification": [
+                        "munitionsfailsafe"
+                    ]
+                }
+            },
+            {
+                "id": "patrolleader",
+                "points": 71,
+                "ship": "vt49decimator",
+                "upgrades": {
+                    "title": [
+                        "dauntless"
+                    ]
+                }
+            }
+        ],
+        "points": 195,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "TTT": "Keith Wong",
+    "VassalForm1": "ExAce",
+    "VassalForm2": "ExAce"
+}

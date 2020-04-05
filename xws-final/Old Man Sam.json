@@ -1,0 +1,155 @@
+{
+    "Add": "Perceptive Copilot to Thanison",
+    "Discord": "Mordax (8472)",
+    "Drop": "Novice Tech from Dormitz",
+    "Final": {
+        "faction": "firstorder",
+        "name": "Samuel Moorhead JTO",
+        "pilots": [
+            {
+                "id": "omegasquadronexpert",
+                "points": 47,
+                "ship": "tiesffighter",
+                "upgrades": {
+                    "missile": [
+                        "ionmissiles"
+                    ],
+                    "tech": [
+                        "deuteriumpowercells"
+                    ]
+                }
+            },
+            {
+                "id": "lieutenantdormitz",
+                "points": 86,
+                "ship": "upsilonclasscommandshuttle",
+                "upgrades": {
+                    "sensor": [
+                        "advancedsensors"
+                    ],
+                    "tech": [
+                        "targetingsynchronizer"
+                    ]
+                }
+            },
+            {
+                "id": "pettyofficerthanisson",
+                "points": 67,
+                "ship": "upsilonclasscommandshuttle",
+                "upgrades": {
+                    "cannon": [
+                        "jammingbeam"
+                    ],
+                    "crew": [
+                        "perceptivecopilot"
+                    ]
+                }
+            }
+        ],
+        "points": 200,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Name": "Samuel Moorhead",
+    "Option1": {
+        "faction": "galacticempire",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "vedfoslo",
+                "points": 56,
+                "ship": "tieadvancedx1",
+                "upgrades": {
+                    "modification": [
+                        "afterburners"
+                    ],
+                    "sensor": [
+                        "trajectorysimulator"
+                    ]
+                }
+            },
+            {
+                "id": "mornakee",
+                "points": 106,
+                "ship": "vt49decimator",
+                "upgrades": {
+                    "crew": [
+                        "perceptivecopilot"
+                    ],
+                    "device": [
+                        "protonbombs"
+                    ],
+                    "gunner": [
+                        "agilegunner"
+                    ],
+                    "talent": [
+                        "trickshot"
+                    ],
+                    "torpedo": [
+                        "advprotontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "tempestsquadronpilot",
+                "points": 36,
+                "ship": "tieadvancedx1",
+                "upgrades": {}
+            }
+        ],
+        "points": 198,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Option2": {
+        "faction": "firstorder",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "omegasquadronexpert",
+                "points": 47,
+                "ship": "tiesffighter",
+                "upgrades": {
+                    "missile": [
+                        "ionmissiles"
+                    ],
+                    "tech": [
+                        "deuteriumpowercells"
+                    ]
+                }
+            },
+            {
+                "id": "lieutenantdormitz",
+                "points": 90,
+                "ship": "upsilonclasscommandshuttle",
+                "upgrades": {
+                    "crew": [
+                        "novicetechnician"
+                    ],
+                    "sensor": [
+                        "advancedsensors"
+                    ],
+                    "tech": [
+                        "targetingsynchronizer"
+                    ]
+                }
+            },
+            {
+                "id": "pettyofficerthanisson",
+                "points": 59,
+                "ship": "upsilonclasscommandshuttle",
+                "upgrades": {
+                    "cannon": [
+                        "jammingbeam"
+                    ]
+                }
+            }
+        ],
+        "points": 196,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "TTT": "Samuel Moorhead",
+    "VassalForm1": "Old Man Sam",
+    "VassalForm2": "Old Man Sam"
+}

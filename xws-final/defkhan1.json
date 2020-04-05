@@ -1,0 +1,159 @@
+{
+    "Add": "Afterburners on Vader",
+    "Discord": "Hasan#3327",
+    "Drop": "Ion Cannon from Sai",
+    "Final": {
+        "faction": "galacticempire",
+        "name": "Hasan Khan JTO",
+        "pilots": [
+            {
+                "id": "gammasquadronace",
+                "points": 44,
+                "ship": "tiesabomber",
+                "upgrades": {
+                    "device": [
+                        "proximitymines"
+                    ],
+                    "missile": [
+                        "barragerockets"
+                    ]
+                }
+            },
+            {
+                "id": "lieutenantsai",
+                "points": 51,
+                "ship": "lambdaclasst4ashuttle",
+                "upgrades": {
+                    "modification": [
+                        "tacticalscrambler"
+                    ],
+                    "sensor": [
+                        "firecontrolsystem"
+                    ]
+                }
+            },
+            {
+                "id": "seynmarana",
+                "points": 30,
+                "ship": "tielnfighter",
+                "upgrades": {}
+            },
+            {
+                "id": "darthvader",
+                "points": 73,
+                "ship": "tieadvancedx1",
+                "upgrades": {
+                    "modification": [
+                        "afterburners"
+                    ]
+                }
+            }
+        ],
+        "points": 198,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Name": "Hasan Khan",
+    "Option1": {
+        "faction": "galacticempire",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "gammasquadronace",
+                "points": 44,
+                "ship": "tiesabomber",
+                "upgrades": {
+                    "device": [
+                        "proximitymines"
+                    ],
+                    "missile": [
+                        "barragerockets"
+                    ]
+                }
+            },
+            {
+                "id": "lieutenantsai",
+                "points": 57,
+                "ship": "lambdaclasst4ashuttle",
+                "upgrades": {
+                    "cannon": [
+                        "ioncannon"
+                    ],
+                    "modification": [
+                        "tacticalscrambler"
+                    ],
+                    "sensor": [
+                        "firecontrolsystem"
+                    ]
+                }
+            },
+            {
+                "id": "seynmarana",
+                "points": 30,
+                "ship": "tielnfighter",
+                "upgrades": {}
+            },
+            {
+                "id": "darthvader",
+                "points": 67,
+                "ship": "tieadvancedx1",
+                "upgrades": {}
+            }
+        ],
+        "points": 198,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Option2": {
+        "faction": "scumandvillainy",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "sabinewren-lancerclasspursuitcraft",
+                "points": 61,
+                "ship": "lancerclasspursuitcraft",
+                "upgrades": {}
+            },
+            {
+                "id": "viktorhel",
+                "points": 50,
+                "ship": "kihraxzfighter",
+                "upgrades": {
+                    "modification": [
+                        "stealthdevice"
+                    ]
+                }
+            },
+            {
+                "id": "lokrevenant",
+                "points": 54,
+                "ship": "scurrgh6bomber",
+                "upgrades": {
+                    "device": [
+                        "seismiccharges",
+                        "proximitymines"
+                    ]
+                }
+            },
+            {
+                "id": "blacksunsoldier",
+                "points": 30,
+                "ship": "z95af4headhunter",
+                "upgrades": {
+                    "missile": [
+                        "homingmissiles"
+                    ],
+                    "talent": [
+                        "marksmanship"
+                    ]
+                }
+            }
+        ],
+        "points": 195,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "TTT": "Hasan Khan",
+    "VassalForm1": "defkhan1",
+    "VassalForm2": "defkhan1"
+}

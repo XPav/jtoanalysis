@@ -1,0 +1,162 @@
+{
+    "Add": "GA-97 to R1-J5",
+    "Discord": "SteveTheFifth#3560",
+    "Drop": "Cloaking Device from Colossus Station Mechanic",
+    "Final": {
+        "faction": "resistance",
+        "name": "Colin Miner JTO",
+        "obstacles": [
+            "vt49decimatordebris2",
+            "gascloud3",
+            "gascloud6"
+        ],
+        "pilots": [
+            {
+                "id": "r1j5",
+                "points": 35,
+                "ship": "fireball",
+                "upgrades": {
+                    "crew": [
+                        "ga97"
+                    ]
+                }
+            },
+            {
+                "id": "ronithblario",
+                "points": 34,
+                "ship": "rz2awing",
+                "upgrades": {}
+            },
+            {
+                "id": "kazudaxiono",
+                "points": 42,
+                "ship": "fireball",
+                "upgrades": {
+                    "title": [
+                        "kazsfireball"
+                    ]
+                }
+            },
+            {
+                "id": "paigetico",
+                "points": 60,
+                "ship": "mg100starfortress",
+                "upgrades": {}
+            },
+            {
+                "id": "colossusstationmechanic",
+                "points": 26,
+                "ship": "fireball",
+                "upgrades": {}
+            }
+        ],
+        "points": 197,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Name": "Colin Miner",
+    "Option1": {
+        "faction": "scumandvillainy",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "torkilmux",
+                "points": 68,
+                "ship": "hwk290lightfreighter",
+                "upgrades": {
+                    "crew": [
+                        "gnkgonkdroid"
+                    ],
+                    "illicit": [
+                        "deadmansswitch"
+                    ],
+                    "title": [
+                        "moldycrow"
+                    ]
+                }
+            },
+            {
+                "id": "ig88c",
+                "points": 70,
+                "ship": "aggressorassaultfighter",
+                "upgrades": {
+                    "cannon": [
+                        "jammingbeam"
+                    ],
+                    "device": [
+                        "connernets"
+                    ]
+                }
+            },
+            {
+                "id": "kaatoleeachos",
+                "points": 33,
+                "ship": "z95af4headhunter",
+                "upgrades": {
+                    "missile": [
+                        "magpulsewarheads"
+                    ]
+                }
+            },
+            {
+                "id": "outerrimpioneer",
+                "points": 28,
+                "ship": "escapecraft",
+                "upgrades": {}
+            }
+        ],
+        "points": 199,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Option2": {
+        "faction": "resistance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "r1j5",
+                "points": 29,
+                "ship": "fireball",
+                "upgrades": {}
+            },
+            {
+                "id": "ronithblario",
+                "points": 34,
+                "ship": "rz2awing",
+                "upgrades": {}
+            },
+            {
+                "id": "kazudaxiono",
+                "points": 42,
+                "ship": "fireball",
+                "upgrades": {
+                    "title": [
+                        "kazsfireball"
+                    ]
+                }
+            },
+            {
+                "id": "paigetico",
+                "points": 60,
+                "ship": "mg100starfortress",
+                "upgrades": {}
+            },
+            {
+                "id": "colossusstationmechanic",
+                "points": 30,
+                "ship": "fireball",
+                "upgrades": {
+                    "illicit": [
+                        "cloakingdevice"
+                    ]
+                }
+            }
+        ],
+        "points": 195,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "TTT": "Colin Miner",
+    "VassalForm1": "Steve",
+    "VassalForm2": "Steve"
+}

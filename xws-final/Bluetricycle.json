@@ -1,0 +1,163 @@
+{
+    "Add": "ion cannon turret to btlA4 Y-Wing",
+    "Discord": "Seb#6496",
+    "Drop": "Stealth Device from the lancer-class pursuit craft",
+    "Final": {
+        "faction": "scumandvillainy",
+        "name": "Sebastien Demers JTO",
+        "obstacles": [
+            "coreasteroid2",
+            "coreasteroid3",
+            "core2asteroid0"
+        ],
+        "pilots": [
+            {
+                "id": "shadowporthunter",
+                "points": 66,
+                "ship": "lancerclasspursuitcraft",
+                "upgrades": {
+                    "crew": [
+                        "informant"
+                    ],
+                    "illicit": [
+                        "deadmansswitch",
+                        "feedbackarray"
+                    ]
+                }
+            },
+            {
+                "id": "jakkugunrunner",
+                "points": 30,
+                "ship": "quadrijettransferspacetug",
+                "upgrades": {}
+            },
+            {
+                "id": "drearenthal",
+                "points": 54,
+                "ship": "btla4ywing",
+                "upgrades": {
+                    "turret": [
+                        "ioncannonturret"
+                    ]
+                }
+            },
+            {
+                "id": "blacksunenforcer",
+                "points": 45,
+                "ship": "starviperclassattackplatform",
+                "upgrades": {}
+            }
+        ],
+        "points": 195,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Name": "Sebastien Demers",
+    "Option1": {
+        "faction": "scumandvillainy",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "shadowporthunter",
+                "points": 72,
+                "ship": "lancerclasspursuitcraft",
+                "upgrades": {
+                    "crew": [
+                        "informant"
+                    ],
+                    "illicit": [
+                        "deadmansswitch",
+                        "feedbackarray"
+                    ],
+                    "modification": [
+                        "stealthdevice"
+                    ]
+                }
+            },
+            {
+                "id": "jakkugunrunner",
+                "points": 30,
+                "ship": "quadrijettransferspacetug",
+                "upgrades": {}
+            },
+            {
+                "id": "drearenthal",
+                "points": 49,
+                "ship": "btla4ywing",
+                "upgrades": {}
+            },
+            {
+                "id": "blacksunenforcer",
+                "points": 45,
+                "ship": "starviperclassattackplatform",
+                "upgrades": {}
+            }
+        ],
+        "points": 196,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Option2": {
+        "faction": "galacticrepublic",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "anakinskywalker-btlbywing",
+                "points": 89,
+                "ship": "btlbywing",
+                "upgrades": {
+                    "astromech": [
+                        "r4p44"
+                    ],
+                    "force-power": [
+                        "foresight"
+                    ],
+                    "gunner": [
+                        "agilegunner"
+                    ],
+                    "modification": [
+                        "targetingcomputer"
+                    ],
+                    "torpedo": [
+                        "iontorpedoes"
+                    ],
+                    "turret": [
+                        "dorsalturret"
+                    ]
+                }
+            },
+            {
+                "id": "shadowsquadronveteran",
+                "points": 47,
+                "ship": "btlbywing",
+                "upgrades": {
+                    "astromech": [
+                        "r2c4"
+                    ],
+                    "talent": [
+                        "juke"
+                    ],
+                    "turret": [
+                        "dorsalturret"
+                    ]
+                }
+            },
+            {
+                "id": "luminaraunduli",
+                "points": 61,
+                "ship": "delta7aethersprite",
+                "upgrades": {
+                    "configuration": [
+                        "delta7b"
+                    ]
+                }
+            }
+        ],
+        "points": 197,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "TTT": "Sebastien Demers",
+    "VassalForm1": "Bluetricycle",
+    "VassalForm2": "Bluetricycle"
+}

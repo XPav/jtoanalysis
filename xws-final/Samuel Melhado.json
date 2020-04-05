@@ -1,0 +1,184 @@
+{
+    "Add": "Barrage Rockets on Miranda Doni",
+    "Discord": "Samuel Melhado#5464",
+    "Drop": "Snap Shot from Fenn Rau ",
+    "Final": {
+        "faction": "rebelalliance",
+        "name": "Samuel Melhado JTO",
+        "pilots": [
+            {
+                "id": "mirandadoni",
+                "points": 62,
+                "ship": "btls8kwing",
+                "upgrades": {
+                    "crew": [
+                        "jynerso"
+                    ],
+                    "device": [
+                        "clustermines"
+                    ],
+                    "missile": [
+                        "barragerockets"
+                    ],
+                    "modification": [
+                        "tacticalscrambler"
+                    ]
+                }
+            },
+            {
+                "id": "wildspacefringer",
+                "points": 83,
+                "ship": "yt2400lightfreighter",
+                "upgrades": {
+                    "gunner": [
+                        "skilledbombardier"
+                    ],
+                    "illicit": [
+                        "deadmansswitch"
+                    ],
+                    "modification": [
+                        "tacticalscrambler"
+                    ]
+                }
+            },
+            {
+                "id": "fennrau-sheathipedeclassshuttle",
+                "points": 53,
+                "ship": "sheathipedeclassshuttle",
+                "upgrades": {
+                    "astromech": [
+                        "r3astromech"
+                    ],
+                    "title": [
+                        "phantom"
+                    ]
+                }
+            }
+        ],
+        "points": 198,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Name": "Samuel Melhado",
+    "Option1": {
+        "faction": "rebelalliance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "mirandadoni",
+                "points": 54,
+                "ship": "btls8kwing",
+                "upgrades": {
+                    "crew": [
+                        "jynerso"
+                    ],
+                    "device": [
+                        "clustermines"
+                    ],
+                    "modification": [
+                        "tacticalscrambler"
+                    ]
+                }
+            },
+            {
+                "id": "wildspacefringer",
+                "points": 83,
+                "ship": "yt2400lightfreighter",
+                "upgrades": {
+                    "gunner": [
+                        "skilledbombardier"
+                    ],
+                    "illicit": [
+                        "deadmansswitch"
+                    ],
+                    "modification": [
+                        "tacticalscrambler"
+                    ]
+                }
+            },
+            {
+                "id": "fennrau-sheathipedeclassshuttle",
+                "points": 60,
+                "ship": "sheathipedeclassshuttle",
+                "upgrades": {
+                    "astromech": [
+                        "r3astromech"
+                    ],
+                    "talent": [
+                        "snapshot"
+                    ],
+                    "title": [
+                        "phantom"
+                    ]
+                }
+            }
+        ],
+        "points": 197,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Option2": {
+        "faction": "galacticempire",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "cutlasssquadronpilot",
+                "points": 52,
+                "ship": "tiecapunisher",
+                "upgrades": {
+                    "device": [
+                        "connernets"
+                    ],
+                    "missile": [
+                        "ionmissiles"
+                    ],
+                    "sensor": [
+                        "collisiondetector"
+                    ]
+                }
+            },
+            {
+                "id": "nusquadronpilot",
+                "points": 32,
+                "ship": "alphaclassstarwing",
+                "upgrades": {
+                    "configuration": [
+                        "xg1assaultconfiguration"
+                    ]
+                }
+            },
+            {
+                "id": "doubleedge",
+                "points": 30,
+                "ship": "tieagaggressor",
+                "upgrades": {
+                    "talent": [
+                        "composure"
+                    ]
+                }
+            },
+            {
+                "id": "captainjonus",
+                "points": 51,
+                "ship": "tiesabomber",
+                "upgrades": {
+                    "missile": [
+                        "magpulsewarheads"
+                    ]
+                }
+            },
+            {
+                "id": "baronoftheempire",
+                "points": 30,
+                "ship": "tieadvancedv1",
+                "upgrades": {}
+            }
+        ],
+        "points": 195,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "TTT": "Samuel Melhado",
+    "VassalForm1": "Samuel Melhado",
+    "VassalForm2": "Samuel Melhado"
+}

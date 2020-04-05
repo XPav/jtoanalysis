@@ -1,0 +1,164 @@
+{
+    "Add": "Proton Rockets to Recoil",
+    "Discord": "Sycho#3730",
+    "Drop": "Deuterium Power Cells from Epsilon Squadron Cadet",
+    "Final": {
+        "faction": "firstorder",
+        "name": "Sycho JTO",
+        "obstacles": [
+            "core2asteroid1",
+            "core2asteroid3",
+            "core2asteroid4"
+        ],
+        "pilots": [
+            {
+                "id": "epsilonsquadroncadet",
+                "points": 25,
+                "ship": "tiefofighter",
+                "upgrades": {}
+            },
+            {
+                "id": "recoil",
+                "points": 73,
+                "ship": "tievnsilencer",
+                "upgrades": {
+                    "missile": [
+                        "protonrockets"
+                    ],
+                    "torpedo": [
+                        "plasmatorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "omegasquadronexpert",
+                "points": 44,
+                "ship": "tiesffighter",
+                "upgrades": {
+                    "sensor": [
+                        "trajectorysimulator"
+                    ],
+                    "tech": [
+                        "advancedoptics"
+                    ]
+                }
+            },
+            {
+                "id": "avenger",
+                "points": 56,
+                "ship": "tievnsilencer",
+                "upgrades": {}
+            }
+        ],
+        "points": 198,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Name": "Brian Thiel",
+    "Option1": {
+        "faction": "firstorder",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "epsilonsquadroncadet",
+                "points": 34,
+                "ship": "tiefofighter",
+                "upgrades": {
+                    "tech": [
+                        "deuteriumpowercells"
+                    ]
+                }
+            },
+            {
+                "id": "recoil",
+                "points": 66,
+                "ship": "tievnsilencer",
+                "upgrades": {
+                    "torpedo": [
+                        "plasmatorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "omegasquadronexpert",
+                "points": 44,
+                "ship": "tiesffighter",
+                "upgrades": {
+                    "sensor": [
+                        "trajectorysimulator"
+                    ],
+                    "tech": [
+                        "advancedoptics"
+                    ]
+                }
+            },
+            {
+                "id": "avenger",
+                "points": 56,
+                "ship": "tievnsilencer",
+                "upgrades": {}
+            }
+        ],
+        "points": 200,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Option2": {
+        "faction": "galacticrepublic",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "swoop",
+                "points": 32,
+                "ship": "v19torrentstarfighter",
+                "upgrades": {
+                    "talent": [
+                        "marksmanship"
+                    ]
+                }
+            },
+            {
+                "id": "jediknight",
+                "points": 55,
+                "ship": "delta7aethersprite",
+                "upgrades": {
+                    "configuration": [
+                        "delta7b"
+                    ],
+                    "force-power": [
+                        "predictiveshot"
+                    ]
+                }
+            },
+            {
+                "id": "matchstick",
+                "points": 61,
+                "ship": "btlbywing",
+                "upgrades": {
+                    "talent": [
+                        "saturationsalvo"
+                    ],
+                    "torpedo": [
+                        "protontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "ricolie",
+                "points": 47,
+                "ship": "nabooroyaln1starfighter",
+                "upgrades": {
+                    "talent": [
+                        "lonewolf"
+                    ]
+                }
+            }
+        ],
+        "points": 195,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "TTT": "Sycho",
+    "VassalForm1": "sycho",
+    "VassalForm2": "Sycho"
+}

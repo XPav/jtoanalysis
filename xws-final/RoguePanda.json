@@ -1,0 +1,149 @@
+{
+    "Add": "Dorsal Turret to VCX-100",
+    "Discord": "RoguePanda#4066",
+    "Drop": "N/A",
+    "Final": {
+        "faction": "rebelalliance",
+        "name": "Steven Sior JTO",
+        "pilots": [
+            {
+                "id": "herasyndulla-vcx100lightfreighter",
+                "points": 105,
+                "ship": "vcx100lightfreighter",
+                "upgrades": {
+                    "crew": [
+                        "kananjarrus",
+                        "novicetechnician"
+                    ],
+                    "gunner": [
+                        "hansolo"
+                    ],
+                    "title": [
+                        "ghost"
+                    ],
+                    "turret": [
+                        "dorsalturret"
+                    ]
+                }
+            },
+            {
+                "id": "norrawexley",
+                "points": 61,
+                "ship": "arc170starfighter",
+                "upgrades": {
+                    "torpedo": [
+                        "advprotontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "arvelcrynyd",
+                "points": 34,
+                "ship": "rz1awing",
+                "upgrades": {}
+            }
+        ],
+        "points": 200,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Name": "Steven Sior",
+    "Option1": {
+        "faction": "rebelalliance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "herasyndulla-vcx100lightfreighter",
+                "points": 102,
+                "ship": "vcx100lightfreighter",
+                "upgrades": {
+                    "crew": [
+                        "kananjarrus",
+                        "novicetechnician"
+                    ],
+                    "gunner": [
+                        "hansolo"
+                    ],
+                    "title": [
+                        "ghost"
+                    ]
+                }
+            },
+            {
+                "id": "norrawexley",
+                "points": 61,
+                "ship": "arc170starfighter",
+                "upgrades": {
+                    "torpedo": [
+                        "advprotontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "arvelcrynyd",
+                "points": 34,
+                "ship": "rz1awing",
+                "upgrades": {}
+            }
+        ],
+        "points": 197,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Option2": {
+        "faction": "scumandvillainy",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "captainjostero",
+                "points": 59,
+                "ship": "kihraxzfighter",
+                "upgrades": {
+                    "illicit": [
+                        "cloakingdevice"
+                    ],
+                    "missile": [
+                        "protonrockets"
+                    ],
+                    "modification": [
+                        "afterburners"
+                    ]
+                }
+            },
+            {
+                "id": "ig88b",
+                "points": 75,
+                "ship": "aggressorassaultfighter",
+                "upgrades": {
+                    "cannon": [
+                        "heavylasercannon"
+                    ],
+                    "sensor": [
+                        "collisiondetector"
+                    ],
+                    "title": [
+                        "ig2000"
+                    ]
+                }
+            },
+            {
+                "id": "constablezuvio",
+                "points": 33,
+                "ship": "quadrijettransferspacetug",
+                "upgrades": {}
+            },
+            {
+                "id": "crymorahgoon",
+                "points": 30,
+                "ship": "btla4ywing",
+                "upgrades": {}
+            }
+        ],
+        "points": 197,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "TTT": "Steven Sior",
+    "VassalForm1": "RoguePanda",
+    "VassalForm2": "RoguePanda"
+}

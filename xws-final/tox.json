@@ -1,0 +1,210 @@
+{
+    "Add": "ion turret to Kavil",
+    "Discord": "tox1987#2791",
+    "Drop": "debrids gambit from minig guild tie fighter",
+    "Final": {
+        "faction": "scumandvillainy",
+        "name": "Marco Tocchi JTO",
+        "pilots": [
+            {
+                "id": "miningguildsurveyor",
+                "points": 31,
+                "ship": "modifiedtielnfighter",
+                "upgrades": {
+                    "modification": [
+                        "shieldupgrade"
+                    ]
+                }
+            },
+            {
+                "id": "g4rgorvm",
+                "points": 30,
+                "ship": "m3ainterceptor",
+                "upgrades": {
+                    "modification": [
+                        "electronicbaffle"
+                    ]
+                }
+            },
+            {
+                "id": "shadowporthunter",
+                "points": 58,
+                "ship": "lancerclasspursuitcraft",
+                "upgrades": {
+                    "illicit": [
+                        "contrabandcybernetics"
+                    ]
+                }
+            },
+            {
+                "id": "kavil",
+                "points": 54,
+                "ship": "btla4ywing",
+                "upgrades": {
+                    "gunner": [
+                        "skilledbombardier"
+                    ],
+                    "illicit": [
+                        "cloakingdevice"
+                    ],
+                    "turret": [
+                        "ioncannonturret"
+                    ]
+                }
+            },
+            {
+                "id": "binayrepirate",
+                "points": 27,
+                "ship": "z95af4headhunter",
+                "upgrades": {
+                    "missile": [
+                        "clustermissiles"
+                    ]
+                }
+            }
+        ],
+        "points": 200,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Name": "Marco Tocchi",
+    "Option1": {
+        "faction": "galacticempire",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "obsidiansquadronpilot",
+                "points": 30,
+                "ship": "tielnfighter",
+                "upgrades": {
+                    "modification": [
+                        "hullupgrade"
+                    ]
+                }
+            },
+            {
+                "id": "tempestsquadronpilot",
+                "points": 53,
+                "ship": "tieadvancedx1",
+                "upgrades": {
+                    "missile": [
+                        "protonrockets"
+                    ],
+                    "modification": [
+                        "hullupgrade"
+                    ],
+                    "sensor": [
+                        "passivesensors"
+                    ]
+                }
+            },
+            {
+                "id": "alphasquadronpilot",
+                "points": 32,
+                "ship": "tieininterceptor",
+                "upgrades": {
+                    "modification": [
+                        "munitionsfailsafe"
+                    ]
+                }
+            },
+            {
+                "id": "nusquadronpilot",
+                "points": 45,
+                "ship": "alphaclassstarwing",
+                "upgrades": {
+                    "missile": [
+                        "magpulsewarheads"
+                    ],
+                    "modification": [
+                        "munitionsfailsafe"
+                    ],
+                    "sensor": [
+                        "trajectorysimulator"
+                    ]
+                }
+            },
+            {
+                "id": "planetarysentinel",
+                "points": 37,
+                "ship": "tieskstriker",
+                "upgrades": {
+                    "device": [
+                        "ionbombs"
+                    ]
+                }
+            }
+        ],
+        "points": 197,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Option2": {
+        "faction": "scumandvillainy",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "miningguildsurveyor",
+                "points": 35,
+                "ship": "modifiedtielnfighter",
+                "upgrades": {
+                    "modification": [
+                        "shieldupgrade"
+                    ],
+                    "talent": [
+                        "debrisgambit"
+                    ]
+                }
+            },
+            {
+                "id": "g4rgorvm",
+                "points": 30,
+                "ship": "m3ainterceptor",
+                "upgrades": {
+                    "modification": [
+                        "electronicbaffle"
+                    ]
+                }
+            },
+            {
+                "id": "shadowporthunter",
+                "points": 58,
+                "ship": "lancerclasspursuitcraft",
+                "upgrades": {
+                    "illicit": [
+                        "contrabandcybernetics"
+                    ]
+                }
+            },
+            {
+                "id": "kavil",
+                "points": 49,
+                "ship": "btla4ywing",
+                "upgrades": {
+                    "gunner": [
+                        "skilledbombardier"
+                    ],
+                    "illicit": [
+                        "cloakingdevice"
+                    ]
+                }
+            },
+            {
+                "id": "binayrepirate",
+                "points": 27,
+                "ship": "z95af4headhunter",
+                "upgrades": {
+                    "missile": [
+                        "clustermissiles"
+                    ]
+                }
+            }
+        ],
+        "points": 199,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "TTT": "Marco Tocchi",
+    "VassalForm1": "tox",
+    "VassalForm2": "Tox"
+}

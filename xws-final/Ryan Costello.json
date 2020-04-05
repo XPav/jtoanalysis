@@ -1,0 +1,147 @@
+{
+    "Add": "Advanced Optics",
+    "Discord": "TheManchiken",
+    "Drop": "Biohexacrypt Codes",
+    "Final": {
+        "faction": "firstorder",
+        "name": "Ryan Costello JTO",
+        "pilots": [
+            {
+                "id": "commandermalarus",
+                "points": 38,
+                "ship": "tiefofighter",
+                "upgrades": {}
+            },
+            {
+                "id": "avenger",
+                "points": 56,
+                "ship": "tievnsilencer",
+                "upgrades": {}
+            },
+            {
+                "id": "rush",
+                "points": 61,
+                "ship": "tievnsilencer",
+                "upgrades": {
+                    "tech": [
+                        "advancedoptics"
+                    ]
+                }
+            },
+            {
+                "id": "firstorderprovocateur",
+                "points": 45,
+                "ship": "tiebainterceptor",
+                "upgrades": {}
+            }
+        ],
+        "points": 200,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Name": "Ryan Costello",
+    "Option1": {
+        "faction": "resistance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "vimoradi",
+                "points": 36,
+                "ship": "resistancetransportpod",
+                "upgrades": {
+                    "crew": [
+                        "informant"
+                    ],
+                    "tech": [
+                        "advancedoptics"
+                    ]
+                }
+            },
+            {
+                "id": "lulolampar",
+                "points": 57,
+                "ship": "rz2awing",
+                "upgrades": {
+                    "talent": [
+                        "snapshot",
+                        "crackshot"
+                    ],
+                    "tech": [
+                        "ferrospherepaint"
+                    ]
+                }
+            },
+            {
+                "id": "chewbacca-scavengedyt1300",
+                "points": 81,
+                "ship": "scavengedyt1300",
+                "upgrades": {
+                    "gunner": [
+                        "agilegunner"
+                    ],
+                    "missile": [
+                        "concussionmissiles"
+                    ],
+                    "modification": [
+                        "munitionsfailsafe"
+                    ],
+                    "talent": [
+                        "crackshot"
+                    ],
+                    "title": [
+                        "reysmillenniumfalcon"
+                    ]
+                }
+            },
+            {
+                "id": "bb8",
+                "points": 26,
+                "ship": "resistancetransportpod",
+                "upgrades": {}
+            }
+        ],
+        "points": 200,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Option2": {
+        "faction": "firstorder",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "commandermalarus",
+                "points": 38,
+                "ship": "tiefofighter",
+                "upgrades": {}
+            },
+            {
+                "id": "avenger",
+                "points": 56,
+                "ship": "tievnsilencer",
+                "upgrades": {}
+            },
+            {
+                "id": "rush",
+                "points": 58,
+                "ship": "tievnsilencer",
+                "upgrades": {
+                    "tech": [
+                        "biohexacryptcodes"
+                    ]
+                }
+            },
+            {
+                "id": "firstorderprovocateur",
+                "points": 45,
+                "ship": "tiebainterceptor",
+                "upgrades": {}
+            }
+        ],
+        "points": 197,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "TTT": "Ryan Costello",
+    "VassalForm1": "Ryan Costello",
+    "VassalForm2": "Ryan Costello"
+}

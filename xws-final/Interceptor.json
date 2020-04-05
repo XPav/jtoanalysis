@@ -1,0 +1,186 @@
+{
+    "Add": "Dorsal Turret- Matchstick",
+    "Discord": "Interceptor (User # 7490)",
+    "Drop": "Debris Gambit- Padme Amidala",
+    "Final": {
+        "faction": "galacticrepublic",
+        "name": "Interceptor JTO",
+        "pilots": [
+            {
+                "id": "plokoon",
+                "points": 53,
+                "ship": "delta7aethersprite",
+                "upgrades": {
+                    "configuration": [
+                        "calibratedlasertargeting"
+                    ],
+                    "force-power": [
+                        "sense"
+                    ]
+                }
+            },
+            {
+                "id": "padmeamidala",
+                "points": 56,
+                "ship": "nabooroyaln1starfighter",
+                "upgrades": {
+                    "astromech": [
+                        "r2c4"
+                    ],
+                    "torpedo": [
+                        "advprotontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "matchstick",
+                "points": 58,
+                "ship": "btlbywing",
+                "upgrades": {
+                    "modification": [
+                        "targetingcomputer"
+                    ],
+                    "talent": [
+                        "elusive"
+                    ],
+                    "torpedo": [
+                        "iontorpedoes"
+                    ],
+                    "turret": [
+                        "dorsalturret"
+                    ]
+                }
+            },
+            {
+                "id": "shadowsquadronveteran",
+                "points": 32,
+                "ship": "btlbywing",
+                "upgrades": {}
+            }
+        ],
+        "points": 199,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Name": "Paul Adler",
+    "Option1": {
+        "faction": "firstorder",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "starkillerbasepilot",
+                "points": 74,
+                "ship": "upsilonclasscommandshuttle",
+                "upgrades": {
+                    "cannon": [
+                        "tractorbeam"
+                    ],
+                    "crew": [
+                        "pettyofficerthanisson"
+                    ],
+                    "modification": [
+                        "hullupgrade"
+                    ],
+                    "sensor": [
+                        "collisiondetector"
+                    ]
+                }
+            },
+            {
+                "id": "commandermalarus",
+                "points": 47,
+                "ship": "tiefofighter",
+                "upgrades": {
+                    "talent": [
+                        "lonewolf"
+                    ],
+                    "tech": [
+                        "advancedoptics"
+                    ]
+                }
+            },
+            {
+                "id": "starkillerbasepilot",
+                "points": 75,
+                "ship": "upsilonclasscommandshuttle",
+                "upgrades": {
+                    "cannon": [
+                        "heavylasercannon"
+                    ],
+                    "crew": [
+                        "generalhux"
+                    ],
+                    "modification": [
+                        "ablativeplating"
+                    ]
+                }
+            }
+        ],
+        "points": 196,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Option2": {
+        "faction": "galacticrepublic",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "plokoon",
+                "points": 53,
+                "ship": "delta7aethersprite",
+                "upgrades": {
+                    "configuration": [
+                        "calibratedlasertargeting"
+                    ],
+                    "force-power": [
+                        "sense"
+                    ]
+                }
+            },
+            {
+                "id": "padmeamidala",
+                "points": 60,
+                "ship": "nabooroyaln1starfighter",
+                "upgrades": {
+                    "astromech": [
+                        "r2c4"
+                    ],
+                    "talent": [
+                        "debrisgambit"
+                    ],
+                    "torpedo": [
+                        "advprotontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "matchstick",
+                "points": 55,
+                "ship": "btlbywing",
+                "upgrades": {
+                    "modification": [
+                        "targetingcomputer"
+                    ],
+                    "talent": [
+                        "elusive"
+                    ],
+                    "torpedo": [
+                        "iontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "shadowsquadronveteran",
+                "points": 32,
+                "ship": "btlbywing",
+                "upgrades": {}
+            }
+        ],
+        "points": 200,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "TTT": "Paul Adler",
+    "VassalForm1": "Interceptor",
+    "VassalForm2": "Interceptor"
+}

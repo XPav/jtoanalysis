@@ -1,0 +1,146 @@
+{
+    "Add": "Nien Nunb to Lando Calrissian",
+    "Discord": "YellowJacketPym#6855",
+    "Drop": "Outmaneuver from Lando Calrissian",
+    "Final": {
+        "faction": "rebelalliance",
+        "name": "Lando and the Boys",
+        "pilots": [
+            {
+                "id": "landocalrissian-modifiedyt1300lightfreighter",
+                "points": 101,
+                "ship": "modifiedyt1300lightfreighter",
+                "upgrades": {
+                    "crew": [
+                        "chopper-crew",
+                        "niennunb"
+                    ],
+                    "missile": [
+                        "protonrockets"
+                    ],
+                    "modification": [
+                        "tacticalscrambler",
+                        "stealthdevice"
+                    ],
+                    "title": [
+                        "millenniumfalcon"
+                    ]
+                }
+            },
+            {
+                "id": "ezrabridger-tielnfighter",
+                "points": 31,
+                "ship": "tielnfighter",
+                "upgrades": {}
+            },
+            {
+                "id": "corranhorn",
+                "points": 66,
+                "ship": "ewing",
+                "upgrades": {}
+            }
+        ],
+        "points": 198,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Name": "Andrew Lippens",
+    "Option1": {
+        "faction": "rebelalliance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "landocalrissian-modifiedyt1300lightfreighter",
+                "points": 102,
+                "ship": "modifiedyt1300lightfreighter",
+                "upgrades": {
+                    "crew": [
+                        "chopper-crew"
+                    ],
+                    "missile": [
+                        "protonrockets"
+                    ],
+                    "modification": [
+                        "tacticalscrambler",
+                        "stealthdevice"
+                    ],
+                    "talent": [
+                        "outmaneuver"
+                    ],
+                    "title": [
+                        "millenniumfalcon"
+                    ]
+                }
+            },
+            {
+                "id": "ezrabridger-tielnfighter",
+                "points": 31,
+                "ship": "tielnfighter",
+                "upgrades": {}
+            },
+            {
+                "id": "corranhorn",
+                "points": 66,
+                "ship": "ewing",
+                "upgrades": {}
+            }
+        ],
+        "points": 199,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Option2": {
+        "faction": "firstorder",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "captaincardinal",
+                "points": 90,
+                "ship": "upsilonclasscommandshuttle",
+                "upgrades": {
+                    "cannon": [
+                        "jammingbeam"
+                    ],
+                    "crew": [
+                        "generalhux"
+                    ],
+                    "modification": [
+                        "staticdischargevanes"
+                    ],
+                    "sensor": [
+                        "advancedsensors"
+                    ],
+                    "tech": [
+                        "biohexacryptcodes",
+                        "patternanalyzer"
+                    ]
+                }
+            },
+            {
+                "id": "blackout",
+                "points": 73,
+                "ship": "tievnsilencer",
+                "upgrades": {
+                    "talent": [
+                        "debrisgambit"
+                    ],
+                    "torpedo": [
+                        "advprotontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "scorch",
+                "points": 33,
+                "ship": "tiefofighter",
+                "upgrades": {}
+            }
+        ],
+        "points": 196,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "TTT": "Andrew Lippens",
+    "VassalForm1": "YellowJacketPym",
+    "VassalForm2": "YellowJacketPym"
+}

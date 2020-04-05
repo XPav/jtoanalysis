@@ -1,0 +1,183 @@
+{
+    "Add": "Deuterium Power Cells to First Order Provocateur",
+    "Discord": "Mando Joe#5480",
+    "Drop": "Agile Gunner from \"Backdraft\"",
+    "Final": {
+        "faction": "firstorder",
+        "name": "Joey Crespino JTO",
+        "obstacles": [
+            "gascloud1",
+            "gascloud2",
+            "gascloud3"
+        ],
+        "pilots": [
+            {
+                "id": "backdraft",
+                "points": 53,
+                "ship": "tiesffighter",
+                "upgrades": {
+                    "missile": [
+                        "homingmissiles"
+                    ],
+                    "talent": [
+                        "crackshot"
+                    ],
+                    "tech": [
+                        "primedthrusters"
+                    ]
+                }
+            },
+            {
+                "id": "starkillerbasepilot",
+                "points": 91,
+                "ship": "upsilonclasscommandshuttle",
+                "upgrades": {
+                    "cannon": [
+                        "jammingbeam"
+                    ],
+                    "crew": [
+                        "gnkgonkdroid",
+                        "seasonednavigator"
+                    ],
+                    "sensor": [
+                        "advancedsensors"
+                    ],
+                    "tech": [
+                        "deuteriumpowercells"
+                    ]
+                }
+            },
+            {
+                "id": "firstorderprovocateur",
+                "points": 54,
+                "ship": "tiebainterceptor",
+                "upgrades": {
+                    "tech": [
+                        "deuteriumpowercells"
+                    ]
+                }
+            }
+        ],
+        "points": 198,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Name": "Joey Crespino",
+    "Option1": {
+        "faction": "firstorder",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "backdraft",
+                "points": 61,
+                "ship": "tiesffighter",
+                "upgrades": {
+                    "gunner": [
+                        "agilegunner"
+                    ],
+                    "missile": [
+                        "homingmissiles"
+                    ],
+                    "talent": [
+                        "crackshot"
+                    ],
+                    "tech": [
+                        "primedthrusters"
+                    ]
+                }
+            },
+            {
+                "id": "starkillerbasepilot",
+                "points": 91,
+                "ship": "upsilonclasscommandshuttle",
+                "upgrades": {
+                    "cannon": [
+                        "jammingbeam"
+                    ],
+                    "crew": [
+                        "seasonednavigator",
+                        "gnkgonkdroid"
+                    ],
+                    "sensor": [
+                        "advancedsensors"
+                    ],
+                    "tech": [
+                        "deuteriumpowercells"
+                    ]
+                }
+            },
+            {
+                "id": "firstorderprovocateur",
+                "points": 45,
+                "ship": "tiebainterceptor",
+                "upgrades": {}
+            }
+        ],
+        "points": 197,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Option2": {
+        "faction": "galacticrepublic",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "anakinskywalker-nabooroyaln1starfighter",
+                "points": 52,
+                "ship": "nabooroyaln1starfighter",
+                "upgrades": {
+                    "astromech": [
+                        "c110p"
+                    ],
+                    "sensor": [
+                        "passivesensors"
+                    ],
+                    "talent": [
+                        "marksmanship"
+                    ]
+                }
+            },
+            {
+                "id": "sinker",
+                "points": 64,
+                "ship": "arc170starfighter",
+                "upgrades": {
+                    "gunner": [
+                        "agilegunner"
+                    ],
+                    "modification": [
+                        "electronicbaffle"
+                    ]
+                }
+            },
+            {
+                "id": "broadside",
+                "points": 83,
+                "ship": "btlbywing",
+                "upgrades": {
+                    "astromech": [
+                        "r4p17"
+                    ],
+                    "device": [
+                        "electroprotonbomb"
+                    ],
+                    "gunner": [
+                        "ahsokatano"
+                    ],
+                    "torpedo": [
+                        "protontorpedoes"
+                    ],
+                    "turret": [
+                        "ioncannonturret"
+                    ]
+                }
+            }
+        ],
+        "points": 199,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "TTT": "Joey Crespino",
+    "VassalForm1": "Mando Joe",
+    "VassalForm2": "Mando Joe"
+}

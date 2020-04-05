@@ -1,0 +1,216 @@
+{
+    "Add": "Concussion Missiles on Tie Advanced v1 #2",
+    "Discord": "#8692",
+    "Drop": "Seasoned Navigator off Lambda shuttle",
+    "Final": {
+        "faction": "galacticempire",
+        "name": "Mike Domino JTO",
+        "pilots": [
+            {
+                "id": "inquisitor",
+                "points": 43,
+                "ship": "tieadvancedv1",
+                "upgrades": {
+                    "missile": [
+                        "clustermissiles"
+                    ],
+                    "sensor": [
+                        "passivesensors"
+                    ]
+                }
+            },
+            {
+                "id": "inquisitor",
+                "points": 48,
+                "ship": "tieadvancedv1",
+                "upgrades": {
+                    "force-power": [
+                        "instinctiveaim"
+                    ],
+                    "missile": [
+                        "concussionmissiles"
+                    ],
+                    "sensor": [
+                        "collisiondetector"
+                    ]
+                }
+            },
+            {
+                "id": "coloneljendon",
+                "points": 59,
+                "ship": "lambdaclasst4ashuttle",
+                "upgrades": {
+                    "modification": [
+                        "delayedfuses"
+                    ],
+                    "sensor": [
+                        "collisiondetector"
+                    ],
+                    "title": [
+                        "st321"
+                    ]
+                }
+            },
+            {
+                "id": "gammasquadronace",
+                "points": 48,
+                "ship": "tiesabomber",
+                "upgrades": {
+                    "device": [
+                        "ionbombs"
+                    ],
+                    "missile": [
+                        "concussionmissiles"
+                    ],
+                    "modification": [
+                        "staticdischargevanes"
+                    ]
+                }
+            }
+        ],
+        "points": 198,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Name": "Mike Domino",
+    "Option1": {
+        "faction": "galacticempire",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "inquisitor",
+                "points": 43,
+                "ship": "tieadvancedv1",
+                "upgrades": {
+                    "missile": [
+                        "clustermissiles"
+                    ],
+                    "sensor": [
+                        "passivesensors"
+                    ]
+                }
+            },
+            {
+                "id": "inquisitor",
+                "points": 42,
+                "ship": "tieadvancedv1",
+                "upgrades": {
+                    "force-power": [
+                        "instinctiveaim"
+                    ],
+                    "sensor": [
+                        "collisiondetector"
+                    ]
+                }
+            },
+            {
+                "id": "coloneljendon",
+                "points": 64,
+                "ship": "lambdaclasst4ashuttle",
+                "upgrades": {
+                    "crew": [
+                        "seasonednavigator"
+                    ],
+                    "modification": [
+                        "delayedfuses"
+                    ],
+                    "sensor": [
+                        "collisiondetector"
+                    ],
+                    "title": [
+                        "st321"
+                    ]
+                }
+            },
+            {
+                "id": "gammasquadronace",
+                "points": 48,
+                "ship": "tiesabomber",
+                "upgrades": {
+                    "device": [
+                        "ionbombs"
+                    ],
+                    "missile": [
+                        "concussionmissiles"
+                    ],
+                    "modification": [
+                        "staticdischargevanes"
+                    ]
+                }
+            }
+        ],
+        "points": 197,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Option2": {
+        "faction": "galacticrepublic",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "axe",
+                "points": 41,
+                "ship": "v19torrentstarfighter",
+                "upgrades": {
+                    "modification": [
+                        "delayedfuses"
+                    ],
+                    "talent": [
+                        "squadleader"
+                    ]
+                }
+            },
+            {
+                "id": "oddball",
+                "points": 35,
+                "ship": "v19torrentstarfighter",
+                "upgrades": {
+                    "modification": [
+                        "synchronizedconsole"
+                    ]
+                }
+            },
+            {
+                "id": "tucker",
+                "points": 35,
+                "ship": "v19torrentstarfighter",
+                "upgrades": {
+                    "modification": [
+                        "stealthdevice"
+                    ]
+                }
+            },
+            {
+                "id": "anakinskywalker-nabooroyaln1starfighter",
+                "points": 62,
+                "ship": "nabooroyaln1starfighter",
+                "upgrades": {
+                    "astromech": [
+                        "c110p"
+                    ],
+                    "sensor": [
+                        "trajectorysimulator"
+                    ],
+                    "talent": [
+                        "predator"
+                    ],
+                    "torpedo": [
+                        "advprotontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "bluesquadronprotector",
+                "points": 27,
+                "ship": "v19torrentstarfighter",
+                "upgrades": {}
+            }
+        ],
+        "points": 200,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "TTT": "Mike Domino",
+    "VassalForm1": "RealityLemon",
+    "VassalForm2": "RealityLemon"
+}

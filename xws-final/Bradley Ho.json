@@ -1,0 +1,204 @@
+{
+    "Add": "Seasoned Navigator to Chopper",
+    "Discord": "Pandarchon#2264",
+    "Drop": "Baze from Chopper",
+    "Final": {
+        "faction": "rebelalliance",
+        "name": "Bradley Ho JTO",
+        "obstacles": [
+            "gascloud1",
+            "gascloud2",
+            "gascloud3"
+        ],
+        "pilots": [
+            {
+                "id": "ap5",
+                "points": 36,
+                "ship": "sheathipedeclassshuttle",
+                "upgrades": {
+                    "astromech": [
+                        "r3astromech"
+                    ],
+                    "talent": [
+                        "marksmanship"
+                    ],
+                    "title": [
+                        "phantom"
+                    ]
+                }
+            },
+            {
+                "id": "chopper",
+                "points": 107,
+                "ship": "vcx100lightfreighter",
+                "upgrades": {
+                    "crew": [
+                        "cassianandor",
+                        "seasonednavigator"
+                    ],
+                    "gunner": [
+                        "agilegunner"
+                    ],
+                    "sensor": [
+                        "advancedsensors"
+                    ],
+                    "title": [
+                        "ghost"
+                    ],
+                    "torpedo": [
+                        "advprotontorpedoes"
+                    ],
+                    "turret": [
+                        "ioncannonturret"
+                    ]
+                }
+            },
+            {
+                "id": "fennrau-sheathipedeclassshuttle",
+                "points": 57,
+                "ship": "sheathipedeclassshuttle",
+                "upgrades": {
+                    "crew": [
+                        "leiaorgana"
+                    ]
+                }
+            }
+        ],
+        "points": 200,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Name": "Bradley Ho",
+    "Option1": {
+        "faction": "resistance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "greersonnel",
+                "points": 51,
+                "ship": "rz2awing",
+                "upgrades": {
+                    "missile": [
+                        "homingmissiles"
+                    ],
+                    "talent": [
+                        "elusive",
+                        "juke"
+                    ]
+                }
+            },
+            {
+                "id": "vimoradi",
+                "points": 39,
+                "ship": "resistancetransportpod",
+                "upgrades": {
+                    "crew": [
+                        "pz4co"
+                    ],
+                    "tech": [
+                        "ferrospherepaint"
+                    ]
+                }
+            },
+            {
+                "id": "greensquadronexpert",
+                "points": 40,
+                "ship": "rz2awing",
+                "upgrades": {
+                    "missile": [
+                        "concussionmissiles"
+                    ]
+                }
+            },
+            {
+                "id": "pammichnerrogoode",
+                "points": 68,
+                "ship": "resistancetransport",
+                "upgrades": {
+                    "astromech": [
+                        "r3astromech"
+                    ],
+                    "crew": [
+                        "gnkgonkdroid"
+                    ],
+                    "modification": [
+                        "afterburners"
+                    ],
+                    "tech": [
+                        "primedthrusters"
+                    ],
+                    "torpedo": [
+                        "iontorpedoes"
+                    ]
+                }
+            }
+        ],
+        "points": 198,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Option2": {
+        "faction": "rebelalliance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "ap5",
+                "points": 36,
+                "ship": "sheathipedeclassshuttle",
+                "upgrades": {
+                    "astromech": [
+                        "r3astromech"
+                    ],
+                    "talent": [
+                        "marksmanship"
+                    ],
+                    "title": [
+                        "phantom"
+                    ]
+                }
+            },
+            {
+                "id": "chopper",
+                "points": 106,
+                "ship": "vcx100lightfreighter",
+                "upgrades": {
+                    "crew": [
+                        "bazemalbus",
+                        "cassianandor"
+                    ],
+                    "gunner": [
+                        "agilegunner"
+                    ],
+                    "sensor": [
+                        "advancedsensors"
+                    ],
+                    "title": [
+                        "ghost"
+                    ],
+                    "torpedo": [
+                        "advprotontorpedoes"
+                    ],
+                    "turret": [
+                        "ioncannonturret"
+                    ]
+                }
+            },
+            {
+                "id": "fennrau-sheathipedeclassshuttle",
+                "points": 57,
+                "ship": "sheathipedeclassshuttle",
+                "upgrades": {
+                    "crew": [
+                        "leiaorgana"
+                    ]
+                }
+            }
+        ],
+        "points": 199,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "TTT": "Bradley Ho",
+    "VassalForm1": "Bradley Ho",
+    "VassalForm2": "Bradley Ho"
+}

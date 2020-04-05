@@ -1,0 +1,164 @@
+{
+    "Add": "Barrage Rockets to Kestal",
+    "Discord": "dwdicarlo #3980",
+    "Drop": "Ciena Ree from Patrol Leader",
+    "Final": {
+        "faction": "galacticempire",
+        "name": "Dominick DiCarlo JTO",
+        "pilots": [
+            {
+                "id": "vedfoslo",
+                "points": 50,
+                "ship": "tieadvancedx1",
+                "upgrades": {
+                    "missile": [
+                        "magpulsewarheads"
+                    ]
+                }
+            },
+            {
+                "id": "patrolleader",
+                "points": 84,
+                "ship": "vt49decimator",
+                "upgrades": {
+                    "device": [
+                        "ionbombs"
+                    ],
+                    "gunner": [
+                        "fifthbrother"
+                    ]
+                }
+            },
+            {
+                "id": "lieutenantkestal",
+                "points": 39,
+                "ship": "tieagaggressor",
+                "upgrades": {
+                    "missile": [
+                        "barragerockets"
+                    ]
+                }
+            },
+            {
+                "id": "nightbeast",
+                "points": 25,
+                "ship": "tielnfighter",
+                "upgrades": {}
+            }
+        ],
+        "points": 198,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Name": "Dominick DiCarlo",
+    "Option1": {
+        "faction": "resistance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "temminwexley",
+                "points": 62,
+                "ship": "t70xwing",
+                "upgrades": {
+                    "astromech": [
+                        "r2astromech"
+                    ],
+                    "configuration": [
+                        "integratedsfoils"
+                    ],
+                    "talent": [
+                        "daredevil"
+                    ]
+                }
+            },
+            {
+                "id": "cat",
+                "points": 70,
+                "ship": "mg100starfortress",
+                "upgrades": {
+                    "crew": [
+                        "freelanceslicer"
+                    ],
+                    "device": [
+                        "protonbombs"
+                    ],
+                    "modification": [
+                        "tacticalscrambler"
+                    ],
+                    "tech": [
+                        "ferrospherepaint"
+                    ]
+                }
+            },
+            {
+                "id": "jessikapava",
+                "points": 65,
+                "ship": "t70xwing",
+                "upgrades": {
+                    "configuration": [
+                        "integratedsfoils"
+                    ],
+                    "missile": [
+                        "protonrockets"
+                    ],
+                    "tech": [
+                        "primedthrusters"
+                    ]
+                }
+            }
+        ],
+        "points": 197,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Option2": {
+        "faction": "galacticempire",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "vedfoslo",
+                "points": 50,
+                "ship": "tieadvancedx1",
+                "upgrades": {
+                    "missile": [
+                        "magpulsewarheads"
+                    ]
+                }
+            },
+            {
+                "id": "patrolleader",
+                "points": 90,
+                "ship": "vt49decimator",
+                "upgrades": {
+                    "crew": [
+                        "cienaree"
+                    ],
+                    "device": [
+                        "ionbombs"
+                    ],
+                    "gunner": [
+                        "fifthbrother"
+                    ]
+                }
+            },
+            {
+                "id": "lieutenantkestal",
+                "points": 31,
+                "ship": "tieagaggressor",
+                "upgrades": {}
+            },
+            {
+                "id": "nightbeast",
+                "points": 25,
+                "ship": "tielnfighter",
+                "upgrades": {}
+            }
+        ],
+        "points": 196,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "TTT": "Dominick DiCarlo",
+    "VassalForm1": "lepanto",
+    "VassalForm2": "lepanto"
+}

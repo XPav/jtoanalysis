@@ -1,0 +1,141 @@
+{
+    "Add": "Concussion missiles to tie punisher",
+    "Discord": "szyszaka#4608",
+    "Drop": "ion torpedoes from tie ounisher",
+    "Final": {
+        "faction": "galacticempire",
+        "name": "tomasz szyszka JTO",
+        "pilots": [
+            {
+                "id": "rexlerbrath",
+                "points": 99,
+                "ship": "tieddefender",
+                "upgrades": {
+                    "cannon": [
+                        "autoblasters"
+                    ],
+                    "missile": [
+                        "homingmissiles"
+                    ],
+                    "sensor": [
+                        "advancedsensors"
+                    ]
+                }
+            },
+            {
+                "id": "redline",
+                "points": 70,
+                "ship": "tiecapunisher",
+                "upgrades": {
+                    "device": [
+                        "electroprotonbomb"
+                    ],
+                    "missile": [
+                        "concussionmissiles"
+                    ]
+                }
+            },
+            {
+                "id": "valenrudor",
+                "points": 27,
+                "ship": "tielnfighter",
+                "upgrades": {}
+            }
+        ],
+        "points": 196,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Name": "Tomasz szyszka",
+    "Option1": {
+        "faction": "rebelalliance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "ezrabridger",
+                "points": 40,
+                "ship": "attackshuttle",
+                "upgrades": {}
+            },
+            {
+                "id": "esegetuketu",
+                "points": 58,
+                "ship": "btls8kwing",
+                "upgrades": {
+                    "crew": [
+                        "magvayarro"
+                    ],
+                    "torpedo": [
+                        "iontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "wullffwarro",
+                "points": 56,
+                "ship": "auzituckgunship",
+                "upgrades": {}
+            },
+            {
+                "id": "k2so",
+                "points": 46,
+                "ship": "ut60duwing",
+                "upgrades": {
+                    "configuration": [
+                        "pivotwing"
+                    ]
+                }
+            }
+        ],
+        "points": 200,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Option2": {
+        "faction": "galacticempire",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "rexlerbrath",
+                "points": 99,
+                "ship": "tieddefender",
+                "upgrades": {
+                    "cannon": [
+                        "autoblasters"
+                    ],
+                    "missile": [
+                        "homingmissiles"
+                    ],
+                    "sensor": [
+                        "advancedsensors"
+                    ]
+                }
+            },
+            {
+                "id": "redline",
+                "points": 70,
+                "ship": "tiecapunisher",
+                "upgrades": {
+                    "device": [
+                        "electroprotonbomb"
+                    ],
+                    "torpedo": [
+                        "iontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "valenrudor",
+                "points": 27,
+                "ship": "tielnfighter",
+                "upgrades": {}
+            }
+        ],
+        "points": 196,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "TTT": "tomasz szyszka",
+    "VassalForm1": "tomasz",
+    "VassalForm2": "tomasz"
+}

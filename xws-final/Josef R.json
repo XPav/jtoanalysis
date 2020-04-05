@@ -1,0 +1,166 @@
+{
+    "Add": "Leia crew to Hera",
+    "Discord": "Josef-R#2700",
+    "Drop": "Plasma Torps from Ibtisam",
+    "Final": {
+        "faction": "rebelalliance",
+        "name": "Josef Riccio JTO",
+        "pilots": [
+            {
+                "id": "arvelcrynyd",
+                "points": 36,
+                "ship": "rz1awing",
+                "upgrades": {
+                    "talent": [
+                        "predator"
+                    ]
+                }
+            },
+            {
+                "id": "herasyndulla",
+                "points": 47,
+                "ship": "attackshuttle",
+                "upgrades": {
+                    "crew": [
+                        "leiaorgana"
+                    ],
+                    "talent": [
+                        "predator"
+                    ],
+                    "title": [
+                        "phantom"
+                    ]
+                }
+            },
+            {
+                "id": "ibtisam",
+                "points": 60,
+                "ship": "arc170starfighter",
+                "upgrades": {
+                    "gunner": [
+                        "ezrabridger"
+                    ]
+                }
+            },
+            {
+                "id": "wedgeantilles",
+                "points": 55,
+                "ship": "t65xwing",
+                "upgrades": {
+                    "configuration": [
+                        "servomotorsfoils"
+                    ]
+                }
+            }
+        ],
+        "points": 198,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Name": "Josef Riccio",
+    "Option1": {
+        "faction": "rebelalliance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "arvelcrynyd",
+                "points": 36,
+                "ship": "rz1awing",
+                "upgrades": {
+                    "talent": [
+                        "predator"
+                    ]
+                }
+            },
+            {
+                "id": "herasyndulla",
+                "points": 40,
+                "ship": "attackshuttle",
+                "upgrades": {
+                    "talent": [
+                        "predator"
+                    ],
+                    "title": [
+                        "phantom"
+                    ]
+                }
+            },
+            {
+                "id": "ibtisam",
+                "points": 69,
+                "ship": "arc170starfighter",
+                "upgrades": {
+                    "gunner": [
+                        "ezrabridger"
+                    ],
+                    "torpedo": [
+                        "plasmatorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "wedgeantilles",
+                "points": 55,
+                "ship": "t65xwing",
+                "upgrades": {
+                    "configuration": [
+                        "servomotorsfoils"
+                    ]
+                }
+            }
+        ],
+        "points": 200,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Option2": {
+        "faction": "resistance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "logisticsdivisionpilot",
+                "points": 38,
+                "ship": "resistancetransport",
+                "upgrades": {
+                    "cannon": [
+                        "ioncannon"
+                    ]
+                }
+            },
+            {
+                "id": "chewbacca-scavengedyt1300",
+                "points": 91,
+                "ship": "scavengedyt1300",
+                "upgrades": {
+                    "crew": [
+                        "leiaorgana-resistance"
+                    ],
+                    "gunner": [
+                        "agilegunner"
+                    ],
+                    "talent": [
+                        "swarmtactics"
+                    ]
+                }
+            },
+            {
+                "id": "zaribangel",
+                "points": 35,
+                "ship": "rz2awing",
+                "upgrades": {}
+            },
+            {
+                "id": "jarekyeager",
+                "points": 33,
+                "ship": "fireball",
+                "upgrades": {}
+            }
+        ],
+        "points": 197,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "TTT": "Josef Riccio",
+    "VassalForm1": "Josef R",
+    "VassalForm2": "Josef-R"
+}

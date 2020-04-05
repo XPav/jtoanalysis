@@ -1,0 +1,187 @@
+{
+    "Add": "Passive Sensors on Backdraft",
+    "Discord": "Boom Owl#1809",
+    "Drop": "Tragedy Sim from Backdraft",
+    "Final": {
+        "faction": "firstorder",
+        "name": "Chris Appel JTO",
+        "pilots": [
+            {
+                "id": "lieutenantlehuse",
+                "points": 62,
+                "ship": "tiesffighter",
+                "upgrades": {
+                    "gunner": [
+                        "specialforcesgunner"
+                    ],
+                    "modification": [
+                        "staticdischargevanes"
+                    ],
+                    "sensor": [
+                        "passivesensors"
+                    ],
+                    "tech": [
+                        "advancedoptics"
+                    ]
+                }
+            },
+            {
+                "id": "backdraft",
+                "points": 62,
+                "ship": "tiesffighter",
+                "upgrades": {
+                    "gunner": [
+                        "agilegunner"
+                    ],
+                    "missile": [
+                        "concussionmissiles"
+                    ],
+                    "modification": [
+                        "staticdischargevanes"
+                    ],
+                    "sensor": [
+                        "passivesensors"
+                    ]
+                }
+            },
+            {
+                "id": "lieutenanttavson",
+                "points": 69,
+                "ship": "upsilonclasscommandshuttle",
+                "upgrades": {
+                    "crew": [
+                        "captainphasma"
+                    ]
+                }
+            }
+        ],
+        "points": 193,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Name": "Chris Appel",
+    "Option1": {
+        "faction": "firstorder",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "lieutenantlehuse",
+                "points": 62,
+                "ship": "tiesffighter",
+                "upgrades": {
+                    "gunner": [
+                        "specialforcesgunner"
+                    ],
+                    "modification": [
+                        "staticdischargevanes"
+                    ],
+                    "sensor": [
+                        "passivesensors"
+                    ],
+                    "tech": [
+                        "advancedoptics"
+                    ]
+                }
+            },
+            {
+                "id": "backdraft",
+                "points": 65,
+                "ship": "tiesffighter",
+                "upgrades": {
+                    "gunner": [
+                        "agilegunner"
+                    ],
+                    "missile": [
+                        "concussionmissiles"
+                    ],
+                    "modification": [
+                        "staticdischargevanes"
+                    ],
+                    "sensor": [
+                        "trajectorysimulator"
+                    ]
+                }
+            },
+            {
+                "id": "lieutenanttavson",
+                "points": 69,
+                "ship": "upsilonclasscommandshuttle",
+                "upgrades": {
+                    "crew": [
+                        "captainphasma"
+                    ]
+                }
+            }
+        ],
+        "points": 196,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Option2": {
+        "faction": "resistance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "logisticsdivisionpilot",
+                "points": 47,
+                "ship": "resistancetransport",
+                "upgrades": {
+                    "modification": [
+                        "delayedfuses"
+                    ],
+                    "tech": [
+                        "patternanalyzer"
+                    ],
+                    "torpedo": [
+                        "plasmatorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "bb8",
+                "points": 37,
+                "ship": "resistancetransportpod",
+                "upgrades": {
+                    "modification": [
+                        "afterburners"
+                    ],
+                    "tech": [
+                        "patternanalyzer"
+                    ]
+                }
+            },
+            {
+                "id": "lieutenantbastian",
+                "points": 47,
+                "ship": "t70xwing",
+                "upgrades": {
+                    "configuration": [
+                        "integratedsfoils"
+                    ]
+                }
+            },
+            {
+                "id": "cobaltsquadronbomber",
+                "points": 66,
+                "ship": "mg100starfortress",
+                "upgrades": {
+                    "crew": [
+                        "pz4co"
+                    ],
+                    "gunner": [
+                        "skilledbombardier"
+                    ],
+                    "sensor": [
+                        "trajectorysimulator"
+                    ]
+                }
+            }
+        ],
+        "points": 197,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "TTT": "Chris Appel",
+    "VassalForm1": "Boom Owl",
+    "VassalForm2": "Boom Owl"
+}

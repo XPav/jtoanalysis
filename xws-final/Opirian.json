@@ -1,0 +1,191 @@
+{
+    "Add": "Bomblet Generator, Sol Sixxa",
+    "Discord": "Opirian#5169",
+    "Drop": "Angled Deflectors, Hired Gun",
+    "Final": {
+        "faction": "scumandvillainy",
+        "name": "OPI JTO",
+        "pilots": [
+            {
+                "id": "hiredgun",
+                "points": 52,
+                "ship": "btla4ywing",
+                "upgrades": {
+                    "astromech": [
+                        "r5tk"
+                    ],
+                    "device": [
+                        "ionbombs"
+                    ],
+                    "talent": [
+                        "composure"
+                    ],
+                    "torpedo": [
+                        "protontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "solsixxa",
+                "points": 70,
+                "ship": "scurrgh6bomber",
+                "upgrades": {
+                    "astromech": [
+                        "genius"
+                    ],
+                    "device": [
+                        "bombletgenerator"
+                    ],
+                    "gunner": [
+                        "hotshotgunner"
+                    ],
+                    "talent": [
+                        "swarmtactics"
+                    ],
+                    "title": [
+                        "havoc"
+                    ],
+                    "turret": [
+                        "ioncannonturret"
+                    ]
+                }
+            },
+            {
+                "id": "kathscarlet",
+                "points": 75,
+                "ship": "firesprayclasspatrolcraft",
+                "upgrades": {
+                    "device": [
+                        "seismiccharges"
+                    ]
+                }
+            }
+        ],
+        "points": 197,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Name": "Matthew Tracy",
+    "Option1": {
+        "faction": "scumandvillainy",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "hiredgun",
+                "points": 58,
+                "ship": "btla4ywing",
+                "upgrades": {
+                    "astromech": [
+                        "r5tk"
+                    ],
+                    "device": [
+                        "ionbombs"
+                    ],
+                    "modification": [
+                        "angleddeflectors"
+                    ],
+                    "talent": [
+                        "composure"
+                    ],
+                    "torpedo": [
+                        "protontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "solsixxa",
+                "points": 65,
+                "ship": "scurrgh6bomber",
+                "upgrades": {
+                    "astromech": [
+                        "genius"
+                    ],
+                    "gunner": [
+                        "hotshotgunner"
+                    ],
+                    "talent": [
+                        "swarmtactics"
+                    ],
+                    "title": [
+                        "havoc"
+                    ],
+                    "turret": [
+                        "ioncannonturret"
+                    ]
+                }
+            },
+            {
+                "id": "kathscarlet",
+                "points": 75,
+                "ship": "firesprayclasspatrolcraft",
+                "upgrades": {
+                    "device": [
+                        "seismiccharges"
+                    ]
+                }
+            }
+        ],
+        "points": 198,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Option2": {
+        "faction": "galacticrepublic",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "oddball-btlbywing",
+                "points": 75,
+                "ship": "btlbywing",
+                "upgrades": {
+                    "device": [
+                        "ionbombs"
+                    ],
+                    "gunner": [
+                        "seventhfleetgunner"
+                    ],
+                    "modification": [
+                        "munitionsfailsafe"
+                    ],
+                    "talent": [
+                        "swarmtactics"
+                    ],
+                    "torpedo": [
+                        "advprotontorpedoes"
+                    ],
+                    "turret": [
+                        "ioncannonturret"
+                    ]
+                }
+            },
+            {
+                "id": "sinker",
+                "points": 64,
+                "ship": "arc170starfighter",
+                "upgrades": {
+                    "crew": [
+                        "gnkgonkdroid"
+                    ]
+                }
+            },
+            {
+                "id": "bluesquadronprotector",
+                "points": 27,
+                "ship": "v19torrentstarfighter",
+                "upgrades": {}
+            },
+            {
+                "id": "kickback",
+                "points": 33,
+                "ship": "v19torrentstarfighter",
+                "upgrades": {}
+            }
+        ],
+        "points": 199,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "TTT": "Matthew Tracy",
+    "VassalForm1": "Opirian",
+    "VassalForm2": "Opirian"
+}

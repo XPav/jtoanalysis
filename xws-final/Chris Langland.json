@@ -1,0 +1,141 @@
+{
+    "Add": "Captain Phasma to Petty Officer Thanisson",
+    "Discord": "Chris Langland#1236",
+    "Drop": "Biohexacrypt Codes from Lt. Rivas",
+    "Final": {
+        "faction": "firstorder",
+        "name": "Chris Langland JTO",
+        "pilots": [
+            {
+                "id": "rush",
+                "points": 64,
+                "ship": "tievnsilencer",
+                "upgrades": {
+                    "missile": [
+                        "protonrockets"
+                    ]
+                }
+            },
+            {
+                "id": "lieutenantrivas",
+                "points": 27,
+                "ship": "tiefofighter",
+                "upgrades": {}
+            },
+            {
+                "id": "firstorderprovocateur",
+                "points": 45,
+                "ship": "tiebainterceptor",
+                "upgrades": {}
+            },
+            {
+                "id": "pettyofficerthanisson",
+                "points": 64,
+                "ship": "upsilonclasscommandshuttle",
+                "upgrades": {
+                    "crew": [
+                        "captainphasma"
+                    ]
+                }
+            }
+        ],
+        "points": 200,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Name": "Chris Langland",
+    "Option1": {
+        "faction": "rebelalliance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "dashrendar",
+                "points": 117,
+                "ship": "yt2400lightfreighter",
+                "upgrades": {
+                    "gunner": [
+                        "hansolo"
+                    ],
+                    "missile": [
+                        "homingmissiles"
+                    ],
+                    "modification": [
+                        "hullupgrade"
+                    ],
+                    "talent": [
+                        "predator"
+                    ]
+                }
+            },
+            {
+                "id": "lieutenantblount",
+                "points": 43,
+                "ship": "z95af4headhunter",
+                "upgrades": {
+                    "missile": [
+                        "concussionmissiles"
+                    ],
+                    "modification": [
+                        "targetingcomputer"
+                    ],
+                    "talent": [
+                        "debrisgambit"
+                    ]
+                }
+            },
+            {
+                "id": "jakefarrell",
+                "points": 36,
+                "ship": "rz1awing",
+                "upgrades": {}
+            }
+        ],
+        "points": 196,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Option2": {
+        "faction": "firstorder",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "rush",
+                "points": 64,
+                "ship": "tievnsilencer",
+                "upgrades": {
+                    "missile": [
+                        "protonrockets"
+                    ]
+                }
+            },
+            {
+                "id": "lieutenantrivas",
+                "points": 28,
+                "ship": "tiefofighter",
+                "upgrades": {
+                    "tech": [
+                        "biohexacryptcodes"
+                    ]
+                }
+            },
+            {
+                "id": "firstorderprovocateur",
+                "points": 45,
+                "ship": "tiebainterceptor",
+                "upgrades": {}
+            },
+            {
+                "id": "pettyofficerthanisson",
+                "points": 59,
+                "ship": "upsilonclasscommandshuttle",
+                "upgrades": {}
+            }
+        ],
+        "points": 196,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "TTT": "Chris Langland",
+    "VassalForm1": "Chris Langland",
+    "VassalForm2": "Chris Langland"
+}

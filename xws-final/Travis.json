@@ -1,0 +1,143 @@
+{
+    "Add": "Crack shot to Wolffe",
+    "Discord": "Travis#9016",
+    "Drop": "Crack shot from Kickback",
+    "Final": {
+        "faction": "galacticrepublic",
+        "name": "Travis Johannsen JTO",
+        "obstacles": [
+            "coreasteroid3",
+            "coreasteroid5",
+            "core2asteroid5"
+        ],
+        "pilots": [
+            {
+                "id": "kickback",
+                "points": 33,
+                "ship": "v19torrentstarfighter",
+                "upgrades": {}
+            },
+            {
+                "id": "anakinskywalker",
+                "points": 62,
+                "ship": "delta7aethersprite",
+                "upgrades": {}
+            },
+            {
+                "id": "sinker",
+                "points": 54,
+                "ship": "arc170starfighter",
+                "upgrades": {}
+            },
+            {
+                "id": "wolffe",
+                "points": 51,
+                "ship": "arc170starfighter",
+                "upgrades": {
+                    "talent": [
+                        "crackshot"
+                    ]
+                }
+            }
+        ],
+        "points": 200,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Name": "Travis Johannsen",
+    "Option1": {
+        "faction": "scumandvillainy",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "viktorhel",
+                "points": 46,
+                "ship": "kihraxzfighter",
+                "upgrades": {
+                    "illicit": [
+                        "deadmansswitch"
+                    ]
+                }
+            },
+            {
+                "id": "spicerunner",
+                "points": 60,
+                "ship": "hwk290lightfreighter",
+                "upgrades": {
+                    "crew": [
+                        "maul"
+                    ],
+                    "title": [
+                        "moldycrow"
+                    ]
+                }
+            },
+            {
+                "id": "kavil",
+                "points": 43,
+                "ship": "btla4ywing",
+                "upgrades": {}
+            },
+            {
+                "id": "graz",
+                "points": 46,
+                "ship": "kihraxzfighter",
+                "upgrades": {}
+            }
+        ],
+        "points": 195,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Option2": {
+        "faction": "firstorder",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "majorstridan",
+                "points": 80,
+                "ship": "upsilonclasscommandshuttle",
+                "upgrades": {
+                    "crew": [
+                        "seasonednavigator",
+                        "gnkgonkdroid"
+                    ],
+                    "sensor": [
+                        "firecontrolsystem"
+                    ],
+                    "tech": [
+                        "biohexacryptcodes"
+                    ]
+                }
+            },
+            {
+                "id": "captaincardinal",
+                "points": 83,
+                "ship": "upsilonclasscommandshuttle",
+                "upgrades": {
+                    "cannon": [
+                        "heavylasercannon"
+                    ],
+                    "crew": [
+                        "generalhux"
+                    ],
+                    "tech": [
+                        "hyperspacetrackingdata"
+                    ]
+                }
+            },
+            {
+                "id": "static",
+                "points": 33,
+                "ship": "tiefofighter",
+                "upgrades": {}
+            }
+        ],
+        "points": 196,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "TTT": "Travis Johannsen",
+    "VassalForm1": "Travis",
+    "VassalForm2": "Travis"
+}

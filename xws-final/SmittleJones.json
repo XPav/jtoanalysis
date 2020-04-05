@@ -1,0 +1,147 @@
+{
+    "Add": "Afterburners to vader",
+    "Discord": "smittlejones#6305",
+    "Drop": "Skilled bombardier from the Cutlass Pilot",
+    "Final": {
+        "faction": "galacticempire",
+        "name": "Alex Smittle JTO",
+        "pilots": [
+            {
+                "id": "cutlasssquadronpilot",
+                "points": 43,
+                "ship": "tiecapunisher",
+                "upgrades": {
+                    "missile": [
+                        "protonrockets"
+                    ]
+                }
+            },
+            {
+                "id": "mornakee",
+                "points": 75,
+                "ship": "vt49decimator",
+                "upgrades": {}
+            },
+            {
+                "id": "darthvader",
+                "points": 81,
+                "ship": "tieadvancedx1",
+                "upgrades": {
+                    "missile": [
+                        "homingmissiles"
+                    ],
+                    "modification": [
+                        "afterburners"
+                    ],
+                    "sensor": [
+                        "passivesensors"
+                    ]
+                }
+            }
+        ],
+        "points": 199,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Name": "Alex Smittle",
+    "Option1": {
+        "faction": "scumandvillainy",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "dacebonearm",
+                "points": 65,
+                "ship": "hwk290lightfreighter",
+                "upgrades": {
+                    "device": [
+                        "proximitymines"
+                    ],
+                    "illicit": [
+                        "deadmansswitch"
+                    ],
+                    "modification": [
+                        "stealthdevice"
+                    ],
+                    "title": [
+                        "moldycrow"
+                    ]
+                }
+            },
+            {
+                "id": "landocalrissian",
+                "points": 71,
+                "ship": "customizedyt1300lightfreighter",
+                "upgrades": {
+                    "crew": [
+                        "perceptivecopilot"
+                    ],
+                    "gunner": [
+                        "agilegunner"
+                    ],
+                    "missile": [
+                        "magpulsewarheads"
+                    ]
+                }
+            },
+            {
+                "id": "outerrimpioneer",
+                "points": 28,
+                "ship": "escapecraft",
+                "upgrades": {}
+            },
+            {
+                "id": "sarcoplank",
+                "points": 32,
+                "ship": "quadrijettransferspacetug",
+                "upgrades": {}
+            }
+        ],
+        "points": 196,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Option2": {
+        "faction": "galacticempire",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "cutlasssquadronpilot",
+                "points": 45,
+                "ship": "tiecapunisher",
+                "upgrades": {
+                    "gunner": [
+                        "skilledbombardier"
+                    ],
+                    "missile": [
+                        "protonrockets"
+                    ]
+                }
+            },
+            {
+                "id": "mornakee",
+                "points": 75,
+                "ship": "vt49decimator",
+                "upgrades": {}
+            },
+            {
+                "id": "darthvader",
+                "points": 75,
+                "ship": "tieadvancedx1",
+                "upgrades": {
+                    "missile": [
+                        "homingmissiles"
+                    ],
+                    "sensor": [
+                        "passivesensors"
+                    ]
+                }
+            }
+        ],
+        "points": 195,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "TTT": "Alex Smittle ",
+    "VassalForm1": "SmittleJones",
+    "VassalForm2": "SmittleJones"
+}

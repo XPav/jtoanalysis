@@ -1,0 +1,186 @@
+{
+    "Add": "Leia Organa crew to Ezra Bridger",
+    "Discord": "DamianR #8429",
+    "Drop": "Red Veteran R7 Astro",
+    "Final": {
+        "faction": "rebelalliance",
+        "name": "Damian Robinson JTO",
+        "obstacles": [
+            "core2asteroid0",
+            "core2asteroid3",
+            "core2asteroid5"
+        ],
+        "pilots": [
+            {
+                "id": "redsquadronveteran",
+                "points": 56,
+                "ship": "t65xwing",
+                "upgrades": {
+                    "configuration": [
+                        "servomotorsfoils"
+                    ],
+                    "modification": [
+                        "staticdischargevanes"
+                    ],
+                    "torpedo": [
+                        "plasmatorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "airencracken",
+                "points": 39,
+                "ship": "z95af4headhunter",
+                "upgrades": {
+                    "talent": [
+                        "intimidation"
+                    ]
+                }
+            },
+            {
+                "id": "ezrabridger-sheathipedeclassshuttle",
+                "points": 49,
+                "ship": "sheathipedeclassshuttle",
+                "upgrades": {
+                    "crew": [
+                        "leiaorgana"
+                    ],
+                    "title": [
+                        "phantom"
+                    ]
+                }
+            },
+            {
+                "id": "wedgeantilles",
+                "points": 55,
+                "ship": "t65xwing",
+                "upgrades": {
+                    "configuration": [
+                        "servomotorsfoils"
+                    ]
+                }
+            }
+        ],
+        "points": 199,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Name": "Damian Robinson",
+    "Option1": {
+        "faction": "rebelalliance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "redsquadronveteran",
+                "points": 63,
+                "ship": "t65xwing",
+                "upgrades": {
+                    "astromech": [
+                        "r2astromech"
+                    ],
+                    "configuration": [
+                        "servomotorsfoils"
+                    ],
+                    "modification": [
+                        "staticdischargevanes"
+                    ],
+                    "torpedo": [
+                        "plasmatorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "airencracken",
+                "points": 39,
+                "ship": "z95af4headhunter",
+                "upgrades": {
+                    "talent": [
+                        "intimidation"
+                    ]
+                }
+            },
+            {
+                "id": "ezrabridger-sheathipedeclassshuttle",
+                "points": 42,
+                "ship": "sheathipedeclassshuttle",
+                "upgrades": {
+                    "title": [
+                        "phantom"
+                    ]
+                }
+            },
+            {
+                "id": "wedgeantilles",
+                "points": 55,
+                "ship": "t65xwing",
+                "upgrades": {
+                    "configuration": [
+                        "servomotorsfoils"
+                    ]
+                }
+            }
+        ],
+        "points": 199,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Option2": {
+        "faction": "resistance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "logisticsdivisionpilot",
+                "points": 51,
+                "ship": "resistancetransport",
+                "upgrades": {
+                    "astromech": [
+                        "r2astromech"
+                    ],
+                    "cannon": [
+                        "jammingbeam"
+                    ],
+                    "crew": [
+                        "larmadacy"
+                    ],
+                    "modification": [
+                        "munitionsfailsafe"
+                    ],
+                    "torpedo": [
+                        "plasmatorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "greersonnel",
+                "points": 44,
+                "ship": "rz2awing",
+                "upgrades": {
+                    "talent": [
+                        "predator"
+                    ],
+                    "tech": [
+                        "targetingsynchronizer"
+                    ]
+                }
+            },
+            {
+                "id": "chewbacca-scavengedyt1300",
+                "points": 63,
+                "ship": "scavengedyt1300",
+                "upgrades": {}
+            },
+            {
+                "id": "covanell",
+                "points": 38,
+                "ship": "resistancetransport",
+                "upgrades": {}
+            }
+        ],
+        "points": 196,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "TTT": "Damian Robinson",
+    "VassalForm1": "DamianR",
+    "VassalForm2": "DamianR"
+}

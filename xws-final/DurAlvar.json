@@ -1,0 +1,190 @@
+{
+    "Add": "Concussion missiles to seventh sister",
+    "Discord": "DurAlvar (Luke)#1106",
+    "Drop": "Agile Gunner from Gamma Squadron Ace",
+    "Final": {
+        "faction": "galacticempire",
+        "name": "Luke Thompson JTO",
+        "pilots": [
+            {
+                "id": "coloneljendon",
+                "points": 72,
+                "ship": "lambdaclasst4ashuttle",
+                "upgrades": {
+                    "cannon": [
+                        "heavylasercannon"
+                    ],
+                    "crew": [
+                        "darthvader"
+                    ],
+                    "modification": [
+                        "hullupgrade"
+                    ],
+                    "sensor": [
+                        "firecontrolsystem"
+                    ]
+                }
+            },
+            {
+                "id": "sienarspecialist",
+                "points": 34,
+                "ship": "tieagaggressor",
+                "upgrades": {
+                    "missile": [
+                        "barragerockets"
+                    ]
+                }
+            },
+            {
+                "id": "seventhsister",
+                "points": 49,
+                "ship": "tieadvancedv1",
+                "upgrades": {
+                    "missile": [
+                        "concussionmissiles"
+                    ]
+                }
+            },
+            {
+                "id": "gammasquadronace",
+                "points": 42,
+                "ship": "tiesabomber",
+                "upgrades": {
+                    "modification": [
+                        "staticdischargevanes"
+                    ],
+                    "torpedo": [
+                        "iontorpedoes"
+                    ]
+                }
+            }
+        ],
+        "points": 197,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Name": "Luke Thompson",
+    "Option1": {
+        "faction": "galacticempire",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "coloneljendon",
+                "points": 72,
+                "ship": "lambdaclasst4ashuttle",
+                "upgrades": {
+                    "cannon": [
+                        "heavylasercannon"
+                    ],
+                    "crew": [
+                        "darthvader"
+                    ],
+                    "modification": [
+                        "hullupgrade"
+                    ],
+                    "sensor": [
+                        "firecontrolsystem"
+                    ]
+                }
+            },
+            {
+                "id": "sienarspecialist",
+                "points": 34,
+                "ship": "tieagaggressor",
+                "upgrades": {
+                    "missile": [
+                        "barragerockets"
+                    ]
+                }
+            },
+            {
+                "id": "seventhsister",
+                "points": 43,
+                "ship": "tieadvancedv1",
+                "upgrades": {}
+            },
+            {
+                "id": "gammasquadronace",
+                "points": 50,
+                "ship": "tiesabomber",
+                "upgrades": {
+                    "gunner": [
+                        "agilegunner"
+                    ],
+                    "modification": [
+                        "staticdischargevanes"
+                    ],
+                    "torpedo": [
+                        "iontorpedoes"
+                    ]
+                }
+            }
+        ],
+        "points": 199,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Option2": {
+        "faction": "firstorder",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "commandermalarus",
+                "points": 38,
+                "ship": "tiefofighter",
+                "upgrades": {}
+            },
+            {
+                "id": "zetasquadronsurvivor",
+                "points": 65,
+                "ship": "tiesffighter",
+                "upgrades": {
+                    "gunner": [
+                        "specialforcesgunner"
+                    ],
+                    "missile": [
+                        "concussionmissiles"
+                    ],
+                    "modification": [
+                        "staticdischargevanes"
+                    ],
+                    "sensor": [
+                        "trajectorysimulator"
+                    ],
+                    "tech": [
+                        "patternanalyzer"
+                    ]
+                }
+            },
+            {
+                "id": "holo",
+                "points": 62,
+                "ship": "tiebainterceptor",
+                "upgrades": {
+                    "missile": [
+                        "magpulsewarheads"
+                    ],
+                    "talent": [
+                        "daredevil"
+                    ]
+                }
+            },
+            {
+                "id": "epsilonsquadroncadet",
+                "points": 31,
+                "ship": "tiefofighter",
+                "upgrades": {
+                    "tech": [
+                        "targetingsynchronizer"
+                    ]
+                }
+            }
+        ],
+        "points": 196,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "TTT": "Luke Thompson",
+    "VassalForm1": "DurAlvar",
+    "VassalForm2": "DurAlvar"
+}

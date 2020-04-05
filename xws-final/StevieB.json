@@ -1,0 +1,168 @@
+{
+    "Add": "Leia to Roark",
+    "Discord": "StevieB9720",
+    "Drop": "Traj Sim",
+    "Final": {
+        "faction": "rebelalliance",
+        "name": "StevieB-Wings",
+        "pilots": [
+            {
+                "id": "bluesquadronpilot",
+                "points": 47,
+                "ship": "asf01bwing",
+                "upgrades": {
+                    "cannon": [
+                        "ioncannon"
+                    ]
+                }
+            },
+            {
+                "id": "bladesquadronveteran",
+                "points": 42,
+                "ship": "asf01bwing",
+                "upgrades": {}
+            },
+            {
+                "id": "zeborrelios-tielnfighter",
+                "points": 32,
+                "ship": "tielnfighter",
+                "upgrades": {
+                    "modification": [
+                        "stealthdevice"
+                    ]
+                }
+            },
+            {
+                "id": "ap5",
+                "points": 32,
+                "ship": "sheathipedeclassshuttle",
+                "upgrades": {}
+            },
+            {
+                "id": "roarkgarnet",
+                "points": 45,
+                "ship": "hwk290lightfreighter",
+                "upgrades": {
+                    "crew": [
+                        "leiaorgana"
+                    ]
+                }
+            }
+        ],
+        "points": 198,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Name": "Steve Boulton",
+    "Option1": {
+        "faction": "rebelalliance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "bluesquadronpilot",
+                "points": 47,
+                "ship": "asf01bwing",
+                "upgrades": {
+                    "cannon": [
+                        "ioncannon"
+                    ]
+                }
+            },
+            {
+                "id": "zeborrelios-tielnfighter",
+                "points": 32,
+                "ship": "tielnfighter",
+                "upgrades": {
+                    "modification": [
+                        "stealthdevice"
+                    ]
+                }
+            },
+            {
+                "id": "bladesquadronveteran",
+                "points": 48,
+                "ship": "asf01bwing",
+                "upgrades": {
+                    "sensor": [
+                        "trajectorysimulator"
+                    ]
+                }
+            },
+            {
+                "id": "ap5",
+                "points": 32,
+                "ship": "sheathipedeclassshuttle",
+                "upgrades": {}
+            },
+            {
+                "id": "roarkgarnet",
+                "points": 38,
+                "ship": "hwk290lightfreighter",
+                "upgrades": {}
+            }
+        ],
+        "points": 197,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Option2": {
+        "faction": "galacticrepublic",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "kickback",
+                "points": 33,
+                "ship": "v19torrentstarfighter",
+                "upgrades": {}
+            },
+            {
+                "id": "squadsevenveteran",
+                "points": 73,
+                "ship": "arc170starfighter",
+                "upgrades": {
+                    "astromech": [
+                        "r2c4"
+                    ],
+                    "gunner": [
+                        "hotshotgunner"
+                    ],
+                    "talent": [
+                        "trickshot"
+                    ],
+                    "torpedo": [
+                        "protontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "padmeamidala",
+                "points": 51,
+                "ship": "nabooroyaln1starfighter",
+                "upgrades": {
+                    "talent": [
+                        "outmaneuver"
+                    ]
+                }
+            },
+            {
+                "id": "r2d2",
+                "points": 40,
+                "ship": "btlbywing",
+                "upgrades": {
+                    "gunner": [
+                        "skilledbombardier"
+                    ],
+                    "turret": [
+                        "dorsalturret"
+                    ]
+                }
+            }
+        ],
+        "points": 197,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "TTT": "StevieB",
+    "VassalForm1": "StevieB",
+    "VassalForm2": "StevieB"
+}

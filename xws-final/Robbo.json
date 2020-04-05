@@ -1,0 +1,194 @@
+{
+    "Add": "Advanced slam to kazuda ziono ",
+    "Discord": "Robbo #3423",
+    "Drop": "Ion missiles from Kazuda Ziono",
+    "Final": {
+        "faction": "resistance",
+        "name": "Robbie Connolly JTO",
+        "pilots": [
+            {
+                "id": "lulolampar",
+                "points": 44,
+                "ship": "rz2awing",
+                "upgrades": {
+                    "talent": [
+                        "heroic"
+                    ]
+                }
+            },
+            {
+                "id": "r1j5",
+                "points": 48,
+                "ship": "fireball",
+                "upgrades": {
+                    "crew": [
+                        "rosetico"
+                    ],
+                    "missile": [
+                        "clustermissiles"
+                    ],
+                    "modification": [
+                        "hullupgrade"
+                    ]
+                }
+            },
+            {
+                "id": "nodinchavdri",
+                "points": 56,
+                "ship": "resistancetransport",
+                "upgrades": {
+                    "astromech": [
+                        "r5astromech"
+                    ],
+                    "cannon": [
+                        "tractorbeam"
+                    ],
+                    "torpedo": [
+                        "protontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "kazudaxiono",
+                "points": 49,
+                "ship": "fireball",
+                "upgrades": {
+                    "astromech": [
+                        "bb8"
+                    ],
+                    "modification": [
+                        "advancedslam"
+                    ]
+                }
+            }
+        ],
+        "points": 197,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Name": "Robbie Connolly",
+    "Option1": {
+        "faction": "resistance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "lulolampar",
+                "points": 44,
+                "ship": "rz2awing",
+                "upgrades": {
+                    "talent": [
+                        "heroic"
+                    ]
+                }
+            },
+            {
+                "id": "r1j5",
+                "points": 48,
+                "ship": "fireball",
+                "upgrades": {
+                    "crew": [
+                        "rosetico"
+                    ],
+                    "missile": [
+                        "clustermissiles"
+                    ],
+                    "modification": [
+                        "hullupgrade"
+                    ]
+                }
+            },
+            {
+                "id": "nodinchavdri",
+                "points": 56,
+                "ship": "resistancetransport",
+                "upgrades": {
+                    "astromech": [
+                        "r5astromech"
+                    ],
+                    "cannon": [
+                        "tractorbeam"
+                    ],
+                    "torpedo": [
+                        "protontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "kazudaxiono",
+                "points": 50,
+                "ship": "fireball",
+                "upgrades": {
+                    "astromech": [
+                        "bb8"
+                    ],
+                    "missile": [
+                        "ionmissiles"
+                    ]
+                }
+            }
+        ],
+        "points": 198,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Option2": {
+        "faction": "firstorder",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "scorch",
+                "points": 38,
+                "ship": "tiefofighter",
+                "upgrades": {
+                    "modification": [
+                        "electronicbaffle"
+                    ],
+                    "talent": [
+                        "fanatical"
+                    ],
+                    "tech": [
+                        "biohexacryptcodes"
+                    ]
+                }
+            },
+            {
+                "id": "majorstridan",
+                "points": 91,
+                "ship": "upsilonclasscommandshuttle",
+                "upgrades": {
+                    "crew": [
+                        "kyloren",
+                        "novicetechnician",
+                        "informant"
+                    ],
+                    "tech": [
+                        "deuteriumpowercells",
+                        "biohexacryptcodes"
+                    ]
+                }
+            },
+            {
+                "id": "zetasquadronpilot",
+                "points": 26,
+                "ship": "tiefofighter",
+                "upgrades": {}
+            },
+            {
+                "id": "backdraft",
+                "points": 42,
+                "ship": "tiesffighter",
+                "upgrades": {
+                    "sensor": [
+                        "passivesensors"
+                    ]
+                }
+            }
+        ],
+        "points": 197,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "TTT": "Robbie Connolly",
+    "VassalForm1": "Robbo",
+    "VassalForm2": "Robbo"
+}

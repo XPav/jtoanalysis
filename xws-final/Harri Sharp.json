@@ -1,0 +1,203 @@
+{
+    "Add": "Proximity Mines to Sol Sixxa",
+    "Discord": "DarthHarri#4389",
+    "Drop": "Outmaneuver",
+    "Final": {
+        "faction": "scumandvillainy",
+        "name": "Harrison Sharp JTO",
+        "pilots": [
+            {
+                "id": "blacksunsoldier",
+                "points": 31,
+                "ship": "z95af4headhunter",
+                "upgrades": {
+                    "missile": [
+                        "concussionmissiles"
+                    ],
+                    "talent": [
+                        "marksmanship"
+                    ]
+                }
+            },
+            {
+                "id": "blacksunsoldier",
+                "points": 32,
+                "ship": "z95af4headhunter",
+                "upgrades": {
+                    "illicit": [
+                        "deadmansswitch"
+                    ],
+                    "missile": [
+                        "concussionmissiles"
+                    ]
+                }
+            },
+            {
+                "id": "spicerunner",
+                "points": 40,
+                "ship": "hwk290lightfreighter",
+                "upgrades": {
+                    "crew": [
+                        "l337"
+                    ],
+                    "device": [
+                        "seismiccharges"
+                    ],
+                    "illicit": [
+                        "feedbackarray"
+                    ]
+                }
+            },
+            {
+                "id": "binayrepirate",
+                "points": 22,
+                "ship": "z95af4headhunter",
+                "upgrades": {}
+            },
+            {
+                "id": "solsixxa",
+                "points": 52,
+                "ship": "scurrgh6bomber",
+                "upgrades": {
+                    "device": [
+                        "proximitymines"
+                    ]
+                }
+            },
+            {
+                "id": "binayrepirate",
+                "points": 22,
+                "ship": "z95af4headhunter",
+                "upgrades": {}
+            }
+        ],
+        "points": 199,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Name": "Harrison Sharp ",
+    "Option1": {
+        "faction": "galacticrepublic",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "kickback",
+                "points": 40,
+                "ship": "v19torrentstarfighter",
+                "upgrades": {
+                    "missile": [
+                        "protonrockets"
+                    ]
+                }
+            },
+            {
+                "id": "104thbattalionpilot",
+                "points": 48,
+                "ship": "arc170starfighter",
+                "upgrades": {
+                    "torpedo": [
+                        "advprotontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "oddball-btlbywing",
+                "points": 51,
+                "ship": "btlbywing",
+                "upgrades": {
+                    "gunner": [
+                        "hotshotgunner"
+                    ]
+                }
+            },
+            {
+                "id": "obiwankenobi",
+                "points": 58,
+                "ship": "delta7aethersprite",
+                "upgrades": {
+                    "force-power": [
+                        "battlemeditation"
+                    ]
+                }
+            }
+        ],
+        "points": 197,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Option2": {
+        "faction": "scumandvillainy",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "blacksunsoldier",
+                "points": 31,
+                "ship": "z95af4headhunter",
+                "upgrades": {
+                    "missile": [
+                        "concussionmissiles"
+                    ],
+                    "talent": [
+                        "marksmanship"
+                    ]
+                }
+            },
+            {
+                "id": "blacksunsoldier",
+                "points": 38,
+                "ship": "z95af4headhunter",
+                "upgrades": {
+                    "illicit": [
+                        "deadmansswitch"
+                    ],
+                    "missile": [
+                        "concussionmissiles"
+                    ],
+                    "talent": [
+                        "outmaneuver"
+                    ]
+                }
+            },
+            {
+                "id": "spicerunner",
+                "points": 40,
+                "ship": "hwk290lightfreighter",
+                "upgrades": {
+                    "crew": [
+                        "l337"
+                    ],
+                    "device": [
+                        "seismiccharges"
+                    ],
+                    "illicit": [
+                        "feedbackarray"
+                    ]
+                }
+            },
+            {
+                "id": "binayrepirate",
+                "points": 22,
+                "ship": "z95af4headhunter",
+                "upgrades": {}
+            },
+            {
+                "id": "solsixxa",
+                "points": 46,
+                "ship": "scurrgh6bomber",
+                "upgrades": {}
+            },
+            {
+                "id": "binayrepirate",
+                "points": 22,
+                "ship": "z95af4headhunter",
+                "upgrades": {}
+            }
+        ],
+        "points": 199,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "TTT": "Harrison Sharp",
+    "VassalForm1": "Harri Sharp",
+    "VassalForm2": "DarthHarri"
+}

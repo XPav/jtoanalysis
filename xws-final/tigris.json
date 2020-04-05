@@ -1,0 +1,208 @@
+{
+    "Add": "R2 Astromech",
+    "Discord": "tigris",
+    "Drop": "BB Astromech",
+    "Final": {
+        "faction": "resistance",
+        "name": "Ronald Daguman JTO",
+        "obstacles": [
+            "coreasteroid5",
+            "yt2400debris2",
+            "core2asteroid5"
+        ],
+        "pilots": [
+            {
+                "id": "pammichnerrogoode",
+                "points": 62,
+                "ship": "resistancetransport",
+                "upgrades": {
+                    "astromech": [
+                        "r5x3"
+                    ],
+                    "crew": [
+                        "informant",
+                        "tacticalofficer"
+                    ],
+                    "modification": [
+                        "munitionsfailsafe"
+                    ],
+                    "torpedo": [
+                        "plasmatorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "bluesquadronrookie",
+                "points": 57,
+                "ship": "t70xwing",
+                "upgrades": {
+                    "astromech": [
+                        "r5astromech"
+                    ],
+                    "configuration": [
+                        "integratedsfoils"
+                    ],
+                    "missile": [
+                        "ionmissiles"
+                    ],
+                    "tech": [
+                        "patternanalyzer"
+                    ],
+                    "title": [
+                        "blackone"
+                    ]
+                }
+            },
+            {
+                "id": "poedameron",
+                "points": 79,
+                "ship": "t70xwing",
+                "upgrades": {
+                    "astromech": [
+                        "r2astromech"
+                    ],
+                    "configuration": [
+                        "integratedsfoils"
+                    ],
+                    "tech": [
+                        "advancedoptics"
+                    ]
+                }
+            }
+        ],
+        "points": 198,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Name": "Ronald Daguman",
+    "Option1": {
+        "faction": "resistance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "pammichnerrogoode",
+                "points": 62,
+                "ship": "resistancetransport",
+                "upgrades": {
+                    "astromech": [
+                        "r5x3"
+                    ],
+                    "crew": [
+                        "informant",
+                        "tacticalofficer"
+                    ],
+                    "modification": [
+                        "munitionsfailsafe"
+                    ],
+                    "torpedo": [
+                        "plasmatorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "bluesquadronrookie",
+                "points": 57,
+                "ship": "t70xwing",
+                "upgrades": {
+                    "astromech": [
+                        "r5astromech"
+                    ],
+                    "configuration": [
+                        "integratedsfoils"
+                    ],
+                    "missile": [
+                        "ionmissiles"
+                    ],
+                    "tech": [
+                        "patternanalyzer"
+                    ],
+                    "title": [
+                        "blackone"
+                    ]
+                }
+            },
+            {
+                "id": "poedameron",
+                "points": 78,
+                "ship": "t70xwing",
+                "upgrades": {
+                    "astromech": [
+                        "bbastromech"
+                    ],
+                    "configuration": [
+                        "integratedsfoils"
+                    ],
+                    "tech": [
+                        "advancedoptics"
+                    ]
+                }
+            }
+        ],
+        "points": 197,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Option2": {
+        "faction": "scumandvillainy",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "miningguildsurveyor",
+                "points": 23,
+                "ship": "modifiedtielnfighter",
+                "upgrades": {}
+            },
+            {
+                "id": "jakkugunrunner",
+                "points": 42,
+                "ship": "quadrijettransferspacetug",
+                "upgrades": {
+                    "crew": [
+                        "lattsrazzi"
+                    ],
+                    "modification": [
+                        "delayedfuses"
+                    ],
+                    "tech": [
+                        "advancedoptics"
+                    ]
+                }
+            },
+            {
+                "id": "ig88c",
+                "points": 76,
+                "ship": "aggressorassaultfighter",
+                "upgrades": {
+                    "device": [
+                        "protonbombs"
+                    ],
+                    "modification": [
+                        "staticdischargevanes"
+                    ],
+                    "talent": [
+                        "marksmanship"
+                    ]
+                }
+            },
+            {
+                "id": "hansolo",
+                "points": 58,
+                "ship": "customizedyt1300lightfreighter",
+                "upgrades": {
+                    "modification": [
+                        "munitionsfailsafe"
+                    ],
+                    "title": [
+                        "landosmillenniumfalcon"
+                    ]
+                }
+            }
+        ],
+        "points": 199,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "TTT": "tigris",
+    "VassalForm1": "tigris",
+    "VassalForm2": "tigris"
+}

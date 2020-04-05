@@ -1,0 +1,182 @@
+{
+    "Add": "Cluster Missiles added to \u00c3\u00a2\u00e2\u201a\u00ac\u00c2\u00a2Esege Tuketu",
+    "Discord": "Alejandro Sparano (Enano)#3406",
+    "Drop": "Trayectory Simulator from Blade Squadron veteran",
+    "Final": {
+        "faction": "rebelalliance",
+        "name": "Alejandro Sparano JTO",
+        "obstacles": [
+            "coreasteroid5",
+            "core2asteroid4",
+            "core2asteroid5"
+        ],
+        "pilots": [
+            {
+                "id": "ibtisam",
+                "points": 58,
+                "ship": "arc170starfighter",
+                "upgrades": {
+                    "crew": [
+                        "landocalrissian"
+                    ],
+                    "gunner": [
+                        "hotshotgunner"
+                    ],
+                    "modification": [
+                        "tacticalscrambler"
+                    ],
+                    "talent": [
+                        "composure"
+                    ]
+                }
+            },
+            {
+                "id": "esegetuketu",
+                "points": 93,
+                "ship": "btls8kwing",
+                "upgrades": {
+                    "crew": [
+                        "kananjarrus"
+                    ],
+                    "device": [
+                        "electroprotonbomb"
+                    ],
+                    "gunner": [
+                        "ezrabridger"
+                    ],
+                    "missile": [
+                        "clustermissiles"
+                    ],
+                    "torpedo": [
+                        "iontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "bladesquadronveteran",
+                "points": 48,
+                "ship": "asf01bwing",
+                "upgrades": {
+                    "torpedo": [
+                        "iontorpedoes"
+                    ]
+                }
+            }
+        ],
+        "points": 199,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Name": "Alejandro Sparano",
+    "Option1": {
+        "faction": "rebelalliance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "ibtisam",
+                "points": 58,
+                "ship": "arc170starfighter",
+                "upgrades": {
+                    "crew": [
+                        "landocalrissian"
+                    ],
+                    "gunner": [
+                        "hotshotgunner"
+                    ],
+                    "modification": [
+                        "tacticalscrambler"
+                    ],
+                    "talent": [
+                        "composure"
+                    ]
+                }
+            },
+            {
+                "id": "esegetuketu",
+                "points": 88,
+                "ship": "btls8kwing",
+                "upgrades": {
+                    "crew": [
+                        "kananjarrus"
+                    ],
+                    "device": [
+                        "electroprotonbomb"
+                    ],
+                    "gunner": [
+                        "ezrabridger"
+                    ],
+                    "torpedo": [
+                        "iontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "bladesquadronveteran",
+                "points": 54,
+                "ship": "asf01bwing",
+                "upgrades": {
+                    "sensor": [
+                        "trajectorysimulator"
+                    ],
+                    "torpedo": [
+                        "iontorpedoes"
+                    ]
+                }
+            }
+        ],
+        "points": 200,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Option2": {
+        "faction": "resistance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "paigetico",
+                "points": 67,
+                "ship": "mg100starfortress",
+                "upgrades": {
+                    "gunner": [
+                        "skilledbombardier"
+                    ],
+                    "talent": [
+                        "lonewolf"
+                    ]
+                }
+            },
+            {
+                "id": "cobaltsquadronbomber",
+                "points": 65,
+                "ship": "mg100starfortress",
+                "upgrades": {
+                    "device": [
+                        "bombletgenerator"
+                    ],
+                    "sensor": [
+                        "firecontrolsystem"
+                    ],
+                    "tech": [
+                        "ferrospherepaint"
+                    ]
+                }
+            },
+            {
+                "id": "finchdallow",
+                "points": 63,
+                "ship": "mg100starfortress",
+                "upgrades": {
+                    "sensor": [
+                        "passivesensors"
+                    ]
+                }
+            }
+        ],
+        "points": 195,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "TTT": "Alejandro Sparano",
+    "VassalForm1": "AlejandroSparano",
+    "VassalForm2": "AlejandroSparano"
+}

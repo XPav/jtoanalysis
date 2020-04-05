@@ -1,0 +1,169 @@
+{
+    "Add": "Cluster Missile on Seventh Sister ",
+    "Discord": "warmdown#9551",
+    "Drop": "Homing Missile from Storm Squadron Ace",
+    "Final": {
+        "faction": "galacticempire",
+        "name": "Patrick Steiche JTO",
+        "pilots": [
+            {
+                "id": "seynmarana",
+                "points": 32,
+                "ship": "tielnfighter",
+                "upgrades": {
+                    "modification": [
+                        "munitionsfailsafe"
+                    ],
+                    "talent": [
+                        "marksmanship"
+                    ]
+                }
+            },
+            {
+                "id": "stormsquadronace",
+                "points": 39,
+                "ship": "tieadvancedx1",
+                "upgrades": {}
+            },
+            {
+                "id": "majorvermeil",
+                "points": 49,
+                "ship": "tiereaper",
+                "upgrades": {}
+            },
+            {
+                "id": "lieutenantkestal",
+                "points": 31,
+                "ship": "tieagaggressor",
+                "upgrades": {}
+            },
+            {
+                "id": "seventhsister",
+                "points": 48,
+                "ship": "tieadvancedv1",
+                "upgrades": {
+                    "missile": [
+                        "clustermissiles"
+                    ]
+                }
+            }
+        ],
+        "points": 199,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Name": "Patrick Steiche",
+    "Option1": {
+        "faction": "separatistalliance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "precisehunter",
+                "points": 34,
+                "ship": "vultureclassdroidfighter",
+                "upgrades": {
+                    "configuration": [
+                        "grapplingstruts"
+                    ],
+                    "missile": [
+                        "clustermissiles"
+                    ],
+                    "modification": [
+                        "hullupgrade"
+                    ]
+                }
+            },
+            {
+                "id": "dfs081",
+                "points": 26,
+                "ship": "vultureclassdroidfighter",
+                "upgrades": {}
+            },
+            {
+                "id": "berwerkret",
+                "points": 40,
+                "ship": "nantexclassstarfighter",
+                "upgrades": {}
+            },
+            {
+                "id": "dbs404",
+                "points": 44,
+                "ship": "hyenaclassdroidbomber",
+                "upgrades": {
+                    "configuration": [
+                        "landingstruts"
+                    ],
+                    "torpedo": [
+                        "protontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "captainsear",
+                "points": 54,
+                "ship": "belbullab22starfighter",
+                "upgrades": {
+                    "tacticalrelay": [
+                        "ta175"
+                    ]
+                }
+            }
+        ],
+        "points": 198,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Option2": {
+        "faction": "galacticempire",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "seynmarana",
+                "points": 32,
+                "ship": "tielnfighter",
+                "upgrades": {
+                    "modification": [
+                        "munitionsfailsafe"
+                    ],
+                    "talent": [
+                        "marksmanship"
+                    ]
+                }
+            },
+            {
+                "id": "stormsquadronace",
+                "points": 44,
+                "ship": "tieadvancedx1",
+                "upgrades": {
+                    "missile": [
+                        "homingmissiles"
+                    ]
+                }
+            },
+            {
+                "id": "majorvermeil",
+                "points": 49,
+                "ship": "tiereaper",
+                "upgrades": {}
+            },
+            {
+                "id": "lieutenantkestal",
+                "points": 31,
+                "ship": "tieagaggressor",
+                "upgrades": {}
+            },
+            {
+                "id": "seventhsister",
+                "points": 43,
+                "ship": "tieadvancedv1",
+                "upgrades": {}
+            }
+        ],
+        "points": 199,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "TTT": "Patrick Steiche",
+    "VassalForm1": "warmdown",
+    "VassalForm2": "warmdown"
+}

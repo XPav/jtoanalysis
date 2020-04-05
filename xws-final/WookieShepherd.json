@@ -1,0 +1,169 @@
+{
+    "Add": "Hull Upgrade onto Zeb",
+    "Discord": "WookieShepherd#9547",
+    "Drop": "Selfless off of Leevan",
+    "Final": {
+        "faction": "rebelalliance",
+        "name": "Jason Hall JTO",
+        "pilots": [
+            {
+                "id": "chewbacca",
+                "points": 80,
+                "ship": "modifiedyt1300lightfreighter",
+                "upgrades": {
+                    "missile": [
+                        "concussionmissiles"
+                    ],
+                    "modification": [
+                        "hullupgrade"
+                    ]
+                }
+            },
+            {
+                "id": "zeborrelios",
+                "points": 37,
+                "ship": "attackshuttle",
+                "upgrades": {
+                    "modification": [
+                        "hullupgrade"
+                    ]
+                }
+            },
+            {
+                "id": "leevantenza",
+                "points": 44,
+                "ship": "t65xwing",
+                "upgrades": {
+                    "configuration": [
+                        "servomotorsfoils"
+                    ]
+                }
+            },
+            {
+                "id": "cavernangelszealot",
+                "points": 39,
+                "ship": "t65xwing",
+                "upgrades": {
+                    "configuration": [
+                        "servomotorsfoils"
+                    ]
+                }
+            }
+        ],
+        "points": 200,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Name": "Jason Hall",
+    "Option1": {
+        "faction": "firstorder",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "avenger",
+                "points": 71,
+                "ship": "tievnsilencer",
+                "upgrades": {
+                    "talent": [
+                        "fanatical"
+                    ],
+                    "torpedo": [
+                        "protontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "firstorderprovocateur",
+                "points": 59,
+                "ship": "tiebainterceptor",
+                "upgrades": {
+                    "missile": [
+                        "clustermissiles"
+                    ],
+                    "modification": [
+                        "hullupgrade"
+                    ],
+                    "talent": [
+                        "predator"
+                    ]
+                }
+            },
+            {
+                "id": "commandermalarus",
+                "points": 42,
+                "ship": "tiefofighter",
+                "upgrades": {
+                    "modification": [
+                        "munitionsfailsafe"
+                    ],
+                    "talent": [
+                        "intimidation"
+                    ]
+                }
+            },
+            {
+                "id": "lieutenantrivas",
+                "points": 27,
+                "ship": "tiefofighter",
+                "upgrades": {}
+            }
+        ],
+        "points": 199,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Option2": {
+        "faction": "rebelalliance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "chewbacca",
+                "points": 80,
+                "ship": "modifiedyt1300lightfreighter",
+                "upgrades": {
+                    "missile": [
+                        "concussionmissiles"
+                    ],
+                    "modification": [
+                        "hullupgrade"
+                    ]
+                }
+            },
+            {
+                "id": "zeborrelios",
+                "points": 32,
+                "ship": "attackshuttle",
+                "upgrades": {}
+            },
+            {
+                "id": "leevantenza",
+                "points": 47,
+                "ship": "t65xwing",
+                "upgrades": {
+                    "configuration": [
+                        "servomotorsfoils"
+                    ],
+                    "talent": [
+                        "selfless"
+                    ]
+                }
+            },
+            {
+                "id": "cavernangelszealot",
+                "points": 39,
+                "ship": "t65xwing",
+                "upgrades": {
+                    "configuration": [
+                        "servomotorsfoils"
+                    ]
+                }
+            }
+        ],
+        "points": 198,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "TTT": "Jason Hall",
+    "VassalForm1": "WookieShepherd",
+    "VassalForm2": "WookieShepherd"
+}

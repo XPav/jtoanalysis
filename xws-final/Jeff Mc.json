@@ -1,0 +1,199 @@
+{
+    "Add": "Juke on Padme",
+    "Discord": "#8987",
+    "Drop": "Snap shot off Padme",
+    "Final": {
+        "faction": "galacticrepublic",
+        "name": "Jeff McClain JTO",
+        "obstacles": [
+            "coreasteroid2",
+            "coreasteroid3",
+            "coreasteroid5"
+        ],
+        "pilots": [
+            {
+                "id": "goldsquadrontrooper",
+                "points": 32,
+                "ship": "v19torrentstarfighter",
+                "upgrades": {
+                    "missile": [
+                        "protonrockets"
+                    ]
+                }
+            },
+            {
+                "id": "macewindu",
+                "points": 53,
+                "ship": "delta7aethersprite",
+                "upgrades": {
+                    "astromech": [
+                        "r5astromech"
+                    ],
+                    "configuration": [
+                        "calibratedlasertargeting"
+                    ],
+                    "force-power": [
+                        "instinctiveaim"
+                    ]
+                }
+            },
+            {
+                "id": "padmeamidala",
+                "points": 73,
+                "ship": "nabooroyaln1starfighter",
+                "upgrades": {
+                    "astromech": [
+                        "r2a6"
+                    ],
+                    "sensor": [
+                        "collisiondetector"
+                    ],
+                    "talent": [
+                        "juke"
+                    ],
+                    "torpedo": [
+                        "plasmatorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "goji",
+                "points": 42,
+                "ship": "btlbywing",
+                "upgrades": {
+                    "astromech": [
+                        "r2astromech"
+                    ],
+                    "turret": [
+                        "ioncannonturret"
+                    ]
+                }
+            }
+        ],
+        "points": 200,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Name": "Jeff McClain",
+    "Option1": {
+        "faction": "galacticrepublic",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "goldsquadrontrooper",
+                "points": 32,
+                "ship": "v19torrentstarfighter",
+                "upgrades": {
+                    "missile": [
+                        "protonrockets"
+                    ]
+                }
+            },
+            {
+                "id": "macewindu",
+                "points": 53,
+                "ship": "delta7aethersprite",
+                "upgrades": {
+                    "astromech": [
+                        "r5astromech"
+                    ],
+                    "configuration": [
+                        "calibratedlasertargeting"
+                    ],
+                    "force-power": [
+                        "instinctiveaim"
+                    ]
+                }
+            },
+            {
+                "id": "padmeamidala",
+                "points": 73,
+                "ship": "nabooroyaln1starfighter",
+                "upgrades": {
+                    "astromech": [
+                        "r2a6"
+                    ],
+                    "sensor": [
+                        "collisiondetector"
+                    ],
+                    "talent": [
+                        "snapshot"
+                    ],
+                    "torpedo": [
+                        "plasmatorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "goji",
+                "points": 42,
+                "ship": "btlbywing",
+                "upgrades": {
+                    "astromech": [
+                        "r2astromech"
+                    ],
+                    "turret": [
+                        "ioncannonturret"
+                    ]
+                }
+            }
+        ],
+        "points": 200,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Option2": {
+        "faction": "separatistalliance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "gorgol",
+                "points": 37,
+                "ship": "nantexclassstarfighter",
+                "upgrades": {
+                    "modification": [
+                        "delayedfuses"
+                    ]
+                }
+            },
+            {
+                "id": "darthmaul",
+                "points": 75,
+                "ship": "sithinfiltrator",
+                "upgrades": {
+                    "tacticalrelay": [
+                        "kraken"
+                    ]
+                }
+            },
+            {
+                "id": "tradefederationdrone",
+                "points": 19,
+                "ship": "vultureclassdroidfighter",
+                "upgrades": {}
+            },
+            {
+                "id": "dbs32c",
+                "points": 45,
+                "ship": "hyenaclassdroidbomber",
+                "upgrades": {
+                    "modification": [
+                        "hullupgrade"
+                    ]
+                }
+            },
+            {
+                "id": "dfs311",
+                "points": 23,
+                "ship": "vultureclassdroidfighter",
+                "upgrades": {}
+            }
+        ],
+        "points": 199,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "TTT": "Jeff McClain",
+    "VassalForm1": "Jeff Mc",
+    "VassalForm2": "Jeff Mc"
+}

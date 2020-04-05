@@ -1,0 +1,171 @@
+{
+    "Add": "Proximity mine, IG88C",
+    "Discord": "Rinehart#0927",
+    "Drop": "Stealth device, captain jostero",
+    "Final": {
+        "faction": "scumandvillainy",
+        "name": "Rinehart Jank Tank",
+        "pilots": [
+            {
+                "id": "ig88c",
+                "points": 74,
+                "ship": "aggressorassaultfighter",
+                "upgrades": {
+                    "device": [
+                        "proximitymines"
+                    ],
+                    "modification": [
+                        "delayedfuses"
+                    ],
+                    "talent": [
+                        "intimidation"
+                    ]
+                }
+            },
+            {
+                "id": "captainjostero",
+                "points": 42,
+                "ship": "kihraxzfighter",
+                "upgrades": {}
+            },
+            {
+                "id": "overseeryushyn",
+                "points": 26,
+                "ship": "modifiedtielnfighter",
+                "upgrades": {}
+            },
+            {
+                "id": "skullsquadronpilot",
+                "points": 56,
+                "ship": "fangfighter",
+                "upgrades": {
+                    "torpedo": [
+                        "plasmatorpedoes"
+                    ]
+                }
+            }
+        ],
+        "points": 198,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Name": "Ryan Fleming",
+    "Option1": {
+        "faction": "scumandvillainy",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "ig88c",
+                "points": 68,
+                "ship": "aggressorassaultfighter",
+                "upgrades": {
+                    "modification": [
+                        "delayedfuses"
+                    ],
+                    "talent": [
+                        "intimidation"
+                    ]
+                }
+            },
+            {
+                "id": "captainjostero",
+                "points": 48,
+                "ship": "kihraxzfighter",
+                "upgrades": {
+                    "modification": [
+                        "stealthdevice"
+                    ]
+                }
+            },
+            {
+                "id": "overseeryushyn",
+                "points": 26,
+                "ship": "modifiedtielnfighter",
+                "upgrades": {}
+            },
+            {
+                "id": "skullsquadronpilot",
+                "points": 56,
+                "ship": "fangfighter",
+                "upgrades": {
+                    "torpedo": [
+                        "plasmatorpedoes"
+                    ]
+                }
+            }
+        ],
+        "points": 198,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Option2": {
+        "faction": "separatistalliance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "generalgrievous",
+                "points": 47,
+                "ship": "belbullab22starfighter",
+                "upgrades": {
+                    "modification": [
+                        "munitionsfailsafe"
+                    ],
+                    "talent": [
+                        "daredevil"
+                    ]
+                }
+            },
+            {
+                "id": "dbs32c",
+                "points": 46,
+                "ship": "hyenaclassdroidbomber",
+                "upgrades": {
+                    "configuration": [
+                        "landingstruts"
+                    ],
+                    "tacticalrelay": [
+                        "tv94"
+                    ]
+                }
+            },
+            {
+                "id": "dbs404",
+                "points": 43,
+                "ship": "hyenaclassdroidbomber",
+                "upgrades": {
+                    "configuration": [
+                        "landingstruts"
+                    ],
+                    "device": [
+                        "clustermines"
+                    ],
+                    "missile": [
+                        "discordmissiles"
+                    ]
+                }
+            },
+            {
+                "id": "separatistbomber",
+                "points": 35,
+                "ship": "hyenaclassdroidbomber",
+                "upgrades": {
+                    "missile": [
+                        "protonrockets"
+                    ]
+                }
+            },
+            {
+                "id": "baktoidprototype",
+                "points": 28,
+                "ship": "hyenaclassdroidbomber",
+                "upgrades": {}
+            }
+        ],
+        "points": 199,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "TTT": "Rinehart",
+    "VassalForm1": "Rinehart",
+    "VassalForm2": "Rinehart "
+}

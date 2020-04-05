@@ -1,0 +1,184 @@
+{
+    "Add": "Targeting Computer to Alpha Squadron Pilot",
+    "Discord": "BrodyRules#9748",
+    "Drop": "Static Discharge Vanes from Alpha Squadron Pilot",
+    "Final": {
+        "faction": "galacticempire",
+        "name": "Drew Brody JTO",
+        "pilots": [
+            {
+                "id": "alphasquadronpilot",
+                "points": 42,
+                "ship": "tieininterceptor",
+                "upgrades": {
+                    "modification": [
+                        "shieldupgrade",
+                        "targetingcomputer"
+                    ]
+                }
+            },
+            {
+                "id": "coloneljendon",
+                "points": 58,
+                "ship": "lambdaclasst4ashuttle",
+                "upgrades": {
+                    "cannon": [
+                        "tractorbeam"
+                    ],
+                    "modification": [
+                        "hullupgrade"
+                    ],
+                    "title": [
+                        "st321"
+                    ]
+                }
+            },
+            {
+                "id": "seventhsister",
+                "points": 56,
+                "ship": "tieadvancedv1",
+                "upgrades": {
+                    "force-power": [
+                        "hate"
+                    ],
+                    "sensor": [
+                        "advancedsensors"
+                    ]
+                }
+            },
+            {
+                "id": "blacksquadronscout",
+                "points": 39,
+                "ship": "tieskstriker",
+                "upgrades": {
+                    "modification": [
+                        "hullupgrade"
+                    ]
+                }
+            }
+        ],
+        "points": 195,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Name": "Drew Brody",
+    "Option1": {
+        "faction": "firstorder",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "captainphasma",
+                "points": 59,
+                "ship": "tiesffighter",
+                "upgrades": {
+                    "modification": [
+                        "stealthdevice"
+                    ],
+                    "sensor": [
+                        "collisiondetector"
+                    ],
+                    "talent": [
+                        "predator"
+                    ],
+                    "tech": [
+                        "targetingsynchronizer"
+                    ]
+                }
+            },
+            {
+                "id": "backdraft",
+                "points": 51,
+                "ship": "tiesffighter",
+                "upgrades": {
+                    "missile": [
+                        "concussionmissiles"
+                    ],
+                    "modification": [
+                        "afterburners"
+                    ]
+                }
+            },
+            {
+                "id": "null",
+                "points": 33,
+                "ship": "tiefofighter",
+                "upgrades": {
+                    "modification": [
+                        "angleddeflectors"
+                    ]
+                }
+            },
+            {
+                "id": "holo",
+                "points": 54,
+                "ship": "tiebainterceptor",
+                "upgrades": {}
+            }
+        ],
+        "points": 197,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Option2": {
+        "faction": "galacticempire",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "alphasquadronpilot",
+                "points": 45,
+                "ship": "tieininterceptor",
+                "upgrades": {
+                    "modification": [
+                        "staticdischargevanes",
+                        "shieldupgrade"
+                    ]
+                }
+            },
+            {
+                "id": "coloneljendon",
+                "points": 58,
+                "ship": "lambdaclasst4ashuttle",
+                "upgrades": {
+                    "cannon": [
+                        "tractorbeam"
+                    ],
+                    "modification": [
+                        "hullupgrade"
+                    ],
+                    "title": [
+                        "st321"
+                    ]
+                }
+            },
+            {
+                "id": "seventhsister",
+                "points": 56,
+                "ship": "tieadvancedv1",
+                "upgrades": {
+                    "force-power": [
+                        "hate"
+                    ],
+                    "sensor": [
+                        "advancedsensors"
+                    ]
+                }
+            },
+            {
+                "id": "blacksquadronscout",
+                "points": 39,
+                "ship": "tieskstriker",
+                "upgrades": {
+                    "modification": [
+                        "hullupgrade"
+                    ]
+                }
+            }
+        ],
+        "points": 198,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "TTT": "Drew Brody",
+    "VassalForm1": "BrodyRules",
+    "VassalForm2": "BrodyRules "
+}

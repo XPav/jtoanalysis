@@ -1,0 +1,106 @@
+{
+    "Add": "OM onto Ember",
+    "Discord": "CraftedRed#4028",
+    "Drop": "Static Vanes off LeHuse",
+    "Final": null,
+    "Name": "Dale Cromwell",
+    "Option1": {
+        "faction": "firstorder",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "lieutenantlehuse",
+                "points": 62,
+                "ship": "tiesffighter",
+                "upgrades": {
+                    "gunner": [
+                        "hotshotgunner"
+                    ],
+                    "modification": [
+                        "staticdischargevanes"
+                    ],
+                    "sensor": [
+                        "passivesensors"
+                    ],
+                    "talent": [
+                        "intimidation"
+                    ],
+                    "tech": [
+                        "advancedoptics"
+                    ]
+                }
+            },
+            {
+                "id": "ember",
+                "points": 52,
+                "ship": "tiebainterceptor",
+                "upgrades": {}
+            },
+            {
+                "id": "lieutenanttavson",
+                "points": 83,
+                "ship": "upsilonclasscommandshuttle",
+                "upgrades": {
+                    "crew": [
+                        "captainphasma"
+                    ],
+                    "tech": [
+                        "hyperspacetrackingdata",
+                        "advancedoptics"
+                    ]
+                }
+            }
+        ],
+        "points": 197,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Option2": {
+        "faction": "resistance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "cobaltsquadronbomber",
+                "points": 92,
+                "ship": "mg100starfortress",
+                "upgrades": {
+                    "device": [
+                        "connernets",
+                        "electroprotonbomb"
+                    ],
+                    "gunner": [
+                        "hotshotgunner"
+                    ],
+                    "sensor": [
+                        "advancedsensors"
+                    ],
+                    "tech": [
+                        "patternanalyzer"
+                    ]
+                }
+            },
+            {
+                "id": "bluesquadronrookie",
+                "points": 42,
+                "ship": "t70xwing",
+                "upgrades": {
+                    "configuration": [
+                        "integratedsfoils"
+                    ]
+                }
+            },
+            {
+                "id": "hansolo-scavengedyt1300",
+                "points": 65,
+                "ship": "scavengedyt1300",
+                "upgrades": {}
+            }
+        ],
+        "points": 199,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "TTT": "Dale Cromwell",
+    "VassalForm1": "CraftedRed",
+    "VassalForm2": "Dale Cromwell"
+}

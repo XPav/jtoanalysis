@@ -1,0 +1,185 @@
+{
+    "Add": "Moff Jerrod to Oicunn",
+    "Discord": "CatchySlim",
+    "Drop": "Snapshot from Oicunn",
+    "Final": {
+        "faction": "galacticempire",
+        "name": "Andrew LaTourelle JTO",
+        "obstacles": [
+            "coreasteroid0",
+            "coreasteroid1",
+            "core2asteroid0"
+        ],
+        "pilots": [
+            {
+                "id": "captainoicunn",
+                "points": 90,
+                "ship": "vt49decimator",
+                "upgrades": {
+                    "crew": [
+                        "moffjerjerrod"
+                    ],
+                    "gunner": [
+                        "agilegunner"
+                    ]
+                }
+            },
+            {
+                "id": "omicrongrouppilot",
+                "points": 54,
+                "ship": "lambdaclasst4ashuttle",
+                "upgrades": {
+                    "cannon": [
+                        "jammingbeam"
+                    ],
+                    "crew": [
+                        "novicetechnician"
+                    ],
+                    "modification": [
+                        "hullupgrade"
+                    ],
+                    "title": [
+                        "st321"
+                    ]
+                }
+            },
+            {
+                "id": "vizier",
+                "points": 54,
+                "ship": "tiereaper",
+                "upgrades": {
+                    "crew": [
+                        "seventhsister"
+                    ]
+                }
+            }
+        ],
+        "points": 198,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Name": "Andrew LaTourelle",
+    "Option1": {
+        "faction": "galacticempire",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "omicrongrouppilot",
+                "points": 54,
+                "ship": "lambdaclasst4ashuttle",
+                "upgrades": {
+                    "cannon": [
+                        "jammingbeam"
+                    ],
+                    "crew": [
+                        "novicetechnician"
+                    ],
+                    "modification": [
+                        "hullupgrade"
+                    ],
+                    "title": [
+                        "st321"
+                    ]
+                }
+            },
+            {
+                "id": "vizier",
+                "points": 54,
+                "ship": "tiereaper",
+                "upgrades": {
+                    "crew": [
+                        "seventhsister"
+                    ]
+                }
+            },
+            {
+                "id": "captainoicunn",
+                "points": 91,
+                "ship": "vt49decimator",
+                "upgrades": {
+                    "gunner": [
+                        "agilegunner"
+                    ],
+                    "talent": [
+                        "snapshot"
+                    ]
+                }
+            }
+        ],
+        "points": 199,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Option2": {
+        "faction": "scumandvillainy",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "quinnjast",
+                "points": 40,
+                "ship": "m3ainterceptor",
+                "upgrades": {
+                    "missile": [
+                        "magpulsewarheads"
+                    ],
+                    "modification": [
+                        "electronicbaffle"
+                    ],
+                    "talent": [
+                        "composure"
+                    ]
+                }
+            },
+            {
+                "id": "outerrimpioneer",
+                "points": 46,
+                "ship": "escapecraft",
+                "upgrades": {
+                    "crew": [
+                        "000"
+                    ],
+                    "modification": [
+                        "shieldupgrade"
+                    ],
+                    "talent": [
+                        "juke"
+                    ]
+                }
+            },
+            {
+                "id": "moraloeval",
+                "points": 80,
+                "ship": "yv666lightfreighter",
+                "upgrades": {
+                    "cannon": [
+                        "autoblasters"
+                    ],
+                    "crew": [
+                        "seasonednavigator"
+                    ],
+                    "modification": [
+                        "munitionsfailsafe"
+                    ],
+                    "talent": [
+                        "swarmtactics"
+                    ],
+                    "title": [
+                        "houndstooth"
+                    ]
+                }
+            },
+            {
+                "id": "crymorahgoon",
+                "points": 30,
+                "ship": "btla4ywing",
+                "upgrades": {}
+            }
+        ],
+        "points": 196,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "TTT": "Catchyslim",
+    "VassalForm1": "CatchySlim",
+    "VassalForm2": "CatchySlim"
+}

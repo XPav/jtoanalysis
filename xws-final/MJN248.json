@@ -1,0 +1,178 @@
+{
+    "Add": "R4 astromech to Cova Nell",
+    "Discord": "MatsJn#0825",
+    "Drop": "Larma D'Acy from Cova Nell",
+    "Final": {
+        "faction": "resistance",
+        "name": "Mats Jonsson JTO",
+        "pilots": [
+            {
+                "id": "covanell",
+                "points": 50,
+                "ship": "resistancetransport",
+                "upgrades": {
+                    "astromech": [
+                        "r4astromech"
+                    ],
+                    "crew": [
+                        "tacticalofficer"
+                    ],
+                    "tech": [
+                        "advancedoptics"
+                    ]
+                }
+            },
+            {
+                "id": "poedameron",
+                "points": 86,
+                "ship": "t70xwing",
+                "upgrades": {
+                    "astromech": [
+                        "r2astromech"
+                    ],
+                    "configuration": [
+                        "integratedsfoils"
+                    ],
+                    "missile": [
+                        "protonrockets"
+                    ],
+                    "talent": [
+                        "daredevil"
+                    ],
+                    "title": [
+                        "blackone"
+                    ]
+                }
+            },
+            {
+                "id": "resistancesympathizer",
+                "points": 60,
+                "ship": "scavengedyt1300",
+                "upgrades": {}
+            }
+        ],
+        "points": 196,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Name": "Mats Jonsson",
+    "Option1": {
+        "faction": "resistance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "covanell",
+                "points": 52,
+                "ship": "resistancetransport",
+                "upgrades": {
+                    "crew": [
+                        "larmadacy",
+                        "tacticalofficer"
+                    ],
+                    "tech": [
+                        "advancedoptics"
+                    ]
+                }
+            },
+            {
+                "id": "poedameron",
+                "points": 86,
+                "ship": "t70xwing",
+                "upgrades": {
+                    "astromech": [
+                        "r2astromech"
+                    ],
+                    "configuration": [
+                        "integratedsfoils"
+                    ],
+                    "missile": [
+                        "protonrockets"
+                    ],
+                    "talent": [
+                        "daredevil"
+                    ],
+                    "title": [
+                        "blackone"
+                    ]
+                }
+            },
+            {
+                "id": "resistancesympathizer",
+                "points": 60,
+                "ship": "scavengedyt1300",
+                "upgrades": {}
+            }
+        ],
+        "points": 198,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Option2": {
+        "faction": "galacticempire",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "majorvynder",
+                "points": 79,
+                "ship": "alphaclassstarwing",
+                "upgrades": {
+                    "configuration": [
+                        "os1arsenalloadout"
+                    ],
+                    "missile": [
+                        "ionmissiles",
+                        "magpulsewarheads"
+                    ],
+                    "modification": [
+                        "hullupgrade"
+                    ],
+                    "sensor": [
+                        "passivesensors"
+                    ],
+                    "talent": [
+                        "composure"
+                    ],
+                    "torpedo": [
+                        "protontorpedoes",
+                        "advprotontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "nusquadronpilot",
+                "points": 38,
+                "ship": "alphaclassstarwing",
+                "upgrades": {
+                    "configuration": [
+                        "os1arsenalloadout"
+                    ],
+                    "torpedo": [
+                        "advprotontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "blacksquadronscout",
+                "points": 42,
+                "ship": "tieskstriker",
+                "upgrades": {
+                    "gunner": [
+                        "agilegunner"
+                    ]
+                }
+            },
+            {
+                "id": "idenversio",
+                "points": 41,
+                "ship": "tielnfighter",
+                "upgrades": {}
+            }
+        ],
+        "points": 200,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "TTT": "Mats Jonsson",
+    "VassalForm1": "MJN248",
+    "VassalForm2": "MJN248"
+}

@@ -1,0 +1,179 @@
+{
+    "Add": "Emperor Palpatine to Captain Oicunn",
+    "Discord": "Deering#2743",
+    "Drop": "Veteran Turret Gunner from Captain Oicunn",
+    "Final": {
+        "faction": "galacticempire",
+        "name": "Matthew Deering JTO",
+        "pilots": [
+            {
+                "id": "puresabacc",
+                "points": 53,
+                "ship": "tieskstriker",
+                "upgrades": {
+                    "device": [
+                        "seismiccharges"
+                    ],
+                    "modification": [
+                        "afterburners"
+                    ]
+                }
+            },
+            {
+                "id": "deathfire",
+                "points": 34,
+                "ship": "tiesabomber",
+                "upgrades": {
+                    "gunner": [
+                        "skilledbombardier"
+                    ]
+                }
+            },
+            {
+                "id": "captainoicunn",
+                "points": 85,
+                "ship": "vt49decimator",
+                "upgrades": {
+                    "crew": [
+                        "emperorpalpatine"
+                    ]
+                }
+            },
+            {
+                "id": "sienarspecialist",
+                "points": 26,
+                "ship": "tieagaggressor",
+                "upgrades": {}
+            }
+        ],
+        "points": 198,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Name": "Matthew Deering",
+    "Option1": {
+        "faction": "resistance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "colossusstationmechanic",
+                "points": 40,
+                "ship": "fireball",
+                "upgrades": {
+                    "astromech": [
+                        "bb8"
+                    ],
+                    "missile": [
+                        "homingmissiles"
+                    ],
+                    "modification": [
+                        "targetingcomputer"
+                    ],
+                    "title": [
+                        "kazsfireball"
+                    ]
+                }
+            },
+            {
+                "id": "zizitlo",
+                "points": 51,
+                "ship": "rz2awing",
+                "upgrades": {
+                    "talent": [
+                        "crackshot",
+                        "composure"
+                    ],
+                    "tech": [
+                        "primedthrusters"
+                    ]
+                }
+            },
+            {
+                "id": "jarekyeager",
+                "points": 49,
+                "ship": "fireball",
+                "upgrades": {
+                    "astromech": [
+                        "r2astromech"
+                    ],
+                    "modification": [
+                        "shieldupgrade"
+                    ],
+                    "talent": [
+                        "elusive"
+                    ]
+                }
+            },
+            {
+                "id": "kazudaxiono",
+                "points": 57,
+                "ship": "fireball",
+                "upgrades": {
+                    "astromech": [
+                        "m9g8"
+                    ],
+                    "missile": [
+                        "protonrockets"
+                    ],
+                    "talent": [
+                        "elusive"
+                    ]
+                }
+            }
+        ],
+        "points": 197,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Option2": {
+        "faction": "galacticempire",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "puresabacc",
+                "points": 53,
+                "ship": "tieskstriker",
+                "upgrades": {
+                    "device": [
+                        "seismiccharges"
+                    ],
+                    "modification": [
+                        "afterburners"
+                    ]
+                }
+            },
+            {
+                "id": "deathfire",
+                "points": 34,
+                "ship": "tiesabomber",
+                "upgrades": {
+                    "gunner": [
+                        "skilledbombardier"
+                    ]
+                }
+            },
+            {
+                "id": "captainoicunn",
+                "points": 84,
+                "ship": "vt49decimator",
+                "upgrades": {
+                    "gunner": [
+                        "veteranturretgunner"
+                    ]
+                }
+            },
+            {
+                "id": "sienarspecialist",
+                "points": 26,
+                "ship": "tieagaggressor",
+                "upgrades": {}
+            }
+        ],
+        "points": 197,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "TTT": "Matthew Deering",
+    "VassalForm1": "Deering",
+    "VassalForm2": "Deering"
+}

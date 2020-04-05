@@ -1,0 +1,173 @@
+{
+    "Add": "Plasma Torpedoes to E-Wing",
+    "Discord": "ESA_JT_OPEN#8513",
+    "Drop": "Cassian Andor from Auzituck Gunship",
+    "Final": {
+        "faction": "rebelalliance",
+        "name": "ESA_JTO",
+        "pilots": [
+            {
+                "id": "roguesquadronescort",
+                "points": 65,
+                "ship": "ewing",
+                "upgrades": {
+                    "astromech": [
+                        "r3astromech"
+                    ],
+                    "torpedo": [
+                        "plasmatorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "edriotwotubes",
+                "points": 49,
+                "ship": "t65xwing",
+                "upgrades": {
+                    "configuration": [
+                        "servomotorsfoils"
+                    ],
+                    "torpedo": [
+                        "advprotontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "lowhhrick",
+                "points": 62,
+                "ship": "auzituckgunship",
+                "upgrades": {
+                    "crew": [
+                        "gnkgonkdroid"
+                    ]
+                }
+            },
+            {
+                "id": "banditsquadronpilot",
+                "points": 22,
+                "ship": "z95af4headhunter",
+                "upgrades": {}
+            }
+        ],
+        "points": 198,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Name": "Eyvan Salgado",
+    "Option1": {
+        "faction": "resistance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "rosetico",
+                "points": 37,
+                "ship": "resistancetransportpod",
+                "upgrades": {
+                    "crew": [
+                        "gnkgonkdroid"
+                    ],
+                    "talent": [
+                        "composure"
+                    ]
+                }
+            },
+            {
+                "id": "finn",
+                "points": 47,
+                "ship": "resistancetransportpod",
+                "upgrades": {
+                    "modification": [
+                        "shieldupgrade"
+                    ],
+                    "talent": [
+                        "outmaneuver"
+                    ],
+                    "tech": [
+                        "ferrospherepaint"
+                    ]
+                }
+            },
+            {
+                "id": "pammichnerrogoode",
+                "points": 52,
+                "ship": "resistancetransport",
+                "upgrades": {
+                    "crew": [
+                        "hansolo-crew",
+                        "pz4co"
+                    ],
+                    "torpedo": [
+                        "advprotontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "jarekyeager",
+                "points": 33,
+                "ship": "fireball",
+                "upgrades": {}
+            },
+            {
+                "id": "r1j5",
+                "points": 29,
+                "ship": "fireball",
+                "upgrades": {}
+            }
+        ],
+        "points": 198,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Option2": {
+        "faction": "rebelalliance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "roguesquadronescort",
+                "points": 56,
+                "ship": "ewing",
+                "upgrades": {
+                    "astromech": [
+                        "r3astromech"
+                    ]
+                }
+            },
+            {
+                "id": "edriotwotubes",
+                "points": 49,
+                "ship": "t65xwing",
+                "upgrades": {
+                    "configuration": [
+                        "servomotorsfoils"
+                    ],
+                    "torpedo": [
+                        "advprotontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "lowhhrick",
+                "points": 68,
+                "ship": "auzituckgunship",
+                "upgrades": {
+                    "crew": [
+                        "cassianandor",
+                        "gnkgonkdroid"
+                    ]
+                }
+            },
+            {
+                "id": "banditsquadronpilot",
+                "points": 22,
+                "ship": "z95af4headhunter",
+                "upgrades": {}
+            }
+        ],
+        "points": 195,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "TTT": "Eyvan SALGADO",
+    "VassalForm1": "ESA_JT_OPEN",
+    "VassalForm2": "ESA_JT_OPEN"
+}

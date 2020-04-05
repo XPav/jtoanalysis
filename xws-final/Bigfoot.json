@@ -1,0 +1,171 @@
+{
+    "Add": "Calibrated Laser Targeting to Luminara",
+    "Discord": "Bigfoot18#2271",
+    "Drop": "Instinctive Aim from Jedi Knight #2",
+    "Final": {
+        "faction": "galacticrepublic",
+        "name": "Michael Langley JTO",
+        "pilots": [
+            {
+                "id": "jediknight",
+                "points": 50,
+                "ship": "delta7aethersprite",
+                "upgrades": {
+                    "astromech": [
+                        "r2c4"
+                    ],
+                    "force-power": [
+                        "supernaturalreflexes"
+                    ]
+                }
+            },
+            {
+                "id": "jediknight",
+                "points": 55,
+                "ship": "delta7aethersprite",
+                "upgrades": {
+                    "configuration": [
+                        "delta7b"
+                    ],
+                    "modification": [
+                        "synchronizedconsole"
+                    ]
+                }
+            },
+            {
+                "id": "luminaraunduli",
+                "points": 50,
+                "ship": "delta7aethersprite",
+                "upgrades": {
+                    "astromech": [
+                        "r5astromech"
+                    ],
+                    "configuration": [
+                        "calibratedlasertargeting"
+                    ]
+                }
+            },
+            {
+                "id": "padmeamidala",
+                "points": 45,
+                "ship": "nabooroyaln1starfighter",
+                "upgrades": {}
+            }
+        ],
+        "points": 200,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Name": "Michael Langley",
+    "Option1": {
+        "faction": "galacticempire",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "patrolleader",
+                "points": 81,
+                "ship": "vt49decimator",
+                "upgrades": {
+                    "crew": [
+                        "novicetechnician"
+                    ],
+                    "device": [
+                        "clustermines"
+                    ],
+                    "gunner": [
+                        "skilledbombardier"
+                    ]
+                }
+            },
+            {
+                "id": "doubleedge",
+                "points": 43,
+                "ship": "tieagaggressor",
+                "upgrades": {
+                    "gunner": [
+                        "hotshotgunner"
+                    ],
+                    "missile": [
+                        "protonrockets"
+                    ]
+                }
+            },
+            {
+                "id": "deathfire",
+                "points": 32,
+                "ship": "tiesabomber",
+                "upgrades": {}
+            },
+            {
+                "id": "inquisitor",
+                "points": 40,
+                "ship": "tieadvancedv1",
+                "upgrades": {
+                    "missile": [
+                        "homingmissiles"
+                    ]
+                }
+            }
+        ],
+        "points": 196,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Option2": {
+        "faction": "galacticrepublic",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "jediknight",
+                "points": 50,
+                "ship": "delta7aethersprite",
+                "upgrades": {
+                    "astromech": [
+                        "r2c4"
+                    ],
+                    "force-power": [
+                        "supernaturalreflexes"
+                    ]
+                }
+            },
+            {
+                "id": "jediknight",
+                "points": 56,
+                "ship": "delta7aethersprite",
+                "upgrades": {
+                    "configuration": [
+                        "delta7b"
+                    ],
+                    "force-power": [
+                        "instinctiveaim"
+                    ],
+                    "modification": [
+                        "synchronizedconsole"
+                    ]
+                }
+            },
+            {
+                "id": "luminaraunduli",
+                "points": 47,
+                "ship": "delta7aethersprite",
+                "upgrades": {
+                    "astromech": [
+                        "r5astromech"
+                    ]
+                }
+            },
+            {
+                "id": "padmeamidala",
+                "points": 45,
+                "ship": "nabooroyaln1starfighter",
+                "upgrades": {}
+            }
+        ],
+        "points": 198,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "TTT": "Michael Langley",
+    "VassalForm1": "Bigfoot",
+    "VassalForm2": "Bigfoot"
+}

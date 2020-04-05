@@ -1,0 +1,201 @@
+{
+    "Add": "Plasma Torpedoes to Avenger",
+    "Discord": "Carl#9891",
+    "Drop": "Targeting Synchronizer from Avenger",
+    "Final": {
+        "faction": "firstorder",
+        "name": "Carl Tinsley JTO",
+        "obstacles": [
+            "core2asteroid5",
+            "gascloud4",
+            "gascloud6"
+        ],
+        "pilots": [
+            {
+                "id": "midnight",
+                "points": 50,
+                "ship": "tiefofighter",
+                "upgrades": {
+                    "modification": [
+                        "hullupgrade"
+                    ],
+                    "talent": [
+                        "composure"
+                    ]
+                }
+            },
+            {
+                "id": "tn3465",
+                "points": 28,
+                "ship": "tiefofighter",
+                "upgrades": {}
+            },
+            {
+                "id": "firstorderprovocateur",
+                "points": 57,
+                "ship": "tiebainterceptor",
+                "upgrades": {
+                    "missile": [
+                        "ionmissiles"
+                    ],
+                    "talent": [
+                        "swarmtactics"
+                    ],
+                    "tech": [
+                        "patternanalyzer"
+                    ]
+                }
+            },
+            {
+                "id": "avenger",
+                "points": 65,
+                "ship": "tievnsilencer",
+                "upgrades": {
+                    "torpedo": [
+                        "plasmatorpedoes"
+                    ]
+                }
+            }
+        ],
+        "points": 200,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Name": "Carl Tinsley",
+    "Option1": {
+        "faction": "firstorder",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "midnight",
+                "points": 50,
+                "ship": "tiefofighter",
+                "upgrades": {
+                    "modification": [
+                        "hullupgrade"
+                    ],
+                    "talent": [
+                        "composure"
+                    ]
+                }
+            },
+            {
+                "id": "tn3465",
+                "points": 28,
+                "ship": "tiefofighter",
+                "upgrades": {}
+            },
+            {
+                "id": "firstorderprovocateur",
+                "points": 57,
+                "ship": "tiebainterceptor",
+                "upgrades": {
+                    "missile": [
+                        "ionmissiles"
+                    ],
+                    "talent": [
+                        "swarmtactics"
+                    ],
+                    "tech": [
+                        "patternanalyzer"
+                    ]
+                }
+            },
+            {
+                "id": "avenger",
+                "points": 62,
+                "ship": "tievnsilencer",
+                "upgrades": {
+                    "tech": [
+                        "targetingsynchronizer"
+                    ]
+                }
+            }
+        ],
+        "points": 197,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Option2": {
+        "faction": "scumandvillainy",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "l337-escapecraft",
+                "points": 34,
+                "ship": "escapecraft",
+                "upgrades": {
+                    "crew": [
+                        "novicetechnician"
+                    ],
+                    "modification": [
+                        "angleddeflectors"
+                    ],
+                    "talent": [
+                        "marksmanship"
+                    ]
+                }
+            },
+            {
+                "id": "spicerunner",
+                "points": 60,
+                "ship": "hwk290lightfreighter",
+                "upgrades": {
+                    "device": [
+                        "ionbombs"
+                    ],
+                    "modification": [
+                        "shieldupgrade"
+                    ],
+                    "title": [
+                        "moldycrow"
+                    ]
+                }
+            },
+            {
+                "id": "toranikulda",
+                "points": 59,
+                "ship": "m12lkimogilafighter",
+                "upgrades": {
+                    "astromech": [
+                        "r5tk"
+                    ],
+                    "illicit": [
+                        "cloakingdevice"
+                    ],
+                    "modification": [
+                        "staticdischargevanes"
+                    ],
+                    "talent": [
+                        "composure"
+                    ]
+                }
+            },
+            {
+                "id": "ndrusuhlak",
+                "points": 34,
+                "ship": "z95af4headhunter",
+                "upgrades": {
+                    "illicit": [
+                        "feedbackarray"
+                    ],
+                    "talent": [
+                        "crackshot"
+                    ]
+                }
+            },
+            {
+                "id": "autopilotdrone",
+                "points": 12,
+                "ship": "escapecraft",
+                "upgrades": {}
+            }
+        ],
+        "points": 199,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "TTT": "Carl Tinsley",
+    "VassalForm1": "Carl Tinsley",
+    "VassalForm2": "Carl Tinsley"
+}

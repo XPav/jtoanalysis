@@ -1,0 +1,177 @@
+{
+    "Add": "Homing missiles to fifth brother ",
+    "Discord": "wookieeoutrider#5705",
+    "Drop": "Advanced sensors from onyx defender ",
+    "Final": {
+        "faction": "galacticempire",
+        "name": "Imp hunter squadron",
+        "pilots": [
+            {
+                "id": "onyxsquadronace",
+                "points": 82,
+                "ship": "tieddefender",
+                "upgrades": {
+                    "cannon": [
+                        "jammingbeam"
+                    ],
+                    "missile": [
+                        "concussionmissiles"
+                    ],
+                    "talent": [
+                        "daredevil"
+                    ]
+                }
+            },
+            {
+                "id": "coloneljendon",
+                "points": 60,
+                "ship": "lambdaclasst4ashuttle",
+                "upgrades": {
+                    "crew": [
+                        "isbslicer"
+                    ],
+                    "modification": [
+                        "targetingcomputer"
+                    ],
+                    "sensor": [
+                        "firecontrolsystem"
+                    ],
+                    "title": [
+                        "st321"
+                    ]
+                }
+            },
+            {
+                "id": "fifthbrother",
+                "points": 52,
+                "ship": "tieadvancedv1",
+                "upgrades": {
+                    "force-power": [
+                        "sense"
+                    ],
+                    "missile": [
+                        "homingmissiles"
+                    ]
+                }
+            }
+        ],
+        "points": 194,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Name": "Marc Rider ",
+    "Option1": {
+        "faction": "galacticempire",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "onyxsquadronace",
+                "points": 92,
+                "ship": "tieddefender",
+                "upgrades": {
+                    "cannon": [
+                        "jammingbeam"
+                    ],
+                    "missile": [
+                        "concussionmissiles"
+                    ],
+                    "sensor": [
+                        "advancedsensors"
+                    ],
+                    "talent": [
+                        "daredevil"
+                    ]
+                }
+            },
+            {
+                "id": "coloneljendon",
+                "points": 60,
+                "ship": "lambdaclasst4ashuttle",
+                "upgrades": {
+                    "crew": [
+                        "isbslicer"
+                    ],
+                    "modification": [
+                        "targetingcomputer"
+                    ],
+                    "sensor": [
+                        "firecontrolsystem"
+                    ],
+                    "title": [
+                        "st321"
+                    ]
+                }
+            },
+            {
+                "id": "fifthbrother",
+                "points": 47,
+                "ship": "tieadvancedv1",
+                "upgrades": {
+                    "force-power": [
+                        "sense"
+                    ]
+                }
+            }
+        ],
+        "points": 199,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Option2": {
+        "faction": "firstorder",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "lieutenantlehuse",
+                "points": 42,
+                "ship": "tiesffighter",
+                "upgrades": {
+                    "talent": [
+                        "fanatical"
+                    ],
+                    "tech": [
+                        "biohexacryptcodes"
+                    ]
+                }
+            },
+            {
+                "id": "lieutenantrivas",
+                "points": 27,
+                "ship": "tiefofighter",
+                "upgrades": {}
+            },
+            {
+                "id": "avenger",
+                "points": 56,
+                "ship": "tievnsilencer",
+                "upgrades": {}
+            },
+            {
+                "id": "null",
+                "points": 39,
+                "ship": "tiefofighter",
+                "upgrades": {
+                    "tech": [
+                        "deuteriumpowercells"
+                    ]
+                }
+            },
+            {
+                "id": "omegasquadronace",
+                "points": 31,
+                "ship": "tiefofighter",
+                "upgrades": {
+                    "modification": [
+                        "targetingcomputer"
+                    ]
+                }
+            }
+        ],
+        "points": 195,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "TTT": "Marc Rider",
+    "VassalForm1": "Wookieeoutrider",
+    "VassalForm2": "wookieeoutrider"
+}

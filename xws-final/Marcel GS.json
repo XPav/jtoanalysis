@@ -1,0 +1,170 @@
+{
+    "Add": "Ion Cannon to Manaroo",
+    "Discord": "MarcelGSP#4058",
+    "Drop": "Concussion from Turani",
+    "Final": {
+        "faction": "scumandvillainy",
+        "name": "Marcel Manzano JTO",
+        "obstacles": [
+            "gascloud4",
+            "gascloud5",
+            "gascloud6"
+        ],
+        "pilots": [
+            {
+                "id": "dacebonearm",
+                "points": 45,
+                "ship": "hwk290lightfreighter",
+                "upgrades": {
+                    "modification": [
+                        "hullupgrade",
+                        "electronicbaffle"
+                    ],
+                    "talent": [
+                        "lonewolf"
+                    ]
+                }
+            },
+            {
+                "id": "toranikulda",
+                "points": 48,
+                "ship": "m12lkimogilafighter",
+                "upgrades": {}
+            },
+            {
+                "id": "palobgodalhi",
+                "points": 46,
+                "ship": "hwk290lightfreighter",
+                "upgrades": {
+                    "modification": [
+                        "hullupgrade",
+                        "delayedfuses"
+                    ]
+                }
+            },
+            {
+                "id": "manaroo",
+                "points": 60,
+                "ship": "jumpmaster5000",
+                "upgrades": {
+                    "cannon": [
+                        "ioncannon"
+                    ],
+                    "torpedo": [
+                        "plasmatorpedoes"
+                    ]
+                }
+            }
+        ],
+        "points": 199,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Name": "Marcel Manzano",
+    "Option1": {
+        "faction": "firstorder",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "majorvonreg",
+                "points": 65,
+                "ship": "tiebainterceptor",
+                "upgrades": {
+                    "modification": [
+                        "delayedfuses"
+                    ],
+                    "talent": [
+                        "snapshot"
+                    ]
+                }
+            },
+            {
+                "id": "starkillerbasepilot",
+                "points": 91,
+                "ship": "upsilonclasscommandshuttle",
+                "upgrades": {
+                    "crew": [
+                        "pettyofficerthanisson",
+                        "novicetechnician",
+                        "seasonednavigator"
+                    ],
+                    "sensor": [
+                        "advancedsensors"
+                    ],
+                    "tech": [
+                        "targetingsynchronizer",
+                        "patternanalyzer"
+                    ]
+                }
+            },
+            {
+                "id": "captainphasma",
+                "points": 39,
+                "ship": "tiesffighter",
+                "upgrades": {}
+            }
+        ],
+        "points": 195,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Option2": {
+        "faction": "scumandvillainy",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "dacebonearm",
+                "points": 45,
+                "ship": "hwk290lightfreighter",
+                "upgrades": {
+                    "modification": [
+                        "hullupgrade",
+                        "electronicbaffle"
+                    ],
+                    "talent": [
+                        "lonewolf"
+                    ]
+                }
+            },
+            {
+                "id": "toranikulda",
+                "points": 55,
+                "ship": "m12lkimogilafighter",
+                "upgrades": {
+                    "missile": [
+                        "concussionmissiles"
+                    ],
+                    "modification": [
+                        "delayedfuses"
+                    ]
+                }
+            },
+            {
+                "id": "palobgodalhi",
+                "points": 45,
+                "ship": "hwk290lightfreighter",
+                "upgrades": {
+                    "modification": [
+                        "hullupgrade"
+                    ]
+                }
+            },
+            {
+                "id": "manaroo",
+                "points": 54,
+                "ship": "jumpmaster5000",
+                "upgrades": {
+                    "torpedo": [
+                        "plasmatorpedoes"
+                    ]
+                }
+            }
+        ],
+        "points": 199,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "TTT": "Marcel Manzano",
+    "VassalForm1": "Marcel GS",
+    "VassalForm2": "Marcel GS"
+}

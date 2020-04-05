@@ -1,0 +1,179 @@
+{
+    "Add": "R5p8 to Kimogila",
+    "Discord": "ryan talonbane#1066",
+    "Drop": "Targeting computer from ahhav ",
+    "Final": {
+        "faction": "scumandvillainy",
+        "name": "Ryan Becker JTO",
+        "obstacles": [
+            "coreasteroid0",
+            "coreasteroid1",
+            "yt2400debris0"
+        ],
+        "pilots": [
+            {
+                "id": "ahhav",
+                "points": 37,
+                "ship": "modifiedtielnfighter",
+                "upgrades": {
+                    "talent": [
+                        "snapshot"
+                    ]
+                }
+            },
+            {
+                "id": "shadowporthunter",
+                "points": 60,
+                "ship": "lancerclasspursuitcraft",
+                "upgrades": {
+                    "crew": [
+                        "novicetechnician"
+                    ]
+                }
+            },
+            {
+                "id": "shadowporthunter",
+                "points": 58,
+                "ship": "lancerclasspursuitcraft",
+                "upgrades": {
+                    "illicit": [
+                        "contrabandcybernetics"
+                    ]
+                }
+            },
+            {
+                "id": "cartelexecutioner",
+                "points": 45,
+                "ship": "m12lkimogilafighter",
+                "upgrades": {
+                    "astromech": [
+                        "r5p8"
+                    ]
+                }
+            }
+        ],
+        "points": 200,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Name": "Ryan Becker",
+    "Option1": {
+        "faction": "scumandvillainy",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "ahhav",
+                "points": 40,
+                "ship": "modifiedtielnfighter",
+                "upgrades": {
+                    "modification": [
+                        "targetingcomputer"
+                    ],
+                    "talent": [
+                        "snapshot"
+                    ]
+                }
+            },
+            {
+                "id": "shadowporthunter",
+                "points": 60,
+                "ship": "lancerclasspursuitcraft",
+                "upgrades": {
+                    "crew": [
+                        "novicetechnician"
+                    ]
+                }
+            },
+            {
+                "id": "shadowporthunter",
+                "points": 58,
+                "ship": "lancerclasspursuitcraft",
+                "upgrades": {
+                    "illicit": [
+                        "contrabandcybernetics"
+                    ]
+                }
+            },
+            {
+                "id": "cartelexecutioner",
+                "points": 41,
+                "ship": "m12lkimogilafighter",
+                "upgrades": {}
+            }
+        ],
+        "points": 199,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Option2": {
+        "faction": "separatistalliance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "gorgol",
+                "points": 41,
+                "ship": "nantexclassstarfighter",
+                "upgrades": {
+                    "modification": [
+                        "munitionsfailsafe"
+                    ],
+                    "talent": [
+                        "debrisgambit"
+                    ]
+                }
+            },
+            {
+                "id": "countdooku",
+                "points": 84,
+                "ship": "sithinfiltrator",
+                "upgrades": {
+                    "crew": [
+                        "seasonednavigator",
+                        "generalgrievous"
+                    ],
+                    "modification": [
+                        "tacticalscrambler"
+                    ],
+                    "tacticalrelay": [
+                        "k2b4"
+                    ],
+                    "torpedo": [
+                        "iontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "separatistbomber",
+                "points": 40,
+                "ship": "hyenaclassdroidbomber",
+                "upgrades": {
+                    "configuration": [
+                        "landingstruts"
+                    ],
+                    "missile": [
+                        "clustermissiles"
+                    ],
+                    "torpedo": [
+                        "advprotontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "separatistbomber",
+                "points": 33,
+                "ship": "hyenaclassdroidbomber",
+                "upgrades": {
+                    "missile": [
+                        "homingmissiles"
+                    ]
+                }
+            }
+        ],
+        "points": 198,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "TTT": "Ryan Becker",
+    "VassalForm1": "rc4b2",
+    "VassalForm2": "Rc4b2 "
+}

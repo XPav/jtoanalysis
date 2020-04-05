@@ -1,0 +1,183 @@
+{
+    "Add": "Callibrated Laser Targetting - Barriss Delta7",
+    "Discord": "foodmonster1#8716",
+    "Drop": "Dorsal Turret - Anakin Skywalker Ywing",
+    "Final": {
+        "faction": "galacticrepublic",
+        "name": "Akhter Khan JTO",
+        "pilots": [
+            {
+                "id": "anakinskywalker-btlbywing",
+                "points": 71,
+                "ship": "btlbywing",
+                "upgrades": {
+                    "astromech": [
+                        "r4p17"
+                    ],
+                    "torpedo": [
+                        "iontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "barrissoffee",
+                "points": 41,
+                "ship": "delta7aethersprite",
+                "upgrades": {
+                    "configuration": [
+                        "calibratedlasertargeting"
+                    ]
+                }
+            },
+            {
+                "id": "plokoon",
+                "points": 52,
+                "ship": "delta7aethersprite",
+                "upgrades": {
+                    "modification": [
+                        "stealthdevice"
+                    ]
+                }
+            },
+            {
+                "id": "oddball",
+                "points": 34,
+                "ship": "v19torrentstarfighter",
+                "upgrades": {}
+            }
+        ],
+        "points": 198,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Name": "Akhter Khan",
+    "Option1": {
+        "faction": "scumandvillainy",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "captainnym",
+                "points": 81,
+                "ship": "scurrgh6bomber",
+                "upgrades": {
+                    "astromech": [
+                        "r3astromech"
+                    ],
+                    "device": [
+                        "protonbombs"
+                    ],
+                    "gunner": [
+                        "veteranturretgunner"
+                    ],
+                    "modification": [
+                        "hullupgrade"
+                    ],
+                    "sensor": [
+                        "firecontrolsystem"
+                    ],
+                    "talent": [
+                        "lonewolf"
+                    ],
+                    "title": [
+                        "havoc"
+                    ],
+                    "turret": [
+                        "dorsalturret"
+                    ]
+                }
+            },
+            {
+                "id": "outerrimpioneer",
+                "points": 30,
+                "ship": "escapecraft",
+                "upgrades": {
+                    "modification": [
+                        "electronicbaffle"
+                    ]
+                }
+            },
+            {
+                "id": "blacksunace",
+                "points": 55,
+                "ship": "kihraxzfighter",
+                "upgrades": {
+                    "illicit": [
+                        "feedbackarray"
+                    ],
+                    "missile": [
+                        "protonrockets"
+                    ],
+                    "modification": [
+                        "hullupgrade"
+                    ]
+                }
+            },
+            {
+                "id": "l337-escapecraft",
+                "points": 31,
+                "ship": "escapecraft",
+                "upgrades": {
+                    "modification": [
+                        "munitionsfailsafe"
+                    ],
+                    "talent": [
+                        "trickshot"
+                    ]
+                }
+            }
+        ],
+        "points": 197,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Option2": {
+        "faction": "galacticrepublic",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "anakinskywalker-btlbywing",
+                "points": 74,
+                "ship": "btlbywing",
+                "upgrades": {
+                    "astromech": [
+                        "r4p17"
+                    ],
+                    "torpedo": [
+                        "iontorpedoes"
+                    ],
+                    "turret": [
+                        "dorsalturret"
+                    ]
+                }
+            },
+            {
+                "id": "barrissoffee",
+                "points": 38,
+                "ship": "delta7aethersprite",
+                "upgrades": {}
+            },
+            {
+                "id": "plokoon",
+                "points": 52,
+                "ship": "delta7aethersprite",
+                "upgrades": {
+                    "modification": [
+                        "stealthdevice"
+                    ]
+                }
+            },
+            {
+                "id": "oddball",
+                "points": 34,
+                "ship": "v19torrentstarfighter",
+                "upgrades": {}
+            }
+        ],
+        "points": 198,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "TTT": "Akhter Khan",
+    "VassalForm1": "Khaaannn",
+    "VassalForm2": "Khaaannn"
+}

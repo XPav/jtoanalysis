@@ -1,0 +1,171 @@
+{
+    "Add": "Advanced Optics on the Sienar ",
+    "Discord": "Revanchistexile#0173",
+    "Drop": "Mag Pulse Missiles ",
+    "Final": {
+        "faction": "firstorder",
+        "name": "Fo Jank",
+        "pilots": [
+            {
+                "id": "recoil",
+                "points": 65,
+                "ship": "tievnsilencer",
+                "upgrades": {
+                    "missile": [
+                        "homingmissiles"
+                    ],
+                    "talent": [
+                        "intimidation"
+                    ]
+                }
+            },
+            {
+                "id": "longshot",
+                "points": 33,
+                "ship": "tiefofighter",
+                "upgrades": {
+                    "talent": [
+                        "proudtradition"
+                    ]
+                }
+            },
+            {
+                "id": "sienarjaemusengineer",
+                "points": 61,
+                "ship": "tievnsilencer",
+                "upgrades": {
+                    "tech": [
+                        "advancedoptics"
+                    ],
+                    "torpedo": [
+                        "iontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "backdraft",
+                "points": 39,
+                "ship": "tiesffighter",
+                "upgrades": {}
+            }
+        ],
+        "points": 198,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Name": "Matthew Courser",
+    "Option1": {
+        "faction": "firstorder",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "recoil",
+                "points": 65,
+                "ship": "tievnsilencer",
+                "upgrades": {
+                    "missile": [
+                        "homingmissiles"
+                    ],
+                    "talent": [
+                        "intimidation"
+                    ]
+                }
+            },
+            {
+                "id": "longshot",
+                "points": 33,
+                "ship": "tiefofighter",
+                "upgrades": {
+                    "talent": [
+                        "proudtradition"
+                    ]
+                }
+            },
+            {
+                "id": "sienarjaemusengineer",
+                "points": 63,
+                "ship": "tievnsilencer",
+                "upgrades": {
+                    "missile": [
+                        "magpulsewarheads"
+                    ],
+                    "torpedo": [
+                        "iontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "backdraft",
+                "points": 39,
+                "ship": "tiesffighter",
+                "upgrades": {}
+            }
+        ],
+        "points": 200,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Option2": {
+        "faction": "rebelalliance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "bladesquadronveteran",
+                "points": 58,
+                "ship": "asf01bwing",
+                "upgrades": {
+                    "configuration": [
+                        "stabilizedsfoils"
+                    ],
+                    "modification": [
+                        "afterburners"
+                    ],
+                    "sensor": [
+                        "firecontrolsystem"
+                    ],
+                    "torpedo": [
+                        "iontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "benthictwotubes",
+                "points": 48,
+                "ship": "ut60duwing",
+                "upgrades": {
+                    "configuration": [
+                        "pivotwing"
+                    ],
+                    "illicit": [
+                        "deadmansswitch"
+                    ]
+                }
+            },
+            {
+                "id": "lieutenantblount",
+                "points": 30,
+                "ship": "z95af4headhunter",
+                "upgrades": {}
+            },
+            {
+                "id": "ginamoonsong",
+                "points": 63,
+                "ship": "asf01bwing",
+                "upgrades": {
+                    "cannon": [
+                        "ioncannon"
+                    ],
+                    "talent": [
+                        "snapshot"
+                    ]
+                }
+            }
+        ],
+        "points": 199,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "TTT": "MattCourser",
+    "VassalForm1": "Revanchistexile",
+    "VassalForm2": "Revanchistexile"
+}

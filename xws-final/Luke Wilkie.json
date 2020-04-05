@@ -1,0 +1,164 @@
+{
+    "Add": "Chewbacca Crew to R1-J5 (Bucket) (The idea of Chewie flying a Fireball makes me so happy)",
+    "Discord": "Lu the Lunatic",
+    "Drop": "Freelance Slicer from Vi Moradi",
+    "Final": {
+        "faction": "resistance",
+        "name": "Luke Wilkie JTO",
+        "pilots": [
+            {
+                "id": "vimoradi",
+                "points": 29,
+                "ship": "resistancetransportpod",
+                "upgrades": {
+                    "modification": [
+                        "electronicbaffle"
+                    ]
+                }
+            },
+            {
+                "id": "hansolo-scavengedyt1300",
+                "points": 68,
+                "ship": "scavengedyt1300",
+                "upgrades": {
+                    "talent": [
+                        "intimidation"
+                    ]
+                }
+            },
+            {
+                "id": "cat",
+                "points": 69,
+                "ship": "mg100starfortress",
+                "upgrades": {
+                    "gunner": [
+                        "finn"
+                    ],
+                    "tech": [
+                        "patternanalyzer"
+                    ]
+                }
+            },
+            {
+                "id": "r1j5",
+                "points": 34,
+                "ship": "fireball",
+                "upgrades": {
+                    "crew": [
+                        "chewbacca-crew-swz19"
+                    ]
+                }
+            }
+        ],
+        "points": 200,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Name": "Luke Wilkie",
+    "Option1": {
+        "faction": "resistance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "vimoradi",
+                "points": 32,
+                "ship": "resistancetransportpod",
+                "upgrades": {
+                    "crew": [
+                        "freelanceslicer"
+                    ],
+                    "modification": [
+                        "electronicbaffle"
+                    ]
+                }
+            },
+            {
+                "id": "hansolo-scavengedyt1300",
+                "points": 68,
+                "ship": "scavengedyt1300",
+                "upgrades": {
+                    "talent": [
+                        "intimidation"
+                    ]
+                }
+            },
+            {
+                "id": "cat",
+                "points": 69,
+                "ship": "mg100starfortress",
+                "upgrades": {
+                    "gunner": [
+                        "finn"
+                    ],
+                    "tech": [
+                        "patternanalyzer"
+                    ]
+                }
+            },
+            {
+                "id": "r1j5",
+                "points": 29,
+                "ship": "fireball",
+                "upgrades": {}
+            }
+        ],
+        "points": 198,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Option2": {
+        "faction": "scumandvillainy",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "cartelmarauder",
+                "points": 41,
+                "ship": "kihraxzfighter",
+                "upgrades": {
+                    "illicit": [
+                        "contrabandcybernetics"
+                    ],
+                    "modification": [
+                        "delayedfuses"
+                    ]
+                }
+            },
+            {
+                "id": "4lom",
+                "points": 55,
+                "ship": "g1astarfighter",
+                "upgrades": {
+                    "sensor": [
+                        "collisiondetector"
+                    ]
+                }
+            },
+            {
+                "id": "gandfindsman",
+                "points": 45,
+                "ship": "g1astarfighter",
+                "upgrades": {
+                    "modification": [
+                        "stealthdevice"
+                    ]
+                }
+            },
+            {
+                "id": "freightercaptain",
+                "points": 54,
+                "ship": "customizedyt1300lightfreighter",
+                "upgrades": {
+                    "gunner": [
+                        "agilegunner"
+                    ]
+                }
+            }
+        ],
+        "points": 195,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "TTT": "Luke  Wilkie ",
+    "VassalForm1": "Luke Wilkie",
+    "VassalForm2": "Luke Wilkie"
+}

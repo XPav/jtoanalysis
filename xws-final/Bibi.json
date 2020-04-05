@@ -1,0 +1,142 @@
+{
+    "Add": "Sp\u00c3\u00a9cial force gunner to QuickDraw",
+    "Discord": "SebastienL",
+    "Drop": "Juke on Ember ",
+    "Final": {
+        "faction": "firstorder",
+        "name": "Bibi JTO",
+        "pilots": [
+            {
+                "id": "omegasquadronexpert",
+                "points": 37,
+                "ship": "tiesffighter",
+                "upgrades": {
+                    "talent": [
+                        "elusive"
+                    ]
+                }
+            },
+            {
+                "id": "ember",
+                "points": 52,
+                "ship": "tiebainterceptor",
+                "upgrades": {}
+            },
+            {
+                "id": "holo",
+                "points": 54,
+                "ship": "tiebainterceptor",
+                "upgrades": {}
+            },
+            {
+                "id": "quickdraw",
+                "points": 55,
+                "ship": "tiesffighter",
+                "upgrades": {
+                    "gunner": [
+                        "specialforcesgunner"
+                    ]
+                }
+            }
+        ],
+        "points": 198,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Name": "Sebastien ",
+    "Option1": {
+        "faction": "firstorder",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "omegasquadronexpert",
+                "points": 37,
+                "ship": "tiesffighter",
+                "upgrades": {
+                    "talent": [
+                        "elusive"
+                    ]
+                }
+            },
+            {
+                "id": "ember",
+                "points": 59,
+                "ship": "tiebainterceptor",
+                "upgrades": {
+                    "talent": [
+                        "juke"
+                    ]
+                }
+            },
+            {
+                "id": "holo",
+                "points": 54,
+                "ship": "tiebainterceptor",
+                "upgrades": {}
+            },
+            {
+                "id": "quickdraw",
+                "points": 45,
+                "ship": "tiesffighter",
+                "upgrades": {}
+            }
+        ],
+        "points": 195,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Option2": {
+        "faction": "separatistalliance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "feethanottrawautopilot",
+                "points": 46,
+                "ship": "belbullab22starfighter",
+                "upgrades": {
+                    "tacticalrelay": [
+                        "k2b4"
+                    ],
+                    "title": [
+                        "soullessone"
+                    ]
+                }
+            },
+            {
+                "id": "sunfac",
+                "points": 82,
+                "ship": "nantexclassstarfighter",
+                "upgrades": {
+                    "talent": [
+                        "ensnare"
+                    ]
+                }
+            },
+            {
+                "id": "generalgrievous",
+                "points": 44,
+                "ship": "belbullab22starfighter",
+                "upgrades": {}
+            },
+            {
+                "id": "tradefederationdrone",
+                "points": 26,
+                "ship": "vultureclassdroidfighter",
+                "upgrades": {
+                    "configuration": [
+                        "grapplingstruts"
+                    ],
+                    "modification": [
+                        "shieldupgrade"
+                    ]
+                }
+            }
+        ],
+        "points": 198,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "TTT": "Sebastien Ledieu ",
+    "VassalForm1": "Bibi",
+    "VassalForm2": "Bibi"
+}

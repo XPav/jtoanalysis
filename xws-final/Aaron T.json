@@ -1,0 +1,185 @@
+{
+    "Add": "Special Forces Gunner to Lt LeHuse",
+    "Discord": "potato hombre#5509",
+    "Drop": "Kylo Ren Crew from Starkiller base Pirate",
+    "Final": {
+        "faction": "firstorder",
+        "name": "Aaron T Jank Tank",
+        "pilots": [
+            {
+                "id": "omegasquadronace",
+                "points": 30,
+                "ship": "tiefofighter",
+                "upgrades": {
+                    "modification": [
+                        "munitionsfailsafe"
+                    ],
+                    "talent": [
+                        "composure"
+                    ]
+                }
+            },
+            {
+                "id": "lieutenantlehuse",
+                "points": 54,
+                "ship": "tiesffighter",
+                "upgrades": {
+                    "gunner": [
+                        "specialforcesgunner"
+                    ],
+                    "sensor": [
+                        "passivesensors"
+                    ],
+                    "talent": [
+                        "fanatical"
+                    ]
+                }
+            },
+            {
+                "id": "starkillerbasepilot",
+                "points": 59,
+                "ship": "upsilonclasscommandshuttle",
+                "upgrades": {
+                    "tech": [
+                        "biohexacryptcodes"
+                    ]
+                }
+            },
+            {
+                "id": "ember",
+                "points": 54,
+                "ship": "tiebainterceptor",
+                "upgrades": {
+                    "talent": [
+                        "predator"
+                    ]
+                }
+            }
+        ],
+        "points": 197,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Name": "Aaron Troeger",
+    "Option1": {
+        "faction": "firstorder",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "omegasquadronace",
+                "points": 30,
+                "ship": "tiefofighter",
+                "upgrades": {
+                    "modification": [
+                        "munitionsfailsafe"
+                    ],
+                    "talent": [
+                        "composure"
+                    ]
+                }
+            },
+            {
+                "id": "lieutenantlehuse",
+                "points": 44,
+                "ship": "tiesffighter",
+                "upgrades": {
+                    "sensor": [
+                        "passivesensors"
+                    ],
+                    "talent": [
+                        "fanatical"
+                    ]
+                }
+            },
+            {
+                "id": "starkillerbasepilot",
+                "points": 70,
+                "ship": "upsilonclasscommandshuttle",
+                "upgrades": {
+                    "crew": [
+                        "kyloren"
+                    ],
+                    "tech": [
+                        "biohexacryptcodes"
+                    ]
+                }
+            },
+            {
+                "id": "ember",
+                "points": 54,
+                "ship": "tiebainterceptor",
+                "upgrades": {
+                    "talent": [
+                        "predator"
+                    ]
+                }
+            }
+        ],
+        "points": 198,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Option2": {
+        "faction": "separatistalliance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "darthmaul",
+                "points": 95,
+                "ship": "sithinfiltrator",
+                "upgrades": {
+                    "cannon": [
+                        "jammingbeam"
+                    ],
+                    "crew": [
+                        "gnkgonkdroid"
+                    ],
+                    "device": [
+                        "clustermines"
+                    ],
+                    "force-power": [
+                        "predictiveshot"
+                    ],
+                    "tacticalrelay": [
+                        "tv94"
+                    ],
+                    "torpedo": [
+                        "iontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "dfs081",
+                "points": 27,
+                "ship": "vultureclassdroidfighter",
+                "upgrades": {
+                    "modification": [
+                        "delayedfuses"
+                    ]
+                }
+            },
+            {
+                "id": "countdooku",
+                "points": 75,
+                "ship": "sithinfiltrator",
+                "upgrades": {
+                    "cannon": [
+                        "autoblasters"
+                    ],
+                    "force-power": [
+                        "sense"
+                    ],
+                    "title": [
+                        "scimitar"
+                    ]
+                }
+            }
+        ],
+        "points": 197,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "TTT": "Aaron Troeger",
+    "VassalForm1": "Aaron T",
+    "VassalForm2": "Aaron T"
+}

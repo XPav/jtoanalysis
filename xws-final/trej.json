@@ -1,0 +1,151 @@
+{
+    "Add": "Special Forces Gunner to Captain Phasma",
+    "Discord": "trej#6820",
+    "Drop": "Mag-pulse Warheads from Sienar-Jaemus Engineer",
+    "Final": {
+        "faction": "firstorder",
+        "name": "Pawel Morawski JTO",
+        "obstacles": [
+            "coreasteroid5",
+            "core2asteroid4",
+            "core2asteroid5"
+        ],
+        "pilots": [
+            {
+                "id": "sienarjaemusengineer",
+                "points": 65,
+                "ship": "tievnsilencer",
+                "upgrades": {
+                    "tech": [
+                        "primedthrusters"
+                    ],
+                    "torpedo": [
+                        "plasmatorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "omegasquadronace",
+                "points": 28,
+                "ship": "tiefofighter",
+                "upgrades": {}
+            },
+            {
+                "id": "captainphasma",
+                "points": 49,
+                "ship": "tiesffighter",
+                "upgrades": {
+                    "gunner": [
+                        "specialforcesgunner"
+                    ]
+                }
+            },
+            {
+                "id": "starkillerbasepilot",
+                "points": 58,
+                "ship": "upsilonclasscommandshuttle",
+                "upgrades": {}
+            }
+        ],
+        "points": 200,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Name": "Pawel Morawski",
+    "Option1": {
+        "faction": "firstorder",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "sienarjaemusengineer",
+                "points": 71,
+                "ship": "tievnsilencer",
+                "upgrades": {
+                    "missile": [
+                        "magpulsewarheads"
+                    ],
+                    "tech": [
+                        "primedthrusters"
+                    ],
+                    "torpedo": [
+                        "plasmatorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "omegasquadronace",
+                "points": 28,
+                "ship": "tiefofighter",
+                "upgrades": {}
+            },
+            {
+                "id": "captainphasma",
+                "points": 39,
+                "ship": "tiesffighter",
+                "upgrades": {}
+            },
+            {
+                "id": "starkillerbasepilot",
+                "points": 58,
+                "ship": "upsilonclasscommandshuttle",
+                "upgrades": {}
+            }
+        ],
+        "points": 196,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Option2": {
+        "faction": "separatistalliance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "gorgol",
+                "points": 37,
+                "ship": "nantexclassstarfighter",
+                "upgrades": {
+                    "talent": [
+                        "marksmanship"
+                    ]
+                }
+            },
+            {
+                "id": "darthmaul",
+                "points": 77,
+                "ship": "sithinfiltrator",
+                "upgrades": {
+                    "force-power": [
+                        "brilliantevasion"
+                    ],
+                    "tacticalrelay": [
+                        "ta175"
+                    ]
+                }
+            },
+            {
+                "id": "chertek",
+                "points": 39,
+                "ship": "nantexclassstarfighter",
+                "upgrades": {}
+            },
+            {
+                "id": "separatistdrone",
+                "points": 21,
+                "ship": "vultureclassdroidfighter",
+                "upgrades": {}
+            },
+            {
+                "id": "technounionbomber",
+                "points": 25,
+                "ship": "hyenaclassdroidbomber",
+                "upgrades": {}
+            }
+        ],
+        "points": 199,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "TTT": "trej",
+    "VassalForm1": "trej",
+    "VassalForm2": "trej"
+}

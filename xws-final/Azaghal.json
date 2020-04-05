@@ -1,0 +1,184 @@
+{
+    "Add": "Advanced Optics on Backdraft",
+    "Discord": "Azaghal#6224",
+    "Drop": "Swarm Tactics from Backdraft",
+    "Final": {
+        "faction": "firstorder",
+        "name": "FOaces",
+        "pilots": [
+            {
+                "id": "holo",
+                "points": 71,
+                "ship": "tiebainterceptor",
+                "upgrades": {
+                    "missile": [
+                        "magpulsewarheads"
+                    ],
+                    "talent": [
+                        "daredevil"
+                    ],
+                    "tech": [
+                        "deuteriumpowercells"
+                    ]
+                }
+            },
+            {
+                "id": "ember",
+                "points": 73,
+                "ship": "tiebainterceptor",
+                "upgrades": {
+                    "missile": [
+                        "clustermissiles"
+                    ],
+                    "modification": [
+                        "stealthdevice"
+                    ],
+                    "talent": [
+                        "daredevil"
+                    ],
+                    "tech": [
+                        "targetingsynchronizer"
+                    ]
+                }
+            },
+            {
+                "id": "backdraft",
+                "points": 56,
+                "ship": "tiesffighter",
+                "upgrades": {
+                    "gunner": [
+                        "hotshotgunner"
+                    ],
+                    "missile": [
+                        "homingmissiles"
+                    ],
+                    "modification": [
+                        "munitionsfailsafe"
+                    ],
+                    "tech": [
+                        "advancedoptics"
+                    ]
+                }
+            }
+        ],
+        "points": 200,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Name": "Ernestas Ramanauskas",
+    "Option1": {
+        "faction": "scumandvillainy",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "oldteroch",
+                "points": 62,
+                "ship": "fangfighter",
+                "upgrades": {
+                    "torpedo": [
+                        "iontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "koshkafrost",
+                "points": 72,
+                "ship": "firesprayclasspatrolcraft",
+                "upgrades": {
+                    "illicit": [
+                        "deadmansswitch"
+                    ]
+                }
+            },
+            {
+                "id": "jakkugunrunner",
+                "points": 36,
+                "ship": "quadrijettransferspacetug",
+                "upgrades": {
+                    "device": [
+                        "proximitymines"
+                    ]
+                }
+            },
+            {
+                "id": "binayrepirate",
+                "points": 25,
+                "ship": "z95af4headhunter",
+                "upgrades": {
+                    "illicit": [
+                        "feedbackarray"
+                    ]
+                }
+            }
+        ],
+        "points": 195,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Option2": {
+        "faction": "firstorder",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "holo",
+                "points": 71,
+                "ship": "tiebainterceptor",
+                "upgrades": {
+                    "missile": [
+                        "magpulsewarheads"
+                    ],
+                    "talent": [
+                        "daredevil"
+                    ],
+                    "tech": [
+                        "deuteriumpowercells"
+                    ]
+                }
+            },
+            {
+                "id": "ember",
+                "points": 73,
+                "ship": "tiebainterceptor",
+                "upgrades": {
+                    "missile": [
+                        "clustermissiles"
+                    ],
+                    "modification": [
+                        "stealthdevice"
+                    ],
+                    "talent": [
+                        "daredevil"
+                    ],
+                    "tech": [
+                        "targetingsynchronizer"
+                    ]
+                }
+            },
+            {
+                "id": "backdraft",
+                "points": 55,
+                "ship": "tiesffighter",
+                "upgrades": {
+                    "gunner": [
+                        "hotshotgunner"
+                    ],
+                    "missile": [
+                        "homingmissiles"
+                    ],
+                    "modification": [
+                        "munitionsfailsafe"
+                    ],
+                    "talent": [
+                        "swarmtactics"
+                    ]
+                }
+            }
+        ],
+        "points": 199,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "TTT": "Azaghal",
+    "VassalForm1": "Azaghal",
+    "VassalForm2": "Azaghal"
+}

@@ -1,0 +1,207 @@
+{
+    "Add": "Outmaneuver to General Grevious",
+    "Discord": "Jdlnz#5464",
+    "Drop": "Static Discharge Vanes from DFS-311",
+    "Final": {
+        "faction": "separatistalliance",
+        "name": "Dave Laffan JTO",
+        "pilots": [
+            {
+                "id": "precisehunter",
+                "points": 29,
+                "ship": "vultureclassdroidfighter",
+                "upgrades": {
+                    "configuration": [
+                        "grapplingstruts"
+                    ],
+                    "missile": [
+                        "homingmissiles"
+                    ]
+                }
+            },
+            {
+                "id": "generalgrievous",
+                "points": 56,
+                "ship": "belbullab22starfighter",
+                "upgrades": {
+                    "talent": [
+                        "outmaneuver"
+                    ],
+                    "title": [
+                        "soullessone"
+                    ]
+                }
+            },
+            {
+                "id": "dbs32c",
+                "points": 45,
+                "ship": "hyenaclassdroidbomber",
+                "upgrades": {
+                    "tacticalrelay": [
+                        "tv94"
+                    ]
+                }
+            },
+            {
+                "id": "dfs311",
+                "points": 23,
+                "ship": "vultureclassdroidfighter",
+                "upgrades": {}
+            },
+            {
+                "id": "separatistdrone",
+                "points": 22,
+                "ship": "vultureclassdroidfighter",
+                "upgrades": {
+                    "configuration": [
+                        "grapplingstruts"
+                    ]
+                }
+            },
+            {
+                "id": "precisehunter",
+                "points": 23,
+                "ship": "vultureclassdroidfighter",
+                "upgrades": {}
+            }
+        ],
+        "points": 198,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Name": "Dave Laffan",
+    "Option1": {
+        "faction": "galacticrepublic",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "broadside",
+                "points": 48,
+                "ship": "btlbywing",
+                "upgrades": {
+                    "modification": [
+                        "targetingcomputer"
+                    ],
+                    "torpedo": [
+                        "plasmatorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "oddball-btlbywing",
+                "points": 59,
+                "ship": "btlbywing",
+                "upgrades": {
+                    "astromech": [
+                        "r4astromech"
+                    ],
+                    "gunner": [
+                        "skilledbombardier"
+                    ],
+                    "torpedo": [
+                        "advprotontorpedoes"
+                    ],
+                    "turret": [
+                        "ioncannonturret"
+                    ]
+                }
+            },
+            {
+                "id": "wolffe",
+                "points": 57,
+                "ship": "arc170starfighter",
+                "upgrades": {
+                    "crew": [
+                        "freelanceslicer"
+                    ],
+                    "modification": [
+                        "munitionsfailsafe"
+                    ],
+                    "talent": [
+                        "elusive"
+                    ]
+                }
+            },
+            {
+                "id": "swoop",
+                "points": 31,
+                "ship": "v19torrentstarfighter",
+                "upgrades": {}
+            }
+        ],
+        "points": 195,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Option2": {
+        "faction": "separatistalliance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "precisehunter",
+                "points": 29,
+                "ship": "vultureclassdroidfighter",
+                "upgrades": {
+                    "configuration": [
+                        "grapplingstruts"
+                    ],
+                    "missile": [
+                        "homingmissiles"
+                    ]
+                }
+            },
+            {
+                "id": "generalgrievous",
+                "points": 50,
+                "ship": "belbullab22starfighter",
+                "upgrades": {
+                    "title": [
+                        "soullessone"
+                    ]
+                }
+            },
+            {
+                "id": "dbs32c",
+                "points": 45,
+                "ship": "hyenaclassdroidbomber",
+                "upgrades": {
+                    "tacticalrelay": [
+                        "tv94"
+                    ]
+                }
+            },
+            {
+                "id": "dfs311",
+                "points": 29,
+                "ship": "vultureclassdroidfighter",
+                "upgrades": {
+                    "modification": [
+                        "staticdischargevanes"
+                    ]
+                }
+            },
+            {
+                "id": "separatistdrone",
+                "points": 22,
+                "ship": "vultureclassdroidfighter",
+                "upgrades": {
+                    "configuration": [
+                        "grapplingstruts"
+                    ]
+                }
+            },
+            {
+                "id": "precisehunter",
+                "points": 23,
+                "ship": "vultureclassdroidfighter",
+                "upgrades": {}
+            }
+        ],
+        "points": 198,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "TTT": "Dave Laffan",
+    "VassalForm1": "JDLNZ",
+    "VassalForm2": "JDLNZ"
+}

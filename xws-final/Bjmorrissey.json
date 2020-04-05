@@ -1,0 +1,192 @@
+{
+    "Add": "Captain Phasma to pretty officer thannison",
+    "Discord": "Brendan Morrissey #2102",
+    "Drop": "Trajectory simulator from luietenant lehuse",
+    "Final": {
+        "faction": "firstorder",
+        "name": "Brendan Morrissey JTO",
+        "obstacles": [
+            "coreasteroid2",
+            "coreasteroid5",
+            "core2asteroid3"
+        ],
+        "pilots": [
+            {
+                "id": "lieutenantlehuse",
+                "points": 52,
+                "ship": "tiesffighter",
+                "upgrades": {
+                    "missile": [
+                        "protonrockets"
+                    ],
+                    "talent": [
+                        "outmaneuver"
+                    ]
+                }
+            },
+            {
+                "id": "zetasquadronpilot",
+                "points": 26,
+                "ship": "tiefofighter",
+                "upgrades": {}
+            },
+            {
+                "id": "pettyofficerthanisson",
+                "points": 68,
+                "ship": "upsilonclasscommandshuttle",
+                "upgrades": {
+                    "crew": [
+                        "captainphasma"
+                    ],
+                    "modification": [
+                        "stealthdevice"
+                    ]
+                }
+            },
+            {
+                "id": "commandermalarus",
+                "points": 50,
+                "ship": "tiefofighter",
+                "upgrades": {
+                    "talent": [
+                        "outmaneuver"
+                    ],
+                    "tech": [
+                        "targetingsynchronizer"
+                    ]
+                }
+            }
+        ],
+        "points": 196,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Name": "Brendan Morrissey",
+    "Option1": {
+        "faction": "resistance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "finn",
+                "points": 51,
+                "ship": "resistancetransportpod",
+                "upgrades": {
+                    "crew": [
+                        "amilynholdo"
+                    ],
+                    "modification": [
+                        "targetingcomputer"
+                    ],
+                    "talent": [
+                        "outmaneuver"
+                    ],
+                    "tech": [
+                        "patternanalyzer"
+                    ]
+                }
+            },
+            {
+                "id": "bb8",
+                "points": 45,
+                "ship": "resistancetransportpod",
+                "upgrades": {
+                    "crew": [
+                        "hansolo-crew"
+                    ],
+                    "modification": [
+                        "targetingcomputer"
+                    ],
+                    "talent": [
+                        "outmaneuver"
+                    ],
+                    "tech": [
+                        "targetingsynchronizer"
+                    ]
+                }
+            },
+            {
+                "id": "cat",
+                "points": 64,
+                "ship": "mg100starfortress",
+                "upgrades": {
+                    "sensor": [
+                        "advancedsensors"
+                    ]
+                }
+            },
+            {
+                "id": "bluesquadronrecruit",
+                "points": 39,
+                "ship": "rz2awing",
+                "upgrades": {
+                    "talent": [
+                        "predator"
+                    ],
+                    "tech": [
+                        "primedthrusters"
+                    ]
+                }
+            }
+        ],
+        "points": 199,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Option2": {
+        "faction": "firstorder",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "lieutenantlehuse",
+                "points": 58,
+                "ship": "tiesffighter",
+                "upgrades": {
+                    "missile": [
+                        "protonrockets"
+                    ],
+                    "sensor": [
+                        "trajectorysimulator"
+                    ],
+                    "talent": [
+                        "outmaneuver"
+                    ]
+                }
+            },
+            {
+                "id": "zetasquadronpilot",
+                "points": 26,
+                "ship": "tiefofighter",
+                "upgrades": {}
+            },
+            {
+                "id": "pettyofficerthanisson",
+                "points": 63,
+                "ship": "upsilonclasscommandshuttle",
+                "upgrades": {
+                    "modification": [
+                        "stealthdevice"
+                    ]
+                }
+            },
+            {
+                "id": "commandermalarus",
+                "points": 50,
+                "ship": "tiefofighter",
+                "upgrades": {
+                    "talent": [
+                        "outmaneuver"
+                    ],
+                    "tech": [
+                        "targetingsynchronizer"
+                    ]
+                }
+            }
+        ],
+        "points": 197,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "TTT": "Brendan Morrissey",
+    "VassalForm1": "Bjmorrissey",
+    "VassalForm2": "bjmorrissey"
+}

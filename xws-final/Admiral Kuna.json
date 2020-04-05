@@ -1,0 +1,178 @@
+{
+    "Add": "Advanced Proton Torpedo to DBS-404 :)",
+    "Discord": "admiralkuna#0803",
+    "Drop": "Squad Leader from the Nantex",
+    "Final": {
+        "faction": "separatistalliance",
+        "name": "Arkadiusz Kuna JTO",
+        "obstacles": [
+            "yt2400debris1",
+            "core2asteroid1",
+            "core2asteroid2"
+        ],
+        "pilots": [
+            {
+                "id": "darthmaul",
+                "points": 76,
+                "ship": "sithinfiltrator",
+                "upgrades": {
+                    "crew": [
+                        "gnkgonkdroid"
+                    ],
+                    "force-power": [
+                        "predictiveshot"
+                    ]
+                }
+            },
+            {
+                "id": "berwerkret",
+                "points": 40,
+                "ship": "nantexclassstarfighter",
+                "upgrades": {}
+            },
+            {
+                "id": "separatistbomber",
+                "points": 34,
+                "ship": "hyenaclassdroidbomber",
+                "upgrades": {
+                    "missile": [
+                        "magpulsewarheads"
+                    ]
+                }
+            },
+            {
+                "id": "dbs404",
+                "points": 43,
+                "ship": "hyenaclassdroidbomber",
+                "upgrades": {
+                    "configuration": [
+                        "landingstruts"
+                    ],
+                    "device": [
+                        "proximitymines"
+                    ],
+                    "torpedo": [
+                        "advprotontorpedoes"
+                    ]
+                }
+            }
+        ],
+        "points": 193,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Name": "Arkadiusz Kuna",
+    "Option1": {
+        "faction": "separatistalliance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "darthmaul",
+                "points": 76,
+                "ship": "sithinfiltrator",
+                "upgrades": {
+                    "crew": [
+                        "gnkgonkdroid"
+                    ],
+                    "force-power": [
+                        "predictiveshot"
+                    ]
+                }
+            },
+            {
+                "id": "berwerkret",
+                "points": 52,
+                "ship": "nantexclassstarfighter",
+                "upgrades": {
+                    "talent": [
+                        "squadleader"
+                    ]
+                }
+            },
+            {
+                "id": "separatistbomber",
+                "points": 34,
+                "ship": "hyenaclassdroidbomber",
+                "upgrades": {
+                    "missile": [
+                        "magpulsewarheads"
+                    ]
+                }
+            },
+            {
+                "id": "dbs404",
+                "points": 37,
+                "ship": "hyenaclassdroidbomber",
+                "upgrades": {
+                    "configuration": [
+                        "landingstruts"
+                    ],
+                    "device": [
+                        "proximitymines"
+                    ]
+                }
+            }
+        ],
+        "points": 199,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Option2": {
+        "faction": "galacticempire",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "countdown",
+                "points": 45,
+                "ship": "tieskstriker",
+                "upgrades": {
+                    "talent": [
+                        "marksmanship"
+                    ]
+                }
+            },
+            {
+                "id": "baronoftheempire",
+                "points": 49,
+                "ship": "tieadvancedv1",
+                "upgrades": {
+                    "missile": [
+                        "magpulsewarheads"
+                    ],
+                    "sensor": [
+                        "collisiondetector"
+                    ],
+                    "talent": [
+                        "snapshot"
+                    ]
+                }
+            },
+            {
+                "id": "mornakee",
+                "points": 102,
+                "ship": "vt49decimator",
+                "upgrades": {
+                    "crew": [
+                        "deathtroopers",
+                        "novicetechnician"
+                    ],
+                    "gunner": [
+                        "fifthbrother"
+                    ],
+                    "talent": [
+                        "predator"
+                    ],
+                    "title": [
+                        "dauntless"
+                    ]
+                }
+            }
+        ],
+        "points": 196,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "TTT": "Arkadiusz Kuna",
+    "VassalForm1": "Admiral Kuna",
+    "VassalForm2": "Admiral Kuna"
+}

@@ -1,0 +1,141 @@
+{
+    "Add": "Add Leia Crew to Partisan U-Wing",
+    "Discord": "Darryl_M#0441",
+    "Drop": "Take Squad Leader EPT from Gina B-Wing",
+    "Final": {
+        "faction": "rebelalliance",
+        "name": "Darryl McMillon - JTO",
+        "pilots": [
+            {
+                "id": "partisanrenegade",
+                "points": 50,
+                "ship": "ut60duwing",
+                "upgrades": {
+                    "configuration": [
+                        "pivotwing"
+                    ],
+                    "crew": [
+                        "leiaorgana"
+                    ]
+                }
+            },
+            {
+                "id": "ginamoonsong",
+                "points": 59,
+                "ship": "asf01bwing",
+                "upgrades": {
+                    "torpedo": [
+                        "plasmatorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "bladesquadronveteran",
+                "points": 42,
+                "ship": "asf01bwing",
+                "upgrades": {}
+            },
+            {
+                "id": "bladesquadronveteran",
+                "points": 42,
+                "ship": "asf01bwing",
+                "upgrades": {}
+            }
+        ],
+        "points": 193,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Name": "Darryl McMillon",
+    "Option1": {
+        "faction": "rebelalliance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "partisanrenegade",
+                "points": 43,
+                "ship": "ut60duwing",
+                "upgrades": {
+                    "configuration": [
+                        "pivotwing"
+                    ]
+                }
+            },
+            {
+                "id": "ginamoonsong",
+                "points": 71,
+                "ship": "asf01bwing",
+                "upgrades": {
+                    "talent": [
+                        "squadleader"
+                    ],
+                    "torpedo": [
+                        "plasmatorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "bladesquadronveteran",
+                "points": 42,
+                "ship": "asf01bwing",
+                "upgrades": {}
+            },
+            {
+                "id": "bladesquadronveteran",
+                "points": 42,
+                "ship": "asf01bwing",
+                "upgrades": {}
+            }
+        ],
+        "points": 198,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Option2": {
+        "faction": "scumandvillainy",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "graz",
+                "points": 53,
+                "ship": "kihraxzfighter",
+                "upgrades": {
+                    "missile": [
+                        "protonrockets"
+                    ]
+                }
+            },
+            {
+                "id": "kavil",
+                "points": 55,
+                "ship": "btla4ywing",
+                "upgrades": {
+                    "gunner": [
+                        "dengar"
+                    ],
+                    "torpedo": [
+                        "iontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "krassistrelix",
+                "points": 65,
+                "ship": "firesprayclasspatrolcraft",
+                "upgrades": {}
+            },
+            {
+                "id": "l337-escapecraft",
+                "points": 26,
+                "ship": "escapecraft",
+                "upgrades": {}
+            }
+        ],
+        "points": 199,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "TTT": "Darryl McMillon",
+    "VassalForm1": "RebelScum",
+    "VassalForm2": "RebelScum"
+}

@@ -1,0 +1,200 @@
+{
+    "Add": "Plasma torps to dinee",
+    "Discord": "Timathius 5998",
+    "Drop": "Hotshot gunner from red Y",
+    "Final": {
+        "faction": "galacticrepublic",
+        "name": "Tim Hilton JTO",
+        "pilots": [
+            {
+                "id": "redsquadronbomber",
+                "points": 39,
+                "ship": "btlbywing",
+                "upgrades": {
+                    "astromech": [
+                        "r4pastromech"
+                    ],
+                    "turret": [
+                        "ioncannonturret"
+                    ]
+                }
+            },
+            {
+                "id": "dineeellberger",
+                "points": 47,
+                "ship": "nabooroyaln1starfighter",
+                "upgrades": {
+                    "torpedo": [
+                        "plasmatorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "104thbattalionpilot",
+                "points": 48,
+                "ship": "arc170starfighter",
+                "upgrades": {
+                    "astromech": [
+                        "r2a6"
+                    ]
+                }
+            },
+            {
+                "id": "oddball-btlbywing",
+                "points": 63,
+                "ship": "btlbywing",
+                "upgrades": {
+                    "device": [
+                        "proximitymines"
+                    ],
+                    "gunner": [
+                        "skilledbombardier"
+                    ],
+                    "torpedo": [
+                        "iontorpedoes"
+                    ],
+                    "turret": [
+                        "ioncannonturret"
+                    ]
+                }
+            }
+        ],
+        "points": 197,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Name": "Tim Hilton",
+    "Option1": {
+        "faction": "rebelalliance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "sabinewren",
+                "points": 46,
+                "ship": "attackshuttle",
+                "upgrades": {
+                    "modification": [
+                        "munitionsfailsafe"
+                    ],
+                    "talent": [
+                        "crackshot"
+                    ],
+                    "title": [
+                        "phantom"
+                    ],
+                    "turret": [
+                        "dorsalturret"
+                    ]
+                }
+            },
+            {
+                "id": "bluesquadronscout",
+                "points": 60,
+                "ship": "ut60duwing",
+                "upgrades": {
+                    "configuration": [
+                        "pivotwing"
+                    ],
+                    "crew": [
+                        "k2so",
+                        "zeborrelios"
+                    ],
+                    "modification": [
+                        "ablativeplating"
+                    ],
+                    "sensor": [
+                        "firecontrolsystem"
+                    ]
+                }
+            },
+            {
+                "id": "alexsandrkallus",
+                "points": 90,
+                "ship": "vcx100lightfreighter",
+                "upgrades": {
+                    "gunner": [
+                        "skilledbombardier"
+                    ],
+                    "modification": [
+                        "shieldupgrade"
+                    ],
+                    "title": [
+                        "ghost"
+                    ],
+                    "torpedo": [
+                        "protontorpedoes"
+                    ],
+                    "turret": [
+                        "dorsalturret"
+                    ]
+                }
+            }
+        ],
+        "points": 196,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Option2": {
+        "faction": "galacticrepublic",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "redsquadronbomber",
+                "points": 46,
+                "ship": "btlbywing",
+                "upgrades": {
+                    "astromech": [
+                        "r4pastromech"
+                    ],
+                    "gunner": [
+                        "hotshotgunner"
+                    ],
+                    "turret": [
+                        "ioncannonturret"
+                    ]
+                }
+            },
+            {
+                "id": "dineeellberger",
+                "points": 38,
+                "ship": "nabooroyaln1starfighter",
+                "upgrades": {}
+            },
+            {
+                "id": "104thbattalionpilot",
+                "points": 48,
+                "ship": "arc170starfighter",
+                "upgrades": {
+                    "astromech": [
+                        "r2a6"
+                    ]
+                }
+            },
+            {
+                "id": "oddball-btlbywing",
+                "points": 63,
+                "ship": "btlbywing",
+                "upgrades": {
+                    "device": [
+                        "proximitymines"
+                    ],
+                    "gunner": [
+                        "skilledbombardier"
+                    ],
+                    "torpedo": [
+                        "iontorpedoes"
+                    ],
+                    "turret": [
+                        "ioncannonturret"
+                    ]
+                }
+            }
+        ],
+        "points": 195,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "TTT": "Tim \"timathius\" Hilton",
+    "VassalForm1": "Timathius",
+    "VassalForm2": "Timathius "
+}

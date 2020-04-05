@@ -1,0 +1,200 @@
+{
+    "Add": "Plasma Torpedoes to Cutlass Squadron Pilot",
+    "Discord": "Neuromechanic",
+    "Drop": "Hotshot Gunner from Major Rhymer",
+    "Final": {
+        "faction": "galacticempire",
+        "name": "Colin Weber JTO",
+        "obstacles": [
+            "coreasteroid5",
+            "core2asteroid4",
+            "core2asteroid5"
+        ],
+        "pilots": [
+            {
+                "id": "alphasquadronpilot",
+                "points": 31,
+                "ship": "tieininterceptor",
+                "upgrades": {}
+            },
+            {
+                "id": "majorrhymer",
+                "points": 64,
+                "ship": "tiesabomber",
+                "upgrades": {
+                    "device": [
+                        "proximitymines"
+                    ],
+                    "missile": [
+                        "protonrockets"
+                    ],
+                    "modification": [
+                        "hullupgrade"
+                    ],
+                    "torpedo": [
+                        "plasmatorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "captainferoph",
+                "points": 60,
+                "ship": "tiereaper",
+                "upgrades": {
+                    "crew": [
+                        "grandinquisitor"
+                    ]
+                }
+            },
+            {
+                "id": "cutlasssquadronpilot",
+                "points": 45,
+                "ship": "tiecapunisher",
+                "upgrades": {
+                    "torpedo": [
+                        "plasmatorpedoes"
+                    ]
+                }
+            }
+        ],
+        "points": 200,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Name": "Colin Weber",
+    "Option1": {
+        "faction": "scumandvillainy",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "4lom",
+                "points": 77,
+                "ship": "g1astarfighter",
+                "upgrades": {
+                    "cannon": [
+                        "heavylasercannon"
+                    ],
+                    "crew": [
+                        "seasonednavigator"
+                    ],
+                    "illicit": [
+                        "cloakingdevice"
+                    ],
+                    "modification": [
+                        "stealthdevice"
+                    ],
+                    "sensor": [
+                        "collisiondetector"
+                    ],
+                    "talent": [
+                        "fearless"
+                    ],
+                    "title": [
+                        "misthunter"
+                    ]
+                }
+            },
+            {
+                "id": "binayrepirate",
+                "points": 31,
+                "ship": "z95af4headhunter",
+                "upgrades": {
+                    "illicit": [
+                        "deadmansswitch"
+                    ],
+                    "missile": [
+                        "protonrockets"
+                    ]
+                }
+            },
+            {
+                "id": "blacksunsoldier",
+                "points": 26,
+                "ship": "z95af4headhunter",
+                "upgrades": {
+                    "illicit": [
+                        "deadmansswitch"
+                    ]
+                }
+            },
+            {
+                "id": "outerrimpioneer",
+                "points": 34,
+                "ship": "escapecraft",
+                "upgrades": {
+                    "crew": [
+                        "ig88d"
+                    ],
+                    "modification": [
+                        "angleddeflectors"
+                    ]
+                }
+            },
+            {
+                "id": "g4rgorvm",
+                "points": 28,
+                "ship": "m3ainterceptor",
+                "upgrades": {}
+            }
+        ],
+        "points": 196,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Option2": {
+        "faction": "galacticempire",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "alphasquadronpilot",
+                "points": 31,
+                "ship": "tieininterceptor",
+                "upgrades": {}
+            },
+            {
+                "id": "majorrhymer",
+                "points": 71,
+                "ship": "tiesabomber",
+                "upgrades": {
+                    "device": [
+                        "proximitymines"
+                    ],
+                    "gunner": [
+                        "hotshotgunner"
+                    ],
+                    "missile": [
+                        "protonrockets"
+                    ],
+                    "modification": [
+                        "hullupgrade"
+                    ],
+                    "torpedo": [
+                        "plasmatorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "captainferoph",
+                "points": 60,
+                "ship": "tiereaper",
+                "upgrades": {
+                    "crew": [
+                        "grandinquisitor"
+                    ]
+                }
+            },
+            {
+                "id": "cutlasssquadronpilot",
+                "points": 36,
+                "ship": "tiecapunisher",
+                "upgrades": {}
+            }
+        ],
+        "points": 198,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "TTT": "Colin Weber",
+    "VassalForm1": "neuromechanic",
+    "VassalForm2": "Neuromechanic"
+}

@@ -1,0 +1,162 @@
+{
+    "Add": "Leia Organa on AP-5",
+    "Discord": "designflaw#9775",
+    "Drop": "Baze Malbus from AP-5",
+    "Final": {
+        "faction": "rebelalliance",
+        "name": "designflaw JTO",
+        "pilots": [
+            {
+                "id": "ap5",
+                "points": 46,
+                "ship": "sheathipedeclassshuttle",
+                "upgrades": {
+                    "astromech": [
+                        "r2astromech"
+                    ],
+                    "crew": [
+                        "leiaorgana"
+                    ]
+                }
+            },
+            {
+                "id": "lothalrebel",
+                "points": 76,
+                "ship": "vcx100lightfreighter",
+                "upgrades": {
+                    "gunner": [
+                        "skilledbombardier"
+                    ],
+                    "modification": [
+                        "delayedfuses"
+                    ],
+                    "torpedo": [
+                        "advprotontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "wildspacefringer",
+                "points": 77,
+                "ship": "yt2400lightfreighter",
+                "upgrades": {}
+            }
+        ],
+        "points": 199,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Name": "Scott Canham",
+    "Option1": {
+        "faction": "resistance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "resistancesympathizer",
+                "points": 84,
+                "ship": "scavengedyt1300",
+                "upgrades": {
+                    "crew": [
+                        "pz4co",
+                        "amilynholdo"
+                    ],
+                    "gunner": [
+                        "veteranturretgunner"
+                    ]
+                }
+            },
+            {
+                "id": "bb8",
+                "points": 45,
+                "ship": "resistancetransportpod",
+                "upgrades": {
+                    "crew": [
+                        "korrsella"
+                    ],
+                    "modification": [
+                        "munitionsfailsafe"
+                    ],
+                    "talent": [
+                        "squadleader"
+                    ],
+                    "tech": [
+                        "advancedoptics"
+                    ]
+                }
+            },
+            {
+                "id": "covanell",
+                "points": 68,
+                "ship": "resistancetransport",
+                "upgrades": {
+                    "astromech": [
+                        "r1j5"
+                    ],
+                    "cannon": [
+                        "autoblasters"
+                    ],
+                    "crew": [
+                        "kaydelconnix",
+                        "larmadacy"
+                    ],
+                    "tech": [
+                        "targetingsynchronizer"
+                    ],
+                    "torpedo": [
+                        "iontorpedoes"
+                    ]
+                }
+            }
+        ],
+        "points": 197,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Option2": {
+        "faction": "rebelalliance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "ap5",
+                "points": 42,
+                "ship": "sheathipedeclassshuttle",
+                "upgrades": {
+                    "astromech": [
+                        "r2astromech"
+                    ],
+                    "crew": [
+                        "bazemalbus"
+                    ]
+                }
+            },
+            {
+                "id": "lothalrebel",
+                "points": 76,
+                "ship": "vcx100lightfreighter",
+                "upgrades": {
+                    "gunner": [
+                        "skilledbombardier"
+                    ],
+                    "modification": [
+                        "delayedfuses"
+                    ],
+                    "torpedo": [
+                        "advprotontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "wildspacefringer",
+                "points": 77,
+                "ship": "yt2400lightfreighter",
+                "upgrades": {}
+            }
+        ],
+        "points": 195,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "TTT": "Scott Canham",
+    "VassalForm1": "designflaw",
+    "VassalForm2": "designflaw"
+}

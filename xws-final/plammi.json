@@ -1,0 +1,179 @@
+{
+    "Add": "Avenger - Advanced Optics",
+    "Discord": "Funkstar (plammi)#3654",
+    "Drop": "Recoil - Mag-Pulse Warhead",
+    "Final": {
+        "faction": "firstorder",
+        "name": "Plammi JTO",
+        "pilots": [
+            {
+                "id": "zetasquadronsurvivor",
+                "points": 58,
+                "ship": "tiesffighter",
+                "upgrades": {
+                    "gunner": [
+                        "specialforcesgunner"
+                    ],
+                    "missile": [
+                        "homingmissiles"
+                    ],
+                    "modification": [
+                        "staticdischargevanes"
+                    ],
+                    "tech": [
+                        "patternanalyzer"
+                    ]
+                }
+            },
+            {
+                "id": "recoil",
+                "points": 72,
+                "ship": "tievnsilencer",
+                "upgrades": {
+                    "talent": [
+                        "daredevil"
+                    ],
+                    "torpedo": [
+                        "protontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "avenger",
+                "points": 63,
+                "ship": "tievnsilencer",
+                "upgrades": {
+                    "talent": [
+                        "intimidation"
+                    ],
+                    "tech": [
+                        "advancedoptics"
+                    ]
+                }
+            }
+        ],
+        "points": 193,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Name": "P\u00c3\u00a1lmi \u00c3\u008dvar J\u00c3\u00b3ngeirsson",
+    "Option1": {
+        "faction": "firstorder",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "zetasquadronsurvivor",
+                "points": 58,
+                "ship": "tiesffighter",
+                "upgrades": {
+                    "gunner": [
+                        "specialforcesgunner"
+                    ],
+                    "missile": [
+                        "homingmissiles"
+                    ],
+                    "modification": [
+                        "staticdischargevanes"
+                    ],
+                    "tech": [
+                        "patternanalyzer"
+                    ]
+                }
+            },
+            {
+                "id": "recoil",
+                "points": 78,
+                "ship": "tievnsilencer",
+                "upgrades": {
+                    "missile": [
+                        "magpulsewarheads"
+                    ],
+                    "talent": [
+                        "daredevil"
+                    ],
+                    "torpedo": [
+                        "protontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "avenger",
+                "points": 59,
+                "ship": "tievnsilencer",
+                "upgrades": {
+                    "talent": [
+                        "intimidation"
+                    ]
+                }
+            }
+        ],
+        "points": 195,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Option2": {
+        "faction": "galacticempire",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "deathfire",
+                "points": 59,
+                "ship": "tiesabomber",
+                "upgrades": {
+                    "device": [
+                        "electroprotonbomb",
+                        "protonbombs"
+                    ],
+                    "gunner": [
+                        "skilledbombardier"
+                    ],
+                    "missile": [
+                        "barragerockets"
+                    ]
+                }
+            },
+            {
+                "id": "blacksquadronace",
+                "points": 26,
+                "ship": "tielnfighter",
+                "upgrades": {
+                    "talent": [
+                        "crackshot"
+                    ]
+                }
+            },
+            {
+                "id": "rhosquadronpilot",
+                "points": 44,
+                "ship": "alphaclassstarwing",
+                "upgrades": {
+                    "torpedo": [
+                        "plasmatorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "fifthbrother",
+                "points": 49,
+                "ship": "tieadvancedv1",
+                "upgrades": {
+                    "missile": [
+                        "protonrockets"
+                    ]
+                }
+            },
+            {
+                "id": "academypilot",
+                "points": 22,
+                "ship": "tielnfighter",
+                "upgrades": {}
+            }
+        ],
+        "points": 200,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "TTT": "Plammi",
+    "VassalForm1": "plammi",
+    "VassalForm2": "plammi"
+}

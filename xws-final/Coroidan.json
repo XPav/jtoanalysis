@@ -1,0 +1,173 @@
+{
+    "Add": "Advanced Sensors to Dalan Oberos",
+    "Discord": "Coroidan#5646",
+    "Drop": "Trajectory Simulator from Black Sun Enforcer",
+    "Final": {
+        "faction": "scumandvillainy",
+        "name": "Lachlan Moore JTO",
+        "pilots": [
+            {
+                "id": "blacksunenforcer",
+                "points": 45,
+                "ship": "starviperclassattackplatform",
+                "upgrades": {}
+            },
+            {
+                "id": "tansariipointveteran",
+                "points": 43,
+                "ship": "m3ainterceptor",
+                "upgrades": {
+                    "talent": [
+                        "squadleader"
+                    ],
+                    "torpedo": [
+                        "advprotontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "kavil",
+                "points": 48,
+                "ship": "btla4ywing",
+                "upgrades": {
+                    "illicit": [
+                        "deadmansswitch"
+                    ],
+                    "turret": [
+                        "dorsalturret"
+                    ]
+                }
+            },
+            {
+                "id": "dalanoberos-starviperclassattackplatform",
+                "points": 64,
+                "ship": "starviperclassattackplatform",
+                "upgrades": {
+                    "sensor": [
+                        "advancedsensors"
+                    ]
+                }
+            }
+        ],
+        "points": 200,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Name": "Lachlan Moore",
+    "Option1": {
+        "faction": "scumandvillainy",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "blacksunenforcer",
+                "points": 51,
+                "ship": "starviperclassattackplatform",
+                "upgrades": {
+                    "sensor": [
+                        "trajectorysimulator"
+                    ]
+                }
+            },
+            {
+                "id": "tansariipointveteran",
+                "points": 43,
+                "ship": "m3ainterceptor",
+                "upgrades": {
+                    "talent": [
+                        "squadleader"
+                    ],
+                    "torpedo": [
+                        "advprotontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "kavil",
+                "points": 48,
+                "ship": "btla4ywing",
+                "upgrades": {
+                    "illicit": [
+                        "deadmansswitch"
+                    ],
+                    "turret": [
+                        "dorsalturret"
+                    ]
+                }
+            },
+            {
+                "id": "dalanoberos-starviperclassattackplatform",
+                "points": 54,
+                "ship": "starviperclassattackplatform",
+                "upgrades": {}
+            }
+        ],
+        "points": 196,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Option2": {
+        "faction": "resistance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "jarekyeager",
+                "points": 51,
+                "ship": "fireball",
+                "upgrades": {
+                    "astromech": [
+                        "r4astromech"
+                    ],
+                    "illicit": [
+                        "cloakingdevice"
+                    ],
+                    "missile": [
+                        "homingmissiles"
+                    ],
+                    "modification": [
+                        "staticdischargevanes"
+                    ],
+                    "talent": [
+                        "marksmanship"
+                    ]
+                }
+            },
+            {
+                "id": "ronithblario",
+                "points": 45,
+                "ship": "rz2awing",
+                "upgrades": {
+                    "missile": [
+                        "homingmissiles"
+                    ],
+                    "tech": [
+                        "ferrospherepaint"
+                    ]
+                }
+            },
+            {
+                "id": "tallissanlintra",
+                "points": 36,
+                "ship": "rz2awing",
+                "upgrades": {}
+            },
+            {
+                "id": "kazudaxiono",
+                "points": 40,
+                "ship": "fireball",
+                "upgrades": {}
+            },
+            {
+                "id": "colossusstationmechanic",
+                "points": 26,
+                "ship": "fireball",
+                "upgrades": {}
+            }
+        ],
+        "points": 198,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "TTT": "Lachlan Moore",
+    "VassalForm1": "Coroidan",
+    "VassalForm2": "Coroidan"
+}

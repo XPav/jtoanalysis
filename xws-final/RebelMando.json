@@ -1,0 +1,175 @@
+{
+    "Add": "Seismic Charges on the K-Wing",
+    "Discord": "RebelMando#7114",
+    "Drop": "Heavy Laser Cannon on the B-Wing",
+    "Final": {
+        "faction": "rebelalliance",
+        "name": "Eddie Preisser JTO",
+        "pilots": [
+            {
+                "id": "bluesquadronpilot",
+                "points": 47,
+                "ship": "asf01bwing",
+                "upgrades": {
+                    "cannon": [
+                        "ioncannon"
+                    ]
+                }
+            },
+            {
+                "id": "ap5",
+                "points": 39,
+                "ship": "sheathipedeclassshuttle",
+                "upgrades": {
+                    "crew": [
+                        "leiaorgana"
+                    ]
+                }
+            },
+            {
+                "id": "mirandadoni",
+                "points": 51,
+                "ship": "btls8kwing",
+                "upgrades": {
+                    "device": [
+                        "proximitymines",
+                        "seismiccharges"
+                    ]
+                }
+            },
+            {
+                "id": "talasquadronpilot",
+                "points": 24,
+                "ship": "z95af4headhunter",
+                "upgrades": {}
+            },
+            {
+                "id": "lieutenantblount",
+                "points": 36,
+                "ship": "z95af4headhunter",
+                "upgrades": {
+                    "missile": [
+                        "magpulsewarheads"
+                    ]
+                }
+            }
+        ],
+        "points": 197,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Name": "Eddie",
+    "Option1": {
+        "faction": "scumandvillainy",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "4lom",
+                "points": 55,
+                "ship": "g1astarfighter",
+                "upgrades": {
+                    "modification": [
+                        "angleddeflectors"
+                    ]
+                }
+            },
+            {
+                "id": "teltrevura",
+                "points": 58,
+                "ship": "jumpmaster5000",
+                "upgrades": {
+                    "crew": [
+                        "zuckuss"
+                    ],
+                    "modification": [
+                        "staticdischargevanes"
+                    ],
+                    "torpedo": [
+                        "advprotontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "l337",
+                "points": 58,
+                "ship": "customizedyt1300lightfreighter",
+                "upgrades": {
+                    "crew": [
+                        "perceptivecopilot"
+                    ],
+                    "title": [
+                        "landosmillenniumfalcon"
+                    ]
+                }
+            },
+            {
+                "id": "overseeryushyn",
+                "points": 26,
+                "ship": "modifiedtielnfighter",
+                "upgrades": {}
+            }
+        ],
+        "points": 197,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Option2": {
+        "faction": "rebelalliance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "bluesquadronpilot",
+                "points": 52,
+                "ship": "asf01bwing",
+                "upgrades": {
+                    "cannon": [
+                        "ioncannon",
+                        "heavylasercannon"
+                    ]
+                }
+            },
+            {
+                "id": "ap5",
+                "points": 39,
+                "ship": "sheathipedeclassshuttle",
+                "upgrades": {
+                    "crew": [
+                        "leiaorgana"
+                    ]
+                }
+            },
+            {
+                "id": "mirandadoni",
+                "points": 48,
+                "ship": "btls8kwing",
+                "upgrades": {
+                    "device": [
+                        "proximitymines"
+                    ]
+                }
+            },
+            {
+                "id": "lieutenantblount",
+                "points": 36,
+                "ship": "z95af4headhunter",
+                "upgrades": {
+                    "missile": [
+                        "magpulsewarheads"
+                    ]
+                }
+            },
+            {
+                "id": "talasquadronpilot",
+                "points": 24,
+                "ship": "z95af4headhunter",
+                "upgrades": {}
+            }
+        ],
+        "points": 199,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "TTT": "Eddie Preisser",
+    "VassalForm1": "RebelMando",
+    "VassalForm2": "RebelMando"
+}

@@ -1,0 +1,204 @@
+{
+    "Add": "Advanced Optics to RZ-2 A-Wing (Green Squadron Expert)",
+    "Discord": "Stormalong#7810",
+    "Drop": "Static Discharge Vanes from Resistance Transport Pod-Rose Tico",
+    "Final": {
+        "faction": "resistance",
+        "name": "Thomas Wittenberg JTO",
+        "obstacles": [
+            "gascloud1",
+            "gascloud4",
+            "gascloud6"
+        ],
+        "pilots": [
+            {
+                "id": "rosetico",
+                "points": 36,
+                "ship": "resistancetransportpod",
+                "upgrades": {
+                    "talent": [
+                        "swarmtactics"
+                    ],
+                    "tech": [
+                        "primedthrusters"
+                    ]
+                }
+            },
+            {
+                "id": "vimoradi",
+                "points": 27,
+                "ship": "resistancetransportpod",
+                "upgrades": {}
+            },
+            {
+                "id": "greensquadronexpert",
+                "points": 46,
+                "ship": "rz2awing",
+                "upgrades": {
+                    "missile": [
+                        "concussionmissiles"
+                    ],
+                    "talent": [
+                        "daredevil"
+                    ],
+                    "tech": [
+                        "advancedoptics"
+                    ]
+                }
+            },
+            {
+                "id": "pammichnerrogoode",
+                "points": 56,
+                "ship": "resistancetransport",
+                "upgrades": {
+                    "cannon": [
+                        "autoblasters"
+                    ],
+                    "crew": [
+                        "leiaorgana-resistance"
+                    ]
+                }
+            },
+            {
+                "id": "r1j5",
+                "points": 31,
+                "ship": "fireball",
+                "upgrades": {
+                    "illicit": [
+                        "coaxiumhyperfuel"
+                    ]
+                }
+            }
+        ],
+        "points": 196,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Name": "Thomas Wittenberg",
+    "Option1": {
+        "faction": "galacticrepublic",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "r2d2",
+                "points": 64,
+                "ship": "btlbywing",
+                "upgrades": {
+                    "crew": [
+                        "gnkgonkdroid"
+                    ],
+                    "device": [
+                        "electroprotonbomb"
+                    ],
+                    "gunner": [
+                        "skilledbombardier"
+                    ],
+                    "turret": [
+                        "ioncannonturret"
+                    ]
+                }
+            },
+            {
+                "id": "squadsevenveteran",
+                "points": 61,
+                "ship": "arc170starfighter",
+                "upgrades": {
+                    "crew": [
+                        "freelanceslicer"
+                    ],
+                    "talent": [
+                        "squadleader"
+                    ],
+                    "torpedo": [
+                        "advprotontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "swoop",
+                "points": 31,
+                "ship": "v19torrentstarfighter",
+                "upgrades": {}
+            },
+            {
+                "id": "luminaraunduli",
+                "points": 43,
+                "ship": "delta7aethersprite",
+                "upgrades": {}
+            }
+        ],
+        "points": 199,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Option2": {
+        "faction": "resistance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "rosetico",
+                "points": 42,
+                "ship": "resistancetransportpod",
+                "upgrades": {
+                    "modification": [
+                        "staticdischargevanes"
+                    ],
+                    "talent": [
+                        "swarmtactics"
+                    ],
+                    "tech": [
+                        "primedthrusters"
+                    ]
+                }
+            },
+            {
+                "id": "vimoradi",
+                "points": 27,
+                "ship": "resistancetransportpod",
+                "upgrades": {}
+            },
+            {
+                "id": "greensquadronexpert",
+                "points": 42,
+                "ship": "rz2awing",
+                "upgrades": {
+                    "missile": [
+                        "concussionmissiles"
+                    ],
+                    "talent": [
+                        "daredevil"
+                    ]
+                }
+            },
+            {
+                "id": "pammichnerrogoode",
+                "points": 56,
+                "ship": "resistancetransport",
+                "upgrades": {
+                    "cannon": [
+                        "autoblasters"
+                    ],
+                    "crew": [
+                        "leiaorgana-resistance"
+                    ]
+                }
+            },
+            {
+                "id": "r1j5",
+                "points": 31,
+                "ship": "fireball",
+                "upgrades": {
+                    "illicit": [
+                        "coaxiumhyperfuel"
+                    ]
+                }
+            }
+        ],
+        "points": 198,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "TTT": "Thomas Wittenberg",
+    "VassalForm1": "Stormalong",
+    "VassalForm2": "Stormalong"
+}

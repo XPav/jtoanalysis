@@ -1,0 +1,194 @@
+{
+    "Add": "Proximity Mines to Bombardment Drone",
+    "Discord": "intoxicatedALF#1186",
+    "Drop": "DRK-1 Probe Droids from Bombardment Drone",
+    "Final": {
+        "faction": "separatistalliance",
+        "name": "Aaron Furminger JTO",
+        "pilots": [
+            {
+                "id": "berwerkret",
+                "points": 41,
+                "ship": "nantexclassstarfighter",
+                "upgrades": {
+                    "talent": [
+                        "composure"
+                    ]
+                }
+            },
+            {
+                "id": "bombardmentdrone",
+                "points": 36,
+                "ship": "hyenaclassdroidbomber",
+                "upgrades": {
+                    "device": [
+                        "proximitymines"
+                    ],
+                    "modification": [
+                        "delayedfuses"
+                    ]
+                }
+            },
+            {
+                "id": "066",
+                "points": 65,
+                "ship": "sithinfiltrator",
+                "upgrades": {
+                    "crew": [
+                        "chancellorpalpatine"
+                    ]
+                }
+            },
+            {
+                "id": "separatistbomber",
+                "points": 29,
+                "ship": "hyenaclassdroidbomber",
+                "upgrades": {
+                    "configuration": [
+                        "landingstruts"
+                    ]
+                }
+            },
+            {
+                "id": "separatistbomber",
+                "points": 28,
+                "ship": "hyenaclassdroidbomber",
+                "upgrades": {}
+            }
+        ],
+        "points": 199,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Name": "Aaron",
+    "Option1": {
+        "faction": "resistance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "paigetico",
+                "points": 75,
+                "ship": "mg100starfortress",
+                "upgrades": {
+                    "crew": [
+                        "c3po-crew"
+                    ],
+                    "modification": [
+                        "tacticalscrambler"
+                    ],
+                    "sensor": [
+                        "firecontrolsystem"
+                    ],
+                    "tech": [
+                        "patternanalyzer"
+                    ]
+                }
+            },
+            {
+                "id": "kazudaxiono",
+                "points": 54,
+                "ship": "fireball",
+                "upgrades": {
+                    "illicit": [
+                        "cloakingdevice"
+                    ],
+                    "missile": [
+                        "protonrockets"
+                    ],
+                    "modification": [
+                        "munitionsfailsafe"
+                    ],
+                    "title": [
+                        "kazsfireball"
+                    ]
+                }
+            },
+            {
+                "id": "r1j5",
+                "points": 42,
+                "ship": "fireball",
+                "upgrades": {
+                    "crew": [
+                        "ga97"
+                    ],
+                    "illicit": [
+                        "contrabandcybernetics"
+                    ],
+                    "modification": [
+                        "hullupgrade"
+                    ]
+                }
+            },
+            {
+                "id": "bb8",
+                "points": 26,
+                "ship": "resistancetransportpod",
+                "upgrades": {}
+            }
+        ],
+        "points": 197,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Option2": {
+        "faction": "separatistalliance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "berwerkret",
+                "points": 41,
+                "ship": "nantexclassstarfighter",
+                "upgrades": {
+                    "talent": [
+                        "composure"
+                    ]
+                }
+            },
+            {
+                "id": "bombardmentdrone",
+                "points": 35,
+                "ship": "hyenaclassdroidbomber",
+                "upgrades": {
+                    "device": [
+                        "drk1probedroids"
+                    ],
+                    "modification": [
+                        "delayedfuses"
+                    ]
+                }
+            },
+            {
+                "id": "066",
+                "points": 65,
+                "ship": "sithinfiltrator",
+                "upgrades": {
+                    "crew": [
+                        "chancellorpalpatine"
+                    ]
+                }
+            },
+            {
+                "id": "separatistbomber",
+                "points": 29,
+                "ship": "hyenaclassdroidbomber",
+                "upgrades": {
+                    "configuration": [
+                        "landingstruts"
+                    ]
+                }
+            },
+            {
+                "id": "separatistbomber",
+                "points": 28,
+                "ship": "hyenaclassdroidbomber",
+                "upgrades": {}
+            }
+        ],
+        "points": 198,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "TTT": "Aaron Furminger",
+    "VassalForm1": "intoxicatedALF",
+    "VassalForm2": "intoxicatedALF"
+}

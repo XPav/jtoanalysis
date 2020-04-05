@@ -1,0 +1,151 @@
+{
+    "Add": "Proton Rockets added to Recoil",
+    "Discord": "Lord Cronal#3231",
+    "Drop": "Deuterium Power cells",
+    "Final": {
+        "faction": "firstorder",
+        "name": "Lord Cronal JTO",
+        "pilots": [
+            {
+                "id": "commandermalarus",
+                "points": 38,
+                "ship": "tiefofighter",
+                "upgrades": {}
+            },
+            {
+                "id": "recoil",
+                "points": 72,
+                "ship": "tievnsilencer",
+                "upgrades": {
+                    "missile": [
+                        "protonrockets"
+                    ],
+                    "tech": [
+                        "primedthrusters"
+                    ]
+                }
+            },
+            {
+                "id": "holo",
+                "points": 54,
+                "ship": "tiebainterceptor",
+                "upgrades": {}
+            },
+            {
+                "id": "omegasquadronexpert",
+                "points": 34,
+                "ship": "tiesffighter",
+                "upgrades": {}
+            }
+        ],
+        "points": 198,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Name": "Patrick Wojtowicz",
+    "Option1": {
+        "faction": "galacticempire",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "deathfire",
+                "points": 46,
+                "ship": "tiesabomber",
+                "upgrades": {
+                    "gunner": [
+                        "skilledbombardier"
+                    ],
+                    "missile": [
+                        "protonrockets",
+                        "homingmissiles"
+                    ]
+                }
+            },
+            {
+                "id": "deathrain",
+                "points": 59,
+                "ship": "tiecapunisher",
+                "upgrades": {
+                    "device": [
+                        "seismiccharges"
+                    ],
+                    "missile": [
+                        "concussionmissiles"
+                    ],
+                    "torpedo": [
+                        "advprotontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "tomaxbren",
+                "points": 50,
+                "ship": "tiesabomber",
+                "upgrades": {
+                    "device": [
+                        "connernets"
+                    ],
+                    "modification": [
+                        "hullupgrade"
+                    ],
+                    "talent": [
+                        "trickshot"
+                    ]
+                }
+            },
+            {
+                "id": "imdaartestpilot",
+                "points": 43,
+                "ship": "tiephphantom",
+                "upgrades": {}
+            }
+        ],
+        "points": 198,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Option2": {
+        "faction": "firstorder",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "commandermalarus",
+                "points": 47,
+                "ship": "tiefofighter",
+                "upgrades": {
+                    "tech": [
+                        "deuteriumpowercells"
+                    ]
+                }
+            },
+            {
+                "id": "recoil",
+                "points": 65,
+                "ship": "tievnsilencer",
+                "upgrades": {
+                    "tech": [
+                        "primedthrusters"
+                    ]
+                }
+            },
+            {
+                "id": "holo",
+                "points": 54,
+                "ship": "tiebainterceptor",
+                "upgrades": {}
+            },
+            {
+                "id": "omegasquadronexpert",
+                "points": 34,
+                "ship": "tiesffighter",
+                "upgrades": {}
+            }
+        ],
+        "points": 200,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "TTT": "Patrick Wojtowicz ",
+    "VassalForm1": "Lord Cronal",
+    "VassalForm2": "Lord Cronal"
+}

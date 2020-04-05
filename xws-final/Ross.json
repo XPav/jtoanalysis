@@ -1,0 +1,185 @@
+{
+    "Add": "add crew: Lando to the HWK-290",
+    "Discord": "vetamur#1162",
+    "Drop": "remove Static Discharge Vanes from the HWK-290 ",
+    "Final": {
+        "faction": "scumandvillainy",
+        "name": "ross.jank",
+        "pilots": [
+            {
+                "id": "ahhav",
+                "points": 37,
+                "ship": "modifiedtielnfighter",
+                "upgrades": {
+                    "talent": [
+                        "snapshot"
+                    ]
+                }
+            },
+            {
+                "id": "graz",
+                "points": 54,
+                "ship": "kihraxzfighter",
+                "upgrades": {
+                    "illicit": [
+                        "deadmansswitch"
+                    ],
+                    "missile": [
+                        "clustermissiles"
+                    ],
+                    "modification": [
+                        "munitionsfailsafe"
+                    ]
+                }
+            },
+            {
+                "id": "blacksunassassin",
+                "points": 52,
+                "ship": "starviperclassattackplatform",
+                "upgrades": {
+                    "modification": [
+                        "delayedfuses"
+                    ],
+                    "sensor": [
+                        "firecontrolsystem"
+                    ],
+                    "talent": [
+                        "composure"
+                    ]
+                }
+            },
+            {
+                "id": "palobgodalhi",
+                "points": 54,
+                "ship": "hwk290lightfreighter",
+                "upgrades": {
+                    "crew": [
+                        "landocalrissian-crew"
+                    ],
+                    "talent": [
+                        "outmaneuver"
+                    ]
+                }
+            }
+        ],
+        "points": 197,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Name": "Ross",
+    "Option1": {
+        "faction": "scumandvillainy",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "ahhav",
+                "points": 37,
+                "ship": "modifiedtielnfighter",
+                "upgrades": {
+                    "talent": [
+                        "snapshot"
+                    ]
+                }
+            },
+            {
+                "id": "graz",
+                "points": 54,
+                "ship": "kihraxzfighter",
+                "upgrades": {
+                    "illicit": [
+                        "deadmansswitch"
+                    ],
+                    "missile": [
+                        "clustermissiles"
+                    ],
+                    "modification": [
+                        "munitionsfailsafe"
+                    ]
+                }
+            },
+            {
+                "id": "blacksunassassin",
+                "points": 52,
+                "ship": "starviperclassattackplatform",
+                "upgrades": {
+                    "modification": [
+                        "delayedfuses"
+                    ],
+                    "sensor": [
+                        "firecontrolsystem"
+                    ],
+                    "talent": [
+                        "composure"
+                    ]
+                }
+            },
+            {
+                "id": "palobgodalhi",
+                "points": 52,
+                "ship": "hwk290lightfreighter",
+                "upgrades": {
+                    "modification": [
+                        "staticdischargevanes"
+                    ],
+                    "talent": [
+                        "outmaneuver"
+                    ]
+                }
+            }
+        ],
+        "points": 195,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Option2": {
+        "faction": "resistance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "hansolo-scavengedyt1300",
+                "points": 82,
+                "ship": "scavengedyt1300",
+                "upgrades": {
+                    "crew": [
+                        "pz4co"
+                    ],
+                    "gunner": [
+                        "paigetico"
+                    ],
+                    "missile": [
+                        "ionmissiles"
+                    ]
+                }
+            },
+            {
+                "id": "chewbacca-scavengedyt1300",
+                "points": 85,
+                "ship": "scavengedyt1300",
+                "upgrades": {
+                    "crew": [
+                        "amilynholdo",
+                        "rosetico"
+                    ],
+                    "talent": [
+                        "intimidation"
+                    ],
+                    "title": [
+                        "reysmillenniumfalcon"
+                    ]
+                }
+            },
+            {
+                "id": "r1j5",
+                "points": 29,
+                "ship": "fireball",
+                "upgrades": {}
+            }
+        ],
+        "points": 196,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "TTT": "Ross Wakefield",
+    "VassalForm1": "Ross",
+    "VassalForm2": "Ross"
+}

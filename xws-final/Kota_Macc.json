@@ -1,0 +1,160 @@
+{
+    "Add": "Trick Shot to \"Blackout\"",
+    "Discord": "Kota_Macc (#3996)",
+    "Drop": "Mag-Pulse Warheads from \"Backdraft\"",
+    "Final": {
+        "faction": "firstorder",
+        "name": "Samuel Carmel JTO",
+        "pilots": [
+            {
+                "id": "backdraft",
+                "points": 68,
+                "ship": "tiesffighter",
+                "upgrades": {
+                    "gunner": [
+                        "specialforcesgunner"
+                    ],
+                    "sensor": [
+                        "advancedsensors"
+                    ],
+                    "tech": [
+                        "deuteriumpowercells"
+                    ]
+                }
+            },
+            {
+                "id": "blackout",
+                "points": 73,
+                "ship": "tievnsilencer",
+                "upgrades": {
+                    "talent": [
+                        "trickshot"
+                    ],
+                    "torpedo": [
+                        "advprotontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "ember",
+                "points": 52,
+                "ship": "tiebainterceptor",
+                "upgrades": {}
+            }
+        ],
+        "points": 193,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Name": "Samuel Carmel",
+    "Option1": {
+        "faction": "firstorder",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "backdraft",
+                "points": 74,
+                "ship": "tiesffighter",
+                "upgrades": {
+                    "gunner": [
+                        "specialforcesgunner"
+                    ],
+                    "missile": [
+                        "magpulsewarheads"
+                    ],
+                    "sensor": [
+                        "advancedsensors"
+                    ],
+                    "tech": [
+                        "deuteriumpowercells"
+                    ]
+                }
+            },
+            {
+                "id": "blackout",
+                "points": 69,
+                "ship": "tievnsilencer",
+                "upgrades": {
+                    "torpedo": [
+                        "advprotontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "ember",
+                "points": 52,
+                "ship": "tiebainterceptor",
+                "upgrades": {}
+            }
+        ],
+        "points": 195,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Option2": {
+        "faction": "galacticrepublic",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "barrissoffee",
+                "points": 62,
+                "ship": "delta7aethersprite",
+                "upgrades": {
+                    "astromech": [
+                        "r2a6"
+                    ],
+                    "configuration": [
+                        "delta7b"
+                    ]
+                }
+            },
+            {
+                "id": "r2d2",
+                "points": 73,
+                "ship": "btlbywing",
+                "upgrades": {
+                    "crew": [
+                        "gnkgonkdroid"
+                    ],
+                    "gunner": [
+                        "seventhfleetgunner"
+                    ],
+                    "modification": [
+                        "angleddeflectors"
+                    ],
+                    "talent": [
+                        "juke"
+                    ],
+                    "torpedo": [
+                        "iontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "tucker",
+                "points": 29,
+                "ship": "v19torrentstarfighter",
+                "upgrades": {}
+            },
+            {
+                "id": "redsquadronbomber",
+                "points": 36,
+                "ship": "btlbywing",
+                "upgrades": {
+                    "astromech": [
+                        "r2c4"
+                    ],
+                    "modification": [
+                        "synchronizedconsole"
+                    ]
+                }
+            }
+        ],
+        "points": 200,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "TTT": "Samuel Carmel",
+    "VassalForm1": "Kota_Macc",
+    "VassalForm2": "Kota_Macc"
+}

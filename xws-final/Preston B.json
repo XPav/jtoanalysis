@@ -1,0 +1,164 @@
+{
+    "Add": "Daredevil on Ric",
+    "Discord": "Zodiack",
+    "Drop": "Trick shot from squad seven arc",
+    "Final": {
+        "faction": "galacticrepublic",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "ricolie",
+                "points": 54,
+                "ship": "nabooroyaln1starfighter",
+                "upgrades": {
+                    "sensor": [
+                        "advancedsensors"
+                    ],
+                    "talent": [
+                        "daredevil"
+                    ]
+                }
+            },
+            {
+                "id": "squadsevenveteran",
+                "points": 49,
+                "ship": "arc170starfighter",
+                "upgrades": {
+                    "astromech": [
+                        "r4p44"
+                    ]
+                }
+            },
+            {
+                "id": "kickback",
+                "points": 33,
+                "ship": "v19torrentstarfighter",
+                "upgrades": {}
+            },
+            {
+                "id": "sinker",
+                "points": 59,
+                "ship": "arc170starfighter",
+                "upgrades": {
+                    "astromech": [
+                        "r2astromech"
+                    ]
+                }
+            }
+        ],
+        "points": 195,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Name": "Preston Bitzer",
+    "Option1": {
+        "faction": "galacticrepublic",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "ricolie",
+                "points": 52,
+                "ship": "nabooroyaln1starfighter",
+                "upgrades": {
+                    "sensor": [
+                        "advancedsensors"
+                    ]
+                }
+            },
+            {
+                "id": "squadsevenveteran",
+                "points": 53,
+                "ship": "arc170starfighter",
+                "upgrades": {
+                    "astromech": [
+                        "r4p44"
+                    ],
+                    "talent": [
+                        "trickshot"
+                    ]
+                }
+            },
+            {
+                "id": "kickback",
+                "points": 33,
+                "ship": "v19torrentstarfighter",
+                "upgrades": {}
+            },
+            {
+                "id": "sinker",
+                "points": 59,
+                "ship": "arc170starfighter",
+                "upgrades": {
+                    "astromech": [
+                        "r2astromech"
+                    ]
+                }
+            }
+        ],
+        "points": 197,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Option2": {
+        "faction": "separatistalliance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "dbs32c",
+                "points": 52,
+                "ship": "hyenaclassdroidbomber",
+                "upgrades": {
+                    "configuration": [
+                        "landingstruts"
+                    ],
+                    "sensor": [
+                        "collisiondetector"
+                    ],
+                    "tacticalrelay": [
+                        "tv94"
+                    ]
+                }
+            },
+            {
+                "id": "technounionbomber",
+                "points": 30,
+                "ship": "hyenaclassdroidbomber",
+                "upgrades": {
+                    "device": [
+                        "drk1probedroids"
+                    ]
+                }
+            },
+            {
+                "id": "feethanottrawautopilot",
+                "points": 35,
+                "ship": "belbullab22starfighter",
+                "upgrades": {}
+            },
+            {
+                "id": "dfs311",
+                "points": 23,
+                "ship": "vultureclassdroidfighter",
+                "upgrades": {}
+            },
+            {
+                "id": "bombardmentdrone",
+                "points": 29,
+                "ship": "hyenaclassdroidbomber",
+                "upgrades": {}
+            },
+            {
+                "id": "dfs081",
+                "points": 26,
+                "ship": "vultureclassdroidfighter",
+                "upgrades": {}
+            }
+        ],
+        "points": 195,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "TTT": "Preston Bitzer",
+    "VassalForm1": "Preston B",
+    "VassalForm2": "Preston B"
+}

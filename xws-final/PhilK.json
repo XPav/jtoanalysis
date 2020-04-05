@@ -1,0 +1,169 @@
+{
+    "Add": "Mag-Pulse Warheads onto Fifth Brother",
+    "Discord": "pakirby#0989",
+    "Drop": "Hull Upgrade from Howlrunner",
+    "Final": {
+        "faction": "galacticempire",
+        "name": "Phil Kirby JTO",
+        "pilots": [
+            {
+                "id": "vizier",
+                "points": 56,
+                "ship": "tiereaper",
+                "upgrades": {
+                    "crew": [
+                        "moffjerjerrod"
+                    ],
+                    "modification": [
+                        "hullupgrade"
+                    ]
+                }
+            },
+            {
+                "id": "fifthbrother",
+                "points": 48,
+                "ship": "tieadvancedv1",
+                "upgrades": {
+                    "missile": [
+                        "magpulsewarheads"
+                    ]
+                }
+            },
+            {
+                "id": "howlrunner",
+                "points": 46,
+                "ship": "tielnfighter",
+                "upgrades": {}
+            },
+            {
+                "id": "tomaxbren",
+                "points": 46,
+                "ship": "tiesabomber",
+                "upgrades": {
+                    "device": [
+                        "protonbombs"
+                    ],
+                    "torpedo": [
+                        "iontorpedoes"
+                    ]
+                }
+            }
+        ],
+        "points": 196,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Name": "Phil Kirby",
+    "Option1": {
+        "faction": "galacticempire",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "vizier",
+                "points": 56,
+                "ship": "tiereaper",
+                "upgrades": {
+                    "crew": [
+                        "moffjerjerrod"
+                    ],
+                    "modification": [
+                        "hullupgrade"
+                    ]
+                }
+            },
+            {
+                "id": "fifthbrother",
+                "points": 42,
+                "ship": "tieadvancedv1",
+                "upgrades": {}
+            },
+            {
+                "id": "howlrunner",
+                "points": 53,
+                "ship": "tielnfighter",
+                "upgrades": {
+                    "modification": [
+                        "hullupgrade"
+                    ]
+                }
+            },
+            {
+                "id": "tomaxbren",
+                "points": 46,
+                "ship": "tiesabomber",
+                "upgrades": {
+                    "device": [
+                        "protonbombs"
+                    ],
+                    "torpedo": [
+                        "iontorpedoes"
+                    ]
+                }
+            }
+        ],
+        "points": 197,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Option2": {
+        "faction": "scumandvillainy",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "captainjostero",
+                "points": 51,
+                "ship": "kihraxzfighter",
+                "upgrades": {
+                    "modification": [
+                        "stealthdevice",
+                        "angleddeflectors"
+                    ]
+                }
+            },
+            {
+                "id": "jakkugunrunner",
+                "points": 41,
+                "ship": "quadrijettransferspacetug",
+                "upgrades": {
+                    "device": [
+                        "protonbombs"
+                    ],
+                    "illicit": [
+                        "contrabandcybernetics"
+                    ],
+                    "tech": [
+                        "advancedoptics"
+                    ]
+                }
+            },
+            {
+                "id": "binayrepirate",
+                "points": 22,
+                "ship": "z95af4headhunter",
+                "upgrades": {}
+            },
+            {
+                "id": "ahhav",
+                "points": 30,
+                "ship": "modifiedtielnfighter",
+                "upgrades": {}
+            },
+            {
+                "id": "blacksunenforcer",
+                "points": 53,
+                "ship": "starviperclassattackplatform",
+                "upgrades": {
+                    "title": [
+                        "virago"
+                    ]
+                }
+            }
+        ],
+        "points": 197,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "TTT": "Phil Kirby",
+    "VassalForm1": "PhilK",
+    "VassalForm2": "PhilK"
+}

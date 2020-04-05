@@ -1,0 +1,163 @@
+{
+    "Add": "Informant to the Omicron Group Lambda Shuttle",
+    "Discord": "LibsonBaby#3308",
+    "Drop": "Trajectory Simulator from the Delta Squadron Tie Defender",
+    "Final": {
+        "faction": "galacticempire",
+        "name": "Dan Mercer JTO",
+        "pilots": [
+            {
+                "id": "vizier",
+                "points": 67,
+                "ship": "tiereaper",
+                "upgrades": {
+                    "crew": [
+                        "directorkrennic",
+                        "darthvader"
+                    ],
+                    "modification": [
+                        "shieldupgrade"
+                    ]
+                }
+            },
+            {
+                "id": "deltasquadronpilot",
+                "points": 78,
+                "ship": "tieddefender",
+                "upgrades": {
+                    "cannon": [
+                        "heavylasercannon"
+                    ],
+                    "missile": [
+                        "magpulsewarheads"
+                    ]
+                }
+            },
+            {
+                "id": "omicrongrouppilot",
+                "points": 54,
+                "ship": "lambdaclasst4ashuttle",
+                "upgrades": {
+                    "crew": [
+                        "cienaree",
+                        "informant"
+                    ]
+                }
+            }
+        ],
+        "points": 199,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Name": "Dan Mercer",
+    "Option1": {
+        "faction": "rebelalliance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "zeborrelios-tielnfighter",
+                "points": 24,
+                "ship": "tielnfighter",
+                "upgrades": {}
+            },
+            {
+                "id": "alexsandrkallus",
+                "points": 86,
+                "ship": "vcx100lightfreighter",
+                "upgrades": {
+                    "gunner": [
+                        "ezrabridger"
+                    ],
+                    "title": [
+                        "ghost"
+                    ],
+                    "turret": [
+                        "dorsalturret"
+                    ]
+                }
+            },
+            {
+                "id": "fennrau-sheathipedeclassshuttle",
+                "points": 53,
+                "ship": "sheathipedeclassshuttle",
+                "upgrades": {
+                    "astromech": [
+                        "chopper"
+                    ],
+                    "talent": [
+                        "crackshot"
+                    ],
+                    "title": [
+                        "phantom"
+                    ]
+                }
+            },
+            {
+                "id": "lieutenantblount",
+                "points": 34,
+                "ship": "z95af4headhunter",
+                "upgrades": {
+                    "talent": [
+                        "trickshot"
+                    ]
+                }
+            }
+        ],
+        "points": 197,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Option2": {
+        "faction": "galacticrepublic",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "axe",
+                "points": 32,
+                "ship": "v19torrentstarfighter",
+                "upgrades": {}
+            },
+            {
+                "id": "matchstick",
+                "points": 53,
+                "ship": "btlbywing",
+                "upgrades": {
+                    "gunner": [
+                        "clonecommandercody"
+                    ],
+                    "torpedo": [
+                        "iontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "goji",
+                "points": 44,
+                "ship": "btlbywing",
+                "upgrades": {
+                    "device": [
+                        "electroprotonbomb"
+                    ]
+                }
+            },
+            {
+                "id": "saeseetiin",
+                "points": 43,
+                "ship": "delta7aethersprite",
+                "upgrades": {}
+            },
+            {
+                "id": "bluesquadronprotector",
+                "points": 27,
+                "ship": "v19torrentstarfighter",
+                "upgrades": {}
+            }
+        ],
+        "points": 199,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "TTT": "Dan Mercer",
+    "VassalForm1": "Dan",
+    "VassalForm2": "Dan"
+}

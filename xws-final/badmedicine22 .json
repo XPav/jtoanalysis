@@ -1,0 +1,206 @@
+{
+    "Add": "Lone Wolf - Moralo Eval",
+    "Discord": "badmedicine22 #6966",
+    "Drop": "Trick Shot - Moralo Eval",
+    "Final": {
+        "faction": "scumandvillainy",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "moraloeval",
+                "points": 94,
+                "ship": "yv666lightfreighter",
+                "upgrades": {
+                    "crew": [
+                        "zuckuss",
+                        "novicetechnician"
+                    ],
+                    "gunner": [
+                        "dengar"
+                    ],
+                    "illicit": [
+                        "contrabandcybernetics"
+                    ],
+                    "missile": [
+                        "concussionmissiles"
+                    ],
+                    "modification": [
+                        "electronicbaffle"
+                    ],
+                    "talent": [
+                        "lonewolf"
+                    ],
+                    "title": [
+                        "houndstooth"
+                    ]
+                }
+            },
+            {
+                "id": "drearenthal",
+                "points": 63,
+                "ship": "btla4ywing",
+                "upgrades": {
+                    "device": [
+                        "ionbombs"
+                    ],
+                    "gunner": [
+                        "bt1"
+                    ],
+                    "talent": [
+                        "intimidation"
+                    ],
+                    "turret": [
+                        "dorsalturret"
+                    ]
+                }
+            },
+            {
+                "id": "bossk-z95af4headhunter",
+                "points": 35,
+                "ship": "z95af4headhunter",
+                "upgrades": {
+                    "talent": [
+                        "outmaneuver"
+                    ]
+                }
+            },
+            {
+                "id": "nashtahpup",
+                "points": 6,
+                "ship": "z95af4headhunter",
+                "upgrades": {}
+            }
+        ],
+        "points": 198,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Name": "Patrick Huffman",
+    "Option1": {
+        "faction": "scumandvillainy",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "moraloeval",
+                "points": 93,
+                "ship": "yv666lightfreighter",
+                "upgrades": {
+                    "crew": [
+                        "zuckuss",
+                        "novicetechnician"
+                    ],
+                    "gunner": [
+                        "dengar"
+                    ],
+                    "illicit": [
+                        "contrabandcybernetics"
+                    ],
+                    "missile": [
+                        "concussionmissiles"
+                    ],
+                    "modification": [
+                        "electronicbaffle"
+                    ],
+                    "talent": [
+                        "trickshot"
+                    ],
+                    "title": [
+                        "houndstooth"
+                    ]
+                }
+            },
+            {
+                "id": "drearenthal",
+                "points": 63,
+                "ship": "btla4ywing",
+                "upgrades": {
+                    "device": [
+                        "ionbombs"
+                    ],
+                    "gunner": [
+                        "bt1"
+                    ],
+                    "talent": [
+                        "intimidation"
+                    ],
+                    "turret": [
+                        "dorsalturret"
+                    ]
+                }
+            },
+            {
+                "id": "bossk-z95af4headhunter",
+                "points": 35,
+                "ship": "z95af4headhunter",
+                "upgrades": {
+                    "talent": [
+                        "outmaneuver"
+                    ]
+                }
+            },
+            {
+                "id": "nashtahpup",
+                "points": 6,
+                "ship": "z95af4headhunter",
+                "upgrades": {}
+            }
+        ],
+        "points": 197,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Option2": {
+        "faction": "separatistalliance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "chertek",
+                "points": 39,
+                "ship": "nantexclassstarfighter",
+                "upgrades": {}
+            },
+            {
+                "id": "generalgrievous",
+                "points": 53,
+                "ship": "belbullab22starfighter",
+                "upgrades": {
+                    "tacticalrelay": [
+                        "ta175"
+                    ]
+                }
+            },
+            {
+                "id": "066",
+                "points": 71,
+                "ship": "sithinfiltrator",
+                "upgrades": {
+                    "crew": [
+                        "chancellorpalpatine"
+                    ],
+                    "torpedo": [
+                        "advprotontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "dfs311",
+                "points": 34,
+                "ship": "vultureclassdroidfighter",
+                "upgrades": {
+                    "missile": [
+                        "energyshellcharges"
+                    ],
+                    "modification": [
+                        "stealthdevice"
+                    ]
+                }
+            }
+        ],
+        "points": 197,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "TTT": "Patrick Huffman",
+    "VassalForm1": "badmedicine22 ",
+    "VassalForm2": "badmedicine22"
+}

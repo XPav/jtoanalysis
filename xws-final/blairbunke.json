@@ -1,0 +1,155 @@
+{
+    "Add": "phasma on tavson",
+    "Discord": "blair#9396",
+    "Drop": "optics from Rivas",
+    "Final": {
+        "faction": "firstorder",
+        "name": "Blair JTO",
+        "pilots": [
+            {
+                "id": "longshot",
+                "points": 32,
+                "ship": "tiefofighter",
+                "upgrades": {
+                    "talent": [
+                        "composure"
+                    ]
+                }
+            },
+            {
+                "id": "lieutenantrivas",
+                "points": 27,
+                "ship": "tiefofighter",
+                "upgrades": {}
+            },
+            {
+                "id": "static",
+                "points": 33,
+                "ship": "tiefofighter",
+                "upgrades": {}
+            },
+            {
+                "id": "lieutenanttavson",
+                "points": 75,
+                "ship": "upsilonclasscommandshuttle",
+                "upgrades": {
+                    "cannon": [
+                        "ioncannon"
+                    ],
+                    "crew": [
+                        "captainphasma"
+                    ]
+                }
+            },
+            {
+                "id": "scorch",
+                "points": 33,
+                "ship": "tiefofighter",
+                "upgrades": {}
+            }
+        ],
+        "points": 200,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Name": "Blair Bunke",
+    "Option1": {
+        "faction": "rebelalliance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "wullffwarro",
+                "points": 63,
+                "ship": "auzituckgunship",
+                "upgrades": {
+                    "talent": [
+                        "juke"
+                    ]
+                }
+            },
+            {
+                "id": "ezrabridger",
+                "points": 43,
+                "ship": "attackshuttle",
+                "upgrades": {
+                    "turret": [
+                        "dorsalturret"
+                    ]
+                }
+            },
+            {
+                "id": "lieutenantblount",
+                "points": 30,
+                "ship": "z95af4headhunter",
+                "upgrades": {}
+            },
+            {
+                "id": "lukeskywalker",
+                "points": 62,
+                "ship": "t65xwing",
+                "upgrades": {
+                    "configuration": [
+                        "servomotorsfoils"
+                    ]
+                }
+            }
+        ],
+        "points": 198,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Option2": {
+        "faction": "firstorder",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "longshot",
+                "points": 32,
+                "ship": "tiefofighter",
+                "upgrades": {
+                    "talent": [
+                        "composure"
+                    ]
+                }
+            },
+            {
+                "id": "lieutenantrivas",
+                "points": 27,
+                "ship": "tiefofighter",
+                "upgrades": {}
+            },
+            {
+                "id": "static",
+                "points": 37,
+                "ship": "tiefofighter",
+                "upgrades": {
+                    "tech": [
+                        "advancedoptics"
+                    ]
+                }
+            },
+            {
+                "id": "lieutenanttavson",
+                "points": 70,
+                "ship": "upsilonclasscommandshuttle",
+                "upgrades": {
+                    "cannon": [
+                        "ioncannon"
+                    ]
+                }
+            },
+            {
+                "id": "scorch",
+                "points": 33,
+                "ship": "tiefofighter",
+                "upgrades": {}
+            }
+        ],
+        "points": 199,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "TTT": "Blair Bunke",
+    "VassalForm1": "blairbunke",
+    "VassalForm2": "blairbunke"
+}

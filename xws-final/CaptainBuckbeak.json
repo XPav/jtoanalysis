@@ -1,0 +1,166 @@
+{
+    "Add": "Adv. proton torpedoes to T-70 X-Wing",
+    "Discord": "Captain Buckbeak#6724",
+    "Drop": "Ferrosphere paint from RZ-2 A-Wing",
+    "Final": {
+        "faction": "resistance",
+        "name": "Captain Buckbeak JTO",
+        "pilots": [
+            {
+                "id": "hansolo-scavengedyt1300",
+                "points": 93,
+                "ship": "scavengedyt1300",
+                "upgrades": {
+                    "crew": [
+                        "chewbacca-crew-swz19"
+                    ],
+                    "gunner": [
+                        "rey-gunner"
+                    ],
+                    "missile": [
+                        "protonrockets"
+                    ],
+                    "modification": [
+                        "tacticalscrambler"
+                    ]
+                }
+            },
+            {
+                "id": "niennunb",
+                "points": 74,
+                "ship": "t70xwing",
+                "upgrades": {
+                    "astromech": [
+                        "r4astromech"
+                    ],
+                    "configuration": [
+                        "integratedsfoils"
+                    ],
+                    "modification": [
+                        "stealthdevice"
+                    ],
+                    "tech": [
+                        "patternanalyzer"
+                    ],
+                    "torpedo": [
+                        "advprotontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "bluesquadronrecruit",
+                "points": 32,
+                "ship": "rz2awing",
+                "upgrades": {}
+            }
+        ],
+        "points": 199,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Name": "Jeremy Buck",
+    "Option1": {
+        "faction": "resistance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "hansolo-scavengedyt1300",
+                "points": 93,
+                "ship": "scavengedyt1300",
+                "upgrades": {
+                    "crew": [
+                        "chewbacca-crew-swz19"
+                    ],
+                    "gunner": [
+                        "rey-gunner"
+                    ],
+                    "missile": [
+                        "protonrockets"
+                    ],
+                    "modification": [
+                        "tacticalscrambler"
+                    ]
+                }
+            },
+            {
+                "id": "niennunb",
+                "points": 68,
+                "ship": "t70xwing",
+                "upgrades": {
+                    "astromech": [
+                        "r4astromech"
+                    ],
+                    "configuration": [
+                        "integratedsfoils"
+                    ],
+                    "modification": [
+                        "stealthdevice"
+                    ],
+                    "tech": [
+                        "patternanalyzer"
+                    ]
+                }
+            },
+            {
+                "id": "bluesquadronrecruit",
+                "points": 38,
+                "ship": "rz2awing",
+                "upgrades": {
+                    "tech": [
+                        "ferrospherepaint"
+                    ]
+                }
+            }
+        ],
+        "points": 199,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Option2": {
+        "faction": "galacticempire",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "rearadmiralchiraneau",
+                "points": 86,
+                "ship": "vt49decimator",
+                "upgrades": {
+                    "crew": [
+                        "directorkrennic"
+                    ],
+                    "device": [
+                        "proximitymines"
+                    ]
+                }
+            },
+            {
+                "id": "captainjonus",
+                "points": 51,
+                "ship": "tiesabomber",
+                "upgrades": {
+                    "device": [
+                        "connernets"
+                    ]
+                }
+            },
+            {
+                "id": "sabersquadronace",
+                "points": 36,
+                "ship": "tieininterceptor",
+                "upgrades": {}
+            },
+            {
+                "id": "scimitarsquadronpilot",
+                "points": 27,
+                "ship": "tiesabomber",
+                "upgrades": {}
+            }
+        ],
+        "points": 200,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "TTT": "Jeremy Buck",
+    "VassalForm1": "CaptainBuckbeak",
+    "VassalForm2": "CaptainBuckbeak"
+}

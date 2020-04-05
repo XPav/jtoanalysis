@@ -1,0 +1,170 @@
+{
+    "Add": "Seismic Charges onto IG-88D",
+    "Discord": "Hobologist#4421",
+    "Drop": "Angled Deflectors off of IG-88D",
+    "Final": {
+        "faction": "scumandvillainy",
+        "name": "Space Rats",
+        "obstacles": [
+            "gascloud1",
+            "gascloud2",
+            "gascloud3"
+        ],
+        "pilots": [
+            {
+                "id": "captainjostero",
+                "points": 49,
+                "ship": "kihraxzfighter",
+                "upgrades": {
+                    "missile": [
+                        "protonrockets"
+                    ]
+                }
+            },
+            {
+                "id": "ig88d",
+                "points": 66,
+                "ship": "aggressorassaultfighter",
+                "upgrades": {
+                    "cannon": [
+                        "jammingbeam"
+                    ],
+                    "device": [
+                        "seismiccharges"
+                    ]
+                }
+            },
+            {
+                "id": "crymorahgoon",
+                "points": 30,
+                "ship": "btla4ywing",
+                "upgrades": {}
+            },
+            {
+                "id": "talonbanecobra",
+                "points": 55,
+                "ship": "kihraxzfighter",
+                "upgrades": {
+                    "missile": [
+                        "clustermissiles"
+                    ]
+                }
+            }
+        ],
+        "points": 200,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Name": "Robby",
+    "Option1": {
+        "faction": "scumandvillainy",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "captainjostero",
+                "points": 49,
+                "ship": "kihraxzfighter",
+                "upgrades": {
+                    "missile": [
+                        "protonrockets"
+                    ]
+                }
+            },
+            {
+                "id": "ig88d",
+                "points": 66,
+                "ship": "aggressorassaultfighter",
+                "upgrades": {
+                    "cannon": [
+                        "jammingbeam"
+                    ],
+                    "modification": [
+                        "angleddeflectors"
+                    ]
+                }
+            },
+            {
+                "id": "crymorahgoon",
+                "points": 30,
+                "ship": "btla4ywing",
+                "upgrades": {}
+            },
+            {
+                "id": "talonbanecobra",
+                "points": 55,
+                "ship": "kihraxzfighter",
+                "upgrades": {
+                    "missile": [
+                        "clustermissiles"
+                    ]
+                }
+            }
+        ],
+        "points": 200,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Option2": {
+        "faction": "rebelalliance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "talasquadronpilot",
+                "points": 31,
+                "ship": "z95af4headhunter",
+                "upgrades": {
+                    "missile": [
+                        "magpulsewarheads"
+                    ],
+                    "talent": [
+                        "composure"
+                    ]
+                }
+            },
+            {
+                "id": "redsquadronveteran",
+                "points": 64,
+                "ship": "t65xwing",
+                "upgrades": {
+                    "astromech": [
+                        "r5d8"
+                    ],
+                    "configuration": [
+                        "servomotorsfoils"
+                    ],
+                    "modification": [
+                        "munitionsfailsafe"
+                    ],
+                    "talent": [
+                        "swarmtactics"
+                    ],
+                    "torpedo": [
+                        "protontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "wullffwarro",
+                "points": 56,
+                "ship": "auzituckgunship",
+                "upgrades": {}
+            },
+            {
+                "id": "norrawexley-btla4ywing",
+                "points": 47,
+                "ship": "btla4ywing",
+                "upgrades": {
+                    "astromech": [
+                        "r2d2"
+                    ]
+                }
+            }
+        ],
+        "points": 198,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "TTT": "Robby Goodhue",
+    "VassalForm1": "Hobologist",
+    "VassalForm2": "Hobologist"
+}

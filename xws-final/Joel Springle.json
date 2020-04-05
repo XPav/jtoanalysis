@@ -1,0 +1,172 @@
+{
+    "Add": "Shield Upgrade to countdown",
+    "Discord": "Joel Springle",
+    "Drop": "Agile gunner from Countdown",
+    "Final": {
+        "faction": "galacticempire",
+        "name": "Joel Springle JTO",
+        "obstacles": [
+            "gascloud1",
+            "gascloud2",
+            "gascloud3"
+        ],
+        "pilots": [
+            {
+                "id": "countdown",
+                "points": 59,
+                "ship": "tieskstriker",
+                "upgrades": {
+                    "device": [
+                        "connernets"
+                    ],
+                    "modification": [
+                        "shieldupgrade"
+                    ],
+                    "talent": [
+                        "swarmtactics"
+                    ]
+                }
+            },
+            {
+                "id": "alphasquadronpilot",
+                "points": 46,
+                "ship": "tieininterceptor",
+                "upgrades": {
+                    "modification": [
+                        "stealthdevice",
+                        "hullupgrade"
+                    ]
+                }
+            },
+            {
+                "id": "scarifbasepilot",
+                "points": 63,
+                "ship": "tiereaper",
+                "upgrades": {
+                    "crew": [
+                        "seventhsister",
+                        "darthvader"
+                    ],
+                    "modification": [
+                        "munitionsfailsafe"
+                    ]
+                }
+            },
+            {
+                "id": "delmeeko",
+                "points": 30,
+                "ship": "tielnfighter",
+                "upgrades": {}
+            }
+        ],
+        "points": 198,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Name": "Joel Springle",
+    "Option1": {
+        "faction": "galacticempire",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "countdown",
+                "points": 61,
+                "ship": "tieskstriker",
+                "upgrades": {
+                    "device": [
+                        "connernets"
+                    ],
+                    "gunner": [
+                        "agilegunner"
+                    ],
+                    "talent": [
+                        "swarmtactics"
+                    ]
+                }
+            },
+            {
+                "id": "alphasquadronpilot",
+                "points": 46,
+                "ship": "tieininterceptor",
+                "upgrades": {
+                    "modification": [
+                        "stealthdevice",
+                        "hullupgrade"
+                    ]
+                }
+            },
+            {
+                "id": "scarifbasepilot",
+                "points": 63,
+                "ship": "tiereaper",
+                "upgrades": {
+                    "crew": [
+                        "seventhsister",
+                        "darthvader"
+                    ],
+                    "modification": [
+                        "munitionsfailsafe"
+                    ]
+                }
+            },
+            {
+                "id": "delmeeko",
+                "points": 30,
+                "ship": "tielnfighter",
+                "upgrades": {}
+            }
+        ],
+        "points": 200,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Option2": {
+        "faction": "rebelalliance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "alexsandrkallus",
+                "points": 92,
+                "ship": "vcx100lightfreighter",
+                "upgrades": {
+                    "sensor": [
+                        "advancedsensors"
+                    ],
+                    "title": [
+                        "ghost"
+                    ],
+                    "torpedo": [
+                        "protontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "knavesquadronescort",
+                "points": 56,
+                "ship": "ewing",
+                "upgrades": {
+                    "sensor": [
+                        "trajectorysimulator"
+                    ]
+                }
+            },
+            {
+                "id": "kashyyykdefender",
+                "points": 50,
+                "ship": "auzituckgunship",
+                "upgrades": {
+                    "crew": [
+                        "novicetechnician",
+                        "landocalrissian"
+                    ]
+                }
+            }
+        ],
+        "points": 198,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "TTT": "Joel Springle",
+    "VassalForm1": "Joel Springle",
+    "VassalForm2": "Joel Springle"
+}

@@ -1,0 +1,194 @@
+{
+    "Add": "Admiral Sloane to Sai",
+    "Discord": "roshow#7011",
+    "Drop": "Hotshot Gunner from Deathrain",
+    "Final": {
+        "faction": "galacticempire",
+        "name": "Rolando Garcia JTO",
+        "pilots": [
+            {
+                "id": "alphasquadronpilot",
+                "points": 31,
+                "ship": "tieininterceptor",
+                "upgrades": {}
+            },
+            {
+                "id": "vagabond",
+                "points": 39,
+                "ship": "tieskstriker",
+                "upgrades": {
+                    "device": [
+                        "seismiccharges"
+                    ],
+                    "talent": [
+                        "crackshot"
+                    ]
+                }
+            },
+            {
+                "id": "deathrain",
+                "points": 74,
+                "ship": "tiecapunisher",
+                "upgrades": {
+                    "device": [
+                        "ionbombs"
+                    ],
+                    "missile": [
+                        "clustermissiles",
+                        "protonrockets"
+                    ],
+                    "sensor": [
+                        "trajectorysimulator"
+                    ],
+                    "torpedo": [
+                        "iontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "lieutenantsai",
+                "points": 56,
+                "ship": "lambdaclasst4ashuttle",
+                "upgrades": {
+                    "crew": [
+                        "admiralsloane"
+                    ]
+                }
+            }
+        ],
+        "points": 200,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Name": "Rolando Garcia",
+    "Option1": {
+        "faction": "galacticempire",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "alphasquadronpilot",
+                "points": 31,
+                "ship": "tieininterceptor",
+                "upgrades": {}
+            },
+            {
+                "id": "vagabond",
+                "points": 39,
+                "ship": "tieskstriker",
+                "upgrades": {
+                    "device": [
+                        "seismiccharges"
+                    ],
+                    "talent": [
+                        "crackshot"
+                    ]
+                }
+            },
+            {
+                "id": "deathrain",
+                "points": 81,
+                "ship": "tiecapunisher",
+                "upgrades": {
+                    "device": [
+                        "ionbombs"
+                    ],
+                    "gunner": [
+                        "hotshotgunner"
+                    ],
+                    "missile": [
+                        "clustermissiles",
+                        "protonrockets"
+                    ],
+                    "sensor": [
+                        "trajectorysimulator"
+                    ],
+                    "torpedo": [
+                        "iontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "lieutenantsai",
+                "points": 47,
+                "ship": "lambdaclasst4ashuttle",
+                "upgrades": {}
+            }
+        ],
+        "points": 198,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Option2": {
+        "faction": "galacticrepublic",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "r2d2",
+                "points": 65,
+                "ship": "btlbywing",
+                "upgrades": {
+                    "crew": [
+                        "informant"
+                    ],
+                    "device": [
+                        "proximitymines"
+                    ],
+                    "gunner": [
+                        "hotshotgunner"
+                    ],
+                    "modification": [
+                        "electronicbaffle"
+                    ],
+                    "talent": [
+                        "snapshot"
+                    ],
+                    "turret": [
+                        "dorsalturret"
+                    ]
+                }
+            },
+            {
+                "id": "swoop",
+                "points": 37,
+                "ship": "v19torrentstarfighter",
+                "upgrades": {
+                    "missile": [
+                        "concussionmissiles"
+                    ]
+                }
+            },
+            {
+                "id": "wolffe",
+                "points": 58,
+                "ship": "arc170starfighter",
+                "upgrades": {
+                    "astromech": [
+                        "r5astromech"
+                    ],
+                    "modification": [
+                        "delayedfuses"
+                    ],
+                    "talent": [
+                        "elusive"
+                    ]
+                }
+            },
+            {
+                "id": "bravoflightofficer",
+                "points": 39,
+                "ship": "nabooroyaln1starfighter",
+                "upgrades": {
+                    "torpedo": [
+                        "iontorpedoes"
+                    ]
+                }
+            }
+        ],
+        "points": 199,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "TTT": "Rolando \"roshow\" Garcia",
+    "VassalForm1": "roshow",
+    "VassalForm2": "roshow"
+}

@@ -1,0 +1,179 @@
+{
+    "Add": "Special forces gunner to Backdraft",
+    "Discord": "Nic Firecast#5648",
+    "Drop": "primed thrusters from first order porvocateur",
+    "Final": {
+        "faction": "firstorder",
+        "name": "Nic Harris JTO",
+        "obstacles": [
+            "gascloud1",
+            "gascloud2",
+            "gascloud3"
+        ],
+        "pilots": [
+            {
+                "id": "firstorderprovocateur",
+                "points": 52,
+                "ship": "tiebainterceptor",
+                "upgrades": {
+                    "talent": [
+                        "snapshot"
+                    ]
+                }
+            },
+            {
+                "id": "captainphasma",
+                "points": 48,
+                "ship": "tiesffighter",
+                "upgrades": {
+                    "missile": [
+                        "concussionmissiles"
+                    ],
+                    "sensor": [
+                        "firecontrolsystem"
+                    ],
+                    "tech": [
+                        "biohexacryptcodes"
+                    ]
+                }
+            },
+            {
+                "id": "sienarjaemusengineer",
+                "points": 51,
+                "ship": "tievnsilencer",
+                "upgrades": {}
+            },
+            {
+                "id": "backdraft",
+                "points": 49,
+                "ship": "tiesffighter",
+                "upgrades": {
+                    "gunner": [
+                        "specialforcesgunner"
+                    ]
+                }
+            }
+        ],
+        "points": 200,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Name": "Nic Harris",
+    "Option1": {
+        "faction": "resistance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "chewbacca-scavengedyt1300",
+                "points": 92,
+                "ship": "scavengedyt1300",
+                "upgrades": {
+                    "crew": [
+                        "gnkgonkdroid",
+                        "novicetechnician"
+                    ],
+                    "illicit": [
+                        "feedbackarray"
+                    ],
+                    "missile": [
+                        "concussionmissiles"
+                    ],
+                    "modification": [
+                        "delayedfuses"
+                    ],
+                    "talent": [
+                        "lonewolf"
+                    ]
+                }
+            },
+            {
+                "id": "colossusstationmechanic",
+                "points": 30,
+                "ship": "fireball",
+                "upgrades": {
+                    "illicit": [
+                        "inertialdampeners"
+                    ],
+                    "title": [
+                        "kazsfireball"
+                    ]
+                }
+            },
+            {
+                "id": "vimoradi",
+                "points": 38,
+                "ship": "resistancetransportpod",
+                "upgrades": {
+                    "crew": [
+                        "c3po-crew"
+                    ],
+                    "tech": [
+                        "primedthrusters"
+                    ]
+                }
+            },
+            {
+                "id": "nodinchavdri",
+                "points": 36,
+                "ship": "resistancetransport",
+                "upgrades": {}
+            }
+        ],
+        "points": 196,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Option2": {
+        "faction": "firstorder",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "firstorderprovocateur",
+                "points": 59,
+                "ship": "tiebainterceptor",
+                "upgrades": {
+                    "talent": [
+                        "snapshot"
+                    ],
+                    "tech": [
+                        "primedthrusters"
+                    ]
+                }
+            },
+            {
+                "id": "captainphasma",
+                "points": 48,
+                "ship": "tiesffighter",
+                "upgrades": {
+                    "missile": [
+                        "concussionmissiles"
+                    ],
+                    "sensor": [
+                        "firecontrolsystem"
+                    ],
+                    "tech": [
+                        "biohexacryptcodes"
+                    ]
+                }
+            },
+            {
+                "id": "sienarjaemusengineer",
+                "points": 51,
+                "ship": "tievnsilencer",
+                "upgrades": {}
+            },
+            {
+                "id": "backdraft",
+                "points": 39,
+                "ship": "tiesffighter",
+                "upgrades": {}
+            }
+        ],
+        "points": 197,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "TTT": "Nic Harris",
+    "VassalForm1": "Nic Harris",
+    "VassalForm2": "Nic Harris"
+}

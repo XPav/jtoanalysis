@@ -1,0 +1,163 @@
+{
+    "Add": "Leia Organa to Outer Rim Smuggler",
+    "Discord": "Zyk#5548",
+    "Drop": "Static Discharge Vanes from Heff Tober",
+    "Final": {
+        "faction": "rebelalliance",
+        "name": "Michael Frochaux JTO",
+        "pilots": [
+            {
+                "id": "hefftobber",
+                "points": 50,
+                "ship": "ut60duwing",
+                "upgrades": {
+                    "configuration": [
+                        "pivotwing"
+                    ],
+                    "crew": [
+                        "tacticalofficer"
+                    ]
+                }
+            },
+            {
+                "id": "captainrex",
+                "points": 31,
+                "ship": "tielnfighter",
+                "upgrades": {
+                    "modification": [
+                        "delayedfuses"
+                    ]
+                }
+            },
+            {
+                "id": "outerrimsmuggler",
+                "points": 74,
+                "ship": "modifiedyt1300lightfreighter",
+                "upgrades": {
+                    "crew": [
+                        "leiaorgana"
+                    ]
+                }
+            },
+            {
+                "id": "arvelcrynyd",
+                "points": 41,
+                "ship": "rz1awing",
+                "upgrades": {
+                    "missile": [
+                        "protonrockets"
+                    ]
+                }
+            }
+        ],
+        "points": 196,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Name": "Michael Frochaux",
+    "Option1": {
+        "faction": "firstorder",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "pettyofficerthanisson",
+                "points": 91,
+                "ship": "upsilonclasscommandshuttle",
+                "upgrades": {
+                    "crew": [
+                        "captainphasma",
+                        "kyloren",
+                        "seasonednavigator"
+                    ],
+                    "modification": [
+                        "electronicbaffle"
+                    ],
+                    "sensor": [
+                        "collisiondetector"
+                    ],
+                    "tech": [
+                        "advancedoptics",
+                        "biohexacryptcodes"
+                    ]
+                }
+            },
+            {
+                "id": "firstorderprovocateur",
+                "points": 47,
+                "ship": "tiebainterceptor",
+                "upgrades": {
+                    "talent": [
+                        "fanatical"
+                    ]
+                }
+            },
+            {
+                "id": "holo",
+                "points": 59,
+                "ship": "tiebainterceptor",
+                "upgrades": {
+                    "missile": [
+                        "homingmissiles"
+                    ]
+                }
+            }
+        ],
+        "points": 197,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Option2": {
+        "faction": "rebelalliance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "hefftobber",
+                "points": 56,
+                "ship": "ut60duwing",
+                "upgrades": {
+                    "configuration": [
+                        "pivotwing"
+                    ],
+                    "crew": [
+                        "tacticalofficer"
+                    ],
+                    "modification": [
+                        "staticdischargevanes"
+                    ]
+                }
+            },
+            {
+                "id": "captainrex",
+                "points": 31,
+                "ship": "tielnfighter",
+                "upgrades": {
+                    "modification": [
+                        "delayedfuses"
+                    ]
+                }
+            },
+            {
+                "id": "outerrimsmuggler",
+                "points": 67,
+                "ship": "modifiedyt1300lightfreighter",
+                "upgrades": {}
+            },
+            {
+                "id": "arvelcrynyd",
+                "points": 41,
+                "ship": "rz1awing",
+                "upgrades": {
+                    "missile": [
+                        "protonrockets"
+                    ]
+                }
+            }
+        ],
+        "points": 195,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "TTT": "Michael Frochaux",
+    "VassalForm1": "Zyk",
+    "VassalForm2": "Zyk"
+}

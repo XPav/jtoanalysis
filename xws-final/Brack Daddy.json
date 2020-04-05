@@ -1,0 +1,177 @@
+{
+    "Add": "Stealth Device placed on Sigma Squadron Ace",
+    "Discord": "Brack Daddy#3493",
+    "Drop": "Hotshot Gunner removed from Redline",
+    "Final": {
+        "faction": "galacticempire",
+        "name": "Brack Lee JTO",
+        "pilots": [
+            {
+                "id": "countdown",
+                "points": 53,
+                "ship": "tieskstriker",
+                "upgrades": {
+                    "device": [
+                        "proximitymines"
+                    ],
+                    "talent": [
+                        "swarmtactics"
+                    ]
+                }
+            },
+            {
+                "id": "redline",
+                "points": 70,
+                "ship": "tiecapunisher",
+                "upgrades": {
+                    "device": [
+                        "connernets"
+                    ],
+                    "missile": [
+                        "ionmissiles"
+                    ],
+                    "modification": [
+                        "tacticalscrambler"
+                    ],
+                    "torpedo": [
+                        "advprotontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "sigmasquadronace",
+                "points": 72,
+                "ship": "tiephphantom",
+                "upgrades": {
+                    "gunner": [
+                        "fifthbrother"
+                    ],
+                    "modification": [
+                        "stealthdevice"
+                    ],
+                    "sensor": [
+                        "firecontrolsystem"
+                    ],
+                    "talent": [
+                        "lonewolf"
+                    ]
+                }
+            }
+        ],
+        "points": 195,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Name": "Brack Lee",
+    "Option1": {
+        "faction": "firstorder",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "recoil",
+                "points": 69,
+                "ship": "tievnsilencer",
+                "upgrades": {
+                    "missile": [
+                        "magpulsewarheads"
+                    ],
+                    "tech": [
+                        "targetingsynchronizer"
+                    ]
+                }
+            },
+            {
+                "id": "avenger",
+                "points": 60,
+                "ship": "tievnsilencer",
+                "upgrades": {
+                    "missile": [
+                        "ionmissiles"
+                    ]
+                }
+            },
+            {
+                "id": "lieutenantlehuse",
+                "points": 41,
+                "ship": "tiesffighter",
+                "upgrades": {
+                    "gunner": [
+                        "skilledbombardier"
+                    ]
+                }
+            },
+            {
+                "id": "muse",
+                "points": 30,
+                "ship": "tiefofighter",
+                "upgrades": {}
+            }
+        ],
+        "points": 200,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Option2": {
+        "faction": "galacticempire",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "countdown",
+                "points": 53,
+                "ship": "tieskstriker",
+                "upgrades": {
+                    "device": [
+                        "proximitymines"
+                    ],
+                    "talent": [
+                        "swarmtactics"
+                    ]
+                }
+            },
+            {
+                "id": "redline",
+                "points": 77,
+                "ship": "tiecapunisher",
+                "upgrades": {
+                    "device": [
+                        "connernets"
+                    ],
+                    "gunner": [
+                        "hotshotgunner"
+                    ],
+                    "missile": [
+                        "ionmissiles"
+                    ],
+                    "modification": [
+                        "tacticalscrambler"
+                    ],
+                    "torpedo": [
+                        "advprotontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "sigmasquadronace",
+                "points": 66,
+                "ship": "tiephphantom",
+                "upgrades": {
+                    "gunner": [
+                        "fifthbrother"
+                    ],
+                    "sensor": [
+                        "firecontrolsystem"
+                    ],
+                    "talent": [
+                        "lonewolf"
+                    ]
+                }
+            }
+        ],
+        "points": 196,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "TTT": "Brack Lee",
+    "VassalForm1": "Brack Daddy",
+    "VassalForm2": "Brack Daddy"
+}

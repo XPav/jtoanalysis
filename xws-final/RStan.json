@@ -1,0 +1,161 @@
+{
+    "Add": "Concussion Missiles to Captain Phasma",
+    "Discord": "RStan#1545",
+    "Drop": "Targeting Computer from Captain Phasma",
+    "Final": {
+        "faction": "firstorder",
+        "name": "Ryan Staniszewski JTO",
+        "pilots": [
+            {
+                "id": "captainphasma",
+                "points": 49,
+                "ship": "tiesffighter",
+                "upgrades": {
+                    "missile": [
+                        "concussionmissiles"
+                    ],
+                    "sensor": [
+                        "firecontrolsystem"
+                    ],
+                    "talent": [
+                        "composure"
+                    ],
+                    "tech": [
+                        "biohexacryptcodes"
+                    ]
+                }
+            },
+            {
+                "id": "midnight",
+                "points": 42,
+                "ship": "tiefofighter",
+                "upgrades": {}
+            },
+            {
+                "id": "firstordertestpilot",
+                "points": 56,
+                "ship": "tievnsilencer",
+                "upgrades": {}
+            },
+            {
+                "id": "ember",
+                "points": 52,
+                "ship": "tiebainterceptor",
+                "upgrades": {}
+            }
+        ],
+        "points": 199,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Name": "Ryan Staniszewski",
+    "Option1": {
+        "faction": "firstorder",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "captainphasma",
+                "points": 46,
+                "ship": "tiesffighter",
+                "upgrades": {
+                    "modification": [
+                        "targetingcomputer"
+                    ],
+                    "sensor": [
+                        "firecontrolsystem"
+                    ],
+                    "talent": [
+                        "composure"
+                    ],
+                    "tech": [
+                        "biohexacryptcodes"
+                    ]
+                }
+            },
+            {
+                "id": "midnight",
+                "points": 42,
+                "ship": "tiefofighter",
+                "upgrades": {}
+            },
+            {
+                "id": "firstordertestpilot",
+                "points": 56,
+                "ship": "tievnsilencer",
+                "upgrades": {}
+            },
+            {
+                "id": "ember",
+                "points": 52,
+                "ship": "tiebainterceptor",
+                "upgrades": {}
+            }
+        ],
+        "points": 196,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Option2": {
+        "faction": "galacticrepublic",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "ricolie",
+                "points": 52,
+                "ship": "nabooroyaln1starfighter",
+                "upgrades": {
+                    "astromech": [
+                        "r4pastromech"
+                    ],
+                    "torpedo": [
+                        "iontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "oddball-arc170starfighter",
+                "points": 78,
+                "ship": "arc170starfighter",
+                "upgrades": {
+                    "astromech": [
+                        "c110p"
+                    ],
+                    "crew": [
+                        "gnkgonkdroid"
+                    ],
+                    "gunner": [
+                        "clonecommandercody"
+                    ],
+                    "modification": [
+                        "ablativeplating"
+                    ]
+                }
+            },
+            {
+                "id": "jediknight",
+                "points": 70,
+                "ship": "delta7aethersprite",
+                "upgrades": {
+                    "astromech": [
+                        "r2astromech"
+                    ],
+                    "configuration": [
+                        "delta7b"
+                    ],
+                    "force-power": [
+                        "battlemeditation"
+                    ],
+                    "modification": [
+                        "delayedfuses"
+                    ]
+                }
+            }
+        ],
+        "points": 200,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "TTT": "Ryan Staniszewski",
+    "VassalForm1": "RStan",
+    "VassalForm2": "RStan"
+}

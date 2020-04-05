@@ -1,0 +1,170 @@
+{
+    "Add": "Ion Cannon Turret to Kestal",
+    "Discord": "Marhand#0708",
+    "Drop": "SDV from Deathfire",
+    "Final": {
+        "faction": "galacticempire",
+        "name": "Brent Grelle JTO",
+        "pilots": [
+            {
+                "id": "deathfire",
+                "points": 43,
+                "ship": "tiesabomber",
+                "upgrades": {
+                    "gunner": [
+                        "fifthbrother"
+                    ]
+                }
+            },
+            {
+                "id": "rearadmiralchiraneau",
+                "points": 87,
+                "ship": "vt49decimator",
+                "upgrades": {
+                    "crew": [
+                        "freelanceslicer"
+                    ],
+                    "device": [
+                        "clustermines"
+                    ]
+                }
+            },
+            {
+                "id": "seynmarana",
+                "points": 30,
+                "ship": "tielnfighter",
+                "upgrades": {}
+            },
+            {
+                "id": "lieutenantkestal",
+                "points": 36,
+                "ship": "tieagaggressor",
+                "upgrades": {
+                    "turret": [
+                        "ioncannonturret"
+                    ]
+                }
+            }
+        ],
+        "points": 196,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Name": "Brent Grelle",
+    "Option1": {
+        "faction": "resistance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "kazudaxiono",
+                "points": 52,
+                "ship": "fireball",
+                "upgrades": {
+                    "illicit": [
+                        "cloakingdevice"
+                    ],
+                    "missile": [
+                        "concussionmissiles"
+                    ],
+                    "title": [
+                        "kazsfireball"
+                    ]
+                }
+            },
+            {
+                "id": "bb8",
+                "points": 42,
+                "ship": "resistancetransportpod",
+                "upgrades": {
+                    "crew": [
+                        "gnkgonkdroid"
+                    ],
+                    "talent": [
+                        "crackshot"
+                    ],
+                    "tech": [
+                        "patternanalyzer"
+                    ]
+                }
+            },
+            {
+                "id": "covanell",
+                "points": 50,
+                "ship": "resistancetransport",
+                "upgrades": {
+                    "crew": [
+                        "korrsella"
+                    ],
+                    "tech": [
+                        "targetingsynchronizer"
+                    ]
+                }
+            },
+            {
+                "id": "vimoradi",
+                "points": 27,
+                "ship": "resistancetransportpod",
+                "upgrades": {}
+            },
+            {
+                "id": "r1j5",
+                "points": 29,
+                "ship": "fireball",
+                "upgrades": {}
+            }
+        ],
+        "points": 200,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Option2": {
+        "faction": "galacticempire",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "deathfire",
+                "points": 49,
+                "ship": "tiesabomber",
+                "upgrades": {
+                    "gunner": [
+                        "fifthbrother"
+                    ],
+                    "modification": [
+                        "staticdischargevanes"
+                    ]
+                }
+            },
+            {
+                "id": "rearadmiralchiraneau",
+                "points": 87,
+                "ship": "vt49decimator",
+                "upgrades": {
+                    "crew": [
+                        "freelanceslicer"
+                    ],
+                    "device": [
+                        "clustermines"
+                    ]
+                }
+            },
+            {
+                "id": "seynmarana",
+                "points": 30,
+                "ship": "tielnfighter",
+                "upgrades": {}
+            },
+            {
+                "id": "lieutenantkestal",
+                "points": 31,
+                "ship": "tieagaggressor",
+                "upgrades": {}
+            }
+        ],
+        "points": 197,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "TTT": "Brent T Grelle",
+    "VassalForm1": "Brent G",
+    "VassalForm2": "Brent G"
+}

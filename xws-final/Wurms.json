@@ -1,0 +1,167 @@
+{
+    "Add": "Concussion Missiles on Lehuse",
+    "Discord": "Wurms",
+    "Drop": "Juke from Scorch",
+    "Final": {
+        "faction": "firstorder",
+        "name": "Patrick Hanson JTO",
+        "pilots": [
+            {
+                "id": "scorch",
+                "points": 33,
+                "ship": "tiefofighter",
+                "upgrades": {}
+            },
+            {
+                "id": "midnight",
+                "points": 42,
+                "ship": "tiefofighter",
+                "upgrades": {}
+            },
+            {
+                "id": "firstorderprovocateur",
+                "points": 45,
+                "ship": "tiebainterceptor",
+                "upgrades": {}
+            },
+            {
+                "id": "tn3465",
+                "points": 34,
+                "ship": "tiefofighter",
+                "upgrades": {
+                    "tech": [
+                        "targetingsynchronizer"
+                    ]
+                }
+            },
+            {
+                "id": "lieutenantlehuse",
+                "points": 45,
+                "ship": "tiesffighter",
+                "upgrades": {
+                    "missile": [
+                        "concussionmissiles"
+                    ]
+                }
+            }
+        ],
+        "points": 199,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Name": "Patrick Hanson",
+    "Option1": {
+        "faction": "firstorder",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "scorch",
+                "points": 40,
+                "ship": "tiefofighter",
+                "upgrades": {
+                    "talent": [
+                        "juke"
+                    ]
+                }
+            },
+            {
+                "id": "midnight",
+                "points": 42,
+                "ship": "tiefofighter",
+                "upgrades": {}
+            },
+            {
+                "id": "firstorderprovocateur",
+                "points": 45,
+                "ship": "tiebainterceptor",
+                "upgrades": {}
+            },
+            {
+                "id": "tn3465",
+                "points": 34,
+                "ship": "tiefofighter",
+                "upgrades": {
+                    "tech": [
+                        "targetingsynchronizer"
+                    ]
+                }
+            },
+            {
+                "id": "lieutenantlehuse",
+                "points": 39,
+                "ship": "tiesffighter",
+                "upgrades": {}
+            }
+        ],
+        "points": 200,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Option2": {
+        "faction": "galacticrepublic",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "axe",
+                "points": 38,
+                "ship": "v19torrentstarfighter",
+                "upgrades": {
+                    "missile": [
+                        "homingmissiles"
+                    ],
+                    "modification": [
+                        "munitionsfailsafe"
+                    ]
+                }
+            },
+            {
+                "id": "naboohandmaiden",
+                "points": 68,
+                "ship": "nabooroyaln1starfighter",
+                "upgrades": {
+                    "astromech": [
+                        "c110p"
+                    ],
+                    "sensor": [
+                        "trajectorysimulator"
+                    ],
+                    "torpedo": [
+                        "protontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "bluesquadronprotector",
+                "points": 39,
+                "ship": "v19torrentstarfighter",
+                "upgrades": {
+                    "missile": [
+                        "concussionmissiles"
+                    ],
+                    "modification": [
+                        "staticdischargevanes"
+                    ]
+                }
+            },
+            {
+                "id": "bravoflightofficer",
+                "points": 52,
+                "ship": "nabooroyaln1starfighter",
+                "upgrades": {
+                    "sensor": [
+                        "trajectorysimulator"
+                    ],
+                    "torpedo": [
+                        "protontorpedoes"
+                    ]
+                }
+            }
+        ],
+        "points": 197,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "TTT": "Patrick Hanson",
+    "VassalForm1": "Wurms",
+    "VassalForm2": "Wurms"
+}

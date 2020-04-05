@@ -1,0 +1,188 @@
+{
+    "Add": "Plasma torpedoes on Anakin",
+    "Discord": "Nelly#5010",
+    "Drop": "Seventh fleet gunner from Sinker",
+    "Final": {
+        "faction": "galacticrepublic",
+        "name": "David Chabot JTO",
+        "pilots": [
+            {
+                "id": "anakinskywalker-nabooroyaln1starfighter",
+                "points": 58,
+                "ship": "nabooroyaln1starfighter",
+                "upgrades": {
+                    "astromech": [
+                        "r4p44"
+                    ],
+                    "sensor": [
+                        "passivesensors"
+                    ],
+                    "torpedo": [
+                        "plasmatorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "sinker",
+                "points": 59,
+                "ship": "arc170starfighter",
+                "upgrades": {
+                    "crew": [
+                        "informant"
+                    ]
+                }
+            },
+            {
+                "id": "swoop",
+                "points": 36,
+                "ship": "v19torrentstarfighter",
+                "upgrades": {
+                    "modification": [
+                        "targetingcomputer"
+                    ],
+                    "talent": [
+                        "predator"
+                    ]
+                }
+            },
+            {
+                "id": "dineeellberger",
+                "points": 46,
+                "ship": "nabooroyaln1starfighter",
+                "upgrades": {
+                    "astromech": [
+                        "r4p17"
+                    ],
+                    "sensor": [
+                        "passivesensors"
+                    ]
+                }
+            }
+        ],
+        "points": 199,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Name": "David Chabot",
+    "Option1": {
+        "faction": "galacticrepublic",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "anakinskywalker-nabooroyaln1starfighter",
+                "points": 49,
+                "ship": "nabooroyaln1starfighter",
+                "upgrades": {
+                    "astromech": [
+                        "r4p44"
+                    ],
+                    "sensor": [
+                        "passivesensors"
+                    ]
+                }
+            },
+            {
+                "id": "sinker",
+                "points": 68,
+                "ship": "arc170starfighter",
+                "upgrades": {
+                    "crew": [
+                        "informant"
+                    ],
+                    "gunner": [
+                        "seventhfleetgunner"
+                    ]
+                }
+            },
+            {
+                "id": "swoop",
+                "points": 36,
+                "ship": "v19torrentstarfighter",
+                "upgrades": {
+                    "modification": [
+                        "targetingcomputer"
+                    ],
+                    "talent": [
+                        "predator"
+                    ]
+                }
+            },
+            {
+                "id": "dineeellberger",
+                "points": 46,
+                "ship": "nabooroyaln1starfighter",
+                "upgrades": {
+                    "astromech": [
+                        "r4p17"
+                    ],
+                    "sensor": [
+                        "passivesensors"
+                    ]
+                }
+            }
+        ],
+        "points": 199,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Option2": {
+        "faction": "separatistalliance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "dfs311",
+                "points": 33,
+                "ship": "vultureclassdroidfighter",
+                "upgrades": {
+                    "missile": [
+                        "ionmissiles"
+                    ],
+                    "modification": [
+                        "afterburners"
+                    ]
+                }
+            },
+            {
+                "id": "technounionbomber",
+                "points": 31,
+                "ship": "hyenaclassdroidbomber",
+                "upgrades": {
+                    "configuration": [
+                        "landingstruts"
+                    ],
+                    "missile": [
+                        "energyshellcharges"
+                    ]
+                }
+            },
+            {
+                "id": "chertek",
+                "points": 39,
+                "ship": "nantexclassstarfighter",
+                "upgrades": {}
+            },
+            {
+                "id": "dbs404",
+                "points": 43,
+                "ship": "hyenaclassdroidbomber",
+                "upgrades": {
+                    "torpedo": [
+                        "protontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "sunfac",
+                "points": 54,
+                "ship": "nantexclassstarfighter",
+                "upgrades": {}
+            }
+        ],
+        "points": 200,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "TTT": "David Chabot",
+    "VassalForm1": "Reckless",
+    "VassalForm2": "Reckless"
+}

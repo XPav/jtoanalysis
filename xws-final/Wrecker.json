@@ -1,0 +1,173 @@
+{
+    "Add": "Minister Tua to Patrol Leader (VT-49)",
+    "Discord": "Wrecker#2531",
+    "Drop": "Hull Upgrade from Obsidian Squadron Pilot (Tie ln)",
+    "Final": {
+        "faction": "galacticempire",
+        "name": "Yan Picard JTO",
+        "pilots": [
+            {
+                "id": "onyxsquadronscout",
+                "points": 43,
+                "ship": "tieagaggressor",
+                "upgrades": {
+                    "missile": [
+                        "concussionmissiles"
+                    ],
+                    "talent": [
+                        "trickshot"
+                    ],
+                    "turret": [
+                        "ioncannonturret"
+                    ]
+                }
+            },
+            {
+                "id": "imdaartestpilot",
+                "points": 46,
+                "ship": "tiephphantom",
+                "upgrades": {
+                    "modification": [
+                        "targetingcomputer"
+                    ]
+                }
+            },
+            {
+                "id": "obsidiansquadronpilot",
+                "points": 23,
+                "ship": "tielnfighter",
+                "upgrades": {}
+            },
+            {
+                "id": "patrolleader",
+                "points": 88,
+                "ship": "vt49decimator",
+                "upgrades": {
+                    "crew": [
+                        "darthvader",
+                        "ministertua"
+                    ]
+                }
+            }
+        ],
+        "points": 200,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Name": "Yan Picard",
+    "Option1": {
+        "faction": "galacticempire",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "onyxsquadronscout",
+                "points": 43,
+                "ship": "tieagaggressor",
+                "upgrades": {
+                    "missile": [
+                        "concussionmissiles"
+                    ],
+                    "talent": [
+                        "trickshot"
+                    ],
+                    "turret": [
+                        "ioncannonturret"
+                    ]
+                }
+            },
+            {
+                "id": "imdaartestpilot",
+                "points": 46,
+                "ship": "tiephphantom",
+                "upgrades": {
+                    "modification": [
+                        "targetingcomputer"
+                    ]
+                }
+            },
+            {
+                "id": "obsidiansquadronpilot",
+                "points": 30,
+                "ship": "tielnfighter",
+                "upgrades": {
+                    "modification": [
+                        "hullupgrade"
+                    ]
+                }
+            },
+            {
+                "id": "patrolleader",
+                "points": 81,
+                "ship": "vt49decimator",
+                "upgrades": {
+                    "crew": [
+                        "darthvader"
+                    ]
+                }
+            }
+        ],
+        "points": 200,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Option2": {
+        "faction": "galacticrepublic",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "naboohandmaiden",
+                "points": 59,
+                "ship": "nabooroyaln1starfighter",
+                "upgrades": {
+                    "astromech": [
+                        "r4p17"
+                    ],
+                    "sensor": [
+                        "trajectorysimulator"
+                    ],
+                    "torpedo": [
+                        "advprotontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "macewindu",
+                "points": 51,
+                "ship": "delta7aethersprite",
+                "upgrades": {
+                    "astromech": [
+                        "r3astromech"
+                    ],
+                    "configuration": [
+                        "calibratedlasertargeting"
+                    ]
+                }
+            },
+            {
+                "id": "anakinskywalker-nabooroyaln1starfighter",
+                "points": 51,
+                "ship": "nabooroyaln1starfighter",
+                "upgrades": {
+                    "talent": [
+                        "debrisgambit"
+                    ],
+                    "torpedo": [
+                        "advprotontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "barrissoffee",
+                "points": 38,
+                "ship": "delta7aethersprite",
+                "upgrades": {}
+            }
+        ],
+        "points": 199,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "TTT": "Yan Picard",
+    "VassalForm1": "Wrecker",
+    "VassalForm2": "Wrecker"
+}

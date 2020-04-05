@@ -1,0 +1,168 @@
+{
+    "Add": "Proton Torpedoes to Horton Salm",
+    "Discord": "#8358",
+    "Drop": "Squad Leader from Horton Salm",
+    "Final": {
+        "faction": "rebelalliance",
+        "name": "Ben Worth JTO",
+        "pilots": [
+            {
+                "id": "lieutenantblount",
+                "points": 30,
+                "ship": "z95af4headhunter",
+                "upgrades": {}
+            },
+            {
+                "id": "mirandadoni",
+                "points": 54,
+                "ship": "btls8kwing",
+                "upgrades": {
+                    "device": [
+                        "electroprotonbomb"
+                    ]
+                }
+            },
+            {
+                "id": "hortonsalm",
+                "points": 58,
+                "ship": "btla4ywing",
+                "upgrades": {
+                    "gunner": [
+                        "skilledbombardier"
+                    ],
+                    "modification": [
+                        "afterburners"
+                    ],
+                    "torpedo": [
+                        "protontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "lowhhrick",
+                "points": 58,
+                "ship": "auzituckgunship",
+                "upgrades": {
+                    "crew": [
+                        "cassianandor"
+                    ]
+                }
+            }
+        ],
+        "points": 200,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Name": "Ben Worth",
+    "Option1": {
+        "faction": "galacticempire",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "blacksquadronscout",
+                "points": 43,
+                "ship": "tieskstriker",
+                "upgrades": {
+                    "device": [
+                        "seismiccharges"
+                    ],
+                    "gunner": [
+                        "skilledbombardier"
+                    ],
+                    "modification": [
+                        "munitionsfailsafe"
+                    ],
+                    "talent": [
+                        "elusive"
+                    ]
+                }
+            },
+            {
+                "id": "sienarspecialist",
+                "points": 39,
+                "ship": "tieagaggressor",
+                "upgrades": {
+                    "missile": [
+                        "protonrockets"
+                    ],
+                    "modification": [
+                        "stealthdevice"
+                    ]
+                }
+            },
+            {
+                "id": "colonelvessery",
+                "points": 84,
+                "ship": "tieddefender",
+                "upgrades": {}
+            },
+            {
+                "id": "onyxsquadronscout",
+                "points": 33,
+                "ship": "tieagaggressor",
+                "upgrades": {
+                    "turret": [
+                        "ioncannonturret"
+                    ]
+                }
+            }
+        ],
+        "points": 199,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Option2": {
+        "faction": "rebelalliance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "lieutenantblount",
+                "points": 30,
+                "ship": "z95af4headhunter",
+                "upgrades": {}
+            },
+            {
+                "id": "mirandadoni",
+                "points": 54,
+                "ship": "btls8kwing",
+                "upgrades": {
+                    "device": [
+                        "electroprotonbomb"
+                    ]
+                }
+            },
+            {
+                "id": "hortonsalm",
+                "points": 55,
+                "ship": "btla4ywing",
+                "upgrades": {
+                    "gunner": [
+                        "skilledbombardier"
+                    ],
+                    "modification": [
+                        "afterburners"
+                    ],
+                    "talent": [
+                        "squadleader"
+                    ]
+                }
+            },
+            {
+                "id": "lowhhrick",
+                "points": 58,
+                "ship": "auzituckgunship",
+                "upgrades": {
+                    "crew": [
+                        "cassianandor"
+                    ]
+                }
+            }
+        ],
+        "points": 197,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "TTT": "Ben Worth",
+    "VassalForm1": "Ben Worth",
+    "VassalForm2": "Ben Worth"
+}

@@ -1,0 +1,163 @@
+{
+    "Add": "Pattern Analyzer to Holo",
+    "Discord": "Chrispy#9179",
+    "Drop": "Tragedy Simulator from LeHuse",
+    "Final": {
+        "faction": "firstorder",
+        "name": "Christopher Patrick JTO",
+        "pilots": [
+            {
+                "id": "zetasquadronsurvivor",
+                "points": 43,
+                "ship": "tiesffighter",
+                "upgrades": {
+                    "sensor": [
+                        "firecontrolsystem"
+                    ],
+                    "tech": [
+                        "deuteriumpowercells"
+                    ]
+                }
+            },
+            {
+                "id": "lieutenantlehuse",
+                "points": 49,
+                "ship": "tiesffighter",
+                "upgrades": {
+                    "gunner": [
+                        "specialforcesgunner"
+                    ]
+                }
+            },
+            {
+                "id": "holo",
+                "points": 60,
+                "ship": "tiebainterceptor",
+                "upgrades": {
+                    "talent": [
+                        "marksmanship"
+                    ],
+                    "tech": [
+                        "patternanalyzer"
+                    ]
+                }
+            },
+            {
+                "id": "firstorderprovocateur",
+                "points": 46,
+                "ship": "tiebainterceptor",
+                "upgrades": {
+                    "talent": [
+                        "composure"
+                    ]
+                }
+            }
+        ],
+        "points": 198,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Name": "Christopher Patrick",
+    "Option1": {
+        "faction": "firstorder",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "zetasquadronsurvivor",
+                "points": 43,
+                "ship": "tiesffighter",
+                "upgrades": {
+                    "sensor": [
+                        "firecontrolsystem"
+                    ],
+                    "tech": [
+                        "deuteriumpowercells"
+                    ]
+                }
+            },
+            {
+                "id": "lieutenantlehuse",
+                "points": 55,
+                "ship": "tiesffighter",
+                "upgrades": {
+                    "gunner": [
+                        "specialforcesgunner"
+                    ],
+                    "sensor": [
+                        "trajectorysimulator"
+                    ]
+                }
+            },
+            {
+                "id": "holo",
+                "points": 55,
+                "ship": "tiebainterceptor",
+                "upgrades": {
+                    "talent": [
+                        "marksmanship"
+                    ]
+                }
+            },
+            {
+                "id": "firstorderprovocateur",
+                "points": 46,
+                "ship": "tiebainterceptor",
+                "upgrades": {
+                    "talent": [
+                        "composure"
+                    ]
+                }
+            }
+        ],
+        "points": 199,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Option2": {
+        "faction": "galacticrepublic",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "barrissoffee",
+                "points": 56,
+                "ship": "delta7aethersprite",
+                "upgrades": {
+                    "configuration": [
+                        "delta7b"
+                    ]
+                }
+            },
+            {
+                "id": "matchstick",
+                "points": 56,
+                "ship": "btlbywing",
+                "upgrades": {
+                    "astromech": [
+                        "r2c4"
+                    ],
+                    "device": [
+                        "clustermines"
+                    ]
+                }
+            },
+            {
+                "id": "naboohandmaiden",
+                "points": 42,
+                "ship": "nabooroyaln1starfighter",
+                "upgrades": {}
+            },
+            {
+                "id": "ricolie",
+                "points": 42,
+                "ship": "nabooroyaln1starfighter",
+                "upgrades": {}
+            }
+        ],
+        "points": 196,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "TTT": "Christopher Patrick",
+    "VassalForm1": "Christopher Patrick",
+    "VassalForm2": "Christopher Patrick"
+}

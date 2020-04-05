@@ -1,0 +1,194 @@
+{
+    "Add": "Cluster missile ",
+    "Discord": "Niklas God#2101",
+    "Drop": "None",
+    "Final": {
+        "faction": "galacticempire",
+        "name": "NiklasGod squad",
+        "pilots": [
+            {
+                "id": "baronoftheempire",
+                "points": 41,
+                "ship": "tieadvancedv1",
+                "upgrades": {
+                    "missile": [
+                        "clustermissiles"
+                    ],
+                    "sensor": [
+                        "collisiondetector"
+                    ]
+                }
+            },
+            {
+                "id": "lieutenantsai",
+                "points": 54,
+                "ship": "lambdaclasst4ashuttle",
+                "upgrades": {
+                    "cannon": [
+                        "tractorbeam"
+                    ],
+                    "title": [
+                        "st321"
+                    ]
+                }
+            },
+            {
+                "id": "majorvynder",
+                "points": 74,
+                "ship": "alphaclassstarwing",
+                "upgrades": {
+                    "cannon": [
+                        "ioncannon"
+                    ],
+                    "configuration": [
+                        "xg1assaultconfiguration"
+                    ],
+                    "missile": [
+                        "ionmissiles"
+                    ],
+                    "sensor": [
+                        "advancedsensors"
+                    ],
+                    "torpedo": [
+                        "protontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "sienarspecialist",
+                "points": 31,
+                "ship": "tieagaggressor",
+                "upgrades": {
+                    "turret": [
+                        "ioncannonturret"
+                    ]
+                }
+            }
+        ],
+        "points": 200,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Name": "Niklas God",
+    "Option1": {
+        "faction": "scumandvillainy",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "l337-escapecraft",
+                "points": 32,
+                "ship": "escapecraft",
+                "upgrades": {
+                    "modification": [
+                        "hullupgrade"
+                    ],
+                    "talent": [
+                        "marksmanship"
+                    ]
+                }
+            },
+            {
+                "id": "serissu",
+                "points": 47,
+                "ship": "m3ainterceptor",
+                "upgrades": {
+                    "missile": [
+                        "magpulsewarheads"
+                    ]
+                }
+            },
+            {
+                "id": "lokrevenant",
+                "points": 45,
+                "ship": "scurrgh6bomber",
+                "upgrades": {}
+            },
+            {
+                "id": "kaatoleeachos",
+                "points": 33,
+                "ship": "z95af4headhunter",
+                "upgrades": {
+                    "talent": [
+                        "outmaneuver"
+                    ]
+                }
+            },
+            {
+                "id": "gandfindsman",
+                "points": 41,
+                "ship": "g1astarfighter",
+                "upgrades": {}
+            }
+        ],
+        "points": 198,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Option2": {
+        "faction": "galacticempire",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "baronoftheempire",
+                "points": 36,
+                "ship": "tieadvancedv1",
+                "upgrades": {
+                    "sensor": [
+                        "collisiondetector"
+                    ]
+                }
+            },
+            {
+                "id": "lieutenantsai",
+                "points": 54,
+                "ship": "lambdaclasst4ashuttle",
+                "upgrades": {
+                    "cannon": [
+                        "tractorbeam"
+                    ],
+                    "title": [
+                        "st321"
+                    ]
+                }
+            },
+            {
+                "id": "majorvynder",
+                "points": 74,
+                "ship": "alphaclassstarwing",
+                "upgrades": {
+                    "cannon": [
+                        "ioncannon"
+                    ],
+                    "configuration": [
+                        "xg1assaultconfiguration"
+                    ],
+                    "missile": [
+                        "ionmissiles"
+                    ],
+                    "sensor": [
+                        "advancedsensors"
+                    ],
+                    "torpedo": [
+                        "protontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "sienarspecialist",
+                "points": 31,
+                "ship": "tieagaggressor",
+                "upgrades": {
+                    "turret": [
+                        "ioncannonturret"
+                    ]
+                }
+            }
+        ],
+        "points": 195,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "TTT": "Niklas God",
+    "VassalForm1": "Niklas God",
+    "VassalForm2": "NiklasGod"
+}

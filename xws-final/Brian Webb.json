@@ -1,0 +1,138 @@
+{
+    "Add": "R3 astromech onto Corran Horn",
+    "Discord": "Antilles01#0787",
+    "Drop": "none",
+    "Final": {
+        "faction": "rebelalliance",
+        "name": "Brian Webb JTO",
+        "pilots": [
+            {
+                "id": "janors",
+                "points": 64,
+                "ship": "hwk290lightfreighter",
+                "upgrades": {
+                    "device": [
+                        "protonbombs"
+                    ],
+                    "title": [
+                        "moldycrow"
+                    ]
+                }
+            },
+            {
+                "id": "sabinewren",
+                "points": 41,
+                "ship": "attackshuttle",
+                "upgrades": {}
+            },
+            {
+                "id": "corranhorn",
+                "points": 69,
+                "ship": "ewing",
+                "upgrades": {
+                    "astromech": [
+                        "r3astromech"
+                    ]
+                }
+            },
+            {
+                "id": "zeborrelios-tielnfighter",
+                "points": 24,
+                "ship": "tielnfighter",
+                "upgrades": {}
+            }
+        ],
+        "points": 198,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Name": "Brian Webb",
+    "Option1": {
+        "faction": "rebelalliance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "janors",
+                "points": 64,
+                "ship": "hwk290lightfreighter",
+                "upgrades": {
+                    "device": [
+                        "protonbombs"
+                    ],
+                    "title": [
+                        "moldycrow"
+                    ]
+                }
+            },
+            {
+                "id": "sabinewren",
+                "points": 41,
+                "ship": "attackshuttle",
+                "upgrades": {}
+            },
+            {
+                "id": "corranhorn",
+                "points": 66,
+                "ship": "ewing",
+                "upgrades": {}
+            },
+            {
+                "id": "zeborrelios-tielnfighter",
+                "points": 24,
+                "ship": "tielnfighter",
+                "upgrades": {}
+            }
+        ],
+        "points": 195,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Option2": {
+        "faction": "firstorder",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "rush",
+                "points": 70,
+                "ship": "tievnsilencer",
+                "upgrades": {
+                    "missile": [
+                        "protonrockets"
+                    ],
+                    "torpedo": [
+                        "advprotontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "ember",
+                "points": 61,
+                "ship": "tiebainterceptor",
+                "upgrades": {
+                    "tech": [
+                        "deuteriumpowercells"
+                    ]
+                }
+            },
+            {
+                "id": "holo",
+                "points": 65,
+                "ship": "tiebainterceptor",
+                "upgrades": {
+                    "missile": [
+                        "concussionmissiles"
+                    ],
+                    "tech": [
+                        "patternanalyzer"
+                    ]
+                }
+            }
+        ],
+        "points": 196,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "TTT": "Brian Webb",
+    "VassalForm1": "Brian Webb",
+    "VassalForm2": "Brian Webb"
+}

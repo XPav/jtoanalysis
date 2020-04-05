@@ -1,0 +1,172 @@
+{
+    "Add": "Veteran Turret Gunner to Paige Tico",
+    "Discord": "FishStix#0356",
+    "Drop": "Hotshot Gunner from Paige Tico",
+    "Final": {
+        "faction": "resistance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "paigetico",
+                "points": 77,
+                "ship": "mg100starfortress",
+                "upgrades": {
+                    "gunner": [
+                        "veteranturretgunner"
+                    ],
+                    "modification": [
+                        "electronicbaffle"
+                    ],
+                    "tech": [
+                        "patternanalyzer"
+                    ]
+                }
+            },
+            {
+                "id": "cat",
+                "points": 64,
+                "ship": "mg100starfortress",
+                "upgrades": {
+                    "crew": [
+                        "chewbacca-crew-swz19"
+                    ],
+                    "device": [
+                        "bombletgenerator"
+                    ]
+                }
+            },
+            {
+                "id": "karekun",
+                "points": 57,
+                "ship": "t70xwing",
+                "upgrades": {
+                    "astromech": [
+                        "bb8"
+                    ],
+                    "configuration": [
+                        "integratedsfoils"
+                    ]
+                }
+            }
+        ],
+        "points": 198,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Name": "Jared Mackert",
+    "Option1": {
+        "faction": "separatistalliance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "066",
+                "points": 80,
+                "ship": "sithinfiltrator",
+                "upgrades": {
+                    "crew": [
+                        "freelanceslicer"
+                    ],
+                    "modification": [
+                        "shieldupgrade"
+                    ],
+                    "tacticalrelay": [
+                        "ta175"
+                    ],
+                    "torpedo": [
+                        "protontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "skakoanace",
+                "points": 46,
+                "ship": "belbullab22starfighter",
+                "upgrades": {
+                    "talent": [
+                        "squadleader"
+                    ]
+                }
+            },
+            {
+                "id": "dfs311",
+                "points": 27,
+                "ship": "vultureclassdroidfighter",
+                "upgrades": {
+                    "missile": [
+                        "ionmissiles"
+                    ]
+                }
+            },
+            {
+                "id": "dbs32c",
+                "points": 43,
+                "ship": "hyenaclassdroidbomber",
+                "upgrades": {
+                    "configuration": [
+                        "landingstruts"
+                    ],
+                    "sensor": [
+                        "firecontrolsystem"
+                    ]
+                }
+            }
+        ],
+        "points": 196,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Option2": {
+        "faction": "resistance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "paigetico",
+                "points": 74,
+                "ship": "mg100starfortress",
+                "upgrades": {
+                    "gunner": [
+                        "hotshotgunner"
+                    ],
+                    "modification": [
+                        "electronicbaffle"
+                    ],
+                    "tech": [
+                        "patternanalyzer"
+                    ]
+                }
+            },
+            {
+                "id": "cat",
+                "points": 64,
+                "ship": "mg100starfortress",
+                "upgrades": {
+                    "crew": [
+                        "chewbacca-crew-swz19"
+                    ],
+                    "device": [
+                        "bombletgenerator"
+                    ]
+                }
+            },
+            {
+                "id": "karekun",
+                "points": 57,
+                "ship": "t70xwing",
+                "upgrades": {
+                    "astromech": [
+                        "bb8"
+                    ],
+                    "configuration": [
+                        "integratedsfoils"
+                    ]
+                }
+            }
+        ],
+        "points": 195,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "TTT": "Jared Mackert",
+    "VassalForm1": "Jared Mackert",
+    "VassalForm2": "Jared M"
+}

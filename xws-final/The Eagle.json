@@ -1,0 +1,187 @@
+{
+    "Add": "Seventh Sister to Jendon",
+    "Discord": "The Eagle",
+    "Drop": "Shield upgrade from Iden",
+    "Final": {
+        "faction": "galacticempire",
+        "name": "The Eagle (Arnar) JTO",
+        "pilots": [
+            {
+                "id": "sabersquadronace",
+                "points": 36,
+                "ship": "tieininterceptor",
+                "upgrades": {}
+            },
+            {
+                "id": "tomaxbren",
+                "points": 55,
+                "ship": "tiesabomber",
+                "upgrades": {
+                    "device": [
+                        "connernets"
+                    ],
+                    "missile": [
+                        "protonrockets"
+                    ],
+                    "modification": [
+                        "afterburners"
+                    ],
+                    "talent": [
+                        "ruthless"
+                    ]
+                }
+            },
+            {
+                "id": "coloneljendon",
+                "points": 64,
+                "ship": "lambdaclasst4ashuttle",
+                "upgrades": {
+                    "cannon": [
+                        "autoblasters"
+                    ],
+                    "crew": [
+                        "seventhsister"
+                    ],
+                    "title": [
+                        "st321"
+                    ]
+                }
+            },
+            {
+                "id": "idenversio",
+                "points": 44,
+                "ship": "tielnfighter",
+                "upgrades": {
+                    "talent": [
+                        "elusive"
+                    ]
+                }
+            }
+        ],
+        "points": 199,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Name": "Arnar Bjornsson",
+    "Option1": {
+        "faction": "galacticempire",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "sabersquadronace",
+                "points": 36,
+                "ship": "tieininterceptor",
+                "upgrades": {}
+            },
+            {
+                "id": "tomaxbren",
+                "points": 55,
+                "ship": "tiesabomber",
+                "upgrades": {
+                    "device": [
+                        "connernets"
+                    ],
+                    "missile": [
+                        "protonrockets"
+                    ],
+                    "modification": [
+                        "afterburners"
+                    ],
+                    "talent": [
+                        "ruthless"
+                    ]
+                }
+            },
+            {
+                "id": "coloneljendon",
+                "points": 55,
+                "ship": "lambdaclasst4ashuttle",
+                "upgrades": {
+                    "cannon": [
+                        "autoblasters"
+                    ],
+                    "title": [
+                        "st321"
+                    ]
+                }
+            },
+            {
+                "id": "idenversio",
+                "points": 52,
+                "ship": "tielnfighter",
+                "upgrades": {
+                    "modification": [
+                        "shieldupgrade"
+                    ],
+                    "talent": [
+                        "elusive"
+                    ]
+                }
+            }
+        ],
+        "points": 198,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Option2": {
+        "faction": "firstorder",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "muse",
+                "points": 41,
+                "ship": "tiefofighter",
+                "upgrades": {
+                    "modification": [
+                        "targetingcomputer"
+                    ],
+                    "talent": [
+                        "predator"
+                    ],
+                    "tech": [
+                        "targetingsynchronizer"
+                    ]
+                }
+            },
+            {
+                "id": "majorstridan",
+                "points": 77,
+                "ship": "upsilonclasscommandshuttle",
+                "upgrades": {
+                    "crew": [
+                        "seasonednavigator",
+                        "pettyofficerthanisson"
+                    ],
+                    "modification": [
+                        "ablativeplating"
+                    ]
+                }
+            },
+            {
+                "id": "firstorderprovocateur",
+                "points": 56,
+                "ship": "tiebainterceptor",
+                "upgrades": {
+                    "modification": [
+                        "staticdischargevanes"
+                    ],
+                    "tech": [
+                        "patternanalyzer"
+                    ]
+                }
+            },
+            {
+                "id": "zetasquadronpilot",
+                "points": 26,
+                "ship": "tiefofighter",
+                "upgrades": {}
+            }
+        ],
+        "points": 200,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "TTT": "The Eagle",
+    "VassalForm1": "The Eagle",
+    "VassalForm2": "The Eagle"
+}

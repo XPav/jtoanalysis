@@ -1,0 +1,158 @@
+{
+    "Add": "Proud Tradition onto Holo",
+    "Discord": "Babs#3769",
+    "Drop": "Trajectory simulator from Major Stridan ",
+    "Final": {
+        "faction": "firstorder",
+        "name": "Jon Babcock JTO",
+        "pilots": [
+            {
+                "id": "zetasquadronsurvivor",
+                "points": 32,
+                "ship": "tiesffighter",
+                "upgrades": {}
+            },
+            {
+                "id": "majorstridan",
+                "points": 96,
+                "ship": "upsilonclasscommandshuttle",
+                "upgrades": {
+                    "cannon": [
+                        "autoblasters"
+                    ],
+                    "crew": [
+                        "supremeleadersnoke"
+                    ],
+                    "tech": [
+                        "deuteriumpowercells",
+                        "hyperspacetrackingdata"
+                    ]
+                }
+            },
+            {
+                "id": "holo",
+                "points": 65,
+                "ship": "tiebainterceptor",
+                "upgrades": {
+                    "talent": [
+                        "proudtradition"
+                    ],
+                    "tech": [
+                        "primedthrusters"
+                    ]
+                }
+            }
+        ],
+        "points": 193,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Name": "Jon Babcock",
+    "Option1": {
+        "faction": "firstorder",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "zetasquadronsurvivor",
+                "points": 32,
+                "ship": "tiesffighter",
+                "upgrades": {}
+            },
+            {
+                "id": "majorstridan",
+                "points": 102,
+                "ship": "upsilonclasscommandshuttle",
+                "upgrades": {
+                    "cannon": [
+                        "autoblasters"
+                    ],
+                    "crew": [
+                        "supremeleadersnoke"
+                    ],
+                    "sensor": [
+                        "trajectorysimulator"
+                    ],
+                    "tech": [
+                        "deuteriumpowercells",
+                        "hyperspacetrackingdata"
+                    ]
+                }
+            },
+            {
+                "id": "holo",
+                "points": 63,
+                "ship": "tiebainterceptor",
+                "upgrades": {
+                    "tech": [
+                        "primedthrusters"
+                    ]
+                }
+            }
+        ],
+        "points": 197,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Option2": {
+        "faction": "separatistalliance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "baktoidprototype",
+                "points": 42,
+                "ship": "hyenaclassdroidbomber",
+                "upgrades": {
+                    "configuration": [
+                        "landingstruts"
+                    ],
+                    "missile": [
+                        "magpulsewarheads"
+                    ],
+                    "modification": [
+                        "munitionsfailsafe"
+                    ],
+                    "sensor": [
+                        "trajectorysimulator"
+                    ]
+                }
+            },
+            {
+                "id": "precisehunter",
+                "points": 23,
+                "ship": "vultureclassdroidfighter",
+                "upgrades": {}
+            },
+            {
+                "id": "countdooku",
+                "points": 70,
+                "ship": "sithinfiltrator",
+                "upgrades": {
+                    "crew": [
+                        "seasonednavigator"
+                    ],
+                    "modification": [
+                        "tacticalscrambler"
+                    ]
+                }
+            },
+            {
+                "id": "chertek",
+                "points": 39,
+                "ship": "nantexclassstarfighter",
+                "upgrades": {}
+            },
+            {
+                "id": "haorchallprototype",
+                "points": 21,
+                "ship": "vultureclassdroidfighter",
+                "upgrades": {}
+            }
+        ],
+        "points": 195,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "TTT": "JonBabcock",
+    "VassalForm1": "JonBabcock",
+    "VassalForm2": "JonBabcock"
+}

@@ -1,0 +1,171 @@
+{
+    "Add": "Finn to Rey",
+    "Discord": "Reflex#5086",
+    "Drop": "Hotshot Gunner from Rey",
+    "Final": {
+        "faction": "resistance",
+        "name": "Andrew Cox JTO",
+        "obstacles": [
+            "coreasteroid5",
+            "core2asteroid4",
+            "core2asteroid5"
+        ],
+        "pilots": [
+            {
+                "id": "rey",
+                "points": 99,
+                "ship": "scavengedyt1300",
+                "upgrades": {
+                    "crew": [
+                        "chewbacca-crew-swz19",
+                        "korrsella"
+                    ],
+                    "gunner": [
+                        "finn"
+                    ],
+                    "modification": [
+                        "ablativeplating"
+                    ],
+                    "title": [
+                        "reysmillenniumfalcon"
+                    ]
+                }
+            },
+            {
+                "id": "poedameron",
+                "points": 68,
+                "ship": "t70xwing",
+                "upgrades": {
+                    "configuration": [
+                        "integratedsfoils"
+                    ]
+                }
+            },
+            {
+                "id": "jarekyeager",
+                "points": 33,
+                "ship": "fireball",
+                "upgrades": {}
+            }
+        ],
+        "points": 200,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Name": "Andrew Cox",
+    "Option1": {
+        "faction": "resistance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "rey",
+                "points": 96,
+                "ship": "scavengedyt1300",
+                "upgrades": {
+                    "crew": [
+                        "chewbacca-crew-swz19",
+                        "korrsella"
+                    ],
+                    "gunner": [
+                        "hotshotgunner"
+                    ],
+                    "modification": [
+                        "ablativeplating"
+                    ],
+                    "title": [
+                        "reysmillenniumfalcon"
+                    ]
+                }
+            },
+            {
+                "id": "poedameron",
+                "points": 68,
+                "ship": "t70xwing",
+                "upgrades": {
+                    "configuration": [
+                        "integratedsfoils"
+                    ]
+                }
+            },
+            {
+                "id": "jarekyeager",
+                "points": 33,
+                "ship": "fireball",
+                "upgrades": {}
+            }
+        ],
+        "points": 197,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Option2": {
+        "faction": "separatistalliance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "separatistdrone",
+                "points": 25,
+                "ship": "vultureclassdroidfighter",
+                "upgrades": {
+                    "missile": [
+                        "discordmissiles"
+                    ]
+                }
+            },
+            {
+                "id": "dfs081",
+                "points": 38,
+                "ship": "vultureclassdroidfighter",
+                "upgrades": {
+                    "configuration": [
+                        "grapplingstruts"
+                    ],
+                    "missile": [
+                        "clustermissiles"
+                    ],
+                    "modification": [
+                        "staticdischargevanes"
+                    ]
+                }
+            },
+            {
+                "id": "stalgasinhiveguard",
+                "points": 34,
+                "ship": "nantexclassstarfighter",
+                "upgrades": {}
+            },
+            {
+                "id": "countdooku",
+                "points": 78,
+                "ship": "sithinfiltrator",
+                "upgrades": {
+                    "device": [
+                        "clustermines"
+                    ],
+                    "modification": [
+                        "electronicbaffle"
+                    ],
+                    "tacticalrelay": [
+                        "k2b4"
+                    ]
+                }
+            },
+            {
+                "id": "tradefederationdrone",
+                "points": 20,
+                "ship": "vultureclassdroidfighter",
+                "upgrades": {
+                    "configuration": [
+                        "grapplingstruts"
+                    ]
+                }
+            }
+        ],
+        "points": 195,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "TTT": "Andrew Cox",
+    "VassalForm1": "Reflex",
+    "VassalForm2": "Reflex"
+}

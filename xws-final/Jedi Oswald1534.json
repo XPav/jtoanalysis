@@ -1,0 +1,178 @@
+{
+    "Add": "Intimidation to Ariel Crynyd in the RZ-1 A-Wing",
+    "Discord": "Jedi Oswald#1534",
+    "Drop": "Munitions Failsafe from Captain Rex in the Tie/ln Fighter",
+    "Final": {
+        "faction": "rebelalliance",
+        "name": "Liam Lee JTO",
+        "pilots": [
+            {
+                "id": "captainrex",
+                "points": 30,
+                "ship": "tielnfighter",
+                "upgrades": {}
+            },
+            {
+                "id": "ginamoonsong",
+                "points": 57,
+                "ship": "asf01bwing",
+                "upgrades": {
+                    "cannon": [
+                        "heavylasercannon"
+                    ],
+                    "configuration": [
+                        "stabilizedsfoils"
+                    ]
+                }
+            },
+            {
+                "id": "zeborrelios-tielnfighter",
+                "points": 26,
+                "ship": "tielnfighter",
+                "upgrades": {
+                    "modification": [
+                        "electronicbaffle"
+                    ]
+                }
+            },
+            {
+                "id": "biggsdarklighter",
+                "points": 48,
+                "ship": "t65xwing",
+                "upgrades": {
+                    "configuration": [
+                        "servomotorsfoils"
+                    ]
+                }
+            },
+            {
+                "id": "arvelcrynyd",
+                "points": 37,
+                "ship": "rz1awing",
+                "upgrades": {
+                    "talent": [
+                        "intimidation"
+                    ]
+                }
+            }
+        ],
+        "points": 198,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Name": "Liam Lee",
+    "Option1": {
+        "faction": "rebelalliance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "captainrex",
+                "points": 31,
+                "ship": "tielnfighter",
+                "upgrades": {
+                    "modification": [
+                        "munitionsfailsafe"
+                    ]
+                }
+            },
+            {
+                "id": "ginamoonsong",
+                "points": 57,
+                "ship": "asf01bwing",
+                "upgrades": {
+                    "cannon": [
+                        "heavylasercannon"
+                    ],
+                    "configuration": [
+                        "stabilizedsfoils"
+                    ]
+                }
+            },
+            {
+                "id": "zeborrelios-tielnfighter",
+                "points": 26,
+                "ship": "tielnfighter",
+                "upgrades": {
+                    "modification": [
+                        "electronicbaffle"
+                    ]
+                }
+            },
+            {
+                "id": "biggsdarklighter",
+                "points": 48,
+                "ship": "t65xwing",
+                "upgrades": {
+                    "configuration": [
+                        "servomotorsfoils"
+                    ]
+                }
+            },
+            {
+                "id": "arvelcrynyd",
+                "points": 34,
+                "ship": "rz1awing",
+                "upgrades": {}
+            }
+        ],
+        "points": 196,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Option2": {
+        "faction": "galacticempire",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "majorvynder",
+                "points": 60,
+                "ship": "alphaclassstarwing",
+                "upgrades": {
+                    "missile": [
+                        "protonrockets"
+                    ],
+                    "modification": [
+                        "staticdischargevanes"
+                    ],
+                    "torpedo": [
+                        "advprotontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "blacksquadronscout",
+                "points": 34,
+                "ship": "tieskstriker",
+                "upgrades": {}
+            },
+            {
+                "id": "alphasquadronpilot",
+                "points": 31,
+                "ship": "tieininterceptor",
+                "upgrades": {}
+            },
+            {
+                "id": "alphasquadronpilot",
+                "points": 37,
+                "ship": "tieininterceptor",
+                "upgrades": {
+                    "modification": [
+                        "afterburners"
+                    ]
+                }
+            },
+            {
+                "id": "tempestsquadronpilot",
+                "points": 36,
+                "ship": "tieadvancedx1",
+                "upgrades": {}
+            }
+        ],
+        "points": 198,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "TTT": "Liam Lee",
+    "VassalForm1": "Jedi Oswald#1534",
+    "VassalForm2": "JediOswald"
+}

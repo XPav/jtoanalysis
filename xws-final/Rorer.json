@@ -1,0 +1,215 @@
+{
+    "Add": "FCS on Finch Dallow",
+    "Discord": "Rorer#3589",
+    "Drop": "None",
+    "Final": {
+        "faction": "resistance",
+        "name": "Rory Wilson JTO",
+        "obstacles": [
+            "coreasteroid1",
+            "coreasteroid2",
+            "coreasteroid3"
+        ],
+        "pilots": [
+            {
+                "id": "nodinchavdri",
+                "points": 49,
+                "ship": "resistancetransport",
+                "upgrades": {
+                    "cannon": [
+                        "tractorbeam"
+                    ],
+                    "crew": [
+                        "hansolo-crew"
+                    ],
+                    "torpedo": [
+                        "iontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "r1j5",
+                "points": 38,
+                "ship": "fireball",
+                "upgrades": {
+                    "illicit": [
+                        "coaxiumhyperfuel"
+                    ],
+                    "missile": [
+                        "homingmissiles"
+                    ],
+                    "title": [
+                        "kazsfireball"
+                    ]
+                }
+            },
+            {
+                "id": "finchdallow",
+                "points": 68,
+                "ship": "mg100starfortress",
+                "upgrades": {
+                    "sensor": [
+                        "firecontrolsystem"
+                    ],
+                    "tech": [
+                        "targetingsynchronizer"
+                    ]
+                }
+            },
+            {
+                "id": "redsquadronexpert",
+                "points": 44,
+                "ship": "t70xwing",
+                "upgrades": {
+                    "configuration": [
+                        "integratedsfoils"
+                    ]
+                }
+            }
+        ],
+        "points": 199,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Name": "Rory Wilson",
+    "Option1": {
+        "faction": "galacticrepublic",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "oddball-btlbywing",
+                "points": 71,
+                "ship": "btlbywing",
+                "upgrades": {
+                    "astromech": [
+                        "r2c4"
+                    ],
+                    "device": [
+                        "clustermines"
+                    ],
+                    "gunner": [
+                        "clonecommandercody"
+                    ],
+                    "talent": [
+                        "crackshot"
+                    ],
+                    "torpedo": [
+                        "iontorpedoes"
+                    ],
+                    "turret": [
+                        "dorsalturret"
+                    ]
+                }
+            },
+            {
+                "id": "kickback",
+                "points": 45,
+                "ship": "v19torrentstarfighter",
+                "upgrades": {
+                    "missile": [
+                        "magpulsewarheads"
+                    ],
+                    "modification": [
+                        "delayedfuses"
+                    ],
+                    "talent": [
+                        "lonewolf"
+                    ]
+                }
+            },
+            {
+                "id": "bluesquadronprotector",
+                "points": 34,
+                "ship": "v19torrentstarfighter",
+                "upgrades": {
+                    "missile": [
+                        "concussionmissiles"
+                    ],
+                    "talent": [
+                        "crackshot"
+                    ]
+                }
+            },
+            {
+                "id": "barrissoffee",
+                "points": 48,
+                "ship": "delta7aethersprite",
+                "upgrades": {
+                    "astromech": [
+                        "r4astromech"
+                    ],
+                    "force-power": [
+                        "battlemeditation"
+                    ]
+                }
+            }
+        ],
+        "points": 198,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Option2": {
+        "faction": "resistance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "nodinchavdri",
+                "points": 49,
+                "ship": "resistancetransport",
+                "upgrades": {
+                    "cannon": [
+                        "tractorbeam"
+                    ],
+                    "crew": [
+                        "hansolo-crew"
+                    ],
+                    "torpedo": [
+                        "iontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "r1j5",
+                "points": 38,
+                "ship": "fireball",
+                "upgrades": {
+                    "illicit": [
+                        "coaxiumhyperfuel"
+                    ],
+                    "missile": [
+                        "homingmissiles"
+                    ],
+                    "title": [
+                        "kazsfireball"
+                    ]
+                }
+            },
+            {
+                "id": "finchdallow",
+                "points": 66,
+                "ship": "mg100starfortress",
+                "upgrades": {
+                    "tech": [
+                        "targetingsynchronizer"
+                    ]
+                }
+            },
+            {
+                "id": "redsquadronexpert",
+                "points": 44,
+                "ship": "t70xwing",
+                "upgrades": {
+                    "configuration": [
+                        "integratedsfoils"
+                    ]
+                }
+            }
+        ],
+        "points": 197,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "TTT": "Rory Wilson ",
+    "VassalForm1": "Rorer",
+    "VassalForm2": "Rorer "
+}

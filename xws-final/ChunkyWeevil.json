@@ -1,0 +1,176 @@
+{
+    "Add": "C-3P0 on Logistics Division Pilot",
+    "Discord": "ChunkyWeevil",
+    "Drop": "Korr Sella from Logistics Division Pilot",
+    "Final": {
+        "faction": "resistance",
+        "name": "Cailean Pritchard JTO",
+        "pilots": [
+            {
+                "id": "benteene",
+                "points": 72,
+                "ship": "mg100starfortress",
+                "upgrades": {
+                    "crew": [
+                        "pz4co"
+                    ],
+                    "device": [
+                        "clustermines"
+                    ]
+                }
+            },
+            {
+                "id": "covanell",
+                "points": 38,
+                "ship": "resistancetransport",
+                "upgrades": {}
+            },
+            {
+                "id": "bb8",
+                "points": 26,
+                "ship": "resistancetransportpod",
+                "upgrades": {}
+            },
+            {
+                "id": "logisticsdivisionpilot",
+                "points": 38,
+                "ship": "resistancetransport",
+                "upgrades": {
+                    "crew": [
+                        "c3po-crew"
+                    ]
+                }
+            },
+            {
+                "id": "colossusstationmechanic",
+                "points": 26,
+                "ship": "fireball",
+                "upgrades": {}
+            }
+        ],
+        "points": 200,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Name": "Cailean Pritchard",
+    "Option1": {
+        "faction": "resistance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "benteene",
+                "points": 72,
+                "ship": "mg100starfortress",
+                "upgrades": {
+                    "crew": [
+                        "pz4co"
+                    ],
+                    "device": [
+                        "clustermines"
+                    ]
+                }
+            },
+            {
+                "id": "covanell",
+                "points": 38,
+                "ship": "resistancetransport",
+                "upgrades": {}
+            },
+            {
+                "id": "bb8",
+                "points": 26,
+                "ship": "resistancetransportpod",
+                "upgrades": {}
+            },
+            {
+                "id": "logisticsdivisionpilot",
+                "points": 38,
+                "ship": "resistancetransport",
+                "upgrades": {
+                    "crew": [
+                        "korrsella"
+                    ]
+                }
+            },
+            {
+                "id": "colossusstationmechanic",
+                "points": 26,
+                "ship": "fireball",
+                "upgrades": {}
+            }
+        ],
+        "points": 200,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Option2": {
+        "faction": "separatistalliance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "bombardmentdrone",
+                "points": 42,
+                "ship": "hyenaclassdroidbomber",
+                "upgrades": {
+                    "configuration": [
+                        "landingstruts"
+                    ],
+                    "modification": [
+                        "shieldupgrade"
+                    ],
+                    "sensor": [
+                        "collisiondetector"
+                    ]
+                }
+            },
+            {
+                "id": "dbs404",
+                "points": 50,
+                "ship": "hyenaclassdroidbomber",
+                "upgrades": {
+                    "device": [
+                        "seismiccharges"
+                    ],
+                    "missile": [
+                        "ionmissiles"
+                    ],
+                    "torpedo": [
+                        "protontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "generalgrievous",
+                "points": 47,
+                "ship": "belbullab22starfighter",
+                "upgrades": {
+                    "talent": [
+                        "elusive"
+                    ]
+                }
+            },
+            {
+                "id": "precisehunter",
+                "points": 29,
+                "ship": "vultureclassdroidfighter",
+                "upgrades": {
+                    "missile": [
+                        "magpulsewarheads"
+                    ]
+                }
+            },
+            {
+                "id": "separatistbomber",
+                "points": 28,
+                "ship": "hyenaclassdroidbomber",
+                "upgrades": {}
+            }
+        ],
+        "points": 196,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "TTT": "Cailean Pritchard",
+    "VassalForm1": "ChunkyWeevil",
+    "VassalForm2": "ChunkyWeevil"
+}

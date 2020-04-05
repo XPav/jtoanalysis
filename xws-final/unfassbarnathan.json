@@ -1,0 +1,199 @@
+{
+    "Add": "DRK-1 Probe Droids to Techno Union Bomber 1",
+    "Discord": "unfassbarnathan#1964",
+    "Drop": "Targeting Computer from General Grevious",
+    "Final": {
+        "faction": "separatistalliance",
+        "name": "Nathan Willcock JTO",
+        "pilots": [
+            {
+                "id": "technounionbomber",
+                "points": 35,
+                "ship": "hyenaclassdroidbomber",
+                "upgrades": {
+                    "device": [
+                        "drk1probedroids"
+                    ],
+                    "missile": [
+                        "clustermissiles"
+                    ]
+                }
+            },
+            {
+                "id": "generalgrievous",
+                "points": 55,
+                "ship": "belbullab22starfighter",
+                "upgrades": {
+                    "tacticalrelay": [
+                        "kraken"
+                    ],
+                    "talent": [
+                        "composure"
+                    ]
+                }
+            },
+            {
+                "id": "separatistdrone",
+                "points": 27,
+                "ship": "vultureclassdroidfighter",
+                "upgrades": {
+                    "missile": [
+                        "concussionmissiles"
+                    ]
+                }
+            },
+            {
+                "id": "technounionbomber",
+                "points": 37,
+                "ship": "hyenaclassdroidbomber",
+                "upgrades": {
+                    "device": [
+                        "electroprotonbomb"
+                    ]
+                }
+            },
+            {
+                "id": "skakoanace",
+                "points": 44,
+                "ship": "belbullab22starfighter",
+                "upgrades": {
+                    "modification": [
+                        "shieldupgrade"
+                    ]
+                }
+            }
+        ],
+        "points": 198,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Name": "Nathan Willcock",
+    "Option1": {
+        "faction": "separatistalliance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "technounionbomber",
+                "points": 30,
+                "ship": "hyenaclassdroidbomber",
+                "upgrades": {
+                    "missile": [
+                        "clustermissiles"
+                    ]
+                }
+            },
+            {
+                "id": "generalgrievous",
+                "points": 58,
+                "ship": "belbullab22starfighter",
+                "upgrades": {
+                    "modification": [
+                        "targetingcomputer"
+                    ],
+                    "tacticalrelay": [
+                        "kraken"
+                    ],
+                    "talent": [
+                        "composure"
+                    ]
+                }
+            },
+            {
+                "id": "separatistdrone",
+                "points": 27,
+                "ship": "vultureclassdroidfighter",
+                "upgrades": {
+                    "missile": [
+                        "concussionmissiles"
+                    ]
+                }
+            },
+            {
+                "id": "technounionbomber",
+                "points": 37,
+                "ship": "hyenaclassdroidbomber",
+                "upgrades": {
+                    "device": [
+                        "electroprotonbomb"
+                    ]
+                }
+            },
+            {
+                "id": "skakoanace",
+                "points": 44,
+                "ship": "belbullab22starfighter",
+                "upgrades": {
+                    "modification": [
+                        "shieldupgrade"
+                    ]
+                }
+            }
+        ],
+        "points": 196,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Option2": {
+        "faction": "resistance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "temminwexley",
+                "points": 66,
+                "ship": "t70xwing",
+                "upgrades": {
+                    "astromech": [
+                        "bbastromech"
+                    ],
+                    "cannon": [
+                        "ioncannon"
+                    ],
+                    "configuration": [
+                        "integratedsfoils"
+                    ],
+                    "talent": [
+                        "intimidation"
+                    ]
+                }
+            },
+            {
+                "id": "vimoradi",
+                "points": 33,
+                "ship": "resistancetransportpod",
+                "upgrades": {
+                    "tech": [
+                        "targetingsynchronizer"
+                    ]
+                }
+            },
+            {
+                "id": "elloasty",
+                "points": 65,
+                "ship": "t70xwing",
+                "upgrades": {
+                    "configuration": [
+                        "integratedsfoils"
+                    ],
+                    "missile": [
+                        "ionmissiles"
+                    ],
+                    "modification": [
+                        "afterburners"
+                    ]
+                }
+            },
+            {
+                "id": "jarekyeager",
+                "points": 33,
+                "ship": "fireball",
+                "upgrades": {}
+            }
+        ],
+        "points": 197,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "TTT": "Nathan Willcock",
+    "VassalForm1": "unfassbarnathan",
+    "VassalForm2": "unfassbarnathan"
+}

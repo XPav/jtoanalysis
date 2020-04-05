@@ -1,0 +1,167 @@
+{
+    "Add": "Proton Torpedoes on Bravo Flight Officer",
+    "Discord": "donfonni",
+    "Drop": "Supernatural Reflexes from Luminara Unduli",
+    "Final": {
+        "faction": "galacticrepublic",
+        "name": "donfonni JTO",
+        "obstacles": [
+            "gascloud1",
+            "gascloud2",
+            "gascloud3"
+        ],
+        "pilots": [
+            {
+                "id": "bravoflightofficer",
+                "points": 48,
+                "ship": "nabooroyaln1starfighter",
+                "upgrades": {
+                    "sensor": [
+                        "firecontrolsystem"
+                    ],
+                    "torpedo": [
+                        "protontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "luminaraunduli",
+                "points": 50,
+                "ship": "delta7aethersprite",
+                "upgrades": {
+                    "astromech": [
+                        "r4pastromech"
+                    ],
+                    "configuration": [
+                        "calibratedlasertargeting"
+                    ]
+                }
+            },
+            {
+                "id": "wolffe",
+                "points": 62,
+                "ship": "arc170starfighter",
+                "upgrades": {
+                    "crew": [
+                        "c3po-republic"
+                    ],
+                    "gunner": [
+                        "veterantailgunner"
+                    ]
+                }
+            },
+            {
+                "id": "r2d2",
+                "points": 35,
+                "ship": "btlbywing",
+                "upgrades": {}
+            }
+        ],
+        "points": 195,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Name": "Stefan Lazaro",
+    "Option1": {
+        "faction": "firstorder",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "lieutenantdormitz",
+                "points": 103,
+                "ship": "upsilonclasscommandshuttle",
+                "upgrades": {
+                    "crew": [
+                        "supremeleadersnoke"
+                    ],
+                    "sensor": [
+                        "advancedsensors"
+                    ],
+                    "tech": [
+                        "advancedoptics",
+                        "targetingsynchronizer"
+                    ]
+                }
+            },
+            {
+                "id": "firstordertestpilot",
+                "points": 64,
+                "ship": "tievnsilencer",
+                "upgrades": {
+                    "missile": [
+                        "ionmissiles"
+                    ],
+                    "talent": [
+                        "trickshot"
+                    ]
+                }
+            },
+            {
+                "id": "static",
+                "points": 33,
+                "ship": "tiefofighter",
+                "upgrades": {}
+            }
+        ],
+        "points": 200,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Option2": {
+        "faction": "galacticrepublic",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "bravoflightofficer",
+                "points": 35,
+                "ship": "nabooroyaln1starfighter",
+                "upgrades": {
+                    "sensor": [
+                        "firecontrolsystem"
+                    ]
+                }
+            },
+            {
+                "id": "luminaraunduli",
+                "points": 66,
+                "ship": "delta7aethersprite",
+                "upgrades": {
+                    "astromech": [
+                        "r4pastromech"
+                    ],
+                    "configuration": [
+                        "calibratedlasertargeting"
+                    ],
+                    "force-power": [
+                        "supernaturalreflexes"
+                    ]
+                }
+            },
+            {
+                "id": "wolffe",
+                "points": 62,
+                "ship": "arc170starfighter",
+                "upgrades": {
+                    "crew": [
+                        "c3po-republic"
+                    ],
+                    "gunner": [
+                        "veterantailgunner"
+                    ]
+                }
+            },
+            {
+                "id": "r2d2",
+                "points": 35,
+                "ship": "btlbywing",
+                "upgrades": {}
+            }
+        ],
+        "points": 198,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "TTT": "donfonni",
+    "VassalForm1": "donfonni",
+    "VassalForm2": "donfonni"
+}

@@ -1,0 +1,175 @@
+{
+    "Add": "Advanced Sensors on Guri",
+    "Discord": "britton#1996",
+    "Drop": "Mag Pulse from Bossk",
+    "Final": {
+        "faction": "scumandvillainy",
+        "name": "Britton Carr JTO",
+        "pilots": [
+            {
+                "id": "cartelmarauder",
+                "points": 46,
+                "ship": "kihraxzfighter",
+                "upgrades": {
+                    "missile": [
+                        "concussionmissiles"
+                    ],
+                    "modification": [
+                        "electronicbaffle"
+                    ]
+                }
+            },
+            {
+                "id": "guri",
+                "points": 74,
+                "ship": "starviperclassattackplatform",
+                "upgrades": {
+                    "sensor": [
+                        "advancedsensors"
+                    ]
+                }
+            },
+            {
+                "id": "bossk",
+                "points": 67,
+                "ship": "yv666lightfreighter",
+                "upgrades": {
+                    "crew": [
+                        "novicetechnician"
+                    ],
+                    "talent": [
+                        "crackshot"
+                    ]
+                }
+            },
+            {
+                "id": "autopilotdrone",
+                "points": 12,
+                "ship": "escapecraft",
+                "upgrades": {}
+            }
+        ],
+        "points": 199,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Name": "Britton Carr",
+    "Option1": {
+        "faction": "scumandvillainy",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "cartelmarauder",
+                "points": 46,
+                "ship": "kihraxzfighter",
+                "upgrades": {
+                    "missile": [
+                        "concussionmissiles"
+                    ],
+                    "modification": [
+                        "electronicbaffle"
+                    ]
+                }
+            },
+            {
+                "id": "guri",
+                "points": 64,
+                "ship": "starviperclassattackplatform",
+                "upgrades": {}
+            },
+            {
+                "id": "bossk",
+                "points": 73,
+                "ship": "yv666lightfreighter",
+                "upgrades": {
+                    "crew": [
+                        "novicetechnician"
+                    ],
+                    "missile": [
+                        "magpulsewarheads"
+                    ],
+                    "talent": [
+                        "crackshot"
+                    ]
+                }
+            },
+            {
+                "id": "autopilotdrone",
+                "points": 12,
+                "ship": "escapecraft",
+                "upgrades": {}
+            }
+        ],
+        "points": 195,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Option2": {
+        "faction": "separatistalliance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "petranakiarenaace",
+                "points": 48,
+                "ship": "nantexclassstarfighter",
+                "upgrades": {
+                    "talent": [
+                        "squadleader"
+                    ]
+                }
+            },
+            {
+                "id": "separatistbomber",
+                "points": 49,
+                "ship": "hyenaclassdroidbomber",
+                "upgrades": {
+                    "missile": [
+                        "protonrockets"
+                    ],
+                    "modification": [
+                        "munitionsfailsafe"
+                    ],
+                    "torpedo": [
+                        "protontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "precisehunter",
+                "points": 29,
+                "ship": "vultureclassdroidfighter",
+                "upgrades": {
+                    "modification": [
+                        "afterburners"
+                    ]
+                }
+            },
+            {
+                "id": "dfs081",
+                "points": 31,
+                "ship": "vultureclassdroidfighter",
+                "upgrades": {
+                    "missile": [
+                        "energyshellcharges"
+                    ]
+                }
+            },
+            {
+                "id": "petranakiarenaace",
+                "points": 42,
+                "ship": "nantexclassstarfighter",
+                "upgrades": {
+                    "talent": [
+                        "trickshot"
+                    ]
+                }
+            }
+        ],
+        "points": 199,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "TTT": "Britton Carr",
+    "VassalForm1": "brittoncarr",
+    "VassalForm2": "brittoncarr"
+}

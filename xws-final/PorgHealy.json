@@ -1,0 +1,196 @@
+{
+    "Add": "Dengar gunner to Manaroo",
+    "Discord": "Dead1yPorg#0208",
+    "Drop": "Angled Deflectors from Kath",
+    "Final": {
+        "faction": "scumandvillainy",
+        "name": "Jarrad Healy JTO",
+        "pilots": [
+            {
+                "id": "manaroo",
+                "points": 67,
+                "ship": "jumpmaster5000",
+                "upgrades": {
+                    "cannon": [
+                        "jammingbeam"
+                    ],
+                    "crew": [
+                        "ig88d"
+                    ],
+                    "gunner": [
+                        "dengar"
+                    ],
+                    "torpedo": [
+                        "protontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "kathscarlet",
+                "points": 95,
+                "ship": "firesprayclasspatrolcraft",
+                "upgrades": {
+                    "cannon": [
+                        "autoblasters"
+                    ],
+                    "crew": [
+                        "lattsrazzi"
+                    ],
+                    "missile": [
+                        "concussionmissiles"
+                    ],
+                    "talent": [
+                        "composure"
+                    ],
+                    "title": [
+                        "marauder"
+                    ]
+                }
+            },
+            {
+                "id": "sarcoplank",
+                "points": 37,
+                "ship": "quadrijettransferspacetug",
+                "upgrades": {
+                    "tech": [
+                        "patternanalyzer"
+                    ]
+                }
+            }
+        ],
+        "points": 199,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Name": "Jarrad Healy",
+    "Option1": {
+        "faction": "firstorder",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "ember",
+                "points": 70,
+                "ship": "tiebainterceptor",
+                "upgrades": {
+                    "missile": [
+                        "clustermissiles"
+                    ],
+                    "modification": [
+                        "delayedfuses"
+                    ],
+                    "talent": [
+                        "trickshot"
+                    ],
+                    "tech": [
+                        "primedthrusters"
+                    ]
+                }
+            },
+            {
+                "id": "tn3465",
+                "points": 37,
+                "ship": "tiefofighter",
+                "upgrades": {
+                    "modification": [
+                        "angleddeflectors"
+                    ],
+                    "tech": [
+                        "primedthrusters"
+                    ]
+                }
+            },
+            {
+                "id": "null",
+                "points": 41,
+                "ship": "tiefofighter",
+                "upgrades": {
+                    "modification": [
+                        "hullupgrade"
+                    ],
+                    "tech": [
+                        "advancedoptics"
+                    ]
+                }
+            },
+            {
+                "id": "captainphasma",
+                "points": 47,
+                "ship": "tiesffighter",
+                "upgrades": {
+                    "sensor": [
+                        "collisiondetector"
+                    ],
+                    "talent": [
+                        "fanatical"
+                    ]
+                }
+            }
+        ],
+        "points": 195,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Option2": {
+        "faction": "scumandvillainy",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "manaroo",
+                "points": 61,
+                "ship": "jumpmaster5000",
+                "upgrades": {
+                    "cannon": [
+                        "jammingbeam"
+                    ],
+                    "crew": [
+                        "ig88d"
+                    ],
+                    "torpedo": [
+                        "protontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "kathscarlet",
+                "points": 98,
+                "ship": "firesprayclasspatrolcraft",
+                "upgrades": {
+                    "cannon": [
+                        "autoblasters"
+                    ],
+                    "crew": [
+                        "lattsrazzi"
+                    ],
+                    "missile": [
+                        "concussionmissiles"
+                    ],
+                    "modification": [
+                        "angleddeflectors"
+                    ],
+                    "talent": [
+                        "composure"
+                    ],
+                    "title": [
+                        "marauder"
+                    ]
+                }
+            },
+            {
+                "id": "sarcoplank",
+                "points": 37,
+                "ship": "quadrijettransferspacetug",
+                "upgrades": {
+                    "tech": [
+                        "patternanalyzer"
+                    ]
+                }
+            }
+        ],
+        "points": 196,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "TTT": "Jarrad Healy",
+    "VassalForm1": "PorgHealy",
+    "VassalForm2": "PorgHealy"
+}

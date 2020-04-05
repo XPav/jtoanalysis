@@ -1,0 +1,211 @@
+{
+    "Add": "Afterburners to Horton Salm",
+    "Discord": "Williarn#3268",
+    "Drop": "Static Discharge Vanes from Horton Salm",
+    "Final": {
+        "faction": "rebelalliance",
+        "name": "William Krick JTO",
+        "obstacles": [
+            "coreasteroid5",
+            "core2asteroid4",
+            "core2asteroid5"
+        ],
+        "pilots": [
+            {
+                "id": "hortonsalm",
+                "points": 64,
+                "ship": "btla4ywing",
+                "upgrades": {
+                    "astromech": [
+                        "chopper"
+                    ],
+                    "modification": [
+                        "afterburners"
+                    ],
+                    "talent": [
+                        "crackshot"
+                    ],
+                    "torpedo": [
+                        "protontorpedoes"
+                    ],
+                    "turret": [
+                        "ioncannonturret"
+                    ]
+                }
+            },
+            {
+                "id": "hansolo-modifiedyt1300lightfreighter",
+                "points": 94,
+                "ship": "modifiedyt1300lightfreighter",
+                "upgrades": {
+                    "missile": [
+                        "magpulsewarheads"
+                    ],
+                    "modification": [
+                        "targetingcomputer"
+                    ],
+                    "talent": [
+                        "swarmtactics"
+                    ]
+                }
+            },
+            {
+                "id": "rebelscout",
+                "points": 42,
+                "ship": "hwk290lightfreighter",
+                "upgrades": {
+                    "device": [
+                        "connernets"
+                    ],
+                    "modification": [
+                        "stealthdevice"
+                    ]
+                }
+            }
+        ],
+        "points": 200,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Name": "William Krick",
+    "Option1": {
+        "faction": "rebelalliance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "hortonsalm",
+                "points": 64,
+                "ship": "btla4ywing",
+                "upgrades": {
+                    "astromech": [
+                        "chopper"
+                    ],
+                    "modification": [
+                        "staticdischargevanes"
+                    ],
+                    "talent": [
+                        "crackshot"
+                    ],
+                    "torpedo": [
+                        "protontorpedoes"
+                    ],
+                    "turret": [
+                        "ioncannonturret"
+                    ]
+                }
+            },
+            {
+                "id": "hansolo-modifiedyt1300lightfreighter",
+                "points": 94,
+                "ship": "modifiedyt1300lightfreighter",
+                "upgrades": {
+                    "missile": [
+                        "magpulsewarheads"
+                    ],
+                    "modification": [
+                        "targetingcomputer"
+                    ],
+                    "talent": [
+                        "swarmtactics"
+                    ]
+                }
+            },
+            {
+                "id": "rebelscout",
+                "points": 42,
+                "ship": "hwk290lightfreighter",
+                "upgrades": {
+                    "device": [
+                        "connernets"
+                    ],
+                    "modification": [
+                        "stealthdevice"
+                    ]
+                }
+            }
+        ],
+        "points": 200,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Option2": {
+        "faction": "scumandvillainy",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "unkarplutt",
+                "points": 37,
+                "ship": "quadrijettransferspacetug",
+                "upgrades": {
+                    "crew": [
+                        "bobafett"
+                    ],
+                    "device": [
+                        "seismiccharges"
+                    ]
+                }
+            },
+            {
+                "id": "g4rgorvm",
+                "points": 28,
+                "ship": "m3ainterceptor",
+                "upgrades": {
+                    "cannon": [
+                        "jammingbeam"
+                    ]
+                }
+            },
+            {
+                "id": "constablezuvio",
+                "points": 56,
+                "ship": "quadrijettransferspacetug",
+                "upgrades": {
+                    "crew": [
+                        "lattsrazzi"
+                    ],
+                    "device": [
+                        "clustermines"
+                    ],
+                    "illicit": [
+                        "contrabandcybernetics"
+                    ],
+                    "modification": [
+                        "stealthdevice"
+                    ]
+                }
+            },
+            {
+                "id": "ndrusuhlak",
+                "points": 39,
+                "ship": "z95af4headhunter",
+                "upgrades": {
+                    "missile": [
+                        "concussionmissiles"
+                    ],
+                    "modification": [
+                        "angleddeflectors"
+                    ]
+                }
+            },
+            {
+                "id": "outerrimpioneer",
+                "points": 39,
+                "ship": "escapecraft",
+                "upgrades": {
+                    "modification": [
+                        "shieldupgrade"
+                    ],
+                    "talent": [
+                        "lonewolf"
+                    ]
+                }
+            }
+        ],
+        "points": 199,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "TTT": "William Krick",
+    "VassalForm1": "Williarn",
+    "VassalForm2": "Williarn"
+}

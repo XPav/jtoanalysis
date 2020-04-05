@@ -1,0 +1,165 @@
+{
+    "Add": "Finn to Rey",
+    "Discord": "RangdaBangda#5706",
+    "Drop": "Concussion Missiles from Jessika Pava",
+    "Final": {
+        "faction": "resistance",
+        "name": "RangdaBangda JTO",
+        "pilots": [
+            {
+                "id": "jessikapava",
+                "points": 62,
+                "ship": "t70xwing",
+                "upgrades": {
+                    "astromech": [
+                        "bb8"
+                    ],
+                    "configuration": [
+                        "integratedsfoils"
+                    ],
+                    "tech": [
+                        "ferrospherepaint"
+                    ]
+                }
+            },
+            {
+                "id": "jophseastriker",
+                "points": 58,
+                "ship": "t70xwing",
+                "upgrades": {
+                    "astromech": [
+                        "r2astromech"
+                    ],
+                    "configuration": [
+                        "integratedsfoils"
+                    ]
+                }
+            },
+            {
+                "id": "rey",
+                "points": 80,
+                "ship": "scavengedyt1300",
+                "upgrades": {
+                    "gunner": [
+                        "finn"
+                    ]
+                }
+            }
+        ],
+        "points": 200,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Name": "Alex Boho",
+    "Option1": {
+        "faction": "resistance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "jessikapava",
+                "points": 68,
+                "ship": "t70xwing",
+                "upgrades": {
+                    "astromech": [
+                        "bb8"
+                    ],
+                    "configuration": [
+                        "integratedsfoils"
+                    ],
+                    "missile": [
+                        "concussionmissiles"
+                    ],
+                    "tech": [
+                        "ferrospherepaint"
+                    ]
+                }
+            },
+            {
+                "id": "jophseastriker",
+                "points": 58,
+                "ship": "t70xwing",
+                "upgrades": {
+                    "astromech": [
+                        "r2astromech"
+                    ],
+                    "configuration": [
+                        "integratedsfoils"
+                    ]
+                }
+            },
+            {
+                "id": "rey",
+                "points": 70,
+                "ship": "scavengedyt1300",
+                "upgrades": {}
+            }
+        ],
+        "points": 196,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Option2": {
+        "faction": "firstorder",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "firstordertestpilot",
+                "points": 69,
+                "ship": "tievnsilencer",
+                "upgrades": {
+                    "missile": [
+                        "concussionmissiles"
+                    ],
+                    "talent": [
+                        "marksmanship"
+                    ],
+                    "torpedo": [
+                        "iontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "scorch",
+                "points": 42,
+                "ship": "tiefofighter",
+                "upgrades": {
+                    "modification": [
+                        "electronicbaffle"
+                    ],
+                    "talent": [
+                        "composure"
+                    ],
+                    "tech": [
+                        "targetingsynchronizer"
+                    ]
+                }
+            },
+            {
+                "id": "majorstridan",
+                "points": 88,
+                "ship": "upsilonclasscommandshuttle",
+                "upgrades": {
+                    "cannon": [
+                        "ioncannon"
+                    ],
+                    "crew": [
+                        "captainphasma"
+                    ],
+                    "sensor": [
+                        "firecontrolsystem"
+                    ],
+                    "tech": [
+                        "advancedoptics",
+                        "hyperspacetrackingdata"
+                    ]
+                }
+            }
+        ],
+        "points": 199,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "TTT": "Alex Boho",
+    "VassalForm1": "RangdaBangda",
+    "VassalForm2": "RangdaBangda"
+}

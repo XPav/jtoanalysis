@@ -1,0 +1,178 @@
+{
+    "Add": "Kanan Jarrus to Rebel Scout",
+    "Discord": "Sqwick",
+    "Drop": "GNK \u00e2\u20ac\u0153Gonk\u00e2\u20ac\u009d Droid from Rebel Scout",
+    "Final": {
+        "faction": "rebelalliance",
+        "name": "Sondre Auestad JTO",
+        "pilots": [
+            {
+                "id": "herasyndulla-vcx100lightfreighter",
+                "points": 125,
+                "ship": "vcx100lightfreighter",
+                "upgrades": {
+                    "crew": [
+                        "seasonednavigator",
+                        "sawgerrera"
+                    ],
+                    "gunner": [
+                        "hotshotgunner"
+                    ],
+                    "modification": [
+                        "shieldupgrade"
+                    ],
+                    "sensor": [
+                        "advancedsensors"
+                    ],
+                    "talent": [
+                        "marksmanship"
+                    ],
+                    "title": [
+                        "ghost"
+                    ],
+                    "torpedo": [
+                        "protontorpedoes"
+                    ],
+                    "turret": [
+                        "dorsalturret"
+                    ]
+                }
+            },
+            {
+                "id": "rebelscout",
+                "points": 73,
+                "ship": "hwk290lightfreighter",
+                "upgrades": {
+                    "crew": [
+                        "kananjarrus"
+                    ],
+                    "device": [
+                        "proximitymines"
+                    ],
+                    "modification": [
+                        "hullupgrade",
+                        "engineupgrade"
+                    ],
+                    "title": [
+                        "moldycrow"
+                    ]
+                }
+            }
+        ],
+        "points": 198,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Name": "Sondre Auestad",
+    "Option1": {
+        "faction": "rebelalliance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "herasyndulla-vcx100lightfreighter",
+                "points": 125,
+                "ship": "vcx100lightfreighter",
+                "upgrades": {
+                    "crew": [
+                        "seasonednavigator",
+                        "sawgerrera"
+                    ],
+                    "gunner": [
+                        "hotshotgunner"
+                    ],
+                    "modification": [
+                        "shieldupgrade"
+                    ],
+                    "sensor": [
+                        "advancedsensors"
+                    ],
+                    "talent": [
+                        "marksmanship"
+                    ],
+                    "title": [
+                        "ghost"
+                    ],
+                    "torpedo": [
+                        "protontorpedoes"
+                    ],
+                    "turret": [
+                        "dorsalturret"
+                    ]
+                }
+            },
+            {
+                "id": "rebelscout",
+                "points": 71,
+                "ship": "hwk290lightfreighter",
+                "upgrades": {
+                    "crew": [
+                        "gnkgonkdroid"
+                    ],
+                    "device": [
+                        "proximitymines"
+                    ],
+                    "modification": [
+                        "hullupgrade",
+                        "engineupgrade"
+                    ],
+                    "title": [
+                        "moldycrow"
+                    ]
+                }
+            }
+        ],
+        "points": 196,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Option2": {
+        "faction": "galacticempire",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "lieutenantkestal",
+                "points": 42,
+                "ship": "tieagaggressor",
+                "upgrades": {
+                    "gunner": [
+                        "fifthbrother"
+                    ]
+                }
+            },
+            {
+                "id": "scimitarsquadronpilot",
+                "points": 27,
+                "ship": "tiesabomber",
+                "upgrades": {}
+            },
+            {
+                "id": "gammasquadronace",
+                "points": 30,
+                "ship": "tiesabomber",
+                "upgrades": {}
+            },
+            {
+                "id": "deathrain",
+                "points": 50,
+                "ship": "tiecapunisher",
+                "upgrades": {
+                    "torpedo": [
+                        "iontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "captainkagi",
+                "points": 48,
+                "ship": "lambdaclasst4ashuttle",
+                "upgrades": {}
+            }
+        ],
+        "points": 197,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "TTT": "Sondre Auestad",
+    "VassalForm1": "Sqwick",
+    "VassalForm2": "Porg Sondre"
+}

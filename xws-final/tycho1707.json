@@ -1,0 +1,166 @@
+{
+    "Add": "Autoblasters on Sunny Bounder",
+    "Discord": "tycho1707",
+    "Drop": "None",
+    "Final": {
+        "faction": "scumandvillainy",
+        "name": "Brandon Carey JTO",
+        "pilots": [
+            {
+                "id": "moraloeval",
+                "points": 89,
+                "ship": "yv666lightfreighter",
+                "upgrades": {
+                    "crew": [
+                        "perceptivecopilot",
+                        "gnkgonkdroid"
+                    ],
+                    "illicit": [
+                        "feedbackarray"
+                    ],
+                    "modification": [
+                        "electronicbaffle"
+                    ]
+                }
+            },
+            {
+                "id": "torkilmux",
+                "points": 59,
+                "ship": "hwk290lightfreighter",
+                "upgrades": {
+                    "device": [
+                        "seismiccharges"
+                    ],
+                    "title": [
+                        "moldycrow"
+                    ]
+                }
+            },
+            {
+                "id": "miningguildsentry",
+                "points": 22,
+                "ship": "modifiedtielnfighter",
+                "upgrades": {}
+            },
+            {
+                "id": "sunnybounder",
+                "points": 30,
+                "ship": "m3ainterceptor",
+                "upgrades": {
+                    "cannon": [
+                        "autoblasters"
+                    ]
+                }
+            }
+        ],
+        "points": 200,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Name": "Brandon Carey",
+    "Option1": {
+        "faction": "scumandvillainy",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "moraloeval",
+                "points": 89,
+                "ship": "yv666lightfreighter",
+                "upgrades": {
+                    "crew": [
+                        "perceptivecopilot",
+                        "gnkgonkdroid"
+                    ],
+                    "illicit": [
+                        "feedbackarray"
+                    ],
+                    "modification": [
+                        "electronicbaffle"
+                    ]
+                }
+            },
+            {
+                "id": "torkilmux",
+                "points": 59,
+                "ship": "hwk290lightfreighter",
+                "upgrades": {
+                    "device": [
+                        "seismiccharges"
+                    ],
+                    "title": [
+                        "moldycrow"
+                    ]
+                }
+            },
+            {
+                "id": "miningguildsentry",
+                "points": 22,
+                "ship": "modifiedtielnfighter",
+                "upgrades": {}
+            },
+            {
+                "id": "sunnybounder",
+                "points": 27,
+                "ship": "m3ainterceptor",
+                "upgrades": {}
+            }
+        ],
+        "points": 197,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Option2": {
+        "faction": "galacticrepublic",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "swoop",
+                "points": 36,
+                "ship": "v19torrentstarfighter",
+                "upgrades": {
+                    "missile": [
+                        "clustermissiles"
+                    ]
+                }
+            },
+            {
+                "id": "ricolie",
+                "points": 48,
+                "ship": "nabooroyaln1starfighter",
+                "upgrades": {
+                    "sensor": [
+                        "collisiondetector"
+                    ]
+                }
+            },
+            {
+                "id": "broadside",
+                "points": 48,
+                "ship": "btlbywing",
+                "upgrades": {
+                    "gunner": [
+                        "ahsokatano"
+                    ]
+                }
+            },
+            {
+                "id": "axe",
+                "points": 32,
+                "ship": "v19torrentstarfighter",
+                "upgrades": {}
+            },
+            {
+                "id": "bravoflightofficer",
+                "points": 33,
+                "ship": "nabooroyaln1starfighter",
+                "upgrades": {}
+            }
+        ],
+        "points": 197,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "TTT": "Brandon Carey",
+    "VassalForm1": "tycho1707",
+    "VassalForm2": "tycho1707"
+}

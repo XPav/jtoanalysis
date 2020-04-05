@@ -1,0 +1,168 @@
+{
+    "Add": "Fearless to OldTeroch ",
+    "Discord": "Therealfunbobby",
+    "Drop": "Swarm tactics from Palob",
+    "Final": {
+        "faction": "scumandvillainy",
+        "name": "Fun Bobby JTO",
+        "pilots": [
+            {
+                "id": "palobgodalhi",
+                "points": 62,
+                "ship": "hwk290lightfreighter",
+                "upgrades": {
+                    "crew": [
+                        "l337"
+                    ],
+                    "title": [
+                        "moldycrow"
+                    ]
+                }
+            },
+            {
+                "id": "oldteroch",
+                "points": 65,
+                "ship": "fangfighter",
+                "upgrades": {
+                    "talent": [
+                        "fearless"
+                    ],
+                    "torpedo": [
+                        "advprotontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "unkarplutt",
+                "points": 33,
+                "ship": "quadrijettransferspacetug",
+                "upgrades": {
+                    "crew": [
+                        "freelanceslicer"
+                    ]
+                }
+            },
+            {
+                "id": "sarcoplank",
+                "points": 40,
+                "ship": "quadrijettransferspacetug",
+                "upgrades": {
+                    "device": [
+                        "clustermines"
+                    ]
+                }
+            }
+        ],
+        "points": 200,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Name": "Bobby Ott",
+    "Option1": {
+        "faction": "firstorder",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "epsilonsquadroncadet",
+                "points": 33,
+                "ship": "tiefofighter",
+                "upgrades": {
+                    "modification": [
+                        "targetingcomputer"
+                    ],
+                    "tech": [
+                        "patternanalyzer"
+                    ]
+                }
+            },
+            {
+                "id": "majorstridan",
+                "points": 99,
+                "ship": "upsilonclasscommandshuttle",
+                "upgrades": {
+                    "cannon": [
+                        "ioncannon"
+                    ],
+                    "crew": [
+                        "supremeleadersnoke"
+                    ],
+                    "tech": [
+                        "deuteriumpowercells",
+                        "hyperspacetrackingdata"
+                    ]
+                }
+            },
+            {
+                "id": "rush",
+                "points": 63,
+                "ship": "tievnsilencer",
+                "upgrades": {
+                    "torpedo": [
+                        "iontorpedoes"
+                    ]
+                }
+            }
+        ],
+        "points": 195,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Option2": {
+        "faction": "scumandvillainy",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "palobgodalhi",
+                "points": 65,
+                "ship": "hwk290lightfreighter",
+                "upgrades": {
+                    "crew": [
+                        "l337"
+                    ],
+                    "talent": [
+                        "swarmtactics"
+                    ],
+                    "title": [
+                        "moldycrow"
+                    ]
+                }
+            },
+            {
+                "id": "oldteroch",
+                "points": 62,
+                "ship": "fangfighter",
+                "upgrades": {
+                    "torpedo": [
+                        "advprotontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "unkarplutt",
+                "points": 33,
+                "ship": "quadrijettransferspacetug",
+                "upgrades": {
+                    "crew": [
+                        "freelanceslicer"
+                    ]
+                }
+            },
+            {
+                "id": "sarcoplank",
+                "points": 40,
+                "ship": "quadrijettransferspacetug",
+                "upgrades": {
+                    "device": [
+                        "clustermines"
+                    ]
+                }
+            }
+        ],
+        "points": 200,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "TTT": "Bobby Ott",
+    "VassalForm1": "Bobby ott",
+    "VassalForm2": "Bobby Ott"
+}

@@ -1,0 +1,205 @@
+{
+    "Add": "Tractor Beam (Cannon) on Serissu",
+    "Discord": "Kerbocat#5844",
+    "Drop": "Targetting Computer from Serissu",
+    "Final": {
+        "faction": "scumandvillainy",
+        "name": "Jan Ullerup JTO",
+        "pilots": [
+            {
+                "id": "autopilotdrone",
+                "points": 12,
+                "ship": "escapecraft",
+                "upgrades": {}
+            },
+            {
+                "id": "landocalrissian-escapecraft",
+                "points": 33,
+                "ship": "escapecraft",
+                "upgrades": {
+                    "crew": [
+                        "freelanceslicer"
+                    ],
+                    "talent": [
+                        "marksmanship"
+                    ]
+                }
+            },
+            {
+                "id": "lattsrazzi",
+                "points": 66,
+                "ship": "yv666lightfreighter",
+                "upgrades": {
+                    "crew": [
+                        "chewbacca-crew"
+                    ],
+                    "gunner": [
+                        "bt1"
+                    ],
+                    "illicit": [
+                        "deadmansswitch"
+                    ],
+                    "title": [
+                        "houndstooth"
+                    ]
+                }
+            },
+            {
+                "id": "unkarplutt",
+                "points": 43,
+                "ship": "quadrijettransferspacetug",
+                "upgrades": {
+                    "device": [
+                        "ionbombs"
+                    ],
+                    "illicit": [
+                        "deadmansswitch"
+                    ],
+                    "tech": [
+                        "patternanalyzer"
+                    ]
+                }
+            },
+            {
+                "id": "serissu",
+                "points": 44,
+                "ship": "m3ainterceptor",
+                "upgrades": {
+                    "cannon": [
+                        "tractorbeam"
+                    ]
+                }
+            }
+        ],
+        "points": 198,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Name": "Jan Ullerup",
+    "Option1": {
+        "faction": "galacticrepublic",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "wolffe",
+                "points": 69,
+                "ship": "arc170starfighter",
+                "upgrades": {
+                    "astromech": [
+                        "r2a6"
+                    ],
+                    "crew": [
+                        "perceptivecopilot"
+                    ],
+                    "modification": [
+                        "electronicbaffle"
+                    ],
+                    "talent": [
+                        "intimidation"
+                    ]
+                }
+            },
+            {
+                "id": "goldsquadrontrooper",
+                "points": 31,
+                "ship": "v19torrentstarfighter",
+                "upgrades": {
+                    "modification": [
+                        "afterburners"
+                    ]
+                }
+            },
+            {
+                "id": "r2d2",
+                "points": 35,
+                "ship": "btlbywing",
+                "upgrades": {}
+            },
+            {
+                "id": "anakinskywalker-btlbywing",
+                "points": 60,
+                "ship": "btlbywing",
+                "upgrades": {}
+            }
+        ],
+        "points": 195,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Option2": {
+        "faction": "scumandvillainy",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "autopilotdrone",
+                "points": 12,
+                "ship": "escapecraft",
+                "upgrades": {}
+            },
+            {
+                "id": "landocalrissian-escapecraft",
+                "points": 33,
+                "ship": "escapecraft",
+                "upgrades": {
+                    "crew": [
+                        "freelanceslicer"
+                    ],
+                    "talent": [
+                        "marksmanship"
+                    ]
+                }
+            },
+            {
+                "id": "lattsrazzi",
+                "points": 66,
+                "ship": "yv666lightfreighter",
+                "upgrades": {
+                    "crew": [
+                        "chewbacca-crew"
+                    ],
+                    "gunner": [
+                        "bt1"
+                    ],
+                    "illicit": [
+                        "deadmansswitch"
+                    ],
+                    "title": [
+                        "houndstooth"
+                    ]
+                }
+            },
+            {
+                "id": "unkarplutt",
+                "points": 43,
+                "ship": "quadrijettransferspacetug",
+                "upgrades": {
+                    "device": [
+                        "ionbombs"
+                    ],
+                    "illicit": [
+                        "deadmansswitch"
+                    ],
+                    "tech": [
+                        "patternanalyzer"
+                    ]
+                }
+            },
+            {
+                "id": "serissu",
+                "points": 44,
+                "ship": "m3ainterceptor",
+                "upgrades": {
+                    "modification": [
+                        "targetingcomputer"
+                    ]
+                }
+            }
+        ],
+        "points": 198,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "TTT": "Jan Ullerup",
+    "VassalForm1": "Kerbocat",
+    "VassalForm2": "Kerbocat"
+}

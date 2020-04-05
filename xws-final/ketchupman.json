@@ -1,0 +1,183 @@
+{
+    "Add": "Virago to Black Sun Assassin",
+    "Discord": "ketchupman#3639",
+    "Drop": "Static Discharge Veins from Graz",
+    "Final": {
+        "faction": "scumandvillainy",
+        "name": "Joe Detchemendy JTO",
+        "obstacles": [
+            "coreasteroid5",
+            "gascloud2",
+            "gascloud5"
+        ],
+        "pilots": [
+            {
+                "id": "graz",
+                "points": 48,
+                "ship": "kihraxzfighter",
+                "upgrades": {
+                    "illicit": [
+                        "deadmansswitch"
+                    ]
+                }
+            },
+            {
+                "id": "blacksunassassin",
+                "points": 56,
+                "ship": "starviperclassattackplatform",
+                "upgrades": {
+                    "title": [
+                        "virago"
+                    ]
+                }
+            },
+            {
+                "id": "outerrimpioneer",
+                "points": 30,
+                "ship": "escapecraft",
+                "upgrades": {
+                    "talent": [
+                        "predator"
+                    ]
+                }
+            },
+            {
+                "id": "sarcoplank",
+                "points": 34,
+                "ship": "quadrijettransferspacetug",
+                "upgrades": {
+                    "modification": [
+                        "electronicbaffle"
+                    ]
+                }
+            },
+            {
+                "id": "genesisred",
+                "points": 31,
+                "ship": "m3ainterceptor",
+                "upgrades": {}
+            }
+        ],
+        "points": 199,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Name": "Joe Detchemendy",
+    "Option1": {
+        "faction": "scumandvillainy",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "graz",
+                "points": 54,
+                "ship": "kihraxzfighter",
+                "upgrades": {
+                    "illicit": [
+                        "deadmansswitch"
+                    ],
+                    "modification": [
+                        "staticdischargevanes"
+                    ]
+                }
+            },
+            {
+                "id": "blacksunassassin",
+                "points": 48,
+                "ship": "starviperclassattackplatform",
+                "upgrades": {}
+            },
+            {
+                "id": "outerrimpioneer",
+                "points": 30,
+                "ship": "escapecraft",
+                "upgrades": {
+                    "talent": [
+                        "predator"
+                    ]
+                }
+            },
+            {
+                "id": "sarcoplank",
+                "points": 34,
+                "ship": "quadrijettransferspacetug",
+                "upgrades": {
+                    "modification": [
+                        "electronicbaffle"
+                    ]
+                }
+            },
+            {
+                "id": "genesisred",
+                "points": 31,
+                "ship": "m3ainterceptor",
+                "upgrades": {}
+            }
+        ],
+        "points": 197,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Option2": {
+        "faction": "separatistalliance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "countdooku",
+                "points": 83,
+                "ship": "sithinfiltrator",
+                "upgrades": {
+                    "cannon": [
+                        "jammingbeam"
+                    ],
+                    "crew": [
+                        "chancellorpalpatine"
+                    ],
+                    "force-power": [
+                        "predictiveshot"
+                    ],
+                    "tacticalrelay": [
+                        "tv94"
+                    ]
+                }
+            },
+            {
+                "id": "tradefederationdrone",
+                "points": 25,
+                "ship": "vultureclassdroidfighter",
+                "upgrades": {
+                    "missile": [
+                        "concussionmissiles"
+                    ]
+                }
+            },
+            {
+                "id": "darkcourier",
+                "points": 64,
+                "ship": "sithinfiltrator",
+                "upgrades": {
+                    "cannon": [
+                        "ioncannon"
+                    ],
+                    "crew": [
+                        "generalgrievous"
+                    ],
+                    "modification": [
+                        "stealthdevice"
+                    ]
+                }
+            },
+            {
+                "id": "dfs081",
+                "points": 26,
+                "ship": "vultureclassdroidfighter",
+                "upgrades": {}
+            }
+        ],
+        "points": 198,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "TTT": "Joe Detchemendy",
+    "VassalForm1": "ketchupman",
+    "VassalForm2": "ketchupman"
+}

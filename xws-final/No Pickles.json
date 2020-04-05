@@ -1,0 +1,161 @@
+{
+    "Add": "CLT on Saesee",
+    "Discord": "Des Darklighter",
+    "Drop": "None",
+    "Final": {
+        "faction": "galacticrepublic",
+        "name": "Janky Jedi",
+        "pilots": [
+            {
+                "id": "barrissoffee",
+                "points": 38,
+                "ship": "delta7aethersprite",
+                "upgrades": {}
+            },
+            {
+                "id": "saeseetiin",
+                "points": 46,
+                "ship": "delta7aethersprite",
+                "upgrades": {
+                    "configuration": [
+                        "calibratedlasertargeting"
+                    ]
+                }
+            },
+            {
+                "id": "goldsquadrontrooper",
+                "points": 29,
+                "ship": "v19torrentstarfighter",
+                "upgrades": {
+                    "missile": [
+                        "ionmissiles"
+                    ]
+                }
+            },
+            {
+                "id": "goji",
+                "points": 32,
+                "ship": "btlbywing",
+                "upgrades": {}
+            },
+            {
+                "id": "wolffe",
+                "points": 54,
+                "ship": "arc170starfighter",
+                "upgrades": {
+                    "crew": [
+                        "novicetechnician"
+                    ]
+                }
+            }
+        ],
+        "points": 199,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Name": "Jared Plitt",
+    "Option1": {
+        "faction": "galacticrepublic",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "goldsquadrontrooper",
+                "points": 29,
+                "ship": "v19torrentstarfighter",
+                "upgrades": {
+                    "missile": [
+                        "ionmissiles"
+                    ]
+                }
+            },
+            {
+                "id": "wolffe",
+                "points": 54,
+                "ship": "arc170starfighter",
+                "upgrades": {
+                    "crew": [
+                        "novicetechnician"
+                    ]
+                }
+            },
+            {
+                "id": "barrissoffee",
+                "points": 38,
+                "ship": "delta7aethersprite",
+                "upgrades": {}
+            },
+            {
+                "id": "saeseetiin",
+                "points": 43,
+                "ship": "delta7aethersprite",
+                "upgrades": {}
+            },
+            {
+                "id": "goji",
+                "points": 32,
+                "ship": "btlbywing",
+                "upgrades": {}
+            }
+        ],
+        "points": 196,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Option2": {
+        "faction": "rebelalliance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "herasyndulla",
+                "points": 38,
+                "ship": "attackshuttle",
+                "upgrades": {
+                    "title": [
+                        "phantom"
+                    ]
+                }
+            },
+            {
+                "id": "bluesquadronpilot",
+                "points": 63,
+                "ship": "asf01bwing",
+                "upgrades": {
+                    "cannon": [
+                        "ioncannon",
+                        "heavylasercannon"
+                    ],
+                    "configuration": [
+                        "stabilizedsfoils"
+                    ],
+                    "torpedo": [
+                        "plasmatorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "zeborrelios-sheathipedeclassshuttle",
+                "points": 34,
+                "ship": "sheathipedeclassshuttle",
+                "upgrades": {}
+            },
+            {
+                "id": "talasquadronpilot",
+                "points": 24,
+                "ship": "z95af4headhunter",
+                "upgrades": {}
+            },
+            {
+                "id": "airencracken",
+                "points": 36,
+                "ship": "z95af4headhunter",
+                "upgrades": {}
+            }
+        ],
+        "points": 195,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "TTT": "No Pickles",
+    "VassalForm1": "No Pickles",
+    "VassalForm2": "No Pickles "
+}

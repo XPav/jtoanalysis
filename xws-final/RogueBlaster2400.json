@@ -1,0 +1,184 @@
+{
+    "Add": "First Order Provocateur (TIE/Ba Interceptor) - Proton Rockets",
+    "Discord": "RogueBlaster2400 (Anthony)#4105",
+    "Drop": "Lt. LeHuse (TIE/sf Fighter) - Trajectory Simulator",
+    "Final": {
+        "faction": "firstorder",
+        "name": "RogueBlaster2400 JTO",
+        "pilots": [
+            {
+                "id": "lieutenantlehuse",
+                "points": 44,
+                "ship": "tiesffighter",
+                "upgrades": {
+                    "gunner": [
+                        "skilledbombardier"
+                    ],
+                    "modification": [
+                        "angleddeflectors"
+                    ]
+                }
+            },
+            {
+                "id": "firstorderprovocateur",
+                "points": 63,
+                "ship": "tiebainterceptor",
+                "upgrades": {
+                    "missile": [
+                        "protonrockets"
+                    ],
+                    "modification": [
+                        "stealthdevice"
+                    ],
+                    "talent": [
+                        "proudtradition"
+                    ],
+                    "tech": [
+                        "biohexacryptcodes"
+                    ]
+                }
+            },
+            {
+                "id": "null",
+                "points": 30,
+                "ship": "tiefofighter",
+                "upgrades": {}
+            },
+            {
+                "id": "majorvonreg",
+                "points": 59,
+                "ship": "tiebainterceptor",
+                "upgrades": {
+                    "talent": [
+                        "fanatical"
+                    ]
+                }
+            }
+        ],
+        "points": 196,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Name": "AJ Scarson",
+    "Option1": {
+        "faction": "firstorder",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "lieutenantlehuse",
+                "points": 50,
+                "ship": "tiesffighter",
+                "upgrades": {
+                    "gunner": [
+                        "skilledbombardier"
+                    ],
+                    "modification": [
+                        "angleddeflectors"
+                    ],
+                    "sensor": [
+                        "trajectorysimulator"
+                    ]
+                }
+            },
+            {
+                "id": "firstorderprovocateur",
+                "points": 56,
+                "ship": "tiebainterceptor",
+                "upgrades": {
+                    "modification": [
+                        "stealthdevice"
+                    ],
+                    "talent": [
+                        "proudtradition"
+                    ],
+                    "tech": [
+                        "biohexacryptcodes"
+                    ]
+                }
+            },
+            {
+                "id": "null",
+                "points": 30,
+                "ship": "tiefofighter",
+                "upgrades": {}
+            },
+            {
+                "id": "majorvonreg",
+                "points": 59,
+                "ship": "tiebainterceptor",
+                "upgrades": {
+                    "talent": [
+                        "fanatical"
+                    ]
+                }
+            }
+        ],
+        "points": 195,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Option2": {
+        "faction": "galacticempire",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "turrphennir",
+                "points": 45,
+                "ship": "tieininterceptor",
+                "upgrades": {
+                    "modification": [
+                        "munitionsfailsafe"
+                    ],
+                    "talent": [
+                        "predator"
+                    ]
+                }
+            },
+            {
+                "id": "majorvynder",
+                "points": 57,
+                "ship": "alphaclassstarwing",
+                "upgrades": {
+                    "configuration": [
+                        "os1arsenalloadout"
+                    ],
+                    "missile": [
+                        "clustermissiles",
+                        "concussionmissiles"
+                    ],
+                    "talent": [
+                        "lonewolf"
+                    ]
+                }
+            },
+            {
+                "id": "seventhsister",
+                "points": 53,
+                "ship": "tieadvancedv1",
+                "upgrades": {
+                    "force-power": [
+                        "brilliantevasion"
+                    ],
+                    "missile": [
+                        "homingmissiles"
+                    ],
+                    "sensor": [
+                        "firecontrolsystem"
+                    ]
+                }
+            },
+            {
+                "id": "omicrongrouppilot",
+                "points": 43,
+                "ship": "lambdaclasst4ashuttle",
+                "upgrades": {}
+            }
+        ],
+        "points": 198,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "TTT": "AJ Scarson",
+    "VassalForm1": "RogueBlaster2400",
+    "VassalForm2": "RogueBlaster2400"
+}

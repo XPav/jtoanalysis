@@ -1,0 +1,147 @@
+{
+    "Add": "Pattern Analyzer to Sarco",
+    "Discord": "dragoonkain#6338",
+    "Drop": "Plasma Torps from Fenn",
+    "Final": {
+        "faction": "scumandvillainy",
+        "name": "Brendon Osmann-Deyman JTO",
+        "pilots": [
+            {
+                "id": "sarcoplank",
+                "points": 45,
+                "ship": "quadrijettransferspacetug",
+                "upgrades": {
+                    "crew": [
+                        "landocalrissian-crew"
+                    ],
+                    "tech": [
+                        "patternanalyzer"
+                    ]
+                }
+            },
+            {
+                "id": "dacebonearm",
+                "points": 33,
+                "ship": "hwk290lightfreighter",
+                "upgrades": {}
+            },
+            {
+                "id": "toranikulda",
+                "points": 48,
+                "ship": "m12lkimogilafighter",
+                "upgrades": {}
+            },
+            {
+                "id": "fennrau",
+                "points": 68,
+                "ship": "fangfighter",
+                "upgrades": {}
+            }
+        ],
+        "points": 194,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Name": "Brendon Osmann-Deyman",
+    "Option1": {
+        "faction": "separatistalliance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "generalgrievous",
+                "points": 61,
+                "ship": "belbullab22starfighter",
+                "upgrades": {
+                    "tacticalrelay": [
+                        "ta175"
+                    ],
+                    "talent": [
+                        "treacherous"
+                    ],
+                    "title": [
+                        "soullessone"
+                    ]
+                }
+            },
+            {
+                "id": "stalgasinhiveguard",
+                "points": 40,
+                "ship": "nantexclassstarfighter",
+                "upgrades": {
+                    "talent": [
+                        "outmaneuver"
+                    ]
+                }
+            },
+            {
+                "id": "darkcourier",
+                "points": 77,
+                "ship": "sithinfiltrator",
+                "upgrades": {
+                    "cannon": [
+                        "autoblasters"
+                    ],
+                    "crew": [
+                        "countdooku"
+                    ],
+                    "torpedo": [
+                        "protontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "haorchallprototype",
+                "points": 21,
+                "ship": "vultureclassdroidfighter",
+                "upgrades": {}
+            }
+        ],
+        "points": 199,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Option2": {
+        "faction": "scumandvillainy",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "sarcoplank",
+                "points": 40,
+                "ship": "quadrijettransferspacetug",
+                "upgrades": {
+                    "crew": [
+                        "landocalrissian-crew"
+                    ]
+                }
+            },
+            {
+                "id": "fennrau",
+                "points": 77,
+                "ship": "fangfighter",
+                "upgrades": {
+                    "torpedo": [
+                        "plasmatorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "toranikulda",
+                "points": 48,
+                "ship": "m12lkimogilafighter",
+                "upgrades": {}
+            },
+            {
+                "id": "dacebonearm",
+                "points": 33,
+                "ship": "hwk290lightfreighter",
+                "upgrades": {}
+            }
+        ],
+        "points": 198,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "TTT": "Brendon Osmann-Deyman",
+    "VassalForm1": "Dragoon",
+    "VassalForm2": "Dragoon"
+}

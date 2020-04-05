@@ -1,0 +1,172 @@
+{
+    "Add": "C1-10P astromech to Barries Offree ",
+    "Discord": "DukeofHobbies#7036",
+    "Drop": "Angled Deflectors from 104th Battalion Pilot (ARC170 i2 Pilot)",
+    "Final": {
+        "faction": "galacticrepublic",
+        "name": "Nick Yurko JTO",
+        "pilots": [
+            {
+                "id": "anakinskywalker-nabooroyaln1starfighter",
+                "points": 49,
+                "ship": "nabooroyaln1starfighter",
+                "upgrades": {
+                    "astromech": [
+                        "r2astromech"
+                    ],
+                    "talent": [
+                        "crackshot"
+                    ]
+                }
+            },
+            {
+                "id": "padmeamidala",
+                "points": 62,
+                "ship": "nabooroyaln1starfighter",
+                "upgrades": {
+                    "astromech": [
+                        "r2astromech"
+                    ],
+                    "sensor": [
+                        "advancedsensors"
+                    ]
+                }
+            },
+            {
+                "id": "104thbattalionpilot",
+                "points": 42,
+                "ship": "arc170starfighter",
+                "upgrades": {}
+            },
+            {
+                "id": "barrissoffee",
+                "points": 45,
+                "ship": "delta7aethersprite",
+                "upgrades": {
+                    "astromech": [
+                        "c110p"
+                    ]
+                }
+            }
+        ],
+        "points": 198,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Name": "Nick Yurko",
+    "Option1": {
+        "faction": "rebelalliance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "mirandadoni",
+                "points": 101,
+                "ship": "btls8kwing",
+                "upgrades": {
+                    "crew": [
+                        "c3po"
+                    ],
+                    "device": [
+                        "clustermines"
+                    ],
+                    "gunner": [
+                        "bistan"
+                    ],
+                    "missile": [
+                        "clustermissiles",
+                        "homingmissiles"
+                    ],
+                    "modification": [
+                        "angleddeflectors"
+                    ],
+                    "torpedo": [
+                        "protontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "zeborrelios-tielnfighter",
+                "points": 32,
+                "ship": "tielnfighter",
+                "upgrades": {
+                    "modification": [
+                        "shieldupgrade"
+                    ]
+                }
+            },
+            {
+                "id": "airencracken",
+                "points": 42,
+                "ship": "z95af4headhunter",
+                "upgrades": {
+                    "missile": [
+                        "magpulsewarheads"
+                    ]
+                }
+            },
+            {
+                "id": "talasquadronpilot",
+                "points": 24,
+                "ship": "z95af4headhunter",
+                "upgrades": {}
+            }
+        ],
+        "points": 199,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Option2": {
+        "faction": "galacticrepublic",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "anakinskywalker-nabooroyaln1starfighter",
+                "points": 49,
+                "ship": "nabooroyaln1starfighter",
+                "upgrades": {
+                    "astromech": [
+                        "r2astromech"
+                    ],
+                    "talent": [
+                        "crackshot"
+                    ]
+                }
+            },
+            {
+                "id": "padmeamidala",
+                "points": 62,
+                "ship": "nabooroyaln1starfighter",
+                "upgrades": {
+                    "astromech": [
+                        "r2astromech"
+                    ],
+                    "sensor": [
+                        "advancedsensors"
+                    ]
+                }
+            },
+            {
+                "id": "104thbattalionpilot",
+                "points": 48,
+                "ship": "arc170starfighter",
+                "upgrades": {
+                    "modification": [
+                        "angleddeflectors"
+                    ]
+                }
+            },
+            {
+                "id": "barrissoffee",
+                "points": 38,
+                "ship": "delta7aethersprite",
+                "upgrades": {}
+            }
+        ],
+        "points": 197,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "TTT": "DukeofHobbies",
+    "VassalForm1": "Duke of Hobbies",
+    "VassalForm2": "Duke of Hobbies"
+}

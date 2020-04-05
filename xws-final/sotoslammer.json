@@ -1,0 +1,180 @@
+{
+    "Add": "Hull Upgrade on Serissu",
+    "Discord": "sotoslammer#5037",
+    "Drop": "Debris Gambit from Serissu",
+    "Final": {
+        "faction": "scumandvillainy",
+        "name": "Brendan Desjarlais JTO",
+        "pilots": [
+            {
+                "id": "kathscarlet",
+                "points": 90,
+                "ship": "firesprayclasspatrolcraft",
+                "upgrades": {
+                    "cannon": [
+                        "tractorbeam"
+                    ],
+                    "crew": [
+                        "ig88d"
+                    ],
+                    "device": [
+                        "ionbombs"
+                    ],
+                    "illicit": [
+                        "deadmansswitch"
+                    ],
+                    "missile": [
+                        "ionmissiles"
+                    ]
+                }
+            },
+            {
+                "id": "serissu",
+                "points": 48,
+                "ship": "m3ainterceptor",
+                "upgrades": {
+                    "modification": [
+                        "hullupgrade"
+                    ]
+                }
+            },
+            {
+                "id": "autopilotdrone",
+                "points": 12,
+                "ship": "escapecraft",
+                "upgrades": {}
+            },
+            {
+                "id": "skullsquadronpilot",
+                "points": 50,
+                "ship": "fangfighter",
+                "upgrades": {
+                    "talent": [
+                        "fearless"
+                    ]
+                }
+            }
+        ],
+        "points": 200,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Name": "Brendan Desjarlais",
+    "Option1": {
+        "faction": "scumandvillainy",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "kathscarlet",
+                "points": 90,
+                "ship": "firesprayclasspatrolcraft",
+                "upgrades": {
+                    "cannon": [
+                        "tractorbeam"
+                    ],
+                    "crew": [
+                        "ig88d"
+                    ],
+                    "device": [
+                        "ionbombs"
+                    ],
+                    "illicit": [
+                        "deadmansswitch"
+                    ],
+                    "missile": [
+                        "ionmissiles"
+                    ]
+                }
+            },
+            {
+                "id": "serissu",
+                "points": 45,
+                "ship": "m3ainterceptor",
+                "upgrades": {
+                    "talent": [
+                        "debrisgambit"
+                    ]
+                }
+            },
+            {
+                "id": "autopilotdrone",
+                "points": 12,
+                "ship": "escapecraft",
+                "upgrades": {}
+            },
+            {
+                "id": "skullsquadronpilot",
+                "points": 50,
+                "ship": "fangfighter",
+                "upgrades": {
+                    "talent": [
+                        "fearless"
+                    ]
+                }
+            }
+        ],
+        "points": 197,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Option2": {
+        "faction": "resistance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "jaycristubbs",
+                "points": 51,
+                "ship": "t70xwing",
+                "upgrades": {
+                    "configuration": [
+                        "integratedsfoils"
+                    ],
+                    "modification": [
+                        "angleddeflectors"
+                    ]
+                }
+            },
+            {
+                "id": "vennie",
+                "points": 59,
+                "ship": "mg100starfortress",
+                "upgrades": {
+                    "sensor": [
+                        "passivesensors"
+                    ]
+                }
+            },
+            {
+                "id": "logisticsdivisionpilot",
+                "points": 60,
+                "ship": "resistancetransport",
+                "upgrades": {
+                    "astromech": [
+                        "r5astromech"
+                    ],
+                    "cannon": [
+                        "ioncannon"
+                    ],
+                    "crew": [
+                        "chewbacca-crew-swz19"
+                    ],
+                    "torpedo": [
+                        "protontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "colossusstationmechanic",
+                "points": 26,
+                "ship": "fireball",
+                "upgrades": {}
+            }
+        ],
+        "points": 196,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "TTT": "Brendan Desjarlais",
+    "VassalForm1": "sotoslammer",
+    "VassalForm2": "sotoslammer"
+}

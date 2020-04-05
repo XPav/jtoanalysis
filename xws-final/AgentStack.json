@@ -1,0 +1,166 @@
+{
+    "Add": "Sense, ezra bridger tie",
+    "Discord": "7752",
+    "Drop": "None",
+    "Final": {
+        "faction": "rebelalliance",
+        "name": "AgentStack JTO",
+        "obstacles": [
+            "coreasteroid3",
+            "core2asteroid3",
+            "gascloud3loud3oud3"
+        ],
+        "pilots": [
+            {
+                "id": "gavindarklighter",
+                "points": 77,
+                "ship": "ewing",
+                "upgrades": {
+                    "astromech": [
+                        "r3astromech"
+                    ],
+                    "torpedo": [
+                        "protontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "bluesquadronescort",
+                "points": 40,
+                "ship": "t65xwing",
+                "upgrades": {
+                    "configuration": [
+                        "servomotorsfoils"
+                    ]
+                }
+            },
+            {
+                "id": "ezrabridger-tielnfighter",
+                "points": 36,
+                "ship": "tielnfighter",
+                "upgrades": {
+                    "force-power": [
+                        "sense"
+                    ]
+                }
+            },
+            {
+                "id": "herasyndulla",
+                "points": 47,
+                "ship": "attackshuttle",
+                "upgrades": {
+                    "talent": [
+                        "debrisgambit"
+                    ],
+                    "turret": [
+                        "ioncannonturret"
+                    ]
+                }
+            }
+        ],
+        "points": 200,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Name": "Matt McAllister ",
+    "Option1": {
+        "faction": "rebelalliance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "gavindarklighter",
+                "points": 77,
+                "ship": "ewing",
+                "upgrades": {
+                    "astromech": [
+                        "r3astromech"
+                    ],
+                    "torpedo": [
+                        "protontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "bluesquadronescort",
+                "points": 40,
+                "ship": "t65xwing",
+                "upgrades": {
+                    "configuration": [
+                        "servomotorsfoils"
+                    ]
+                }
+            },
+            {
+                "id": "ezrabridger-tielnfighter",
+                "points": 31,
+                "ship": "tielnfighter",
+                "upgrades": {}
+            },
+            {
+                "id": "herasyndulla",
+                "points": 47,
+                "ship": "attackshuttle",
+                "upgrades": {
+                    "talent": [
+                        "debrisgambit"
+                    ],
+                    "turret": [
+                        "ioncannonturret"
+                    ]
+                }
+            }
+        ],
+        "points": 195,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Option2": {
+        "faction": "scumandvillainy",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "crymorahgoon",
+                "points": 60,
+                "ship": "btla4ywing",
+                "upgrades": {
+                    "astromech": [
+                        "genius"
+                    ],
+                    "device": [
+                        "electroprotonbomb"
+                    ],
+                    "gunner": [
+                        "hotshotgunner"
+                    ],
+                    "torpedo": [
+                        "plasmatorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "ig88b",
+                "points": 63,
+                "ship": "aggressorassaultfighter",
+                "upgrades": {}
+            },
+            {
+                "id": "jakkugunrunner",
+                "points": 30,
+                "ship": "quadrijettransferspacetug",
+                "upgrades": {}
+            },
+            {
+                "id": "teltrevura",
+                "points": 44,
+                "ship": "jumpmaster5000",
+                "upgrades": {}
+            }
+        ],
+        "points": 197,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "TTT": "Matt McAllister ",
+    "VassalForm1": "AgentStack",
+    "VassalForm2": "AgentStack"
+}

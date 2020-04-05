@@ -1,0 +1,147 @@
+{
+    "Add": "Pattern Analyzer to the TIE/vn Silencer",
+    "Discord": "roelbesters#8712",
+    "Drop": "Trajectory Simulator from the Upsilon shuttle",
+    "Final": {
+        "faction": "firstorder",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "kyloren",
+                "points": 96,
+                "ship": "tievnsilencer",
+                "upgrades": {
+                    "force-power": [
+                        "hate"
+                    ],
+                    "missile": [
+                        "magpulsewarheads"
+                    ],
+                    "tech": [
+                        "patternanalyzer"
+                    ],
+                    "torpedo": [
+                        "iontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "captaincardinal",
+                "points": 72,
+                "ship": "upsilonclasscommandshuttle",
+                "upgrades": {
+                    "cannon": [
+                        "heavylasercannon"
+                    ],
+                    "crew": [
+                        "captainphasma"
+                    ]
+                }
+            },
+            {
+                "id": "null",
+                "points": 30,
+                "ship": "tiefofighter",
+                "upgrades": {}
+            }
+        ],
+        "points": 198,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Name": "Roel Besters",
+    "Option1": {
+        "faction": "firstorder",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "kyloren",
+                "points": 91,
+                "ship": "tievnsilencer",
+                "upgrades": {
+                    "force-power": [
+                        "hate"
+                    ],
+                    "missile": [
+                        "magpulsewarheads"
+                    ],
+                    "torpedo": [
+                        "iontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "captaincardinal",
+                "points": 78,
+                "ship": "upsilonclasscommandshuttle",
+                "upgrades": {
+                    "cannon": [
+                        "heavylasercannon"
+                    ],
+                    "crew": [
+                        "captainphasma"
+                    ],
+                    "sensor": [
+                        "trajectorysimulator"
+                    ]
+                }
+            },
+            {
+                "id": "null",
+                "points": 30,
+                "ship": "tiefofighter",
+                "upgrades": {}
+            }
+        ],
+        "points": 199,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Option2": {
+        "faction": "rebelalliance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "mirandadoni",
+                "points": 55,
+                "ship": "btls8kwing",
+                "upgrades": {
+                    "device": [
+                        "proximitymines"
+                    ],
+                    "missile": [
+                        "protonrockets"
+                    ]
+                }
+            },
+            {
+                "id": "wildspacefringer",
+                "points": 92,
+                "ship": "yt2400lightfreighter",
+                "upgrades": {
+                    "crew": [
+                        "chopper-crew"
+                    ],
+                    "gunner": [
+                        "veteranturretgunner"
+                    ],
+                    "missile": [
+                        "ionmissiles"
+                    ]
+                }
+            },
+            {
+                "id": "sharabey",
+                "points": 50,
+                "ship": "arc170starfighter",
+                "upgrades": {}
+            }
+        ],
+        "points": 197,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "TTT": "RoelBesters",
+    "VassalForm1": "roelbesters",
+    "VassalForm2": "roelbesters"
+}

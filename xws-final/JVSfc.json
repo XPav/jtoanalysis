@@ -1,0 +1,166 @@
+{
+    "Add": "Dengar (Gunner) YT-1300",
+    "Discord": "Kansascitian#1699",
+    "Drop": "Mag pulse warheads M12-L",
+    "Final": {
+        "faction": "scumandvillainy",
+        "name": "Jonathan VanSickle JTO",
+        "pilots": [
+            {
+                "id": "cartelexecutioner",
+                "points": 47,
+                "ship": "m12lkimogilafighter",
+                "upgrades": {
+                    "illicit": [
+                        "inertialdampeners"
+                    ],
+                    "modification": [
+                        "tacticalscrambler"
+                    ],
+                    "talent": [
+                        "crackshot"
+                    ]
+                }
+            },
+            {
+                "id": "trandoshanslaver",
+                "points": 52,
+                "ship": "yv666lightfreighter",
+                "upgrades": {}
+            },
+            {
+                "id": "landocalrissian",
+                "points": 56,
+                "ship": "customizedyt1300lightfreighter",
+                "upgrades": {
+                    "gunner": [
+                        "dengar"
+                    ],
+                    "talent": [
+                        "marksmanship"
+                    ]
+                }
+            },
+            {
+                "id": "blacksunenforcer",
+                "points": 45,
+                "ship": "starviperclassattackplatform",
+                "upgrades": {}
+            }
+        ],
+        "points": 200,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Name": "Jonathan VanSickle",
+    "Option1": {
+        "faction": "rebelalliance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "lieutenantblount",
+                "points": 38,
+                "ship": "z95af4headhunter",
+                "upgrades": {
+                    "modification": [
+                        "afterburners"
+                    ],
+                    "talent": [
+                        "predator"
+                    ]
+                }
+            },
+            {
+                "id": "gavindarklighter",
+                "points": 72,
+                "ship": "ewing",
+                "upgrades": {
+                    "sensor": [
+                        "advancedsensors"
+                    ],
+                    "talent": [
+                        "composure"
+                    ]
+                }
+            },
+            {
+                "id": "ezrabridger-tielnfighter",
+                "points": 31,
+                "ship": "tielnfighter",
+                "upgrades": {}
+            },
+            {
+                "id": "garvendreis-t65xwing",
+                "points": 54,
+                "ship": "t65xwing",
+                "upgrades": {
+                    "configuration": [
+                        "servomotorsfoils"
+                    ],
+                    "talent": [
+                        "crackshot"
+                    ],
+                    "torpedo": [
+                        "advprotontorpedoes"
+                    ]
+                }
+            }
+        ],
+        "points": 195,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Option2": {
+        "faction": "scumandvillainy",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "cartelexecutioner",
+                "points": 53,
+                "ship": "m12lkimogilafighter",
+                "upgrades": {
+                    "illicit": [
+                        "inertialdampeners"
+                    ],
+                    "missile": [
+                        "magpulsewarheads"
+                    ],
+                    "modification": [
+                        "tacticalscrambler"
+                    ],
+                    "talent": [
+                        "crackshot"
+                    ]
+                }
+            },
+            {
+                "id": "trandoshanslaver",
+                "points": 52,
+                "ship": "yv666lightfreighter",
+                "upgrades": {}
+            },
+            {
+                "id": "landocalrissian",
+                "points": 50,
+                "ship": "customizedyt1300lightfreighter",
+                "upgrades": {
+                    "talent": [
+                        "marksmanship"
+                    ]
+                }
+            },
+            {
+                "id": "blacksunenforcer",
+                "points": 45,
+                "ship": "starviperclassattackplatform",
+                "upgrades": {}
+            }
+        ],
+        "points": 200,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "TTT": "Jonathan VanSickle",
+    "VassalForm1": "JVSfc",
+    "VassalForm2": "JVSfc"
+}

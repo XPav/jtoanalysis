@@ -1,0 +1,174 @@
+{
+    "Add": "Dorsal Turret on Kavil",
+    "Discord": "Swampy",
+    "Drop": "Qi'ra from Lando Calrissian (Escape Craft)",
+    "Final": {
+        "faction": "scumandvillainy",
+        "name": "Ryan Crocker JTO",
+        "pilots": [
+            {
+                "id": "crymorahgoon",
+                "points": 32,
+                "ship": "btla4ywing",
+                "upgrades": {
+                    "astromech": [
+                        "r5tk"
+                    ],
+                    "gunner": [
+                        "bt1"
+                    ]
+                }
+            },
+            {
+                "id": "landocalrissian-escapecraft",
+                "points": 29,
+                "ship": "escapecraft",
+                "upgrades": {}
+            },
+            {
+                "id": "ig88a",
+                "points": 80,
+                "ship": "aggressorassaultfighter",
+                "upgrades": {
+                    "device": [
+                        "ionbombs"
+                    ],
+                    "sensor": [
+                        "collisiondetector"
+                    ],
+                    "title": [
+                        "ig2000"
+                    ]
+                }
+            },
+            {
+                "id": "kavil",
+                "points": 57,
+                "ship": "btla4ywing",
+                "upgrades": {
+                    "device": [
+                        "proximitymines"
+                    ],
+                    "talent": [
+                        "lonewolf"
+                    ],
+                    "turret": [
+                        "dorsalturret"
+                    ]
+                }
+            }
+        ],
+        "points": 198,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Name": "Ryan Crocker",
+    "Option1": {
+        "faction": "scumandvillainy",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "crymorahgoon",
+                "points": 32,
+                "ship": "btla4ywing",
+                "upgrades": {
+                    "astromech": [
+                        "r5tk"
+                    ],
+                    "gunner": [
+                        "bt1"
+                    ]
+                }
+            },
+            {
+                "id": "landocalrissian-escapecraft",
+                "points": 31,
+                "ship": "escapecraft",
+                "upgrades": {
+                    "crew": [
+                        "qira"
+                    ]
+                }
+            },
+            {
+                "id": "ig88a",
+                "points": 80,
+                "ship": "aggressorassaultfighter",
+                "upgrades": {
+                    "device": [
+                        "ionbombs"
+                    ],
+                    "sensor": [
+                        "collisiondetector"
+                    ],
+                    "title": [
+                        "ig2000"
+                    ]
+                }
+            },
+            {
+                "id": "kavil",
+                "points": 54,
+                "ship": "btla4ywing",
+                "upgrades": {
+                    "device": [
+                        "proximitymines"
+                    ],
+                    "talent": [
+                        "lonewolf"
+                    ]
+                }
+            }
+        ],
+        "points": 197,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Option2": {
+        "faction": "rebelalliance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "talasquadronpilot",
+                "points": 35,
+                "ship": "z95af4headhunter",
+                "upgrades": {
+                    "missile": [
+                        "homingmissiles"
+                    ],
+                    "modification": [
+                        "staticdischargevanes"
+                    ]
+                }
+            },
+            {
+                "id": "lieutenantblount",
+                "points": 30,
+                "ship": "z95af4headhunter",
+                "upgrades": {}
+            },
+            {
+                "id": "gavindarklighter",
+                "points": 67,
+                "ship": "ewing",
+                "upgrades": {
+                    "astromech": [
+                        "r5d8"
+                    ]
+                }
+            },
+            {
+                "id": "outerrimsmuggler",
+                "points": 67,
+                "ship": "modifiedyt1300lightfreighter",
+                "upgrades": {}
+            }
+        ],
+        "points": 199,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "TTT": "Ryan Crocker",
+    "VassalForm1": "therockercrocker",
+    "VassalForm2": "therockercrocker"
+}

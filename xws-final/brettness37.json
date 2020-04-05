@@ -1,0 +1,185 @@
+{
+    "Add": "Cluster Missile to Dethfire",
+    "Discord": "brettness37#2654",
+    "Drop": "Static Discharge from Patrol Leader",
+    "Final": {
+        "faction": "galacticempire",
+        "name": "Brett Bird JTO",
+        "pilots": [
+            {
+                "id": "blacksquadronace",
+                "points": 28,
+                "ship": "tielnfighter",
+                "upgrades": {
+                    "talent": [
+                        "elusive"
+                    ]
+                }
+            },
+            {
+                "id": "sigmasquadronace",
+                "points": 48,
+                "ship": "tiephphantom",
+                "upgrades": {}
+            },
+            {
+                "id": "patrolleader",
+                "points": 85,
+                "ship": "vt49decimator",
+                "upgrades": {
+                    "crew": [
+                        "freelanceslicer",
+                        "moffjerjerrod"
+                    ],
+                    "gunner": [
+                        "hotshotgunner"
+                    ]
+                }
+            },
+            {
+                "id": "deathfire",
+                "points": 37,
+                "ship": "tiesabomber",
+                "upgrades": {
+                    "missile": [
+                        "clustermissiles"
+                    ]
+                }
+            }
+        ],
+        "points": 198,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Name": "Brett Bird",
+    "Option1": {
+        "faction": "galacticempire",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "blacksquadronace",
+                "points": 28,
+                "ship": "tielnfighter",
+                "upgrades": {
+                    "talent": [
+                        "elusive"
+                    ]
+                }
+            },
+            {
+                "id": "sigmasquadronace",
+                "points": 48,
+                "ship": "tiephphantom",
+                "upgrades": {}
+            },
+            {
+                "id": "patrolleader",
+                "points": 91,
+                "ship": "vt49decimator",
+                "upgrades": {
+                    "crew": [
+                        "freelanceslicer",
+                        "moffjerjerrod"
+                    ],
+                    "gunner": [
+                        "hotshotgunner"
+                    ],
+                    "modification": [
+                        "staticdischargevanes"
+                    ]
+                }
+            },
+            {
+                "id": "deathfire",
+                "points": 32,
+                "ship": "tiesabomber",
+                "upgrades": {}
+            }
+        ],
+        "points": 199,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Option2": {
+        "faction": "separatistalliance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "berwerkret",
+                "points": 43,
+                "ship": "nantexclassstarfighter",
+                "upgrades": {
+                    "talent": [
+                        "treacherous",
+                        "crackshot"
+                    ]
+                }
+            },
+            {
+                "id": "feethanottrawautopilot",
+                "points": 41,
+                "ship": "belbullab22starfighter",
+                "upgrades": {
+                    "title": [
+                        "soullessone"
+                    ]
+                }
+            },
+            {
+                "id": "tradefederationdrone",
+                "points": 26,
+                "ship": "vultureclassdroidfighter",
+                "upgrades": {
+                    "configuration": [
+                        "grapplingstruts"
+                    ],
+                    "missile": [
+                        "magpulsewarheads"
+                    ]
+                }
+            },
+            {
+                "id": "haorchallprototype",
+                "points": 35,
+                "ship": "vultureclassdroidfighter",
+                "upgrades": {
+                    "configuration": [
+                        "grapplingstruts"
+                    ],
+                    "missile": [
+                        "protonrockets"
+                    ],
+                    "modification": [
+                        "afterburners"
+                    ]
+                }
+            },
+            {
+                "id": "precisehunter",
+                "points": 27,
+                "ship": "vultureclassdroidfighter",
+                "upgrades": {
+                    "missile": [
+                        "discordmissiles"
+                    ]
+                }
+            },
+            {
+                "id": "haorchallprototype",
+                "points": 26,
+                "ship": "vultureclassdroidfighter",
+                "upgrades": {
+                    "missile": [
+                        "energyshellcharges"
+                    ]
+                }
+            }
+        ],
+        "points": 198,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "TTT": "Brett Bird",
+    "VassalForm1": "brettness37",
+    "VassalForm2": "brettness37"
+}

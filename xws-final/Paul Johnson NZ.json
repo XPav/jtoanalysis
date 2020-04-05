@@ -1,0 +1,182 @@
+{
+    "Add": "Saw Gerrera on Chopper",
+    "Discord": "Paul Johnson NZ",
+    "Drop": "Advanced Sensors from Chopper",
+    "Final": {
+        "faction": "rebelalliance",
+        "name": "Paul Johnson JTO",
+        "pilots": [
+            {
+                "id": "chopper",
+                "points": 80,
+                "ship": "vcx100lightfreighter",
+                "upgrades": {
+                    "crew": [
+                        "sawgerrera"
+                    ],
+                    "title": [
+                        "ghost"
+                    ],
+                    "turret": [
+                        "dorsalturret"
+                    ]
+                }
+            },
+            {
+                "id": "zeborrelios-sheathipedeclassshuttle",
+                "points": 37,
+                "ship": "sheathipedeclassshuttle",
+                "upgrades": {
+                    "astromech": [
+                        "r3astromech"
+                    ],
+                    "title": [
+                        "phantom"
+                    ]
+                }
+            },
+            {
+                "id": "fennrau-sheathipedeclassshuttle",
+                "points": 50,
+                "ship": "sheathipedeclassshuttle",
+                "upgrades": {}
+            },
+            {
+                "id": "rebelscout",
+                "points": 30,
+                "ship": "hwk290lightfreighter",
+                "upgrades": {}
+            }
+        ],
+        "points": 197,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Name": "Paul Johnson",
+    "Option1": {
+        "faction": "resistance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "bb8",
+                "points": 33,
+                "ship": "resistancetransportpod",
+                "upgrades": {
+                    "modification": [
+                        "targetingcomputer"
+                    ],
+                    "tech": [
+                        "advancedoptics"
+                    ]
+                }
+            },
+            {
+                "id": "resistancesympathizer",
+                "points": 79,
+                "ship": "scavengedyt1300",
+                "upgrades": {
+                    "crew": [
+                        "informant"
+                    ],
+                    "gunner": [
+                        "finn"
+                    ],
+                    "illicit": [
+                        "inertialdampeners"
+                    ],
+                    "title": [
+                        "reysmillenniumfalcon"
+                    ]
+                }
+            },
+            {
+                "id": "colossusstationmechanic",
+                "points": 33,
+                "ship": "fireball",
+                "upgrades": {
+                    "astromech": [
+                        "r5astromech"
+                    ],
+                    "modification": [
+                        "munitionsfailsafe"
+                    ],
+                    "title": [
+                        "kazsfireball"
+                    ]
+                }
+            },
+            {
+                "id": "pammichnerrogoode",
+                "points": 50,
+                "ship": "resistancetransport",
+                "upgrades": {
+                    "astromech": [
+                        "r4astromech"
+                    ],
+                    "tech": [
+                        "targetingsynchronizer"
+                    ],
+                    "torpedo": [
+                        "iontorpedoes"
+                    ]
+                }
+            }
+        ],
+        "points": 195,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Option2": {
+        "faction": "rebelalliance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "chopper",
+                "points": 81,
+                "ship": "vcx100lightfreighter",
+                "upgrades": {
+                    "sensor": [
+                        "advancedsensors"
+                    ],
+                    "title": [
+                        "ghost"
+                    ],
+                    "turret": [
+                        "dorsalturret"
+                    ]
+                }
+            },
+            {
+                "id": "zeborrelios-sheathipedeclassshuttle",
+                "points": 37,
+                "ship": "sheathipedeclassshuttle",
+                "upgrades": {
+                    "astromech": [
+                        "r3astromech"
+                    ],
+                    "title": [
+                        "phantom"
+                    ]
+                }
+            },
+            {
+                "id": "fennrau-sheathipedeclassshuttle",
+                "points": 50,
+                "ship": "sheathipedeclassshuttle",
+                "upgrades": {}
+            },
+            {
+                "id": "rebelscout",
+                "points": 30,
+                "ship": "hwk290lightfreighter",
+                "upgrades": {}
+            }
+        ],
+        "points": 198,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "TTT": "Paul Johnson",
+    "VassalForm1": "Paul Johnson NZ",
+    "VassalForm2": "Paul Johnson NZ"
+}

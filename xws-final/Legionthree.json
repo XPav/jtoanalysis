@@ -1,0 +1,146 @@
+{
+    "Add": "Adding proton bomb to ig-d",
+    "Discord": "Legionthree #1073",
+    "Drop": "None",
+    "Final": {
+        "faction": "scumandvillainy",
+        "name": "Evan Claassen jto",
+        "pilots": [
+            {
+                "id": "captainjostero",
+                "points": 42,
+                "ship": "kihraxzfighter",
+                "upgrades": {}
+            },
+            {
+                "id": "zuckuss",
+                "points": 45,
+                "ship": "g1astarfighter",
+                "upgrades": {}
+            },
+            {
+                "id": "gandfindsman",
+                "points": 45,
+                "ship": "g1astarfighter",
+                "upgrades": {
+                    "illicit": [
+                        "riggedcargochute"
+                    ]
+                }
+            },
+            {
+                "id": "ig88d",
+                "points": 68,
+                "ship": "aggressorassaultfighter",
+                "upgrades": {
+                    "device": [
+                        "protonbombs"
+                    ]
+                }
+            }
+        ],
+        "points": 200,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Name": "Evan Claassen",
+    "Option1": {
+        "faction": "scumandvillainy",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "captainjostero",
+                "points": 42,
+                "ship": "kihraxzfighter",
+                "upgrades": {}
+            },
+            {
+                "id": "zuckuss",
+                "points": 45,
+                "ship": "g1astarfighter",
+                "upgrades": {}
+            },
+            {
+                "id": "gandfindsman",
+                "points": 45,
+                "ship": "g1astarfighter",
+                "upgrades": {
+                    "illicit": [
+                        "riggedcargochute"
+                    ]
+                }
+            },
+            {
+                "id": "ig88d",
+                "points": 63,
+                "ship": "aggressorassaultfighter",
+                "upgrades": {}
+            }
+        ],
+        "points": 195,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Option2": {
+        "faction": "rebelalliance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "outerrimsmuggler",
+                "points": 78,
+                "ship": "modifiedyt1300lightfreighter",
+                "upgrades": {
+                    "crew": [
+                        "chewbacca",
+                        "bazemalbus"
+                    ],
+                    "modification": [
+                        "delayedfuses"
+                    ],
+                    "title": [
+                        "millenniumfalcon"
+                    ]
+                }
+            },
+            {
+                "id": "zeborrelios-sheathipedeclassshuttle",
+                "points": 44,
+                "ship": "sheathipedeclassshuttle",
+                "upgrades": {
+                    "astromech": [
+                        "r2astromech"
+                    ],
+                    "modification": [
+                        "targetingcomputer"
+                    ]
+                }
+            },
+            {
+                "id": "janors",
+                "points": 78,
+                "ship": "hwk290lightfreighter",
+                "upgrades": {
+                    "device": [
+                        "connernets"
+                    ],
+                    "modification": [
+                        "afterburners",
+                        "targetingcomputer"
+                    ],
+                    "talent": [
+                        "swarmtactics"
+                    ],
+                    "title": [
+                        "moldycrow"
+                    ]
+                }
+            }
+        ],
+        "points": 200,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "TTT": "Evan Claassen",
+    "VassalForm1": "Legionthree",
+    "VassalForm2": "Legion three"
+}

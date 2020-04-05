@@ -1,0 +1,182 @@
+{
+    "Add": "Ion Turret to Odd Ball",
+    "Discord": "Kenobi #6338",
+    "Drop": "R4 from Naboo BFO ",
+    "Final": {
+        "faction": "galacticrepublic",
+        "name": "Black2710 JTO",
+        "pilots": [
+            {
+                "id": "bravoflightofficer",
+                "points": 42,
+                "ship": "nabooroyaln1starfighter",
+                "upgrades": {
+                    "torpedo": [
+                        "plasmatorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "sinker",
+                "points": 60,
+                "ship": "arc170starfighter",
+                "upgrades": {
+                    "torpedo": [
+                        "advprotontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "oddball-btlbywing",
+                "points": 49,
+                "ship": "btlbywing",
+                "upgrades": {
+                    "turret": [
+                        "ioncannonturret"
+                    ]
+                }
+            },
+            {
+                "id": "shadowsquadronveteran",
+                "points": 47,
+                "ship": "btlbywing",
+                "upgrades": {
+                    "modification": [
+                        "afterburners"
+                    ],
+                    "torpedo": [
+                        "plasmatorpedoes"
+                    ]
+                }
+            }
+        ],
+        "points": 198,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Name": "Kyle",
+    "Option1": {
+        "faction": "galacticrepublic",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "bravoflightofficer",
+                "points": 44,
+                "ship": "nabooroyaln1starfighter",
+                "upgrades": {
+                    "astromech": [
+                        "r4astromech"
+                    ],
+                    "torpedo": [
+                        "plasmatorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "sinker",
+                "points": 60,
+                "ship": "arc170starfighter",
+                "upgrades": {
+                    "torpedo": [
+                        "advprotontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "oddball-btlbywing",
+                "points": 44,
+                "ship": "btlbywing",
+                "upgrades": {}
+            },
+            {
+                "id": "shadowsquadronveteran",
+                "points": 47,
+                "ship": "btlbywing",
+                "upgrades": {
+                    "modification": [
+                        "afterburners"
+                    ],
+                    "torpedo": [
+                        "plasmatorpedoes"
+                    ]
+                }
+            }
+        ],
+        "points": 195,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Option2": {
+        "faction": "separatistalliance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "separatistdrone",
+                "points": 30,
+                "ship": "vultureclassdroidfighter",
+                "upgrades": {
+                    "configuration": [
+                        "grapplingstruts"
+                    ],
+                    "missile": [
+                        "concussionmissiles"
+                    ],
+                    "modification": [
+                        "electronicbaffle"
+                    ]
+                }
+            },
+            {
+                "id": "bombardmentdrone",
+                "points": 35,
+                "ship": "hyenaclassdroidbomber",
+                "upgrades": {
+                    "device": [
+                        "proximitymines"
+                    ]
+                }
+            },
+            {
+                "id": "bombardmentdrone",
+                "points": 36,
+                "ship": "hyenaclassdroidbomber",
+                "upgrades": {
+                    "device": [
+                        "ionbombs"
+                    ],
+                    "modification": [
+                        "delayedfuses"
+                    ]
+                }
+            },
+            {
+                "id": "dbs404",
+                "points": 35,
+                "ship": "hyenaclassdroidbomber",
+                "upgrades": {
+                    "missile": [
+                        "clustermissiles"
+                    ]
+                }
+            },
+            {
+                "id": "haorchallprototype",
+                "points": 21,
+                "ship": "vultureclassdroidfighter",
+                "upgrades": {}
+            },
+            {
+                "id": "petranakiarenaace",
+                "points": 38,
+                "ship": "nantexclassstarfighter",
+                "upgrades": {}
+            }
+        ],
+        "points": 195,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "TTT": "Kyle blackman",
+    "VassalForm1": "Black2710",
+    "VassalForm2": "black2710"
+}

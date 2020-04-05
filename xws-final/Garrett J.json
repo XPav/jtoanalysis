@@ -1,0 +1,169 @@
+{
+    "Add": "Ion Turret to Y-Wing",
+    "Discord": "Hujoe Bigs #0404",
+    "Drop": "Connor Net from Y-Wing",
+    "Final": {
+        "faction": "scumandvillainy",
+        "name": "Garrett Jost JTO",
+        "pilots": [
+            {
+                "id": "ahhav",
+                "points": 30,
+                "ship": "modifiedtielnfighter",
+                "upgrades": {}
+            },
+            {
+                "id": "hiredgun",
+                "points": 38,
+                "ship": "btla4ywing",
+                "upgrades": {
+                    "modification": [
+                        "munitionsfailsafe"
+                    ],
+                    "turret": [
+                        "ioncannonturret"
+                    ]
+                }
+            },
+            {
+                "id": "graz",
+                "points": 48,
+                "ship": "kihraxzfighter",
+                "upgrades": {
+                    "illicit": [
+                        "deadmansswitch"
+                    ]
+                }
+            },
+            {
+                "id": "blacksunassassin",
+                "points": 56,
+                "ship": "starviperclassattackplatform",
+                "upgrades": {
+                    "title": [
+                        "virago"
+                    ]
+                }
+            },
+            {
+                "id": "l337-escapecraft",
+                "points": 26,
+                "ship": "escapecraft",
+                "upgrades": {}
+            }
+        ],
+        "points": 198,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Name": "Garrett Jost",
+    "Option1": {
+        "faction": "firstorder",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "lieutenantdormitz",
+                "points": 110,
+                "ship": "upsilonclasscommandshuttle",
+                "upgrades": {
+                    "cannon": [
+                        "jammingbeam"
+                    ],
+                    "crew": [
+                        "informant",
+                        "gnkgonkdroid"
+                    ],
+                    "sensor": [
+                        "trajectorysimulator"
+                    ],
+                    "tech": [
+                        "hyperspacetrackingdata",
+                        "deuteriumpowercells"
+                    ]
+                }
+            },
+            {
+                "id": "quickdraw",
+                "points": 56,
+                "ship": "tiesffighter",
+                "upgrades": {
+                    "gunner": [
+                        "agilegunner"
+                    ],
+                    "modification": [
+                        "delayedfuses"
+                    ],
+                    "sensor": [
+                        "firecontrolsystem"
+                    ]
+                }
+            },
+            {
+                "id": "muse",
+                "points": 30,
+                "ship": "tiefofighter",
+                "upgrades": {}
+            }
+        ],
+        "points": 196,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Option2": {
+        "faction": "scumandvillainy",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "ahhav",
+                "points": 30,
+                "ship": "modifiedtielnfighter",
+                "upgrades": {}
+            },
+            {
+                "id": "hiredgun",
+                "points": 39,
+                "ship": "btla4ywing",
+                "upgrades": {
+                    "device": [
+                        "connernets"
+                    ],
+                    "modification": [
+                        "munitionsfailsafe"
+                    ]
+                }
+            },
+            {
+                "id": "graz",
+                "points": 48,
+                "ship": "kihraxzfighter",
+                "upgrades": {
+                    "illicit": [
+                        "deadmansswitch"
+                    ]
+                }
+            },
+            {
+                "id": "blacksunassassin",
+                "points": 56,
+                "ship": "starviperclassattackplatform",
+                "upgrades": {
+                    "title": [
+                        "virago"
+                    ]
+                }
+            },
+            {
+                "id": "l337-escapecraft",
+                "points": 26,
+                "ship": "escapecraft",
+                "upgrades": {}
+            }
+        ],
+        "points": 199,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "TTT": "Garrett Jost",
+    "VassalForm1": "Garrett J",
+    "VassalForm2": "Garrett J"
+}

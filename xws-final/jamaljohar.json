@@ -1,0 +1,189 @@
+{
+    "Add": "Proton torps",
+    "Discord": "Jamaljohar",
+    "Drop": "Squad leader",
+    "Final": {
+        "faction": "scumandvillainy",
+        "name": "Jamal Ahmad JTO",
+        "pilots": [
+            {
+                "id": "crymorahgoon",
+                "points": 44,
+                "ship": "btla4ywing",
+                "upgrades": {
+                    "device": [
+                        "clustermines"
+                    ],
+                    "torpedo": [
+                        "iontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "tansariipointveteran",
+                "points": 41,
+                "ship": "m3ainterceptor",
+                "upgrades": {
+                    "missile": [
+                        "protonrockets"
+                    ],
+                    "modification": [
+                        "electronicbaffle"
+                    ],
+                    "talent": [
+                        "fearless"
+                    ]
+                }
+            },
+            {
+                "id": "quinnjast",
+                "points": 44,
+                "ship": "m3ainterceptor",
+                "upgrades": {
+                    "torpedo": [
+                        "protontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "overseeryushyn",
+                "points": 26,
+                "ship": "modifiedtielnfighter",
+                "upgrades": {}
+            },
+            {
+                "id": "dalanoberos",
+                "points": 45,
+                "ship": "m12lkimogilafighter",
+                "upgrades": {}
+            }
+        ],
+        "points": 200,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Name": "Jamal ahmad",
+    "Option1": {
+        "faction": "scumandvillainy",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "crymorahgoon",
+                "points": 44,
+                "ship": "btla4ywing",
+                "upgrades": {
+                    "device": [
+                        "clustermines"
+                    ],
+                    "torpedo": [
+                        "iontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "tansariipointveteran",
+                "points": 41,
+                "ship": "m3ainterceptor",
+                "upgrades": {
+                    "missile": [
+                        "protonrockets"
+                    ],
+                    "modification": [
+                        "electronicbaffle"
+                    ],
+                    "talent": [
+                        "fearless"
+                    ]
+                }
+            },
+            {
+                "id": "quinnjast",
+                "points": 39,
+                "ship": "m3ainterceptor",
+                "upgrades": {
+                    "talent": [
+                        "squadleader"
+                    ]
+                }
+            },
+            {
+                "id": "overseeryushyn",
+                "points": 26,
+                "ship": "modifiedtielnfighter",
+                "upgrades": {}
+            },
+            {
+                "id": "dalanoberos",
+                "points": 45,
+                "ship": "m12lkimogilafighter",
+                "upgrades": {}
+            }
+        ],
+        "points": 195,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Option2": {
+        "faction": "resistance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "resistancesympathizer",
+                "points": 100,
+                "ship": "scavengedyt1300",
+                "upgrades": {
+                    "crew": [
+                        "leiaorgana-resistance"
+                    ],
+                    "gunner": [
+                        "finn"
+                    ],
+                    "missile": [
+                        "protonrockets"
+                    ],
+                    "modification": [
+                        "stealthdevice"
+                    ],
+                    "title": [
+                        "reysmillenniumfalcon"
+                    ]
+                }
+            },
+            {
+                "id": "greersonnel",
+                "points": 51,
+                "ship": "rz2awing",
+                "upgrades": {
+                    "missile": [
+                        "protonrockets"
+                    ],
+                    "tech": [
+                        "primedthrusters"
+                    ]
+                }
+            },
+            {
+                "id": "redsquadronexpert",
+                "points": 49,
+                "ship": "t70xwing",
+                "upgrades": {
+                    "configuration": [
+                        "integratedsfoils"
+                    ],
+                    "modification": [
+                        "targetingcomputer"
+                    ],
+                    "title": [
+                        "blackone"
+                    ]
+                }
+            }
+        ],
+        "points": 200,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "TTT": "Jamal Ahmad",
+    "VassalForm1": "jamaljohar",
+    "VassalForm2": "Jamaljohar"
+}

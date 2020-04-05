@@ -1,0 +1,195 @@
+{
+    "Add": "Add Passive Sensors to Naboo Handmaiden",
+    "Discord": "mrhedgehogman#8308",
+    "Drop": "None from none",
+    "Final": {
+        "faction": "galacticrepublic",
+        "name": "Chris Daykin JTO",
+        "pilots": [
+            {
+                "id": "goldsquadrontrooper",
+                "points": 25,
+                "ship": "v19torrentstarfighter",
+                "upgrades": {}
+            },
+            {
+                "id": "redsquadronbomber",
+                "points": 48,
+                "ship": "btlbywing",
+                "upgrades": {
+                    "device": [
+                        "proximitymines"
+                    ],
+                    "modification": [
+                        "hullupgrade"
+                    ],
+                    "torpedo": [
+                        "iontorpedoes"
+                    ],
+                    "turret": [
+                        "dorsalturret"
+                    ]
+                }
+            },
+            {
+                "id": "obiwankenobi",
+                "points": 69,
+                "ship": "delta7aethersprite",
+                "upgrades": {
+                    "configuration": [
+                        "delta7b"
+                    ],
+                    "force-power": [
+                        "instinctiveaim"
+                    ],
+                    "modification": [
+                        "delayedfuses"
+                    ]
+                }
+            },
+            {
+                "id": "naboohandmaiden",
+                "points": 58,
+                "ship": "nabooroyaln1starfighter",
+                "upgrades": {
+                    "sensor": [
+                        "passivesensors"
+                    ],
+                    "torpedo": [
+                        "protontorpedoes"
+                    ]
+                }
+            }
+        ],
+        "points": 200,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Name": "Chris Daykin",
+    "Option1": {
+        "faction": "galacticrepublic",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "goldsquadrontrooper",
+                "points": 25,
+                "ship": "v19torrentstarfighter",
+                "upgrades": {}
+            },
+            {
+                "id": "redsquadronbomber",
+                "points": 48,
+                "ship": "btlbywing",
+                "upgrades": {
+                    "device": [
+                        "proximitymines"
+                    ],
+                    "modification": [
+                        "hullupgrade"
+                    ],
+                    "torpedo": [
+                        "iontorpedoes"
+                    ],
+                    "turret": [
+                        "dorsalturret"
+                    ]
+                }
+            },
+            {
+                "id": "obiwankenobi",
+                "points": 69,
+                "ship": "delta7aethersprite",
+                "upgrades": {
+                    "configuration": [
+                        "delta7b"
+                    ],
+                    "force-power": [
+                        "instinctiveaim"
+                    ],
+                    "modification": [
+                        "delayedfuses"
+                    ]
+                }
+            },
+            {
+                "id": "naboohandmaiden",
+                "points": 55,
+                "ship": "nabooroyaln1starfighter",
+                "upgrades": {
+                    "torpedo": [
+                        "protontorpedoes"
+                    ]
+                }
+            }
+        ],
+        "points": 197,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Option2": {
+        "faction": "scumandvillainy",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "contractedscout",
+                "points": 54,
+                "ship": "jumpmaster5000",
+                "upgrades": {
+                    "cannon": [
+                        "heavylasercannon"
+                    ],
+                    "gunner": [
+                        "greedo"
+                    ],
+                    "modification": [
+                        "tacticalscrambler"
+                    ],
+                    "title": [
+                        "punishingone"
+                    ]
+                }
+            },
+            {
+                "id": "l337",
+                "points": 52,
+                "ship": "customizedyt1300lightfreighter",
+                "upgrades": {
+                    "crew": [
+                        "unkarplutt"
+                    ],
+                    "title": [
+                        "landosmillenniumfalcon"
+                    ]
+                }
+            },
+            {
+                "id": "lokrevenant",
+                "points": 57,
+                "ship": "scurrgh6bomber",
+                "upgrades": {
+                    "crew": [
+                        "novicetechnician"
+                    ],
+                    "device": [
+                        "protonbombs"
+                    ],
+                    "modification": [
+                        "hullupgrade"
+                    ]
+                }
+            },
+            {
+                "id": "foremanproach",
+                "points": 32,
+                "ship": "modifiedtielnfighter",
+                "upgrades": {}
+            }
+        ],
+        "points": 195,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "TTT": "Chris Daykin",
+    "VassalForm1": "MrHedgehogman",
+    "VassalForm2": "Mrhedgehogman"
+}

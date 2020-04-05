@@ -1,0 +1,137 @@
+{
+    "Add": "Shadowcaster title to Lancer",
+    "Discord": "User#9729",
+    "Drop": "Jabba the Hut from YT1300",
+    "Final": {
+        "faction": "scumandvillainy",
+        "name": "Jacqueline Mitchell JTO",
+        "pilots": [
+            {
+                "id": "landocalrissian",
+                "points": 56,
+                "ship": "customizedyt1300lightfreighter",
+                "upgrades": {
+                    "missile": [
+                        "protonrockets"
+                    ]
+                }
+            },
+            {
+                "id": "bountyhunter",
+                "points": 62,
+                "ship": "firesprayclasspatrolcraft",
+                "upgrades": {}
+            },
+            {
+                "id": "ketsuonyo",
+                "points": 74,
+                "ship": "lancerclasspursuitcraft",
+                "upgrades": {
+                    "talent": [
+                        "swarmtactics"
+                    ],
+                    "title": [
+                        "shadowcaster"
+                    ]
+                }
+            }
+        ],
+        "points": 192,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Name": "Jacqueline Mitchell",
+    "Option1": {
+        "faction": "scumandvillainy",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "landocalrissian",
+                "points": 62,
+                "ship": "customizedyt1300lightfreighter",
+                "upgrades": {
+                    "crew": [
+                        "jabbathehutt"
+                    ],
+                    "missile": [
+                        "protonrockets"
+                    ]
+                }
+            },
+            {
+                "id": "bountyhunter",
+                "points": 62,
+                "ship": "firesprayclasspatrolcraft",
+                "upgrades": {}
+            },
+            {
+                "id": "ketsuonyo",
+                "points": 73,
+                "ship": "lancerclasspursuitcraft",
+                "upgrades": {
+                    "talent": [
+                        "swarmtactics"
+                    ]
+                }
+            }
+        ],
+        "points": 197,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Option2": {
+        "faction": "rebelalliance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "alexsandrkallus",
+                "points": 86,
+                "ship": "vcx100lightfreighter",
+                "upgrades": {
+                    "crew": [
+                        "gnkgonkdroid"
+                    ],
+                    "gunner": [
+                        "hotshotgunner"
+                    ],
+                    "title": [
+                        "ghost"
+                    ]
+                }
+            },
+            {
+                "id": "lowhhrick",
+                "points": 63,
+                "ship": "auzituckgunship",
+                "upgrades": {
+                    "crew": [
+                        "r2d2-crew",
+                        "chopper-crew"
+                    ]
+                }
+            },
+            {
+                "id": "kylekatarn",
+                "points": 47,
+                "ship": "hwk290lightfreighter",
+                "upgrades": {
+                    "device": [
+                        "clustermines"
+                    ],
+                    "modification": [
+                        "engineupgrade"
+                    ],
+                    "talent": [
+                        "intimidation"
+                    ]
+                }
+            }
+        ],
+        "points": 196,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "TTT": "Jukequeline",
+    "VassalForm1": "minishe",
+    "VassalForm2": "Minishe"
+}

@@ -1,0 +1,195 @@
+{
+    "Add": "Afterburners To Obi-wan delta 7 Aethersprite",
+    "Discord": "Dankoo#0396",
+    "Drop": "Static discharge veins-v19 torrent ",
+    "Final": {
+        "faction": "galacticrepublic",
+        "name": "Bill Herbert JTO",
+        "pilots": [
+            {
+                "id": "goldsquadrontrooper",
+                "points": 25,
+                "ship": "v19torrentstarfighter",
+                "upgrades": {}
+            },
+            {
+                "id": "anakinskywalker-nabooroyaln1starfighter",
+                "points": 55,
+                "ship": "nabooroyaln1starfighter",
+                "upgrades": {
+                    "astromech": [
+                        "r4p17"
+                    ],
+                    "talent": [
+                        "swarmtactics"
+                    ],
+                    "torpedo": [
+                        "advprotontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "saeseetiin",
+                "points": 55,
+                "ship": "delta7aethersprite",
+                "upgrades": {
+                    "astromech": [
+                        "r2a6"
+                    ],
+                    "configuration": [
+                        "calibratedlasertargeting"
+                    ],
+                    "force-power": [
+                        "heightenedperception"
+                    ]
+                }
+            },
+            {
+                "id": "obiwankenobi",
+                "points": 61,
+                "ship": "delta7aethersprite",
+                "upgrades": {
+                    "astromech": [
+                        "r5astromech"
+                    ],
+                    "force-power": [
+                        "heightenedperception"
+                    ],
+                    "modification": [
+                        "afterburners"
+                    ]
+                }
+            }
+        ],
+        "points": 196,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Name": "Bill Herbert",
+    "Option1": {
+        "faction": "resistance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "colossusstationmechanic",
+                "points": 34,
+                "ship": "fireball",
+                "upgrades": {
+                    "modification": [
+                        "stealthdevice",
+                        "electronicbaffle"
+                    ]
+                }
+            },
+            {
+                "id": "colossusstationmechanic",
+                "points": 36,
+                "ship": "fireball",
+                "upgrades": {
+                    "astromech": [
+                        "r5astromech"
+                    ],
+                    "illicit": [
+                        "cloakingdevice"
+                    ],
+                    "title": [
+                        "kazsfireball"
+                    ]
+                }
+            },
+            {
+                "id": "edonkappehl",
+                "points": 90,
+                "ship": "mg100starfortress",
+                "upgrades": {
+                    "crew": [
+                        "pz4co"
+                    ],
+                    "device": [
+                        "ionbombs",
+                        "electroprotonbomb"
+                    ],
+                    "sensor": [
+                        "collisiondetector"
+                    ]
+                }
+            },
+            {
+                "id": "greersonnel",
+                "points": 36,
+                "ship": "rz2awing",
+                "upgrades": {}
+            }
+        ],
+        "points": 196,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Option2": {
+        "faction": "galacticrepublic",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "goldsquadrontrooper",
+                "points": 31,
+                "ship": "v19torrentstarfighter",
+                "upgrades": {
+                    "modification": [
+                        "staticdischargevanes"
+                    ]
+                }
+            },
+            {
+                "id": "anakinskywalker-nabooroyaln1starfighter",
+                "points": 55,
+                "ship": "nabooroyaln1starfighter",
+                "upgrades": {
+                    "astromech": [
+                        "r4p17"
+                    ],
+                    "talent": [
+                        "swarmtactics"
+                    ],
+                    "torpedo": [
+                        "advprotontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "saeseetiin",
+                "points": 55,
+                "ship": "delta7aethersprite",
+                "upgrades": {
+                    "astromech": [
+                        "r2a6"
+                    ],
+                    "configuration": [
+                        "calibratedlasertargeting"
+                    ],
+                    "force-power": [
+                        "heightenedperception"
+                    ]
+                }
+            },
+            {
+                "id": "obiwankenobi",
+                "points": 55,
+                "ship": "delta7aethersprite",
+                "upgrades": {
+                    "astromech": [
+                        "r5astromech"
+                    ],
+                    "force-power": [
+                        "heightenedperception"
+                    ]
+                }
+            }
+        ],
+        "points": 196,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "TTT": "William Herbert",
+    "VassalForm1": "Dankoo719",
+    "VassalForm2": "Dankoo719"
+}

@@ -1,0 +1,182 @@
+{
+    "Add": "Outmaneuver to Holo",
+    "Discord": "ChaosHat#4674",
+    "Drop": "Squad leader from Holo",
+    "Final": {
+        "faction": "firstorder",
+        "name": "Michael Thiel JTO",
+        "pilots": [
+            {
+                "id": "majorvonreg",
+                "points": 71,
+                "ship": "tiebainterceptor",
+                "upgrades": {
+                    "missile": [
+                        "protonrockets"
+                    ],
+                    "modification": [
+                        "delayedfuses"
+                    ],
+                    "talent": [
+                        "outmaneuver"
+                    ]
+                }
+            },
+            {
+                "id": "lieutenanttavson",
+                "points": 84,
+                "ship": "upsilonclasscommandshuttle",
+                "upgrades": {
+                    "cannon": [
+                        "autoblasters"
+                    ],
+                    "crew": [
+                        "captainphasma",
+                        "pettyofficerthanisson"
+                    ],
+                    "sensor": [
+                        "passivesensors"
+                    ],
+                    "tech": [
+                        "patternanalyzer"
+                    ]
+                }
+            },
+            {
+                "id": "tn3465",
+                "points": 32,
+                "ship": "tiefofighter",
+                "upgrades": {
+                    "modification": [
+                        "angleddeflectors"
+                    ],
+                    "tech": [
+                        "biohexacryptcodes"
+                    ]
+                }
+            }
+        ],
+        "points": 187,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Name": "Michael Thiel",
+    "Option1": {
+        "faction": "firstorder",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "majorvonreg",
+                "points": 79,
+                "ship": "tiebainterceptor",
+                "upgrades": {
+                    "missile": [
+                        "protonrockets"
+                    ],
+                    "modification": [
+                        "delayedfuses"
+                    ],
+                    "talent": [
+                        "squadleader"
+                    ]
+                }
+            },
+            {
+                "id": "lieutenanttavson",
+                "points": 84,
+                "ship": "upsilonclasscommandshuttle",
+                "upgrades": {
+                    "cannon": [
+                        "autoblasters"
+                    ],
+                    "crew": [
+                        "captainphasma",
+                        "pettyofficerthanisson"
+                    ],
+                    "sensor": [
+                        "passivesensors"
+                    ],
+                    "tech": [
+                        "patternanalyzer"
+                    ]
+                }
+            },
+            {
+                "id": "tn3465",
+                "points": 32,
+                "ship": "tiefofighter",
+                "upgrades": {
+                    "modification": [
+                        "angleddeflectors"
+                    ],
+                    "tech": [
+                        "biohexacryptcodes"
+                    ]
+                }
+            }
+        ],
+        "points": 195,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Option2": {
+        "faction": "rebelalliance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "zeborrelios",
+                "points": 43,
+                "ship": "attackshuttle",
+                "upgrades": {
+                    "modification": [
+                        "afterburners"
+                    ],
+                    "title": [
+                        "phantom"
+                    ],
+                    "turret": [
+                        "ioncannonturret"
+                    ]
+                }
+            },
+            {
+                "id": "rebelscout",
+                "points": 36,
+                "ship": "hwk290lightfreighter",
+                "upgrades": {
+                    "modification": [
+                        "shieldupgrade"
+                    ]
+                }
+            },
+            {
+                "id": "wildspacefringer",
+                "points": 96,
+                "ship": "yt2400lightfreighter",
+                "upgrades": {
+                    "crew": [
+                        "kananjarrus"
+                    ],
+                    "illicit": [
+                        "contrabandcybernetics"
+                    ],
+                    "modification": [
+                        "hullupgrade"
+                    ]
+                }
+            },
+            {
+                "id": "banditsquadronpilot",
+                "points": 22,
+                "ship": "z95af4headhunter",
+                "upgrades": {}
+            }
+        ],
+        "points": 197,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "TTT": "Michael Thiel",
+    "VassalForm1": "ChaosHat",
+    "VassalForm2": "ChaosHat"
+}

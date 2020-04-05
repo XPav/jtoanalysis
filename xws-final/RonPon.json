@@ -1,0 +1,211 @@
+{
+    "Add": "Ion Cannon Turret on R2-D2",
+    "Discord": "RonPon",
+    "Drop": "Juke from R2-D2",
+    "Final": {
+        "faction": "galacticrepublic",
+        "name": "Ronny Gjendemsj\u00f8 JTO",
+        "obstacles": [
+            "gascloud2",
+            "gascloud3",
+            "gascloud5"
+        ],
+        "pilots": [
+            {
+                "id": "tucker",
+                "points": 36,
+                "ship": "v19torrentstarfighter",
+                "upgrades": {
+                    "missile": [
+                        "homingmissiles"
+                    ],
+                    "modification": [
+                        "electronicbaffle"
+                    ]
+                }
+            },
+            {
+                "id": "macewindu",
+                "points": 80,
+                "ship": "delta7aethersprite",
+                "upgrades": {
+                    "astromech": [
+                        "r5astromech"
+                    ],
+                    "configuration": [
+                        "delta7b"
+                    ],
+                    "force-power": [
+                        "sense"
+                    ],
+                    "modification": [
+                        "stealthdevice"
+                    ]
+                }
+            },
+            {
+                "id": "r2d2",
+                "points": 53,
+                "ship": "btlbywing",
+                "upgrades": {
+                    "device": [
+                        "protonbombs"
+                    ],
+                    "gunner": [
+                        "agilegunner"
+                    ],
+                    "turret": [
+                        "ioncannonturret"
+                    ]
+                }
+            },
+            {
+                "id": "bluesquadronprotector",
+                "points": 28,
+                "ship": "v19torrentstarfighter",
+                "upgrades": {
+                    "talent": [
+                        "crackshot"
+                    ]
+                }
+            }
+        ],
+        "points": 197,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Name": "Ronny Gjendemsj\u00c3\u00b8",
+    "Option1": {
+        "faction": "firstorder",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "pettyofficerthanisson",
+                "points": 98,
+                "ship": "upsilonclasscommandshuttle",
+                "upgrades": {
+                    "cannon": [
+                        "heavylasercannon"
+                    ],
+                    "crew": [
+                        "captainphasma",
+                        "novicetechnician",
+                        "informant"
+                    ],
+                    "sensor": [
+                        "trajectorysimulator"
+                    ],
+                    "tech": [
+                        "deuteriumpowercells",
+                        "patternanalyzer"
+                    ]
+                }
+            },
+            {
+                "id": "lieutenantlehuse",
+                "points": 68,
+                "ship": "tiesffighter",
+                "upgrades": {
+                    "gunner": [
+                        "agilegunner"
+                    ],
+                    "missile": [
+                        "ionmissiles"
+                    ],
+                    "sensor": [
+                        "advancedsensors"
+                    ],
+                    "talent": [
+                        "outmaneuver"
+                    ],
+                    "tech": [
+                        "biohexacryptcodes"
+                    ]
+                }
+            },
+            {
+                "id": "zetasquadronsurvivor",
+                "points": 34,
+                "ship": "tiesffighter",
+                "upgrades": {
+                    "sensor": [
+                        "firecontrolsystem"
+                    ]
+                }
+            }
+        ],
+        "points": 200,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Option2": {
+        "faction": "galacticrepublic",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "tucker",
+                "points": 36,
+                "ship": "v19torrentstarfighter",
+                "upgrades": {
+                    "missile": [
+                        "homingmissiles"
+                    ],
+                    "modification": [
+                        "electronicbaffle"
+                    ]
+                }
+            },
+            {
+                "id": "macewindu",
+                "points": 80,
+                "ship": "delta7aethersprite",
+                "upgrades": {
+                    "astromech": [
+                        "r5astromech"
+                    ],
+                    "configuration": [
+                        "delta7b"
+                    ],
+                    "force-power": [
+                        "sense"
+                    ],
+                    "modification": [
+                        "stealthdevice"
+                    ]
+                }
+            },
+            {
+                "id": "r2d2",
+                "points": 55,
+                "ship": "btlbywing",
+                "upgrades": {
+                    "device": [
+                        "protonbombs"
+                    ],
+                    "gunner": [
+                        "agilegunner"
+                    ],
+                    "talent": [
+                        "juke"
+                    ]
+                }
+            },
+            {
+                "id": "bluesquadronprotector",
+                "points": 28,
+                "ship": "v19torrentstarfighter",
+                "upgrades": {
+                    "talent": [
+                        "crackshot"
+                    ]
+                }
+            }
+        ],
+        "points": 199,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "TTT": "RonPon",
+    "VassalForm1": "RonPon",
+    "VassalForm2": "RonPon"
+}

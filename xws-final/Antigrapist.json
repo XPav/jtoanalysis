@@ -1,0 +1,216 @@
+{
+    "Add": "Plasma Torpedoes to Separatist Bomber",
+    "Discord": "Antigrapist#9267",
+    "Drop": "Juke from Skakoan Ace",
+    "Final": {
+        "faction": "separatistalliance",
+        "name": "[Antigrapist JTO]",
+        "obstacles": [
+            "coreasteroid0",
+            "coreasteroid4",
+            "core2asteroid4"
+        ],
+        "pilots": [
+            {
+                "id": "technounionbomber",
+                "points": 44,
+                "ship": "hyenaclassdroidbomber",
+                "upgrades": {
+                    "configuration": [
+                        "landingstruts"
+                    ],
+                    "device": [
+                        "proximitymines"
+                    ],
+                    "missile": [
+                        "concussionmissiles"
+                    ],
+                    "modification": [
+                        "shieldupgrade"
+                    ]
+                }
+            },
+            {
+                "id": "wattambor",
+                "points": 60,
+                "ship": "belbullab22starfighter",
+                "upgrades": {
+                    "tacticalrelay": [
+                        "kraken"
+                    ],
+                    "talent": [
+                        "daredevil"
+                    ],
+                    "title": [
+                        "soullessone"
+                    ]
+                }
+            },
+            {
+                "id": "separatistbomber",
+                "points": 38,
+                "ship": "hyenaclassdroidbomber",
+                "upgrades": {
+                    "configuration": [
+                        "landingstruts"
+                    ],
+                    "torpedo": [
+                        "plasmatorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "skakoanace",
+                "points": 38,
+                "ship": "belbullab22starfighter",
+                "upgrades": {}
+            },
+            {
+                "id": "tradefederationdrone",
+                "points": 19,
+                "ship": "vultureclassdroidfighter",
+                "upgrades": {}
+            }
+        ],
+        "points": 199,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Name": "Alex Raubach",
+    "Option1": {
+        "faction": "separatistalliance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "technounionbomber",
+                "points": 44,
+                "ship": "hyenaclassdroidbomber",
+                "upgrades": {
+                    "configuration": [
+                        "landingstruts"
+                    ],
+                    "device": [
+                        "proximitymines"
+                    ],
+                    "missile": [
+                        "concussionmissiles"
+                    ],
+                    "modification": [
+                        "shieldupgrade"
+                    ]
+                }
+            },
+            {
+                "id": "wattambor",
+                "points": 60,
+                "ship": "belbullab22starfighter",
+                "upgrades": {
+                    "tacticalrelay": [
+                        "kraken"
+                    ],
+                    "talent": [
+                        "daredevil"
+                    ],
+                    "title": [
+                        "soullessone"
+                    ]
+                }
+            },
+            {
+                "id": "separatistbomber",
+                "points": 29,
+                "ship": "hyenaclassdroidbomber",
+                "upgrades": {
+                    "configuration": [
+                        "landingstruts"
+                    ]
+                }
+            },
+            {
+                "id": "skakoanace",
+                "points": 45,
+                "ship": "belbullab22starfighter",
+                "upgrades": {
+                    "talent": [
+                        "juke"
+                    ]
+                }
+            },
+            {
+                "id": "tradefederationdrone",
+                "points": 19,
+                "ship": "vultureclassdroidfighter",
+                "upgrades": {}
+            }
+        ],
+        "points": 197,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Option2": {
+        "faction": "scumandvillainy",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "shadowporthunter",
+                "points": 65,
+                "ship": "lancerclasspursuitcraft",
+                "upgrades": {
+                    "crew": [
+                        "tobiasbeckett"
+                    ],
+                    "illicit": [
+                        "riggedcargochute",
+                        "deadmansswitch"
+                    ],
+                    "title": [
+                        "shadowcaster"
+                    ]
+                }
+            },
+            {
+                "id": "drearenthal",
+                "points": 80,
+                "ship": "btla4ywing",
+                "upgrades": {
+                    "device": [
+                        "ionbombs"
+                    ],
+                    "illicit": [
+                        "inertialdampeners"
+                    ],
+                    "modification": [
+                        "afterburners"
+                    ],
+                    "talent": [
+                        "trickshot"
+                    ],
+                    "torpedo": [
+                        "advprotontorpedoes"
+                    ],
+                    "turret": [
+                        "ioncannonturret"
+                    ]
+                }
+            },
+            {
+                "id": "captainseevor",
+                "points": 30,
+                "ship": "modifiedtielnfighter",
+                "upgrades": {}
+            },
+            {
+                "id": "binayrepirate",
+                "points": 22,
+                "ship": "z95af4headhunter",
+                "upgrades": {}
+            }
+        ],
+        "points": 197,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "TTT": "Alex Raubach",
+    "VassalForm1": "Antigrapist",
+    "VassalForm2": "antigrapist"
+}

@@ -1,0 +1,222 @@
+{
+    "Add": "Autoblasters to Sunny Bounder",
+    "Discord": "Katahdin44",
+    "Drop": "Targeting Computer from Sunny Bounder",
+    "Final": {
+        "faction": "scumandvillainy",
+        "name": "Sam McLain JTO",
+        "pilots": [
+            {
+                "id": "hansolo",
+                "points": 73,
+                "ship": "customizedyt1300lightfreighter",
+                "upgrades": {
+                    "crew": [
+                        "freelanceslicer"
+                    ],
+                    "gunner": [
+                        "greedo"
+                    ],
+                    "missile": [
+                        "protonrockets"
+                    ],
+                    "modification": [
+                        "electronicbaffle"
+                    ],
+                    "talent": [
+                        "fearless"
+                    ],
+                    "title": [
+                        "landosmillenniumfalcon"
+                    ]
+                }
+            },
+            {
+                "id": "quinnjast",
+                "points": 32,
+                "ship": "m3ainterceptor",
+                "upgrades": {
+                    "talent": [
+                        "crackshot"
+                    ]
+                }
+            },
+            {
+                "id": "sunnybounder",
+                "points": 30,
+                "ship": "m3ainterceptor",
+                "upgrades": {
+                    "cannon": [
+                        "autoblasters"
+                    ]
+                }
+            },
+            {
+                "id": "bossk-z95af4headhunter",
+                "points": 34,
+                "ship": "z95af4headhunter",
+                "upgrades": {
+                    "modification": [
+                        "hullupgrade"
+                    ]
+                }
+            },
+            {
+                "id": "outerrimpioneer",
+                "points": 30,
+                "ship": "escapecraft",
+                "upgrades": {
+                    "talent": [
+                        "predator"
+                    ]
+                }
+            }
+        ],
+        "points": 199,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Name": "Sam McLain",
+    "Option1": {
+        "faction": "scumandvillainy",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "hansolo",
+                "points": 73,
+                "ship": "customizedyt1300lightfreighter",
+                "upgrades": {
+                    "crew": [
+                        "freelanceslicer"
+                    ],
+                    "gunner": [
+                        "greedo"
+                    ],
+                    "missile": [
+                        "protonrockets"
+                    ],
+                    "modification": [
+                        "electronicbaffle"
+                    ],
+                    "talent": [
+                        "fearless"
+                    ],
+                    "title": [
+                        "landosmillenniumfalcon"
+                    ]
+                }
+            },
+            {
+                "id": "quinnjast",
+                "points": 32,
+                "ship": "m3ainterceptor",
+                "upgrades": {
+                    "talent": [
+                        "crackshot"
+                    ]
+                }
+            },
+            {
+                "id": "sunnybounder",
+                "points": 30,
+                "ship": "m3ainterceptor",
+                "upgrades": {
+                    "modification": [
+                        "targetingcomputer"
+                    ]
+                }
+            },
+            {
+                "id": "bossk-z95af4headhunter",
+                "points": 34,
+                "ship": "z95af4headhunter",
+                "upgrades": {
+                    "modification": [
+                        "hullupgrade"
+                    ]
+                }
+            },
+            {
+                "id": "outerrimpioneer",
+                "points": 30,
+                "ship": "escapecraft",
+                "upgrades": {
+                    "talent": [
+                        "predator"
+                    ]
+                }
+            }
+        ],
+        "points": 199,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Option2": {
+        "faction": "resistance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "pammichnerrogoode",
+                "points": 72,
+                "ship": "resistancetransport",
+                "upgrades": {
+                    "astromech": [
+                        "r4astromech"
+                    ],
+                    "crew": [
+                        "korrsella",
+                        "amilynholdo"
+                    ],
+                    "modification": [
+                        "targetingcomputer"
+                    ],
+                    "tech": [
+                        "advancedoptics"
+                    ],
+                    "torpedo": [
+                        "protontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "finn",
+                "points": 34,
+                "ship": "resistancetransportpod",
+                "upgrades": {
+                    "crew": [
+                        "novicetechnician"
+                    ],
+                    "modification": [
+                        "munitionsfailsafe"
+                    ]
+                }
+            },
+            {
+                "id": "kazudaxiono",
+                "points": 47,
+                "ship": "fireball",
+                "upgrades": {
+                    "talent": [
+                        "juke"
+                    ]
+                }
+            },
+            {
+                "id": "tallissanlintra",
+                "points": 42,
+                "ship": "rz2awing",
+                "upgrades": {
+                    "missile": [
+                        "magpulsewarheads"
+                    ]
+                }
+            }
+        ],
+        "points": 195,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "TTT": "Sam McLain",
+    "VassalForm1": "Katahdin44",
+    "VassalForm2": "Katahdin44"
+}

@@ -1,0 +1,174 @@
+{
+    "Add": "Ion Cannon Turret to Double Edge",
+    "Discord": "denicol#8499",
+    "Drop": "Munition Failsafe from Captain Kagi",
+    "Final": {
+        "faction": "galacticempire",
+        "name": "Rodrigo Denicol JTO",
+        "pilots": [
+            {
+                "id": "doubleedge",
+                "points": 40,
+                "ship": "tieagaggressor",
+                "upgrades": {
+                    "missile": [
+                        "ionmissiles"
+                    ],
+                    "talent": [
+                        "predator"
+                    ],
+                    "turret": [
+                        "ioncannonturret"
+                    ]
+                }
+            },
+            {
+                "id": "captainkagi",
+                "points": 71,
+                "ship": "lambdaclasst4ashuttle",
+                "upgrades": {
+                    "crew": [
+                        "informant",
+                        "darthvader"
+                    ],
+                    "title": [
+                        "st321"
+                    ]
+                }
+            },
+            {
+                "id": "onyxsquadronscout",
+                "points": 36,
+                "ship": "tieagaggressor",
+                "upgrades": {
+                    "missile": [
+                        "barragerockets"
+                    ]
+                }
+            },
+            {
+                "id": "captainjonus",
+                "points": 52,
+                "ship": "tiesabomber",
+                "upgrades": {
+                    "missile": [
+                        "protonrockets"
+                    ]
+                }
+            }
+        ],
+        "points": 199,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Name": "Rodrigo Denicol",
+    "Option1": {
+        "faction": "separatistalliance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "wattambor",
+                "points": 47,
+                "ship": "belbullab22starfighter",
+                "upgrades": {
+                    "modification": [
+                        "hullupgrade"
+                    ]
+                }
+            },
+            {
+                "id": "petranakiarenaace",
+                "points": 48,
+                "ship": "nantexclassstarfighter",
+                "upgrades": {
+                    "talent": [
+                        "squadleader"
+                    ]
+                }
+            },
+            {
+                "id": "darkcourier",
+                "points": 51,
+                "ship": "sithinfiltrator",
+                "upgrades": {}
+            },
+            {
+                "id": "precisehunter",
+                "points": 23,
+                "ship": "vultureclassdroidfighter",
+                "upgrades": {}
+            },
+            {
+                "id": "separatistbomber",
+                "points": 28,
+                "ship": "hyenaclassdroidbomber",
+                "upgrades": {}
+            }
+        ],
+        "points": 197,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Option2": {
+        "faction": "galacticempire",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "doubleedge",
+                "points": 35,
+                "ship": "tieagaggressor",
+                "upgrades": {
+                    "missile": [
+                        "ionmissiles"
+                    ],
+                    "talent": [
+                        "predator"
+                    ]
+                }
+            },
+            {
+                "id": "captainkagi",
+                "points": 72,
+                "ship": "lambdaclasst4ashuttle",
+                "upgrades": {
+                    "crew": [
+                        "informant",
+                        "darthvader"
+                    ],
+                    "modification": [
+                        "munitionsfailsafe"
+                    ],
+                    "title": [
+                        "st321"
+                    ]
+                }
+            },
+            {
+                "id": "onyxsquadronscout",
+                "points": 36,
+                "ship": "tieagaggressor",
+                "upgrades": {
+                    "missile": [
+                        "barragerockets"
+                    ]
+                }
+            },
+            {
+                "id": "captainjonus",
+                "points": 52,
+                "ship": "tiesabomber",
+                "upgrades": {
+                    "missile": [
+                        "protonrockets"
+                    ]
+                }
+            }
+        ],
+        "points": 195,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "TTT": "Rodrigo Denicol",
+    "VassalForm1": "Denicol",
+    "VassalForm2": "Denicol"
+}

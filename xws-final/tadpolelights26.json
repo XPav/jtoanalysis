@@ -1,0 +1,163 @@
+{
+    "Add": "Veteran Turret Gunner on Captain Nym",
+    "Discord": "tadpolelights26 (Stephen)#5980",
+    "Drop": "Han Solo Gunner from Captain Nym",
+    "Final": {
+        "faction": "scumandvillainy",
+        "name": "Stephen Parker JTO",
+        "pilots": [
+            {
+                "id": "captainnym",
+                "points": 69,
+                "ship": "scurrgh6bomber",
+                "upgrades": {
+                    "crew": [
+                        "cikatrovizago"
+                    ],
+                    "device": [
+                        "bombletgenerator"
+                    ],
+                    "gunner": [
+                        "veteranturretgunner"
+                    ],
+                    "turret": [
+                        "ioncannonturret"
+                    ]
+                }
+            },
+            {
+                "id": "princexizor",
+                "points": 63,
+                "ship": "starviperclassattackplatform",
+                "upgrades": {
+                    "sensor": [
+                        "collisiondetector"
+                    ],
+                    "talent": [
+                        "swarmtactics"
+                    ]
+                }
+            },
+            {
+                "id": "shadowporthunter",
+                "points": 63,
+                "ship": "lancerclasspursuitcraft",
+                "upgrades": {
+                    "modification": [
+                        "staticdischargevanes"
+                    ],
+                    "title": [
+                        "shadowcaster"
+                    ]
+                }
+            }
+        ],
+        "points": 195,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Name": "Stephen",
+    "Option1": {
+        "faction": "scumandvillainy",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "captainnym",
+                "points": 69,
+                "ship": "scurrgh6bomber",
+                "upgrades": {
+                    "crew": [
+                        "cikatrovizago"
+                    ],
+                    "device": [
+                        "bombletgenerator"
+                    ],
+                    "gunner": [
+                        "hansolo-gunner"
+                    ],
+                    "turret": [
+                        "ioncannonturret"
+                    ]
+                }
+            },
+            {
+                "id": "princexizor",
+                "points": 63,
+                "ship": "starviperclassattackplatform",
+                "upgrades": {
+                    "sensor": [
+                        "collisiondetector"
+                    ],
+                    "talent": [
+                        "swarmtactics"
+                    ]
+                }
+            },
+            {
+                "id": "shadowporthunter",
+                "points": 63,
+                "ship": "lancerclasspursuitcraft",
+                "upgrades": {
+                    "modification": [
+                        "staticdischargevanes"
+                    ],
+                    "title": [
+                        "shadowcaster"
+                    ]
+                }
+            }
+        ],
+        "points": 195,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Option2": {
+        "faction": "firstorder",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "majorstridan",
+                "points": 90,
+                "ship": "upsilonclasscommandshuttle",
+                "upgrades": {
+                    "crew": [
+                        "pettyofficerthanisson",
+                        "freelanceslicer",
+                        "gnkgonkdroid"
+                    ],
+                    "sensor": [
+                        "trajectorysimulator"
+                    ],
+                    "tech": [
+                        "targetingsynchronizer"
+                    ]
+                }
+            },
+            {
+                "id": "lieutenantdormitz",
+                "points": 77,
+                "ship": "upsilonclasscommandshuttle",
+                "upgrades": {
+                    "modification": [
+                        "shieldupgrade"
+                    ],
+                    "sensor": [
+                        "passivesensors"
+                    ]
+                }
+            },
+            {
+                "id": "null",
+                "points": 30,
+                "ship": "tiefofighter",
+                "upgrades": {}
+            }
+        ],
+        "points": 197,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "TTT": "Stephen Parker",
+    "VassalForm1": "tadpolelights26",
+    "VassalForm2": "tadpolelights26"
+}

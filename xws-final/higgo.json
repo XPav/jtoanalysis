@@ -1,0 +1,205 @@
+{
+    "Add": "Ion turret to Broadside",
+    "Discord": "higgo#8488",
+    "Drop": "Informant",
+    "Final": {
+        "faction": "galacticrepublic",
+        "name": "Cormac Higgins JTO",
+        "pilots": [
+            {
+                "id": "swoop",
+                "points": 33,
+                "ship": "v19torrentstarfighter",
+                "upgrades": {
+                    "modification": [
+                        "electronicbaffle"
+                    ]
+                }
+            },
+            {
+                "id": "r2d2",
+                "points": 51,
+                "ship": "btlbywing",
+                "upgrades": {
+                    "torpedo": [
+                        "protontorpedoes"
+                    ],
+                    "turret": [
+                        "dorsalturret"
+                    ]
+                }
+            },
+            {
+                "id": "broadside",
+                "points": 45,
+                "ship": "btlbywing",
+                "upgrades": {
+                    "gunner": [
+                        "clonecommandercody"
+                    ],
+                    "turret": [
+                        "ioncannonturret"
+                    ]
+                }
+            },
+            {
+                "id": "bravoflightofficer",
+                "points": 42,
+                "ship": "nabooroyaln1starfighter",
+                "upgrades": {
+                    "torpedo": [
+                        "plasmatorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "tucker",
+                "points": 29,
+                "ship": "v19torrentstarfighter",
+                "upgrades": {}
+            }
+        ],
+        "points": 200,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Name": "cormac higgins",
+    "Option1": {
+        "faction": "galacticrepublic",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "swoop",
+                "points": 33,
+                "ship": "v19torrentstarfighter",
+                "upgrades": {
+                    "modification": [
+                        "electronicbaffle"
+                    ]
+                }
+            },
+            {
+                "id": "r2d2",
+                "points": 56,
+                "ship": "btlbywing",
+                "upgrades": {
+                    "crew": [
+                        "informant"
+                    ],
+                    "torpedo": [
+                        "protontorpedoes"
+                    ],
+                    "turret": [
+                        "dorsalturret"
+                    ]
+                }
+            },
+            {
+                "id": "broadside",
+                "points": 40,
+                "ship": "btlbywing",
+                "upgrades": {
+                    "gunner": [
+                        "clonecommandercody"
+                    ]
+                }
+            },
+            {
+                "id": "bravoflightofficer",
+                "points": 42,
+                "ship": "nabooroyaln1starfighter",
+                "upgrades": {
+                    "torpedo": [
+                        "plasmatorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "tucker",
+                "points": 29,
+                "ship": "v19torrentstarfighter",
+                "upgrades": {}
+            }
+        ],
+        "points": 200,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Option2": {
+        "faction": "resistance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "jarekyeager",
+                "points": 47,
+                "ship": "fireball",
+                "upgrades": {
+                    "astromech": [
+                        "r2astromech"
+                    ],
+                    "illicit": [
+                        "inertialdampeners"
+                    ],
+                    "title": [
+                        "kazsfireball"
+                    ]
+                }
+            },
+            {
+                "id": "colossusstationmechanic",
+                "points": 37,
+                "ship": "fireball",
+                "upgrades": {
+                    "astromech": [
+                        "m9g8"
+                    ],
+                    "missile": [
+                        "ionmissiles"
+                    ]
+                }
+            },
+            {
+                "id": "pammichnerrogoode",
+                "points": 54,
+                "ship": "resistancetransport",
+                "upgrades": {
+                    "cannon": [
+                        "autoblasters"
+                    ],
+                    "crew": [
+                        "chewbacca-crew-swz19",
+                        "larmadacy"
+                    ],
+                    "tech": [
+                        "ferrospherepaint"
+                    ]
+                }
+            },
+            {
+                "id": "jaycristubbs",
+                "points": 57,
+                "ship": "t70xwing",
+                "upgrades": {
+                    "astromech": [
+                        "bbastromech"
+                    ],
+                    "configuration": [
+                        "integratedsfoils"
+                    ],
+                    "missile": [
+                        "concussionmissiles"
+                    ],
+                    "title": [
+                        "blackone"
+                    ]
+                }
+            }
+        ],
+        "points": 195,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "TTT": "Cormac Higgins",
+    "VassalForm1": "higgo",
+    "VassalForm2": "higgo"
+}

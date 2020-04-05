@@ -1,0 +1,144 @@
+{
+    "Add": "Concussion missiles to Karsabi",
+    "Discord": "5728",
+    "Drop": "Static Discard Vanes",
+    "Final": {
+        "faction": "galacticempire",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "coloneljendon",
+                "points": 48,
+                "ship": "lambdaclasst4ashuttle",
+                "upgrades": {}
+            },
+            {
+                "id": "lieutenantkarsabi",
+                "points": 46,
+                "ship": "alphaclassstarwing",
+                "upgrades": {
+                    "missile": [
+                        "concussionmissiles"
+                    ],
+                    "sensor": [
+                        "passivesensors"
+                    ]
+                }
+            },
+            {
+                "id": "darthvader",
+                "points": 73,
+                "ship": "tieadvancedx1",
+                "upgrades": {
+                    "sensor": [
+                        "collisiondetector"
+                    ]
+                }
+            },
+            {
+                "id": "deathfire",
+                "points": 32,
+                "ship": "tiesabomber",
+                "upgrades": {}
+            }
+        ],
+        "points": 199,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Name": "Luke Paulson",
+    "Option1": {
+        "faction": "galacticempire",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "coloneljendon",
+                "points": 48,
+                "ship": "lambdaclasst4ashuttle",
+                "upgrades": {}
+            },
+            {
+                "id": "lieutenantkarsabi",
+                "points": 46,
+                "ship": "alphaclassstarwing",
+                "upgrades": {
+                    "modification": [
+                        "staticdischargevanes"
+                    ],
+                    "sensor": [
+                        "passivesensors"
+                    ]
+                }
+            },
+            {
+                "id": "darthvader",
+                "points": 73,
+                "ship": "tieadvancedx1",
+                "upgrades": {
+                    "sensor": [
+                        "collisiondetector"
+                    ]
+                }
+            },
+            {
+                "id": "deathfire",
+                "points": 32,
+                "ship": "tiesabomber",
+                "upgrades": {}
+            }
+        ],
+        "points": 199,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Option2": {
+        "faction": "scumandvillainy",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "4lom",
+                "points": 57,
+                "ship": "g1astarfighter",
+                "upgrades": {
+                    "modification": [
+                        "shieldupgrade"
+                    ],
+                    "sensor": [
+                        "passivesensors"
+                    ],
+                    "title": [
+                        "misthunter"
+                    ]
+                }
+            },
+            {
+                "id": "joyrekkoff",
+                "points": 52,
+                "ship": "fangfighter",
+                "upgrades": {}
+            },
+            {
+                "id": "sabinewren-lancerclasspursuitcraft",
+                "points": 63,
+                "ship": "lancerclasspursuitcraft",
+                "upgrades": {
+                    "crew": [
+                        "tobiasbeckett"
+                    ]
+                }
+            },
+            {
+                "id": "blacksunsoldier",
+                "points": 24,
+                "ship": "z95af4headhunter",
+                "upgrades": {}
+            }
+        ],
+        "points": 196,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "TTT": "Luke Paulson",
+    "VassalForm1": "Luke Paulson",
+    "VassalForm2": "Luke Paulson"
+}

@@ -1,0 +1,192 @@
+{
+    "Add": "Leia Organa to Kyle Katarn",
+    "Discord": "Jonas Th\u00c3\u00a2\u00e2\u201a\u00ac\u00e2\u201e\u00a2por#9183",
+    "Drop": "Targeting Computer from Ezra Bridger",
+    "Final": {
+        "faction": "rebelalliance",
+        "name": "John Witherspoon JTO",
+        "obstacles": [
+            "coreasteroid4",
+            "coreasteroid5",
+            "core2asteroid5"
+        ],
+        "pilots": [
+            {
+                "id": "knavesquadronescort",
+                "points": 64,
+                "ship": "ewing",
+                "upgrades": {
+                    "astromech": [
+                        "r4astromech"
+                    ],
+                    "modification": [
+                        "afterburners"
+                    ],
+                    "torpedo": [
+                        "advprotontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "ezrabridger-tielnfighter",
+                "points": 31,
+                "ship": "tielnfighter",
+                "upgrades": {}
+            },
+            {
+                "id": "braylenstramm",
+                "points": 63,
+                "ship": "asf01bwing",
+                "upgrades": {
+                    "cannon": [
+                        "autoblasters"
+                    ],
+                    "configuration": [
+                        "stabilizedsfoils"
+                    ],
+                    "sensor": [
+                        "collisiondetector"
+                    ]
+                }
+            },
+            {
+                "id": "kylekatarn",
+                "points": 41,
+                "ship": "hwk290lightfreighter",
+                "upgrades": {
+                    "crew": [
+                        "leiaorgana"
+                    ]
+                }
+            }
+        ],
+        "points": 199,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Name": "John Witherspoon",
+    "Option1": {
+        "faction": "firstorder",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "starkillerbasepilot",
+                "points": 84,
+                "ship": "upsilonclasscommandshuttle",
+                "upgrades": {
+                    "crew": [
+                        "kyloren",
+                        "generalhux"
+                    ],
+                    "modification": [
+                        "hullupgrade"
+                    ],
+                    "tech": [
+                        "targetingsynchronizer"
+                    ]
+                }
+            },
+            {
+                "id": "quickdraw",
+                "points": 69,
+                "ship": "tiesffighter",
+                "upgrades": {
+                    "missile": [
+                        "concussionmissiles"
+                    ],
+                    "modification": [
+                        "targetingcomputer"
+                    ],
+                    "sensor": [
+                        "passivesensors"
+                    ],
+                    "talent": [
+                        "fanatical"
+                    ],
+                    "tech": [
+                        "primedthrusters"
+                    ]
+                }
+            },
+            {
+                "id": "omegasquadronexpert",
+                "points": 46,
+                "ship": "tiesffighter",
+                "upgrades": {
+                    "missile": [
+                        "protonrockets"
+                    ],
+                    "talent": [
+                        "crackshot"
+                    ],
+                    "tech": [
+                        "advancedoptics"
+                    ]
+                }
+            }
+        ],
+        "points": 199,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Option2": {
+        "faction": "rebelalliance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "knavesquadronescort",
+                "points": 64,
+                "ship": "ewing",
+                "upgrades": {
+                    "astromech": [
+                        "r4astromech"
+                    ],
+                    "modification": [
+                        "afterburners"
+                    ],
+                    "torpedo": [
+                        "advprotontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "ezrabridger-tielnfighter",
+                "points": 34,
+                "ship": "tielnfighter",
+                "upgrades": {
+                    "modification": [
+                        "targetingcomputer"
+                    ]
+                }
+            },
+            {
+                "id": "braylenstramm",
+                "points": 63,
+                "ship": "asf01bwing",
+                "upgrades": {
+                    "cannon": [
+                        "autoblasters"
+                    ],
+                    "configuration": [
+                        "stabilizedsfoils"
+                    ],
+                    "sensor": [
+                        "collisiondetector"
+                    ]
+                }
+            },
+            {
+                "id": "kylekatarn",
+                "points": 34,
+                "ship": "hwk290lightfreighter",
+                "upgrades": {}
+            }
+        ],
+        "points": 195,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "TTT": "J Witherspoon",
+    "VassalForm1": "Spoon11fas",
+    "VassalForm2": "Spoon11fas"
+}

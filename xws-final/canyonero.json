@@ -1,0 +1,164 @@
+{
+    "Add": "Perceptive Copilot to Benthic Two Tubes ",
+    "Discord": "canyonero#0701",
+    "Drop": "Ion Cannon from Braylen Stramm",
+    "Final": {
+        "faction": "rebelalliance",
+        "name": "Adam SItnick JTO",
+        "obstacles": [
+            "coreasteroid0",
+            "core2asteroid0",
+            "core2asteroid4"
+        ],
+        "pilots": [
+            {
+                "id": "braylenstramm",
+                "points": 58,
+                "ship": "asf01bwing",
+                "upgrades": {
+                    "torpedo": [
+                        "iontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "alexsandrkallus",
+                "points": 77,
+                "ship": "vcx100lightfreighter",
+                "upgrades": {
+                    "crew": [
+                        "magvayarro"
+                    ]
+                }
+            },
+            {
+                "id": "benthictwotubes",
+                "points": 62,
+                "ship": "ut60duwing",
+                "upgrades": {
+                    "configuration": [
+                        "pivotwing"
+                    ],
+                    "crew": [
+                        "k2so",
+                        "perceptivecopilot"
+                    ]
+                }
+            }
+        ],
+        "points": 197,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Name": "Adam Sitnick",
+    "Option1": {
+        "faction": "rebelalliance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "braylenstramm",
+                "points": 64,
+                "ship": "asf01bwing",
+                "upgrades": {
+                    "cannon": [
+                        "ioncannon"
+                    ],
+                    "torpedo": [
+                        "iontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "alexsandrkallus",
+                "points": 77,
+                "ship": "vcx100lightfreighter",
+                "upgrades": {
+                    "crew": [
+                        "magvayarro"
+                    ]
+                }
+            },
+            {
+                "id": "benthictwotubes",
+                "points": 54,
+                "ship": "ut60duwing",
+                "upgrades": {
+                    "configuration": [
+                        "pivotwing"
+                    ],
+                    "crew": [
+                        "k2so"
+                    ]
+                }
+            }
+        ],
+        "points": 195,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Option2": {
+        "faction": "resistance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "nodinchavdri",
+                "points": 63,
+                "ship": "resistancetransport",
+                "upgrades": {
+                    "astromech": [
+                        "m9g8"
+                    ],
+                    "crew": [
+                        "seasonednavigator",
+                        "novicetechnician"
+                    ],
+                    "tech": [
+                        "ferrospherepaint"
+                    ],
+                    "torpedo": [
+                        "iontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "paigetico",
+                "points": 69,
+                "ship": "mg100starfortress",
+                "upgrades": {
+                    "gunner": [
+                        "hotshotgunner"
+                    ],
+                    "sensor": [
+                        "firecontrolsystem"
+                    ]
+                }
+            },
+            {
+                "id": "vimoradi",
+                "points": 33,
+                "ship": "resistancetransportpod",
+                "upgrades": {
+                    "tech": [
+                        "targetingsynchronizer"
+                    ]
+                }
+            },
+            {
+                "id": "r1j5",
+                "points": 30,
+                "ship": "fireball",
+                "upgrades": {
+                    "modification": [
+                        "munitionsfailsafe"
+                    ]
+                }
+            }
+        ],
+        "points": 195,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "TTT": "Adam Sitnick",
+    "VassalForm1": "canyonero",
+    "VassalForm2": "canyonero"
+}

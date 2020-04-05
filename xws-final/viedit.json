@@ -1,0 +1,181 @@
+{
+    "Add": "Passive Sensor to Lok",
+    "Discord": "viedit#0883",
+    "Drop": "Targeting computer from Dace",
+    "Final": {
+        "faction": "scumandvillainy",
+        "name": "Josh's Dace of Legend",
+        "pilots": [
+            {
+                "id": "dacebonearm",
+                "points": 65,
+                "ship": "hwk290lightfreighter",
+                "upgrades": {
+                    "crew": [
+                        "landocalrissian-crew"
+                    ],
+                    "modification": [
+                        "afterburners"
+                    ],
+                    "title": [
+                        "moldycrow"
+                    ]
+                }
+            },
+            {
+                "id": "lokrevenant",
+                "points": 61,
+                "ship": "scurrgh6bomber",
+                "upgrades": {
+                    "device": [
+                        "proximitymines"
+                    ],
+                    "sensor": [
+                        "passivesensors"
+                    ],
+                    "title": [
+                        "havoc"
+                    ],
+                    "turret": [
+                        "ioncannonturret"
+                    ]
+                }
+            },
+            {
+                "id": "lattsrazzi",
+                "points": 72,
+                "ship": "yv666lightfreighter",
+                "upgrades": {
+                    "crew": [
+                        "chewbacca-crew"
+                    ],
+                    "gunner": [
+                        "dengar"
+                    ],
+                    "missile": [
+                        "clustermissiles"
+                    ]
+                }
+            }
+        ],
+        "points": 198,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Name": "Josh Dunne",
+    "Option1": {
+        "faction": "galacticrepublic",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "ahsokatano",
+                "points": 56,
+                "ship": "delta7aethersprite",
+                "upgrades": {
+                    "astromech": [
+                        "r2a6"
+                    ],
+                    "modification": [
+                        "staticdischargevanes"
+                    ]
+                }
+            },
+            {
+                "id": "goji",
+                "points": 56,
+                "ship": "btlbywing",
+                "upgrades": {
+                    "astromech": [
+                        "r4p44"
+                    ],
+                    "device": [
+                        "electroprotonbomb"
+                    ],
+                    "gunner": [
+                        "hotshotgunner"
+                    ]
+                }
+            },
+            {
+                "id": "kickback",
+                "points": 33,
+                "ship": "v19torrentstarfighter",
+                "upgrades": {}
+            },
+            {
+                "id": "jag",
+                "points": 54,
+                "ship": "arc170starfighter",
+                "upgrades": {
+                    "modification": [
+                        "staticdischargevanes"
+                    ]
+                }
+            }
+        ],
+        "points": 199,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Option2": {
+        "faction": "scumandvillainy",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "dacebonearm",
+                "points": 68,
+                "ship": "hwk290lightfreighter",
+                "upgrades": {
+                    "crew": [
+                        "landocalrissian-crew"
+                    ],
+                    "modification": [
+                        "targetingcomputer",
+                        "afterburners"
+                    ],
+                    "title": [
+                        "moldycrow"
+                    ]
+                }
+            },
+            {
+                "id": "lokrevenant",
+                "points": 58,
+                "ship": "scurrgh6bomber",
+                "upgrades": {
+                    "device": [
+                        "proximitymines"
+                    ],
+                    "title": [
+                        "havoc"
+                    ],
+                    "turret": [
+                        "ioncannonturret"
+                    ]
+                }
+            },
+            {
+                "id": "lattsrazzi",
+                "points": 72,
+                "ship": "yv666lightfreighter",
+                "upgrades": {
+                    "crew": [
+                        "chewbacca-crew"
+                    ],
+                    "gunner": [
+                        "dengar"
+                    ],
+                    "missile": [
+                        "clustermissiles"
+                    ]
+                }
+            }
+        ],
+        "points": 198,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "TTT": "Josh Dunne",
+    "VassalForm1": "viedit",
+    "VassalForm2": "viedit"
+}

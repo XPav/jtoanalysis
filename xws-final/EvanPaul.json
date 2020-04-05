@@ -1,0 +1,170 @@
+{
+    "Add": "Mag Pulse to Ember",
+    "Discord": "DocVelo#3200",
+    "Drop": "Static discharge from Ember",
+    "Final": {
+        "faction": "firstorder",
+        "name": "Evan's Jank Tank Squad",
+        "pilots": [
+            {
+                "id": "ember",
+                "points": 59,
+                "ship": "tiebainterceptor",
+                "upgrades": {
+                    "missile": [
+                        "magpulsewarheads"
+                    ],
+                    "tech": [
+                        "biohexacryptcodes"
+                    ]
+                }
+            },
+            {
+                "id": "avenger",
+                "points": 64,
+                "ship": "tievnsilencer",
+                "upgrades": {
+                    "missile": [
+                        "protonrockets"
+                    ],
+                    "tech": [
+                        "biohexacryptcodes"
+                    ]
+                }
+            },
+            {
+                "id": "lieutenanttavson",
+                "points": 76,
+                "ship": "upsilonclasscommandshuttle",
+                "upgrades": {
+                    "crew": [
+                        "kyloren"
+                    ],
+                    "modification": [
+                        "munitionsfailsafe"
+                    ]
+                }
+            }
+        ],
+        "points": 199,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Name": "Evan Paul",
+    "Option1": {
+        "faction": "firstorder",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "ember",
+                "points": 59,
+                "ship": "tiebainterceptor",
+                "upgrades": {
+                    "modification": [
+                        "staticdischargevanes"
+                    ],
+                    "tech": [
+                        "biohexacryptcodes"
+                    ]
+                }
+            },
+            {
+                "id": "avenger",
+                "points": 64,
+                "ship": "tievnsilencer",
+                "upgrades": {
+                    "missile": [
+                        "protonrockets"
+                    ],
+                    "tech": [
+                        "biohexacryptcodes"
+                    ]
+                }
+            },
+            {
+                "id": "lieutenanttavson",
+                "points": 76,
+                "ship": "upsilonclasscommandshuttle",
+                "upgrades": {
+                    "crew": [
+                        "kyloren"
+                    ],
+                    "modification": [
+                        "munitionsfailsafe"
+                    ]
+                }
+            }
+        ],
+        "points": 199,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Option2": {
+        "faction": "separatistalliance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "skakoanace",
+                "points": 51,
+                "ship": "belbullab22starfighter",
+                "upgrades": {
+                    "modification": [
+                        "hullupgrade"
+                    ],
+                    "talent": [
+                        "predator"
+                    ],
+                    "title": [
+                        "soullessone"
+                    ]
+                }
+            },
+            {
+                "id": "petranakiarenaace",
+                "points": 51,
+                "ship": "nantexclassstarfighter",
+                "upgrades": {
+                    "talent": [
+                        "juke",
+                        "outmaneuver"
+                    ]
+                }
+            },
+            {
+                "id": "skakoanace",
+                "points": 50,
+                "ship": "belbullab22starfighter",
+                "upgrades": {
+                    "tacticalrelay": [
+                        "kraken"
+                    ],
+                    "talent": [
+                        "predator"
+                    ]
+                }
+            },
+            {
+                "id": "dbs32c",
+                "points": 48,
+                "ship": "hyenaclassdroidbomber",
+                "upgrades": {
+                    "configuration": [
+                        "landingstruts"
+                    ],
+                    "modification": [
+                        "munitionsfailsafe"
+                    ],
+                    "sensor": [
+                        "trajectorysimulator"
+                    ]
+                }
+            }
+        ],
+        "points": 200,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "TTT": "Evan Paul",
+    "VassalForm1": "EvanPaul",
+    "VassalForm2": "EvanPaul"
+}

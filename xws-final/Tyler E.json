@@ -1,0 +1,185 @@
+{
+    "Add": "Kanan Jarrus on Chewbacca",
+    "Discord": "CERPINTAXT#3454",
+    "Drop": "Gonk droid on Chewbacca",
+    "Final": {
+        "faction": "rebelalliance",
+        "name": "Tyler E JTO",
+        "obstacles": [
+            "coreasteroid5",
+            "core2asteroid4",
+            "core2asteroid5"
+        ],
+        "pilots": [
+            {
+                "id": "chewbacca",
+                "points": 93,
+                "ship": "modifiedyt1300lightfreighter",
+                "upgrades": {
+                    "crew": [
+                        "kananjarrus"
+                    ],
+                    "gunner": [
+                        "skilledbombardier"
+                    ],
+                    "talent": [
+                        "lonewolf"
+                    ],
+                    "title": [
+                        "millenniumfalcon"
+                    ]
+                }
+            },
+            {
+                "id": "sabinewren",
+                "points": 45,
+                "ship": "attackshuttle",
+                "upgrades": {
+                    "talent": [
+                        "crackshot"
+                    ],
+                    "title": [
+                        "phantom"
+                    ],
+                    "turret": [
+                        "dorsalturret"
+                    ]
+                }
+            },
+            {
+                "id": "garvendreis-t65xwing",
+                "points": 60,
+                "ship": "t65xwing",
+                "upgrades": {
+                    "astromech": [
+                        "r2astromech"
+                    ],
+                    "configuration": [
+                        "servomotorsfoils"
+                    ],
+                    "modification": [
+                        "shieldupgrade"
+                    ]
+                }
+            }
+        ],
+        "points": 198,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Name": "Tyler Evans",
+    "Option1": {
+        "faction": "rebelalliance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "chewbacca",
+                "points": 91,
+                "ship": "modifiedyt1300lightfreighter",
+                "upgrades": {
+                    "crew": [
+                        "gnkgonkdroid"
+                    ],
+                    "gunner": [
+                        "skilledbombardier"
+                    ],
+                    "talent": [
+                        "lonewolf"
+                    ],
+                    "title": [
+                        "millenniumfalcon"
+                    ]
+                }
+            },
+            {
+                "id": "sabinewren",
+                "points": 45,
+                "ship": "attackshuttle",
+                "upgrades": {
+                    "talent": [
+                        "crackshot"
+                    ],
+                    "title": [
+                        "phantom"
+                    ],
+                    "turret": [
+                        "dorsalturret"
+                    ]
+                }
+            },
+            {
+                "id": "garvendreis-t65xwing",
+                "points": 60,
+                "ship": "t65xwing",
+                "upgrades": {
+                    "astromech": [
+                        "r2astromech"
+                    ],
+                    "configuration": [
+                        "servomotorsfoils"
+                    ],
+                    "modification": [
+                        "shieldupgrade"
+                    ]
+                }
+            }
+        ],
+        "points": 196,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Option2": {
+        "faction": "firstorder",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "zetasquadronsurvivor",
+                "points": 40,
+                "ship": "tiesffighter",
+                "upgrades": {
+                    "modification": [
+                        "delayedfuses"
+                    ],
+                    "sensor": [
+                        "passivesensors"
+                    ],
+                    "tech": [
+                        "advancedoptics"
+                    ]
+                }
+            },
+            {
+                "id": "ember",
+                "points": 55,
+                "ship": "tiebainterceptor",
+                "upgrades": {
+                    "talent": [
+                        "intimidation"
+                    ]
+                }
+            },
+            {
+                "id": "midnight",
+                "points": 46,
+                "ship": "tiefofighter",
+                "upgrades": {
+                    "talent": [
+                        "trickshot"
+                    ]
+                }
+            },
+            {
+                "id": "firstordertestpilot",
+                "points": 56,
+                "ship": "tievnsilencer",
+                "upgrades": {}
+            }
+        ],
+        "points": 197,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "TTT": "Tyler Evans",
+    "VassalForm1": "Tyler E",
+    "VassalForm2": "Tyler E"
+}

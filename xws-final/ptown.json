@@ -1,0 +1,165 @@
+{
+    "Add": "Adding Shield Upgrade to the VCX-100. ",
+    "Discord": "ptown",
+    "Drop": "N/A",
+    "Final": {
+        "faction": "rebelalliance",
+        "name": "Preston Person JTO",
+        "obstacles": [
+            "gascloud4",
+            "gascloud5",
+            "gascloud6"
+        ],
+        "pilots": [
+            {
+                "id": "evaanverlaine",
+                "points": 76,
+                "ship": "btla4ywing",
+                "upgrades": {
+                    "astromech": [
+                        "r3astromech"
+                    ],
+                    "device": [
+                        "seismiccharges"
+                    ],
+                    "gunner": [
+                        "lukeskywalker"
+                    ],
+                    "torpedo": [
+                        "advprotontorpedoes"
+                    ],
+                    "turret": [
+                        "dorsalturret"
+                    ]
+                }
+            },
+            {
+                "id": "lothalrebel",
+                "points": 70,
+                "ship": "vcx100lightfreighter",
+                "upgrades": {
+                    "modification": [
+                        "shieldupgrade"
+                    ]
+                }
+            },
+            {
+                "id": "lowhhrick",
+                "points": 52,
+                "ship": "auzituckgunship",
+                "upgrades": {}
+            }
+        ],
+        "points": 198,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Name": "Preston Person",
+    "Option1": {
+        "faction": "rebelalliance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "evaanverlaine",
+                "points": 76,
+                "ship": "btla4ywing",
+                "upgrades": {
+                    "astromech": [
+                        "r3astromech"
+                    ],
+                    "device": [
+                        "seismiccharges"
+                    ],
+                    "gunner": [
+                        "lukeskywalker"
+                    ],
+                    "torpedo": [
+                        "advprotontorpedoes"
+                    ],
+                    "turret": [
+                        "dorsalturret"
+                    ]
+                }
+            },
+            {
+                "id": "lothalrebel",
+                "points": 67,
+                "ship": "vcx100lightfreighter",
+                "upgrades": {}
+            },
+            {
+                "id": "lowhhrick",
+                "points": 52,
+                "ship": "auzituckgunship",
+                "upgrades": {}
+            }
+        ],
+        "points": 195,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Option2": {
+        "faction": "separatistalliance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "dfs311",
+                "points": 23,
+                "ship": "vultureclassdroidfighter",
+                "upgrades": {}
+            },
+            {
+                "id": "sunfac",
+                "points": 59,
+                "ship": "nantexclassstarfighter",
+                "upgrades": {
+                    "talent": [
+                        "lonewolf"
+                    ]
+                }
+            },
+            {
+                "id": "generalgrievous",
+                "points": 50,
+                "ship": "belbullab22starfighter",
+                "upgrades": {
+                    "title": [
+                        "soullessone"
+                    ]
+                }
+            },
+            {
+                "id": "separatistbomber",
+                "points": 41,
+                "ship": "hyenaclassdroidbomber",
+                "upgrades": {
+                    "configuration": [
+                        "landingstruts"
+                    ],
+                    "modification": [
+                        "shieldupgrade"
+                    ],
+                    "torpedo": [
+                        "advprotontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "tradefederationdrone",
+                "points": 26,
+                "ship": "vultureclassdroidfighter",
+                "upgrades": {
+                    "missile": [
+                        "protonrockets"
+                    ]
+                }
+            }
+        ],
+        "points": 199,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "TTT": "Preston Person",
+    "VassalForm1": "ptown",
+    "VassalForm2": "ptown"
+}

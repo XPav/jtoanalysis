@@ -1,0 +1,181 @@
+{
+    "Add": "Amalyn Holdo to R1-J5",
+    "Discord": "missileaway",
+    "Drop": "Primed thrusters from Zari Bangal",
+    "Final": {
+        "faction": "resistance",
+        "name": "Ben McCarty JTO squad",
+        "obstacles": [
+            "coreasteroid0",
+            "yt2400debris2",
+            "gascloud1"
+        ],
+        "pilots": [
+            {
+                "id": "zaribangel",
+                "points": 44,
+                "ship": "rz2awing",
+                "upgrades": {
+                    "missile": [
+                        "protonrockets"
+                    ],
+                    "talent": [
+                        "predator"
+                    ]
+                }
+            },
+            {
+                "id": "ronithblario",
+                "points": 35,
+                "ship": "rz2awing",
+                "upgrades": {
+                    "talent": [
+                        "crackshot"
+                    ]
+                }
+            },
+            {
+                "id": "bluesquadronrookie",
+                "points": 46,
+                "ship": "t70xwing",
+                "upgrades": {
+                    "configuration": [
+                        "integratedsfoils"
+                    ],
+                    "tech": [
+                        "advancedoptics"
+                    ]
+                }
+            },
+            {
+                "id": "jarekyeager",
+                "points": 36,
+                "ship": "fireball",
+                "upgrades": {
+                    "illicit": [
+                        "feedbackarray"
+                    ]
+                }
+            },
+            {
+                "id": "r1j5",
+                "points": 37,
+                "ship": "fireball",
+                "upgrades": {
+                    "crew": [
+                        "amilynholdo"
+                    ]
+                }
+            }
+        ],
+        "points": 198,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Name": "Ben McCarty",
+    "Option1": {
+        "faction": "rebelalliance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "wullffwarro",
+                "points": 66,
+                "ship": "auzituckgunship",
+                "upgrades": {
+                    "crew": [
+                        "seasonednavigator"
+                    ],
+                    "modification": [
+                        "stealthdevice"
+                    ]
+                }
+            },
+            {
+                "id": "wildspacefringer",
+                "points": 77,
+                "ship": "yt2400lightfreighter",
+                "upgrades": {}
+            },
+            {
+                "id": "tennumb",
+                "points": 54,
+                "ship": "asf01bwing",
+                "upgrades": {
+                    "cannon": [
+                        "ioncannon"
+                    ]
+                }
+            }
+        ],
+        "points": 197,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Option2": {
+        "faction": "resistance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "zaribangel",
+                "points": 51,
+                "ship": "rz2awing",
+                "upgrades": {
+                    "missile": [
+                        "protonrockets"
+                    ],
+                    "talent": [
+                        "predator"
+                    ],
+                    "tech": [
+                        "primedthrusters"
+                    ]
+                }
+            },
+            {
+                "id": "ronithblario",
+                "points": 35,
+                "ship": "rz2awing",
+                "upgrades": {
+                    "talent": [
+                        "crackshot"
+                    ]
+                }
+            },
+            {
+                "id": "bluesquadronrookie",
+                "points": 46,
+                "ship": "t70xwing",
+                "upgrades": {
+                    "configuration": [
+                        "integratedsfoils"
+                    ],
+                    "tech": [
+                        "advancedoptics"
+                    ]
+                }
+            },
+            {
+                "id": "jarekyeager",
+                "points": 36,
+                "ship": "fireball",
+                "upgrades": {
+                    "illicit": [
+                        "feedbackarray"
+                    ]
+                }
+            },
+            {
+                "id": "r1j5",
+                "points": 29,
+                "ship": "fireball",
+                "upgrades": {}
+            }
+        ],
+        "points": 197,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "TTT": "Ben McCarty",
+    "VassalForm1": "missileaway",
+    "VassalForm2": "missileaway"
+}

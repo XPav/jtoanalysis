@@ -1,0 +1,168 @@
+{
+    "Add": "none",
+    "Discord": "Gremz#0132",
+    "Drop": "none",
+    "Final": {
+        "faction": "rebelalliance",
+        "name": "Neil Photay JTO",
+        "obstacles": [
+            "yt2400debris1",
+            "vt49decimatordebris1",
+            "vt49decimatordebris2"
+        ],
+        "pilots": [
+            {
+                "id": "janors",
+                "points": 69,
+                "ship": "hwk290lightfreighter",
+                "upgrades": {
+                    "crew": [
+                        "r2d2-crew"
+                    ],
+                    "title": [
+                        "moldycrow"
+                    ]
+                }
+            },
+            {
+                "id": "alexsandrkallus",
+                "points": 87,
+                "ship": "vcx100lightfreighter",
+                "upgrades": {
+                    "crew": [
+                        "zeborrelios"
+                    ],
+                    "gunner": [
+                        "ezrabridger"
+                    ],
+                    "turret": [
+                        "dorsalturret"
+                    ]
+                }
+            },
+            {
+                "id": "edriotwotubes",
+                "points": 43,
+                "ship": "t65xwing",
+                "upgrades": {
+                    "configuration": [
+                        "servomotorsfoils"
+                    ]
+                }
+            }
+        ],
+        "points": 199,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Name": "Neil Photay",
+    "Option1": {
+        "faction": "rebelalliance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "janors",
+                "points": 69,
+                "ship": "hwk290lightfreighter",
+                "upgrades": {
+                    "crew": [
+                        "r2d2-crew"
+                    ],
+                    "title": [
+                        "moldycrow"
+                    ]
+                }
+            },
+            {
+                "id": "alexsandrkallus",
+                "points": 87,
+                "ship": "vcx100lightfreighter",
+                "upgrades": {
+                    "crew": [
+                        "zeborrelios"
+                    ],
+                    "gunner": [
+                        "ezrabridger"
+                    ],
+                    "turret": [
+                        "dorsalturret"
+                    ]
+                }
+            },
+            {
+                "id": "edriotwotubes",
+                "points": 43,
+                "ship": "t65xwing",
+                "upgrades": {
+                    "configuration": [
+                        "servomotorsfoils"
+                    ]
+                }
+            }
+        ],
+        "points": 199,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Option2": {
+        "faction": "separatistalliance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "berwerkret",
+                "points": 41,
+                "ship": "nantexclassstarfighter",
+                "upgrades": {
+                    "talent": [
+                        "composure"
+                    ]
+                }
+            },
+            {
+                "id": "captainsear",
+                "points": 56,
+                "ship": "belbullab22starfighter",
+                "upgrades": {
+                    "tacticalrelay": [
+                        "k2b4"
+                    ],
+                    "title": [
+                        "soullessone"
+                    ]
+                }
+            },
+            {
+                "id": "066",
+                "points": 81,
+                "ship": "sithinfiltrator",
+                "upgrades": {
+                    "cannon": [
+                        "tractorbeam"
+                    ],
+                    "crew": [
+                        "gnkgonkdroid",
+                        "novicetechnician"
+                    ],
+                    "title": [
+                        "scimitar"
+                    ],
+                    "torpedo": [
+                        "plasmatorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "tradefederationdrone",
+                "points": 19,
+                "ship": "vultureclassdroidfighter",
+                "upgrades": {}
+            }
+        ],
+        "points": 197,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "TTT": "Neil Photay 'Gremz'",
+    "VassalForm1": "Gremz",
+    "VassalForm2": "Gremz "
+}

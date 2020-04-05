@@ -1,0 +1,179 @@
+{
+    "Add": "Nien Numb to Lando Calrissian (Modified YT-1300 Light Freighter)",
+    "Discord": "Shadow Marvel#7617",
+    "Drop": "R5-D8 from AP-5 (Sheathipede-class Shuttle)",
+    "Final": {
+        "faction": "rebelalliance",
+        "name": "Matthew Kreiner JTO",
+        "obstacles": [
+            "coreasteroid3",
+            "coreasteroid4",
+            "coreasteroid5"
+        ],
+        "pilots": [
+            {
+                "id": "arvelcrynyd",
+                "points": 38,
+                "ship": "rz1awing",
+                "upgrades": {
+                    "talent": [
+                        "elusive",
+                        "composure"
+                    ]
+                }
+            },
+            {
+                "id": "sabinewren-tielnfighter",
+                "points": 37,
+                "ship": "tielnfighter",
+                "upgrades": {
+                    "modification": [
+                        "electronicbaffle"
+                    ],
+                    "talent": [
+                        "outmaneuver"
+                    ]
+                }
+            },
+            {
+                "id": "ap5",
+                "points": 36,
+                "ship": "sheathipedeclassshuttle",
+                "upgrades": {
+                    "crew": [
+                        "herasyndulla"
+                    ],
+                    "title": [
+                        "phantom"
+                    ]
+                }
+            },
+            {
+                "id": "landocalrissian-modifiedyt1300lightfreighter",
+                "points": 88,
+                "ship": "modifiedyt1300lightfreighter",
+                "upgrades": {
+                    "crew": [
+                        "niennunb"
+                    ],
+                    "missile": [
+                        "ionmissiles"
+                    ]
+                }
+            }
+        ],
+        "points": 199,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Name": "Matthew Kreiner",
+    "Option1": {
+        "faction": "rebelalliance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "arvelcrynyd",
+                "points": 38,
+                "ship": "rz1awing",
+                "upgrades": {
+                    "talent": [
+                        "elusive",
+                        "composure"
+                    ]
+                }
+            },
+            {
+                "id": "sabinewren-tielnfighter",
+                "points": 37,
+                "ship": "tielnfighter",
+                "upgrades": {
+                    "modification": [
+                        "electronicbaffle"
+                    ],
+                    "talent": [
+                        "outmaneuver"
+                    ]
+                }
+            },
+            {
+                "id": "ap5",
+                "points": 42,
+                "ship": "sheathipedeclassshuttle",
+                "upgrades": {
+                    "astromech": [
+                        "r5d8"
+                    ],
+                    "crew": [
+                        "herasyndulla"
+                    ],
+                    "title": [
+                        "phantom"
+                    ]
+                }
+            },
+            {
+                "id": "landocalrissian-modifiedyt1300lightfreighter",
+                "points": 83,
+                "ship": "modifiedyt1300lightfreighter",
+                "upgrades": {
+                    "missile": [
+                        "ionmissiles"
+                    ]
+                }
+            }
+        ],
+        "points": 200,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Option2": {
+        "faction": "resistance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "edonkappehl",
+                "points": 63,
+                "ship": "mg100starfortress",
+                "upgrades": {
+                    "crew": [
+                        "freelanceslicer"
+                    ]
+                }
+            },
+            {
+                "id": "pammichnerrogoode",
+                "points": 72,
+                "ship": "resistancetransport",
+                "upgrades": {
+                    "astromech": [
+                        "m9g8"
+                    ],
+                    "cannon": [
+                        "jammingbeam"
+                    ],
+                    "crew": [
+                        "leiaorgana-resistance"
+                    ],
+                    "modification": [
+                        "angleddeflectors"
+                    ],
+                    "tech": [
+                        "targetingsynchronizer"
+                    ]
+                }
+            },
+            {
+                "id": "paigetico",
+                "points": 60,
+                "ship": "mg100starfortress",
+                "upgrades": {}
+            }
+        ],
+        "points": 195,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "TTT": "Matthew Kreiner",
+    "VassalForm1": "Shadow Marvel",
+    "VassalForm2": "Shadow Marvel"
+}

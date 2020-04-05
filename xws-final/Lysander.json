@@ -1,0 +1,187 @@
+{
+    "Add": "added R4 astromech to Black squadron ace",
+    "Discord": "Lybo",
+    "Drop": "none",
+    "Final": {
+        "faction": "resistance",
+        "name": "Lysander",
+        "pilots": [
+            {
+                "id": "elloasty",
+                "points": 69,
+                "ship": "t70xwing",
+                "upgrades": {
+                    "astromech": [
+                        "r2astromech"
+                    ],
+                    "configuration": [
+                        "integratedsfoils"
+                    ],
+                    "modification": [
+                        "hullupgrade"
+                    ],
+                    "title": [
+                        "blackone"
+                    ]
+                }
+            },
+            {
+                "id": "pammichnerrogoode",
+                "points": 46,
+                "ship": "resistancetransport",
+                "upgrades": {
+                    "crew": [
+                        "tacticalofficer"
+                    ],
+                    "tech": [
+                        "advancedoptics"
+                    ]
+                }
+            },
+            {
+                "id": "blacksquadronace-t70xwing",
+                "points": 59,
+                "ship": "t70xwing",
+                "upgrades": {
+                    "astromech": [
+                        "r4astromech"
+                    ],
+                    "cannon": [
+                        "ioncannon"
+                    ],
+                    "configuration": [
+                        "integratedsfoils"
+                    ],
+                    "tech": [
+                        "advancedoptics"
+                    ]
+                }
+            },
+            {
+                "id": "rosetico",
+                "points": 26,
+                "ship": "resistancetransportpod",
+                "upgrades": {}
+            }
+        ],
+        "points": 200,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Name": "Lysander Lysamdrou",
+    "Option1": {
+        "faction": "galacticempire",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "majorvynder",
+                "points": 67,
+                "ship": "alphaclassstarwing",
+                "upgrades": {
+                    "configuration": [
+                        "os1arsenalloadout"
+                    ],
+                    "missile": [
+                        "homingmissiles"
+                    ],
+                    "modification": [
+                        "shieldupgrade"
+                    ],
+                    "sensor": [
+                        "trajectorysimulator"
+                    ],
+                    "torpedo": [
+                        "plasmatorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "gideonhask",
+                "points": 30,
+                "ship": "tielnfighter",
+                "upgrades": {}
+            },
+            {
+                "id": "vagabond",
+                "points": 35,
+                "ship": "tieskstriker",
+                "upgrades": {}
+            },
+            {
+                "id": "darthvader",
+                "points": 67,
+                "ship": "tieadvancedx1",
+                "upgrades": {}
+            }
+        ],
+        "points": 199,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Option2": {
+        "faction": "resistance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "elloasty",
+                "points": 69,
+                "ship": "t70xwing",
+                "upgrades": {
+                    "astromech": [
+                        "r2astromech"
+                    ],
+                    "configuration": [
+                        "integratedsfoils"
+                    ],
+                    "modification": [
+                        "hullupgrade"
+                    ],
+                    "title": [
+                        "blackone"
+                    ]
+                }
+            },
+            {
+                "id": "pammichnerrogoode",
+                "points": 46,
+                "ship": "resistancetransport",
+                "upgrades": {
+                    "crew": [
+                        "tacticalofficer"
+                    ],
+                    "tech": [
+                        "advancedoptics"
+                    ]
+                }
+            },
+            {
+                "id": "blacksquadronace-t70xwing",
+                "points": 57,
+                "ship": "t70xwing",
+                "upgrades": {
+                    "cannon": [
+                        "ioncannon"
+                    ],
+                    "configuration": [
+                        "integratedsfoils"
+                    ],
+                    "tech": [
+                        "advancedoptics"
+                    ]
+                }
+            },
+            {
+                "id": "rosetico",
+                "points": 26,
+                "ship": "resistancetransportpod",
+                "upgrades": {}
+            }
+        ],
+        "points": 198,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "TTT": "Lysander Lysandrou",
+    "VassalForm1": "Lysander",
+    "VassalForm2": "Lysander"
+}

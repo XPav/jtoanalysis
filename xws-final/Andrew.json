@@ -1,0 +1,188 @@
+{
+    "Add": "perceptive co-pilot to Finn",
+    "Discord": "johnny_raye#1947",
+    "Drop": "feedback array from Kaz",
+    "Final": {
+        "faction": "resistance",
+        "name": "Andrew Ferguson JTO",
+        "pilots": [
+            {
+                "id": "kazudaxiono",
+                "points": 58,
+                "ship": "fireball",
+                "upgrades": {
+                    "astromech": [
+                        "bb8"
+                    ],
+                    "modification": [
+                        "hullupgrade"
+                    ],
+                    "talent": [
+                        "snapshot"
+                    ]
+                }
+            },
+            {
+                "id": "pammichnerrogoode",
+                "points": 44,
+                "ship": "resistancetransport",
+                "upgrades": {
+                    "cannon": [
+                        "autoblasters"
+                    ],
+                    "tech": [
+                        "patternanalyzer"
+                    ]
+                }
+            },
+            {
+                "id": "greensquadronexpert",
+                "points": 34,
+                "ship": "rz2awing",
+                "upgrades": {}
+            },
+            {
+                "id": "finn",
+                "points": 37,
+                "ship": "resistancetransportpod",
+                "upgrades": {
+                    "crew": [
+                        "perceptivecopilot"
+                    ]
+                }
+            },
+            {
+                "id": "vimoradi",
+                "points": 27,
+                "ship": "resistancetransportpod",
+                "upgrades": {}
+            }
+        ],
+        "points": 200,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Name": "Andrew Ferguson",
+    "Option1": {
+        "faction": "resistance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "kazudaxiono",
+                "points": 61,
+                "ship": "fireball",
+                "upgrades": {
+                    "astromech": [
+                        "bb8"
+                    ],
+                    "illicit": [
+                        "feedbackarray"
+                    ],
+                    "modification": [
+                        "hullupgrade"
+                    ],
+                    "talent": [
+                        "snapshot"
+                    ]
+                }
+            },
+            {
+                "id": "pammichnerrogoode",
+                "points": 44,
+                "ship": "resistancetransport",
+                "upgrades": {
+                    "cannon": [
+                        "autoblasters"
+                    ],
+                    "tech": [
+                        "patternanalyzer"
+                    ]
+                }
+            },
+            {
+                "id": "greensquadronexpert",
+                "points": 34,
+                "ship": "rz2awing",
+                "upgrades": {}
+            },
+            {
+                "id": "finn",
+                "points": 29,
+                "ship": "resistancetransportpod",
+                "upgrades": {}
+            },
+            {
+                "id": "vimoradi",
+                "points": 27,
+                "ship": "resistancetransportpod",
+                "upgrades": {}
+            }
+        ],
+        "points": 195,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Option2": {
+        "faction": "galacticempire",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "blacksquadronscout",
+                "points": 42,
+                "ship": "tieskstriker",
+                "upgrades": {
+                    "gunner": [
+                        "agilegunner"
+                    ]
+                }
+            },
+            {
+                "id": "obsidiansquadronpilot",
+                "points": 23,
+                "ship": "tielnfighter",
+                "upgrades": {}
+            },
+            {
+                "id": "blacksquadronace",
+                "points": 33,
+                "ship": "tielnfighter",
+                "upgrades": {
+                    "modification": [
+                        "hullupgrade"
+                    ],
+                    "talent": [
+                        "marksmanship"
+                    ]
+                }
+            },
+            {
+                "id": "captainferoph",
+                "points": 47,
+                "ship": "tiereaper",
+                "upgrades": {}
+            },
+            {
+                "id": "omicrongrouppilot",
+                "points": 55,
+                "ship": "lambdaclasst4ashuttle",
+                "upgrades": {
+                    "crew": [
+                        "cienaree"
+                    ],
+                    "sensor": [
+                        "firecontrolsystem"
+                    ],
+                    "title": [
+                        "st321"
+                    ]
+                }
+            }
+        ],
+        "points": 200,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "TTT": "Andrew Ferguson",
+    "VassalForm1": "Andrew",
+    "VassalForm2": "Andrew"
+}

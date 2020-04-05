@@ -1,0 +1,163 @@
+{
+    "Add": "Pattern Analyzer on the naked FO provocateur ",
+    "Discord": "Sebon00#0720",
+    "Drop": "Angled deflector from Rivas ",
+    "Final": {
+        "faction": "firstorder",
+        "name": "Sebon00 Jank Tank",
+        "pilots": [
+            {
+                "id": "avenger",
+                "points": 69,
+                "ship": "tievnsilencer",
+                "upgrades": {
+                    "tech": [
+                        "primedthrusters"
+                    ],
+                    "torpedo": [
+                        "iontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "firstorderprovocateur",
+                "points": 53,
+                "ship": "tiebainterceptor",
+                "upgrades": {
+                    "modification": [
+                        "shieldupgrade"
+                    ]
+                }
+            },
+            {
+                "id": "lieutenantrivas",
+                "points": 27,
+                "ship": "tiefofighter",
+                "upgrades": {}
+            },
+            {
+                "id": "firstorderprovocateur",
+                "points": 50,
+                "ship": "tiebainterceptor",
+                "upgrades": {
+                    "tech": [
+                        "patternanalyzer"
+                    ]
+                }
+            }
+        ],
+        "points": 199,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Name": "Sebastiano ",
+    "Option1": {
+        "faction": "firstorder",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "avenger",
+                "points": 69,
+                "ship": "tievnsilencer",
+                "upgrades": {
+                    "tech": [
+                        "primedthrusters"
+                    ],
+                    "torpedo": [
+                        "iontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "firstorderprovocateur",
+                "points": 53,
+                "ship": "tiebainterceptor",
+                "upgrades": {
+                    "modification": [
+                        "shieldupgrade"
+                    ]
+                }
+            },
+            {
+                "id": "lieutenantrivas",
+                "points": 30,
+                "ship": "tiefofighter",
+                "upgrades": {
+                    "modification": [
+                        "angleddeflectors"
+                    ]
+                }
+            },
+            {
+                "id": "firstorderprovocateur",
+                "points": 45,
+                "ship": "tiebainterceptor",
+                "upgrades": {}
+            }
+        ],
+        "points": 197,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Option2": {
+        "faction": "scumandvillainy",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "crymorahgoon",
+                "points": 45,
+                "ship": "btla4ywing",
+                "upgrades": {
+                    "astromech": [
+                        "r5tk"
+                    ],
+                    "device": [
+                        "electroprotonbomb"
+                    ],
+                    "illicit": [
+                        "feedbackarray"
+                    ]
+                }
+            },
+            {
+                "id": "4lom",
+                "points": 60,
+                "ship": "g1astarfighter",
+                "upgrades": {
+                    "sensor": [
+                        "advancedsensors"
+                    ],
+                    "title": [
+                        "misthunter"
+                    ]
+                }
+            },
+            {
+                "id": "palobgodalhi",
+                "points": 65,
+                "ship": "hwk290lightfreighter",
+                "upgrades": {
+                    "modification": [
+                        "delayedfuses",
+                        "stealthdevice"
+                    ],
+                    "title": [
+                        "moldycrow"
+                    ]
+                }
+            },
+            {
+                "id": "sunnybounder",
+                "points": 27,
+                "ship": "m3ainterceptor",
+                "upgrades": {}
+            }
+        ],
+        "points": 197,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "TTT": "Sebon",
+    "VassalForm1": "Sebon",
+    "VassalForm2": "Sebon "
+}

@@ -1,0 +1,196 @@
+{
+    "Add": "Veteran Turret Gunner to Kanan",
+    "Discord": "GamblerTuba#9716",
+    "Drop": "Veteran Tail Gunner from Kanan",
+    "Final": {
+        "faction": "rebelalliance",
+        "name": "PeterRoseJTO",
+        "obstacles": [
+            "coreasteroid3",
+            "core2asteroid3",
+            "core2asteroid4"
+        ],
+        "pilots": [
+            {
+                "id": "bladesquadronveteran",
+                "points": 51,
+                "ship": "asf01bwing",
+                "upgrades": {
+                    "cannon": [
+                        "tractorbeam",
+                        "jammingbeam"
+                    ],
+                    "configuration": [
+                        "stabilizedsfoils"
+                    ],
+                    "modification": [
+                        "electronicbaffle"
+                    ],
+                    "sensor": [
+                        "firecontrolsystem"
+                    ]
+                }
+            },
+            {
+                "id": "kananjarrus",
+                "points": 115,
+                "ship": "vcx100lightfreighter",
+                "upgrades": {
+                    "crew": [
+                        "chewbacca",
+                        "k2so"
+                    ],
+                    "gunner": [
+                        "veteranturretgunner"
+                    ],
+                    "sensor": [
+                        "advancedsensors"
+                    ],
+                    "title": [
+                        "ghost"
+                    ],
+                    "turret": [
+                        "dorsalturret"
+                    ]
+                }
+            },
+            {
+                "id": "lieutenantblount",
+                "points": 33,
+                "ship": "z95af4headhunter",
+                "upgrades": {
+                    "talent": [
+                        "swarmtactics"
+                    ]
+                }
+            }
+        ],
+        "points": 199,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Name": "Peter Rose",
+    "Option1": {
+        "faction": "separatistalliance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "wattambor",
+                "points": 42,
+                "ship": "belbullab22starfighter",
+                "upgrades": {}
+            },
+            {
+                "id": "generalgrievous",
+                "points": 50,
+                "ship": "belbullab22starfighter",
+                "upgrades": {
+                    "title": [
+                        "soullessone"
+                    ]
+                }
+            },
+            {
+                "id": "dfs081",
+                "points": 27,
+                "ship": "vultureclassdroidfighter",
+                "upgrades": {
+                    "configuration": [
+                        "grapplingstruts"
+                    ]
+                }
+            },
+            {
+                "id": "precisehunter",
+                "points": 31,
+                "ship": "vultureclassdroidfighter",
+                "upgrades": {
+                    "configuration": [
+                        "grapplingstruts"
+                    ],
+                    "missile": [
+                        "protonrockets"
+                    ]
+                }
+            },
+            {
+                "id": "berwerkret",
+                "points": 45,
+                "ship": "nantexclassstarfighter",
+                "upgrades": {
+                    "talent": [
+                        "lonewolf"
+                    ]
+                }
+            }
+        ],
+        "points": 195,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Option2": {
+        "faction": "rebelalliance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "bladesquadronveteran",
+                "points": 51,
+                "ship": "asf01bwing",
+                "upgrades": {
+                    "cannon": [
+                        "tractorbeam",
+                        "jammingbeam"
+                    ],
+                    "configuration": [
+                        "stabilizedsfoils"
+                    ],
+                    "modification": [
+                        "electronicbaffle"
+                    ],
+                    "sensor": [
+                        "firecontrolsystem"
+                    ]
+                }
+            },
+            {
+                "id": "kananjarrus",
+                "points": 112,
+                "ship": "vcx100lightfreighter",
+                "upgrades": {
+                    "crew": [
+                        "chewbacca",
+                        "k2so"
+                    ],
+                    "gunner": [
+                        "hotshotgunner"
+                    ],
+                    "sensor": [
+                        "advancedsensors"
+                    ],
+                    "title": [
+                        "ghost"
+                    ],
+                    "turret": [
+                        "dorsalturret"
+                    ]
+                }
+            },
+            {
+                "id": "lieutenantblount",
+                "points": 33,
+                "ship": "z95af4headhunter",
+                "upgrades": {
+                    "talent": [
+                        "swarmtactics"
+                    ]
+                }
+            }
+        ],
+        "points": 196,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "TTT": "GamblerTuba",
+    "VassalForm1": "Gamblertuba",
+    "VassalForm2": "GamblerTuba"
+}

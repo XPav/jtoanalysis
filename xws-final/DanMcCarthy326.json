@@ -1,0 +1,174 @@
+{
+    "Add": "Precognitive Reflexes to Saesee Tiin",
+    "Discord": "madmc326#8558",
+    "Drop": "Static Discharge Veins from Saesee Tiin",
+    "Final": {
+        "faction": "galacticrepublic",
+        "name": "Dan McCarthy JTO",
+        "pilots": [
+            {
+                "id": "sinker",
+                "points": 74,
+                "ship": "arc170starfighter",
+                "upgrades": {
+                    "crew": [
+                        "seasonednavigator"
+                    ],
+                    "modification": [
+                        "electronicbaffle"
+                    ],
+                    "torpedo": [
+                        "protontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "saeseetiin",
+                "points": 68,
+                "ship": "delta7aethersprite",
+                "upgrades": {
+                    "configuration": [
+                        "delta7b"
+                    ],
+                    "force-power": [
+                        "precognitivereflexes"
+                    ]
+                }
+            },
+            {
+                "id": "bravoflightofficer",
+                "points": 54,
+                "ship": "nabooroyaln1starfighter",
+                "upgrades": {
+                    "astromech": [
+                        "r2a6"
+                    ],
+                    "sensor": [
+                        "firecontrolsystem"
+                    ],
+                    "torpedo": [
+                        "protontorpedoes"
+                    ]
+                }
+            }
+        ],
+        "points": 196,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Name": "Dan McCarthy",
+    "Option1": {
+        "faction": "galacticrepublic",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "sinker",
+                "points": 74,
+                "ship": "arc170starfighter",
+                "upgrades": {
+                    "crew": [
+                        "seasonednavigator"
+                    ],
+                    "modification": [
+                        "electronicbaffle"
+                    ],
+                    "torpedo": [
+                        "protontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "saeseetiin",
+                "points": 67,
+                "ship": "delta7aethersprite",
+                "upgrades": {
+                    "configuration": [
+                        "delta7b"
+                    ],
+                    "modification": [
+                        "staticdischargevanes"
+                    ]
+                }
+            },
+            {
+                "id": "bravoflightofficer",
+                "points": 54,
+                "ship": "nabooroyaln1starfighter",
+                "upgrades": {
+                    "astromech": [
+                        "r2a6"
+                    ],
+                    "sensor": [
+                        "firecontrolsystem"
+                    ],
+                    "torpedo": [
+                        "protontorpedoes"
+                    ]
+                }
+            }
+        ],
+        "points": 195,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Option2": {
+        "faction": "firstorder",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "recoil",
+                "points": 80,
+                "ship": "tievnsilencer",
+                "upgrades": {
+                    "missile": [
+                        "magpulsewarheads"
+                    ],
+                    "talent": [
+                        "proudtradition"
+                    ],
+                    "tech": [
+                        "targetingsynchronizer"
+                    ],
+                    "torpedo": [
+                        "plasmatorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "commandermalarus",
+                "points": 49,
+                "ship": "tiefofighter",
+                "upgrades": {
+                    "modification": [
+                        "angleddeflectors"
+                    ],
+                    "talent": [
+                        "elusive"
+                    ],
+                    "tech": [
+                        "patternanalyzer"
+                    ]
+                }
+            },
+            {
+                "id": "sienarjaemusengineer",
+                "points": 69,
+                "ship": "tievnsilencer",
+                "upgrades": {
+                    "missile": [
+                        "clustermissiles"
+                    ],
+                    "torpedo": [
+                        "protontorpedoes"
+                    ]
+                }
+            }
+        ],
+        "points": 198,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "TTT": "Daniel McCarthy",
+    "VassalForm1": "DanMcCarthy326",
+    "VassalForm2": "DanMcCarthy326"
+}

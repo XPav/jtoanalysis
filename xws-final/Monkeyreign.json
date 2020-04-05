@@ -1,0 +1,187 @@
+{
+    "Add": "R4 Asto on Cova",
+    "Discord": "Monkeyreign#8549",
+    "Drop": "Swarm Tactics from Joff Seastriker",
+    "Final": {
+        "faction": "resistance",
+        "name": "The Sympathy Smasher",
+        "pilots": [
+            {
+                "id": "resistancesympathizer",
+                "points": 79,
+                "ship": "scavengedyt1300",
+                "upgrades": {
+                    "crew": [
+                        "leiaorgana-resistance"
+                    ],
+                    "illicit": [
+                        "inertialdampeners"
+                    ]
+                }
+            },
+            {
+                "id": "jophseastriker",
+                "points": 61,
+                "ship": "t70xwing",
+                "upgrades": {
+                    "astromech": [
+                        "r2ha"
+                    ],
+                    "configuration": [
+                        "integratedsfoils"
+                    ],
+                    "tech": [
+                        "ferrospherepaint"
+                    ]
+                }
+            },
+            {
+                "id": "covanell",
+                "points": 59,
+                "ship": "resistancetransport",
+                "upgrades": {
+                    "astromech": [
+                        "r4astromech"
+                    ],
+                    "tech": [
+                        "ferrospherepaint"
+                    ],
+                    "torpedo": [
+                        "protontorpedoes"
+                    ]
+                }
+            }
+        ],
+        "points": 199,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Name": "Aaron Daiter",
+    "Option1": {
+        "faction": "resistance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "resistancesympathizer",
+                "points": 79,
+                "ship": "scavengedyt1300",
+                "upgrades": {
+                    "crew": [
+                        "leiaorgana-resistance"
+                    ],
+                    "illicit": [
+                        "inertialdampeners"
+                    ]
+                }
+            },
+            {
+                "id": "jophseastriker",
+                "points": 64,
+                "ship": "t70xwing",
+                "upgrades": {
+                    "astromech": [
+                        "r2ha"
+                    ],
+                    "configuration": [
+                        "integratedsfoils"
+                    ],
+                    "talent": [
+                        "swarmtactics"
+                    ],
+                    "tech": [
+                        "ferrospherepaint"
+                    ]
+                }
+            },
+            {
+                "id": "covanell",
+                "points": 57,
+                "ship": "resistancetransport",
+                "upgrades": {
+                    "tech": [
+                        "ferrospherepaint"
+                    ],
+                    "torpedo": [
+                        "protontorpedoes"
+                    ]
+                }
+            }
+        ],
+        "points": 200,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Option2": {
+        "faction": "scumandvillainy",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "cartelexecutioner",
+                "points": 63,
+                "ship": "m12lkimogilafighter",
+                "upgrades": {
+                    "astromech": [
+                        "r5tk"
+                    ],
+                    "illicit": [
+                        "inertialdampeners"
+                    ],
+                    "missile": [
+                        "concussionmissiles"
+                    ],
+                    "modification": [
+                        "delayedfuses"
+                    ],
+                    "talent": [
+                        "outmaneuver"
+                    ],
+                    "torpedo": [
+                        "advprotontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "oldteroch",
+                "points": 69,
+                "ship": "fangfighter",
+                "upgrades": {
+                    "talent": [
+                        "debrisgambit"
+                    ],
+                    "torpedo": [
+                        "plasmatorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "binayrepirate",
+                "points": 31,
+                "ship": "z95af4headhunter",
+                "upgrades": {
+                    "illicit": [
+                        "cloakingdevice"
+                    ],
+                    "missile": [
+                        "homingmissiles"
+                    ]
+                }
+            },
+            {
+                "id": "l337-escapecraft",
+                "points": 33,
+                "ship": "escapecraft",
+                "upgrades": {
+                    "crew": [
+                        "lattsrazzi"
+                    ]
+                }
+            }
+        ],
+        "points": 196,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "TTT": "Aaron Daiter",
+    "VassalForm1": "Monkeyreign",
+    "VassalForm2": "Monkeyreign "
+}

@@ -1,0 +1,171 @@
+{
+    "Add": "Leia Crew",
+    "Discord": "McDLT_ca#7854",
+    "Drop": "juke on itbisan",
+    "Final": {
+        "faction": "rebelalliance",
+        "name": "jank tank rebell mcdlt",
+        "pilots": [
+            {
+                "id": "norrawexley-btla4ywing",
+                "points": 50,
+                "ship": "btla4ywing",
+                "upgrades": {
+                    "torpedo": [
+                        "iontorpedoes"
+                    ],
+                    "turret": [
+                        "dorsalturret"
+                    ]
+                }
+            },
+            {
+                "id": "sabinewren-tielnfighter",
+                "points": 37,
+                "ship": "tielnfighter",
+                "upgrades": {
+                    "modification": [
+                        "shieldupgrade"
+                    ]
+                }
+            },
+            {
+                "id": "ibtisam",
+                "points": 53,
+                "ship": "arc170starfighter",
+                "upgrades": {
+                    "crew": [
+                        "leiaorgana"
+                    ]
+                }
+            },
+            {
+                "id": "wedgeantilles",
+                "points": 55,
+                "ship": "t65xwing",
+                "upgrades": {
+                    "configuration": [
+                        "servomotorsfoils"
+                    ]
+                }
+            }
+        ],
+        "points": 195,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Name": "steve mclean",
+    "Option1": {
+        "faction": "separatistalliance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "darkcourier",
+                "points": 65,
+                "ship": "sithinfiltrator",
+                "upgrades": {
+                    "cannon": [
+                        "jammingbeam"
+                    ],
+                    "crew": [
+                        "generalgrievous",
+                        "novicetechnician"
+                    ],
+                    "modification": [
+                        "targetingcomputer"
+                    ],
+                    "title": [
+                        "scimitar"
+                    ]
+                }
+            },
+            {
+                "id": "wattambor",
+                "points": 47,
+                "ship": "belbullab22starfighter",
+                "upgrades": {
+                    "talent": [
+                        "lonewolf"
+                    ]
+                }
+            },
+            {
+                "id": "feethanottrawautopilot",
+                "points": 51,
+                "ship": "belbullab22starfighter",
+                "upgrades": {
+                    "tacticalrelay": [
+                        "kraken"
+                    ],
+                    "title": [
+                        "soullessone"
+                    ]
+                }
+            },
+            {
+                "id": "feethanottrawautopilot",
+                "points": 35,
+                "ship": "belbullab22starfighter",
+                "upgrades": {}
+            }
+        ],
+        "points": 198,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Option2": {
+        "faction": "rebelalliance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "norrawexley-btla4ywing",
+                "points": 50,
+                "ship": "btla4ywing",
+                "upgrades": {
+                    "torpedo": [
+                        "iontorpedoes"
+                    ],
+                    "turret": [
+                        "dorsalturret"
+                    ]
+                }
+            },
+            {
+                "id": "sabinewren-tielnfighter",
+                "points": 37,
+                "ship": "tielnfighter",
+                "upgrades": {
+                    "modification": [
+                        "shieldupgrade"
+                    ]
+                }
+            },
+            {
+                "id": "ibtisam",
+                "points": 53,
+                "ship": "arc170starfighter",
+                "upgrades": {
+                    "talent": [
+                        "juke"
+                    ]
+                }
+            },
+            {
+                "id": "wedgeantilles",
+                "points": 55,
+                "ship": "t65xwing",
+                "upgrades": {
+                    "configuration": [
+                        "servomotorsfoils"
+                    ]
+                }
+            }
+        ],
+        "points": 195,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "TTT": "steve mclean",
+    "VassalForm1": "McDLT",
+    "VassalForm2": "McDLT"
+}

@@ -1,0 +1,143 @@
+{
+    "Add": "Dauntless to RAC",
+    "Discord": "SciFighter6958",
+    "Drop": "Connor Nets from Countdown",
+    "Final": {
+        "faction": "galacticempire",
+        "name": "Jankdown",
+        "obstacles": [
+            "core2asteroid0",
+            "core2asteroid1",
+            "core2asteroid2"
+        ],
+        "pilots": [
+            {
+                "id": "lieutenantkestal",
+                "points": 31,
+                "ship": "tieagaggressor",
+                "upgrades": {}
+            },
+            {
+                "id": "countdown",
+                "points": 44,
+                "ship": "tieskstriker",
+                "upgrades": {}
+            },
+            {
+                "id": "duchess",
+                "points": 42,
+                "ship": "tieskstriker",
+                "upgrades": {}
+            },
+            {
+                "id": "rearadmiralchiraneau",
+                "points": 80,
+                "ship": "vt49decimator",
+                "upgrades": {
+                    "title": [
+                        "dauntless"
+                    ]
+                }
+            }
+        ],
+        "points": 197,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Name": "Jeff Wilson",
+    "Option1": {
+        "faction": "firstorder",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "static",
+                "points": 41,
+                "ship": "tiefofighter",
+                "upgrades": {
+                    "modification": [
+                        "electronicbaffle"
+                    ],
+                    "talent": [
+                        "crackshot"
+                    ],
+                    "tech": [
+                        "patternanalyzer"
+                    ]
+                }
+            },
+            {
+                "id": "majorvonreg",
+                "points": 69,
+                "ship": "tiebainterceptor",
+                "upgrades": {
+                    "modification": [
+                        "afterburners"
+                    ],
+                    "tech": [
+                        "targetingsynchronizer"
+                    ]
+                }
+            },
+            {
+                "id": "majorstridan",
+                "points": 88,
+                "ship": "upsilonclasscommandshuttle",
+                "upgrades": {
+                    "crew": [
+                        "supremeleadersnoke",
+                        "freelanceslicer"
+                    ],
+                    "sensor": [
+                        "advancedsensors"
+                    ],
+                    "tech": [
+                        "biohexacryptcodes"
+                    ]
+                }
+            }
+        ],
+        "points": 198,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Option2": {
+        "faction": "galacticempire",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "countdown",
+                "points": 50,
+                "ship": "tieskstriker",
+                "upgrades": {
+                    "device": [
+                        "connernets"
+                    ]
+                }
+            },
+            {
+                "id": "rearadmiralchiraneau",
+                "points": 76,
+                "ship": "vt49decimator",
+                "upgrades": {}
+            },
+            {
+                "id": "duchess",
+                "points": 42,
+                "ship": "tieskstriker",
+                "upgrades": {}
+            },
+            {
+                "id": "lieutenantkestal",
+                "points": 31,
+                "ship": "tieagaggressor",
+                "upgrades": {}
+            }
+        ],
+        "points": 199,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "TTT": "Jeff Wilson",
+    "VassalForm1": "SciFighter",
+    "VassalForm2": "SciFighter"
+}

@@ -1,0 +1,175 @@
+{
+    "Add": "Add Dengar gunner to Freighter Captain YT1300",
+    "Discord": "BenJanssen (User#0122)",
+    "Drop": "Remove Juke from Hired Gun BTL-A4 Y Wing",
+    "Final": {
+        "faction": "scumandvillainy",
+        "name": "Ben Janssen JTO",
+        "obstacles": [
+            "coreasteroid0",
+            "coreasteroid1",
+            "core2asteroid0"
+        ],
+        "pilots": [
+            {
+                "id": "blacksunassassin",
+                "points": 48,
+                "ship": "starviperclassattackplatform",
+                "upgrades": {}
+            },
+            {
+                "id": "hiredgun",
+                "points": 41,
+                "ship": "btla4ywing",
+                "upgrades": {
+                    "torpedo": [
+                        "plasmatorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "freightercaptain",
+                "points": 56,
+                "ship": "customizedyt1300lightfreighter",
+                "upgrades": {
+                    "crew": [
+                        "l337"
+                    ],
+                    "gunner": [
+                        "dengar"
+                    ]
+                }
+            },
+            {
+                "id": "talonbanecobra",
+                "points": 50,
+                "ship": "kihraxzfighter",
+                "upgrades": {}
+            }
+        ],
+        "points": 195,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Name": "Ben Janssen",
+    "Option1": {
+        "faction": "resistance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "vimoradi",
+                "points": 33,
+                "ship": "resistancetransportpod",
+                "upgrades": {
+                    "modification": [
+                        "munitionsfailsafe"
+                    ],
+                    "tech": [
+                        "primedthrusters"
+                    ]
+                }
+            },
+            {
+                "id": "bb8",
+                "points": 40,
+                "ship": "resistancetransportpod",
+                "upgrades": {
+                    "crew": [
+                        "larmadacy"
+                    ],
+                    "modification": [
+                        "electronicbaffle"
+                    ],
+                    "talent": [
+                        "experthandling"
+                    ],
+                    "tech": [
+                        "targetingsynchronizer"
+                    ]
+                }
+            },
+            {
+                "id": "r1j5",
+                "points": 37,
+                "ship": "fireball",
+                "upgrades": {
+                    "illicit": [
+                        "inertialdampeners"
+                    ],
+                    "missile": [
+                        "clustermissiles"
+                    ],
+                    "title": [
+                        "kazsfireball"
+                    ]
+                }
+            },
+            {
+                "id": "elloasty",
+                "points": 55,
+                "ship": "t70xwing",
+                "upgrades": {
+                    "configuration": [
+                        "integratedsfoils"
+                    ]
+                }
+            },
+            {
+                "id": "greensquadronexpert",
+                "points": 34,
+                "ship": "rz2awing",
+                "upgrades": {}
+            }
+        ],
+        "points": 199,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Option2": {
+        "faction": "scumandvillainy",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "blacksunassassin",
+                "points": 48,
+                "ship": "starviperclassattackplatform",
+                "upgrades": {}
+            },
+            {
+                "id": "hiredgun",
+                "points": 48,
+                "ship": "btla4ywing",
+                "upgrades": {
+                    "talent": [
+                        "juke"
+                    ],
+                    "torpedo": [
+                        "plasmatorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "freightercaptain",
+                "points": 50,
+                "ship": "customizedyt1300lightfreighter",
+                "upgrades": {
+                    "crew": [
+                        "l337"
+                    ]
+                }
+            },
+            {
+                "id": "talonbanecobra",
+                "points": 50,
+                "ship": "kihraxzfighter",
+                "upgrades": {}
+            }
+        ],
+        "points": 196,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "TTT": "Ben Janssen",
+    "VassalForm1": "assimilation",
+    "VassalForm2": "assimilation"
+}

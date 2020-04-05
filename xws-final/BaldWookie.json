@@ -1,0 +1,182 @@
+{
+    "Add": "Special Forces Gunner to Zeta Squadron Survivor",
+    "Discord": "BaldWookie#6233",
+    "Drop": "Advanced Sensors from Zeta Squadron Survivor",
+    "Final": {
+        "faction": "firstorder",
+        "name": "Ricardo Lopez JTO",
+        "obstacles": [
+            "core2asteroid0",
+            "core2asteroid1",
+            "core2asteroid2"
+        ],
+        "pilots": [
+            {
+                "id": "epsilonsquadroncadet",
+                "points": 31,
+                "ship": "tiefofighter",
+                "upgrades": {
+                    "tech": [
+                        "targetingsynchronizer"
+                    ]
+                }
+            },
+            {
+                "id": "lieutenanttavson",
+                "points": 74,
+                "ship": "upsilonclasscommandshuttle",
+                "upgrades": {
+                    "cannon": [
+                        "tractorbeam"
+                    ],
+                    "crew": [
+                        "captainphasma"
+                    ],
+                    "sensor": [
+                        "firecontrolsystem"
+                    ]
+                }
+            },
+            {
+                "id": "lieutenantlehuse",
+                "points": 49,
+                "ship": "tiesffighter",
+                "upgrades": {
+                    "gunner": [
+                        "specialforcesgunner"
+                    ]
+                }
+            },
+            {
+                "id": "zetasquadronsurvivor",
+                "points": 42,
+                "ship": "tiesffighter",
+                "upgrades": {
+                    "gunner": [
+                        "specialforcesgunner"
+                    ]
+                }
+            }
+        ],
+        "points": 196,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Name": "Ricardo Lopez",
+    "Option1": {
+        "faction": "firstorder",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "epsilonsquadroncadet",
+                "points": 31,
+                "ship": "tiefofighter",
+                "upgrades": {
+                    "tech": [
+                        "targetingsynchronizer"
+                    ]
+                }
+            },
+            {
+                "id": "lieutenanttavson",
+                "points": 74,
+                "ship": "upsilonclasscommandshuttle",
+                "upgrades": {
+                    "cannon": [
+                        "tractorbeam"
+                    ],
+                    "crew": [
+                        "captainphasma"
+                    ],
+                    "sensor": [
+                        "firecontrolsystem"
+                    ]
+                }
+            },
+            {
+                "id": "lieutenantlehuse",
+                "points": 49,
+                "ship": "tiesffighter",
+                "upgrades": {
+                    "gunner": [
+                        "specialforcesgunner"
+                    ]
+                }
+            },
+            {
+                "id": "zetasquadronsurvivor",
+                "points": 42,
+                "ship": "tiesffighter",
+                "upgrades": {
+                    "sensor": [
+                        "advancedsensors"
+                    ]
+                }
+            }
+        ],
+        "points": 196,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Option2": {
+        "faction": "resistance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "hansolo-scavengedyt1300",
+                "points": 84,
+                "ship": "scavengedyt1300",
+                "upgrades": {
+                    "crew": [
+                        "novicetechnician",
+                        "rosetico"
+                    ],
+                    "talent": [
+                        "outmaneuver"
+                    ]
+                }
+            },
+            {
+                "id": "pammichnerrogoode",
+                "points": 63,
+                "ship": "resistancetransport",
+                "upgrades": {
+                    "astromech": [
+                        "bbastromech"
+                    ],
+                    "cannon": [
+                        "tractorbeam"
+                    ],
+                    "crew": [
+                        "leiaorgana-resistance"
+                    ],
+                    "modification": [
+                        "shieldupgrade"
+                    ]
+                }
+            },
+            {
+                "id": "kazudaxiono",
+                "points": 52,
+                "ship": "fireball",
+                "upgrades": {
+                    "missile": [
+                        "ionmissiles"
+                    ],
+                    "modification": [
+                        "afterburners"
+                    ],
+                    "title": [
+                        "kazsfireball"
+                    ]
+                }
+            }
+        ],
+        "points": 199,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "TTT": "Ricardo Lopez",
+    "VassalForm1": "BaldWookie",
+    "VassalForm2": " BaldWookie"
+}

@@ -1,0 +1,169 @@
+{
+    "Add": "Ion turret to Broadside/ Y-wing!",
+    "Discord": "Corrvan#5414",
+    "Drop": "Dorsal Turret from Broadside/Y-wing",
+    "Final": {
+        "faction": "galacticrepublic",
+        "name": "Brad Smith JTO",
+        "pilots": [
+            {
+                "id": "luminaraunduli",
+                "points": 66,
+                "ship": "delta7aethersprite",
+                "upgrades": {
+                    "configuration": [
+                        "delta7b"
+                    ],
+                    "force-power": [
+                        "sense"
+                    ]
+                }
+            },
+            {
+                "id": "broadside",
+                "points": 51,
+                "ship": "btlbywing",
+                "upgrades": {
+                    "device": [
+                        "clustermines"
+                    ],
+                    "talent": [
+                        "experthandling"
+                    ],
+                    "turret": [
+                        "ioncannonturret"
+                    ]
+                }
+            },
+            {
+                "id": "kickback",
+                "points": 33,
+                "ship": "v19torrentstarfighter",
+                "upgrades": {}
+            },
+            {
+                "id": "wolffe",
+                "points": 50,
+                "ship": "arc170starfighter",
+                "upgrades": {}
+            }
+        ],
+        "points": 200,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Name": "Brad Smith",
+    "Option1": {
+        "faction": "galacticrepublic",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "luminaraunduli",
+                "points": 66,
+                "ship": "delta7aethersprite",
+                "upgrades": {
+                    "configuration": [
+                        "delta7b"
+                    ],
+                    "force-power": [
+                        "sense"
+                    ]
+                }
+            },
+            {
+                "id": "broadside",
+                "points": 49,
+                "ship": "btlbywing",
+                "upgrades": {
+                    "device": [
+                        "clustermines"
+                    ],
+                    "talent": [
+                        "experthandling"
+                    ],
+                    "turret": [
+                        "dorsalturret"
+                    ]
+                }
+            },
+            {
+                "id": "kickback",
+                "points": 33,
+                "ship": "v19torrentstarfighter",
+                "upgrades": {}
+            },
+            {
+                "id": "wolffe",
+                "points": 50,
+                "ship": "arc170starfighter",
+                "upgrades": {}
+            }
+        ],
+        "points": 198,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Option2": {
+        "faction": "resistance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "chewbacca-scavengedyt1300",
+                "points": 83,
+                "ship": "scavengedyt1300",
+                "upgrades": {
+                    "gunner": [
+                        "veteranturretgunner"
+                    ],
+                    "illicit": [
+                        "riggedcargochute"
+                    ],
+                    "missile": [
+                        "ionmissiles"
+                    ],
+                    "title": [
+                        "reysmillenniumfalcon"
+                    ]
+                }
+            },
+            {
+                "id": "nodinchavdri",
+                "points": 57,
+                "ship": "resistancetransport",
+                "upgrades": {
+                    "crew": [
+                        "rosetico"
+                    ],
+                    "modification": [
+                        "staticdischargevanes"
+                    ],
+                    "torpedo": [
+                        "iontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "karekun",
+                "points": 56,
+                "ship": "t70xwing",
+                "upgrades": {
+                    "cannon": [
+                        "tractorbeam"
+                    ],
+                    "configuration": [
+                        "integratedsfoils"
+                    ],
+                    "title": [
+                        "blackone"
+                    ]
+                }
+            }
+        ],
+        "points": 196,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "TTT": "Brad Smith / Corrvan",
+    "VassalForm1": "Corrvan",
+    "VassalForm2": "Corrvan"
+}

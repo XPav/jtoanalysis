@@ -1,0 +1,181 @@
+{
+    "Add": "CLT to Ahsoka",
+    "Discord": "ctsjohnz#",
+    "Drop": "N/A",
+    "Final": {
+        "faction": "galacticrepublic",
+        "name": "John Gardner JTO",
+        "obstacles": [
+            "coreasteroid5",
+            "core2asteroid4",
+            "core2asteroid5"
+        ],
+        "pilots": [
+            {
+                "id": "oddball",
+                "points": 37,
+                "ship": "v19torrentstarfighter",
+                "upgrades": {
+                    "talent": [
+                        "elusive"
+                    ]
+                }
+            },
+            {
+                "id": "bluesquadronprotector",
+                "points": 28,
+                "ship": "v19torrentstarfighter",
+                "upgrades": {
+                    "talent": [
+                        "crackshot"
+                    ]
+                }
+            },
+            {
+                "id": "bluesquadronprotector",
+                "points": 27,
+                "ship": "v19torrentstarfighter",
+                "upgrades": {}
+            },
+            {
+                "id": "shadowsquadronveteran",
+                "points": 32,
+                "ship": "btlbywing",
+                "upgrades": {}
+            },
+            {
+                "id": "redsquadronbomber",
+                "points": 30,
+                "ship": "btlbywing",
+                "upgrades": {}
+            },
+            {
+                "id": "ahsokatano",
+                "points": 46,
+                "ship": "delta7aethersprite",
+                "upgrades": {
+                    "configuration": [
+                        "calibratedlasertargeting"
+                    ]
+                }
+            }
+        ],
+        "points": 200,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Name": "John Gardner",
+    "Option1": {
+        "faction": "resistance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "rosetico",
+                "points": 51,
+                "ship": "resistancetransportpod",
+                "upgrades": {
+                    "crew": [
+                        "perceptivecopilot"
+                    ],
+                    "modification": [
+                        "afterburners"
+                    ],
+                    "talent": [
+                        "juke"
+                    ],
+                    "tech": [
+                        "advancedoptics"
+                    ]
+                }
+            },
+            {
+                "id": "poedameron",
+                "points": 71,
+                "ship": "t70xwing",
+                "upgrades": {
+                    "astromech": [
+                        "r3astromech"
+                    ],
+                    "configuration": [
+                        "integratedsfoils"
+                    ]
+                }
+            },
+            {
+                "id": "covanell",
+                "points": 38,
+                "ship": "resistancetransport",
+                "upgrades": {}
+            },
+            {
+                "id": "logisticsdivisionpilot",
+                "points": 37,
+                "ship": "resistancetransport",
+                "upgrades": {
+                    "crew": [
+                        "kaydelconnix"
+                    ]
+                }
+            }
+        ],
+        "points": 197,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Option2": {
+        "faction": "galacticrepublic",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "oddball",
+                "points": 37,
+                "ship": "v19torrentstarfighter",
+                "upgrades": {
+                    "talent": [
+                        "elusive"
+                    ]
+                }
+            },
+            {
+                "id": "bluesquadronprotector",
+                "points": 28,
+                "ship": "v19torrentstarfighter",
+                "upgrades": {
+                    "talent": [
+                        "crackshot"
+                    ]
+                }
+            },
+            {
+                "id": "redsquadronbomber",
+                "points": 30,
+                "ship": "btlbywing",
+                "upgrades": {}
+            },
+            {
+                "id": "shadowsquadronveteran",
+                "points": 32,
+                "ship": "btlbywing",
+                "upgrades": {}
+            },
+            {
+                "id": "ahsokatano",
+                "points": 44,
+                "ship": "delta7aethersprite",
+                "upgrades": {}
+            },
+            {
+                "id": "bluesquadronprotector",
+                "points": 27,
+                "ship": "v19torrentstarfighter",
+                "upgrades": {}
+            }
+        ],
+        "points": 198,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "TTT": "John Gardner ",
+    "VassalForm1": "ctsjohnz",
+    "VassalForm2": "ctsjohnz"
+}

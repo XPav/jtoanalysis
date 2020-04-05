@@ -1,0 +1,183 @@
+{
+    "Add": "adding marksmenship to maarek",
+    "Discord": "Starslinger72 #0525",
+    "Drop": "delayed fuses from striker",
+    "Final": {
+        "faction": "galacticempire",
+        "name": "Tyler Tippett JTO",
+        "pilots": [
+            {
+                "id": "tomaxbren",
+                "points": 42,
+                "ship": "tiesabomber",
+                "upgrades": {
+                    "missile": [
+                        "diamondboronmissiles"
+                    ],
+                    "talent": [
+                        "crackshot"
+                    ]
+                }
+            },
+            {
+                "id": "blacksquadronscout",
+                "points": 39,
+                "ship": "tieskstriker",
+                "upgrades": {
+                    "device": [
+                        "seismiccharges"
+                    ],
+                    "gunner": [
+                        "bt1"
+                    ]
+                }
+            },
+            {
+                "id": "captainferoph",
+                "points": 70,
+                "ship": "tiereaper",
+                "upgrades": {
+                    "crew": [
+                        "admiralsloane",
+                        "darthvader"
+                    ]
+                }
+            },
+            {
+                "id": "maarekstele",
+                "points": 49,
+                "ship": "tieadvancedx1",
+                "upgrades": {
+                    "sensor": [
+                        "passivesensors"
+                    ],
+                    "talent": [
+                        "marksmanship"
+                    ]
+                }
+            }
+        ],
+        "points": 200,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Name": "Tyler Tippett",
+    "Option1": {
+        "faction": "galacticempire",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "tomaxbren",
+                "points": 42,
+                "ship": "tiesabomber",
+                "upgrades": {
+                    "missile": [
+                        "diamondboronmissiles"
+                    ],
+                    "talent": [
+                        "crackshot"
+                    ]
+                }
+            },
+            {
+                "id": "blacksquadronscout",
+                "points": 40,
+                "ship": "tieskstriker",
+                "upgrades": {
+                    "device": [
+                        "seismiccharges"
+                    ],
+                    "gunner": [
+                        "bt1"
+                    ],
+                    "modification": [
+                        "delayedfuses"
+                    ]
+                }
+            },
+            {
+                "id": "captainferoph",
+                "points": 70,
+                "ship": "tiereaper",
+                "upgrades": {
+                    "crew": [
+                        "admiralsloane",
+                        "darthvader"
+                    ]
+                }
+            },
+            {
+                "id": "maarekstele",
+                "points": 48,
+                "ship": "tieadvancedx1",
+                "upgrades": {
+                    "sensor": [
+                        "passivesensors"
+                    ]
+                }
+            }
+        ],
+        "points": 200,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Option2": {
+        "faction": "scumandvillainy",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "landocalrissian-escapecraft",
+                "points": 34,
+                "ship": "escapecraft",
+                "upgrades": {
+                    "crew": [
+                        "chewbacca-crew"
+                    ],
+                    "talent": [
+                        "composure"
+                    ]
+                }
+            },
+            {
+                "id": "unkarplutt",
+                "points": 30,
+                "ship": "quadrijettransferspacetug",
+                "upgrades": {}
+            },
+            {
+                "id": "krassistrelix",
+                "points": 95,
+                "ship": "firesprayclasspatrolcraft",
+                "upgrades": {
+                    "cannon": [
+                        "ioncannon"
+                    ],
+                    "device": [
+                        "proximitymines"
+                    ],
+                    "gunner": [
+                        "dengar"
+                    ],
+                    "talent": [
+                        "outmaneuver"
+                    ],
+                    "title": [
+                        "marauder"
+                    ]
+                }
+            },
+            {
+                "id": "blacksunace",
+                "points": 40,
+                "ship": "kihraxzfighter",
+                "upgrades": {}
+            }
+        ],
+        "points": 199,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "TTT": "Tyler Tippett",
+    "VassalForm1": "Starslinger72",
+    "VassalForm2": "Starslinger72"
+}

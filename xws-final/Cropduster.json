@@ -1,0 +1,167 @@
+{
+    "Add": "Proton rockets to darth vader",
+    "Discord": "pilotpaul#3492",
+    "Drop": "Ion Rockets from Ved Folso",
+    "Final": {
+        "faction": "galacticempire",
+        "name": "Greg Paul JTO",
+        "pilots": [
+            {
+                "id": "vedfoslo",
+                "points": 48,
+                "ship": "tieadvancedx1",
+                "upgrades": {
+                    "modification": [
+                        "electronicbaffle"
+                    ],
+                    "talent": [
+                        "predator"
+                    ]
+                }
+            },
+            {
+                "id": "zertikstrom",
+                "points": 41,
+                "ship": "tieadvancedx1",
+                "upgrades": {}
+            },
+            {
+                "id": "darthvader",
+                "points": 80,
+                "ship": "tieadvancedx1",
+                "upgrades": {
+                    "missile": [
+                        "protonrockets"
+                    ],
+                    "sensor": [
+                        "collisiondetector"
+                    ]
+                }
+            },
+            {
+                "id": "baronoftheempire",
+                "points": 30,
+                "ship": "tieadvancedv1",
+                "upgrades": {}
+            }
+        ],
+        "points": 199,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Name": "Gregory Paul",
+    "Option1": {
+        "faction": "galacticempire",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "vedfoslo",
+                "points": 52,
+                "ship": "tieadvancedx1",
+                "upgrades": {
+                    "missile": [
+                        "ionmissiles"
+                    ],
+                    "modification": [
+                        "electronicbaffle"
+                    ],
+                    "talent": [
+                        "predator"
+                    ]
+                }
+            },
+            {
+                "id": "zertikstrom",
+                "points": 41,
+                "ship": "tieadvancedx1",
+                "upgrades": {}
+            },
+            {
+                "id": "darthvader",
+                "points": 73,
+                "ship": "tieadvancedx1",
+                "upgrades": {
+                    "sensor": [
+                        "collisiondetector"
+                    ]
+                }
+            },
+            {
+                "id": "baronoftheempire",
+                "points": 30,
+                "ship": "tieadvancedv1",
+                "upgrades": {}
+            }
+        ],
+        "points": 196,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Option2": {
+        "faction": "scumandvillainy",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "captainnym",
+                "points": 64,
+                "ship": "scurrgh6bomber",
+                "upgrades": {
+                    "device": [
+                        "clustermines"
+                    ],
+                    "modification": [
+                        "tacticalscrambler"
+                    ],
+                    "talent": [
+                        "marksmanship"
+                    ],
+                    "title": [
+                        "havoc"
+                    ],
+                    "turret": [
+                        "dorsalturret"
+                    ]
+                }
+            },
+            {
+                "id": "miningguildsentry",
+                "points": 29,
+                "ship": "modifiedtielnfighter",
+                "upgrades": {
+                    "modification": [
+                        "hullupgrade"
+                    ]
+                }
+            },
+            {
+                "id": "ig88b",
+                "points": 70,
+                "ship": "aggressorassaultfighter",
+                "upgrades": {
+                    "device": [
+                        "ionbombs"
+                    ],
+                    "talent": [
+                        "crackshot"
+                    ]
+                }
+            },
+            {
+                "id": "hiredgun",
+                "points": 34,
+                "ship": "btla4ywing",
+                "upgrades": {
+                    "gunner": [
+                        "skilledbombardier"
+                    ]
+                }
+            }
+        ],
+        "points": 197,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "TTT": "Gregory Paul",
+    "VassalForm1": "Cropduster",
+    "VassalForm2": "Cropduster"
+}

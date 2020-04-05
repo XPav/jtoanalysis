@@ -1,0 +1,156 @@
+{
+    "Add": "CLT onto Anakin Skywalker",
+    "Discord": "Saige#6427",
+    "Drop": "Trajectory simulator from Padme",
+    "Final": {
+        "faction": "galacticrepublic",
+        "name": "Don Walker JTO",
+        "obstacles": [
+            "gascloud4",
+            "gascloud5",
+            "gascloud6"
+        ],
+        "pilots": [
+            {
+                "id": "anakinskywalker",
+                "points": 70,
+                "ship": "delta7aethersprite",
+                "upgrades": {
+                    "configuration": [
+                        "calibratedlasertargeting"
+                    ],
+                    "force-power": [
+                        "heightenedperception"
+                    ]
+                }
+            },
+            {
+                "id": "goji",
+                "points": 53,
+                "ship": "btlbywing",
+                "upgrades": {
+                    "device": [
+                        "ionbombs"
+                    ],
+                    "gunner": [
+                        "ahsokatano"
+                    ],
+                    "turret": [
+                        "dorsalturret"
+                    ]
+                }
+            },
+            {
+                "id": "padmeamidala",
+                "points": 45,
+                "ship": "nabooroyaln1starfighter",
+                "upgrades": {}
+            },
+            {
+                "id": "redsquadronbomber",
+                "points": 30,
+                "ship": "btlbywing",
+                "upgrades": {}
+            }
+        ],
+        "points": 198,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Name": "Don Walker",
+    "Option1": {
+        "faction": "galacticrepublic",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "anakinskywalker",
+                "points": 65,
+                "ship": "delta7aethersprite",
+                "upgrades": {
+                    "force-power": [
+                        "heightenedperception"
+                    ]
+                }
+            },
+            {
+                "id": "goji",
+                "points": 53,
+                "ship": "btlbywing",
+                "upgrades": {
+                    "device": [
+                        "ionbombs"
+                    ],
+                    "gunner": [
+                        "ahsokatano"
+                    ],
+                    "turret": [
+                        "dorsalturret"
+                    ]
+                }
+            },
+            {
+                "id": "padmeamidala",
+                "points": 51,
+                "ship": "nabooroyaln1starfighter",
+                "upgrades": {
+                    "sensor": [
+                        "trajectorysimulator"
+                    ]
+                }
+            },
+            {
+                "id": "redsquadronbomber",
+                "points": 30,
+                "ship": "btlbywing",
+                "upgrades": {}
+            }
+        ],
+        "points": 199,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Option2": {
+        "faction": "rebelalliance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "kananjarrus",
+                "points": 89,
+                "ship": "vcx100lightfreighter",
+                "upgrades": {
+                    "torpedo": [
+                        "plasmatorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "edriotwotubes",
+                "points": 43,
+                "ship": "t65xwing",
+                "upgrades": {
+                    "configuration": [
+                        "servomotorsfoils"
+                    ]
+                }
+            },
+            {
+                "id": "ezrabridger-tielnfighter",
+                "points": 31,
+                "ship": "tielnfighter",
+                "upgrades": {}
+            },
+            {
+                "id": "airencracken",
+                "points": 36,
+                "ship": "z95af4headhunter",
+                "upgrades": {}
+            }
+        ],
+        "points": 199,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "TTT": "Don Walker",
+    "VassalForm1": "Saige771",
+    "VassalForm2": "Saige771"
+}

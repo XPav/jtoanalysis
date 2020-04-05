@@ -1,0 +1,184 @@
+{
+    "Add": "Dauntless to Oicunn",
+    "Discord": "NaKoaLani",
+    "Drop": "Weapons Malfunction from Countdown",
+    "Final": {
+        "faction": "galacticempire",
+        "name": "Jonathan Goeres JTO",
+        "obstacles": [
+            "coreasteroid3",
+            "coreasteroid4",
+            "coreasteroid5"
+        ],
+        "pilots": [
+            {
+                "id": "countdown",
+                "points": 64,
+                "ship": "tieskstriker",
+                "upgrades": {
+                    "device": [
+                        "connernets"
+                    ],
+                    "gunner": [
+                        "fifthbrother"
+                    ],
+                    "talent": [
+                        "intimidation"
+                    ]
+                }
+            },
+            {
+                "id": "captainoicunn",
+                "points": 113,
+                "ship": "vt49decimator",
+                "upgrades": {
+                    "crew": [
+                        "seventhsister",
+                        "tacticalofficer"
+                    ],
+                    "device": [
+                        "ionbombs"
+                    ],
+                    "talent": [
+                        "lonewolf"
+                    ],
+                    "title": [
+                        "dauntless"
+                    ],
+                    "torpedo": [
+                        "plasmatorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "obsidiansquadronpilot",
+                "points": 23,
+                "ship": "tielnfighter",
+                "upgrades": {}
+            }
+        ],
+        "points": 200,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Name": "Jonathan Goeres",
+    "Option1": {
+        "faction": "galacticempire",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "countdown",
+                "points": 65,
+                "ship": "tieskstriker",
+                "upgrades": {
+                    "device": [
+                        "connernets"
+                    ],
+                    "gunner": [
+                        "fifthbrother"
+                    ],
+                    "modification": [
+                        "munitionsfailsafe"
+                    ],
+                    "talent": [
+                        "intimidation"
+                    ]
+                }
+            },
+            {
+                "id": "captainoicunn",
+                "points": 109,
+                "ship": "vt49decimator",
+                "upgrades": {
+                    "crew": [
+                        "seventhsister",
+                        "tacticalofficer"
+                    ],
+                    "device": [
+                        "ionbombs"
+                    ],
+                    "talent": [
+                        "lonewolf"
+                    ],
+                    "torpedo": [
+                        "plasmatorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "obsidiansquadronpilot",
+                "points": 23,
+                "ship": "tielnfighter",
+                "upgrades": {}
+            }
+        ],
+        "points": 197,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Option2": {
+        "faction": "scumandvillainy",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "ig88a",
+                "points": 74,
+                "ship": "aggressorassaultfighter",
+                "upgrades": {
+                    "cannon": [
+                        "jammingbeam"
+                    ],
+                    "illicit": [
+                        "deadmansswitch"
+                    ],
+                    "modification": [
+                        "tacticalscrambler"
+                    ],
+                    "sensor": [
+                        "firecontrolsystem"
+                    ],
+                    "title": [
+                        "ig2000"
+                    ]
+                }
+            },
+            {
+                "id": "drearenthal",
+                "points": 81,
+                "ship": "btla4ywing",
+                "upgrades": {
+                    "astromech": [
+                        "r3astromech"
+                    ],
+                    "device": [
+                        "proximitymines"
+                    ],
+                    "illicit": [
+                        "contrabandcybernetics"
+                    ],
+                    "talent": [
+                        "elusive"
+                    ],
+                    "torpedo": [
+                        "protontorpedoes"
+                    ],
+                    "turret": [
+                        "ioncannonturret"
+                    ]
+                }
+            },
+            {
+                "id": "lokrevenant",
+                "points": 45,
+                "ship": "scurrgh6bomber",
+                "upgrades": {}
+            }
+        ],
+        "points": 200,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "TTT": "Jonathan Goeres",
+    "VassalForm1": "NaKoaLani",
+    "VassalForm2": "NaKoaLani"
+}

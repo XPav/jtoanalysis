@@ -1,0 +1,192 @@
+{
+    "Add": "Adding Proximity Mines to Deathfire",
+    "Discord": "BazAvJoes#0944",
+    "Drop": "Removing Stealth Device from Onyx Squadron Scout",
+    "Final": {
+        "faction": "galacticempire",
+        "name": "Barrie Robertson JTO",
+        "pilots": [
+            {
+                "id": "onyxsquadronscout",
+                "points": 35,
+                "ship": "tieagaggressor",
+                "upgrades": {
+                    "missile": [
+                        "protonrockets"
+                    ]
+                }
+            },
+            {
+                "id": "majorvynder",
+                "points": 48,
+                "ship": "alphaclassstarwing",
+                "upgrades": {
+                    "talent": [
+                        "crackshot"
+                    ],
+                    "torpedo": [
+                        "iontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "onyxsquadronscout",
+                "points": 33,
+                "ship": "tieagaggressor",
+                "upgrades": {
+                    "missile": [
+                        "ionmissiles"
+                    ],
+                    "talent": [
+                        "composure"
+                    ]
+                }
+            },
+            {
+                "id": "rhosquadronpilot",
+                "points": 45,
+                "ship": "alphaclassstarwing",
+                "upgrades": {
+                    "missile": [
+                        "protonrockets"
+                    ],
+                    "sensor": [
+                        "passivesensors"
+                    ]
+                }
+            },
+            {
+                "id": "deathfire",
+                "points": 38,
+                "ship": "tiesabomber",
+                "upgrades": {
+                    "device": [
+                        "proximitymines"
+                    ]
+                }
+            }
+        ],
+        "points": 199,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Name": "Barrie Robertson",
+    "Option1": {
+        "faction": "galacticempire",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "onyxsquadronscout",
+                "points": 35,
+                "ship": "tieagaggressor",
+                "upgrades": {
+                    "missile": [
+                        "protonrockets"
+                    ]
+                }
+            },
+            {
+                "id": "majorvynder",
+                "points": 48,
+                "ship": "alphaclassstarwing",
+                "upgrades": {
+                    "talent": [
+                        "crackshot"
+                    ],
+                    "torpedo": [
+                        "iontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "onyxsquadronscout",
+                "points": 39,
+                "ship": "tieagaggressor",
+                "upgrades": {
+                    "missile": [
+                        "ionmissiles"
+                    ],
+                    "modification": [
+                        "stealthdevice"
+                    ],
+                    "talent": [
+                        "composure"
+                    ]
+                }
+            },
+            {
+                "id": "rhosquadronpilot",
+                "points": 45,
+                "ship": "alphaclassstarwing",
+                "upgrades": {
+                    "missile": [
+                        "protonrockets"
+                    ],
+                    "sensor": [
+                        "passivesensors"
+                    ]
+                }
+            },
+            {
+                "id": "deathfire",
+                "points": 32,
+                "ship": "tiesabomber",
+                "upgrades": {}
+            }
+        ],
+        "points": 199,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Option2": {
+        "faction": "rebelalliance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "leiaorgana",
+                "points": 107,
+                "ship": "modifiedyt1300lightfreighter",
+                "upgrades": {
+                    "crew": [
+                        "magvayarro",
+                        "perceptivecopilot"
+                    ],
+                    "gunner": [
+                        "agilegunner"
+                    ],
+                    "modification": [
+                        "shieldupgrade"
+                    ]
+                }
+            },
+            {
+                "id": "dutchvander",
+                "points": 57,
+                "ship": "btla4ywing",
+                "upgrades": {
+                    "astromech": [
+                        "chopper"
+                    ],
+                    "gunner": [
+                        "veteranturretgunner"
+                    ],
+                    "turret": [
+                        "ioncannonturret"
+                    ]
+                }
+            },
+            {
+                "id": "zeborrelios",
+                "points": 32,
+                "ship": "attackshuttle",
+                "upgrades": {}
+            }
+        ],
+        "points": 196,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "TTT": "BazAvJoes",
+    "VassalForm1": "BazAvJoes",
+    "VassalForm2": "BazAvJoes"
+}

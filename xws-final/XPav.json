@@ -1,0 +1,176 @@
+{
+    "Add": "R4 Astromech on Anakin",
+    "Discord": "XPav#0478",
+    "Drop": "Hotshot Gunner from Wolffe",
+    "Final": {
+        "faction": "galacticrepublic",
+        "name": "Alex Pavloff (XPav) JTO",
+        "pilots": [
+            {
+                "id": "swoop",
+                "points": 39,
+                "ship": "v19torrentstarfighter",
+                "upgrades": {
+                    "missile": [
+                        "homingmissiles"
+                    ],
+                    "talent": [
+                        "intimidation"
+                    ]
+                }
+            },
+            {
+                "id": "wolffe",
+                "points": 61,
+                "ship": "arc170starfighter",
+                "upgrades": {
+                    "talent": [
+                        "lonewolf"
+                    ],
+                    "torpedo": [
+                        "iontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "anakinskywalker-btlbywing",
+                "points": 69,
+                "ship": "btlbywing",
+                "upgrades": {
+                    "astromech": [
+                        "r4astromech"
+                    ],
+                    "force-power": [
+                        "predictiveshot"
+                    ],
+                    "torpedo": [
+                        "iontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "goldsquadrontrooper",
+                "points": 25,
+                "ship": "v19torrentstarfighter",
+                "upgrades": {}
+            }
+        ],
+        "points": 194,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Name": "Alex Pavloff",
+    "Option1": {
+        "faction": "galacticrepublic",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "swoop",
+                "points": 39,
+                "ship": "v19torrentstarfighter",
+                "upgrades": {
+                    "missile": [
+                        "homingmissiles"
+                    ],
+                    "talent": [
+                        "intimidation"
+                    ]
+                }
+            },
+            {
+                "id": "wolffe",
+                "points": 68,
+                "ship": "arc170starfighter",
+                "upgrades": {
+                    "gunner": [
+                        "hotshotgunner"
+                    ],
+                    "talent": [
+                        "lonewolf"
+                    ],
+                    "torpedo": [
+                        "iontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "anakinskywalker-btlbywing",
+                "points": 67,
+                "ship": "btlbywing",
+                "upgrades": {
+                    "force-power": [
+                        "predictiveshot"
+                    ],
+                    "torpedo": [
+                        "iontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "goldsquadrontrooper",
+                "points": 25,
+                "ship": "v19torrentstarfighter",
+                "upgrades": {}
+            }
+        ],
+        "points": 199,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Option2": {
+        "faction": "galacticempire",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "sigmasquadronace",
+                "points": 70,
+                "ship": "tiephphantom",
+                "upgrades": {
+                    "gunner": [
+                        "hotshotgunner"
+                    ],
+                    "modification": [
+                        "hullupgrade"
+                    ],
+                    "sensor": [
+                        "advancedsensors"
+                    ]
+                }
+            },
+            {
+                "id": "vedfoslo",
+                "points": 62,
+                "ship": "tieadvancedx1",
+                "upgrades": {
+                    "missile": [
+                        "clustermissiles"
+                    ],
+                    "modification": [
+                        "staticdischargevanes"
+                    ],
+                    "talent": [
+                        "juke"
+                    ]
+                }
+            },
+            {
+                "id": "doubleedge",
+                "points": 29,
+                "ship": "tieagaggressor",
+                "upgrades": {}
+            },
+            {
+                "id": "cutlasssquadronpilot",
+                "points": 36,
+                "ship": "tiecapunisher",
+                "upgrades": {}
+            }
+        ],
+        "points": 197,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "TTT": "Alex Pavloff",
+    "VassalForm1": "XPav",
+    "VassalForm2": "XPav"
+}

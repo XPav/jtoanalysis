@@ -1,0 +1,165 @@
+{
+    "Add": "Proximity Mines | Edon Happehl",
+    "Discord": "FanKiyoshi#7460",
+    "Drop": "Tragedy Simulator | Edon Kappehl",
+    "Final": {
+        "faction": "resistance",
+        "name": "Fan Kiyoshi JTO",
+        "pilots": [
+            {
+                "id": "edonkappehl",
+                "points": 84,
+                "ship": "mg100starfortress",
+                "upgrades": {
+                    "crew": [
+                        "novicetechnician"
+                    ],
+                    "device": [
+                        "proximitymines"
+                    ],
+                    "gunner": [
+                        "rey-gunner"
+                    ]
+                }
+            },
+            {
+                "id": "logisticsdivisionpilot",
+                "points": 46,
+                "ship": "resistancetransport",
+                "upgrades": {
+                    "astromech": [
+                        "r2ha"
+                    ],
+                    "crew": [
+                        "perceptivecopilot"
+                    ],
+                    "modification": [
+                        "electronicbaffle"
+                    ]
+                }
+            },
+            {
+                "id": "redsquadronexpert",
+                "points": 44,
+                "ship": "t70xwing",
+                "upgrades": {
+                    "configuration": [
+                        "integratedsfoils"
+                    ]
+                }
+            },
+            {
+                "id": "bb8",
+                "points": 26,
+                "ship": "resistancetransportpod",
+                "upgrades": {}
+            }
+        ],
+        "points": 200,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Name": "Ean Cannon",
+    "Option1": {
+        "faction": "firstorder",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "lieutenanttavson",
+                "points": 77,
+                "ship": "upsilonclasscommandshuttle",
+                "upgrades": {
+                    "crew": [
+                        "freelanceslicer",
+                        "captainphasma"
+                    ],
+                    "tech": [
+                        "patternanalyzer"
+                    ]
+                }
+            },
+            {
+                "id": "ember",
+                "points": 62,
+                "ship": "tiebainterceptor",
+                "upgrades": {
+                    "modification": [
+                        "staticdischargevanes"
+                    ],
+                    "tech": [
+                        "advancedoptics"
+                    ]
+                }
+            },
+            {
+                "id": "avenger",
+                "points": 56,
+                "ship": "tievnsilencer",
+                "upgrades": {}
+            }
+        ],
+        "points": 195,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Option2": {
+        "faction": "resistance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "edonkappehl",
+                "points": 84,
+                "ship": "mg100starfortress",
+                "upgrades": {
+                    "crew": [
+                        "novicetechnician"
+                    ],
+                    "gunner": [
+                        "rey-gunner"
+                    ],
+                    "sensor": [
+                        "trajectorysimulator"
+                    ]
+                }
+            },
+            {
+                "id": "logisticsdivisionpilot",
+                "points": 46,
+                "ship": "resistancetransport",
+                "upgrades": {
+                    "astromech": [
+                        "r2ha"
+                    ],
+                    "crew": [
+                        "perceptivecopilot"
+                    ],
+                    "modification": [
+                        "electronicbaffle"
+                    ]
+                }
+            },
+            {
+                "id": "redsquadronexpert",
+                "points": 44,
+                "ship": "t70xwing",
+                "upgrades": {
+                    "configuration": [
+                        "integratedsfoils"
+                    ]
+                }
+            },
+            {
+                "id": "bb8",
+                "points": 26,
+                "ship": "resistancetransportpod",
+                "upgrades": {}
+            }
+        ],
+        "points": 200,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "TTT": "E Cannon",
+    "VassalForm1": "FanKiyoshi",
+    "VassalForm2": "FanKiyoshi"
+}

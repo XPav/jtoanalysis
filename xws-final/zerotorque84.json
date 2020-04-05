@@ -1,0 +1,166 @@
+{
+    "Add": "Fire Control System to VCX-100",
+    "Discord": "zerotorque84-dave#0151",
+    "Drop": "none",
+    "Final": {
+        "faction": "rebelalliance",
+        "name": "David Burger JTO",
+        "pilots": [
+            {
+                "id": "garvendreis-t65xwing",
+                "points": 47,
+                "ship": "t65xwing",
+                "upgrades": {
+                    "configuration": [
+                        "servomotorsfoils"
+                    ]
+                }
+            },
+            {
+                "id": "lieutenantblount",
+                "points": 33,
+                "ship": "z95af4headhunter",
+                "upgrades": {
+                    "talent": [
+                        "swarmtactics"
+                    ]
+                }
+            },
+            {
+                "id": "norrawexley-btla4ywing",
+                "points": 47,
+                "ship": "btla4ywing",
+                "upgrades": {
+                    "astromech": [
+                        "r2d2"
+                    ]
+                }
+            },
+            {
+                "id": "chopper",
+                "points": 70,
+                "ship": "vcx100lightfreighter",
+                "upgrades": {
+                    "sensor": [
+                        "firecontrolsystem"
+                    ]
+                }
+            }
+        ],
+        "points": 197,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Name": "David Burger",
+    "Option1": {
+        "faction": "rebelalliance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "garvendreis-t65xwing",
+                "points": 47,
+                "ship": "t65xwing",
+                "upgrades": {
+                    "configuration": [
+                        "servomotorsfoils"
+                    ]
+                }
+            },
+            {
+                "id": "lieutenantblount",
+                "points": 33,
+                "ship": "z95af4headhunter",
+                "upgrades": {
+                    "talent": [
+                        "swarmtactics"
+                    ]
+                }
+            },
+            {
+                "id": "norrawexley-btla4ywing",
+                "points": 47,
+                "ship": "btla4ywing",
+                "upgrades": {
+                    "astromech": [
+                        "r2d2"
+                    ]
+                }
+            },
+            {
+                "id": "chopper",
+                "points": 68,
+                "ship": "vcx100lightfreighter",
+                "upgrades": {}
+            }
+        ],
+        "points": 195,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Option2": {
+        "faction": "galacticempire",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "captainkagi",
+                "points": 61,
+                "ship": "lambdaclasst4ashuttle",
+                "upgrades": {
+                    "cannon": [
+                        "tractorbeam"
+                    ],
+                    "crew": [
+                        "freelanceslicer"
+                    ],
+                    "modification": [
+                        "shieldupgrade"
+                    ],
+                    "sensor": [
+                        "passivesensors"
+                    ]
+                }
+            },
+            {
+                "id": "imdaartestpilot",
+                "points": 52,
+                "ship": "tiephphantom",
+                "upgrades": {
+                    "gunner": [
+                        "skilledbombardier"
+                    ],
+                    "modification": [
+                        "delayedfuses"
+                    ],
+                    "sensor": [
+                        "collisiondetector"
+                    ]
+                }
+            },
+            {
+                "id": "omicrongrouppilot",
+                "points": 56,
+                "ship": "lambdaclasst4ashuttle",
+                "upgrades": {
+                    "cannon": [
+                        "tractorbeam"
+                    ],
+                    "sensor": [
+                        "advancedsensors"
+                    ]
+                }
+            },
+            {
+                "id": "sienarspecialist",
+                "points": 26,
+                "ship": "tieagaggressor",
+                "upgrades": {}
+            }
+        ],
+        "points": 195,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "TTT": "David Burger ",
+    "VassalForm1": "zerotorque84",
+    "VassalForm2": "Zerotorque84"
+}

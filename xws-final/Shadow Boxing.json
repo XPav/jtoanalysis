@@ -1,0 +1,56 @@
+{
+    "Add": "",
+    "Discord": "Shadow Boxing #9196",
+    "Drop": "",
+    "Final": {
+        "faction": "firstorder",
+        "name": "Shadow Boxing JTO",
+        "pilots": [
+            {
+                "id": "starkillerbasepilot",
+                "points": 64,
+                "ship": "upsilonclasscommandshuttle",
+                "upgrades": {
+                    "tech": [
+                        "targetingsynchronizer"
+                    ]
+                }
+            },
+            {
+                "id": "starkillerbasepilot",
+                "points": 63,
+                "ship": "upsilonclasscommandshuttle",
+                "upgrades": {
+                    "modification": [
+                        "munitionsfailsafe"
+                    ],
+                    "tech": [
+                        "advancedoptics"
+                    ]
+                }
+            },
+            {
+                "id": "avenger",
+                "points": 68,
+                "ship": "tievnsilencer",
+                "upgrades": {
+                    "talent": [
+                        "outmaneuver"
+                    ],
+                    "tech": [
+                        "targetingsynchronizer"
+                    ]
+                }
+            }
+        ],
+        "points": 195,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Name": "Alex De Rosa",
+    "Option1": null,
+    "Option2": null,
+    "TTT": "Alex De Rosa",
+    "VassalForm1": "",
+    "VassalForm2": "Shadow Boxing"
+}

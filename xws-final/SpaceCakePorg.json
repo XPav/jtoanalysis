@@ -1,0 +1,158 @@
+{
+    "Add": "Special Forces Gunner on Quickdraw",
+    "Discord": "SpaceCakePorg",
+    "Drop": "Perceptive Copilot on Major Stridan",
+    "Final": {
+        "faction": "firstorder",
+        "name": "Agata Pikulska JTO",
+        "obstacles": [
+            "gascloud4",
+            "gascloud5",
+            "gascloud6"
+        ],
+        "pilots": [
+            {
+                "id": "omegasquadronace",
+                "points": 45,
+                "ship": "tiefofighter",
+                "upgrades": {
+                    "modification": [
+                        "stealthdevice"
+                    ],
+                    "talent": [
+                        "debrisgambit"
+                    ],
+                    "tech": [
+                        "patternanalyzer"
+                    ]
+                }
+            },
+            {
+                "id": "majorstridan",
+                "points": 61,
+                "ship": "upsilonclasscommandshuttle",
+                "upgrades": {}
+            },
+            {
+                "id": "quickdraw",
+                "points": 55,
+                "ship": "tiesffighter",
+                "upgrades": {
+                    "gunner": [
+                        "specialforcesgunner"
+                    ]
+                }
+            },
+            {
+                "id": "backdraft",
+                "points": 39,
+                "ship": "tiesffighter",
+                "upgrades": {}
+            }
+        ],
+        "points": 200,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Name": "Agata Pikulska",
+    "Option1": {
+        "faction": "firstorder",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "omegasquadronace",
+                "points": 45,
+                "ship": "tiefofighter",
+                "upgrades": {
+                    "modification": [
+                        "stealthdevice"
+                    ],
+                    "talent": [
+                        "debrisgambit"
+                    ],
+                    "tech": [
+                        "patternanalyzer"
+                    ]
+                }
+            },
+            {
+                "id": "majorstridan",
+                "points": 69,
+                "ship": "upsilonclasscommandshuttle",
+                "upgrades": {
+                    "crew": [
+                        "perceptivecopilot"
+                    ]
+                }
+            },
+            {
+                "id": "quickdraw",
+                "points": 45,
+                "ship": "tiesffighter",
+                "upgrades": {}
+            },
+            {
+                "id": "backdraft",
+                "points": 39,
+                "ship": "tiesffighter",
+                "upgrades": {}
+            }
+        ],
+        "points": 198,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Option2": {
+        "faction": "galacticempire",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "maarekstele",
+                "points": 62,
+                "ship": "tieadvancedx1",
+                "upgrades": {
+                    "missile": [
+                        "concussionmissiles"
+                    ],
+                    "modification": [
+                        "hullupgrade"
+                    ],
+                    "talent": [
+                        "swarmtactics"
+                    ]
+                }
+            },
+            {
+                "id": "captainjonus",
+                "points": 57,
+                "ship": "tiesabomber",
+                "upgrades": {
+                    "missile": [
+                        "diamondboronmissiles"
+                    ],
+                    "torpedo": [
+                        "iontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "gammasquadronace",
+                "points": 30,
+                "ship": "tiesabomber",
+                "upgrades": {}
+            },
+            {
+                "id": "lieutenantsai",
+                "points": 47,
+                "ship": "lambdaclasst4ashuttle",
+                "upgrades": {}
+            }
+        ],
+        "points": 196,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "TTT": "Agata Pikulska",
+    "VassalForm1": "SpaceCakePorg",
+    "VassalForm2": "SpaceCakePorg"
+}

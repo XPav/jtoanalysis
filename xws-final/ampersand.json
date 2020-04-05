@@ -1,0 +1,155 @@
+{
+    "Add": "Adding C1-10P to Saesee Tiin",
+    "Discord": "assron#4296",
+    "Drop": "Removing Agile Gunner from \"Odd Ball\"",
+    "Final": {
+        "faction": "galacticrepublic",
+        "name": "Aaron DePiano JTO",
+        "pilots": [
+            {
+                "id": "oddball-arc170starfighter",
+                "points": 56,
+                "ship": "arc170starfighter",
+                "upgrades": {
+                    "modification": [
+                        "stealthdevice"
+                    ],
+                    "talent": [
+                        "crackshot"
+                    ]
+                }
+            },
+            {
+                "id": "104thbattalionpilot",
+                "points": 42,
+                "ship": "arc170starfighter",
+                "upgrades": {}
+            },
+            {
+                "id": "anakinskywalker-nabooroyaln1starfighter",
+                "points": 48,
+                "ship": "nabooroyaln1starfighter",
+                "upgrades": {
+                    "astromech": [
+                        "r2astromech"
+                    ]
+                }
+            },
+            {
+                "id": "saeseetiin",
+                "points": 50,
+                "ship": "delta7aethersprite",
+                "upgrades": {
+                    "astromech": [
+                        "c110p"
+                    ]
+                }
+            }
+        ],
+        "points": 196,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Name": "Aaron DePiano",
+    "Option1": {
+        "faction": "rebelalliance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "herasyndulla",
+                "points": 52,
+                "ship": "attackshuttle",
+                "upgrades": {
+                    "crew": [
+                        "perceptivecopilot"
+                    ],
+                    "talent": [
+                        "composure"
+                    ],
+                    "turret": [
+                        "ioncannonturret"
+                    ]
+                }
+            },
+            {
+                "id": "lothalrebel",
+                "points": 101,
+                "ship": "vcx100lightfreighter",
+                "upgrades": {
+                    "crew": [
+                        "seasonednavigator",
+                        "gnkgonkdroid"
+                    ],
+                    "gunner": [
+                        "hansolo"
+                    ],
+                    "modification": [
+                        "staticdischargevanes"
+                    ],
+                    "title": [
+                        "ghost"
+                    ]
+                }
+            },
+            {
+                "id": "ezrabridger-sheathipedeclassshuttle",
+                "points": 42,
+                "ship": "sheathipedeclassshuttle",
+                "upgrades": {}
+            }
+        ],
+        "points": 195,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Option2": {
+        "faction": "galacticrepublic",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "oddball-arc170starfighter",
+                "points": 64,
+                "ship": "arc170starfighter",
+                "upgrades": {
+                    "gunner": [
+                        "agilegunner"
+                    ],
+                    "modification": [
+                        "stealthdevice"
+                    ],
+                    "talent": [
+                        "crackshot"
+                    ]
+                }
+            },
+            {
+                "id": "104thbattalionpilot",
+                "points": 42,
+                "ship": "arc170starfighter",
+                "upgrades": {}
+            },
+            {
+                "id": "anakinskywalker-nabooroyaln1starfighter",
+                "points": 48,
+                "ship": "nabooroyaln1starfighter",
+                "upgrades": {
+                    "astromech": [
+                        "r2astromech"
+                    ]
+                }
+            },
+            {
+                "id": "saeseetiin",
+                "points": 43,
+                "ship": "delta7aethersprite",
+                "upgrades": {}
+            }
+        ],
+        "points": 197,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "TTT": "Aaron DePiano",
+    "VassalForm1": "ampersand",
+    "VassalForm2": "ampersand"
+}

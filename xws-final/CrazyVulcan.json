@@ -1,0 +1,188 @@
+{
+    "Add": "C3P0 To Nordin",
+    "Discord": "CrazyVulcan#1781",
+    "Drop": "Primed Thrustsers From Cova ",
+    "Final": {
+        "faction": "resistance",
+        "name": "Christopher Peters JTO",
+        "pilots": [
+            {
+                "id": "covanell",
+                "points": 79,
+                "ship": "resistancetransport",
+                "upgrades": {
+                    "astromech": [
+                        "bbastromech"
+                    ],
+                    "cannon": [
+                        "ioncannon"
+                    ],
+                    "crew": [
+                        "leiaorgana-resistance"
+                    ],
+                    "modification": [
+                        "electronicbaffle"
+                    ],
+                    "talent": [
+                        "intimidation"
+                    ],
+                    "torpedo": [
+                        "plasmatorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "colossusstationmechanic",
+                "points": 26,
+                "ship": "fireball",
+                "upgrades": {}
+            },
+            {
+                "id": "nodinchavdri",
+                "points": 46,
+                "ship": "resistancetransport",
+                "upgrades": {
+                    "crew": [
+                        "hansolo-crew",
+                        "c3po-crew"
+                    ]
+                }
+            },
+            {
+                "id": "lieutenantbastian",
+                "points": 47,
+                "ship": "t70xwing",
+                "upgrades": {
+                    "configuration": [
+                        "integratedsfoils"
+                    ]
+                }
+            }
+        ],
+        "points": 198,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Name": "Christopher Peters",
+    "Option1": {
+        "faction": "resistance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "covanell",
+                "points": 87,
+                "ship": "resistancetransport",
+                "upgrades": {
+                    "astromech": [
+                        "bbastromech"
+                    ],
+                    "cannon": [
+                        "ioncannon"
+                    ],
+                    "crew": [
+                        "leiaorgana-resistance"
+                    ],
+                    "modification": [
+                        "electronicbaffle"
+                    ],
+                    "talent": [
+                        "intimidation"
+                    ],
+                    "tech": [
+                        "primedthrusters"
+                    ],
+                    "torpedo": [
+                        "plasmatorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "colossusstationmechanic",
+                "points": 26,
+                "ship": "fireball",
+                "upgrades": {}
+            },
+            {
+                "id": "nodinchavdri",
+                "points": 40,
+                "ship": "resistancetransport",
+                "upgrades": {
+                    "crew": [
+                        "hansolo-crew"
+                    ]
+                }
+            },
+            {
+                "id": "lieutenantbastian",
+                "points": 47,
+                "ship": "t70xwing",
+                "upgrades": {
+                    "configuration": [
+                        "integratedsfoils"
+                    ]
+                }
+            }
+        ],
+        "points": 200,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Option2": {
+        "faction": "rebelalliance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "braylenstramm",
+                "points": 60,
+                "ship": "asf01bwing",
+                "upgrades": {
+                    "cannon": [
+                        "jammingbeam",
+                        "tractorbeam"
+                    ],
+                    "configuration": [
+                        "stabilizedsfoils"
+                    ],
+                    "sensor": [
+                        "passivesensors"
+                    ]
+                }
+            },
+            {
+                "id": "hansolo-modifiedyt1300lightfreighter",
+                "points": 111,
+                "ship": "modifiedyt1300lightfreighter",
+                "upgrades": {
+                    "crew": [
+                        "k2so"
+                    ],
+                    "missile": [
+                        "concussionmissiles"
+                    ],
+                    "modification": [
+                        "staticdischargevanes",
+                        "targetingcomputer"
+                    ],
+                    "talent": [
+                        "swarmtactics"
+                    ],
+                    "title": [
+                        "millenniumfalcon"
+                    ]
+                }
+            },
+            {
+                "id": "phoenixsquadronpilot",
+                "points": 29,
+                "ship": "rz1awing",
+                "upgrades": {}
+            }
+        ],
+        "points": 200,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "TTT": "Christopher Peters -CrazyVulcan",
+    "VassalForm1": "CrazyVulcan",
+    "VassalForm2": "CrazyVulcan"
+}

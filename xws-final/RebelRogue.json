@@ -1,0 +1,159 @@
+{
+    "Add": "Pattern Analyzer on Lt. LeHuse",
+    "Discord": "RebelRogue #2624",
+    "Drop": "Ion torpedoes from First Order Test Pilot",
+    "Final": {
+        "faction": "firstorder",
+        "name": "Adam Nieting JTO",
+        "pilots": [
+            {
+                "id": "firstordertestpilot",
+                "points": 64,
+                "ship": "tievnsilencer",
+                "upgrades": {
+                    "missile": [
+                        "protonrockets"
+                    ],
+                    "talent": [
+                        "marksmanship"
+                    ]
+                }
+            },
+            {
+                "id": "omegasquadronexpert",
+                "points": 46,
+                "ship": "tiesffighter",
+                "upgrades": {
+                    "sensor": [
+                        "collisiondetector"
+                    ],
+                    "talent": [
+                        "outmaneuver"
+                    ]
+                }
+            },
+            {
+                "id": "firstorderprovocateur",
+                "points": 45,
+                "ship": "tiebainterceptor",
+                "upgrades": {}
+            },
+            {
+                "id": "lieutenantlehuse",
+                "points": 44,
+                "ship": "tiesffighter",
+                "upgrades": {
+                    "tech": [
+                        "patternanalyzer"
+                    ]
+                }
+            }
+        ],
+        "points": 199,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Name": "Adam Nieting",
+    "Option1": {
+        "faction": "rebelalliance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "wildspacefringer",
+                "points": 114,
+                "ship": "yt2400lightfreighter",
+                "upgrades": {
+                    "crew": [
+                        "chopper-crew"
+                    ],
+                    "gunner": [
+                        "ezrabridger"
+                    ],
+                    "missile": [
+                        "homingmissiles"
+                    ],
+                    "modification": [
+                        "targetingcomputer"
+                    ],
+                    "title": [
+                        "outrider"
+                    ]
+                }
+            },
+            {
+                "id": "zeborrelios-tielnfighter",
+                "points": 24,
+                "ship": "tielnfighter",
+                "upgrades": {}
+            },
+            {
+                "id": "lieutenantblount",
+                "points": 30,
+                "ship": "z95af4headhunter",
+                "upgrades": {}
+            },
+            {
+                "id": "greensquadronpilot",
+                "points": 32,
+                "ship": "rz1awing",
+                "upgrades": {}
+            }
+        ],
+        "points": 200,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Option2": {
+        "faction": "firstorder",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "firstordertestpilot",
+                "points": 70,
+                "ship": "tievnsilencer",
+                "upgrades": {
+                    "missile": [
+                        "protonrockets"
+                    ],
+                    "talent": [
+                        "marksmanship"
+                    ],
+                    "torpedo": [
+                        "iontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "omegasquadronexpert",
+                "points": 46,
+                "ship": "tiesffighter",
+                "upgrades": {
+                    "sensor": [
+                        "collisiondetector"
+                    ],
+                    "talent": [
+                        "outmaneuver"
+                    ]
+                }
+            },
+            {
+                "id": "firstorderprovocateur",
+                "points": 45,
+                "ship": "tiebainterceptor",
+                "upgrades": {}
+            },
+            {
+                "id": "lieutenantlehuse",
+                "points": 39,
+                "ship": "tiesffighter",
+                "upgrades": {}
+            }
+        ],
+        "points": 200,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "TTT": "Adam Nieting",
+    "VassalForm1": "RebelRogue",
+    "VassalForm2": "RebelRogue"
+}

@@ -1,0 +1,161 @@
+{
+    "Add": "Proximity mines added to Emon",
+    "Discord": "Micheal[ZA]#4506",
+    "Drop": "Tractor beam from Emon",
+    "Final": {
+        "faction": "scumandvillainy",
+        "name": "Micheal Wells JTO",
+        "obstacles": [
+            "vt49decimatordebris0",
+            "gascloud1",
+            "gascloud6"
+        ],
+        "pilots": [
+            {
+                "id": "emonazzameen",
+                "points": 98,
+                "ship": "firesprayclasspatrolcraft",
+                "upgrades": {
+                    "device": [
+                        "clustermines",
+                        "proximitymines"
+                    ],
+                    "missile": [
+                        "homingmissiles"
+                    ],
+                    "talent": [
+                        "lonewolf"
+                    ],
+                    "title": [
+                        "andrasta"
+                    ]
+                }
+            },
+            {
+                "id": "g4rgorvm",
+                "points": 28,
+                "ship": "m3ainterceptor",
+                "upgrades": {}
+            },
+            {
+                "id": "asajjventress",
+                "points": 72,
+                "ship": "lancerclasspursuitcraft",
+                "upgrades": {}
+            }
+        ],
+        "points": 198,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Name": "Micheal Wells",
+    "Option1": {
+        "faction": "scumandvillainy",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "emonazzameen",
+                "points": 95,
+                "ship": "firesprayclasspatrolcraft",
+                "upgrades": {
+                    "cannon": [
+                        "tractorbeam"
+                    ],
+                    "device": [
+                        "clustermines"
+                    ],
+                    "missile": [
+                        "homingmissiles"
+                    ],
+                    "talent": [
+                        "lonewolf"
+                    ],
+                    "title": [
+                        "andrasta"
+                    ]
+                }
+            },
+            {
+                "id": "g4rgorvm",
+                "points": 28,
+                "ship": "m3ainterceptor",
+                "upgrades": {}
+            },
+            {
+                "id": "asajjventress",
+                "points": 72,
+                "ship": "lancerclasspursuitcraft",
+                "upgrades": {}
+            }
+        ],
+        "points": 195,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Option2": {
+        "faction": "galacticrepublic",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "kickback",
+                "points": 40,
+                "ship": "v19torrentstarfighter",
+                "upgrades": {
+                    "modification": [
+                        "synchronizedconsole"
+                    ],
+                    "talent": [
+                        "outmaneuver"
+                    ]
+                }
+            },
+            {
+                "id": "anakinskywalker-btlbywing",
+                "points": 99,
+                "ship": "btlbywing",
+                "upgrades": {
+                    "astromech": [
+                        "r2c4"
+                    ],
+                    "device": [
+                        "connernets"
+                    ],
+                    "force-power": [
+                        "brilliantevasion"
+                    ],
+                    "gunner": [
+                        "seventhfleetgunner"
+                    ],
+                    "torpedo": [
+                        "protontorpedoes"
+                    ],
+                    "turret": [
+                        "dorsalturret"
+                    ]
+                }
+            },
+            {
+                "id": "tucker",
+                "points": 35,
+                "ship": "v19torrentstarfighter",
+                "upgrades": {
+                    "missile": [
+                        "concussionmissiles"
+                    ]
+                }
+            },
+            {
+                "id": "goldsquadrontrooper",
+                "points": 25,
+                "ship": "v19torrentstarfighter",
+                "upgrades": {}
+            }
+        ],
+        "points": 199,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "TTT": "Micheal Wells",
+    "VassalForm1": "Micheal[ZA]",
+    "VassalForm2": "Micheal[ZA]"
+}

@@ -1,0 +1,195 @@
+{
+    "Add": "Korr Sella to Rey",
+    "Discord": "Bulegar",
+    "Drop": "concussion missiles from L'ulo L'ampar",
+    "Final": {
+        "faction": "resistance",
+        "name": "Carlo Veltri JTO",
+        "obstacles": [
+            "coreasteroid0",
+            "vt49decimatordebris2",
+            "core2asteroid0"
+        ],
+        "pilots": [
+            {
+                "id": "rey",
+                "points": 91,
+                "ship": "scavengedyt1300",
+                "upgrades": {
+                    "crew": [
+                        "freelanceslicer",
+                        "korrsella"
+                    ],
+                    "gunner": [
+                        "paigetico"
+                    ],
+                    "modification": [
+                        "hullupgrade"
+                    ],
+                    "title": [
+                        "reysmillenniumfalcon"
+                    ]
+                }
+            },
+            {
+                "id": "lulolampar",
+                "points": 51,
+                "ship": "rz2awing",
+                "upgrades": {
+                    "talent": [
+                        "intimidation",
+                        "lonewolf"
+                    ]
+                }
+            },
+            {
+                "id": "colossusstationmechanic",
+                "points": 32,
+                "ship": "fireball",
+                "upgrades": {
+                    "modification": [
+                        "shieldupgrade"
+                    ]
+                }
+            },
+            {
+                "id": "colossusstationmechanic",
+                "points": 26,
+                "ship": "fireball",
+                "upgrades": {}
+            }
+        ],
+        "points": 200,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Name": "Carlo Veltri",
+    "Option1": {
+        "faction": "galacticrepublic",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "bluesquadronprotector",
+                "points": 35,
+                "ship": "v19torrentstarfighter",
+                "upgrades": {
+                    "modification": [
+                        "hullupgrade"
+                    ],
+                    "talent": [
+                        "swarmtactics"
+                    ]
+                }
+            },
+            {
+                "id": "jag",
+                "points": 73,
+                "ship": "arc170starfighter",
+                "upgrades": {
+                    "astromech": [
+                        "r4pastromech"
+                    ],
+                    "crew": [
+                        "gnkgonkdroid"
+                    ],
+                    "modification": [
+                        "tacticalscrambler"
+                    ],
+                    "torpedo": [
+                        "plasmatorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "swoop",
+                "points": 36,
+                "ship": "v19torrentstarfighter",
+                "upgrades": {
+                    "missile": [
+                        "ionmissiles"
+                    ],
+                    "talent": [
+                        "marksmanship"
+                    ]
+                }
+            },
+            {
+                "id": "naboohandmaiden",
+                "points": 54,
+                "ship": "nabooroyaln1starfighter",
+                "upgrades": {
+                    "astromech": [
+                        "r2a6"
+                    ],
+                    "sensor": [
+                        "collisiondetector"
+                    ]
+                }
+            }
+        ],
+        "points": 198,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Option2": {
+        "faction": "resistance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "rey",
+                "points": 85,
+                "ship": "scavengedyt1300",
+                "upgrades": {
+                    "crew": [
+                        "freelanceslicer"
+                    ],
+                    "gunner": [
+                        "paigetico"
+                    ],
+                    "modification": [
+                        "hullupgrade"
+                    ],
+                    "title": [
+                        "reysmillenniumfalcon"
+                    ]
+                }
+            },
+            {
+                "id": "lulolampar",
+                "points": 57,
+                "ship": "rz2awing",
+                "upgrades": {
+                    "missile": [
+                        "concussionmissiles"
+                    ],
+                    "talent": [
+                        "intimidation",
+                        "lonewolf"
+                    ]
+                }
+            },
+            {
+                "id": "colossusstationmechanic",
+                "points": 32,
+                "ship": "fireball",
+                "upgrades": {
+                    "modification": [
+                        "shieldupgrade"
+                    ]
+                }
+            },
+            {
+                "id": "colossusstationmechanic",
+                "points": 26,
+                "ship": "fireball",
+                "upgrades": {}
+            }
+        ],
+        "points": 200,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "TTT": "Carlo Veltri",
+    "VassalForm1": "bulegar",
+    "VassalForm2": "bulegar "
+}

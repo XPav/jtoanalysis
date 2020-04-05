@@ -1,0 +1,147 @@
+{
+    "Add": "Hull Upgrade on First Order Provocateur 2",
+    "Discord": "pekka_rinne#0447",
+    "Drop": "Targeting Synchronizer from First Order Provocateur 2",
+    "Final": {
+        "faction": "firstorder",
+        "name": "Sam Page JTO",
+        "pilots": [
+            {
+                "id": "rush",
+                "points": 63,
+                "ship": "tievnsilencer",
+                "upgrades": {
+                    "tech": [
+                        "primedthrusters"
+                    ]
+                }
+            },
+            {
+                "id": "firstorderprovocateur",
+                "points": 50,
+                "ship": "tiebainterceptor",
+                "upgrades": {
+                    "missile": [
+                        "clustermissiles"
+                    ]
+                }
+            },
+            {
+                "id": "firstorderprovocateur",
+                "points": 52,
+                "ship": "tiebainterceptor",
+                "upgrades": {
+                    "modification": [
+                        "hullupgrade"
+                    ]
+                }
+            },
+            {
+                "id": "scorch",
+                "points": 33,
+                "ship": "tiefofighter",
+                "upgrades": {}
+            }
+        ],
+        "points": 198,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Name": "Sam Page",
+    "Option1": {
+        "faction": "rebelalliance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "airencracken",
+                "points": 52,
+                "ship": "z95af4headhunter",
+                "upgrades": {
+                    "missile": [
+                        "concussionmissiles"
+                    ],
+                    "modification": [
+                        "stealthdevice"
+                    ],
+                    "talent": [
+                        "swarmtactics"
+                    ]
+                }
+            },
+            {
+                "id": "greensquadronpilot",
+                "points": 32,
+                "ship": "rz1awing",
+                "upgrades": {}
+            },
+            {
+                "id": "kashyyykdefender",
+                "points": 59,
+                "ship": "auzituckgunship",
+                "upgrades": {
+                    "crew": [
+                        "leiaorgana",
+                        "k2so"
+                    ]
+                }
+            },
+            {
+                "id": "lowhhrick",
+                "points": 52,
+                "ship": "auzituckgunship",
+                "upgrades": {}
+            }
+        ],
+        "points": 195,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Option2": {
+        "faction": "firstorder",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "rush",
+                "points": 63,
+                "ship": "tievnsilencer",
+                "upgrades": {
+                    "tech": [
+                        "primedthrusters"
+                    ]
+                }
+            },
+            {
+                "id": "firstorderprovocateur",
+                "points": 50,
+                "ship": "tiebainterceptor",
+                "upgrades": {
+                    "missile": [
+                        "clustermissiles"
+                    ]
+                }
+            },
+            {
+                "id": "firstorderprovocateur",
+                "points": 51,
+                "ship": "tiebainterceptor",
+                "upgrades": {
+                    "tech": [
+                        "targetingsynchronizer"
+                    ]
+                }
+            },
+            {
+                "id": "scorch",
+                "points": 33,
+                "ship": "tiefofighter",
+                "upgrades": {}
+            }
+        ],
+        "points": 197,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "TTT": "Sam Page",
+    "VassalForm1": "pekka",
+    "VassalForm2": "pekka"
+}

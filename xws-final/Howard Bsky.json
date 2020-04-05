@@ -1,0 +1,163 @@
+{
+    "Add": "Perceptive Copilot to the BTL-s8 K-wing",
+    "Discord": "Howie_BSKY",
+    "Drop": "Agile Gunner from the VCX-100",
+    "Final": {
+        "faction": "rebelalliance",
+        "name": "Howard Benensky JTO",
+        "pilots": [
+            {
+                "id": "lothalrebel",
+                "points": 74,
+                "ship": "vcx100lightfreighter",
+                "upgrades": {
+                    "sensor": [
+                        "firecontrolsystem"
+                    ],
+                    "turret": [
+                        "ioncannonturret"
+                    ]
+                }
+            },
+            {
+                "id": "esegetuketu",
+                "points": 64,
+                "ship": "btls8kwing",
+                "upgrades": {
+                    "crew": [
+                        "perceptivecopilot"
+                    ],
+                    "gunner": [
+                        "hotshotgunner"
+                    ],
+                    "missile": [
+                        "homingmissiles"
+                    ]
+                }
+            },
+            {
+                "id": "sabinewren-tielnfighter",
+                "points": 29,
+                "ship": "tielnfighter",
+                "upgrades": {}
+            },
+            {
+                "id": "ap5",
+                "points": 32,
+                "ship": "sheathipedeclassshuttle",
+                "upgrades": {}
+            }
+        ],
+        "points": 199,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Name": "Howard Benensky",
+    "Option1": {
+        "faction": "rebelalliance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "lothalrebel",
+                "points": 82,
+                "ship": "vcx100lightfreighter",
+                "upgrades": {
+                    "gunner": [
+                        "agilegunner"
+                    ],
+                    "sensor": [
+                        "firecontrolsystem"
+                    ],
+                    "turret": [
+                        "ioncannonturret"
+                    ]
+                }
+            },
+            {
+                "id": "esegetuketu",
+                "points": 56,
+                "ship": "btls8kwing",
+                "upgrades": {
+                    "gunner": [
+                        "hotshotgunner"
+                    ],
+                    "missile": [
+                        "homingmissiles"
+                    ]
+                }
+            },
+            {
+                "id": "sabinewren-tielnfighter",
+                "points": 29,
+                "ship": "tielnfighter",
+                "upgrades": {}
+            },
+            {
+                "id": "ap5",
+                "points": 32,
+                "ship": "sheathipedeclassshuttle",
+                "upgrades": {}
+            }
+        ],
+        "points": 199,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Option2": {
+        "faction": "galacticrepublic",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "swoop",
+                "points": 35,
+                "ship": "v19torrentstarfighter",
+                "upgrades": {
+                    "missile": [
+                        "ionmissiles"
+                    ]
+                }
+            },
+            {
+                "id": "naboohandmaiden",
+                "points": 46,
+                "ship": "nabooroyaln1starfighter",
+                "upgrades": {
+                    "astromech": [
+                        "r4pastromech"
+                    ]
+                }
+            },
+            {
+                "id": "tucker",
+                "points": 40,
+                "ship": "v19torrentstarfighter",
+                "upgrades": {
+                    "missile": [
+                        "homingmissiles"
+                    ],
+                    "modification": [
+                        "staticdischargevanes"
+                    ]
+                }
+            },
+            {
+                "id": "oddball-btlbywing",
+                "points": 44,
+                "ship": "btlbywing",
+                "upgrades": {}
+            },
+            {
+                "id": "bravoflightofficer",
+                "points": 33,
+                "ship": "nabooroyaln1starfighter",
+                "upgrades": {}
+            }
+        ],
+        "points": 198,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "TTT": "Howard Benensky",
+    "VassalForm1": "Howard B-sky",
+    "VassalForm2": "Howard B-sky"
+}

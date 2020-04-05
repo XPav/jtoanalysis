@@ -1,0 +1,177 @@
+{
+    "Add": "Snap shot on awing ",
+    "Discord": "Usualleif ",
+    "Drop": "Lone Wolf from Braylen ",
+    "Final": {
+        "faction": "rebelalliance",
+        "name": "Leif Tangstad jto",
+        "pilots": [
+            {
+                "id": "kullbeesperado",
+                "points": 54,
+                "ship": "t65xwing",
+                "upgrades": {
+                    "configuration": [
+                        "servomotorsfoils"
+                    ],
+                    "modification": [
+                        "hullupgrade"
+                    ],
+                    "talent": [
+                        "intimidation"
+                    ]
+                }
+            },
+            {
+                "id": "braylenstramm",
+                "points": 60,
+                "ship": "asf01bwing",
+                "upgrades": {
+                    "cannon": [
+                        "jammingbeam"
+                    ],
+                    "configuration": [
+                        "stabilizedsfoils"
+                    ],
+                    "torpedo": [
+                        "iontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "ezrabridger",
+                "points": 47,
+                "ship": "attackshuttle",
+                "upgrades": {
+                    "force-power": [
+                        "instinctiveaim"
+                    ],
+                    "modification": [
+                        "stealthdevice"
+                    ]
+                }
+            },
+            {
+                "id": "phoenixsquadronpilot",
+                "points": 36,
+                "ship": "rz1awing",
+                "upgrades": {
+                    "talent": [
+                        "snapshot"
+                    ]
+                }
+            }
+        ],
+        "points": 197,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Name": "Leif Tangstad ",
+    "Option1": {
+        "faction": "rebelalliance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "kullbeesperado",
+                "points": 54,
+                "ship": "t65xwing",
+                "upgrades": {
+                    "configuration": [
+                        "servomotorsfoils"
+                    ],
+                    "modification": [
+                        "hullupgrade"
+                    ],
+                    "talent": [
+                        "intimidation"
+                    ]
+                }
+            },
+            {
+                "id": "braylenstramm",
+                "points": 65,
+                "ship": "asf01bwing",
+                "upgrades": {
+                    "cannon": [
+                        "jammingbeam"
+                    ],
+                    "configuration": [
+                        "stabilizedsfoils"
+                    ],
+                    "talent": [
+                        "lonewolf"
+                    ],
+                    "torpedo": [
+                        "iontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "ezrabridger",
+                "points": 47,
+                "ship": "attackshuttle",
+                "upgrades": {
+                    "force-power": [
+                        "instinctiveaim"
+                    ],
+                    "modification": [
+                        "stealthdevice"
+                    ]
+                }
+            },
+            {
+                "id": "phoenixsquadronpilot",
+                "points": 29,
+                "ship": "rz1awing",
+                "upgrades": {}
+            }
+        ],
+        "points": 195,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Option2": {
+        "faction": "galacticrepublic",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "plokoon",
+                "points": 63,
+                "ship": "delta7aethersprite",
+                "upgrades": {
+                    "configuration": [
+                        "delta7b"
+                    ]
+                }
+            },
+            {
+                "id": "jediknight",
+                "points": 37,
+                "ship": "delta7aethersprite",
+                "upgrades": {}
+            },
+            {
+                "id": "sinker",
+                "points": 62,
+                "ship": "arc170starfighter",
+                "upgrades": {
+                    "crew": [
+                        "perceptivecopilot"
+                    ]
+                }
+            },
+            {
+                "id": "dineeellberger",
+                "points": 38,
+                "ship": "nabooroyaln1starfighter",
+                "upgrades": {}
+            }
+        ],
+        "points": 200,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "TTT": "Leif Tangstad ",
+    "VassalForm1": "Beautifulleif",
+    "VassalForm2": "Beautifulleif "
+}

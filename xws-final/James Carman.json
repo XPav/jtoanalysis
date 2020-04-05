@@ -1,0 +1,165 @@
+{
+    "Add": "Calibrated Laser Targeting to Obi Wan",
+    "Discord": "Kamicrzy#7960",
+    "Drop": "Ion Torpedoes from Bravo ",
+    "Final": {
+        "faction": "galacticrepublic",
+        "name": "Goldnock Jank James Carman",
+        "obstacles": [
+            "gascloud1",
+            "gascloud3",
+            "gascloud6"
+        ],
+        "pilots": [
+            {
+                "id": "bravoflightofficer",
+                "points": 42,
+                "ship": "nabooroyaln1starfighter",
+                "upgrades": {
+                    "astromech": [
+                        "r3astromech"
+                    ],
+                    "sensor": [
+                        "collisiondetector"
+                    ]
+                }
+            },
+            {
+                "id": "plokoon",
+                "points": 58,
+                "ship": "delta7aethersprite",
+                "upgrades": {
+                    "astromech": [
+                        "r2a6"
+                    ],
+                    "configuration": [
+                        "calibratedlasertargeting"
+                    ],
+                    "force-power": [
+                        "foresight"
+                    ]
+                }
+            },
+            {
+                "id": "obiwankenobi",
+                "points": 52,
+                "ship": "delta7aethersprite",
+                "upgrades": {
+                    "configuration": [
+                        "calibratedlasertargeting"
+                    ]
+                }
+            },
+            {
+                "id": "padmeamidala",
+                "points": 45,
+                "ship": "nabooroyaln1starfighter",
+                "upgrades": {}
+            }
+        ],
+        "points": 197,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Name": "James Carman",
+    "Option1": {
+        "faction": "galacticrepublic",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "bravoflightofficer",
+                "points": 48,
+                "ship": "nabooroyaln1starfighter",
+                "upgrades": {
+                    "astromech": [
+                        "r3astromech"
+                    ],
+                    "sensor": [
+                        "collisiondetector"
+                    ],
+                    "torpedo": [
+                        "iontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "plokoon",
+                "points": 58,
+                "ship": "delta7aethersprite",
+                "upgrades": {
+                    "astromech": [
+                        "r2a6"
+                    ],
+                    "configuration": [
+                        "calibratedlasertargeting"
+                    ],
+                    "force-power": [
+                        "foresight"
+                    ]
+                }
+            },
+            {
+                "id": "obiwankenobi",
+                "points": 48,
+                "ship": "delta7aethersprite",
+                "upgrades": {}
+            },
+            {
+                "id": "padmeamidala",
+                "points": 45,
+                "ship": "nabooroyaln1starfighter",
+                "upgrades": {}
+            }
+        ],
+        "points": 199,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Option2": {
+        "faction": "scumandvillainy",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "cartelmarauder",
+                "points": 48,
+                "ship": "kihraxzfighter",
+                "upgrades": {
+                    "illicit": [
+                        "cloakingdevice"
+                    ],
+                    "modification": [
+                        "shieldupgrade"
+                    ]
+                }
+            },
+            {
+                "id": "bossk",
+                "points": 62,
+                "ship": "yv666lightfreighter",
+                "upgrades": {}
+            },
+            {
+                "id": "lattsrazzi",
+                "points": 58,
+                "ship": "yv666lightfreighter",
+                "upgrades": {
+                    "crew": [
+                        "cikatrovizago"
+                    ]
+                }
+            },
+            {
+                "id": "sarcoplank",
+                "points": 32,
+                "ship": "quadrijettransferspacetug",
+                "upgrades": {}
+            }
+        ],
+        "points": 200,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "TTT": "James Carman",
+    "VassalForm1": "James Carman",
+    "VassalForm2": "James Carman"
+}

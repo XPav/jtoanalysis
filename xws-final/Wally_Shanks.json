@@ -1,0 +1,184 @@
+{
+    "Add": "Marksmanship to Kaa'to Leeachos",
+    "Discord": "Wally Shanks#2937",
+    "Drop": "Marksmanship from Mining Guild Surveyor",
+    "Final": {
+        "faction": "scumandvillainy",
+        "name": "Stanky Shanks  JTO",
+        "obstacles": [
+            "coreasteroid5",
+            "core2asteroid4",
+            "core2asteroid5"
+        ],
+        "pilots": [
+            {
+                "id": "dalanoberos",
+                "points": 55,
+                "ship": "m12lkimogilafighter",
+                "upgrades": {
+                    "modification": [
+                        "munitionsfailsafe"
+                    ],
+                    "talent": [
+                        "fearless"
+                    ],
+                    "torpedo": [
+                        "advprotontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "miningguildsurveyor",
+                "points": 23,
+                "ship": "modifiedtielnfighter",
+                "upgrades": {}
+            },
+            {
+                "id": "teltrevura",
+                "points": 51,
+                "ship": "jumpmaster5000",
+                "upgrades": {
+                    "cannon": [
+                        "ioncannon"
+                    ],
+                    "gunner": [
+                        "greedo"
+                    ]
+                }
+            },
+            {
+                "id": "gandfindsman",
+                "points": 41,
+                "ship": "g1astarfighter",
+                "upgrades": {}
+            },
+            {
+                "id": "kaatoleeachos",
+                "points": 28,
+                "ship": "z95af4headhunter",
+                "upgrades": {
+                    "talent": [
+                        "marksmanship"
+                    ]
+                }
+            }
+        ],
+        "points": 198,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Name": "Walker Shanklin",
+    "Option1": {
+        "faction": "scumandvillainy",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "dalanoberos",
+                "points": 55,
+                "ship": "m12lkimogilafighter",
+                "upgrades": {
+                    "modification": [
+                        "munitionsfailsafe"
+                    ],
+                    "talent": [
+                        "fearless"
+                    ],
+                    "torpedo": [
+                        "advprotontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "miningguildsurveyor",
+                "points": 24,
+                "ship": "modifiedtielnfighter",
+                "upgrades": {
+                    "talent": [
+                        "marksmanship"
+                    ]
+                }
+            },
+            {
+                "id": "teltrevura",
+                "points": 51,
+                "ship": "jumpmaster5000",
+                "upgrades": {
+                    "cannon": [
+                        "ioncannon"
+                    ],
+                    "gunner": [
+                        "greedo"
+                    ]
+                }
+            },
+            {
+                "id": "gandfindsman",
+                "points": 41,
+                "ship": "g1astarfighter",
+                "upgrades": {}
+            },
+            {
+                "id": "kaatoleeachos",
+                "points": 27,
+                "ship": "z95af4headhunter",
+                "upgrades": {}
+            }
+        ],
+        "points": 198,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Option2": {
+        "faction": "rebelalliance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "dutchvander",
+                "points": 86,
+                "ship": "btla4ywing",
+                "upgrades": {
+                    "astromech": [
+                        "chopper"
+                    ],
+                    "device": [
+                        "protonbombs"
+                    ],
+                    "gunner": [
+                        "lukeskywalker"
+                    ],
+                    "torpedo": [
+                        "protontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "captainrex",
+                "points": 30,
+                "ship": "tielnfighter",
+                "upgrades": {}
+            },
+            {
+                "id": "airencracken",
+                "points": 36,
+                "ship": "z95af4headhunter",
+                "upgrades": {}
+            },
+            {
+                "id": "rebelscout",
+                "points": 48,
+                "ship": "hwk290lightfreighter",
+                "upgrades": {
+                    "title": [
+                        "moldycrow"
+                    ]
+                }
+            }
+        ],
+        "points": 200,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "TTT": "Wally_Shanks",
+    "VassalForm1": "Wally_Shanks",
+    "VassalForm2": "Wally_Shanks"
+}

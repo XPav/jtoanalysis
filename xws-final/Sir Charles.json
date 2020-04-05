@@ -1,0 +1,160 @@
+{
+    "Add": "Ion Turret to Broadside",
+    "Discord": "sircharles(#2830)",
+    "Drop": "none",
+    "Final": {
+        "faction": "galacticrepublic",
+        "name": "Charles Holcomb JTO",
+        "pilots": [
+            {
+                "id": "bravoflightofficer",
+                "points": 40,
+                "ship": "nabooroyaln1starfighter",
+                "upgrades": {
+                    "astromech": [
+                        "r2astromech"
+                    ]
+                }
+            },
+            {
+                "id": "ahsokatano",
+                "points": 69,
+                "ship": "delta7aethersprite",
+                "upgrades": {
+                    "configuration": [
+                        "delta7b"
+                    ],
+                    "force-power": [
+                        "supernaturalreflexes"
+                    ]
+                }
+            },
+            {
+                "id": "wolffe",
+                "points": 50,
+                "ship": "arc170starfighter",
+                "upgrades": {}
+            },
+            {
+                "id": "broadside",
+                "points": 41,
+                "ship": "btlbywing",
+                "upgrades": {
+                    "turret": [
+                        "ioncannonturret"
+                    ]
+                }
+            }
+        ],
+        "points": 200,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Name": "Charles Holcomb",
+    "Option1": {
+        "faction": "galacticrepublic",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "bravoflightofficer",
+                "points": 40,
+                "ship": "nabooroyaln1starfighter",
+                "upgrades": {
+                    "astromech": [
+                        "r2astromech"
+                    ]
+                }
+            },
+            {
+                "id": "ahsokatano",
+                "points": 69,
+                "ship": "delta7aethersprite",
+                "upgrades": {
+                    "configuration": [
+                        "delta7b"
+                    ],
+                    "force-power": [
+                        "supernaturalreflexes"
+                    ]
+                }
+            },
+            {
+                "id": "wolffe",
+                "points": 50,
+                "ship": "arc170starfighter",
+                "upgrades": {}
+            },
+            {
+                "id": "broadside",
+                "points": 36,
+                "ship": "btlbywing",
+                "upgrades": {}
+            }
+        ],
+        "points": 195,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Option2": {
+        "faction": "resistance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "temminwexley",
+                "points": 79,
+                "ship": "t70xwing",
+                "upgrades": {
+                    "astromech": [
+                        "r1j5"
+                    ],
+                    "configuration": [
+                        "integratedsfoils"
+                    ],
+                    "missile": [
+                        "clustermissiles"
+                    ],
+                    "modification": [
+                        "shieldupgrade"
+                    ],
+                    "talent": [
+                        "marksmanship"
+                    ],
+                    "tech": [
+                        "targetingsynchronizer"
+                    ],
+                    "title": [
+                        "blackone"
+                    ]
+                }
+            },
+            {
+                "id": "ronithblario",
+                "points": 34,
+                "ship": "rz2awing",
+                "upgrades": {}
+            },
+            {
+                "id": "rey",
+                "points": 82,
+                "ship": "scavengedyt1300",
+                "upgrades": {
+                    "illicit": [
+                        "feedbackarray"
+                    ],
+                    "missile": [
+                        "homingmissiles"
+                    ],
+                    "modification": [
+                        "stealthdevice"
+                    ]
+                }
+            }
+        ],
+        "points": 195,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "TTT": "Charles Holcomb",
+    "VassalForm1": "Sir Charles",
+    "VassalForm2": "Sir Charles"
+}

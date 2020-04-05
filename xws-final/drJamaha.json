@@ -1,0 +1,227 @@
+{
+    "Add": "Soulless One (General Grievous)",
+    "Discord": "drJamaha#7049",
+    "Drop": "Static Discharge Vanes (Trade Federation Drone)",
+    "Final": {
+        "faction": "separatistalliance",
+        "name": "Jari-Matti Hannula JTO",
+        "obstacles": [
+            "coreasteroid2",
+            "coreasteroid3",
+            "coreasteroid5"
+        ],
+        "pilots": [
+            {
+                "id": "feethanottrawautopilot",
+                "points": 44,
+                "ship": "belbullab22starfighter",
+                "upgrades": {
+                    "tacticalrelay": [
+                        "ta175"
+                    ]
+                }
+            },
+            {
+                "id": "tradefederationdrone",
+                "points": 23,
+                "ship": "vultureclassdroidfighter",
+                "upgrades": {
+                    "missile": [
+                        "discordmissiles"
+                    ]
+                }
+            },
+            {
+                "id": "generalgrievous",
+                "points": 56,
+                "ship": "belbullab22starfighter",
+                "upgrades": {
+                    "modification": [
+                        "stealthdevice"
+                    ],
+                    "title": [
+                        "soullessone"
+                    ]
+                }
+            },
+            {
+                "id": "bombardmentdrone",
+                "points": 45,
+                "ship": "hyenaclassdroidbomber",
+                "upgrades": {
+                    "configuration": [
+                        "landingstruts"
+                    ],
+                    "device": [
+                        "electroprotonbomb"
+                    ],
+                    "sensor": [
+                        "passivesensors"
+                    ]
+                }
+            },
+            {
+                "id": "dfs081",
+                "points": 27,
+                "ship": "vultureclassdroidfighter",
+                "upgrades": {
+                    "configuration": [
+                        "grapplingstruts"
+                    ]
+                }
+            }
+        ],
+        "points": 195,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Name": "Jari-Matti Hannula",
+    "Option1": {
+        "faction": "galacticempire",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "tomaxbren",
+                "points": 73,
+                "ship": "tiesabomber",
+                "upgrades": {
+                    "device": [
+                        "connernets",
+                        "ionbombs"
+                    ],
+                    "gunner": [
+                        "fifthbrother"
+                    ],
+                    "missile": [
+                        "homingmissiles"
+                    ],
+                    "modification": [
+                        "targetingcomputer"
+                    ],
+                    "talent": [
+                        "ruthless"
+                    ],
+                    "torpedo": [
+                        "iontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "gammasquadronace",
+                "points": 48,
+                "ship": "tiesabomber",
+                "upgrades": {
+                    "device": [
+                        "ionbombs"
+                    ],
+                    "talent": [
+                        "outmaneuver"
+                    ],
+                    "torpedo": [
+                        "advprotontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "obsidiansquadronpilot",
+                "points": 29,
+                "ship": "tielnfighter",
+                "upgrades": {
+                    "modification": [
+                        "afterburners"
+                    ]
+                }
+            },
+            {
+                "id": "deathfire",
+                "points": 47,
+                "ship": "tiesabomber",
+                "upgrades": {
+                    "device": [
+                        "seismiccharges"
+                    ],
+                    "missile": [
+                        "diamondboronmissiles"
+                    ],
+                    "modification": [
+                        "afterburners"
+                    ]
+                }
+            }
+        ],
+        "points": 197,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Option2": {
+        "faction": "separatistalliance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "feethanottrawautopilot",
+                "points": 44,
+                "ship": "belbullab22starfighter",
+                "upgrades": {
+                    "tacticalrelay": [
+                        "ta175"
+                    ]
+                }
+            },
+            {
+                "id": "tradefederationdrone",
+                "points": 29,
+                "ship": "vultureclassdroidfighter",
+                "upgrades": {
+                    "missile": [
+                        "discordmissiles"
+                    ],
+                    "modification": [
+                        "staticdischargevanes"
+                    ]
+                }
+            },
+            {
+                "id": "generalgrievous",
+                "points": 50,
+                "ship": "belbullab22starfighter",
+                "upgrades": {
+                    "modification": [
+                        "stealthdevice"
+                    ]
+                }
+            },
+            {
+                "id": "bombardmentdrone",
+                "points": 45,
+                "ship": "hyenaclassdroidbomber",
+                "upgrades": {
+                    "configuration": [
+                        "landingstruts"
+                    ],
+                    "device": [
+                        "electroprotonbomb"
+                    ],
+                    "sensor": [
+                        "passivesensors"
+                    ]
+                }
+            },
+            {
+                "id": "dfs081",
+                "points": 27,
+                "ship": "vultureclassdroidfighter",
+                "upgrades": {
+                    "configuration": [
+                        "grapplingstruts"
+                    ]
+                }
+            }
+        ],
+        "points": 195,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "TTT": "Jari-Matti Hannula",
+    "VassalForm1": "drJamaha",
+    "VassalForm2": "drJamaha"
+}

@@ -1,0 +1,154 @@
+{
+    "Add": "Shield Upgrade to Tie/SF Quickdraw",
+    "Discord": "Frosticle#0338",
+    "Drop": "Proton Rockets from Tie Silencer \"Rush\"",
+    "Final": {
+        "faction": "firstorder",
+        "name": "Will Frost JTO",
+        "pilots": [
+            {
+                "id": "rush",
+                "points": 57,
+                "ship": "tievnsilencer",
+                "upgrades": {}
+            },
+            {
+                "id": "omegasquadronexpert",
+                "points": 38,
+                "ship": "tiesffighter",
+                "upgrades": {
+                    "missile": [
+                        "ionmissiles"
+                    ]
+                }
+            },
+            {
+                "id": "ember",
+                "points": 52,
+                "ship": "tiebainterceptor",
+                "upgrades": {}
+            },
+            {
+                "id": "quickdraw",
+                "points": 51,
+                "ship": "tiesffighter",
+                "upgrades": {
+                    "modification": [
+                        "shieldupgrade"
+                    ]
+                }
+            }
+        ],
+        "points": 198,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Name": "William Frost",
+    "Option1": {
+        "faction": "rebelalliance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "ezrabridger",
+                "points": 53,
+                "ship": "attackshuttle",
+                "upgrades": {
+                    "force-power": [
+                        "heightenedperception"
+                    ],
+                    "modification": [
+                        "hullupgrade"
+                    ],
+                    "title": [
+                        "phantom"
+                    ],
+                    "turret": [
+                        "ioncannonturret"
+                    ]
+                }
+            },
+            {
+                "id": "zeborrelios-tielnfighter",
+                "points": 24,
+                "ship": "tielnfighter",
+                "upgrades": {}
+            },
+            {
+                "id": "ap5",
+                "points": 47,
+                "ship": "sheathipedeclassshuttle",
+                "upgrades": {
+                    "astromech": [
+                        "r3astromech"
+                    ],
+                    "crew": [
+                        "kananjarrus"
+                    ]
+                }
+            },
+            {
+                "id": "greensquadronpilot",
+                "points": 38,
+                "ship": "rz1awing",
+                "upgrades": {
+                    "missile": [
+                        "concussionmissiles"
+                    ]
+                }
+            },
+            {
+                "id": "kylekatarn",
+                "points": 34,
+                "ship": "hwk290lightfreighter",
+                "upgrades": {}
+            }
+        ],
+        "points": 196,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Option2": {
+        "faction": "firstorder",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "rush",
+                "points": 64,
+                "ship": "tievnsilencer",
+                "upgrades": {
+                    "missile": [
+                        "protonrockets"
+                    ]
+                }
+            },
+            {
+                "id": "omegasquadronexpert",
+                "points": 38,
+                "ship": "tiesffighter",
+                "upgrades": {
+                    "missile": [
+                        "ionmissiles"
+                    ]
+                }
+            },
+            {
+                "id": "ember",
+                "points": 52,
+                "ship": "tiebainterceptor",
+                "upgrades": {}
+            },
+            {
+                "id": "quickdraw",
+                "points": 45,
+                "ship": "tiesffighter",
+                "upgrades": {}
+            }
+        ],
+        "points": 199,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "TTT": "Will Frost",
+    "VassalForm1": "Frosticle",
+    "VassalForm2": "Frosticle"
+}

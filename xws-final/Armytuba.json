@@ -1,0 +1,208 @@
+{
+    "Add": "Add pattern analyzer to Nein ",
+    "Discord": "DBS404",
+    "Drop": "Remove composure from cova nell",
+    "Final": {
+        "faction": "resistance",
+        "name": "Armytuba JTO",
+        "pilots": [
+            {
+                "id": "covanell",
+                "points": 52,
+                "ship": "resistancetransport",
+                "upgrades": {
+                    "crew": [
+                        "perceptivecopilot"
+                    ],
+                    "modification": [
+                        "staticdischargevanes"
+                    ]
+                }
+            },
+            {
+                "id": "niennunb",
+                "points": 69,
+                "ship": "t70xwing",
+                "upgrades": {
+                    "cannon": [
+                        "autoblasters"
+                    ],
+                    "configuration": [
+                        "integratedsfoils"
+                    ],
+                    "talent": [
+                        "debrisgambit"
+                    ],
+                    "tech": [
+                        "patternanalyzer"
+                    ],
+                    "title": [
+                        "blackone"
+                    ]
+                }
+            },
+            {
+                "id": "blacksquadronace-t70xwing",
+                "points": 53,
+                "ship": "t70xwing",
+                "upgrades": {
+                    "astromech": [
+                        "bb8"
+                    ],
+                    "configuration": [
+                        "integratedsfoils"
+                    ]
+                }
+            },
+            {
+                "id": "rosetico",
+                "points": 26,
+                "ship": "resistancetransportpod",
+                "upgrades": {}
+            }
+        ],
+        "points": 200,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Name": "Ted Traini",
+    "Option1": {
+        "faction": "separatistalliance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "dbs32c",
+                "points": 41,
+                "ship": "hyenaclassdroidbomber",
+                "upgrades": {
+                    "configuration": [
+                        "landingstruts"
+                    ]
+                }
+            },
+            {
+                "id": "baktoidprototype",
+                "points": 37,
+                "ship": "hyenaclassdroidbomber",
+                "upgrades": {
+                    "configuration": [
+                        "landingstruts"
+                    ],
+                    "missile": [
+                        "protonrockets"
+                    ],
+                    "modification": [
+                        "delayedfuses"
+                    ]
+                }
+            },
+            {
+                "id": "separatistdrone",
+                "points": 33,
+                "ship": "vultureclassdroidfighter",
+                "upgrades": {
+                    "configuration": [
+                        "grapplingstruts"
+                    ],
+                    "missile": [
+                        "clustermissiles"
+                    ],
+                    "modification": [
+                        "shieldupgrade"
+                    ]
+                }
+            },
+            {
+                "id": "066",
+                "points": 69,
+                "ship": "sithinfiltrator",
+                "upgrades": {
+                    "crew": [
+                        "seasonednavigator"
+                    ],
+                    "device": [
+                        "clustermines"
+                    ],
+                    "tacticalrelay": [
+                        "k2b4"
+                    ]
+                }
+            },
+            {
+                "id": "tradefederationdrone",
+                "points": 19,
+                "ship": "vultureclassdroidfighter",
+                "upgrades": {}
+            }
+        ],
+        "points": 199,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Option2": {
+        "faction": "resistance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "covanell",
+                "points": 53,
+                "ship": "resistancetransport",
+                "upgrades": {
+                    "crew": [
+                        "perceptivecopilot"
+                    ],
+                    "modification": [
+                        "staticdischargevanes"
+                    ],
+                    "talent": [
+                        "composure"
+                    ]
+                }
+            },
+            {
+                "id": "niennunb",
+                "points": 64,
+                "ship": "t70xwing",
+                "upgrades": {
+                    "cannon": [
+                        "autoblasters"
+                    ],
+                    "configuration": [
+                        "integratedsfoils"
+                    ],
+                    "talent": [
+                        "debrisgambit"
+                    ],
+                    "title": [
+                        "blackone"
+                    ]
+                }
+            },
+            {
+                "id": "blacksquadronace-t70xwing",
+                "points": 53,
+                "ship": "t70xwing",
+                "upgrades": {
+                    "astromech": [
+                        "bb8"
+                    ],
+                    "configuration": [
+                        "integratedsfoils"
+                    ]
+                }
+            },
+            {
+                "id": "rosetico",
+                "points": 26,
+                "ship": "resistancetransportpod",
+                "upgrades": {}
+            }
+        ],
+        "points": 196,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "TTT": "Ted Traini",
+    "VassalForm1": "Armytuba",
+    "VassalForm2": "Armytuba"
+}

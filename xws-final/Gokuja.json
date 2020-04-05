@@ -1,0 +1,189 @@
+{
+    "Add": "Cluster Mines onto Zuvio",
+    "Discord": "Gokuja #9521",
+    "Drop": "Feedback array from Zuvio",
+    "Final": {
+        "faction": "scumandvillainy",
+        "name": "Blackjack",
+        "pilots": [
+            {
+                "id": "kavil",
+                "points": 57,
+                "ship": "btla4ywing",
+                "upgrades": {
+                    "gunner": [
+                        "greedo"
+                    ],
+                    "torpedo": [
+                        "protontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "constablezuvio",
+                "points": 46,
+                "ship": "quadrijettransferspacetug",
+                "upgrades": {
+                    "device": [
+                        "clustermines"
+                    ],
+                    "tech": [
+                        "patternanalyzer"
+                    ]
+                }
+            },
+            {
+                "id": "foremanproach",
+                "points": 39,
+                "ship": "modifiedtielnfighter",
+                "upgrades": {
+                    "talent": [
+                        "snapshot"
+                    ]
+                }
+            },
+            {
+                "id": "bossk-z95af4headhunter",
+                "points": 29,
+                "ship": "z95af4headhunter",
+                "upgrades": {}
+            },
+            {
+                "id": "landocalrissian-escapecraft",
+                "points": 29,
+                "ship": "escapecraft",
+                "upgrades": {}
+            }
+        ],
+        "points": 200,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Name": "Virgil Hayward",
+    "Option1": {
+        "faction": "scumandvillainy",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "kavil",
+                "points": 57,
+                "ship": "btla4ywing",
+                "upgrades": {
+                    "gunner": [
+                        "greedo"
+                    ],
+                    "torpedo": [
+                        "protontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "constablezuvio",
+                "points": 41,
+                "ship": "quadrijettransferspacetug",
+                "upgrades": {
+                    "illicit": [
+                        "feedbackarray"
+                    ],
+                    "tech": [
+                        "patternanalyzer"
+                    ]
+                }
+            },
+            {
+                "id": "foremanproach",
+                "points": 39,
+                "ship": "modifiedtielnfighter",
+                "upgrades": {
+                    "talent": [
+                        "snapshot"
+                    ]
+                }
+            },
+            {
+                "id": "bossk-z95af4headhunter",
+                "points": 29,
+                "ship": "z95af4headhunter",
+                "upgrades": {}
+            },
+            {
+                "id": "landocalrissian-escapecraft",
+                "points": 29,
+                "ship": "escapecraft",
+                "upgrades": {}
+            }
+        ],
+        "points": 195,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Option2": {
+        "faction": "firstorder",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "pettyofficerthanisson",
+                "points": 94,
+                "ship": "upsilonclasscommandshuttle",
+                "upgrades": {
+                    "crew": [
+                        "gnkgonkdroid",
+                        "informant",
+                        "novicetechnician"
+                    ],
+                    "modification": [
+                        "delayedfuses"
+                    ],
+                    "sensor": [
+                        "trajectorysimulator"
+                    ],
+                    "tech": [
+                        "advancedoptics",
+                        "patternanalyzer"
+                    ]
+                }
+            },
+            {
+                "id": "omegasquadronexpert",
+                "points": 55,
+                "ship": "tiesffighter",
+                "upgrades": {
+                    "gunner": [
+                        "agilegunner"
+                    ],
+                    "sensor": [
+                        "advancedsensors"
+                    ],
+                    "talent": [
+                        "swarmtactics"
+                    ]
+                }
+            },
+            {
+                "id": "captainphasma",
+                "points": 50,
+                "ship": "tiesffighter",
+                "upgrades": {
+                    "gunner": [
+                        "skilledbombardier"
+                    ],
+                    "modification": [
+                        "stealthdevice"
+                    ],
+                    "sensor": [
+                        "firecontrolsystem"
+                    ],
+                    "tech": [
+                        "biohexacryptcodes"
+                    ]
+                }
+            }
+        ],
+        "points": 199,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "TTT": "Virgil Hayward",
+    "VassalForm1": "Gokuja",
+    "VassalForm2": "Gokuja"
+}

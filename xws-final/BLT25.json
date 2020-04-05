@@ -1,0 +1,61 @@
+{
+    "Add": "",
+    "Discord": "BLT25#9879",
+    "Drop": "",
+    "Final": {
+        "faction": "firstorder",
+        "obstacles": [
+            "gascloud1",
+            "gascloud2",
+            "gascloud3"
+        ],
+        "pilots": [
+            {
+                "id": "ember",
+                "points": 66,
+                "ship": "tiebainterceptor",
+                "upgrades": {
+                    "missile": [
+                        "magpulsewarheads"
+                    ],
+                    "tech": [
+                        "primedthrusters"
+                    ]
+                }
+            },
+            {
+                "id": "pettyofficerthanisson",
+                "points": 70,
+                "ship": "upsilonclasscommandshuttle",
+                "upgrades": {
+                    "crew": [
+                        "captainphasma",
+                        "informant"
+                    ],
+                    "modification": [
+                        "delayedfuses"
+                    ]
+                }
+            },
+            {
+                "id": "firstordertestpilot",
+                "points": 63,
+                "ship": "tievnsilencer",
+                "upgrades": {
+                    "missile": [
+                        "protonrockets"
+                    ]
+                }
+            }
+        ],
+        "points": 199,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Name": "Alex Whitehead ",
+    "Option1": null,
+    "Option2": null,
+    "TTT": "Alex Whitehead ",
+    "VassalForm1": "",
+    "VassalForm2": "BLT25"
+}

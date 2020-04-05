@@ -1,0 +1,155 @@
+{
+    "Add": "Outmaneuver to FOTP",
+    "Discord": "wilhelmfors (#8270)",
+    "Drop": "Targeting Sync from FOTP",
+    "Final": {
+        "faction": "firstorder",
+        "name": "JTO Wilhelm Fors",
+        "pilots": [
+            {
+                "id": "firstorderprovocateur",
+                "points": 48,
+                "ship": "tiebainterceptor",
+                "upgrades": {
+                    "talent": [
+                        "elusive"
+                    ]
+                }
+            },
+            {
+                "id": "firstordertestpilot",
+                "points": 62,
+                "ship": "tievnsilencer",
+                "upgrades": {
+                    "talent": [
+                        "outmaneuver"
+                    ]
+                }
+            },
+            {
+                "id": "ember",
+                "points": 52,
+                "ship": "tiebainterceptor",
+                "upgrades": {}
+            },
+            {
+                "id": "commandermalarus",
+                "points": 38,
+                "ship": "tiefofighter",
+                "upgrades": {}
+            }
+        ],
+        "points": 200,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Name": "Wilhelm Fors",
+    "Option1": {
+        "faction": "firstorder",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "firstorderprovocateur",
+                "points": 48,
+                "ship": "tiebainterceptor",
+                "upgrades": {
+                    "talent": [
+                        "elusive"
+                    ]
+                }
+            },
+            {
+                "id": "firstordertestpilot",
+                "points": 62,
+                "ship": "tievnsilencer",
+                "upgrades": {
+                    "tech": [
+                        "targetingsynchronizer"
+                    ]
+                }
+            },
+            {
+                "id": "ember",
+                "points": 52,
+                "ship": "tiebainterceptor",
+                "upgrades": {}
+            },
+            {
+                "id": "commandermalarus",
+                "points": 38,
+                "ship": "tiefofighter",
+                "upgrades": {}
+            }
+        ],
+        "points": 200,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Option2": {
+        "faction": "galacticrepublic",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "luminaraunduli",
+                "points": 47,
+                "ship": "delta7aethersprite",
+                "upgrades": {
+                    "force-power": [
+                        "foresight"
+                    ]
+                }
+            },
+            {
+                "id": "matchstick",
+                "points": 66,
+                "ship": "btlbywing",
+                "upgrades": {
+                    "astromech": [
+                        "r5astromech"
+                    ],
+                    "device": [
+                        "protonbombs"
+                    ],
+                    "torpedo": [
+                        "plasmatorpedoes"
+                    ],
+                    "turret": [
+                        "ioncannonturret"
+                    ]
+                }
+            },
+            {
+                "id": "goldsquadrontrooper",
+                "points": 28,
+                "ship": "v19torrentstarfighter",
+                "upgrades": {
+                    "modification": [
+                        "targetingcomputer"
+                    ]
+                }
+            },
+            {
+                "id": "squadsevenveteran",
+                "points": 58,
+                "ship": "arc170starfighter",
+                "upgrades": {
+                    "astromech": [
+                        "r5astromech"
+                    ],
+                    "modification": [
+                        "synchronizedconsole"
+                    ],
+                    "torpedo": [
+                        "plasmatorpedoes"
+                    ]
+                }
+            }
+        ],
+        "points": 199,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "TTT": "Wilhelm Fors",
+    "VassalForm1": "wilhelmfors",
+    "VassalForm2": "wilhelmfors"
+}

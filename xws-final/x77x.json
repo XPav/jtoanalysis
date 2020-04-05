@@ -1,0 +1,183 @@
+{
+    "Add": "Shadow Caster to Ketsu Onyo",
+    "Discord": "x77x#8564",
+    "Drop": "none",
+    "Final": {
+        "faction": "scumandvillainy",
+        "name": "Zach Huffines JTO",
+        "pilots": [
+            {
+                "id": "overseeryushyn",
+                "points": 26,
+                "ship": "modifiedtielnfighter",
+                "upgrades": {}
+            },
+            {
+                "id": "toranikulda",
+                "points": 59,
+                "ship": "m12lkimogilafighter",
+                "upgrades": {
+                    "illicit": [
+                        "inertialdampeners"
+                    ],
+                    "modification": [
+                        "ablativeplating"
+                    ],
+                    "talent": [
+                        "marksmanship"
+                    ]
+                }
+            },
+            {
+                "id": "unkarplutt",
+                "points": 35,
+                "ship": "quadrijettransferspacetug",
+                "upgrades": {
+                    "tech": [
+                        "patternanalyzer"
+                    ]
+                }
+            },
+            {
+                "id": "ketsuonyo",
+                "points": 76,
+                "ship": "lancerclasspursuitcraft",
+                "upgrades": {
+                    "illicit": [
+                        "contrabandcybernetics",
+                        "deadmansswitch"
+                    ],
+                    "modification": [
+                        "tacticalscrambler"
+                    ],
+                    "title": [
+                        "shadowcaster"
+                    ]
+                }
+            }
+        ],
+        "points": 196,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Name": "Zach Huffines",
+    "Option1": {
+        "faction": "scumandvillainy",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "overseeryushyn",
+                "points": 26,
+                "ship": "modifiedtielnfighter",
+                "upgrades": {}
+            },
+            {
+                "id": "toranikulda",
+                "points": 59,
+                "ship": "m12lkimogilafighter",
+                "upgrades": {
+                    "illicit": [
+                        "inertialdampeners"
+                    ],
+                    "modification": [
+                        "ablativeplating"
+                    ],
+                    "talent": [
+                        "marksmanship"
+                    ]
+                }
+            },
+            {
+                "id": "unkarplutt",
+                "points": 35,
+                "ship": "quadrijettransferspacetug",
+                "upgrades": {
+                    "tech": [
+                        "patternanalyzer"
+                    ]
+                }
+            },
+            {
+                "id": "ketsuonyo",
+                "points": 75,
+                "ship": "lancerclasspursuitcraft",
+                "upgrades": {
+                    "illicit": [
+                        "deadmansswitch",
+                        "contrabandcybernetics"
+                    ],
+                    "modification": [
+                        "tacticalscrambler"
+                    ]
+                }
+            }
+        ],
+        "points": 195,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Option2": {
+        "faction": "galacticrepublic",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "naboohandmaiden",
+                "points": 48,
+                "ship": "nabooroyaln1starfighter",
+                "upgrades": {
+                    "torpedo": [
+                        "advprotontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "naboohandmaiden",
+                "points": 54,
+                "ship": "nabooroyaln1starfighter",
+                "upgrades": {
+                    "astromech": [
+                        "r5astromech"
+                    ],
+                    "sensor": [
+                        "firecontrolsystem"
+                    ],
+                    "torpedo": [
+                        "iontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "104thbattalionpilot",
+                "points": 51,
+                "ship": "arc170starfighter",
+                "upgrades": {
+                    "crew": [
+                        "freelanceslicer"
+                    ],
+                    "torpedo": [
+                        "advprotontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "barrissoffee",
+                "points": 42,
+                "ship": "delta7aethersprite",
+                "upgrades": {
+                    "configuration": [
+                        "calibratedlasertargeting"
+                    ],
+                    "force-power": [
+                        "instinctiveaim"
+                    ]
+                }
+            }
+        ],
+        "points": 195,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "TTT": "Zach Huffines",
+    "VassalForm1": "x77x",
+    "VassalForm2": "x77x"
+}

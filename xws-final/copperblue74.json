@@ -1,0 +1,181 @@
+{
+    "Add": "Plasma Torpedoes to Gamma Squadron Ace",
+    "Discord": "Copperblue74 #3997",
+    "Drop": "Plasma Torpedoes from Nu Squadron Pilot",
+    "Final": {
+        "faction": "galacticempire",
+        "name": "JON FEUCHT JTO",
+        "obstacles": [
+            "gascloud1",
+            "gascloud2",
+            "gascloud6"
+        ],
+        "pilots": [
+            {
+                "id": "blacksquadronscout",
+                "points": 36,
+                "ship": "tieskstriker",
+                "upgrades": {
+                    "modification": [
+                        "delayedfuses"
+                    ],
+                    "talent": [
+                        "ruthless"
+                    ]
+                }
+            },
+            {
+                "id": "nusquadronpilot",
+                "points": 45,
+                "ship": "alphaclassstarwing",
+                "upgrades": {
+                    "configuration": [
+                        "os1arsenalloadout"
+                    ],
+                    "torpedo": [
+                        "protontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "alphasquadronpilot",
+                "points": 31,
+                "ship": "tieininterceptor",
+                "upgrades": {}
+            },
+            {
+                "id": "gammasquadronace",
+                "points": 39,
+                "ship": "tiesabomber",
+                "upgrades": {
+                    "torpedo": [
+                        "plasmatorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "captainferoph",
+                "points": 47,
+                "ship": "tiereaper",
+                "upgrades": {}
+            }
+        ],
+        "points": 198,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Name": "Jon Feucht",
+    "Option1": {
+        "faction": "galacticempire",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "blacksquadronscout",
+                "points": 36,
+                "ship": "tieskstriker",
+                "upgrades": {
+                    "modification": [
+                        "delayedfuses"
+                    ],
+                    "talent": [
+                        "ruthless"
+                    ]
+                }
+            },
+            {
+                "id": "nusquadronpilot",
+                "points": 54,
+                "ship": "alphaclassstarwing",
+                "upgrades": {
+                    "configuration": [
+                        "os1arsenalloadout"
+                    ],
+                    "torpedo": [
+                        "plasmatorpedoes",
+                        "protontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "alphasquadronpilot",
+                "points": 31,
+                "ship": "tieininterceptor",
+                "upgrades": {}
+            },
+            {
+                "id": "gammasquadronace",
+                "points": 30,
+                "ship": "tiesabomber",
+                "upgrades": {}
+            },
+            {
+                "id": "captainferoph",
+                "points": 47,
+                "ship": "tiereaper",
+                "upgrades": {}
+            }
+        ],
+        "points": 198,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Option2": {
+        "faction": "rebelalliance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "ginamoonsong",
+                "points": 74,
+                "ship": "asf01bwing",
+                "upgrades": {
+                    "cannon": [
+                        "tractorbeam"
+                    ],
+                    "configuration": [
+                        "stabilizedsfoils"
+                    ],
+                    "sensor": [
+                        "advancedsensors"
+                    ],
+                    "torpedo": [
+                        "plasmatorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "dutchvander",
+                "points": 59,
+                "ship": "btla4ywing",
+                "upgrades": {
+                    "device": [
+                        "seismiccharges"
+                    ],
+                    "gunner": [
+                        "hotshotgunner"
+                    ],
+                    "torpedo": [
+                        "plasmatorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "bladesquadronveteran",
+                "points": 42,
+                "ship": "asf01bwing",
+                "upgrades": {}
+            },
+            {
+                "id": "talasquadronpilot",
+                "points": 24,
+                "ship": "z95af4headhunter",
+                "upgrades": {}
+            }
+        ],
+        "points": 199,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "TTT": "Jon Feucht",
+    "VassalForm1": "copperblue74",
+    "VassalForm2": "copperblue74"
+}

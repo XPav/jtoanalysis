@@ -1,0 +1,183 @@
+{
+    "Add": "Proton Torpedos to Anakin Skywalker (Naboo)",
+    "Discord": "the8bitdeity#8163",
+    "Drop": "Plasma Torpedos from R2-D2 (Y-Wing)",
+    "Final": {
+        "faction": "galacticrepublic",
+        "name": "Robert Kukuchka JTO",
+        "pilots": [
+            {
+                "id": "r2d2",
+                "points": 51,
+                "ship": "btlbywing",
+                "upgrades": {
+                    "crew": [
+                        "c3po-republic"
+                    ],
+                    "talent": [
+                        "intimidation"
+                    ],
+                    "turret": [
+                        "ioncannonturret"
+                    ]
+                }
+            },
+            {
+                "id": "oddball",
+                "points": 41,
+                "ship": "v19torrentstarfighter",
+                "upgrades": {
+                    "missile": [
+                        "clustermissiles"
+                    ],
+                    "talent": [
+                        "predator"
+                    ]
+                }
+            },
+            {
+                "id": "wolffe",
+                "points": 50,
+                "ship": "arc170starfighter",
+                "upgrades": {}
+            },
+            {
+                "id": "anakinskywalker-nabooroyaln1starfighter",
+                "points": 58,
+                "ship": "nabooroyaln1starfighter",
+                "upgrades": {
+                    "astromech": [
+                        "r5astromech"
+                    ],
+                    "torpedo": [
+                        "protontorpedoes"
+                    ]
+                }
+            }
+        ],
+        "points": 200,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Name": "Robert Kukuchka",
+    "Option1": {
+        "faction": "separatistalliance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "gorgol",
+                "points": 36,
+                "ship": "nantexclassstarfighter",
+                "upgrades": {}
+            },
+            {
+                "id": "dbs32c",
+                "points": 43,
+                "ship": "hyenaclassdroidbomber",
+                "upgrades": {
+                    "configuration": [
+                        "landingstruts"
+                    ],
+                    "sensor": [
+                        "firecontrolsystem"
+                    ]
+                }
+            },
+            {
+                "id": "bombardmentdrone",
+                "points": 43,
+                "ship": "hyenaclassdroidbomber",
+                "upgrades": {
+                    "device": [
+                        "clustermines"
+                    ],
+                    "sensor": [
+                        "collisiondetector"
+                    ]
+                }
+            },
+            {
+                "id": "066",
+                "points": 73,
+                "ship": "sithinfiltrator",
+                "upgrades": {
+                    "cannon": [
+                        "autoblasters"
+                    ],
+                    "tacticalrelay": [
+                        "ta175"
+                    ],
+                    "title": [
+                        "scimitar"
+                    ],
+                    "torpedo": [
+                        "advprotontorpedoes"
+                    ]
+                }
+            }
+        ],
+        "points": 195,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Option2": {
+        "faction": "galacticrepublic",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "r2d2",
+                "points": 60,
+                "ship": "btlbywing",
+                "upgrades": {
+                    "crew": [
+                        "c3po-republic"
+                    ],
+                    "talent": [
+                        "intimidation"
+                    ],
+                    "torpedo": [
+                        "plasmatorpedoes"
+                    ],
+                    "turret": [
+                        "ioncannonturret"
+                    ]
+                }
+            },
+            {
+                "id": "oddball",
+                "points": 41,
+                "ship": "v19torrentstarfighter",
+                "upgrades": {
+                    "missile": [
+                        "clustermissiles"
+                    ],
+                    "talent": [
+                        "predator"
+                    ]
+                }
+            },
+            {
+                "id": "wolffe",
+                "points": 50,
+                "ship": "arc170starfighter",
+                "upgrades": {}
+            },
+            {
+                "id": "anakinskywalker-nabooroyaln1starfighter",
+                "points": 45,
+                "ship": "nabooroyaln1starfighter",
+                "upgrades": {
+                    "astromech": [
+                        "r5astromech"
+                    ]
+                }
+            }
+        ],
+        "points": 196,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "TTT": "Robert Kukuchka",
+    "VassalForm1": "the8bitdeity",
+    "VassalForm2": "the8bitdeity"
+}

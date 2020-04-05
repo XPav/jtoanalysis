@@ -1,0 +1,182 @@
+{
+    "Add": "Admiral Sloane to the tie reaper ",
+    "Discord": "Full On (#3851)",
+    "Drop": "Agile gunner from the tie aggressor ",
+    "Final": {
+        "faction": "galacticempire",
+        "name": "Paul Owen JTO",
+        "pilots": [
+            {
+                "id": "sabersquadronace",
+                "points": 37,
+                "ship": "tieininterceptor",
+                "upgrades": {
+                    "talent": [
+                        "ruthless"
+                    ]
+                }
+            },
+            {
+                "id": "sienarspecialist",
+                "points": 36,
+                "ship": "tieagaggressor",
+                "upgrades": {
+                    "missile": [
+                        "protonrockets"
+                    ],
+                    "turret": [
+                        "dorsalturret"
+                    ]
+                }
+            },
+            {
+                "id": "scarifbasepilot",
+                "points": 54,
+                "ship": "tiereaper",
+                "upgrades": {
+                    "crew": [
+                        "admiralsloane"
+                    ],
+                    "modification": [
+                        "staticdischargevanes"
+                    ]
+                }
+            },
+            {
+                "id": "seynmarana",
+                "points": 30,
+                "ship": "tielnfighter",
+                "upgrades": {}
+            },
+            {
+                "id": "tempestsquadronpilot",
+                "points": 42,
+                "ship": "tieadvancedx1",
+                "upgrades": {
+                    "missile": [
+                        "magpulsewarheads"
+                    ]
+                }
+            }
+        ],
+        "points": 199,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Name": "Paul Owen",
+    "Option1": {
+        "faction": "resistance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "benteene",
+                "points": 77,
+                "ship": "mg100starfortress",
+                "upgrades": {
+                    "crew": [
+                        "chewbacca-crew-swz19"
+                    ],
+                    "device": [
+                        "ionbombs"
+                    ],
+                    "gunner": [
+                        "skilledbombardier"
+                    ],
+                    "sensor": [
+                        "trajectorysimulator"
+                    ]
+                }
+            },
+            {
+                "id": "jophseastriker",
+                "points": 53,
+                "ship": "t70xwing",
+                "upgrades": {
+                    "configuration": [
+                        "integratedsfoils"
+                    ],
+                    "talent": [
+                        "daredevil"
+                    ]
+                }
+            },
+            {
+                "id": "resistancesympathizer",
+                "points": 70,
+                "ship": "scavengedyt1300",
+                "upgrades": {
+                    "gunner": [
+                        "finn"
+                    ]
+                }
+            }
+        ],
+        "points": 200,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Option2": {
+        "faction": "galacticempire",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "sabersquadronace",
+                "points": 37,
+                "ship": "tieininterceptor",
+                "upgrades": {
+                    "talent": [
+                        "ruthless"
+                    ]
+                }
+            },
+            {
+                "id": "sienarspecialist",
+                "points": 44,
+                "ship": "tieagaggressor",
+                "upgrades": {
+                    "gunner": [
+                        "agilegunner"
+                    ],
+                    "missile": [
+                        "protonrockets"
+                    ],
+                    "turret": [
+                        "dorsalturret"
+                    ]
+                }
+            },
+            {
+                "id": "scarifbasepilot",
+                "points": 45,
+                "ship": "tiereaper",
+                "upgrades": {
+                    "modification": [
+                        "staticdischargevanes"
+                    ]
+                }
+            },
+            {
+                "id": "seynmarana",
+                "points": 30,
+                "ship": "tielnfighter",
+                "upgrades": {}
+            },
+            {
+                "id": "tempestsquadronpilot",
+                "points": 42,
+                "ship": "tieadvancedx1",
+                "upgrades": {
+                    "missile": [
+                        "magpulsewarheads"
+                    ]
+                }
+            }
+        ],
+        "points": 198,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "TTT": "Full-On",
+    "VassalForm1": "Paul Owen",
+    "VassalForm2": "Paul Owen"
+}

@@ -1,0 +1,176 @@
+{
+    "Add": "0-0-0 to Sabine Wren",
+    "Discord": "idletauntaun",
+    "Drop": "Cloaking Device from Kaa'to Leeachos",
+    "Final": {
+        "faction": "scumandvillainy",
+        "name": "Jared Schwarze JTO",
+        "obstacles": [
+            "yt2400debris0",
+            "yt2400debris1",
+            "yt2400debris2"
+        ],
+        "pilots": [
+            {
+                "id": "sabinewren-lancerclasspursuitcraft",
+                "points": 67,
+                "ship": "lancerclasspursuitcraft",
+                "upgrades": {
+                    "crew": [
+                        "000"
+                    ],
+                    "title": [
+                        "shadowcaster"
+                    ]
+                }
+            },
+            {
+                "id": "oldteroch",
+                "points": 63,
+                "ship": "fangfighter",
+                "upgrades": {
+                    "talent": [
+                        "marksmanship"
+                    ],
+                    "torpedo": [
+                        "advprotontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "kaatoleeachos",
+                "points": 27,
+                "ship": "z95af4headhunter",
+                "upgrades": {}
+            },
+            {
+                "id": "ndrusuhlak",
+                "points": 42,
+                "ship": "z95af4headhunter",
+                "upgrades": {
+                    "illicit": [
+                        "contrabandcybernetics"
+                    ],
+                    "missile": [
+                        "clustermissiles"
+                    ],
+                    "modification": [
+                        "hullupgrade"
+                    ]
+                }
+            }
+        ],
+        "points": 199,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Name": "Jared Schwarze",
+    "Option1": {
+        "faction": "scumandvillainy",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "sabinewren-lancerclasspursuitcraft",
+                "points": 62,
+                "ship": "lancerclasspursuitcraft",
+                "upgrades": {
+                    "title": [
+                        "shadowcaster"
+                    ]
+                }
+            },
+            {
+                "id": "oldteroch",
+                "points": 63,
+                "ship": "fangfighter",
+                "upgrades": {
+                    "talent": [
+                        "marksmanship"
+                    ],
+                    "torpedo": [
+                        "advprotontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "kaatoleeachos",
+                "points": 31,
+                "ship": "z95af4headhunter",
+                "upgrades": {
+                    "illicit": [
+                        "cloakingdevice"
+                    ]
+                }
+            },
+            {
+                "id": "ndrusuhlak",
+                "points": 42,
+                "ship": "z95af4headhunter",
+                "upgrades": {
+                    "illicit": [
+                        "contrabandcybernetics"
+                    ],
+                    "missile": [
+                        "clustermissiles"
+                    ],
+                    "modification": [
+                        "hullupgrade"
+                    ]
+                }
+            }
+        ],
+        "points": 198,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Option2": {
+        "faction": "rebelalliance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "lothalrebel",
+                "points": 82,
+                "ship": "vcx100lightfreighter",
+                "upgrades": {
+                    "crew": [
+                        "maul"
+                    ],
+                    "turret": [
+                        "dorsalturret"
+                    ]
+                }
+            },
+            {
+                "id": "roarkgarnet",
+                "points": 38,
+                "ship": "hwk290lightfreighter",
+                "upgrades": {}
+            },
+            {
+                "id": "ezrabridger-sheathipedeclassshuttle",
+                "points": 47,
+                "ship": "sheathipedeclassshuttle",
+                "upgrades": {
+                    "force-power": [
+                        "sense"
+                    ],
+                    "title": [
+                        "phantom"
+                    ]
+                }
+            },
+            {
+                "id": "lieutenantblount",
+                "points": 30,
+                "ship": "z95af4headhunter",
+                "upgrades": {}
+            }
+        ],
+        "points": 197,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "TTT": "Jared Schwarze",
+    "VassalForm1": "idletauntaun",
+    "VassalForm2": "idletauntaun"
+}

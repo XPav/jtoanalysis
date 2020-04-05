@@ -1,0 +1,183 @@
+{
+    "Add": "Dro\u00c3\u0192\u00c2\u00afd 'Gonk' GNK on Resistance transport",
+    "Discord": "harald85",
+    "Drop": "Torpilles \u00c3\u0192\u00c2\u00a0 protons removed from Resistance transport",
+    "Final": {
+        "faction": "resistance",
+        "name": "Kimberly Colas JTO",
+        "obstacles": [
+            "coreasteroid0",
+            "coreasteroid2",
+            "coreasteroid4"
+        ],
+        "pilots": [
+            {
+                "id": "pammichnerrogoode",
+                "points": 50,
+                "ship": "resistancetransport",
+                "upgrades": {
+                    "crew": [
+                        "gnkgonkdroid"
+                    ],
+                    "tech": [
+                        "advancedoptics"
+                    ]
+                }
+            },
+            {
+                "id": "greersonnel",
+                "points": 41,
+                "ship": "rz2awing",
+                "upgrades": {
+                    "tech": [
+                        "patternanalyzer"
+                    ]
+                }
+            },
+            {
+                "id": "blacksquadronace-t70xwing",
+                "points": 51,
+                "ship": "t70xwing",
+                "upgrades": {
+                    "astromech": [
+                        "bbastromech"
+                    ],
+                    "configuration": [
+                        "integratedsfoils"
+                    ]
+                }
+            },
+            {
+                "id": "temminwexley",
+                "points": 53,
+                "ship": "t70xwing",
+                "upgrades": {
+                    "configuration": [
+                        "integratedsfoils"
+                    ]
+                }
+            }
+        ],
+        "points": 195,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Name": "Kimberly Colas",
+    "Option1": {
+        "faction": "rebelalliance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "mirandadoni",
+                "points": 68,
+                "ship": "btls8kwing",
+                "upgrades": {
+                    "crew": [
+                        "landocalrissian"
+                    ],
+                    "device": [
+                        "bombletgenerator"
+                    ],
+                    "gunner": [
+                        "skilledbombardier"
+                    ],
+                    "missile": [
+                        "diamondboronmissiles"
+                    ],
+                    "modification": [
+                        "tacticalscrambler"
+                    ],
+                    "torpedo": [
+                        "plasmatorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "wildspacefringer",
+                "points": 128,
+                "ship": "yt2400lightfreighter",
+                "upgrades": {
+                    "crew": [
+                        "sawgerrera"
+                    ],
+                    "gunner": [
+                        "bistan"
+                    ],
+                    "illicit": [
+                        "deadmansswitch"
+                    ],
+                    "missile": [
+                        "protonrockets"
+                    ],
+                    "modification": [
+                        "hullupgrade"
+                    ],
+                    "title": [
+                        "outrider"
+                    ]
+                }
+            }
+        ],
+        "points": 196,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Option2": {
+        "faction": "resistance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "pammichnerrogoode",
+                "points": 53,
+                "ship": "resistancetransport",
+                "upgrades": {
+                    "tech": [
+                        "advancedoptics"
+                    ],
+                    "torpedo": [
+                        "protontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "greersonnel",
+                "points": 41,
+                "ship": "rz2awing",
+                "upgrades": {
+                    "tech": [
+                        "patternanalyzer"
+                    ]
+                }
+            },
+            {
+                "id": "blacksquadronace-t70xwing",
+                "points": 51,
+                "ship": "t70xwing",
+                "upgrades": {
+                    "astromech": [
+                        "bbastromech"
+                    ],
+                    "configuration": [
+                        "integratedsfoils"
+                    ]
+                }
+            },
+            {
+                "id": "temminwexley",
+                "points": 53,
+                "ship": "t70xwing",
+                "upgrades": {
+                    "configuration": [
+                        "integratedsfoils"
+                    ]
+                }
+            }
+        ],
+        "points": 198,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "TTT": "Kimberly Colas",
+    "VassalForm1": "Kimberly Colas",
+    "VassalForm2": "Kimberly Colas"
+}

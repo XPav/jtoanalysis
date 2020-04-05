@@ -1,0 +1,149 @@
+{
+    "Add": "Advanced optics to Greer Sonnel",
+    "Discord": "PrinceofWeasels#7542",
+    "Drop": "Daredevil from Greer Sonnel",
+    "Final": {
+        "faction": "resistance",
+        "name": "Nick Worsley JTO",
+        "pilots": [
+            {
+                "id": "greersonnel",
+                "points": 44,
+                "ship": "rz2awing",
+                "upgrades": {
+                    "talent": [
+                        "trickshot"
+                    ],
+                    "tech": [
+                        "advancedoptics"
+                    ]
+                }
+            },
+            {
+                "id": "resistancesympathizer",
+                "points": 60,
+                "ship": "scavengedyt1300",
+                "upgrades": {}
+            },
+            {
+                "id": "rey",
+                "points": 70,
+                "ship": "scavengedyt1300",
+                "upgrades": {}
+            },
+            {
+                "id": "rosetico",
+                "points": 26,
+                "ship": "resistancetransportpod",
+                "upgrades": {}
+            }
+        ],
+        "points": 200,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Name": "Nick Worsley",
+    "Option1": {
+        "faction": "resistance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "greersonnel",
+                "points": 42,
+                "ship": "rz2awing",
+                "upgrades": {
+                    "talent": [
+                        "daredevil",
+                        "trickshot"
+                    ]
+                }
+            },
+            {
+                "id": "resistancesympathizer",
+                "points": 60,
+                "ship": "scavengedyt1300",
+                "upgrades": {}
+            },
+            {
+                "id": "rey",
+                "points": 70,
+                "ship": "scavengedyt1300",
+                "upgrades": {}
+            },
+            {
+                "id": "rosetico",
+                "points": 26,
+                "ship": "resistancetransportpod",
+                "upgrades": {}
+            }
+        ],
+        "points": 198,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Option2": {
+        "faction": "separatistalliance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "precisehunter",
+                "points": 29,
+                "ship": "vultureclassdroidfighter",
+                "upgrades": {
+                    "configuration": [
+                        "grapplingstruts"
+                    ],
+                    "missile": [
+                        "clustermissiles"
+                    ]
+                }
+            },
+            {
+                "id": "sunfac",
+                "points": 57,
+                "ship": "nantexclassstarfighter",
+                "upgrades": {
+                    "talent": [
+                        "predator",
+                        "crackshot"
+                    ]
+                }
+            },
+            {
+                "id": "feethanottrawautopilot",
+                "points": 47,
+                "ship": "belbullab22starfighter",
+                "upgrades": {
+                    "modification": [
+                        "staticdischargevanes"
+                    ],
+                    "title": [
+                        "soullessone"
+                    ]
+                }
+            },
+            {
+                "id": "066",
+                "points": 64,
+                "ship": "sithinfiltrator",
+                "upgrades": {
+                    "cannon": [
+                        "tractorbeam"
+                    ],
+                    "device": [
+                        "proximitymines"
+                    ],
+                    "title": [
+                        "scimitar"
+                    ]
+                }
+            }
+        ],
+        "points": 197,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "TTT": "Nick Worsley",
+    "VassalForm1": "Nick ZA",
+    "VassalForm2": "Nick ZA"
+}

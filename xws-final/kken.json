@@ -1,0 +1,153 @@
+{
+    "Add": "Advanced Optics to Scorch",
+    "Discord": "kken #3132",
+    "Drop": "Targeting Synchronizer from Avenger",
+    "Final": {
+        "faction": "firstorder",
+        "name": "Ken Cho JTO",
+        "pilots": [
+            {
+                "id": "muse",
+                "points": 30,
+                "ship": "tiefofighter",
+                "upgrades": {}
+            },
+            {
+                "id": "recoil",
+                "points": 71,
+                "ship": "tievnsilencer",
+                "upgrades": {
+                    "tech": [
+                        "primedthrusters"
+                    ],
+                    "torpedo": [
+                        "iontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "avenger",
+                "points": 56,
+                "ship": "tievnsilencer",
+                "upgrades": {}
+            },
+            {
+                "id": "scorch",
+                "points": 37,
+                "ship": "tiefofighter",
+                "upgrades": {
+                    "tech": [
+                        "advancedoptics"
+                    ]
+                }
+            }
+        ],
+        "points": 194,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Name": "Ken District Foundry Cho",
+    "Option1": {
+        "faction": "firstorder",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "muse",
+                "points": 30,
+                "ship": "tiefofighter",
+                "upgrades": {}
+            },
+            {
+                "id": "recoil",
+                "points": 71,
+                "ship": "tievnsilencer",
+                "upgrades": {
+                    "tech": [
+                        "primedthrusters"
+                    ],
+                    "torpedo": [
+                        "iontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "avenger",
+                "points": 62,
+                "ship": "tievnsilencer",
+                "upgrades": {
+                    "tech": [
+                        "targetingsynchronizer"
+                    ]
+                }
+            },
+            {
+                "id": "scorch",
+                "points": 33,
+                "ship": "tiefofighter",
+                "upgrades": {}
+            }
+        ],
+        "points": 196,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Option2": {
+        "faction": "galacticrepublic",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "redsquadronbomber",
+                "points": 44,
+                "ship": "btlbywing",
+                "upgrades": {
+                    "astromech": [
+                        "r3astromech"
+                    ],
+                    "device": [
+                        "clustermines"
+                    ],
+                    "modification": [
+                        "targetingcomputer"
+                    ]
+                }
+            },
+            {
+                "id": "padmeamidala",
+                "points": 59,
+                "ship": "nabooroyaln1starfighter",
+                "upgrades": {
+                    "astromech": [
+                        "r4p44"
+                    ],
+                    "torpedo": [
+                        "plasmatorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "bravoflightofficer",
+                "points": 33,
+                "ship": "nabooroyaln1starfighter",
+                "upgrades": {}
+            },
+            {
+                "id": "dineeellberger",
+                "points": 38,
+                "ship": "nabooroyaln1starfighter",
+                "upgrades": {}
+            },
+            {
+                "id": "goldsquadrontrooper",
+                "points": 25,
+                "ship": "v19torrentstarfighter",
+                "upgrades": {}
+            }
+        ],
+        "points": 199,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "TTT": "Ken Cho",
+    "VassalForm1": "kken",
+    "VassalForm2": "kken"
+}

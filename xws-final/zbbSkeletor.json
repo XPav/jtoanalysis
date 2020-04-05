@@ -1,0 +1,213 @@
+{
+    "Add": "Barrage Rockets to the BTL-S8 K-wing",
+    "Discord": "Skeletor420#2378",
+    "Drop": "Ion Turret from attack shuttle",
+    "Final": {
+        "faction": "rebelalliance",
+        "name": "zbbSkeletor JTO",
+        "obstacles": [
+            "core2asteroid1",
+            "core2asteroid3",
+            "core2asteroid5"
+        ],
+        "pilots": [
+            {
+                "id": "ezrabridger",
+                "points": 47,
+                "ship": "attackshuttle",
+                "upgrades": {
+                    "crew": [
+                        "herasyndulla"
+                    ],
+                    "force-power": [
+                        "heightenedperception"
+                    ]
+                }
+            },
+            {
+                "id": "wardensquadronpilot",
+                "points": 62,
+                "ship": "btls8kwing",
+                "upgrades": {
+                    "crew": [
+                        "perceptivecopilot"
+                    ],
+                    "device": [
+                        "ionbombs"
+                    ],
+                    "gunner": [
+                        "skilledbombardier"
+                    ],
+                    "missile": [
+                        "barragerockets"
+                    ]
+                }
+            },
+            {
+                "id": "fennrau-sheathipedeclassshuttle",
+                "points": 61,
+                "ship": "sheathipedeclassshuttle",
+                "upgrades": {
+                    "astromech": [
+                        "chopper"
+                    ],
+                    "crew": [
+                        "jynerso"
+                    ],
+                    "talent": [
+                        "snapshot"
+                    ]
+                }
+            },
+            {
+                "id": "phoenixsquadronpilot",
+                "points": 29,
+                "ship": "rz1awing",
+                "upgrades": {}
+            }
+        ],
+        "points": 199,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Name": "Chris",
+    "Option1": {
+        "faction": "scumandvillainy",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "unkarplutt",
+                "points": 44,
+                "ship": "quadrijettransferspacetug",
+                "upgrades": {
+                    "crew": [
+                        "landocalrissian-crew"
+                    ],
+                    "illicit": [
+                        "inertialdampeners"
+                    ],
+                    "tech": [
+                        "advancedoptics"
+                    ]
+                }
+            },
+            {
+                "id": "freightercaptain",
+                "points": 77,
+                "ship": "customizedyt1300lightfreighter",
+                "upgrades": {
+                    "crew": [
+                        "gnkgonkdroid",
+                        "zuckuss"
+                    ],
+                    "gunner": [
+                        "veteranturretgunner"
+                    ],
+                    "illicit": [
+                        "feedbackarray"
+                    ],
+                    "modification": [
+                        "targetingcomputer"
+                    ],
+                    "title": [
+                        "landosmillenniumfalcon"
+                    ]
+                }
+            },
+            {
+                "id": "hiredgun",
+                "points": 52,
+                "ship": "btla4ywing",
+                "upgrades": {
+                    "device": [
+                        "proximitymines"
+                    ],
+                    "gunner": [
+                        "bossk"
+                    ],
+                    "modification": [
+                        "munitionsfailsafe"
+                    ],
+                    "turret": [
+                        "dorsalturret"
+                    ]
+                }
+            },
+            {
+                "id": "kaatoleeachos",
+                "points": 27,
+                "ship": "z95af4headhunter",
+                "upgrades": {}
+            }
+        ],
+        "points": 200,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Option2": {
+        "faction": "rebelalliance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "ezrabridger",
+                "points": 52,
+                "ship": "attackshuttle",
+                "upgrades": {
+                    "crew": [
+                        "herasyndulla"
+                    ],
+                    "force-power": [
+                        "heightenedperception"
+                    ],
+                    "turret": [
+                        "ioncannonturret"
+                    ]
+                }
+            },
+            {
+                "id": "fennrau-sheathipedeclassshuttle",
+                "points": 61,
+                "ship": "sheathipedeclassshuttle",
+                "upgrades": {
+                    "astromech": [
+                        "chopper"
+                    ],
+                    "crew": [
+                        "jynerso"
+                    ],
+                    "talent": [
+                        "snapshot"
+                    ]
+                }
+            },
+            {
+                "id": "phoenixsquadronpilot",
+                "points": 29,
+                "ship": "rz1awing",
+                "upgrades": {}
+            },
+            {
+                "id": "wardensquadronpilot",
+                "points": 54,
+                "ship": "btls8kwing",
+                "upgrades": {
+                    "crew": [
+                        "perceptivecopilot"
+                    ],
+                    "device": [
+                        "ionbombs"
+                    ],
+                    "gunner": [
+                        "skilledbombardier"
+                    ]
+                }
+            }
+        ],
+        "points": 196,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "TTT": "Christian Tollinchi",
+    "VassalForm1": "zbbSkeletor",
+    "VassalForm2": "zbbSkeletor"
+}

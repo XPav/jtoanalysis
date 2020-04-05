@@ -1,0 +1,176 @@
+{
+    "Add": "Concussion Missiles; LeHuse",
+    "Discord": "Nyxsera / Areum / Catherine #9529",
+    "Drop": "Perceptive Copilot; Stridan",
+    "Final": {
+        "faction": "firstorder",
+        "name": "CatherineNyxsera JTO",
+        "pilots": [
+            {
+                "id": "lieutenantlehuse",
+                "points": 52,
+                "ship": "tiesffighter",
+                "upgrades": {
+                    "missile": [
+                        "concussionmissiles"
+                    ],
+                    "sensor": [
+                        "passivesensors"
+                    ],
+                    "talent": [
+                        "debrisgambit"
+                    ]
+                }
+            },
+            {
+                "id": "lieutenantdormitz",
+                "points": 74,
+                "ship": "upsilonclasscommandshuttle",
+                "upgrades": {
+                    "crew": [
+                        "pettyofficerthanisson"
+                    ]
+                }
+            },
+            {
+                "id": "majorstridan",
+                "points": 71,
+                "ship": "upsilonclasscommandshuttle",
+                "upgrades": {
+                    "cannon": [
+                        "heavylasercannon"
+                    ],
+                    "tech": [
+                        "patternanalyzer"
+                    ]
+                }
+            }
+        ],
+        "points": 197,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Name": "Catherine Sturgis",
+    "Option1": {
+        "faction": "firstorder",
+        "name": "Unsaved Squadron",
+        "pilots": [
+            {
+                "id": "lieutenantlehuse",
+                "points": 46,
+                "ship": "tiesffighter",
+                "upgrades": {
+                    "sensor": [
+                        "passivesensors"
+                    ],
+                    "talent": [
+                        "debrisgambit"
+                    ]
+                }
+            },
+            {
+                "id": "lieutenantdormitz",
+                "points": 74,
+                "ship": "upsilonclasscommandshuttle",
+                "upgrades": {
+                    "crew": [
+                        "pettyofficerthanisson"
+                    ]
+                }
+            },
+            {
+                "id": "majorstridan",
+                "points": 79,
+                "ship": "upsilonclasscommandshuttle",
+                "upgrades": {
+                    "cannon": [
+                        "heavylasercannon"
+                    ],
+                    "crew": [
+                        "perceptivecopilot"
+                    ],
+                    "tech": [
+                        "patternanalyzer"
+                    ]
+                }
+            }
+        ],
+        "points": 199,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Option2": {
+        "faction": "separatistalliance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "066",
+                "points": 97,
+                "ship": "sithinfiltrator",
+                "upgrades": {
+                    "cannon": [
+                        "tractorbeam"
+                    ],
+                    "crew": [
+                        "chancellorpalpatine",
+                        "gnkgonkdroid"
+                    ],
+                    "device": [
+                        "connernets"
+                    ],
+                    "modification": [
+                        "ablativeplating"
+                    ],
+                    "talent": [
+                        "crackshot"
+                    ],
+                    "torpedo": [
+                        "iontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "tradefederationdrone",
+                "points": 21,
+                "ship": "vultureclassdroidfighter",
+                "upgrades": {
+                    "modification": [
+                        "electronicbaffle"
+                    ]
+                }
+            },
+            {
+                "id": "separatistdrone",
+                "points": 32,
+                "ship": "vultureclassdroidfighter",
+                "upgrades": {
+                    "configuration": [
+                        "grapplingstruts"
+                    ],
+                    "missile": [
+                        "protonrockets"
+                    ],
+                    "modification": [
+                        "targetingcomputer"
+                    ]
+                }
+            },
+            {
+                "id": "generalgrievous",
+                "points": 49,
+                "ship": "belbullab22starfighter",
+                "upgrades": {
+                    "modification": [
+                        "hullupgrade"
+                    ]
+                }
+            }
+        ],
+        "points": 199,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "TTT": "Catherine Nyxsera",
+    "VassalForm1": "CatherineNyxsera",
+    "VassalForm2": "CatherineNyxsera"
+}

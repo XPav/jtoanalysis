@@ -1,0 +1,182 @@
+{
+    "Add": "GA-97 to Vi Moradi",
+    "Discord": "User#8849",
+    "Drop": "Pattern Analyzer from Vi Moradi",
+    "Final": {
+        "faction": "resistance",
+        "name": "Charlie Ligato JTO",
+        "pilots": [
+            {
+                "id": "temminwexley",
+                "points": 59,
+                "ship": "t70xwing",
+                "upgrades": {
+                    "astromech": [
+                        "r1j5"
+                    ],
+                    "configuration": [
+                        "integratedsfoils"
+                    ]
+                }
+            },
+            {
+                "id": "chewbacca-scavengedyt1300",
+                "points": 68,
+                "ship": "scavengedyt1300",
+                "upgrades": {
+                    "talent": [
+                        "lonewolf"
+                    ]
+                }
+            },
+            {
+                "id": "zizitlo",
+                "points": 40,
+                "ship": "rz2awing",
+                "upgrades": {}
+            },
+            {
+                "id": "vimoradi",
+                "points": 33,
+                "ship": "resistancetransportpod",
+                "upgrades": {
+                    "crew": [
+                        "ga97"
+                    ]
+                }
+            }
+        ],
+        "points": 200,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Name": "Charlie Ligato",
+    "Option1": {
+        "faction": "resistance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "temminwexley",
+                "points": 59,
+                "ship": "t70xwing",
+                "upgrades": {
+                    "astromech": [
+                        "r1j5"
+                    ],
+                    "configuration": [
+                        "integratedsfoils"
+                    ]
+                }
+            },
+            {
+                "id": "chewbacca-scavengedyt1300",
+                "points": 68,
+                "ship": "scavengedyt1300",
+                "upgrades": {
+                    "talent": [
+                        "lonewolf"
+                    ]
+                }
+            },
+            {
+                "id": "zizitlo",
+                "points": 40,
+                "ship": "rz2awing",
+                "upgrades": {}
+            },
+            {
+                "id": "vimoradi",
+                "points": 32,
+                "ship": "resistancetransportpod",
+                "upgrades": {
+                    "tech": [
+                        "patternanalyzer"
+                    ]
+                }
+            }
+        ],
+        "points": 199,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Option2": {
+        "faction": "galacticrepublic",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "tucker",
+                "points": 37,
+                "ship": "v19torrentstarfighter",
+                "upgrades": {
+                    "missile": [
+                        "homingmissiles"
+                    ],
+                    "modification": [
+                        "targetingcomputer"
+                    ]
+                }
+            },
+            {
+                "id": "goldsquadrontrooper",
+                "points": 32,
+                "ship": "v19torrentstarfighter",
+                "upgrades": {
+                    "missile": [
+                        "concussionmissiles"
+                    ],
+                    "modification": [
+                        "synchronizedconsole"
+                    ]
+                }
+            },
+            {
+                "id": "broadside",
+                "points": 50,
+                "ship": "btlbywing",
+                "upgrades": {
+                    "astromech": [
+                        "r5astromech"
+                    ],
+                    "gunner": [
+                        "hotshotgunner"
+                    ],
+                    "turret": [
+                        "dorsalturret"
+                    ]
+                }
+            },
+            {
+                "id": "bluesquadronprotector",
+                "points": 33,
+                "ship": "v19torrentstarfighter",
+                "upgrades": {
+                    "missile": [
+                        "homingmissiles"
+                    ],
+                    "modification": [
+                        "delayedfuses"
+                    ]
+                }
+            },
+            {
+                "id": "swoop",
+                "points": 43,
+                "ship": "v19torrentstarfighter",
+                "upgrades": {
+                    "missile": [
+                        "magpulsewarheads"
+                    ],
+                    "modification": [
+                        "afterburners"
+                    ]
+                }
+            }
+        ],
+        "points": 195,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "TTT": "Charles Ligato Jr",
+    "VassalForm1": "Bromak",
+    "VassalForm2": "Bromak"
+}

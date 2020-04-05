@@ -1,0 +1,189 @@
+{
+    "Add": "Shield Upgrade to Soontir Fel",
+    "Discord": "RecklessKat#8144",
+    "Drop": "Agile Gunner from Captain Jonus",
+    "Final": {
+        "faction": "galacticempire",
+        "name": "Katherine CR JTO",
+        "pilots": [
+            {
+                "id": "captainjonus",
+                "points": 83,
+                "ship": "tiesabomber",
+                "upgrades": {
+                    "device": [
+                        "electroprotonbomb",
+                        "connernets"
+                    ],
+                    "missile": [
+                        "magpulsewarheads",
+                        "ionmissiles"
+                    ],
+                    "talent": [
+                        "debrisgambit"
+                    ],
+                    "torpedo": [
+                        "advprotontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "sabersquadronace",
+                "points": 48,
+                "ship": "tieininterceptor",
+                "upgrades": {
+                    "modification": [
+                        "hullupgrade"
+                    ],
+                    "talent": [
+                        "lonewolf"
+                    ]
+                }
+            },
+            {
+                "id": "soontirfel",
+                "points": 69,
+                "ship": "tieininterceptor",
+                "upgrades": {
+                    "modification": [
+                        "electronicbaffle",
+                        "shieldupgrade"
+                    ],
+                    "talent": [
+                        "outmaneuver"
+                    ]
+                }
+            }
+        ],
+        "points": 200,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Name": "Katherine Cr",
+    "Option1": {
+        "faction": "galacticrepublic",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "swoop",
+                "points": 39,
+                "ship": "v19torrentstarfighter",
+                "upgrades": {
+                    "missile": [
+                        "protonrockets"
+                    ],
+                    "talent": [
+                        "marksmanship"
+                    ]
+                }
+            },
+            {
+                "id": "goji",
+                "points": 56,
+                "ship": "btlbywing",
+                "upgrades": {
+                    "astromech": [
+                        "r3astromech"
+                    ],
+                    "device": [
+                        "clustermines"
+                    ],
+                    "modification": [
+                        "stealthdevice"
+                    ],
+                    "torpedo": [
+                        "plasmatorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "ricolie",
+                "points": 56,
+                "ship": "nabooroyaln1starfighter",
+                "upgrades": {
+                    "sensor": [
+                        "firecontrolsystem"
+                    ],
+                    "talent": [
+                        "squadleader"
+                    ]
+                }
+            },
+            {
+                "id": "padmeamidala",
+                "points": 48,
+                "ship": "nabooroyaln1starfighter",
+                "upgrades": {
+                    "talent": [
+                        "intimidation"
+                    ]
+                }
+            }
+        ],
+        "points": 199,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Option2": {
+        "faction": "galacticempire",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "captainjonus",
+                "points": 91,
+                "ship": "tiesabomber",
+                "upgrades": {
+                    "device": [
+                        "electroprotonbomb",
+                        "connernets"
+                    ],
+                    "gunner": [
+                        "agilegunner"
+                    ],
+                    "missile": [
+                        "magpulsewarheads",
+                        "ionmissiles"
+                    ],
+                    "talent": [
+                        "debrisgambit"
+                    ],
+                    "torpedo": [
+                        "advprotontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "sabersquadronace",
+                "points": 48,
+                "ship": "tieininterceptor",
+                "upgrades": {
+                    "modification": [
+                        "hullupgrade"
+                    ],
+                    "talent": [
+                        "lonewolf"
+                    ]
+                }
+            },
+            {
+                "id": "soontirfel",
+                "points": 61,
+                "ship": "tieininterceptor",
+                "upgrades": {
+                    "modification": [
+                        "electronicbaffle"
+                    ],
+                    "talent": [
+                        "outmaneuver"
+                    ]
+                }
+            }
+        ],
+        "points": 200,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "TTT": "Katherine Cr",
+    "VassalForm1": "RecklessKat",
+    "VassalForm2": "RecklessKat"
+}

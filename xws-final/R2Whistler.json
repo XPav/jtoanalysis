@@ -1,0 +1,165 @@
+{
+    "Add": "Afterburners to Mauler Mithel",
+    "Discord": "R2Whistler",
+    "Drop": "Agile Gunner from Black Squadron Scout",
+    "Final": {
+        "faction": "galacticempire",
+        "name": "Stephen Sesnick JTO",
+        "pilots": [
+            {
+                "id": "blacksquadronscout",
+                "points": 45,
+                "ship": "tieskstriker",
+                "upgrades": {
+                    "modification": [
+                        "hullupgrade"
+                    ],
+                    "talent": [
+                        "outmaneuver"
+                    ]
+                }
+            },
+            {
+                "id": "maarekstele",
+                "points": 67,
+                "ship": "tieadvancedx1",
+                "upgrades": {
+                    "sensor": [
+                        "advancedsensors"
+                    ],
+                    "talent": [
+                        "squadleader"
+                    ]
+                }
+            },
+            {
+                "id": "maulermithel",
+                "points": 37,
+                "ship": "tielnfighter",
+                "upgrades": {
+                    "modification": [
+                        "afterburners"
+                    ]
+                }
+            },
+            {
+                "id": "fifthbrother",
+                "points": 46,
+                "ship": "tieadvancedv1",
+                "upgrades": {
+                    "missile": [
+                        "ionmissiles"
+                    ]
+                }
+            }
+        ],
+        "points": 195,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Name": "Stephen Sesnick",
+    "Option1": {
+        "faction": "galacticempire",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "blacksquadronscout",
+                "points": 53,
+                "ship": "tieskstriker",
+                "upgrades": {
+                    "gunner": [
+                        "agilegunner"
+                    ],
+                    "modification": [
+                        "hullupgrade"
+                    ],
+                    "talent": [
+                        "outmaneuver"
+                    ]
+                }
+            },
+            {
+                "id": "maarekstele",
+                "points": 67,
+                "ship": "tieadvancedx1",
+                "upgrades": {
+                    "sensor": [
+                        "advancedsensors"
+                    ],
+                    "talent": [
+                        "squadleader"
+                    ]
+                }
+            },
+            {
+                "id": "maulermithel",
+                "points": 31,
+                "ship": "tielnfighter",
+                "upgrades": {}
+            },
+            {
+                "id": "fifthbrother",
+                "points": 46,
+                "ship": "tieadvancedv1",
+                "upgrades": {
+                    "missile": [
+                        "ionmissiles"
+                    ]
+                }
+            }
+        ],
+        "points": 197,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Option2": {
+        "faction": "firstorder",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "captaincardinal",
+                "points": 100,
+                "ship": "upsilonclasscommandshuttle",
+                "upgrades": {
+                    "cannon": [
+                        "autoblasters"
+                    ],
+                    "crew": [
+                        "gnkgonkdroid",
+                        "captainphasma",
+                        "generalhux"
+                    ],
+                    "tech": [
+                        "advancedoptics",
+                        "hyperspacetrackingdata"
+                    ]
+                }
+            },
+            {
+                "id": "blackout",
+                "points": 72,
+                "ship": "tievnsilencer",
+                "upgrades": {
+                    "talent": [
+                        "debrisgambit"
+                    ],
+                    "tech": [
+                        "patternanalyzer"
+                    ]
+                }
+            },
+            {
+                "id": "zetasquadronpilot",
+                "points": 26,
+                "ship": "tiefofighter",
+                "upgrades": {}
+            }
+        ],
+        "points": 198,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "TTT": "Stephen Sesnick",
+    "VassalForm1": "R2Whistler",
+    "VassalForm2": "R2Whistler"
+}

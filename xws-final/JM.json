@@ -1,0 +1,163 @@
+{
+    "Add": "Perceptive Co-Pilot to Finn",
+    "Discord": "Nutano#3205",
+    "Drop": "Agile Gunner from FInch Dallow",
+    "Final": {
+        "faction": "resistance",
+        "name": "JM JTO",
+        "pilots": [
+            {
+                "id": "finchdallow",
+                "points": 65,
+                "ship": "mg100starfortress",
+                "upgrades": {
+                    "crew": [
+                        "kaydelconnix"
+                    ]
+                }
+            },
+            {
+                "id": "hansolo-scavengedyt1300",
+                "points": 65,
+                "ship": "scavengedyt1300",
+                "upgrades": {}
+            },
+            {
+                "id": "bluesquadronrecruit",
+                "points": 32,
+                "ship": "rz2awing",
+                "upgrades": {}
+            },
+            {
+                "id": "finn",
+                "points": 37,
+                "ship": "resistancetransportpod",
+                "upgrades": {
+                    "crew": [
+                        "perceptivecopilot"
+                    ]
+                }
+            }
+        ],
+        "points": 199,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Name": "Jean-Marc Cousineau",
+    "Option1": {
+        "faction": "scumandvillainy",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "crymorahgoon",
+                "points": 58,
+                "ship": "btla4ywing",
+                "upgrades": {
+                    "astromech": [
+                        "r3astromech"
+                    ],
+                    "device": [
+                        "connernets"
+                    ],
+                    "illicit": [
+                        "contrabandcybernetics"
+                    ],
+                    "modification": [
+                        "afterburners"
+                    ],
+                    "torpedo": [
+                        "iontorpedoes"
+                    ],
+                    "turret": [
+                        "ioncannonturret"
+                    ]
+                }
+            },
+            {
+                "id": "sarcoplank",
+                "points": 60,
+                "ship": "quadrijettransferspacetug",
+                "upgrades": {
+                    "crew": [
+                        "maul"
+                    ],
+                    "illicit": [
+                        "cloakingdevice"
+                    ],
+                    "modification": [
+                        "staticdischargevanes"
+                    ],
+                    "tech": [
+                        "primedthrusters"
+                    ]
+                }
+            },
+            {
+                "id": "blacksunsoldier",
+                "points": 29,
+                "ship": "z95af4headhunter",
+                "upgrades": {
+                    "missile": [
+                        "homingmissiles"
+                    ]
+                }
+            },
+            {
+                "id": "toranikulda",
+                "points": 51,
+                "ship": "m12lkimogilafighter",
+                "upgrades": {
+                    "talent": [
+                        "elusive"
+                    ]
+                }
+            }
+        ],
+        "points": 198,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Option2": {
+        "faction": "resistance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "finchdallow",
+                "points": 73,
+                "ship": "mg100starfortress",
+                "upgrades": {
+                    "crew": [
+                        "kaydelconnix"
+                    ],
+                    "gunner": [
+                        "agilegunner"
+                    ]
+                }
+            },
+            {
+                "id": "hansolo-scavengedyt1300",
+                "points": 65,
+                "ship": "scavengedyt1300",
+                "upgrades": {}
+            },
+            {
+                "id": "bluesquadronrecruit",
+                "points": 32,
+                "ship": "rz2awing",
+                "upgrades": {}
+            },
+            {
+                "id": "finn",
+                "points": 29,
+                "ship": "resistancetransportpod",
+                "upgrades": {}
+            }
+        ],
+        "points": 199,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "TTT": "JM (aka nutano)",
+    "VassalForm1": "JM",
+    "VassalForm2": "JM"
+}

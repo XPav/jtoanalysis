@@ -1,0 +1,136 @@
+{
+    "Add": "none",
+    "Discord": "imyourwhiteknight",
+    "Drop": "none",
+    "Final": {
+        "faction": "scumandvillainy",
+        "name": "Blake McDaniel JTO",
+        "pilots": [
+            {
+                "id": "ig88b",
+                "points": 63,
+                "ship": "aggressorassaultfighter",
+                "upgrades": {}
+            },
+            {
+                "id": "fennrau",
+                "points": 68,
+                "ship": "fangfighter",
+                "upgrades": {}
+            },
+            {
+                "id": "blacksunsoldier",
+                "points": 24,
+                "ship": "z95af4headhunter",
+                "upgrades": {}
+            },
+            {
+                "id": "manaroo",
+                "points": 45,
+                "ship": "jumpmaster5000",
+                "upgrades": {}
+            }
+        ],
+        "points": 200,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Name": "Blake McDaniel",
+    "Option1": {
+        "faction": "scumandvillainy",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "ig88b",
+                "points": 63,
+                "ship": "aggressorassaultfighter",
+                "upgrades": {}
+            },
+            {
+                "id": "fennrau",
+                "points": 68,
+                "ship": "fangfighter",
+                "upgrades": {}
+            },
+            {
+                "id": "blacksunsoldier",
+                "points": 24,
+                "ship": "z95af4headhunter",
+                "upgrades": {}
+            },
+            {
+                "id": "manaroo",
+                "points": 45,
+                "ship": "jumpmaster5000",
+                "upgrades": {}
+            }
+        ],
+        "points": 200,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Option2": {
+        "faction": "resistance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "vimoradi",
+                "points": 40,
+                "ship": "resistancetransportpod",
+                "upgrades": {
+                    "crew": [
+                        "korrsella"
+                    ],
+                    "modification": [
+                        "angleddeflectors"
+                    ],
+                    "tech": [
+                        "advancedoptics"
+                    ]
+                }
+            },
+            {
+                "id": "finn",
+                "points": 29,
+                "ship": "resistancetransportpod",
+                "upgrades": {}
+            },
+            {
+                "id": "kazudaxiono",
+                "points": 62,
+                "ship": "fireball",
+                "upgrades": {
+                    "illicit": [
+                        "deadmansswitch"
+                    ],
+                    "missile": [
+                        "magpulsewarheads"
+                    ],
+                    "modification": [
+                        "stealthdevice",
+                        "staticdischargevanes"
+                    ],
+                    "title": [
+                        "kazsfireball"
+                    ]
+                }
+            },
+            {
+                "id": "resistancesympathizer",
+                "points": 66,
+                "ship": "scavengedyt1300",
+                "upgrades": {
+                    "crew": [
+                        "pz4co"
+                    ]
+                }
+            }
+        ],
+        "points": 197,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "TTT": "Blake McDaniel",
+    "VassalForm1": "blake",
+    "VassalForm2": "blake"
+}

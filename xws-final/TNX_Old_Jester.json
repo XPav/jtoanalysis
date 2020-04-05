@@ -1,0 +1,149 @@
+{
+    "Add": "Shadow Caster title on Asajj",
+    "Discord": "TNX_Old_Jester#5897",
+    "Drop": "Munitions Failsafe from Talonbane Cobra",
+    "Final": {
+        "faction": "scumandvillainy",
+        "name": "Dimitris Stavropoulos JTO",
+        "pilots": [
+            {
+                "id": "talonbanecobra",
+                "points": 63,
+                "ship": "kihraxzfighter",
+                "upgrades": {
+                    "illicit": [
+                        "feedbackarray"
+                    ],
+                    "modification": [
+                        "stealthdevice"
+                    ],
+                    "talent": [
+                        "trickshot"
+                    ]
+                }
+            },
+            {
+                "id": "ndrusuhlak",
+                "points": 30,
+                "ship": "z95af4headhunter",
+                "upgrades": {}
+            },
+            {
+                "id": "asajjventress",
+                "points": 77,
+                "ship": "lancerclasspursuitcraft",
+                "upgrades": {
+                    "force-power": [
+                        "foresight"
+                    ],
+                    "title": [
+                        "shadowcaster"
+                    ]
+                }
+            },
+            {
+                "id": "ahhav",
+                "points": 30,
+                "ship": "modifiedtielnfighter",
+                "upgrades": {}
+            }
+        ],
+        "points": 200,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Name": "Dimitris Stavropoulos",
+    "Option1": {
+        "faction": "scumandvillainy",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "talonbanecobra",
+                "points": 64,
+                "ship": "kihraxzfighter",
+                "upgrades": {
+                    "illicit": [
+                        "feedbackarray"
+                    ],
+                    "modification": [
+                        "stealthdevice",
+                        "munitionsfailsafe"
+                    ],
+                    "talent": [
+                        "trickshot"
+                    ]
+                }
+            },
+            {
+                "id": "ndrusuhlak",
+                "points": 30,
+                "ship": "z95af4headhunter",
+                "upgrades": {}
+            },
+            {
+                "id": "asajjventress",
+                "points": 76,
+                "ship": "lancerclasspursuitcraft",
+                "upgrades": {
+                    "force-power": [
+                        "foresight"
+                    ]
+                }
+            },
+            {
+                "id": "ahhav",
+                "points": 30,
+                "ship": "modifiedtielnfighter",
+                "upgrades": {}
+            }
+        ],
+        "points": 200,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Option2": {
+        "faction": "rebelalliance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "biggsdarklighter",
+                "points": 51,
+                "ship": "t65xwing",
+                "upgrades": {
+                    "astromech": [
+                        "chopper"
+                    ],
+                    "configuration": [
+                        "servomotorsfoils"
+                    ],
+                    "modification": [
+                        "munitionsfailsafe"
+                    ]
+                }
+            },
+            {
+                "id": "mirandadoni",
+                "points": 54,
+                "ship": "btls8kwing",
+                "upgrades": {
+                    "device": [
+                        "ionbombs",
+                        "proximitymines"
+                    ]
+                }
+            },
+            {
+                "id": "dashrendar",
+                "points": 91,
+                "ship": "yt2400lightfreighter",
+                "upgrades": {}
+            }
+        ],
+        "points": 196,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "TTT": "Old Jester",
+    "VassalForm1": "TNX_Old_Jester",
+    "VassalForm2": "TNX_Old_Jester"
+}

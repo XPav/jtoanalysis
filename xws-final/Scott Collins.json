@@ -1,0 +1,178 @@
+{
+    "Add": "Snap Shot on Countess Ryad",
+    "Discord": "Burning_Stick.exe#1138",
+    "Drop": "Homing Missile off Countess Ryad",
+    "Final": {
+        "faction": "galacticempire",
+        "name": "Scott Collins JTO",
+        "pilots": [
+            {
+                "id": "countessryad",
+                "points": 95,
+                "ship": "tieddefender",
+                "upgrades": {
+                    "cannon": [
+                        "autoblasters"
+                    ],
+                    "sensor": [
+                        "passivesensors"
+                    ],
+                    "talent": [
+                        "snapshot"
+                    ]
+                }
+            },
+            {
+                "id": "grandinquisitor",
+                "points": 58,
+                "ship": "tieadvancedv1",
+                "upgrades": {
+                    "force-power": [
+                        "brilliantevasion"
+                    ],
+                    "sensor": [
+                        "passivesensors"
+                    ]
+                }
+            },
+            {
+                "id": "lieutenantkarsabi",
+                "points": 46,
+                "ship": "alphaclassstarwing",
+                "upgrades": {
+                    "configuration": [
+                        "xg1assaultconfiguration"
+                    ],
+                    "missile": [
+                        "homingmissiles"
+                    ],
+                    "talent": [
+                        "trickshot"
+                    ]
+                }
+            }
+        ],
+        "points": 199,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Name": "Scott Collins",
+    "Option1": {
+        "faction": "galacticempire",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "countessryad",
+                "points": 94,
+                "ship": "tieddefender",
+                "upgrades": {
+                    "cannon": [
+                        "autoblasters"
+                    ],
+                    "missile": [
+                        "homingmissiles"
+                    ],
+                    "sensor": [
+                        "passivesensors"
+                    ],
+                    "talent": [
+                        "composure"
+                    ]
+                }
+            },
+            {
+                "id": "grandinquisitor",
+                "points": 58,
+                "ship": "tieadvancedv1",
+                "upgrades": {
+                    "force-power": [
+                        "brilliantevasion"
+                    ],
+                    "sensor": [
+                        "passivesensors"
+                    ]
+                }
+            },
+            {
+                "id": "lieutenantkarsabi",
+                "points": 46,
+                "ship": "alphaclassstarwing",
+                "upgrades": {
+                    "configuration": [
+                        "xg1assaultconfiguration"
+                    ],
+                    "missile": [
+                        "homingmissiles"
+                    ],
+                    "talent": [
+                        "trickshot"
+                    ]
+                }
+            }
+        ],
+        "points": 198,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Option2": {
+        "faction": "resistance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "greensquadronexpert",
+                "points": 48,
+                "ship": "rz2awing",
+                "upgrades": {
+                    "talent": [
+                        "trickshot",
+                        "debrisgambit"
+                    ],
+                    "tech": [
+                        "ferrospherepaint"
+                    ]
+                }
+            },
+            {
+                "id": "jarekyeager",
+                "points": 42,
+                "ship": "fireball",
+                "upgrades": {
+                    "illicit": [
+                        "feedbackarray"
+                    ],
+                    "talent": [
+                        "swarmtactics"
+                    ],
+                    "title": [
+                        "kazsfireball"
+                    ]
+                }
+            },
+            {
+                "id": "nodinchavdri",
+                "points": 46,
+                "ship": "resistancetransport",
+                "upgrades": {
+                    "crew": [
+                        "hansolo-crew"
+                    ],
+                    "tech": [
+                        "ferrospherepaint"
+                    ]
+                }
+            },
+            {
+                "id": "finchdallow",
+                "points": 60,
+                "ship": "mg100starfortress",
+                "upgrades": {}
+            }
+        ],
+        "points": 196,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "TTT": "Scott Collins",
+    "VassalForm1": "Scott Collins",
+    "VassalForm2": "Scott Collins"
+}

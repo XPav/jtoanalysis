@@ -1,0 +1,215 @@
+{
+    "Add": "Dorsal turret, hired gun BTL-A4 y-wing",
+    "Discord": "RoninAround#5193",
+    "Drop": "Debris gambit, Captain Nym Scrugg H-6 Bomber",
+    "Final": {
+        "faction": "scumandvillainy",
+        "name": "Matt Petit JTO",
+        "pilots": [
+            {
+                "id": "sarcoplank",
+                "points": 43,
+                "ship": "quadrijettransferspacetug",
+                "upgrades": {
+                    "crew": [
+                        "landocalrissian-crew"
+                    ],
+                    "illicit": [
+                        "contrabandcybernetics"
+                    ],
+                    "modification": [
+                        "delayedfuses"
+                    ]
+                }
+            },
+            {
+                "id": "captainnym",
+                "points": 65,
+                "ship": "scurrgh6bomber",
+                "upgrades": {
+                    "astromech": [
+                        "r5p8"
+                    ],
+                    "device": [
+                        "protonbombs"
+                    ],
+                    "gunner": [
+                        "greedo"
+                    ],
+                    "modification": [
+                        "tacticalscrambler"
+                    ],
+                    "title": [
+                        "havoc"
+                    ],
+                    "turret": [
+                        "dorsalturret"
+                    ]
+                }
+            },
+            {
+                "id": "blacksunsoldier",
+                "points": 25,
+                "ship": "z95af4headhunter",
+                "upgrades": {
+                    "talent": [
+                        "marksmanship"
+                    ]
+                }
+            },
+            {
+                "id": "ahhav",
+                "points": 31,
+                "ship": "modifiedtielnfighter",
+                "upgrades": {
+                    "talent": [
+                        "composure"
+                    ]
+                }
+            },
+            {
+                "id": "hiredgun",
+                "points": 35,
+                "ship": "btla4ywing",
+                "upgrades": {
+                    "turret": [
+                        "dorsalturret"
+                    ]
+                }
+            }
+        ],
+        "points": 199,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Name": "Matt Petit",
+    "Option1": {
+        "faction": "scumandvillainy",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "sarcoplank",
+                "points": 43,
+                "ship": "quadrijettransferspacetug",
+                "upgrades": {
+                    "crew": [
+                        "landocalrissian-crew"
+                    ],
+                    "illicit": [
+                        "contrabandcybernetics"
+                    ],
+                    "modification": [
+                        "delayedfuses"
+                    ]
+                }
+            },
+            {
+                "id": "captainnym",
+                "points": 69,
+                "ship": "scurrgh6bomber",
+                "upgrades": {
+                    "astromech": [
+                        "r5p8"
+                    ],
+                    "device": [
+                        "protonbombs"
+                    ],
+                    "gunner": [
+                        "greedo"
+                    ],
+                    "modification": [
+                        "tacticalscrambler"
+                    ],
+                    "talent": [
+                        "debrisgambit"
+                    ],
+                    "title": [
+                        "havoc"
+                    ],
+                    "turret": [
+                        "dorsalturret"
+                    ]
+                }
+            },
+            {
+                "id": "blacksunsoldier",
+                "points": 25,
+                "ship": "z95af4headhunter",
+                "upgrades": {
+                    "talent": [
+                        "marksmanship"
+                    ]
+                }
+            },
+            {
+                "id": "ahhav",
+                "points": 31,
+                "ship": "modifiedtielnfighter",
+                "upgrades": {
+                    "talent": [
+                        "composure"
+                    ]
+                }
+            },
+            {
+                "id": "hiredgun",
+                "points": 32,
+                "ship": "btla4ywing",
+                "upgrades": {}
+            }
+        ],
+        "points": 200,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Option2": {
+        "faction": "rebelalliance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "leebo",
+                "points": 100,
+                "ship": "yt2400lightfreighter",
+                "upgrades": {
+                    "gunner": [
+                        "skilledbombardier"
+                    ],
+                    "illicit": [
+                        "feedbackarray"
+                    ],
+                    "title": [
+                        "outrider"
+                    ]
+                }
+            },
+            {
+                "id": "k2so",
+                "points": 52,
+                "ship": "ut60duwing",
+                "upgrades": {
+                    "configuration": [
+                        "pivotwing"
+                    ],
+                    "crew": [
+                        "freelanceslicer"
+                    ],
+                    "sensor": [
+                        "passivesensors"
+                    ]
+                }
+            },
+            {
+                "id": "esegetuketu",
+                "points": 44,
+                "ship": "btls8kwing",
+                "upgrades": {}
+            }
+        ],
+        "points": 196,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "TTT": "Matt Petit",
+    "VassalForm1": "Roninaurne",
+    "VassalForm2": "RoninAround"
+}

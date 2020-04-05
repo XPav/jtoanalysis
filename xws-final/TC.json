@@ -1,0 +1,167 @@
+{
+    "Add": "000 to Moralo Eval ",
+    "Discord": "Fishlegs (#7999)",
+    "Drop": "Feedback array from Dace Bonearm",
+    "Final": {
+        "faction": "scumandvillainy",
+        "name": "Tom Candlin JTO",
+        "obstacles": [
+            "coreasteroid5",
+            "core2asteroid4",
+            "core2asteroid5"
+        ],
+        "pilots": [
+            {
+                "id": "ndrusuhlak",
+                "points": 36,
+                "ship": "z95af4headhunter",
+                "upgrades": {
+                    "modification": [
+                        "stealthdevice"
+                    ]
+                }
+            },
+            {
+                "id": "foremanproach",
+                "points": 39,
+                "ship": "modifiedtielnfighter",
+                "upgrades": {
+                    "modification": [
+                        "hullupgrade"
+                    ]
+                }
+            },
+            {
+                "id": "dacebonearm",
+                "points": 54,
+                "ship": "hwk290lightfreighter",
+                "upgrades": {
+                    "talent": [
+                        "intimidation"
+                    ],
+                    "title": [
+                        "moldycrow"
+                    ]
+                }
+            },
+            {
+                "id": "moraloeval",
+                "points": 71,
+                "ship": "yv666lightfreighter",
+                "upgrades": {
+                    "crew": [
+                        "000"
+                    ]
+                }
+            }
+        ],
+        "points": 200,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Name": "Tom Candlin",
+    "Option1": {
+        "faction": "scumandvillainy",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "ndrusuhlak",
+                "points": 36,
+                "ship": "z95af4headhunter",
+                "upgrades": {
+                    "modification": [
+                        "stealthdevice"
+                    ]
+                }
+            },
+            {
+                "id": "foremanproach",
+                "points": 39,
+                "ship": "modifiedtielnfighter",
+                "upgrades": {
+                    "modification": [
+                        "hullupgrade"
+                    ]
+                }
+            },
+            {
+                "id": "dacebonearm",
+                "points": 57,
+                "ship": "hwk290lightfreighter",
+                "upgrades": {
+                    "illicit": [
+                        "feedbackarray"
+                    ],
+                    "talent": [
+                        "intimidation"
+                    ],
+                    "title": [
+                        "moldycrow"
+                    ]
+                }
+            },
+            {
+                "id": "moraloeval",
+                "points": 66,
+                "ship": "yv666lightfreighter",
+                "upgrades": {}
+            }
+        ],
+        "points": 198,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Option2": {
+        "faction": "galacticrepublic",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "naboohandmaiden",
+                "points": 63,
+                "ship": "nabooroyaln1starfighter",
+                "upgrades": {
+                    "astromech": [
+                        "r4astromech"
+                    ],
+                    "sensor": [
+                        "trajectorysimulator"
+                    ],
+                    "torpedo": [
+                        "protontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "jag",
+                "points": 58,
+                "ship": "arc170starfighter",
+                "upgrades": {
+                    "astromech": [
+                        "r4p17"
+                    ],
+                    "crew": [
+                        "informant"
+                    ]
+                }
+            },
+            {
+                "id": "bravoflightofficer",
+                "points": 33,
+                "ship": "nabooroyaln1starfighter",
+                "upgrades": {}
+            },
+            {
+                "id": "squadsevenveteran",
+                "points": 44,
+                "ship": "arc170starfighter",
+                "upgrades": {}
+            }
+        ],
+        "points": 198,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "TTT": "Tom Candlin",
+    "VassalForm1": "TC",
+    "VassalForm2": "TC"
+}

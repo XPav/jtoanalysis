@@ -1,0 +1,67 @@
+{
+    "Add": "",
+    "Discord": "Venuun#2110",
+    "Drop": "",
+    "Final": {
+        "faction": "galacticempire",
+        "name": "Jank Tank Open Imperial Squad",
+        "obstacles": [
+            "gascloud4",
+            "gascloud5",
+            "gascloud6"
+        ],
+        "pilots": [
+            {
+                "id": "vedfoslo",
+                "points": 58,
+                "ship": "tieadvancedx1",
+                "upgrades": {
+                    "missile": [
+                        "magpulsewarheads"
+                    ],
+                    "sensor": [
+                        "firecontrolsystem"
+                    ],
+                    "talent": [
+                        "outmaneuver"
+                    ]
+                }
+            },
+            {
+                "id": "rexlerbrath",
+                "points": 81,
+                "ship": "tieddefender",
+                "upgrades": {
+                    "cannon": [
+                        "jammingbeam"
+                    ]
+                }
+            },
+            {
+                "id": "lieutenantkestal",
+                "points": 34,
+                "ship": "tieagaggressor",
+                "upgrades": {
+                    "turret": [
+                        "dorsalturret"
+                    ]
+                }
+            },
+            {
+                "id": "scimitarsquadronpilot",
+                "points": 27,
+                "ship": "tiesabomber",
+                "upgrades": {}
+            }
+        ],
+        "points": 200,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Name": "Jared M. Paul",
+    "Option1": null,
+    "Option2": null,
+    "TTT": "Jared M. Paul",
+    "VassalForm1": "",
+    "VassalForm2": "Jared M. Paul"
+}

@@ -1,0 +1,84 @@
+{
+    "Add": "",
+    "Discord": "Max Sterling",
+    "Drop": "",
+    "Final": {
+        "faction": "separatistalliance",
+        "name": "Max Sterling JTO",
+        "pilots": [
+            {
+                "id": "wattambor",
+                "points": 56,
+                "ship": "belbullab22starfighter",
+                "upgrades": {
+                    "modification": [
+                        "targetingcomputer"
+                    ],
+                    "tacticalrelay": [
+                        "k2b4"
+                    ],
+                    "title": [
+                        "soullessone"
+                    ]
+                }
+            },
+            {
+                "id": "dfs311",
+                "points": 35,
+                "ship": "vultureclassdroidfighter",
+                "upgrades": {
+                    "configuration": [
+                        "grapplingstruts"
+                    ],
+                    "missile": [
+                        "concussionmissiles"
+                    ],
+                    "modification": [
+                        "hullupgrade"
+                    ]
+                }
+            },
+            {
+                "id": "countdooku",
+                "points": 85,
+                "ship": "sithinfiltrator",
+                "upgrades": {
+                    "cannon": [
+                        "jammingbeam"
+                    ],
+                    "crew": [
+                        "generalgrievous"
+                    ],
+                    "force-power": [
+                        "hate"
+                    ],
+                    "modification": [
+                        "staticdischargevanes"
+                    ],
+                    "title": [
+                        "scimitar"
+                    ]
+                }
+            },
+            {
+                "id": "precisehunter",
+                "points": 24,
+                "ship": "vultureclassdroidfighter",
+                "upgrades": {
+                    "configuration": [
+                        "grapplingstruts"
+                    ]
+                }
+            }
+        ],
+        "points": 200,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Name": "Evan Damiano",
+    "Option1": null,
+    "Option2": null,
+    "TTT": "Evan Damiano",
+    "VassalForm1": "",
+    "VassalForm2": "Max Sterling"
+}

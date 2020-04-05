@@ -1,0 +1,173 @@
+{
+    "Add": "Special Forces Gunner on Capt. Phasma",
+    "Discord": "FOXHOUND",
+    "Drop": "Juke from Capt. Phasma",
+    "Final": {
+        "faction": "firstorder",
+        "name": "Sam Dameron JTO",
+        "pilots": [
+            {
+                "id": "captainphasma",
+                "points": 50,
+                "ship": "tiesffighter",
+                "upgrades": {
+                    "gunner": [
+                        "specialforcesgunner"
+                    ],
+                    "modification": [
+                        "munitionsfailsafe"
+                    ]
+                }
+            },
+            {
+                "id": "omegasquadronexpert",
+                "points": 39,
+                "ship": "tiesffighter",
+                "upgrades": {
+                    "tech": [
+                        "patternanalyzer"
+                    ]
+                }
+            },
+            {
+                "id": "midnight",
+                "points": 53,
+                "ship": "tiefofighter",
+                "upgrades": {
+                    "talent": [
+                        "lonewolf"
+                    ],
+                    "tech": [
+                        "targetingsynchronizer"
+                    ]
+                }
+            },
+            {
+                "id": "sienarjaemusengineer",
+                "points": 56,
+                "ship": "tievnsilencer",
+                "upgrades": {
+                    "tech": [
+                        "primedthrusters"
+                    ]
+                }
+            }
+        ],
+        "points": 198,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Name": "Sam Dameron",
+    "Option1": {
+        "faction": "firstorder",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "captainphasma",
+                "points": 47,
+                "ship": "tiesffighter",
+                "upgrades": {
+                    "modification": [
+                        "munitionsfailsafe"
+                    ],
+                    "talent": [
+                        "juke"
+                    ]
+                }
+            },
+            {
+                "id": "omegasquadronexpert",
+                "points": 39,
+                "ship": "tiesffighter",
+                "upgrades": {
+                    "tech": [
+                        "patternanalyzer"
+                    ]
+                }
+            },
+            {
+                "id": "midnight",
+                "points": 53,
+                "ship": "tiefofighter",
+                "upgrades": {
+                    "talent": [
+                        "lonewolf"
+                    ],
+                    "tech": [
+                        "targetingsynchronizer"
+                    ]
+                }
+            },
+            {
+                "id": "sienarjaemusengineer",
+                "points": 56,
+                "ship": "tievnsilencer",
+                "upgrades": {
+                    "tech": [
+                        "primedthrusters"
+                    ]
+                }
+            }
+        ],
+        "points": 195,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Option2": {
+        "faction": "galacticrepublic",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "naboohandmaiden",
+                "points": 62,
+                "ship": "nabooroyaln1starfighter",
+                "upgrades": {
+                    "astromech": [
+                        "r2astromech"
+                    ],
+                    "torpedo": [
+                        "protontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "tucker",
+                "points": 29,
+                "ship": "v19torrentstarfighter",
+                "upgrades": {}
+            },
+            {
+                "id": "shadowsquadronveteran",
+                "points": 59,
+                "ship": "btlbywing",
+                "upgrades": {
+                    "device": [
+                        "electroprotonbomb"
+                    ],
+                    "gunner": [
+                        "skilledbombardier"
+                    ],
+                    "torpedo": [
+                        "protontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "oddball-btlbywing",
+                "points": 49,
+                "ship": "btlbywing",
+                "upgrades": {
+                    "astromech": [
+                        "r4p44"
+                    ]
+                }
+            }
+        ],
+        "points": 199,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "TTT": "Sam Dameron",
+    "VassalForm1": "FOXHOUND",
+    "VassalForm2": "FOXHOUND"
+}

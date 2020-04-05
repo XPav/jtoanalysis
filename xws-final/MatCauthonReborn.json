@@ -1,0 +1,168 @@
+{
+    "Add": "Lone Wolf to Echo",
+    "Discord": "MatCauthonReborn",
+    "Drop": "Swarm Tactics from Rho Squadron",
+    "Final": {
+        "faction": "galacticempire",
+        "name": "MatCauthonReborn JTO",
+        "pilots": [
+            {
+                "id": "sabersquadronace",
+                "points": 36,
+                "ship": "tieininterceptor",
+                "upgrades": {}
+            },
+            {
+                "id": "doubleedge",
+                "points": 40,
+                "ship": "tieagaggressor",
+                "upgrades": {
+                    "missile": [
+                        "concussionmissiles"
+                    ],
+                    "turret": [
+                        "ioncannonturret"
+                    ]
+                }
+            },
+            {
+                "id": "rhosquadronpilot",
+                "points": 39,
+                "ship": "alphaclassstarwing",
+                "upgrades": {
+                    "missile": [
+                        "ionmissiles"
+                    ]
+                }
+            },
+            {
+                "id": "wampa",
+                "points": 29,
+                "ship": "tielnfighter",
+                "upgrades": {}
+            },
+            {
+                "id": "echo",
+                "points": 56,
+                "ship": "tiephphantom",
+                "upgrades": {
+                    "talent": [
+                        "lonewolf"
+                    ]
+                }
+            }
+        ],
+        "points": 200,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Name": "Chris Bobby",
+    "Option1": {
+        "faction": "rebelalliance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "wardensquadronpilot",
+                "points": 60,
+                "ship": "btls8kwing",
+                "upgrades": {
+                    "crew": [
+                        "landocalrissian"
+                    ],
+                    "device": [
+                        "clustermines",
+                        "electroprotonbomb"
+                    ]
+                }
+            },
+            {
+                "id": "outerrimsmuggler",
+                "points": 78,
+                "ship": "modifiedyt1300lightfreighter",
+                "upgrades": {
+                    "crew": [
+                        "bazemalbus"
+                    ],
+                    "missile": [
+                        "clustermissiles"
+                    ],
+                    "title": [
+                        "millenniumfalcon"
+                    ]
+                }
+            },
+            {
+                "id": "bladesquadronveteran",
+                "points": 57,
+                "ship": "asf01bwing",
+                "upgrades": {
+                    "configuration": [
+                        "stabilizedsfoils"
+                    ],
+                    "torpedo": [
+                        "protontorpedoes"
+                    ]
+                }
+            }
+        ],
+        "points": 195,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Option2": {
+        "faction": "galacticempire",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "sabersquadronace",
+                "points": 36,
+                "ship": "tieininterceptor",
+                "upgrades": {}
+            },
+            {
+                "id": "doubleedge",
+                "points": 40,
+                "ship": "tieagaggressor",
+                "upgrades": {
+                    "missile": [
+                        "concussionmissiles"
+                    ],
+                    "turret": [
+                        "ioncannonturret"
+                    ]
+                }
+            },
+            {
+                "id": "rhosquadronpilot",
+                "points": 42,
+                "ship": "alphaclassstarwing",
+                "upgrades": {
+                    "missile": [
+                        "ionmissiles"
+                    ],
+                    "talent": [
+                        "swarmtactics"
+                    ]
+                }
+            },
+            {
+                "id": "wampa",
+                "points": 29,
+                "ship": "tielnfighter",
+                "upgrades": {}
+            },
+            {
+                "id": "echo",
+                "points": 51,
+                "ship": "tiephphantom",
+                "upgrades": {}
+            }
+        ],
+        "points": 198,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "TTT": "Chris Bobby ",
+    "VassalForm1": "MatCauthonReborn",
+    "VassalForm2": "MatCauthonReborn"
+}

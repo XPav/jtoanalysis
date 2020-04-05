@@ -1,0 +1,168 @@
+{
+    "Add": "Nien Nunb to Lando Calrissian",
+    "Discord": "Daith#8485",
+    "Drop": "Static Discharge Vanes from the Tala Squadron Pilot",
+    "Final": {
+        "faction": "rebelalliance",
+        "name": "Ian Becker JTO",
+        "pilots": [
+            {
+                "id": "landocalrissian-modifiedyt1300lightfreighter",
+                "points": 95,
+                "ship": "modifiedyt1300lightfreighter",
+                "upgrades": {
+                    "crew": [
+                        "niennunb"
+                    ],
+                    "gunner": [
+                        "veteranturretgunner"
+                    ],
+                    "modification": [
+                        "delayedfuses"
+                    ]
+                }
+            },
+            {
+                "id": "corranhorn",
+                "points": 76,
+                "ship": "ewing",
+                "upgrades": {
+                    "sensor": [
+                        "advancedsensors"
+                    ]
+                }
+            },
+            {
+                "id": "talasquadronpilot",
+                "points": 24,
+                "ship": "z95af4headhunter",
+                "upgrades": {}
+            }
+        ],
+        "points": 195,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Name": "Ian Becker",
+    "Option1": {
+        "faction": "resistance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "jessikapava",
+                "points": 66,
+                "ship": "t70xwing",
+                "upgrades": {
+                    "astromech": [
+                        "r1j5"
+                    ],
+                    "cannon": [
+                        "jammingbeam"
+                    ],
+                    "configuration": [
+                        "integratedsfoils"
+                    ],
+                    "tech": [
+                        "primedthrusters"
+                    ],
+                    "title": [
+                        "blackone"
+                    ]
+                }
+            },
+            {
+                "id": "covanell",
+                "points": 79,
+                "ship": "resistancetransport",
+                "upgrades": {
+                    "astromech": [
+                        "r5x3"
+                    ],
+                    "cannon": [
+                        "jammingbeam"
+                    ],
+                    "crew": [
+                        "chewbacca-crew-swz19",
+                        "pz4co"
+                    ],
+                    "modification": [
+                        "staticdischargevanes"
+                    ],
+                    "talent": [
+                        "juke"
+                    ],
+                    "tech": [
+                        "ferrospherepaint"
+                    ],
+                    "torpedo": [
+                        "advprotontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "jarekyeager",
+                "points": 53,
+                "ship": "fireball",
+                "upgrades": {
+                    "astromech": [
+                        "m9g8"
+                    ],
+                    "missile": [
+                        "protonrockets"
+                    ],
+                    "modification": [
+                        "staticdischargevanes"
+                    ]
+                }
+            }
+        ],
+        "points": 198,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Option2": {
+        "faction": "rebelalliance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "landocalrissian-modifiedyt1300lightfreighter",
+                "points": 90,
+                "ship": "modifiedyt1300lightfreighter",
+                "upgrades": {
+                    "gunner": [
+                        "veteranturretgunner"
+                    ],
+                    "modification": [
+                        "delayedfuses"
+                    ]
+                }
+            },
+            {
+                "id": "talasquadronpilot",
+                "points": 30,
+                "ship": "z95af4headhunter",
+                "upgrades": {
+                    "modification": [
+                        "staticdischargevanes"
+                    ]
+                }
+            },
+            {
+                "id": "corranhorn",
+                "points": 76,
+                "ship": "ewing",
+                "upgrades": {
+                    "sensor": [
+                        "advancedsensors"
+                    ]
+                }
+            }
+        ],
+        "points": 196,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "TTT": "Ian Becker",
+    "VassalForm1": "Ian",
+    "VassalForm2": "Ian"
+}

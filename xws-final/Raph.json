@@ -1,0 +1,137 @@
+{
+    "Add": "Ezra Bridger to Esege Tuketu",
+    "Discord": "Raph#2034",
+    "Drop": "Han Solo from Esege Tuketu",
+    "Final": {
+        "faction": "rebelalliance",
+        "name": "Carson Hopper JTO",
+        "pilots": [
+            {
+                "id": "outerrimsmuggler",
+                "points": 67,
+                "ship": "modifiedyt1300lightfreighter",
+                "upgrades": {}
+            },
+            {
+                "id": "corranhorn",
+                "points": 66,
+                "ship": "ewing",
+                "upgrades": {}
+            },
+            {
+                "id": "esegetuketu",
+                "points": 65,
+                "ship": "btls8kwing",
+                "upgrades": {
+                    "crew": [
+                        "leiaorgana"
+                    ],
+                    "gunner": [
+                        "ezrabridger"
+                    ]
+                }
+            }
+        ],
+        "points": 198,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Name": "Carson Hopper",
+    "Option1": {
+        "faction": "firstorder",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "ember",
+                "points": 60,
+                "ship": "tiebainterceptor",
+                "upgrades": {
+                    "missile": [
+                        "ionmissiles"
+                    ],
+                    "talent": [
+                        "elusive"
+                    ],
+                    "tech": [
+                        "biohexacryptcodes"
+                    ]
+                }
+            },
+            {
+                "id": "captaincardinal",
+                "points": 88,
+                "ship": "upsilonclasscommandshuttle",
+                "upgrades": {
+                    "cannon": [
+                        "autoblasters"
+                    ],
+                    "crew": [
+                        "kyloren"
+                    ],
+                    "modification": [
+                        "tacticalscrambler"
+                    ],
+                    "sensor": [
+                        "trajectorysimulator"
+                    ],
+                    "tech": [
+                        "advancedoptics"
+                    ]
+                }
+            },
+            {
+                "id": "midnight",
+                "points": 48,
+                "ship": "tiefofighter",
+                "upgrades": {
+                    "modification": [
+                        "munitionsfailsafe"
+                    ],
+                    "tech": [
+                        "patternanalyzer"
+                    ]
+                }
+            }
+        ],
+        "points": 196,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Option2": {
+        "faction": "rebelalliance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "outerrimsmuggler",
+                "points": 67,
+                "ship": "modifiedyt1300lightfreighter",
+                "upgrades": {}
+            },
+            {
+                "id": "corranhorn",
+                "points": 66,
+                "ship": "ewing",
+                "upgrades": {}
+            },
+            {
+                "id": "esegetuketu",
+                "points": 65,
+                "ship": "btls8kwing",
+                "upgrades": {
+                    "crew": [
+                        "leiaorgana"
+                    ],
+                    "gunner": [
+                        "hansolo"
+                    ]
+                }
+            }
+        ],
+        "points": 198,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "TTT": "Carson Hopper",
+    "VassalForm1": "Raph",
+    "VassalForm2": "Raph"
+}

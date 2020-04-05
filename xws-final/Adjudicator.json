@@ -1,0 +1,157 @@
+{
+    "Add": "Deuterium Power Cells to Holo",
+    "Discord": "Adjudicator#3911",
+    "Drop": "Primed Thrusters from Recoil",
+    "Final": {
+        "faction": "firstorder",
+        "name": "Nathan Long JTO",
+        "pilots": [
+            {
+                "id": "recoil",
+                "points": 64,
+                "ship": "tievnsilencer",
+                "upgrades": {
+                    "talent": [
+                        "snapshot"
+                    ]
+                }
+            },
+            {
+                "id": "majorvonreg",
+                "points": 68,
+                "ship": "tiebainterceptor",
+                "upgrades": {
+                    "talent": [
+                        "proudtradition"
+                    ],
+                    "tech": [
+                        "deuteriumpowercells"
+                    ]
+                }
+            },
+            {
+                "id": "holo",
+                "points": 65,
+                "ship": "tiebainterceptor",
+                "upgrades": {
+                    "talent": [
+                        "daredevil"
+                    ],
+                    "tech": [
+                        "deuteriumpowercells"
+                    ]
+                }
+            }
+        ],
+        "points": 197,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Name": "Nathan Long",
+    "Option1": {
+        "faction": "rebelalliance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "wardensquadronpilot",
+                "points": 52,
+                "ship": "btls8kwing",
+                "upgrades": {
+                    "device": [
+                        "clustermines"
+                    ],
+                    "missile": [
+                        "magpulsewarheads"
+                    ]
+                }
+            },
+            {
+                "id": "jakefarrell",
+                "points": 42,
+                "ship": "rz1awing",
+                "upgrades": {
+                    "talent": [
+                        "outmaneuver"
+                    ]
+                }
+            },
+            {
+                "id": "tennumb",
+                "points": 66,
+                "ship": "asf01bwing",
+                "upgrades": {
+                    "configuration": [
+                        "stabilizedsfoils"
+                    ],
+                    "modification": [
+                        "hullupgrade"
+                    ],
+                    "torpedo": [
+                        "protontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "rebelscout",
+                "points": 36,
+                "ship": "hwk290lightfreighter",
+                "upgrades": {
+                    "modification": [
+                        "staticdischargevanes"
+                    ]
+                }
+            }
+        ],
+        "points": 196,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Option2": {
+        "faction": "firstorder",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "recoil",
+                "points": 72,
+                "ship": "tievnsilencer",
+                "upgrades": {
+                    "talent": [
+                        "snapshot"
+                    ],
+                    "tech": [
+                        "primedthrusters"
+                    ]
+                }
+            },
+            {
+                "id": "majorvonreg",
+                "points": 68,
+                "ship": "tiebainterceptor",
+                "upgrades": {
+                    "talent": [
+                        "proudtradition"
+                    ],
+                    "tech": [
+                        "deuteriumpowercells"
+                    ]
+                }
+            },
+            {
+                "id": "holo",
+                "points": 56,
+                "ship": "tiebainterceptor",
+                "upgrades": {
+                    "talent": [
+                        "daredevil"
+                    ]
+                }
+            }
+        ],
+        "points": 196,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "TTT": "Nathan Long",
+    "VassalForm1": "Adjudicator",
+    "VassalForm2": "Adjudicator"
+}

@@ -1,0 +1,161 @@
+{
+    "Add": "Lone Wolf to Major Vonreg",
+    "Discord": "afishisborn#6166",
+    "Drop": "Biohexacrypt Codes from Siener-Jaemus Engineer",
+    "Final": {
+        "faction": "firstorder",
+        "name": "Nick Miller JTO",
+        "obstacles": [
+            "coreasteroid5",
+            "core2asteroid4",
+            "core2asteroid5"
+        ],
+        "pilots": [
+            {
+                "id": "sienarjaemusengineer",
+                "points": 60,
+                "ship": "tievnsilencer",
+                "upgrades": {
+                    "torpedo": [
+                        "plasmatorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "majorvonreg",
+                "points": 70,
+                "ship": "tiebainterceptor",
+                "upgrades": {
+                    "modification": [
+                        "stealthdevice"
+                    ],
+                    "talent": [
+                        "lonewolf"
+                    ]
+                }
+            },
+            {
+                "id": "rush",
+                "points": 70,
+                "ship": "tievnsilencer",
+                "upgrades": {
+                    "missile": [
+                        "protonrockets"
+                    ],
+                    "tech": [
+                        "primedthrusters"
+                    ]
+                }
+            }
+        ],
+        "points": 200,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Name": "Nicholas Miller",
+    "Option1": {
+        "faction": "firstorder",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "sienarjaemusengineer",
+                "points": 61,
+                "ship": "tievnsilencer",
+                "upgrades": {
+                    "tech": [
+                        "biohexacryptcodes"
+                    ],
+                    "torpedo": [
+                        "plasmatorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "majorvonreg",
+                "points": 65,
+                "ship": "tiebainterceptor",
+                "upgrades": {
+                    "modification": [
+                        "stealthdevice"
+                    ]
+                }
+            },
+            {
+                "id": "rush",
+                "points": 70,
+                "ship": "tievnsilencer",
+                "upgrades": {
+                    "missile": [
+                        "protonrockets"
+                    ],
+                    "tech": [
+                        "primedthrusters"
+                    ]
+                }
+            }
+        ],
+        "points": 196,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Option2": {
+        "faction": "galacticempire",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "scarifbasepilot",
+                "points": 56,
+                "ship": "tiereaper",
+                "upgrades": {
+                    "crew": [
+                        "emperorpalpatine"
+                    ],
+                    "modification": [
+                        "angleddeflectors"
+                    ]
+                }
+            },
+            {
+                "id": "blacksquadronscout",
+                "points": 58,
+                "ship": "tieskstriker",
+                "upgrades": {
+                    "gunner": [
+                        "fifthbrother"
+                    ],
+                    "modification": [
+                        "afterburners"
+                    ],
+                    "talent": [
+                        "snapshot"
+                    ]
+                }
+            },
+            {
+                "id": "vagabond",
+                "points": 35,
+                "ship": "tieskstriker",
+                "upgrades": {}
+            },
+            {
+                "id": "majorrhymer",
+                "points": 50,
+                "ship": "tiesabomber",
+                "upgrades": {
+                    "device": [
+                        "bombletgenerator"
+                    ],
+                    "missile": [
+                        "barragerockets"
+                    ]
+                }
+            }
+        ],
+        "points": 199,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "TTT": "Nicholas Miller",
+    "VassalForm1": "Afishisborn",
+    "VassalForm2": "afishisborn"
+}

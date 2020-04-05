@@ -1,0 +1,192 @@
+{
+    "Add": "heroic to jerek yeager ",
+    "Discord": "worstcoastchild#2539",
+    "Drop": "munitions failsafe from jerek yeager ",
+    "Final": {
+        "faction": "resistance",
+        "name": "Isaiah Brody JTO",
+        "pilots": [
+            {
+                "id": "rosetico",
+                "points": 33,
+                "ship": "resistancetransportpod",
+                "upgrades": {
+                    "talent": [
+                        "experthandling"
+                    ],
+                    "tech": [
+                        "patternanalyzer"
+                    ]
+                }
+            },
+            {
+                "id": "jarekyeager",
+                "points": 34,
+                "ship": "fireball",
+                "upgrades": {
+                    "talent": [
+                        "heroic"
+                    ]
+                }
+            },
+            {
+                "id": "cobaltsquadronbomber",
+                "points": 59,
+                "ship": "mg100starfortress",
+                "upgrades": {
+                    "crew": [
+                        "c3po-crew"
+                    ],
+                    "modification": [
+                        "delayedfuses"
+                    ]
+                }
+            },
+            {
+                "id": "paigetico",
+                "points": 74,
+                "ship": "mg100starfortress",
+                "upgrades": {
+                    "device": [
+                        "clustermines"
+                    ],
+                    "sensor": [
+                        "collisiondetector"
+                    ]
+                }
+            }
+        ],
+        "points": 200,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Name": "Isaiah Brody ",
+    "Option1": {
+        "faction": "resistance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "rosetico",
+                "points": 33,
+                "ship": "resistancetransportpod",
+                "upgrades": {
+                    "talent": [
+                        "experthandling"
+                    ],
+                    "tech": [
+                        "patternanalyzer"
+                    ]
+                }
+            },
+            {
+                "id": "jarekyeager",
+                "points": 34,
+                "ship": "fireball",
+                "upgrades": {
+                    "modification": [
+                        "munitionsfailsafe"
+                    ]
+                }
+            },
+            {
+                "id": "cobaltsquadronbomber",
+                "points": 59,
+                "ship": "mg100starfortress",
+                "upgrades": {
+                    "crew": [
+                        "c3po-crew"
+                    ],
+                    "modification": [
+                        "delayedfuses"
+                    ]
+                }
+            },
+            {
+                "id": "paigetico",
+                "points": 74,
+                "ship": "mg100starfortress",
+                "upgrades": {
+                    "device": [
+                        "clustermines"
+                    ],
+                    "sensor": [
+                        "collisiondetector"
+                    ]
+                }
+            }
+        ],
+        "points": 200,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Option2": {
+        "faction": "separatistalliance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "baktoidprototype",
+                "points": 41,
+                "ship": "hyenaclassdroidbomber",
+                "upgrades": {
+                    "configuration": [
+                        "landingstruts"
+                    ],
+                    "missile": [
+                        "concussionmissiles"
+                    ],
+                    "modification": [
+                        "afterburners"
+                    ]
+                }
+            },
+            {
+                "id": "precisehunter",
+                "points": 24,
+                "ship": "vultureclassdroidfighter",
+                "upgrades": {
+                    "configuration": [
+                        "grapplingstruts"
+                    ]
+                }
+            },
+            {
+                "id": "chertek",
+                "points": 39,
+                "ship": "nantexclassstarfighter",
+                "upgrades": {}
+            },
+            {
+                "id": "captainsear",
+                "points": 61,
+                "ship": "belbullab22starfighter",
+                "upgrades": {
+                    "modification": [
+                        "delayedfuses"
+                    ],
+                    "tacticalrelay": [
+                        "ta175"
+                    ],
+                    "title": [
+                        "soullessone"
+                    ]
+                }
+            },
+            {
+                "id": "dfs081",
+                "points": 32,
+                "ship": "vultureclassdroidfighter",
+                "upgrades": {
+                    "modification": [
+                        "afterburners"
+                    ]
+                }
+            }
+        ],
+        "points": 197,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "TTT": "isaiah brody",
+    "VassalForm1": "Worst Coast Child",
+    "VassalForm2": "Worst Coast Child"
+}

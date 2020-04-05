@@ -1,0 +1,167 @@
+{
+    "Add": "Advanced Optics onto Finn",
+    "Discord": "Jawa Leader (Andrew Symons)",
+    "Drop": "Debris Gambit off Yeager",
+    "Final": {
+        "faction": "resistance",
+        "name": "Andrew Symons JTO",
+        "pilots": [
+            {
+                "id": "lulolampar",
+                "points": 53,
+                "ship": "rz2awing",
+                "upgrades": {
+                    "missile": [
+                        "homingmissiles"
+                    ],
+                    "tech": [
+                        "patternanalyzer"
+                    ]
+                }
+            },
+            {
+                "id": "jarekyeager",
+                "points": 33,
+                "ship": "fireball",
+                "upgrades": {}
+            },
+            {
+                "id": "colossusstationmechanic",
+                "points": 26,
+                "ship": "fireball",
+                "upgrades": {}
+            },
+            {
+                "id": "elloasty",
+                "points": 55,
+                "ship": "t70xwing",
+                "upgrades": {
+                    "configuration": [
+                        "integratedsfoils"
+                    ]
+                }
+            },
+            {
+                "id": "finn",
+                "points": 33,
+                "ship": "resistancetransportpod",
+                "upgrades": {
+                    "tech": [
+                        "advancedoptics"
+                    ]
+                }
+            }
+        ],
+        "points": 200,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Name": "Andrew Symons",
+    "Option1": {
+        "faction": "resistance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "lulolampar",
+                "points": 53,
+                "ship": "rz2awing",
+                "upgrades": {
+                    "missile": [
+                        "homingmissiles"
+                    ],
+                    "tech": [
+                        "patternanalyzer"
+                    ]
+                }
+            },
+            {
+                "id": "jarekyeager",
+                "points": 37,
+                "ship": "fireball",
+                "upgrades": {
+                    "talent": [
+                        "debrisgambit"
+                    ]
+                }
+            },
+            {
+                "id": "colossusstationmechanic",
+                "points": 26,
+                "ship": "fireball",
+                "upgrades": {}
+            },
+            {
+                "id": "elloasty",
+                "points": 55,
+                "ship": "t70xwing",
+                "upgrades": {
+                    "configuration": [
+                        "integratedsfoils"
+                    ]
+                }
+            },
+            {
+                "id": "finn",
+                "points": 29,
+                "ship": "resistancetransportpod",
+                "upgrades": {}
+            }
+        ],
+        "points": 200,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Option2": {
+        "faction": "galacticrepublic",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "saeseetiin",
+                "points": 67,
+                "ship": "delta7aethersprite",
+                "upgrades": {
+                    "astromech": [
+                        "r4p17"
+                    ],
+                    "configuration": [
+                        "calibratedlasertargeting"
+                    ],
+                    "force-power": [
+                        "supernaturalreflexes"
+                    ]
+                }
+            },
+            {
+                "id": "luminaraunduli",
+                "points": 43,
+                "ship": "delta7aethersprite",
+                "upgrades": {}
+            },
+            {
+                "id": "redsquadronbomber",
+                "points": 39,
+                "ship": "btlbywing",
+                "upgrades": {
+                    "astromech": [
+                        "r3astromech"
+                    ],
+                    "torpedo": [
+                        "iontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "jag",
+                "points": 48,
+                "ship": "arc170starfighter",
+                "upgrades": {}
+            }
+        ],
+        "points": 197,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "TTT": "Andrew Symons",
+    "VassalForm1": "Fez",
+    "VassalForm2": "Fez"
+}

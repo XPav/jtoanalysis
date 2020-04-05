@@ -1,0 +1,154 @@
+{
+    "Add": "Outmaneuver on Ric Oli\u00c3\u00a9",
+    "Discord": "lambrocalrissian#4087",
+    "Drop": "Concussion Missles from Blue Squadron Protector",
+    "Final": {
+        "faction": "galacticrepublic",
+        "name": "Pete Lambro JTO",
+        "pilots": [
+            {
+                "id": "bluesquadronprotector",
+                "points": 27,
+                "ship": "v19torrentstarfighter",
+                "upgrades": {}
+            },
+            {
+                "id": "jediknight",
+                "points": 39,
+                "ship": "delta7aethersprite",
+                "upgrades": {
+                    "configuration": [
+                        "calibratedlasertargeting"
+                    ]
+                }
+            },
+            {
+                "id": "ricolie",
+                "points": 48,
+                "ship": "nabooroyaln1starfighter",
+                "upgrades": {
+                    "talent": [
+                        "outmaneuver"
+                    ]
+                }
+            },
+            {
+                "id": "jag",
+                "points": 48,
+                "ship": "arc170starfighter",
+                "upgrades": {}
+            },
+            {
+                "id": "barrissoffee",
+                "points": 38,
+                "ship": "delta7aethersprite",
+                "upgrades": {}
+            }
+        ],
+        "points": 200,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Name": "Pete Lambro",
+    "Option1": {
+        "faction": "galacticrepublic",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "bluesquadronprotector",
+                "points": 33,
+                "ship": "v19torrentstarfighter",
+                "upgrades": {
+                    "missile": [
+                        "concussionmissiles"
+                    ]
+                }
+            },
+            {
+                "id": "jediknight",
+                "points": 39,
+                "ship": "delta7aethersprite",
+                "upgrades": {
+                    "configuration": [
+                        "calibratedlasertargeting"
+                    ]
+                }
+            },
+            {
+                "id": "ricolie",
+                "points": 42,
+                "ship": "nabooroyaln1starfighter",
+                "upgrades": {}
+            },
+            {
+                "id": "jag",
+                "points": 48,
+                "ship": "arc170starfighter",
+                "upgrades": {}
+            },
+            {
+                "id": "barrissoffee",
+                "points": 38,
+                "ship": "delta7aethersprite",
+                "upgrades": {}
+            }
+        ],
+        "points": 200,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Option2": {
+        "faction": "scumandvillainy",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "ketsuonyo",
+                "points": 76,
+                "ship": "lancerclasspursuitcraft",
+                "upgrades": {
+                    "crew": [
+                        "unkarplutt"
+                    ],
+                    "illicit": [
+                        "riggedcargochute"
+                    ],
+                    "title": [
+                        "shadowcaster"
+                    ]
+                }
+            },
+            {
+                "id": "guri",
+                "points": 82,
+                "ship": "starviperclassattackplatform",
+                "upgrades": {
+                    "talent": [
+                        "squadleader"
+                    ],
+                    "torpedo": [
+                        "iontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "jakkugunrunner",
+                "points": 37,
+                "ship": "quadrijettransferspacetug",
+                "upgrades": {
+                    "illicit": [
+                        "deadmansswitch"
+                    ],
+                    "tech": [
+                        "patternanalyzer"
+                    ]
+                }
+            }
+        ],
+        "points": 195,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "TTT": "Pete Lambro",
+    "VassalForm1": "pete lambro",
+    "VassalForm2": "pete lambro"
+}

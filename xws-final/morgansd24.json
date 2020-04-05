@@ -1,0 +1,186 @@
+{
+    "Add": "Juke to Onyx Squadron Ace",
+    "Discord": "Morgansd24#0762",
+    "Drop": "Static Discharge Vanes from Double Edge",
+    "Final": {
+        "faction": "galacticempire",
+        "name": "Morgan Sanders JTO",
+        "pilots": [
+            {
+                "id": "onyxsquadronace",
+                "points": 98,
+                "ship": "tieddefender",
+                "upgrades": {
+                    "cannon": [
+                        "heavylasercannon"
+                    ],
+                    "missile": [
+                        "concussionmissiles"
+                    ],
+                    "sensor": [
+                        "trajectorysimulator"
+                    ],
+                    "talent": [
+                        "juke"
+                    ]
+                }
+            },
+            {
+                "id": "doubleedge",
+                "points": 45,
+                "ship": "tieagaggressor",
+                "upgrades": {
+                    "missile": [
+                        "concussionmissiles",
+                        "homingmissiles"
+                    ],
+                    "turret": [
+                        "ioncannonturret"
+                    ]
+                }
+            },
+            {
+                "id": "turrphennir",
+                "points": 57,
+                "ship": "tieininterceptor",
+                "upgrades": {
+                    "modification": [
+                        "shieldupgrade"
+                    ],
+                    "talent": [
+                        "snapshot"
+                    ]
+                }
+            }
+        ],
+        "points": 200,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Name": "Morgan Sanders",
+    "Option1": {
+        "faction": "galacticempire",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "onyxsquadronace",
+                "points": 91,
+                "ship": "tieddefender",
+                "upgrades": {
+                    "cannon": [
+                        "heavylasercannon"
+                    ],
+                    "missile": [
+                        "concussionmissiles"
+                    ],
+                    "sensor": [
+                        "trajectorysimulator"
+                    ]
+                }
+            },
+            {
+                "id": "doubleedge",
+                "points": 51,
+                "ship": "tieagaggressor",
+                "upgrades": {
+                    "missile": [
+                        "concussionmissiles",
+                        "homingmissiles"
+                    ],
+                    "modification": [
+                        "staticdischargevanes"
+                    ],
+                    "turret": [
+                        "ioncannonturret"
+                    ]
+                }
+            },
+            {
+                "id": "turrphennir",
+                "points": 57,
+                "ship": "tieininterceptor",
+                "upgrades": {
+                    "modification": [
+                        "shieldupgrade"
+                    ],
+                    "talent": [
+                        "snapshot"
+                    ]
+                }
+            }
+        ],
+        "points": 199,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Option2": {
+        "faction": "scumandvillainy",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "ig88d",
+                "points": 78,
+                "ship": "aggressorassaultfighter",
+                "upgrades": {
+                    "cannon": [
+                        "autoblasters"
+                    ],
+                    "illicit": [
+                        "feedbackarray"
+                    ],
+                    "modification": [
+                        "targetingcomputer"
+                    ],
+                    "talent": [
+                        "lonewolf"
+                    ],
+                    "title": [
+                        "ig2000"
+                    ]
+                }
+            },
+            {
+                "id": "outerrimpioneer",
+                "points": 34,
+                "ship": "escapecraft",
+                "upgrades": {
+                    "crew": [
+                        "unkarplutt"
+                    ],
+                    "talent": [
+                        "trickshot"
+                    ]
+                }
+            },
+            {
+                "id": "bossk-z95af4headhunter",
+                "points": 34,
+                "ship": "z95af4headhunter",
+                "upgrades": {
+                    "missile": [
+                        "homingmissiles"
+                    ]
+                }
+            },
+            {
+                "id": "dalanoberos",
+                "points": 52,
+                "ship": "m12lkimogilafighter",
+                "upgrades": {
+                    "astromech": [
+                        "r5astromech"
+                    ],
+                    "modification": [
+                        "targetingcomputer"
+                    ]
+                }
+            }
+        ],
+        "points": 198,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "TTT": "Morgan Sanders",
+    "VassalForm1": "morgansd24",
+    "VassalForm2": "morgansd24"
+}

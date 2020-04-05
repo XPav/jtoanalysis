@@ -1,0 +1,175 @@
+{
+    "Add": "Dengar - Kavil",
+    "Discord": "Smikies#3144",
+    "Drop": "Cloaking device - Jostero",
+    "Final": {
+        "faction": "scumandvillainy",
+        "name": "Smikies - Soontir Fel - JTO",
+        "pilots": [
+            {
+                "id": "kavil",
+                "points": 55,
+                "ship": "btla4ywing",
+                "upgrades": {
+                    "astromech": [
+                        "r4astromech"
+                    ],
+                    "gunner": [
+                        "dengar"
+                    ],
+                    "modification": [
+                        "munitionsfailsafe"
+                    ],
+                    "turret": [
+                        "dorsalturret"
+                    ]
+                }
+            },
+            {
+                "id": "captainjostero",
+                "points": 48,
+                "ship": "kihraxzfighter",
+                "upgrades": {
+                    "modification": [
+                        "afterburners"
+                    ]
+                }
+            },
+            {
+                "id": "ig88c",
+                "points": 70,
+                "ship": "aggressorassaultfighter",
+                "upgrades": {
+                    "cannon": [
+                        "tractorbeam"
+                    ],
+                    "illicit": [
+                        "deadmansswitch"
+                    ],
+                    "title": [
+                        "ig2000"
+                    ]
+                }
+            },
+            {
+                "id": "l337-escapecraft",
+                "points": 26,
+                "ship": "escapecraft",
+                "upgrades": {}
+            }
+        ],
+        "points": 199,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Name": "cody wood",
+    "Option1": {
+        "faction": "firstorder",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "starkillerbasepilot",
+                "points": 81,
+                "ship": "upsilonclasscommandshuttle",
+                "upgrades": {
+                    "crew": [
+                        "perceptivecopilot"
+                    ],
+                    "tech": [
+                        "hyperspacetrackingdata",
+                        "patternanalyzer"
+                    ]
+                }
+            },
+            {
+                "id": "starkillerbasepilot",
+                "points": 82,
+                "ship": "upsilonclasscommandshuttle",
+                "upgrades": {
+                    "cannon": [
+                        "ioncannon"
+                    ],
+                    "crew": [
+                        "novicetechnician",
+                        "informant"
+                    ],
+                    "tech": [
+                        "deuteriumpowercells"
+                    ]
+                }
+            },
+            {
+                "id": "omegasquadronexpert",
+                "points": 34,
+                "ship": "tiesffighter",
+                "upgrades": {}
+            }
+        ],
+        "points": 197,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Option2": {
+        "faction": "scumandvillainy",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "kavil",
+                "points": 49,
+                "ship": "btla4ywing",
+                "upgrades": {
+                    "astromech": [
+                        "r4astromech"
+                    ],
+                    "modification": [
+                        "munitionsfailsafe"
+                    ],
+                    "turret": [
+                        "dorsalturret"
+                    ]
+                }
+            },
+            {
+                "id": "captainjostero",
+                "points": 52,
+                "ship": "kihraxzfighter",
+                "upgrades": {
+                    "illicit": [
+                        "cloakingdevice"
+                    ],
+                    "modification": [
+                        "afterburners"
+                    ]
+                }
+            },
+            {
+                "id": "ig88c",
+                "points": 70,
+                "ship": "aggressorassaultfighter",
+                "upgrades": {
+                    "cannon": [
+                        "tractorbeam"
+                    ],
+                    "illicit": [
+                        "deadmansswitch"
+                    ],
+                    "title": [
+                        "ig2000"
+                    ]
+                }
+            },
+            {
+                "id": "l337-escapecraft",
+                "points": 26,
+                "ship": "escapecraft",
+                "upgrades": {}
+            }
+        ],
+        "points": 197,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "TTT": "cody wood",
+    "VassalForm1": "Smikies",
+    "VassalForm2": "Smikies"
+}

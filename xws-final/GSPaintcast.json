@@ -1,0 +1,187 @@
+{
+    "Add": "Afterburners -grievous",
+    "Discord": "GSPaintcast #4800",
+    "Drop": "Ion Cannon - infiltrator",
+    "Final": {
+        "faction": "separatistalliance",
+        "name": "Luke Carrington JTO",
+        "pilots": [
+            {
+                "id": "dfs081",
+                "points": 26,
+                "ship": "vultureclassdroidfighter",
+                "upgrades": {}
+            },
+            {
+                "id": "generalgrievous",
+                "points": 64,
+                "ship": "belbullab22starfighter",
+                "upgrades": {
+                    "modification": [
+                        "afterburners"
+                    ],
+                    "tacticalrelay": [
+                        "k2b4"
+                    ],
+                    "talent": [
+                        "swarmtactics"
+                    ],
+                    "title": [
+                        "soullessone"
+                    ]
+                }
+            },
+            {
+                "id": "066",
+                "points": 58,
+                "ship": "sithinfiltrator",
+                "upgrades": {
+                    "modification": [
+                        "targetingcomputer"
+                    ],
+                    "title": [
+                        "scimitar"
+                    ]
+                }
+            },
+            {
+                "id": "petranakiarenaace",
+                "points": 52,
+                "ship": "nantexclassstarfighter",
+                "upgrades": {
+                    "talent": [
+                        "ensnare"
+                    ]
+                }
+            }
+        ],
+        "points": 200,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Name": "Luke Carrington ",
+    "Option1": {
+        "faction": "galacticrepublic",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "goldsquadrontrooper",
+                "points": 31,
+                "ship": "v19torrentstarfighter",
+                "upgrades": {
+                    "modification": [
+                        "afterburners"
+                    ]
+                }
+            },
+            {
+                "id": "oddball-arc170starfighter",
+                "points": 81,
+                "ship": "arc170starfighter",
+                "upgrades": {
+                    "gunner": [
+                        "ahsokatano"
+                    ],
+                    "modification": [
+                        "hullupgrade"
+                    ],
+                    "talent": [
+                        "outmaneuver"
+                    ],
+                    "torpedo": [
+                        "plasmatorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "goldsquadrontrooper",
+                "points": 30,
+                "ship": "v19torrentstarfighter",
+                "upgrades": {
+                    "modification": [
+                        "hullupgrade"
+                    ]
+                }
+            },
+            {
+                "id": "plokoon",
+                "points": 58,
+                "ship": "delta7aethersprite",
+                "upgrades": {
+                    "astromech": [
+                        "c110p"
+                    ],
+                    "configuration": [
+                        "calibratedlasertargeting"
+                    ],
+                    "force-power": [
+                        "heightenedperception"
+                    ]
+                }
+            }
+        ],
+        "points": 200,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Option2": {
+        "faction": "separatistalliance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "dfs081",
+                "points": 26,
+                "ship": "vultureclassdroidfighter",
+                "upgrades": {}
+            },
+            {
+                "id": "generalgrievous",
+                "points": 58,
+                "ship": "belbullab22starfighter",
+                "upgrades": {
+                    "tacticalrelay": [
+                        "tv94"
+                    ],
+                    "talent": [
+                        "swarmtactics"
+                    ],
+                    "title": [
+                        "soullessone"
+                    ]
+                }
+            },
+            {
+                "id": "066",
+                "points": 64,
+                "ship": "sithinfiltrator",
+                "upgrades": {
+                    "cannon": [
+                        "ioncannon"
+                    ],
+                    "modification": [
+                        "targetingcomputer"
+                    ],
+                    "title": [
+                        "scimitar"
+                    ]
+                }
+            },
+            {
+                "id": "petranakiarenaace",
+                "points": 52,
+                "ship": "nantexclassstarfighter",
+                "upgrades": {
+                    "talent": [
+                        "ensnare"
+                    ]
+                }
+            }
+        ],
+        "points": 200,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "TTT": "Luke Carrington",
+    "VassalForm1": "GSPaintcast",
+    "VassalForm2": "GSPaintcast"
+}

@@ -1,0 +1,207 @@
+{
+    "Add": "Debris Gambit on Sabine",
+    "Discord": "DirtClod",
+    "Drop": "Debris Gambit from Gavin",
+    "Final": {
+        "faction": "rebelalliance",
+        "name": "Ben Pappas JTO",
+        "obstacles": [
+            "coreasteroid5",
+            "core2asteroid1",
+            "core2asteroid3"
+        ],
+        "pilots": [
+            {
+                "id": "bluesquadronpilot",
+                "points": 55,
+                "ship": "asf01bwing",
+                "upgrades": {
+                    "configuration": [
+                        "stabilizedsfoils"
+                    ],
+                    "modification": [
+                        "targetingcomputer"
+                    ],
+                    "sensor": [
+                        "passivesensors"
+                    ],
+                    "torpedo": [
+                        "advprotontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "gavindarklighter",
+                "points": 86,
+                "ship": "ewing",
+                "upgrades": {
+                    "astromech": [
+                        "r4astromech"
+                    ],
+                    "modification": [
+                        "shieldupgrade"
+                    ],
+                    "sensor": [
+                        "firecontrolsystem"
+                    ],
+                    "torpedo": [
+                        "protontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "sabinewren",
+                "points": 57,
+                "ship": "attackshuttle",
+                "upgrades": {
+                    "crew": [
+                        "leiaorgana"
+                    ],
+                    "talent": [
+                        "debrisgambit"
+                    ],
+                    "turret": [
+                        "ioncannonturret"
+                    ]
+                }
+            }
+        ],
+        "points": 198,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Name": "Ben Pappas",
+    "Option1": {
+        "faction": "rebelalliance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "bluesquadronpilot",
+                "points": 55,
+                "ship": "asf01bwing",
+                "upgrades": {
+                    "configuration": [
+                        "stabilizedsfoils"
+                    ],
+                    "modification": [
+                        "targetingcomputer"
+                    ],
+                    "sensor": [
+                        "passivesensors"
+                    ],
+                    "torpedo": [
+                        "advprotontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "gavindarklighter",
+                "points": 90,
+                "ship": "ewing",
+                "upgrades": {
+                    "astromech": [
+                        "r4astromech"
+                    ],
+                    "modification": [
+                        "shieldupgrade"
+                    ],
+                    "sensor": [
+                        "firecontrolsystem"
+                    ],
+                    "talent": [
+                        "debrisgambit"
+                    ],
+                    "torpedo": [
+                        "protontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "sabinewren",
+                "points": 53,
+                "ship": "attackshuttle",
+                "upgrades": {
+                    "crew": [
+                        "leiaorgana"
+                    ],
+                    "turret": [
+                        "ioncannonturret"
+                    ]
+                }
+            }
+        ],
+        "points": 198,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Option2": {
+        "faction": "scumandvillainy",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "ig88d",
+                "points": 95,
+                "ship": "aggressorassaultfighter",
+                "upgrades": {
+                    "cannon": [
+                        "ioncannon",
+                        "autoblasters"
+                    ],
+                    "device": [
+                        "seismiccharges"
+                    ],
+                    "illicit": [
+                        "cloakingdevice"
+                    ],
+                    "modification": [
+                        "electronicbaffle"
+                    ],
+                    "sensor": [
+                        "collisiondetector"
+                    ],
+                    "talent": [
+                        "juke"
+                    ],
+                    "title": [
+                        "ig2000"
+                    ]
+                }
+            },
+            {
+                "id": "torkilmux",
+                "points": 66,
+                "ship": "hwk290lightfreighter",
+                "upgrades": {
+                    "crew": [
+                        "cadbane"
+                    ],
+                    "illicit": [
+                        "feedbackarray"
+                    ],
+                    "modification": [
+                        "targetingcomputer"
+                    ],
+                    "title": [
+                        "moldycrow"
+                    ]
+                }
+            },
+            {
+                "id": "tansariipointveteran",
+                "points": 34,
+                "ship": "m3ainterceptor",
+                "upgrades": {
+                    "talent": [
+                        "lonewolf"
+                    ]
+                }
+            }
+        ],
+        "points": 195,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "TTT": "Ben Pappas",
+    "VassalForm1": "DirtClod16",
+    "VassalForm2": "DirtClod16"
+}
