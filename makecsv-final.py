@@ -149,30 +149,39 @@ def LoadShip( pilots, upgrades, ship, listid, faction, url ):
                 useless = False
                 upgrade = upgrades[u]['sides'][0]
 
+                # Missing Actions
                 useless |= ('ability' in upgrade and 'Attack ([Lock])' in upgrade['ability'] and not 'Lock' in actiontype)
                 useless |= ('ability' in upgrade and 'Attack ([Focus])' in upgrade['ability'] and not 'Focus' in actiontype)
-
-                useless |= (u in [ 'andrasta', 'genius', 'delayedfuses', 'cadbane', 'skilledbombardier' ] and devicecount == 0)
-                useless |= (u in [ 'gnkgonkdroid', 'inertialdampeners', 'r2d2-crew', 'r2astromech', 'r2d2' ] and shields == 0)
-                useless |= (u in [ 'saturationsalvo', 'munitionsfailsafe', 'os1arsenalloadout', 'instinctiveaim' ] and torpsmissiles == 0)
-                useless |= (u in [ 'hotshotgunner', 'agilegunner', 'bistan', 'hansolo'] and (not 'Single Turret Arc' in arcs and not 'Double Turret Arc' in arcs))
-
-                useless |= (u == 'paigetico' and (not 'Single Turret Arc' in arcs and not 'Double Turret Arc' in arcs) and (bombcount == 0) )
-
-                useless |= (u == 'trajectorysimulator' and bombcount == 0)
                 useless |= (u == 'perceptivecopilot' and not 'Focus' in actiontype)
                 useless |= (u == 'bazemalbus' and not 'Focus' in actiontype)
                 useless |= (u == 'r3astromech' and not 'Lock' in actiontype)
                 useless |= (u == 'firecontrolsystem' and not 'Lock' in actiontype)
-                useless |= (u == 'outmaneuver' and not 'Front Arc' in arcs)
-                useless |= (u == 'veterantailgunner' and not 'Rear Arc' in arcs)
-                useless |= (u == 'agilegunner' and sdata['xws'] == 'tiesffighter' ) 
-                useless |= (u == 'jabbathehutt' and illicits == 0)
+
+                # Added actions that did nothing
                 useless |= (u == 'squadleader' and 'Coordinate' in originalactions )
                 useless |= (u == 'targetingcomputer' and 'Lock' in originalactions )
+
+                # Require Shields
+                useless |= (u in [ 'gnkgonkdroid', 'inertialdampeners', 'r2d2-crew', 'r2astromech', 'r2d2' ] and shields == 0)
+
+                # Because SF has free linked rotate
+                useless |= (u == 'agilegunner' and sdata['xws'] == 'tiesffighter' ) 
+
+                # Arcs
+                useless |= (u == 'outmaneuver' and not 'Front Arc' in arcs)
+                useless |= (u == 'veterantailgunner' and not 'Rear Arc' in arcs)
+                useless |= (u in [ 'hotshotgunner', 'agilegunner', 'bistan', 'hansolo'] and (not 'Single Turret Arc' in arcs and not 'Double Turret Arc' in arcs))
+
+                # Arcs or bombs
+                useless |= (u == 'paigetico' and (not 'Single Turret Arc' in arcs and not 'Double Turret Arc' in arcs) and (bombcount == 0) )
+
+                # Upgrades that rely on or help other upgrades
+                useless |= (u == 'jabbathehutt' and illicits == 0)
                 useless |= (u == 'havoc' and astromechs == 0 and sensors == 0 )
                 useless |= (u == 'xg1assaultconfiguration' and cannons == 0 )
-
+                useless |= (u in [ 'andrasta', 'genius', 'delayedfuses', 'cadbane', 'skilledbombardier' ] and devicecount == 0)
+                useless |= (u in [ 'saturationsalvo', 'munitionsfailsafe', 'os1arsenalloadout', 'instinctiveaim' ] and torpsmissiles == 0)
+                useless |= (u == 'trajectorysimulator' and bombcount == 0)
 
                 if useless:
                     oship[f'useless{uselesscount:02d}'] = u
@@ -193,7 +202,7 @@ for (dirpath, dirnames, filenames) in walk('../xwing-data2/data/pilots'):
             for p in j['pilots']:
                 xws = p['xws']
                 pilots[xws] = p
-                allpilots[ p['xws'] ] = { 'name': xws, 'type': 'pilot', 'count': 0 }
+                allpilots[ p['xws'] ] = { 'name': xws, 'type': 'pilot', 'count': 0, 'limited': p['limited'], 'slots' :'' }
 
 for (dirpath, dirnames, filenames) in walk('../xwing-data2/data/upgrades'):
     for filename in filenames:
@@ -202,7 +211,11 @@ for (dirpath, dirnames, filenames) in walk('../xwing-data2/data/upgrades'):
             for u in j:
                 xws = u['xws']
                 upgrades[xws] = u
-                allupgrades[xws ] = { 'name': xws, 'type': 'upgrade', 'count': 0 }
+                slots = ''
+                for side in u['sides']:
+                    for slot in side['slots']:
+                        slots += (slot + ' ')
+                allupgrades[xws] = { 'name': xws, 'type': 'upgrade', 'count': 0, 'limited': u['limited'], 'slots' : slots }
 
 
 with urllib.request.urlopen( 'https://tabletop.to/jank-tank-open/listjuggler' ) as response:
@@ -286,7 +299,7 @@ with open('ships-final.csv', 'w', newline='', encoding='UTF-8') as csvfile:
     writer.writerows(oships)
 
 with open('cards-final.csv', 'w', newline='') as csvfile:
-    writer = csv.DictWriter(csvfile, fieldnames= ['name', 'type', 'count'])
+    writer = csv.DictWriter(csvfile, fieldnames= ['name', 'type', 'count', 'limited', 'slots'])
     writer.writeheader()
     writer.writerows(allpilots.values())
     writer.writerows(allupgrades.values())

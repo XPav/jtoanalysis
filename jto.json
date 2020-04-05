@@ -3,7 +3,7 @@
         "date": "2020-04-04",
         "format": null,
         "name": "Jank Tank Open",
-        "participant_count": "474",
+        "participant_count": "483",
         "players": [
             {
                 "email": "",
@@ -5511,7 +5511,73 @@
             },
             {
                 "email": "",
-                "list": "",
+                "list": {
+                    "faction": "rebelalliance",
+                    "name": "Calen Wong JTO",
+                    "obstacles": [
+                        "coreasteroid0",
+                        "core2asteroid0",
+                        "core2asteroid2"
+                    ],
+                    "pilots": [
+                        {
+                            "id": "kylekatarn",
+                            "points": 48,
+                            "ship": "hwk290lightfreighter",
+                            "upgrades": {
+                                "crew": [
+                                    "perceptivecopilot"
+                                ],
+                                "modification": [
+                                    "shieldupgrade"
+                                ]
+                            }
+                        },
+                        {
+                            "id": "esegetuketu",
+                            "points": 63,
+                            "ship": "btls8kwing",
+                            "upgrades": {
+                                "missile": [
+                                    "diamondboronmissiles"
+                                ],
+                                "torpedo": [
+                                    "protontorpedoes"
+                                ]
+                            }
+                        },
+                        {
+                            "id": "greensquadronpilot",
+                            "points": 32,
+                            "ship": "rz1awing"
+                        },
+                        {
+                            "id": "ibtisam",
+                            "points": 55,
+                            "ship": "arc170starfighter",
+                            "upgrades": {
+                                "gunner": [
+                                    "skilledbombardier"
+                                ],
+                                "talent": [
+                                    "composure"
+                                ],
+                                "torpedo": [
+                                    "iontorpedoes"
+                                ]
+                            }
+                        }
+                    ],
+                    "points": 198,
+                    "vendor": {
+                        "yasb": {
+                            "builder": "(Yet Another) X-Wing Miniatures Squad Builder",
+                            "builder_url": "https://raithos.github.io",
+                            "link": "https://raithos.github.io/?f=Rebel%20Alliance&d=v8ZsZ200Z48XWW54WW165WY18X136W238WWWWWWY52XWWY80X115W135WW88WW&sn=Calen%20Wong%20JTO&obs=coreasteroid0,core2asteroid0,core2asteroid2"
+                        }
+                    },
+                    "version": "2.0.0"
+                },
                 "mov": "0",
                 "name": "Calen Wong ",
                 "rank": {
@@ -6258,7 +6324,59 @@
             },
             {
                 "email": "",
-                "list": "",
+                "list": {
+                    "faction": "resistance",
+                    "name": "Charlie Ligato JTO",
+                    "pilots": [
+                        {
+                            "id": "temminwexley",
+                            "points": 59,
+                            "ship": "t70xwing",
+                            "upgrades": {
+                                "astromech": [
+                                    "r1j5"
+                                ],
+                                "configuration": [
+                                    "integratedsfoils"
+                                ]
+                            }
+                        },
+                        {
+                            "id": "chewbacca-scavengedyt1300",
+                            "points": 68,
+                            "ship": "scavengedyt1300",
+                            "upgrades": {
+                                "talent": [
+                                    "lonewolf"
+                                ]
+                            }
+                        },
+                        {
+                            "id": "zizitlo",
+                            "points": 40,
+                            "ship": "rz2awing"
+                        },
+                        {
+                            "id": "vimoradi",
+                            "points": 33,
+                            "ship": "resistancetransportpod",
+                            "upgrades": {
+                                "crew": [
+                                    "ga97"
+                                ]
+                            }
+                        }
+                    ],
+                    "points": 200,
+                    "vendor": {
+                        "yasb": {
+                            "builder": "(Yet Another) X-Wing Miniatures Squad Builder",
+                            "builder_url": "https://raithos.github.io",
+                            "link": "https://raithos.github.io/?f=Resistance&d=v8ZsZ200Z297XW312WW175WWWY246X124WWWWWWWY387XWWWY348XW230W&sn=Charlie%20Ligato%20JTO&obs="
+                        }
+                    },
+                    "version": "2.0.0"
+                },
                 "mov": "0",
                 "name": "Charles Ligato Jr",
                 "rank": {
@@ -6334,6 +6452,80 @@
             {
                 "email": "",
                 "list": {
+                    "faction": "firstorder",
+                    "name": "Chris Appel JTO",
+                    "pilots": [
+                        {
+                            "id": "lieutenantlehuse",
+                            "points": 62,
+                            "ship": "tiesffighter",
+                            "upgrades": {
+                                "gunner": [
+                                    "specialforcesgunner"
+                                ],
+                                "modification": [
+                                    "staticdischargevanes"
+                                ],
+                                "sensor": [
+                                    "passivesensors"
+                                ],
+                                "tech": [
+                                    "advancedoptics"
+                                ]
+                            }
+                        },
+                        {
+                            "id": "backdraft",
+                            "points": 62,
+                            "ship": "tiesffighter",
+                            "upgrades": {
+                                "gunner": [
+                                    "agilegunner"
+                                ],
+                                "missile": [
+                                    "concussionmissiles"
+                                ],
+                                "modification": [
+                                    "staticdischargevanes"
+                                ],
+                                "sensor": [
+                                    "passivesensors"
+                                ]
+                            }
+                        },
+                        {
+                            "id": "lieutenanttavson",
+                            "points": 69,
+                            "ship": "upsilonclasscommandshuttle",
+                            "upgrades": {
+                                "crew": [
+                                    "captainphasma"
+                                ]
+                            }
+                        }
+                    ],
+                    "points": 193,
+                    "vendor": {
+                        "yasb": {
+                            "builder": "(Yet Another) X-Wing Miniatures Squad Builder",
+                            "builder_url": "https://raithos.github.io",
+                            "link": "https://raithos.github.io/?f=First%20Order&d=v8ZsZ200Z397XW186WW182W240W109Y242XWW99W76W240W109Y289XWW183WWWWW&sn=Chris%20Appel%20JTO&obs="
+                        }
+                    },
+                    "version": "2.0.0"
+                },
+                "mov": "0",
+                "name": "Chris Appel",
+                "rank": {
+                    "elimination": null,
+                    "swiss": "92"
+                },
+                "score": "0",
+                "sos": "0.00"
+            },
+            {
+                "email": "",
+                "list": {
                     "faction": "galacticempire",
                     "name": "MatCauthonReborn JTO",
                     "pilots": [
@@ -6395,19 +6587,81 @@
                 "name": "Chris Bobby ",
                 "rank": {
                     "elimination": null,
-                    "swiss": "92"
+                    "swiss": "93"
                 },
                 "score": "0",
                 "sos": "0.00"
             },
             {
                 "email": "",
-                "list": "",
+                "list": {
+                    "faction": "scumandvillainy",
+                    "name": "Quad Scum JTO",
+                    "pilots": [
+                        {
+                            "id": "asajjventress",
+                            "points": 86,
+                            "ship": "lancerclasspursuitcraft",
+                            "upgrades": {
+                                "crew": [
+                                    "lattsrazzi"
+                                ],
+                                "illicit": [
+                                    "contrabandcybernetics",
+                                    "inertialdampeners"
+                                ],
+                                "title": [
+                                    "shadowcaster"
+                                ]
+                            }
+                        },
+                        {
+                            "id": "constablezuvio",
+                            "points": 39,
+                            "ship": "quadrijettransferspacetug",
+                            "upgrades": {
+                                "crew": [
+                                    "freelanceslicer"
+                                ],
+                                "illicit": [
+                                    "feedbackarray"
+                                ]
+                            }
+                        },
+                        {
+                            "id": "genesisred",
+                            "points": 45,
+                            "ship": "m3ainterceptor",
+                            "upgrades": {
+                                "missile": [
+                                    "concussionmissiles"
+                                ],
+                                "modification": [
+                                    "shieldupgrade"
+                                ]
+                            }
+                        },
+                        {
+                            "id": "bossk-z-95headhunter",
+                            "points": 29,
+                            "ship": "z95af4headhunter"
+                        }
+                    ],
+                    "points": 199,
+                    "vendor": {
+                        "yasb": {
+                            "builder": "(Yet Another) X-Wing Miniatures Squad Builder",
+                            "builder_url": "https://raithos.github.io",
+                            "link": "https://raithos.github.io/?f=Scum%20and%20Villainy&d=v8ZsZ200Z125XW47W92W95WW160Y140XWW30WW94WY133XW165W99Y398XWWW&sn=Quad%20Scum%20JTO&obs="
+                        }
+                    },
+                    "version": "2.0.0"
+                },
                 "mov": "0",
                 "name": "Chris Borzumato",
                 "rank": {
                     "elimination": null,
-                    "swiss": "93"
+                    "swiss": "94"
                 },
                 "score": "0",
                 "sos": "0.00"
@@ -6480,7 +6734,7 @@
                 "name": "Chris Burnett",
                 "rank": {
                     "elimination": null,
-                    "swiss": "94"
+                    "swiss": "95"
                 },
                 "score": "0",
                 "sos": "0.00"
@@ -6564,7 +6818,7 @@
                 "name": "Chris Daykin",
                 "rank": {
                     "elimination": null,
-                    "swiss": "95"
+                    "swiss": "96"
                 },
                 "score": "0",
                 "sos": "0.00"
@@ -6643,7 +6897,7 @@
                 "name": "Chris Donahue",
                 "rank": {
                     "elimination": null,
-                    "swiss": "96"
+                    "swiss": "97"
                 },
                 "score": "0",
                 "sos": "0.00"
@@ -6699,7 +6953,7 @@
                 "name": "Chris Langland",
                 "rank": {
                     "elimination": null,
-                    "swiss": "97"
+                    "swiss": "98"
                 },
                 "score": "0",
                 "sos": "0.00"
@@ -6769,7 +7023,7 @@
                 "name": "Christian Bonet",
                 "rank": {
                     "elimination": null,
-                    "swiss": "98"
+                    "swiss": "99"
                 },
                 "score": "0",
                 "sos": "0.00"
@@ -6830,7 +7084,72 @@
                 "name": "Christian Krogager Jespersen",
                 "rank": {
                     "elimination": null,
-                    "swiss": "99"
+                    "swiss": "100"
+                },
+                "score": "0",
+                "sos": "0.00"
+            },
+            {
+                "email": "",
+                "list": {
+                    "description": "",
+                    "faction": "resistance",
+                    "name": "Tourney class",
+                    "pilots": [
+                        {
+                            "id": "logisticsdivisionpilot",
+                            "points": 35,
+                            "ship": "resistancetransport",
+                            "upgrades": {
+                                "cannon": [
+                                    "tractorbeam"
+                                ]
+                            }
+                        },
+                        {
+                            "id": "nodinchavdri",
+                            "points": 65,
+                            "ship": "resistancetransport",
+                            "upgrades": {
+                                "crew": [
+                                    "hansolo-crew",
+                                    "korrsella"
+                                ],
+                                "modification": [
+                                    "staticdischargevanes"
+                                ],
+                                "torpedo": [
+                                    "protontorpedoes"
+                                ]
+                            }
+                        },
+                        {
+                            "id": "rey",
+                            "points": 94,
+                            "ship": "scavengedyt1300",
+                            "upgrades": {
+                                "crew": [
+                                    "leiaorgana-resistance"
+                                ],
+                                "gunner": [
+                                    "hotshotgunner"
+                                ]
+                            }
+                        }
+                    ],
+                    "points": 194,
+                    "vendor": {
+                        "sb2xws": {
+                            "builder": "SB2XWS",
+                            "url": "http://sb2xws.herokuapp.com/translate/87e3ebfc-13b5-492c-9fbc-1ef95b2b4065"
+                        }
+                    }
+                },
+                "mov": "0",
+                "name": "Christian Tollinchi",
+                "rank": {
+                    "elimination": null,
+                    "swiss": "101"
                 },
                 "score": "0",
                 "sos": "0.00"
@@ -6918,7 +7237,7 @@
                 "name": "Christopher Dunn",
                 "rank": {
                     "elimination": null,
-                    "swiss": "100"
+                    "swiss": "102"
                 },
                 "score": "0",
                 "sos": "0.00"
@@ -6990,7 +7309,7 @@
                 "name": "Christopher Patrick",
                 "rank": {
                     "elimination": null,
-                    "swiss": "101"
+                    "swiss": "103"
                 },
                 "score": "0",
                 "sos": "0.00"
@@ -7067,7 +7386,7 @@
                 "name": "Christopher Peters -CrazyVulcan",
                 "rank": {
                     "elimination": null,
-                    "swiss": "102"
+                    "swiss": "104"
                 },
                 "score": "0",
                 "sos": "0.00"
@@ -7141,7 +7460,7 @@
                 "name": "Christopher Spenner",
                 "rank": {
                     "elimination": null,
-                    "swiss": "103"
+                    "swiss": "105"
                 },
                 "score": "0",
                 "sos": "0.00"
@@ -7213,7 +7532,7 @@
                 "name": "Claude Matte",
                 "rank": {
                     "elimination": null,
-                    "swiss": "104"
+                    "swiss": "106"
                 },
                 "score": "0",
                 "sos": "0.00"
@@ -7284,7 +7603,7 @@
                 "name": "Claudio Veas",
                 "rank": {
                     "elimination": null,
-                    "swiss": "105"
+                    "swiss": "107"
                 },
                 "score": "0",
                 "sos": "0.00"
@@ -7360,7 +7679,7 @@
                 "name": "cody wood",
                 "rank": {
                     "elimination": null,
-                    "swiss": "106"
+                    "swiss": "108"
                 },
                 "score": "0",
                 "sos": "0.00"
@@ -7426,7 +7745,7 @@
                 "name": "Colin Miner",
                 "rank": {
                     "elimination": null,
-                    "swiss": "107"
+                    "swiss": "109"
                 },
                 "score": "0",
                 "sos": "0.00"
@@ -7501,7 +7820,7 @@
                 "name": "Colin Weber",
                 "rank": {
                     "elimination": null,
-                    "swiss": "108"
+                    "swiss": "110"
                 },
                 "score": "0",
                 "sos": "0.00"
@@ -7513,7 +7832,7 @@
                 "name": "Connor Carpenter",
                 "rank": {
                     "elimination": null,
-                    "swiss": "109"
+                    "swiss": "111"
                 },
                 "score": "0",
                 "sos": "0.00"
@@ -7590,7 +7909,7 @@
                 "name": "Cormac Higgins",
                 "rank": {
                     "elimination": null,
-                    "swiss": "110"
+                    "swiss": "112"
                 },
                 "score": "0",
                 "sos": "0.00"
@@ -7679,7 +7998,7 @@
                 "name": "Cory Noel",
                 "rank": {
                     "elimination": null,
-                    "swiss": "111"
+                    "swiss": "113"
                 },
                 "score": "0",
                 "sos": "0.00"
@@ -7743,7 +8062,7 @@
                 "name": "Crispus Knight",
                 "rank": {
                     "elimination": null,
-                    "swiss": "112"
+                    "swiss": "114"
                 },
                 "score": "0",
                 "sos": "0.00"
@@ -7824,7 +8143,7 @@
                 "name": "cubsfan4life",
                 "rank": {
                     "elimination": null,
-                    "swiss": "113"
+                    "swiss": "115"
                 },
                 "score": "0",
                 "sos": "0.00"
@@ -7895,7 +8214,7 @@
                 "name": "CurtisBeatovich",
                 "rank": {
                     "elimination": null,
-                    "swiss": "114"
+                    "swiss": "116"
                 },
                 "score": "0",
                 "sos": "0.00"
@@ -7986,7 +8305,7 @@
                 "name": "Dale Bennion",
                 "rank": {
                     "elimination": null,
-                    "swiss": "115"
+                    "swiss": "117"
                 },
                 "score": "0",
                 "sos": "0.00"
@@ -8064,7 +8383,7 @@
                 "name": "Dale Capron",
                 "rank": {
                     "elimination": null,
-                    "swiss": "116"
+                    "swiss": "118"
                 },
                 "score": "0",
                 "sos": "0.00"
@@ -8134,7 +8453,7 @@
                 "name": "Dale Cromwell",
                 "rank": {
                     "elimination": null,
-                    "swiss": "117"
+                    "swiss": "119"
                 },
                 "score": "0",
                 "sos": "0.00"
@@ -8146,7 +8465,7 @@
                 "name": "Dale de Andrade",
                 "rank": {
                     "elimination": null,
-                    "swiss": "118"
+                    "swiss": "120"
                 },
                 "score": "0",
                 "sos": "0.00"
@@ -8158,7 +8477,7 @@
                 "name": "Dale_C",
                 "rank": {
                     "elimination": null,
-                    "swiss": "119"
+                    "swiss": "121"
                 },
                 "score": "0",
                 "sos": "0.00"
@@ -8238,7 +8557,7 @@
                 "name": "Damian Robinson",
                 "rank": {
                     "elimination": null,
-                    "swiss": "120"
+                    "swiss": "122"
                 },
                 "score": "0",
                 "sos": "0.00"
@@ -8302,7 +8621,7 @@
                 "name": "Dan Mercer",
                 "rank": {
                     "elimination": null,
-                    "swiss": "121"
+                    "swiss": "123"
                 },
                 "score": "0",
                 "sos": "0.00"
@@ -8378,7 +8697,7 @@
                 "name": "Dan Sunderland",
                 "rank": {
                     "elimination": null,
-                    "swiss": "122"
+                    "swiss": "124"
                 },
                 "score": "0",
                 "sos": "0.00"
@@ -8460,7 +8779,7 @@
                 "name": "Dan Xuereb",
                 "rank": {
                     "elimination": null,
-                    "swiss": "123"
+                    "swiss": "125"
                 },
                 "score": "0",
                 "sos": "0.00"
@@ -8541,7 +8860,7 @@
                 "name": "Daniel Leon",
                 "rank": {
                     "elimination": null,
-                    "swiss": "124"
+                    "swiss": "126"
                 },
                 "score": "0",
                 "sos": "0.00"
@@ -8599,7 +8918,7 @@
                 "name": "Daniel lim",
                 "rank": {
                     "elimination": null,
-                    "swiss": "125"
+                    "swiss": "127"
                 },
                 "score": "0",
                 "sos": "0.00"
@@ -8669,7 +8988,7 @@
                 "name": "Daniel Mahony",
                 "rank": {
                     "elimination": null,
-                    "swiss": "126"
+                    "swiss": "128"
                 },
                 "score": "0",
                 "sos": "0.00"
@@ -8740,7 +9059,7 @@
                 "name": "Daniel McCarthy",
                 "rank": {
                     "elimination": null,
-                    "swiss": "127"
+                    "swiss": "129"
                 },
                 "score": "0",
                 "sos": "0.00"
@@ -8815,7 +9134,7 @@
                 "name": "Daniel Smith",
                 "rank": {
                     "elimination": null,
-                    "swiss": "128"
+                    "swiss": "130"
                 },
                 "score": "0",
                 "sos": "0.00"
@@ -8887,7 +9206,7 @@
                 "name": "Daniel Sullivan",
                 "rank": {
                     "elimination": null,
-                    "swiss": "129"
+                    "swiss": "131"
                 },
                 "score": "0",
                 "sos": "0.00"
@@ -8940,7 +9259,7 @@
                 "name": "Daniel Wochnick",
                 "rank": {
                     "elimination": null,
-                    "swiss": "130"
+                    "swiss": "132"
                 },
                 "score": "0",
                 "sos": "0.00"
@@ -9010,7 +9329,7 @@
                 "name": "Darin Schwarze",
                 "rank": {
                     "elimination": null,
-                    "swiss": "131"
+                    "swiss": "133"
                 },
                 "score": "0",
                 "sos": "0.00"
@@ -9069,7 +9388,7 @@
                 "name": "Darryl McMillon",
                 "rank": {
                     "elimination": null,
-                    "swiss": "132"
+                    "swiss": "134"
                 },
                 "score": "0",
                 "sos": "0.00"
@@ -9151,7 +9470,7 @@
                 "name": "Dave Laffan",
                 "rank": {
                     "elimination": null,
-                    "swiss": "133"
+                    "swiss": "135"
                 },
                 "score": "0",
                 "sos": "0.00"
@@ -9217,7 +9536,7 @@
                 "name": "David Burger ",
                 "rank": {
                     "elimination": null,
-                    "swiss": "134"
+                    "swiss": "136"
                 },
                 "score": "0",
                 "sos": "0.00"
@@ -9295,7 +9614,7 @@
                 "name": "David Chabot",
                 "rank": {
                     "elimination": null,
-                    "swiss": "135"
+                    "swiss": "137"
                 },
                 "score": "0",
                 "sos": "0.00"
@@ -9368,7 +9687,7 @@
                 "name": "David Feith",
                 "rank": {
                     "elimination": null,
-                    "swiss": "136"
+                    "swiss": "138"
                 },
                 "score": "0",
                 "sos": "0.00"
@@ -9441,7 +9760,7 @@
                 "name": "David Rowley",
                 "rank": {
                     "elimination": null,
-                    "swiss": "137"
+                    "swiss": "139"
                 },
                 "score": "0",
                 "sos": "0.00"
@@ -9514,7 +9833,7 @@
                 "name": "David Secretain",
                 "rank": {
                     "elimination": null,
-                    "swiss": "138"
+                    "swiss": "140"
                 },
                 "score": "0",
                 "sos": "0.00"
@@ -9588,7 +9907,7 @@
                 "name": "David Welman",
                 "rank": {
                     "elimination": null,
-                    "swiss": "139"
+                    "swiss": "141"
                 },
                 "score": "0",
                 "sos": "0.00"
@@ -9660,7 +9979,7 @@
                 "name": "DeDeKale",
                 "rank": {
                     "elimination": null,
-                    "swiss": "140"
+                    "swiss": "142"
                 },
                 "score": "0",
                 "sos": "0.00"
@@ -9732,7 +10051,7 @@
                 "name": "Derek Foglein",
                 "rank": {
                     "elimination": null,
-                    "swiss": "141"
+                    "swiss": "143"
                 },
                 "score": "0",
                 "sos": "0.00"
@@ -9796,7 +10115,7 @@
                 "name": "Des Darklighter",
                 "rank": {
                     "elimination": null,
-                    "swiss": "142"
+                    "swiss": "144"
                 },
                 "score": "0",
                 "sos": "0.00"
@@ -9866,7 +10185,7 @@
                 "name": "Dom Flannigan",
                 "rank": {
                     "elimination": null,
-                    "swiss": "143"
+                    "swiss": "145"
                 },
                 "score": "0",
                 "sos": "0.00"
@@ -9930,7 +10249,7 @@
                 "name": "Dominick DiCarlo",
                 "rank": {
                     "elimination": null,
-                    "swiss": "144"
+                    "swiss": "146"
                 },
                 "score": "0",
                 "sos": "0.00"
@@ -10000,7 +10319,7 @@
                 "name": "Don Walker",
                 "rank": {
                     "elimination": null,
-                    "swiss": "145"
+                    "swiss": "147"
                 },
                 "score": "0",
                 "sos": "0.00"
@@ -10075,7 +10394,7 @@
                 "name": "donfonni",
                 "rank": {
                     "elimination": null,
-                    "swiss": "146"
+                    "swiss": "148"
                 },
                 "score": "0",
                 "sos": "0.00"
@@ -10149,7 +10468,7 @@
                 "name": "Doug Howe",
                 "rank": {
                     "elimination": null,
-                    "swiss": "147"
+                    "swiss": "149"
                 },
                 "score": "0",
                 "sos": "0.00"
@@ -10237,7 +10556,7 @@
                 "name": "Douglas Foglein",
                 "rank": {
                     "elimination": null,
-                    "swiss": "148"
+                    "swiss": "150"
                 },
                 "score": "0",
                 "sos": "0.00"
@@ -10314,7 +10633,7 @@
                 "name": "Drew Brody",
                 "rank": {
                     "elimination": null,
-                    "swiss": "149"
+                    "swiss": "151"
                 },
                 "score": "0",
                 "sos": "0.00"
@@ -10388,7 +10707,7 @@
                 "name": "Duhtch Cuthbert",
                 "rank": {
                     "elimination": null,
-                    "swiss": "150"
+                    "swiss": "152"
                 },
                 "score": "0",
                 "sos": "0.00"
@@ -10455,7 +10774,7 @@
                 "name": "DukeofHobbies",
                 "rank": {
                     "elimination": null,
-                    "swiss": "151"
+                    "swiss": "153"
                 },
                 "score": "0",
                 "sos": "0.00"
@@ -10544,7 +10863,7 @@
                 "name": "Dylan Emde",
                 "rank": {
                     "elimination": null,
-                    "swiss": "152"
+                    "swiss": "154"
                 },
                 "score": "0",
                 "sos": "0.00"
@@ -10617,7 +10936,7 @@
                 "name": "E Cannon",
                 "rank": {
                     "elimination": null,
-                    "swiss": "153"
+                    "swiss": "155"
                 },
                 "score": "0",
                 "sos": "0.00"
@@ -10686,7 +11005,7 @@
                 "name": "Ed Gold",
                 "rank": {
                     "elimination": null,
-                    "swiss": "154"
+                    "swiss": "156"
                 },
                 "score": "0",
                 "sos": "0.00"
@@ -10758,7 +11077,7 @@
                 "name": "Eddie Preisser",
                 "rank": {
                     "elimination": null,
-                    "swiss": "155"
+                    "swiss": "157"
                 },
                 "score": "0",
                 "sos": "0.00"
@@ -10837,7 +11156,7 @@
                 "name": "Ellen Ce",
                 "rank": {
                     "elimination": null,
-                    "swiss": "156"
+                    "swiss": "158"
                 },
                 "score": "0",
                 "sos": "0.00"
@@ -10912,7 +11231,7 @@
                 "name": "eltwigg",
                 "rank": {
                     "elimination": null,
-                    "swiss": "157"
+                    "swiss": "159"
                 },
                 "score": "0",
                 "sos": "0.00"
@@ -10992,7 +11311,7 @@
                 "name": "Eric Dignard",
                 "rank": {
                     "elimination": null,
-                    "swiss": "158"
+                    "swiss": "160"
                 },
                 "score": "0",
                 "sos": "0.00"
@@ -11068,7 +11387,7 @@
                 "name": "Eric Maynard",
                 "rank": {
                     "elimination": null,
-                    "swiss": "159"
+                    "swiss": "161"
                 },
                 "score": "0",
                 "sos": "0.00"
@@ -11135,7 +11454,7 @@
                 "name": "Eric Small",
                 "rank": {
                     "elimination": null,
-                    "swiss": "160"
+                    "swiss": "162"
                 },
                 "score": "0",
                 "sos": "0.00"
@@ -11214,7 +11533,7 @@
                 "name": "Erik Sorensen",
                 "rank": {
                     "elimination": null,
-                    "swiss": "161"
+                    "swiss": "163"
                 },
                 "score": "0",
                 "sos": "0.00"
@@ -11226,7 +11545,7 @@
                 "name": "EthanRequardt",
                 "rank": {
                     "elimination": null,
-                    "swiss": "162"
+                    "swiss": "164"
                 },
                 "score": "0",
                 "sos": "0.00"
@@ -11287,7 +11606,7 @@
                 "name": "Evan Claassen",
                 "rank": {
                     "elimination": null,
-                    "swiss": "163"
+                    "swiss": "165"
                 },
                 "score": "0",
                 "sos": "0.00"
@@ -11382,7 +11701,7 @@
                 "name": "Evan Damiano",
                 "rank": {
                     "elimination": null,
-                    "swiss": "164"
+                    "swiss": "166"
                 },
                 "score": "0",
                 "sos": "0.00"
@@ -11447,7 +11766,7 @@
                 "name": "Evan Paul",
                 "rank": {
                     "elimination": null,
-                    "swiss": "165"
+                    "swiss": "167"
                 },
                 "score": "0",
                 "sos": "0.00"
@@ -11514,7 +11833,7 @@
                 "name": "Eyvan SALGADO",
                 "rank": {
                     "elimination": null,
-                    "swiss": "166"
+                    "swiss": "168"
                 },
                 "score": "0",
                 "sos": "0.00"
@@ -11581,7 +11900,7 @@
                 "name": "Frank Fengel",
                 "rank": {
                     "elimination": null,
-                    "swiss": "167"
+                    "swiss": "169"
                 },
                 "score": "0",
                 "sos": "0.00"
@@ -11660,7 +11979,7 @@
                 "name": "Full-On",
                 "rank": {
                     "elimination": null,
-                    "swiss": "168"
+                    "swiss": "170"
                 },
                 "score": "0",
                 "sos": "0.00"
@@ -11721,7 +12040,7 @@
                 "name": "Fun Wok",
                 "rank": {
                     "elimination": null,
-                    "swiss": "169"
+                    "swiss": "171"
                 },
                 "score": "0",
                 "sos": "0.00"
@@ -11784,7 +12103,7 @@
                 "name": "Gabriel Dennis",
                 "rank": {
                     "elimination": null,
-                    "swiss": "170"
+                    "swiss": "172"
                 },
                 "score": "0",
                 "sos": "0.00"
@@ -11868,7 +12187,7 @@
                 "name": "GamblerTuba",
                 "rank": {
                     "elimination": null,
-                    "swiss": "171"
+                    "swiss": "173"
                 },
                 "score": "0",
                 "sos": "0.00"
@@ -11976,7 +12295,7 @@
                 "name": "Garrett Blair",
                 "rank": {
                     "elimination": null,
-                    "swiss": "172"
+                    "swiss": "174"
                 },
                 "score": "0",
                 "sos": "0.00"
@@ -12045,7 +12364,7 @@
                 "name": "Garrett Jost",
                 "rank": {
                     "elimination": null,
-                    "swiss": "173"
+                    "swiss": "175"
                 },
                 "score": "0",
                 "sos": "0.00"
@@ -12135,7 +12454,7 @@
                 "name": "Geoff Frost",
                 "rank": {
                     "elimination": null,
-                    "swiss": "174"
+                    "swiss": "176"
                 },
                 "score": "0",
                 "sos": "0.00"
@@ -12216,7 +12535,7 @@
                 "name": "George Barker",
                 "rank": {
                     "elimination": null,
-                    "swiss": "175"
+                    "swiss": "177"
                 },
                 "score": "0",
                 "sos": "0.00"
@@ -12286,7 +12605,7 @@
                 "name": "Greg Farrell / Farreg",
                 "rank": {
                     "elimination": null,
-                    "swiss": "176"
+                    "swiss": "178"
                 },
                 "score": "0",
                 "sos": "0.00"
@@ -12369,7 +12688,7 @@
                 "name": "Greg Jones",
                 "rank": {
                     "elimination": null,
-                    "swiss": "177"
+                    "swiss": "179"
                 },
                 "score": "0",
                 "sos": "0.00"
@@ -12438,7 +12757,7 @@
                 "name": "Greg Smith",
                 "rank": {
                     "elimination": null,
-                    "swiss": "178"
+                    "swiss": "180"
                 },
                 "score": "0",
                 "sos": "0.00"
@@ -12525,7 +12844,7 @@
                 "name": "gregkash",
                 "rank": {
                     "elimination": null,
-                    "swiss": "179"
+                    "swiss": "181"
                 },
                 "score": "0",
                 "sos": "0.00"
@@ -12592,7 +12911,7 @@
                 "name": "Gregory Paul",
                 "rank": {
                     "elimination": null,
-                    "swiss": "180"
+                    "swiss": "182"
                 },
                 "score": "0",
                 "sos": "0.00"
@@ -12680,7 +12999,7 @@
                 "name": "Harrison Sharp",
                 "rank": {
                     "elimination": null,
-                    "swiss": "181"
+                    "swiss": "183"
                 },
                 "score": "0",
                 "sos": "0.00"
@@ -12752,7 +13071,7 @@
                 "name": "Hasan Khan",
                 "rank": {
                     "elimination": null,
-                    "swiss": "182"
+                    "swiss": "184"
                 },
                 "score": "0",
                 "sos": "0.00"
@@ -12831,7 +13150,72 @@
                 "name": "Heath Carruthers",
                 "rank": {
                     "elimination": null,
-                    "swiss": "183"
+                    "swiss": "185"
+                },
+                "score": "0",
+                "sos": "0.00"
+            },
+            {
+                "email": "",
+                "list": {
+                    "faction": "rebelalliance",
+                    "name": "Howard Benensky JTO",
+                    "pilots": [
+                        {
+                            "id": "lothalrebel",
+                            "points": 74,
+                            "ship": "vcx100lightfreighter",
+                            "upgrades": {
+                                "sensor": [
+                                    "firecontrolsystem"
+                                ],
+                                "turret": [
+                                    "ioncannonturret"
+                                ]
+                            }
+                        },
+                        {
+                            "id": "esegetuketu",
+                            "points": 64,
+                            "ship": "btls8kwing",
+                            "upgrades": {
+                                "crew": [
+                                    "perceptivecopilot"
+                                ],
+                                "gunner": [
+                                    "hotshotgunner"
+                                ],
+                                "missile": [
+                                    "homingmissiles"
+                                ]
+                            }
+                        },
+                        {
+                            "id": "sabinewren-tielnfighter",
+                            "points": 29,
+                            "ship": "tielnfighter"
+                        },
+                        {
+                            "id": "ap5",
+                            "points": 32,
+                            "ship": "sheathipedeclassshuttle"
+                        }
+                    ],
+                    "points": 199,
+                    "vendor": {
+                        "yasb": {
+                            "builder": "(Yet Another) X-Wing Miniatures Squad Builder",
+                            "builder_url": "https://raithos.github.io",
+                            "link": "https://raithos.github.io/?f=Rebel%20Alliance&d=v8ZsZ200Z64XW113W138WWWWWY18XW100WW86W54WWWY13XWY72XWWWW&sn=Howard%20Benensky%20JTO&obs="
+                        }
+                    },
+                    "version": "2.0.0"
+                },
+                "mov": "0",
+                "name": "Howard Benensky",
+                "rank": {
+                    "elimination": null,
+                    "swiss": "186"
                 },
                 "score": "0",
                 "sos": "0.00"
@@ -12898,7 +13282,7 @@
                 "name": "Hunter Borys",
                 "rank": {
                     "elimination": null,
-                    "swiss": "184"
+                    "swiss": "187"
                 },
                 "score": "0",
                 "sos": "0.00"
@@ -12959,7 +13343,7 @@
                 "name": "Ian Becker",
                 "rank": {
                     "elimination": null,
-                    "swiss": "185"
+                    "swiss": "188"
                 },
                 "score": "0",
                 "sos": "0.00"
@@ -13040,7 +13424,7 @@
                 "name": "Ian Campbell",
                 "rank": {
                     "elimination": null,
-                    "swiss": "186"
+                    "swiss": "189"
                 },
                 "score": "0",
                 "sos": "0.00"
@@ -13115,7 +13499,7 @@
                 "name": "isaiah brody",
                 "rank": {
                     "elimination": null,
-                    "swiss": "187"
+                    "swiss": "190"
                 },
                 "score": "0",
                 "sos": "0.00"
@@ -13193,7 +13577,7 @@
                 "name": "J Witherspoon",
                 "rank": {
                     "elimination": null,
-                    "swiss": "188"
+                    "swiss": "191"
                 },
                 "score": "0",
                 "sos": "0.00"
@@ -13276,7 +13660,7 @@
                 "name": "Jacob Donahue",
                 "rank": {
                     "elimination": null,
-                    "swiss": "189"
+                    "swiss": "192"
                 },
                 "score": "0",
                 "sos": "0.00"
@@ -13356,7 +13740,7 @@
                 "name": "jamaicanlumberjack",
                 "rank": {
                     "elimination": null,
-                    "swiss": "190"
+                    "swiss": "193"
                 },
                 "score": "0",
                 "sos": "0.00"
@@ -13434,7 +13818,7 @@
                 "name": "Jamal Ahmad",
                 "rank": {
                     "elimination": null,
-                    "swiss": "191"
+                    "swiss": "194"
                 },
                 "score": "0",
                 "sos": "0.00"
@@ -13509,7 +13893,7 @@
                 "name": "James Carman",
                 "rank": {
                     "elimination": null,
-                    "swiss": "192"
+                    "swiss": "195"
                 },
                 "score": "0",
                 "sos": "0.00"
@@ -13579,7 +13963,7 @@
                 "name": "James harton",
                 "rank": {
                     "elimination": null,
-                    "swiss": "193"
+                    "swiss": "196"
                 },
                 "score": "0",
                 "sos": "0.00"
@@ -13649,7 +14033,7 @@
                 "name": "James O'Donoghue",
                 "rank": {
                     "elimination": null,
-                    "swiss": "194"
+                    "swiss": "197"
                 },
                 "score": "0",
                 "sos": "0.00"
@@ -13713,7 +14097,7 @@
                 "name": "James Ritter",
                 "rank": {
                     "elimination": null,
-                    "swiss": "195"
+                    "swiss": "198"
                 },
                 "score": "0",
                 "sos": "0.00"
@@ -13772,7 +14156,7 @@
                 "name": "Jamie Bruce",
                 "rank": {
                     "elimination": null,
-                    "swiss": "196"
+                    "swiss": "199"
                 },
                 "score": "0",
                 "sos": "0.00"
@@ -13866,7 +14250,7 @@
                 "name": "Jan Ullerup",
                 "rank": {
                     "elimination": null,
-                    "swiss": "197"
+                    "swiss": "200"
                 },
                 "score": "0",
                 "sos": "0.00"
@@ -13966,7 +14350,7 @@
                 "name": "Jared Becker",
                 "rank": {
                     "elimination": null,
-                    "swiss": "198"
+                    "swiss": "201"
                 },
                 "score": "0",
                 "sos": "0.00"
@@ -14038,7 +14422,7 @@
                 "name": "Jared M. Paul",
                 "rank": {
                     "elimination": null,
-                    "swiss": "199"
+                    "swiss": "202"
                 },
                 "score": "0",
                 "sos": "0.00"
@@ -14106,7 +14490,7 @@
                 "name": "Jared Mackert",
                 "rank": {
                     "elimination": null,
-                    "swiss": "200"
+                    "swiss": "203"
                 },
                 "score": "0",
                 "sos": "0.00"
@@ -14184,7 +14568,7 @@
                 "name": "Jared Schwarze",
                 "rank": {
                     "elimination": null,
-                    "swiss": "201"
+                    "swiss": "204"
                 },
                 "score": "0",
                 "sos": "0.00"
@@ -14274,7 +14658,7 @@
                 "name": "Jari-Matti Hannula",
                 "rank": {
                     "elimination": null,
-                    "swiss": "202"
+                    "swiss": "205"
                 },
                 "score": "0",
                 "sos": "0.00"
@@ -14351,7 +14735,7 @@
                 "name": "Jarrad Healy",
                 "rank": {
                     "elimination": null,
-                    "swiss": "203"
+                    "swiss": "206"
                 },
                 "score": "0",
                 "sos": "0.00"
@@ -14420,7 +14804,7 @@
                 "name": "Jason Hall",
                 "rank": {
                     "elimination": null,
-                    "swiss": "204"
+                    "swiss": "207"
                 },
                 "score": "0",
                 "sos": "0.00"
@@ -14487,7 +14871,7 @@
                 "name": "Jason Lao",
                 "rank": {
                     "elimination": null,
-                    "swiss": "205"
+                    "swiss": "208"
                 },
                 "score": "0",
                 "sos": "0.00"
@@ -14557,19 +14941,84 @@
                 "name": "Jason Pint",
                 "rank": {
                     "elimination": null,
-                    "swiss": "206"
+                    "swiss": "209"
                 },
                 "score": "0",
                 "sos": "0.00"
             },
             {
                 "email": "",
-                "list": "",
+                "list": {
+                    "faction": "firstorder",
+                    "name": "Jason Seagram JTO",
+                    "obstacles": [
+                        "coreasteroid0",
+                        "vt49decimatordebris0",
+                        "gascloud1"
+                    ],
+                    "pilots": [
+                        {
+                            "id": "holo",
+                            "points": 59,
+                            "ship": "tiebainterceptor",
+                            "upgrades": {
+                                "modification": [
+                                    "angleddeflectors"
+                                ],
+                                "talent": [
+                                    "proudtradition"
+                                ]
+                            }
+                        },
+                        {
+                            "id": "firstorderprovocateur",
+                            "points": 46,
+                            "ship": "tiebainterceptor",
+                            "upgrades": {
+                                "modification": [
+                                    "delayedfuses"
+                                ]
+                            }
+                        },
+                        {
+                            "id": "quickdraw",
+                            "points": 58,
+                            "ship": "tiesffighter",
+                            "upgrades": {
+                                "gunner": [
+                                    "specialforcesgunner"
+                                ],
+                                "sensor": [
+                                    "passivesensors"
+                                ]
+                            }
+                        },
+                        {
+                            "id": "zetasquadronsurvivor",
+                            "points": 37,
+                            "ship": "tiesffighter",
+                            "upgrades": {
+                                "tech": [
+                                    "patternanalyzer"
+                                ]
+                            }
+                        }
+                    ],
+                    "points": 200,
+                    "vendor": {
+                        "yasb": {
+                            "builder": "(Yet Another) X-Wing Miniatures Squad Builder",
+                            "builder_url": "https://raithos.github.io",
+                            "link": "https://raithos.github.io/?f=First%20Order&d=v8ZsZ200Z382X319WWW247Y384XWWW236Y243XWWW182W240WY259X206WWWW&sn=Jason%20Seagram%20JTO&obs=coreasteroid0,vt49decimatordebris0,gascloud1"
+                        }
+                    },
+                    "version": "2.0.0"
+                },
                 "mov": "0",
-                "name": "JAWAs",
+                "name": "Jason Seagram",
                 "rank": {
                     "elimination": null,
-                    "swiss": "207"
+                    "swiss": "210"
                 },
                 "score": "0",
                 "sos": "0.00"
@@ -14644,7 +15093,7 @@
                 "name": "Jay Davis",
                 "rank": {
                     "elimination": null,
-                    "swiss": "208"
+                    "swiss": "211"
                 },
                 "score": "0",
                 "sos": "0.00"
@@ -14721,7 +15170,7 @@
                 "name": "J\u00fcrgen M.",
                 "rank": {
                     "elimination": null,
-                    "swiss": "209"
+                    "swiss": "212"
                 },
                 "score": "0",
                 "sos": "0.00"
@@ -14796,7 +15245,85 @@
                 "name": "JBark",
                 "rank": {
                     "elimination": null,
-                    "swiss": "210"
+                    "swiss": "213"
+                },
+                "score": "0",
+                "sos": "0.00"
+            },
+            {
+                "email": "",
+                "list": {
+                    "faction": "resistance",
+                    "name": "Jeff Borrowman JTO",
+                    "pilots": [
+                        {
+                            "id": "rosetico",
+                            "points": 31,
+                            "ship": "resistancetransportpod",
+                            "upgrades": {
+                                "modification": [
+                                    "targetingcomputer"
+                                ],
+                                "talent": [
+                                    "predator"
+                                ]
+                            }
+                        },
+                        {
+                            "id": "jaycristubbs",
+                            "points": 54,
+                            "ship": "t70xwing",
+                            "upgrades": {
+                                "configuration": [
+                                    "integratedsfoils"
+                                ],
+                                "tech": [
+                                    "targetingsynchronizer"
+                                ]
+                            }
+                        },
+                        {
+                            "id": "hansolo-scavengedyt1300",
+                            "points": 73,
+                            "ship": "scavengedyt1300",
+                            "upgrades": {
+                                "illicit": [
+                                    "contrabandcybernetics"
+                                ],
+                                "talent": [
+                                    "trickshot"
+                                ],
+                                "title": [
+                                    "reysmillenniumfalcon"
+                                ]
+                            }
+                        },
+                        {
+                            "id": "ronithblario",
+                            "points": 206,
+                            "ship": "rz2awing",
+                            "upgrades": {
+                                "tech": [
+                                    "primedthrusters"
+                                ]
+                            }
+                        }
+                    ],
+                    "points": 364,
+                    "vendor": {
+                        "yasb": {
+                            "builder": "(Yet Another) X-Wing Miniatures Squad Builder",
+                            "builder_url": "https://raithos.github.io",
+                            "link": "https://raithos.github.io/?f=Resistance&d=v8ZsZ200Z345X127WWW249Y255XWW175W177WWY245X133WWWWW92WW193Y388XWW178&sn=Jeff%20Borrowman%20JTO&obs="
+                        }
+                    },
+                    "version": "2.0.0"
+                },
+                "mov": "0",
+                "name": "Jeff Borrowman",
+                "rank": {
+                    "elimination": null,
+                    "swiss": "214"
                 },
                 "score": "0",
                 "sos": "0.00"
@@ -14885,7 +15412,7 @@
                 "name": "Jeff McClain",
                 "rank": {
                     "elimination": null,
-                    "swiss": "211"
+                    "swiss": "215"
                 },
                 "score": "0",
                 "sos": "0.00"
@@ -14960,7 +15487,7 @@
                 "name": "Jeff Wake",
                 "rank": {
                     "elimination": null,
-                    "swiss": "212"
+                    "swiss": "216"
                 },
                 "score": "0",
                 "sos": "0.00"
@@ -15032,7 +15559,7 @@
                 "name": "Jeff Wilder",
                 "rank": {
                     "elimination": null,
-                    "swiss": "213"
+                    "swiss": "217"
                 },
                 "score": "0",
                 "sos": "0.00"
@@ -15088,7 +15615,7 @@
                 "name": "Jeff Wilson",
                 "rank": {
                     "elimination": null,
-                    "swiss": "214"
+                    "swiss": "218"
                 },
                 "score": "0",
                 "sos": "0.00"
@@ -15168,7 +15695,7 @@
                 "name": "Jeremy Betsch",
                 "rank": {
                     "elimination": null,
-                    "swiss": "215"
+                    "swiss": "219"
                 },
                 "score": "0",
                 "sos": "0.00"
@@ -15240,7 +15767,7 @@
                 "name": "Jeremy Buck",
                 "rank": {
                     "elimination": null,
-                    "swiss": "216"
+                    "swiss": "220"
                 },
                 "score": "0",
                 "sos": "0.00"
@@ -15318,7 +15845,7 @@
                 "name": "Jeremy Wilson",
                 "rank": {
                     "elimination": null,
-                    "swiss": "217"
+                    "swiss": "221"
                 },
                 "score": "0",
                 "sos": "0.00"
@@ -15400,7 +15927,7 @@
                 "name": "JERRY HOULT",
                 "rank": {
                     "elimination": null,
-                    "swiss": "218"
+                    "swiss": "222"
                 },
                 "score": "0",
                 "sos": "0.00"
@@ -15480,7 +16007,7 @@
                 "name": "Jesse Choe",
                 "rank": {
                     "elimination": null,
-                    "swiss": "219"
+                    "swiss": "223"
                 },
                 "score": "0",
                 "sos": "0.00"
@@ -15547,7 +16074,7 @@
                 "name": "JF Gaudreau",
                 "rank": {
                     "elimination": null,
-                    "swiss": "220"
+                    "swiss": "224"
                 },
                 "score": "0",
                 "sos": "0.00"
@@ -15603,7 +16130,7 @@
                 "name": "JM (aka nutano)",
                 "rank": {
                     "elimination": null,
-                    "swiss": "221"
+                    "swiss": "225"
                 },
                 "score": "0",
                 "sos": "0.00"
@@ -15667,7 +16194,7 @@
                 "name": "Joe Congdon",
                 "rank": {
                     "elimination": null,
-                    "swiss": "222"
+                    "swiss": "226"
                 },
                 "score": "0",
                 "sos": "0.00"
@@ -15743,7 +16270,7 @@
                 "name": "Joe Detchemendy",
                 "rank": {
                     "elimination": null,
-                    "swiss": "223"
+                    "swiss": "227"
                 },
                 "score": "0",
                 "sos": "0.00"
@@ -15810,7 +16337,7 @@
                 "name": "Joe Vincent",
                 "rank": {
                     "elimination": null,
-                    "swiss": "224"
+                    "swiss": "228"
                 },
                 "score": "0",
                 "sos": "0.00"
@@ -15894,7 +16421,7 @@
                 "name": "Joel Killingsworth",
                 "rank": {
                     "elimination": null,
-                    "swiss": "225"
+                    "swiss": "229"
                 },
                 "score": "0",
                 "sos": "0.00"
@@ -15976,7 +16503,7 @@
                 "name": "Joel Springle",
                 "rank": {
                     "elimination": null,
-                    "swiss": "226"
+                    "swiss": "230"
                 },
                 "score": "0",
                 "sos": "0.00"
@@ -16053,7 +16580,7 @@
                 "name": "Joey Crespino",
                 "rank": {
                     "elimination": null,
-                    "swiss": "227"
+                    "swiss": "231"
                 },
                 "score": "0",
                 "sos": "0.00"
@@ -16134,7 +16661,7 @@
                 "name": "Johan Bisenius",
                 "rank": {
                     "elimination": null,
-                    "swiss": "228"
+                    "swiss": "232"
                 },
                 "score": "0",
                 "sos": "0.00"
@@ -16210,7 +16737,7 @@
                 "name": "John Gardner ",
                 "rank": {
                     "elimination": null,
-                    "swiss": "229"
+                    "swiss": "233"
                 },
                 "score": "0",
                 "sos": "0.00"
@@ -16284,7 +16811,7 @@
                 "name": "John McDermid",
                 "rank": {
                     "elimination": null,
-                    "swiss": "230"
+                    "swiss": "234"
                 },
                 "score": "0",
                 "sos": "0.00"
@@ -16355,7 +16882,7 @@
                 "name": "Johnn Crane",
                 "rank": {
                     "elimination": null,
-                    "swiss": "231"
+                    "swiss": "235"
                 },
                 "score": "0",
                 "sos": "0.00"
@@ -16441,7 +16968,7 @@
                 "name": "Jon Conley",
                 "rank": {
                     "elimination": null,
-                    "swiss": "232"
+                    "swiss": "236"
                 },
                 "score": "0",
                 "sos": "0.00"
@@ -16518,7 +17045,7 @@
                 "name": "Jon Feucht",
                 "rank": {
                     "elimination": null,
-                    "swiss": "233"
+                    "swiss": "237"
                 },
                 "score": "0",
                 "sos": "0.00"
@@ -16583,7 +17110,7 @@
                 "name": "Jonas Malapas",
                 "rank": {
                     "elimination": null,
-                    "swiss": "234"
+                    "swiss": "238"
                 },
                 "score": "0",
                 "sos": "0.00"
@@ -16654,7 +17181,7 @@
                 "name": "Jonathan Beattie",
                 "rank": {
                     "elimination": null,
-                    "swiss": "235"
+                    "swiss": "239"
                 },
                 "score": "0",
                 "sos": "0.00"
@@ -16723,7 +17250,7 @@
                 "name": "Jonathan Giron",
                 "rank": {
                     "elimination": null,
-                    "swiss": "236"
+                    "swiss": "240"
                 },
                 "score": "0",
                 "sos": "0.00"
@@ -16797,7 +17324,7 @@
                 "name": "Jonathan Goeres",
                 "rank": {
                     "elimination": null,
-                    "swiss": "237"
+                    "swiss": "241"
                 },
                 "score": "0",
                 "sos": "0.00"
@@ -16852,7 +17379,7 @@
                 "name": "Jonathan McKinstray",
                 "rank": {
                     "elimination": null,
-                    "swiss": "238"
+                    "swiss": "242"
                 },
                 "score": "0",
                 "sos": "0.00"
@@ -16916,7 +17443,7 @@
                 "name": "Jonathan VanSickle",
                 "rank": {
                     "elimination": null,
-                    "swiss": "239"
+                    "swiss": "243"
                 },
                 "score": "0",
                 "sos": "0.00"
@@ -16977,7 +17504,7 @@
                 "name": "JonBabcock",
                 "rank": {
                     "elimination": null,
-                    "swiss": "240"
+                    "swiss": "244"
                 },
                 "score": "0",
                 "sos": "0.00"
@@ -17062,7 +17589,7 @@
                 "name": "Jordan Klein",
                 "rank": {
                     "elimination": null,
-                    "swiss": "241"
+                    "swiss": "245"
                 },
                 "score": "0",
                 "sos": "0.00"
@@ -17133,7 +17660,7 @@
                 "name": "Jorge Silva",
                 "rank": {
                     "elimination": null,
-                    "swiss": "242"
+                    "swiss": "246"
                 },
                 "score": "0",
                 "sos": "0.00"
@@ -17205,7 +17732,19 @@
                 "name": "Josef Riccio",
                 "rank": {
                     "elimination": null,
-                    "swiss": "243"
+                    "swiss": "247"
+                },
+                "score": "0",
+                "sos": "0.00"
+            },
+            {
+                "email": "",
+                "list": "",
+                "mov": "0",
+                "name": "Joseph Hegeman",
+                "rank": {
+                    "elimination": null,
+                    "swiss": "248"
                 },
                 "score": "0",
                 "sos": "0.00"
@@ -17276,7 +17815,7 @@
                 "name": "Josh Addington",
                 "rank": {
                     "elimination": null,
-                    "swiss": "244"
+                    "swiss": "249"
                 },
                 "score": "0",
                 "sos": "0.00"
@@ -17337,7 +17876,7 @@
                 "name": "Josh Benjamin",
                 "rank": {
                     "elimination": null,
-                    "swiss": "245"
+                    "swiss": "250"
                 },
                 "score": "0",
                 "sos": "0.00"
@@ -17349,7 +17888,7 @@
                 "name": "Josh Davis",
                 "rank": {
                     "elimination": null,
-                    "swiss": "246"
+                    "swiss": "251"
                 },
                 "score": "0",
                 "sos": "0.00"
@@ -17435,7 +17974,7 @@
                 "name": "Josh Dunne",
                 "rank": {
                     "elimination": null,
-                    "swiss": "247"
+                    "swiss": "252"
                 },
                 "score": "0",
                 "sos": "0.00"
@@ -17487,7 +18026,7 @@
                 "name": "Joshua Bray",
                 "rank": {
                     "elimination": null,
-                    "swiss": "248"
+                    "swiss": "253"
                 },
                 "score": "0",
                 "sos": "0.00"
@@ -17563,7 +18102,7 @@
                 "name": "Joshua Richardson",
                 "rank": {
                     "elimination": null,
-                    "swiss": "249"
+                    "swiss": "254"
                 },
                 "score": "0",
                 "sos": "0.00"
@@ -17617,7 +18156,7 @@
                 "name": "Jukequeline",
                 "rank": {
                     "elimination": null,
-                    "swiss": "250"
+                    "swiss": "255"
                 },
                 "score": "0",
                 "sos": "0.00"
@@ -17699,7 +18238,7 @@
                 "name": "Justin Brown",
                 "rank": {
                     "elimination": null,
-                    "swiss": "251"
+                    "swiss": "256"
                 },
                 "score": "0",
                 "sos": "0.00"
@@ -17783,7 +18322,7 @@
                 "name": "Justin Timmons",
                 "rank": {
                     "elimination": null,
-                    "swiss": "252"
+                    "swiss": "257"
                 },
                 "score": "0",
                 "sos": "0.00"
@@ -17857,7 +18396,7 @@
                 "name": "Katherine Cr",
                 "rank": {
                     "elimination": null,
-                    "swiss": "253"
+                    "swiss": "258"
                 },
                 "score": "0",
                 "sos": "0.00"
@@ -17913,7 +18452,7 @@
                 "name": "Keith Wong",
                 "rank": {
                     "elimination": null,
-                    "swiss": "254"
+                    "swiss": "259"
                 },
                 "score": "0",
                 "sos": "0.00"
@@ -17972,7 +18511,7 @@
                 "name": "Ken Cho",
                 "rank": {
                     "elimination": null,
-                    "swiss": "255"
+                    "swiss": "260"
                 },
                 "score": "0",
                 "sos": "0.00"
@@ -18065,7 +18604,7 @@
                 "name": "Kenneth Scher",
                 "rank": {
                     "elimination": null,
-                    "swiss": "256"
+                    "swiss": "261"
                 },
                 "score": "0",
                 "sos": "0.00"
@@ -18130,7 +18669,7 @@
                 "name": "Kenny Turner",
                 "rank": {
                     "elimination": null,
-                    "swiss": "257"
+                    "swiss": "262"
                 },
                 "score": "0",
                 "sos": "0.00"
@@ -18192,7 +18731,7 @@
                 "name": "Kettch",
                 "rank": {
                     "elimination": null,
-                    "swiss": "258"
+                    "swiss": "263"
                 },
                 "score": "0",
                 "sos": "0.00"
@@ -18267,7 +18806,7 @@
                 "name": "Kevin",
                 "rank": {
                     "elimination": null,
-                    "swiss": "259"
+                    "swiss": "264"
                 },
                 "score": "0",
                 "sos": "0.00"
@@ -18345,7 +18884,7 @@
                 "name": "Kevin Brimage",
                 "rank": {
                     "elimination": null,
-                    "swiss": "260"
+                    "swiss": "265"
                 },
                 "score": "0",
                 "sos": "0.00"
@@ -18415,7 +18954,7 @@
                 "name": "Killerbeardhawk",
                 "rank": {
                     "elimination": null,
-                    "swiss": "261"
+                    "swiss": "266"
                 },
                 "score": "0",
                 "sos": "0.00"
@@ -18492,7 +19031,7 @@
                 "name": "Kimberly Colas",
                 "rank": {
                     "elimination": null,
-                    "swiss": "262"
+                    "swiss": "267"
                 },
                 "score": "0",
                 "sos": "0.00"
@@ -18570,7 +19109,7 @@
                 "name": "Kris Erickson",
                 "rank": {
                     "elimination": null,
-                    "swiss": "263"
+                    "swiss": "268"
                 },
                 "score": "0",
                 "sos": "0.00"
@@ -18654,7 +19193,7 @@
                 "name": "Kristoff Sote",
                 "rank": {
                     "elimination": null,
-                    "swiss": "264"
+                    "swiss": "269"
                 },
                 "score": "0",
                 "sos": "0.00"
@@ -18723,7 +19262,73 @@
                 "name": "Kyle blackman",
                 "rank": {
                     "elimination": null,
-                    "swiss": "265"
+                    "swiss": "270"
+                },
+                "score": "0",
+                "sos": "0.00"
+            },
+            {
+                "email": "",
+                "list": {
+                    "faction": "galacticrepublic",
+                    "name": "Kyle Fuller JTO",
+                    "obstacles": [
+                        "gascloud4",
+                        "gascloud5",
+                        "gascloud6"
+                    ],
+                    "pilots": [
+                        {
+                            "id": "obiwankenobi",
+                            "points": 52,
+                            "ship": "delta7aethersprite",
+                            "upgrades": {
+                                "configuration": [
+                                    "calibratedlasertargeting"
+                                ]
+                            }
+                        },
+                        {
+                            "id": "plokoon",
+                            "points": 44,
+                            "ship": "delta7aethersprite"
+                        },
+                        {
+                            "id": "axe",
+                            "points": 35,
+                            "ship": "v19torrentstarfighter",
+                            "upgrades": {
+                                "talent": [
+                                    "swarmtactics"
+                                ]
+                            }
+                        },
+                        {
+                            "id": "anakinskywalker-btlbywing",
+                            "points": 69,
+                            "ship": "btlbywing",
+                            "upgrades": {
+                                "torpedo": [
+                                    "plasmatorpedoes"
+                                ]
+                            }
+                        }
+                    ],
+                    "points": 200,
+                    "vendor": {
+                        "yasb": {
+                            "builder": "(Yet Another) X-Wing Miniatures Squad Builder",
+                            "builder_url": "https://raithos.github.io",
+                            "link": "https://raithos.github.io/?f=Galactic%20Republic&d=v8ZsZ200Z278XWW200WY312XWWWY318X132WWY359XWW234WWWW&sn=Kyle%20Fuller%20JTO&obs=gascloud4,gascloud5,gascloud6"
+                        }
+                    },
+                    "version": "2.0.0"
+                },
+                "mov": "0",
+                "name": "Kyle Fuller ",
+                "rank": {
+                    "elimination": null,
+                    "swiss": "271"
                 },
                 "score": "0",
                 "sos": "0.00"
@@ -18795,7 +19400,7 @@
                 "name": "Kyle Kenyon",
                 "rank": {
                     "elimination": null,
-                    "swiss": "266"
+                    "swiss": "272"
                 },
                 "score": "0",
                 "sos": "0.00"
@@ -18854,7 +19459,7 @@
                 "name": "Kyle Meidell",
                 "rank": {
                     "elimination": null,
-                    "swiss": "267"
+                    "swiss": "273"
                 },
                 "score": "0",
                 "sos": "0.00"
@@ -18921,7 +19526,7 @@
                 "name": "Lachlan Moore",
                 "rank": {
                     "elimination": null,
-                    "swiss": "268"
+                    "swiss": "274"
                 },
                 "score": "0",
                 "sos": "0.00"
@@ -18990,7 +19595,7 @@
                 "name": "Lee Holland",
                 "rank": {
                     "elimination": null,
-                    "swiss": "269"
+                    "swiss": "275"
                 },
                 "score": "0",
                 "sos": "0.00"
@@ -19071,7 +19676,7 @@
                 "name": "Leif Tangstad ",
                 "rank": {
                     "elimination": null,
-                    "swiss": "270"
+                    "swiss": "276"
                 },
                 "score": "0",
                 "sos": "0.00"
@@ -19145,7 +19750,7 @@
                 "name": "Liam Lee",
                 "rank": {
                     "elimination": null,
-                    "swiss": "271"
+                    "swiss": "277"
                 },
                 "score": "0",
                 "sos": "0.00"
@@ -19223,7 +19828,7 @@
                 "name": "Lionel JOURDAN",
                 "rank": {
                     "elimination": null,
-                    "swiss": "272"
+                    "swiss": "278"
                 },
                 "score": "0",
                 "sos": "0.00"
@@ -19235,7 +19840,7 @@
                 "name": "Liritar5203",
                 "rank": {
                     "elimination": null,
-                    "swiss": "273"
+                    "swiss": "279"
                 },
                 "score": "0",
                 "sos": "0.00"
@@ -19305,7 +19910,7 @@
                 "name": "Looryl \"Louie\" Qrygg",
                 "rank": {
                     "elimination": null,
-                    "swiss": "274"
+                    "swiss": "280"
                 },
                 "score": "0",
                 "sos": "0.00"
@@ -19382,7 +19987,7 @@
                 "name": "Luc Girod",
                 "rank": {
                     "elimination": null,
-                    "swiss": "275"
+                    "swiss": "281"
                 },
                 "score": "0",
                 "sos": "0.00"
@@ -19451,7 +20056,7 @@
                 "name": "Luke  Wilkie ",
                 "rank": {
                     "elimination": null,
-                    "swiss": "276"
+                    "swiss": "282"
                 },
                 "score": "0",
                 "sos": "0.00"
@@ -19524,7 +20129,7 @@
                 "name": "Luke Carrington",
                 "rank": {
                     "elimination": null,
-                    "swiss": "277"
+                    "swiss": "283"
                 },
                 "score": "0",
                 "sos": "0.00"
@@ -19588,7 +20193,7 @@
                 "name": "Luke Paulson",
                 "rank": {
                     "elimination": null,
-                    "swiss": "278"
+                    "swiss": "284"
                 },
                 "score": "0",
                 "sos": "0.00"
@@ -19677,7 +20282,7 @@
                 "name": "Luke Sunol",
                 "rank": {
                     "elimination": null,
-                    "swiss": "279"
+                    "swiss": "285"
                 },
                 "score": "0",
                 "sos": "0.00"
@@ -19755,7 +20360,7 @@
                 "name": "Luke Thompson",
                 "rank": {
                     "elimination": null,
-                    "swiss": "280"
+                    "swiss": "286"
                 },
                 "score": "0",
                 "sos": "0.00"
@@ -19837,7 +20442,7 @@
                 "name": "Lysander Lysandrou",
                 "rank": {
                     "elimination": null,
-                    "swiss": "281"
+                    "swiss": "287"
                 },
                 "score": "0",
                 "sos": "0.00"
@@ -19893,7 +20498,7 @@
                 "name": "mad_chemist",
                 "rank": {
                     "elimination": null,
-                    "swiss": "282"
+                    "swiss": "288"
                 },
                 "score": "0",
                 "sos": "0.00"
@@ -19957,7 +20562,7 @@
                 "name": "Magne Gudmundsen",
                 "rank": {
                     "elimination": null,
-                    "swiss": "283"
+                    "swiss": "289"
                 },
                 "score": "0",
                 "sos": "0.00"
@@ -20036,7 +20641,7 @@
                 "name": "Malloc",
                 "rank": {
                     "elimination": null,
-                    "swiss": "284"
+                    "swiss": "290"
                 },
                 "score": "0",
                 "sos": "0.00"
@@ -20110,7 +20715,7 @@
                 "name": "Marc de Bruyn",
                 "rank": {
                     "elimination": null,
-                    "swiss": "285"
+                    "swiss": "291"
                 },
                 "score": "0",
                 "sos": "0.00"
@@ -20179,7 +20784,7 @@
                 "name": "Marc McIntyre",
                 "rank": {
                     "elimination": null,
-                    "swiss": "286"
+                    "swiss": "292"
                 },
                 "score": "0",
                 "sos": "0.00"
@@ -20252,19 +20857,81 @@
                 "name": "Marc Rider",
                 "rank": {
                     "elimination": null,
-                    "swiss": "287"
+                    "swiss": "293"
                 },
                 "score": "0",
                 "sos": "0.00"
             },
             {
                 "email": "",
-                "list": "",
+                "list": {
+                    "faction": "scumandvillainy",
+                    "name": "Marcel Manzano JTO",
+                    "obstacles": [
+                        "gascloud4",
+                        "gascloud5",
+                        "gascloud6"
+                    ],
+                    "pilots": [
+                        {
+                            "id": "dacebonearm",
+                            "points": 45,
+                            "ship": "hwk290lightfreighter",
+                            "upgrades": {
+                                "modification": [
+                                    "hullupgrade",
+                                    "electronicbaffle"
+                                ],
+                                "talent": [
+                                    "lonewolf"
+                                ]
+                            }
+                        },
+                        {
+                            "id": "toranikulda",
+                            "points": 48,
+                            "ship": "m12lkimogilafighter"
+                        },
+                        {
+                            "id": "palobgodalhi",
+                            "points": 46,
+                            "ship": "hwk290lightfreighter",
+                            "upgrades": {
+                                "modification": [
+                                    "hullupgrade",
+                                    "delayedfuses"
+                                ]
+                            }
+                        },
+                        {
+                            "id": "manaroo",
+                            "points": 60,
+                            "ship": "jumpmaster5000",
+                            "upgrades": {
+                                "cannon": [
+                                    "ioncannon"
+                                ],
+                                "torpedo": [
+                                    "plasmatorpedoes"
+                                ]
+                            }
+                        }
+                    ],
+                    "points": 199,
+                    "vendor": {
+                        "yasb": {
+                            "builder": "(Yet Another) X-Wing Miniatures Squad Builder",
+                            "builder_url": "https://raithos.github.io",
+                            "link": "https://raithos.github.io/?f=Scum%20and%20Villainy&d=v8ZsZ200Z113X124WWWW164W106WY129XWWWWWY112XWWWW164W236WY117XW234W11WWWWW&sn=Marcel%20Manzano%20JTO&obs=gascloud4,gascloud5,gascloud6"
+                        }
+                    },
+                    "version": "2.0.0"
+                },
                 "mov": "0",
                 "name": "Marcel Manzano",
                 "rank": {
                     "elimination": null,
-                    "swiss": "288"
+                    "swiss": "294"
                 },
                 "score": "0",
                 "sos": "0.00"
@@ -20346,7 +21013,7 @@
                 "name": "Marco de Scordilli",
                 "rank": {
                     "elimination": null,
-                    "swiss": "289"
+                    "swiss": "295"
                 },
                 "score": "0",
                 "sos": "0.00"
@@ -20428,7 +21095,7 @@
                 "name": "Marco Tocchi",
                 "rank": {
                     "elimination": null,
-                    "swiss": "290"
+                    "swiss": "296"
                 },
                 "score": "0",
                 "sos": "0.00"
@@ -20504,7 +21171,7 @@
                 "name": "Marek Marcinkiewicz",
                 "rank": {
                     "elimination": null,
-                    "swiss": "291"
+                    "swiss": "297"
                 },
                 "score": "0",
                 "sos": "0.00"
@@ -20580,19 +21247,90 @@
                 "name": "Mark Argente",
                 "rank": {
                     "elimination": null,
-                    "swiss": "292"
+                    "swiss": "298"
                 },
                 "score": "0",
                 "sos": "0.00"
             },
             {
                 "email": "",
-                "list": "",
+                "list": {
+                    "description": "",
+                    "faction": "scumandvillainy",
+                    "name": "Mark Johnson JTO",
+                    "obstacles": [
+                        "coreasteroid5",
+                        "core2asteroid4",
+                        "core2asteroid5"
+                    ],
+                    "pilots": [
+                        {
+                            "id": "g4rgorvm",
+                            "name": "g4rgorvm",
+                            "points": 28,
+                            "ship": "m3ainterceptor"
+                        },
+                        {
+                            "id": "ig88a",
+                            "name": "ig88a",
+                            "points": 72,
+                            "ship": "aggressorassaultfighter",
+                            "upgrades": {
+                                "cannon": [
+                                    "jammingbeam"
+                                ],
+                                "illicit": [
+                                    "riggedcargochute"
+                                ],
+                                "title": [
+                                    "ig2000"
+                                ]
+                            }
+                        },
+                        {
+                            "id": "kaatoleeachos",
+                            "name": "kaatoleeachos",
+                            "points": 30,
+                            "ship": "z95af4headhunter",
+                            "upgrades": {
+                                "talent": [
+                                    "elusive"
+                                ]
+                            }
+                        },
+                        {
+                            "id": "ahhav",
+                            "name": "ahhav",
+                            "points": 30,
+                            "ship": "modifiedtielnfighter"
+                        },
+                        {
+                            "id": "dacebonearm",
+                            "name": "dacebonearm",
+                            "points": 36,
+                            "ship": "hwk290lightfreighter",
+                            "upgrades": {
+                                "crew": [
+                                    "ig88d"
+                                ]
+                            }
+                        }
+                    ],
+                    "points": 196,
+                    "vendor": {
+                        "yasb": {
+                            "builder": "Yet Another Squad Builder 2.0",
+                            "builder_url": "https://raithos.github.io/",
+                            "link": "https://raithos.github.io/?f=Scum%20and%20Villainy&d=v8ZsZ200Z399XWY81XWW12WWW96WW151Y157X119WWWY249XWY113XW36WWWWW&sn=Mark%20Johnson%20JTO&obs=coreasteroid5,core2asteroid4,core2asteroid5"
+                        }
+                    },
+                    "version": "2.0.0"
+                },
                 "mov": "0",
                 "name": "Mark Johnson",
                 "rank": {
                     "elimination": null,
-                    "swiss": "293"
+                    "swiss": "299"
                 },
                 "score": "0",
                 "sos": "0.00"
@@ -20675,7 +21413,7 @@
                 "name": "Mark Sandey",
                 "rank": {
                     "elimination": null,
-                    "swiss": "294"
+                    "swiss": "300"
                 },
                 "score": "0",
                 "sos": "0.00"
@@ -20761,7 +21499,7 @@
                 "name": "MarkGrawburg",
                 "rank": {
                     "elimination": null,
-                    "swiss": "295"
+                    "swiss": "301"
                 },
                 "score": "0",
                 "sos": "0.00"
@@ -20838,7 +21576,7 @@
                 "name": "Martyn Chivers",
                 "rank": {
                     "elimination": null,
-                    "swiss": "296"
+                    "swiss": "302"
                 },
                 "score": "0",
                 "sos": "0.00"
@@ -20900,7 +21638,7 @@
                 "name": "Mathieu SALGADO",
                 "rank": {
                     "elimination": null,
-                    "swiss": "297"
+                    "swiss": "303"
                 },
                 "score": "0",
                 "sos": "0.00"
@@ -20969,7 +21707,7 @@
                 "name": "Mats Jonsson",
                 "rank": {
                     "elimination": null,
-                    "swiss": "298"
+                    "swiss": "304"
                 },
                 "score": "0",
                 "sos": "0.00"
@@ -21028,7 +21766,7 @@
                 "name": "Matt Can",
                 "rank": {
                     "elimination": null,
-                    "swiss": "299"
+                    "swiss": "305"
                 },
                 "score": "0",
                 "sos": "0.00"
@@ -21117,7 +21855,7 @@
                 "name": "Matt Latall",
                 "rank": {
                     "elimination": null,
-                    "swiss": "300"
+                    "swiss": "306"
                 },
                 "score": "0",
                 "sos": "0.00"
@@ -21194,7 +21932,7 @@
                 "name": "Matt McAllister ",
                 "rank": {
                     "elimination": null,
-                    "swiss": "301"
+                    "swiss": "307"
                 },
                 "score": "0",
                 "sos": "0.00"
@@ -21272,7 +22010,7 @@
                 "name": "Matt Nute",
                 "rank": {
                     "elimination": null,
-                    "swiss": "302"
+                    "swiss": "308"
                 },
                 "score": "0",
                 "sos": "0.00"
@@ -21369,7 +22107,7 @@
                 "name": "Matt Petit",
                 "rank": {
                     "elimination": null,
-                    "swiss": "303"
+                    "swiss": "309"
                 },
                 "score": "0",
                 "sos": "0.00"
@@ -21435,7 +22173,7 @@
                 "name": "Matt Stief",
                 "rank": {
                     "elimination": null,
-                    "swiss": "304"
+                    "swiss": "310"
                 },
                 "score": "0",
                 "sos": "0.00"
@@ -21502,7 +22240,7 @@
                 "name": "MattCourser",
                 "rank": {
                     "elimination": null,
-                    "swiss": "305"
+                    "swiss": "311"
                 },
                 "score": "0",
                 "sos": "0.00"
@@ -21582,7 +22320,7 @@
                 "name": "Matthew Coggins",
                 "rank": {
                     "elimination": null,
-                    "swiss": "306"
+                    "swiss": "312"
                 },
                 "score": "0",
                 "sos": "0.00"
@@ -21656,7 +22394,7 @@
                 "name": "Matthew Deering",
                 "rank": {
                     "elimination": null,
-                    "swiss": "307"
+                    "swiss": "313"
                 },
                 "score": "0",
                 "sos": "0.00"
@@ -21737,7 +22475,7 @@
                 "name": "Matthew Kreiner",
                 "rank": {
                     "elimination": null,
-                    "swiss": "308"
+                    "swiss": "314"
                 },
                 "score": "0",
                 "sos": "0.00"
@@ -21826,7 +22564,7 @@
                 "name": "Matthew LeCLair",
                 "rank": {
                     "elimination": null,
-                    "swiss": "309"
+                    "swiss": "315"
                 },
                 "score": "0",
                 "sos": "0.00"
@@ -21906,7 +22644,7 @@
                 "name": "Matthew Tracy",
                 "rank": {
                     "elimination": null,
-                    "swiss": "310"
+                    "swiss": "316"
                 },
                 "score": "0",
                 "sos": "0.00"
@@ -21975,7 +22713,7 @@
                 "name": "Maxime \"Maxx\" Clergue",
                 "rank": {
                     "elimination": null,
-                    "swiss": "311"
+                    "swiss": "317"
                 },
                 "score": "0",
                 "sos": "0.00"
@@ -22059,7 +22797,7 @@
                 "name": "Merrick Kemp",
                 "rank": {
                     "elimination": null,
-                    "swiss": "312"
+                    "swiss": "318"
                 },
                 "score": "0",
                 "sos": "0.00"
@@ -22139,7 +22877,7 @@
                 "name": "Micha\u00ebl Juneau",
                 "rank": {
                     "elimination": null,
-                    "swiss": "313"
+                    "swiss": "319"
                 },
                 "score": "0",
                 "sos": "0.00"
@@ -22225,7 +22963,7 @@
                 "name": "Micha\u0142 Lewandowski",
                 "rank": {
                     "elimination": null,
-                    "swiss": "314"
+                    "swiss": "320"
                 },
                 "score": "0",
                 "sos": "0.00"
@@ -22294,7 +23032,7 @@
                 "name": "Michael Frochaux",
                 "rank": {
                     "elimination": null,
-                    "swiss": "315"
+                    "swiss": "321"
                 },
                 "score": "0",
                 "sos": "0.00"
@@ -22379,7 +23117,7 @@
                 "name": "Michael King",
                 "rank": {
                     "elimination": null,
-                    "swiss": "316"
+                    "swiss": "322"
                 },
                 "score": "0",
                 "sos": "0.00"
@@ -22449,7 +23187,7 @@
                 "name": "Michael Langley",
                 "rank": {
                     "elimination": null,
-                    "swiss": "317"
+                    "swiss": "323"
                 },
                 "score": "0",
                 "sos": "0.00"
@@ -22529,7 +23267,7 @@
                 "name": "Michael Thiel",
                 "rank": {
                     "elimination": null,
-                    "swiss": "318"
+                    "swiss": "324"
                 },
                 "score": "0",
                 "sos": "0.00"
@@ -22590,7 +23328,7 @@
                 "name": "Micheal Wells",
                 "rank": {
                     "elimination": null,
-                    "swiss": "319"
+                    "swiss": "325"
                 },
                 "score": "0",
                 "sos": "0.00"
@@ -22660,7 +23398,7 @@
                 "name": "Miguel JUstiniano",
                 "rank": {
                     "elimination": null,
-                    "swiss": "320"
+                    "swiss": "326"
                 },
                 "score": "0",
                 "sos": "0.00"
@@ -22752,7 +23490,7 @@
                 "name": "Mike Domino",
                 "rank": {
                     "elimination": null,
-                    "swiss": "321"
+                    "swiss": "327"
                 },
                 "score": "0",
                 "sos": "0.00"
@@ -22823,7 +23561,7 @@
                 "name": "Mike Maurer",
                 "rank": {
                     "elimination": null,
-                    "swiss": "322"
+                    "swiss": "328"
                 },
                 "score": "0",
                 "sos": "0.00"
@@ -22891,7 +23629,77 @@
                 "name": "Mike Spin",
                 "rank": {
                     "elimination": null,
-                    "swiss": "323"
+                    "swiss": "329"
+                },
+                "score": "0",
+                "sos": "0.00"
+            },
+            {
+                "email": "",
+                "list": {
+                    "faction": "rebelalliance",
+                    "name": "Michael Wnek JTO",
+                    "obstacles": [
+                        "core2asteroid0",
+                        "core2asteroid1",
+                        "core2asteroid2"
+                    ],
+                    "pilots": [
+                        {
+                            "id": "mirandadoni",
+                            "points": 67,
+                            "ship": "btls8kwing",
+                            "upgrades": {
+                                "device": [
+                                    "electroprotonbomb"
+                                ],
+                                "torpedo": [
+                                    "protontorpedoes"
+                                ]
+                            }
+                        },
+                        {
+                            "id": "knavesquadronescort",
+                            "points": 62,
+                            "ship": "ewing",
+                            "upgrades": {
+                                "astromech": [
+                                    "r3astromech"
+                                ],
+                                "modification": [
+                                    "hullupgrade"
+                                ],
+                                "sensor": [
+                                    "firecontrolsystem"
+                                ]
+                            }
+                        },
+                        {
+                            "id": "wullffwarro",
+                            "points": 68,
+                            "ship": "auzituckgunship",
+                            "upgrades": {
+                                "crew": [
+                                    "kananjarrus"
+                                ]
+                            }
+                        }
+                    ],
+                    "points": 197,
+                    "vendor": {
+                        "yasb": {
+                            "builder": "(Yet Another) X-Wing Miniatures Squad Builder",
+                            "builder_url": "https://raithos.github.io",
+                            "link": "https://raithos.github.io/?f=Rebel%20Alliance&d=v8ZsZ200Z17X136WWWWW235WWY24X113WW4W164Y58XWW41W&sn=Michael%20Wnek%20JTO&obs=core2asteroid0,core2asteroid1,core2asteroid2"
+                        }
+                    },
+                    "version": "2.0.0"
+                },
+                "mov": "0",
+                "name": "Mike Wnek",
+                "rank": {
+                    "elimination": null,
+                    "swiss": "330"
                 },
                 "score": "0",
                 "sos": "0.00"
@@ -22973,7 +23781,7 @@
                 "name": "MistbornJedi",
                 "rank": {
                     "elimination": null,
-                    "swiss": "324"
+                    "swiss": "331"
                 },
                 "score": "0",
                 "sos": "0.00"
@@ -23045,7 +23853,7 @@
                 "name": "Morgan Sanders",
                 "rank": {
                     "elimination": null,
-                    "swiss": "325"
+                    "swiss": "332"
                 },
                 "score": "0",
                 "sos": "0.00"
@@ -23115,7 +23923,7 @@
                 "name": "Mr. Al",
                 "rank": {
                     "elimination": null,
-                    "swiss": "326"
+                    "swiss": "333"
                 },
                 "score": "0",
                 "sos": "0.00"
@@ -23191,7 +23999,7 @@
                 "name": "Nate Handy",
                 "rank": {
                     "elimination": null,
-                    "swiss": "327"
+                    "swiss": "334"
                 },
                 "score": "0",
                 "sos": "0.00"
@@ -23258,7 +24066,7 @@
                 "name": "Nathan Long",
                 "rank": {
                     "elimination": null,
-                    "swiss": "328"
+                    "swiss": "335"
                 },
                 "score": "0",
                 "sos": "0.00"
@@ -23323,7 +24131,7 @@
                 "name": "Nathan Skelly",
                 "rank": {
                     "elimination": null,
-                    "swiss": "329"
+                    "swiss": "336"
                 },
                 "score": "0",
                 "sos": "0.00"
@@ -23405,7 +24213,7 @@
                 "name": "Nathan Willcock",
                 "rank": {
                     "elimination": null,
-                    "swiss": "330"
+                    "swiss": "337"
                 },
                 "score": "0",
                 "sos": "0.00"
@@ -23476,7 +24284,7 @@
                 "name": "Nathaniel Moore",
                 "rank": {
                     "elimination": null,
-                    "swiss": "331"
+                    "swiss": "338"
                 },
                 "score": "0",
                 "sos": "0.00"
@@ -23540,7 +24348,7 @@
                 "name": "Neal Duffy",
                 "rank": {
                     "elimination": null,
-                    "swiss": "332"
+                    "swiss": "339"
                 },
                 "score": "0",
                 "sos": "0.00"
@@ -23610,7 +24418,7 @@
                 "name": "Neil Photay",
                 "rank": {
                     "elimination": null,
-                    "swiss": "333"
+                    "swiss": "340"
                 },
                 "score": "0",
                 "sos": "0.00"
@@ -23694,7 +24502,7 @@
                 "name": "Nemes Bal\u00e1zs",
                 "rank": {
                     "elimination": null,
-                    "swiss": "334"
+                    "swiss": "341"
                 },
                 "score": "0",
                 "sos": "0.00"
@@ -23771,7 +24579,7 @@
                 "name": "Nic Harris",
                 "rank": {
                     "elimination": null,
-                    "swiss": "335"
+                    "swiss": "342"
                 },
                 "score": "0",
                 "sos": "0.00"
@@ -23835,7 +24643,7 @@
                 "name": "Nicholas Allard",
                 "rank": {
                     "elimination": null,
-                    "swiss": "336"
+                    "swiss": "343"
                 },
                 "score": "0",
                 "sos": "0.00"
@@ -23902,7 +24710,7 @@
                 "name": "Nicholas Miller",
                 "rank": {
                     "elimination": null,
-                    "swiss": "337"
+                    "swiss": "344"
                 },
                 "score": "0",
                 "sos": "0.00"
@@ -23996,7 +24804,7 @@
                 "name": "Nick \"oiseaux\" Rochow",
                 "rank": {
                     "elimination": null,
-                    "swiss": "338"
+                    "swiss": "345"
                 },
                 "score": "0",
                 "sos": "0.00"
@@ -24074,7 +24882,7 @@
                 "name": "Nick Aretakis",
                 "rank": {
                     "elimination": null,
-                    "swiss": "339"
+                    "swiss": "346"
                 },
                 "score": "0",
                 "sos": "0.00"
@@ -24149,7 +24957,7 @@
                 "name": "Nick Smith ",
                 "rank": {
                     "elimination": null,
-                    "swiss": "340"
+                    "swiss": "347"
                 },
                 "score": "0",
                 "sos": "0.00"
@@ -24203,7 +25011,7 @@
                 "name": "Nick Worsley",
                 "rank": {
                     "elimination": null,
-                    "swiss": "341"
+                    "swiss": "348"
                 },
                 "score": "0",
                 "sos": "0.00"
@@ -24287,7 +25095,7 @@
                 "name": "Niklas God",
                 "rank": {
                     "elimination": null,
-                    "swiss": "342"
+                    "swiss": "349"
                 },
                 "score": "0",
                 "sos": "0.00"
@@ -24353,7 +25161,7 @@
                 "name": "No Pickles",
                 "rank": {
                     "elimination": null,
-                    "swiss": "343"
+                    "swiss": "350"
                 },
                 "score": "0",
                 "sos": "0.00"
@@ -24422,7 +25230,77 @@
                 "name": "Noah Hallett",
                 "rank": {
                     "elimination": null,
-                    "swiss": "344"
+                    "swiss": "351"
+                },
+                "score": "0",
+                "sos": "0.00"
+            },
+            {
+                "email": "",
+                "list": {
+                    "faction": "firstorder",
+                    "name": "Noah Routhier JTO",
+                    "obstacles": [
+                        "yt2400debris0",
+                        "yt2400debris1",
+                        "gascloud5"
+                    ],
+                    "pilots": [
+                        {
+                            "id": "firstorderprovocateur",
+                            "points": 59,
+                            "ship": "tiebainterceptor",
+                            "upgrades": {
+                                "missile": [
+                                    "clustermissiles"
+                                ],
+                                "tech": [
+                                    "deuteriumpowercells"
+                                ]
+                            }
+                        },
+                        {
+                            "id": "holo",
+                            "points": 59,
+                            "ship": "tiebainterceptor",
+                            "upgrades": {
+                                "talent": [
+                                    "swarmtactics"
+                                ],
+                                "tech": [
+                                    "biohexacryptcodes"
+                                ]
+                            }
+                        },
+                        {
+                            "id": "blackout",
+                            "points": 78,
+                            "ship": "tievnsilencer",
+                            "upgrades": {
+                                "talent": [
+                                    "outmaneuver"
+                                ],
+                                "tech": [
+                                    "primedthrusters"
+                                ]
+                            }
+                        }
+                    ],
+                    "points": 196,
+                    "vendor": {
+                        "yasb": {
+                            "builder": "(Yet Another) X-Wing Miniatures Squad Builder",
+                            "builder_url": "https://raithos.github.io",
+                            "link": "https://raithos.github.io/?f=First%20Order&d=v8ZsZ200Z384XW318W98WY382X132W202WWY237X126W178WW&sn=Noah%20Routhier%20JTO&obs=yt2400debris0,yt2400debris1,gascloud5"
+                        }
+                    },
+                    "version": "2.0.0"
+                },
+                "mov": "0",
+                "name": "Noah Routhier",
+                "rank": {
+                    "elimination": null,
+                    "swiss": "352"
                 },
                 "score": "0",
                 "sos": "0.00"
@@ -24502,7 +25380,7 @@
                 "name": "Nobbie",
                 "rank": {
                     "elimination": null,
-                    "swiss": "345"
+                    "swiss": "353"
                 },
                 "score": "0",
                 "sos": "0.00"
@@ -24567,7 +25445,7 @@
                 "name": "Not MHolland",
                 "rank": {
                     "elimination": null,
-                    "swiss": "346"
+                    "swiss": "354"
                 },
                 "score": "0",
                 "sos": "0.00"
@@ -24632,7 +25510,7 @@
                 "name": "Old Jester",
                 "rank": {
                     "elimination": null,
-                    "swiss": "347"
+                    "swiss": "355"
                 },
                 "score": "0",
                 "sos": "0.00"
@@ -24698,7 +25576,7 @@
                 "name": "Patrick Hanson",
                 "rank": {
                     "elimination": null,
-                    "swiss": "348"
+                    "swiss": "356"
                 },
                 "score": "0",
                 "sos": "0.00"
@@ -24787,7 +25665,7 @@
                 "name": "Patrick Huffman",
                 "rank": {
                     "elimination": null,
-                    "swiss": "349"
+                    "swiss": "357"
                 },
                 "score": "0",
                 "sos": "0.00"
@@ -24871,7 +25749,7 @@
                 "name": "Patrick Meier",
                 "rank": {
                     "elimination": null,
-                    "swiss": "350"
+                    "swiss": "358"
                 },
                 "score": "0",
                 "sos": "0.00"
@@ -24935,7 +25813,7 @@
                 "name": "Patrick Steiche",
                 "rank": {
                     "elimination": null,
-                    "swiss": "351"
+                    "swiss": "359"
                 },
                 "score": "0",
                 "sos": "0.00"
@@ -24989,7 +25867,7 @@
                 "name": "Patrick Wojtowicz ",
                 "rank": {
                     "elimination": null,
-                    "swiss": "352"
+                    "swiss": "360"
                 },
                 "score": "0",
                 "sos": "0.00"
@@ -25065,7 +25943,7 @@
                 "name": "Paul Adler",
                 "rank": {
                     "elimination": null,
-                    "swiss": "353"
+                    "swiss": "361"
                 },
                 "score": "0",
                 "sos": "0.00"
@@ -25135,7 +26013,7 @@
                 "name": "Paul Heaver",
                 "rank": {
                     "elimination": null,
-                    "swiss": "354"
+                    "swiss": "362"
                 },
                 "score": "0",
                 "sos": "0.00"
@@ -25200,7 +26078,7 @@
                 "name": "Paul Johnson",
                 "rank": {
                     "elimination": null,
-                    "swiss": "355"
+                    "swiss": "363"
                 },
                 "score": "0",
                 "sos": "0.00"
@@ -25261,7 +26139,7 @@
                 "name": "Pete Lambro",
                 "rank": {
                     "elimination": null,
-                    "swiss": "356"
+                    "swiss": "364"
                 },
                 "score": "0",
                 "sos": "0.00"
@@ -25328,7 +26206,7 @@
                 "name": "Phil Kirby",
                 "rank": {
                     "elimination": null,
-                    "swiss": "357"
+                    "swiss": "365"
                 },
                 "score": "0",
                 "sos": "0.00"
@@ -25406,7 +26284,7 @@
                 "name": "Phillip Pond",
                 "rank": {
                     "elimination": null,
-                    "swiss": "358"
+                    "swiss": "366"
                 },
                 "score": "0",
                 "sos": "0.00"
@@ -25477,7 +26355,7 @@
                 "name": "Plammi",
                 "rank": {
                     "elimination": null,
-                    "swiss": "359"
+                    "swiss": "367"
                 },
                 "score": "0",
                 "sos": "0.00"
@@ -25572,7 +26450,7 @@
                 "name": "PoultryBane",
                 "rank": {
                     "elimination": null,
-                    "swiss": "360"
+                    "swiss": "368"
                 },
                 "score": "0",
                 "sos": "0.00"
@@ -25636,7 +26514,7 @@
                 "name": "Preston Bitzer",
                 "rank": {
                     "elimination": null,
-                    "swiss": "361"
+                    "swiss": "369"
                 },
                 "score": "0",
                 "sos": "0.00"
@@ -25704,7 +26582,7 @@
                 "name": "Preston Person",
                 "rank": {
                     "elimination": null,
-                    "swiss": "362"
+                    "swiss": "370"
                 },
                 "score": "0",
                 "sos": "0.00"
@@ -25793,7 +26671,7 @@
                 "name": "Quentin Keller",
                 "rank": {
                     "elimination": null,
-                    "swiss": "363"
+                    "swiss": "371"
                 },
                 "score": "0",
                 "sos": "0.00"
@@ -25876,7 +26754,7 @@
                 "name": "Raphael \"GreenDragoon\" Iselin",
                 "rank": {
                     "elimination": null,
-                    "swiss": "364"
+                    "swiss": "372"
                 },
                 "score": "0",
                 "sos": "0.00"
@@ -25943,7 +26821,7 @@
                 "name": "Ray Wickham",
                 "rank": {
                     "elimination": null,
-                    "swiss": "365"
+                    "swiss": "373"
                 },
                 "score": "0",
                 "sos": "0.00"
@@ -26007,7 +26885,7 @@
                 "name": "raymondliong",
                 "rank": {
                     "elimination": null,
-                    "swiss": "366"
+                    "swiss": "374"
                 },
                 "score": "0",
                 "sos": "0.00"
@@ -26069,7 +26947,7 @@
                 "name": "Rhett Eldred",
                 "rank": {
                     "elimination": null,
-                    "swiss": "367"
+                    "swiss": "375"
                 },
                 "score": "0",
                 "sos": "0.00"
@@ -26146,7 +27024,7 @@
                 "name": "Ricardo Lopez",
                 "rank": {
                     "elimination": null,
-                    "swiss": "368"
+                    "swiss": "376"
                 },
                 "score": "0",
                 "sos": "0.00"
@@ -26219,7 +27097,7 @@
                 "name": "Richard Hines",
                 "rank": {
                     "elimination": null,
-                    "swiss": "369"
+                    "swiss": "377"
                 },
                 "score": "0",
                 "sos": "0.00"
@@ -26281,7 +27159,7 @@
                 "name": "Rinehart",
                 "rank": {
                     "elimination": null,
-                    "swiss": "370"
+                    "swiss": "378"
                 },
                 "score": "0",
                 "sos": "0.00"
@@ -26362,7 +27240,7 @@
                 "name": "Robbie Connolly",
                 "rank": {
                     "elimination": null,
-                    "swiss": "371"
+                    "swiss": "379"
                 },
                 "score": "0",
                 "sos": "0.00"
@@ -26426,7 +27304,7 @@
                 "name": "Robby Goodhue",
                 "rank": {
                     "elimination": null,
-                    "swiss": "372"
+                    "swiss": "380"
                 },
                 "score": "0",
                 "sos": "0.00"
@@ -26482,7 +27360,7 @@
                 "name": "Robert Blackstock",
                 "rank": {
                     "elimination": null,
-                    "swiss": "373"
+                    "swiss": "381"
                 },
                 "score": "0",
                 "sos": "0.00"
@@ -26555,7 +27433,7 @@
                 "name": "Robert Kukuchka",
                 "rank": {
                     "elimination": null,
-                    "swiss": "374"
+                    "swiss": "382"
                 },
                 "score": "0",
                 "sos": "0.00"
@@ -26630,7 +27508,7 @@
                 "name": "Robin Farndon",
                 "rank": {
                     "elimination": null,
-                    "swiss": "375"
+                    "swiss": "383"
                 },
                 "score": "0",
                 "sos": "0.00"
@@ -26706,7 +27584,7 @@
                 "name": "Rodrigo Denicol",
                 "rank": {
                     "elimination": null,
-                    "swiss": "376"
+                    "swiss": "384"
                 },
                 "score": "0",
                 "sos": "0.00"
@@ -26769,7 +27647,7 @@
                 "name": "RoelBesters",
                 "rank": {
                     "elimination": null,
-                    "swiss": "377"
+                    "swiss": "385"
                 },
                 "score": "0",
                 "sos": "0.00"
@@ -26848,7 +27726,7 @@
                 "name": "Rolando \"roshow\" Garcia",
                 "rank": {
                     "elimination": null,
-                    "swiss": "378"
+                    "swiss": "386"
                 },
                 "score": "0",
                 "sos": "0.00"
@@ -26918,7 +27796,7 @@
                 "name": "Romain Bonnet",
                 "rank": {
                     "elimination": null,
-                    "swiss": "379"
+                    "swiss": "387"
                 },
                 "score": "0",
                 "sos": "0.00"
@@ -27008,7 +27886,7 @@
                 "name": "Ron Brannan",
                 "rank": {
                     "elimination": null,
-                    "swiss": "380"
+                    "swiss": "388"
                 },
                 "score": "0",
                 "sos": "0.00"
@@ -27084,7 +27962,7 @@
                 "name": "Ronny Herget",
                 "rank": {
                     "elimination": null,
-                    "swiss": "381"
+                    "swiss": "389"
                 },
                 "score": "0",
                 "sos": "0.00"
@@ -27173,7 +28051,7 @@
                 "name": "RonPon",
                 "rank": {
                     "elimination": null,
-                    "swiss": "382"
+                    "swiss": "390"
                 },
                 "score": "0",
                 "sos": "0.00"
@@ -27259,7 +28137,7 @@
                 "name": "Rory Wilson ",
                 "rank": {
                     "elimination": null,
-                    "swiss": "383"
+                    "swiss": "391"
                 },
                 "score": "0",
                 "sos": "0.00"
@@ -27271,7 +28149,7 @@
                 "name": "Ross Wakefield",
                 "rank": {
                     "elimination": null,
-                    "swiss": "384"
+                    "swiss": "392"
                 },
                 "score": "0",
                 "sos": "0.00"
@@ -27337,7 +28215,7 @@
                 "name": "Runningtargetnz",
                 "rank": {
                     "elimination": null,
-                    "swiss": "385"
+                    "swiss": "393"
                 },
                 "score": "0",
                 "sos": "0.00"
@@ -27408,7 +28286,7 @@
                 "name": "Ryan Becker",
                 "rank": {
                     "elimination": null,
-                    "swiss": "386"
+                    "swiss": "394"
                 },
                 "score": "0",
                 "sos": "0.00"
@@ -27490,7 +28368,7 @@
                 "name": "Ryan Burnett",
                 "rank": {
                     "elimination": null,
-                    "swiss": "387"
+                    "swiss": "395"
                 },
                 "score": "0",
                 "sos": "0.00"
@@ -27541,7 +28419,7 @@
                 "name": "Ryan Costello",
                 "rank": {
                     "elimination": null,
-                    "swiss": "388"
+                    "swiss": "396"
                 },
                 "score": "0",
                 "sos": "0.00"
@@ -27617,7 +28495,7 @@
                 "name": "Ryan Crocker",
                 "rank": {
                     "elimination": null,
-                    "swiss": "389"
+                    "swiss": "397"
                 },
                 "score": "0",
                 "sos": "0.00"
@@ -27687,7 +28565,7 @@
                 "name": "Ryan Kriesch ",
                 "rank": {
                     "elimination": null,
-                    "swiss": "390"
+                    "swiss": "398"
                 },
                 "score": "0",
                 "sos": "0.00"
@@ -27747,7 +28625,7 @@
                 "name": "Ryan Staniszewski",
                 "rank": {
                     "elimination": null,
-                    "swiss": "391"
+                    "swiss": "399"
                 },
                 "score": "0",
                 "sos": "0.00"
@@ -27819,7 +28697,7 @@
                 "name": "Sam Dameron",
                 "rank": {
                     "elimination": null,
-                    "swiss": "392"
+                    "swiss": "400"
                 },
                 "score": "0",
                 "sos": "0.00"
@@ -27910,7 +28788,7 @@
                 "name": "Sam McLain",
                 "rank": {
                     "elimination": null,
-                    "swiss": "393"
+                    "swiss": "401"
                 },
                 "score": "0",
                 "sos": "0.00"
@@ -27971,7 +28849,7 @@
                 "name": "Sam Page",
                 "rank": {
                     "elimination": null,
-                    "swiss": "394"
+                    "swiss": "402"
                 },
                 "score": "0",
                 "sos": "0.00"
@@ -28055,7 +28933,7 @@
                 "name": "SamTinSquadron",
                 "rank": {
                     "elimination": null,
-                    "swiss": "395"
+                    "swiss": "403"
                 },
                 "score": "0",
                 "sos": "0.00"
@@ -28067,7 +28945,7 @@
                 "name": "Samuel Carmel",
                 "rank": {
                     "elimination": null,
-                    "swiss": "396"
+                    "swiss": "404"
                 },
                 "score": "0",
                 "sos": "0.00"
@@ -28141,7 +29019,7 @@
                 "name": "Samuel Melhado",
                 "rank": {
                     "elimination": null,
-                    "swiss": "397"
+                    "swiss": "405"
                 },
                 "score": "0",
                 "sos": "0.00"
@@ -28210,7 +29088,7 @@
                 "name": "Samuel Moorhead",
                 "rank": {
                     "elimination": null,
-                    "swiss": "398"
+                    "swiss": "406"
                 },
                 "score": "0",
                 "sos": "0.00"
@@ -28282,7 +29160,7 @@
                 "name": "Sara Tessem",
                 "rank": {
                     "elimination": null,
-                    "swiss": "399"
+                    "swiss": "407"
                 },
                 "score": "0",
                 "sos": "0.00"
@@ -28360,7 +29238,7 @@
                 "name": "Scott Bellamy",
                 "rank": {
                     "elimination": null,
-                    "swiss": "400"
+                    "swiss": "408"
                 },
                 "score": "0",
                 "sos": "0.00"
@@ -28420,7 +29298,7 @@
                 "name": "Scott Canham",
                 "rank": {
                     "elimination": null,
-                    "swiss": "401"
+                    "swiss": "409"
                 },
                 "score": "0",
                 "sos": "0.00"
@@ -28491,7 +29369,7 @@
                 "name": "Scott Collins",
                 "rank": {
                     "elimination": null,
-                    "swiss": "402"
+                    "swiss": "410"
                 },
                 "score": "0",
                 "sos": "0.00"
@@ -28561,7 +29439,7 @@
                 "name": "Sean Bowman",
                 "rank": {
                     "elimination": null,
-                    "swiss": "403"
+                    "swiss": "411"
                 },
                 "score": "0",
                 "sos": "0.00"
@@ -28644,7 +29522,7 @@
                 "name": "Sean Pohl",
                 "rank": {
                     "elimination": null,
-                    "swiss": "404"
+                    "swiss": "412"
                 },
                 "score": "0",
                 "sos": "0.00"
@@ -28709,7 +29587,7 @@
                 "name": "Sebastien Demers",
                 "rank": {
                     "elimination": null,
-                    "swiss": "405"
+                    "swiss": "413"
                 },
                 "score": "0",
                 "sos": "0.00"
@@ -28765,7 +29643,7 @@
                 "name": "Sebastien Ledieu ",
                 "rank": {
                     "elimination": null,
-                    "swiss": "406"
+                    "swiss": "414"
                 },
                 "score": "0",
                 "sos": "0.00"
@@ -28829,7 +29707,7 @@
                 "name": "Sebon",
                 "rank": {
                     "elimination": null,
-                    "swiss": "407"
+                    "swiss": "415"
                 },
                 "score": "0",
                 "sos": "0.00"
@@ -28904,7 +29782,7 @@
                 "name": "Seth Dunlap",
                 "rank": {
                     "elimination": null,
-                    "swiss": "408"
+                    "swiss": "416"
                 },
                 "score": "0",
                 "sos": "0.00"
@@ -28977,7 +29855,7 @@
                 "name": "Shaun Pretorius",
                 "rank": {
                     "elimination": null,
-                    "swiss": "409"
+                    "swiss": "417"
                 },
                 "score": "0",
                 "sos": "0.00"
@@ -29050,7 +29928,7 @@
                 "name": "Shawn Ramberg",
                 "rank": {
                     "elimination": null,
-                    "swiss": "410"
+                    "swiss": "418"
                 },
                 "score": "0",
                 "sos": "0.00"
@@ -29126,7 +30004,7 @@
                 "name": "Simon Heath",
                 "rank": {
                     "elimination": null,
-                    "swiss": "411"
+                    "swiss": "419"
                 },
                 "score": "0",
                 "sos": "0.00"
@@ -29204,7 +30082,7 @@
                 "name": "Sondre Auestad",
                 "rank": {
                     "elimination": null,
-                    "swiss": "412"
+                    "swiss": "420"
                 },
                 "score": "0",
                 "sos": "0.00"
@@ -29216,7 +30094,7 @@
                 "name": "Stan Reecy",
                 "rank": {
                     "elimination": null,
-                    "swiss": "413"
+                    "swiss": "421"
                 },
                 "score": "0",
                 "sos": "0.00"
@@ -29298,7 +30176,7 @@
                 "name": "Steffen Lydvo",
                 "rank": {
                     "elimination": null,
-                    "swiss": "414"
+                    "swiss": "422"
                 },
                 "score": "0",
                 "sos": "0.00"
@@ -29357,7 +30235,7 @@
                 "name": "Stephan Wehr",
                 "rank": {
                     "elimination": null,
-                    "swiss": "415"
+                    "swiss": "423"
                 },
                 "score": "0",
                 "sos": "0.00"
@@ -29437,7 +30315,7 @@
                 "name": "Stephen Downs",
                 "rank": {
                     "elimination": null,
-                    "swiss": "416"
+                    "swiss": "424"
                 },
                 "score": "0",
                 "sos": "0.00"
@@ -29521,7 +30399,7 @@
                 "name": "Stephen Gage",
                 "rank": {
                     "elimination": null,
-                    "swiss": "417"
+                    "swiss": "425"
                 },
                 "score": "0",
                 "sos": "0.00"
@@ -29592,7 +30470,7 @@
                 "name": "Stephen Parker",
                 "rank": {
                     "elimination": null,
-                    "swiss": "418"
+                    "swiss": "426"
                 },
                 "score": "0",
                 "sos": "0.00"
@@ -29664,7 +30542,7 @@
                 "name": "Stephen Sesnick",
                 "rank": {
                     "elimination": null,
-                    "swiss": "419"
+                    "swiss": "427"
                 },
                 "score": "0",
                 "sos": "0.00"
@@ -29733,7 +30611,7 @@
                 "name": "steve mclean",
                 "rank": {
                     "elimination": null,
-                    "swiss": "420"
+                    "swiss": "428"
                 },
                 "score": "0",
                 "sos": "0.00"
@@ -29794,7 +30672,7 @@
                 "name": "Steven Sior",
                 "rank": {
                     "elimination": null,
-                    "swiss": "421"
+                    "swiss": "429"
                 },
                 "score": "0",
                 "sos": "0.00"
@@ -29860,7 +30738,7 @@
                 "name": "StevieB",
                 "rank": {
                     "elimination": null,
-                    "swiss": "422"
+                    "swiss": "430"
                 },
                 "score": "0",
                 "sos": "0.00"
@@ -29927,7 +30805,7 @@
                 "name": "Sycho",
                 "rank": {
                     "elimination": null,
-                    "swiss": "423"
+                    "swiss": "431"
                 },
                 "score": "0",
                 "sos": "0.00"
@@ -30014,7 +30892,7 @@
                 "name": "Tad Wesley",
                 "rank": {
                     "elimination": null,
-                    "swiss": "424"
+                    "swiss": "432"
                 },
                 "score": "0",
                 "sos": "0.00"
@@ -30088,7 +30966,7 @@
                 "name": "Taloncor",
                 "rank": {
                     "elimination": null,
-                    "swiss": "425"
+                    "swiss": "433"
                 },
                 "score": "0",
                 "sos": "0.00"
@@ -30167,7 +31045,7 @@
                 "name": "Ted Traini",
                 "rank": {
                     "elimination": null,
-                    "swiss": "426"
+                    "swiss": "434"
                 },
                 "score": "0",
                 "sos": "0.00"
@@ -30253,7 +31131,7 @@
                 "name": "Ted W",
                 "rank": {
                     "elimination": null,
-                    "swiss": "427"
+                    "swiss": "435"
                 },
                 "score": "0",
                 "sos": "0.00"
@@ -30265,7 +31143,7 @@
                 "name": "The Eagle",
                 "rank": {
                     "elimination": null,
-                    "swiss": "428"
+                    "swiss": "436"
                 },
                 "score": "0",
                 "sos": "0.00"
@@ -30335,7 +31213,7 @@
                 "name": "Thomas Correnti",
                 "rank": {
                     "elimination": null,
-                    "swiss": "429"
+                    "swiss": "437"
                 },
                 "score": "0",
                 "sos": "0.00"
@@ -30410,7 +31288,7 @@
                 "name": "Thomas Shaw",
                 "rank": {
                     "elimination": null,
-                    "swiss": "430"
+                    "swiss": "438"
                 },
                 "score": "0",
                 "sos": "0.00"
@@ -30498,7 +31376,7 @@
                 "name": "Thomas Wittenberg",
                 "rank": {
                     "elimination": null,
-                    "swiss": "431"
+                    "swiss": "439"
                 },
                 "score": "0",
                 "sos": "0.00"
@@ -30556,7 +31434,7 @@
                 "name": "throwdownhorton",
                 "rank": {
                     "elimination": null,
-                    "swiss": "432"
+                    "swiss": "440"
                 },
                 "score": "0",
                 "sos": "0.00"
@@ -30645,7 +31523,7 @@
                 "name": "tigris",
                 "rank": {
                     "elimination": null,
-                    "swiss": "433"
+                    "swiss": "441"
                 },
                 "score": "0",
                 "sos": "0.00"
@@ -30723,7 +31601,7 @@
                 "name": "Tim \"timathius\" Hilton",
                 "rank": {
                     "elimination": null,
-                    "swiss": "434"
+                    "swiss": "442"
                 },
                 "score": "0",
                 "sos": "0.00"
@@ -30788,7 +31666,7 @@
                 "name": "Tim Horsburgh",
                 "rank": {
                     "elimination": null,
-                    "swiss": "435"
+                    "swiss": "443"
                 },
                 "score": "0",
                 "sos": "0.00"
@@ -30866,7 +31744,7 @@
                 "name": "Timanseb",
                 "rank": {
                     "elimination": null,
-                    "swiss": "436"
+                    "swiss": "444"
                 },
                 "score": "0",
                 "sos": "0.00"
@@ -30936,7 +31814,7 @@
                 "name": "Timo Hetzel",
                 "rank": {
                     "elimination": null,
-                    "swiss": "437"
+                    "swiss": "445"
                 },
                 "score": "0",
                 "sos": "0.00"
@@ -31008,7 +31886,7 @@
                 "name": "TobyN",
                 "rank": {
                     "elimination": null,
-                    "swiss": "438"
+                    "swiss": "446"
                 },
                 "score": "0",
                 "sos": "0.00"
@@ -31075,7 +31953,7 @@
                 "name": "Tom buis",
                 "rank": {
                     "elimination": null,
-                    "swiss": "439"
+                    "swiss": "447"
                 },
                 "score": "0",
                 "sos": "0.00"
@@ -31149,7 +32027,7 @@
                 "name": "Tom Candlin",
                 "rank": {
                     "elimination": null,
-                    "swiss": "440"
+                    "swiss": "448"
                 },
                 "score": "0",
                 "sos": "0.00"
@@ -31209,7 +32087,7 @@
                 "name": "tomasz szyszka",
                 "rank": {
                     "elimination": null,
-                    "swiss": "441"
+                    "swiss": "449"
                 },
                 "score": "0",
                 "sos": "0.00"
@@ -31286,7 +32164,7 @@
                 "name": "Tommaso Loss",
                 "rank": {
                     "elimination": null,
-                    "swiss": "442"
+                    "swiss": "450"
                 },
                 "score": "0",
                 "sos": "0.00"
@@ -31386,7 +32264,7 @@
                 "name": "Tommy Adams",
                 "rank": {
                     "elimination": null,
-                    "swiss": "443"
+                    "swiss": "451"
                 },
                 "score": "0",
                 "sos": "0.00"
@@ -31458,7 +32336,7 @@
                 "name": "Tommy Ryan",
                 "rank": {
                     "elimination": null,
-                    "swiss": "444"
+                    "swiss": "452"
                 },
                 "score": "0",
                 "sos": "0.00"
@@ -31538,7 +32416,7 @@
                 "name": "Tony Cameron",
                 "rank": {
                     "elimination": null,
-                    "swiss": "445"
+                    "swiss": "453"
                 },
                 "score": "0",
                 "sos": "0.00"
@@ -31610,7 +32488,7 @@
                 "name": "Tony Costanti ",
                 "rank": {
                     "elimination": null,
-                    "swiss": "446"
+                    "swiss": "454"
                 },
                 "score": "0",
                 "sos": "0.00"
@@ -31674,7 +32552,7 @@
                 "name": "Totem",
                 "rank": {
                     "elimination": null,
-                    "swiss": "447"
+                    "swiss": "455"
                 },
                 "score": "0",
                 "sos": "0.00"
@@ -31735,7 +32613,7 @@
                 "name": "Travis Johannsen",
                 "rank": {
                     "elimination": null,
-                    "swiss": "448"
+                    "swiss": "456"
                 },
                 "score": "0",
                 "sos": "0.00"
@@ -31814,7 +32692,7 @@
                 "name": "Travis Johnson ",
                 "rank": {
                     "elimination": null,
-                    "swiss": "449"
+                    "swiss": "457"
                 },
                 "score": "0",
                 "sos": "0.00"
@@ -31878,7 +32756,7 @@
                 "name": "trej",
                 "rank": {
                     "elimination": null,
-                    "swiss": "450"
+                    "swiss": "458"
                 },
                 "score": "0",
                 "sos": "0.00"
@@ -31942,7 +32820,19 @@
                 "name": "Trevor Betts",
                 "rank": {
                     "elimination": null,
-                    "swiss": "451"
+                    "swiss": "459"
+                },
+                "score": "0",
+                "sos": "0.00"
+            },
+            {
+                "email": "",
+                "list": "",
+                "mov": "0",
+                "name": "Trevor Finlay",
+                "rank": {
+                    "elimination": null,
+                    "swiss": "460"
                 },
                 "score": "0",
                 "sos": "0.00"
@@ -32014,7 +32904,7 @@
                 "name": "Trukson",
                 "rank": {
                     "elimination": null,
-                    "swiss": "452"
+                    "swiss": "461"
                 },
                 "score": "0",
                 "sos": "0.00"
@@ -32109,7 +32999,7 @@
                 "name": "Tyler Duree",
                 "rank": {
                     "elimination": null,
-                    "swiss": "453"
+                    "swiss": "462"
                 },
                 "score": "0",
                 "sos": "0.00"
@@ -32191,7 +33081,7 @@
                 "name": "Tyler Evans",
                 "rank": {
                     "elimination": null,
-                    "swiss": "454"
+                    "swiss": "463"
                 },
                 "score": "0",
                 "sos": "0.00"
@@ -32260,7 +33150,7 @@
                 "name": "Tyler Samplonius",
                 "rank": {
                     "elimination": null,
-                    "swiss": "455"
+                    "swiss": "464"
                 },
                 "score": "0",
                 "sos": "0.00"
@@ -32272,7 +33162,7 @@
                 "name": "Tyler Tippett",
                 "rank": {
                     "elimination": null,
-                    "swiss": "456"
+                    "swiss": "465"
                 },
                 "score": "0",
                 "sos": "0.00"
@@ -32341,7 +33231,7 @@
                 "name": "Ulie ",
                 "rank": {
                     "elimination": null,
-                    "swiss": "457"
+                    "swiss": "466"
                 },
                 "score": "0",
                 "sos": "0.00"
@@ -32419,7 +33309,7 @@
                 "name": "Vincent Hamelin",
                 "rank": {
                     "elimination": null,
-                    "swiss": "458"
+                    "swiss": "467"
                 },
                 "score": "0",
                 "sos": "0.00"
@@ -32491,7 +33381,7 @@
                 "name": "Virgil Hayward",
                 "rank": {
                     "elimination": null,
-                    "swiss": "459"
+                    "swiss": "468"
                 },
                 "score": "0",
                 "sos": "0.00"
@@ -32571,7 +33461,7 @@
                 "name": "Wally_Shanks",
                 "rank": {
                     "elimination": null,
-                    "swiss": "460"
+                    "swiss": "469"
                 },
                 "score": "0",
                 "sos": "0.00"
@@ -32661,7 +33551,7 @@
                 "name": "Wesley van Wensen",
                 "rank": {
                     "elimination": null,
-                    "swiss": "461"
+                    "swiss": "470"
                 },
                 "score": "0",
                 "sos": "0.00"
@@ -32717,7 +33607,7 @@
                 "name": "Wilhelm Fors",
                 "rank": {
                     "elimination": null,
-                    "swiss": "462"
+                    "swiss": "471"
                 },
                 "score": "0",
                 "sos": "0.00"
@@ -32773,7 +33663,7 @@
                 "name": "Will Frost",
                 "rank": {
                     "elimination": null,
-                    "swiss": "463"
+                    "swiss": "472"
                 },
                 "score": "0",
                 "sos": "0.00"
@@ -32834,7 +33724,7 @@
                 "name": "Will Pearce",
                 "rank": {
                     "elimination": null,
-                    "swiss": "464"
+                    "swiss": "473"
                 },
                 "score": "0",
                 "sos": "0.00"
@@ -32907,7 +33797,7 @@
                 "name": "William Cameron",
                 "rank": {
                     "elimination": null,
-                    "swiss": "465"
+                    "swiss": "474"
                 },
                 "score": "0",
                 "sos": "0.00"
@@ -32986,7 +33876,7 @@
                 "name": "William Herbert",
                 "rank": {
                     "elimination": null,
-                    "swiss": "466"
+                    "swiss": "475"
                 },
                 "score": "0",
                 "sos": "0.00"
@@ -33063,7 +33953,7 @@
                 "name": "William Krick",
                 "rank": {
                     "elimination": null,
-                    "swiss": "467"
+                    "swiss": "476"
                 },
                 "score": "0",
                 "sos": "0.00"
@@ -33135,7 +34025,7 @@
                 "name": "William Scott",
                 "rank": {
                     "elimination": null,
-                    "swiss": "468"
+                    "swiss": "477"
                 },
                 "score": "0",
                 "sos": "0.00"
@@ -33199,7 +34089,7 @@
                 "name": "william wooldridge",
                 "rank": {
                     "elimination": null,
-                    "swiss": "469"
+                    "swiss": "478"
                 },
                 "score": "0",
                 "sos": "0.00"
@@ -33211,7 +34101,7 @@
                 "name": "Yan Picard",
                 "rank": {
                     "elimination": null,
-                    "swiss": "470"
+                    "swiss": "479"
                 },
                 "score": "0",
                 "sos": "0.00"
@@ -33285,7 +34175,7 @@
                 "name": "Zach Huffines",
                 "rank": {
                     "elimination": null,
-                    "swiss": "471"
+                    "swiss": "480"
                 },
                 "score": "0",
                 "sos": "0.00"
@@ -33297,7 +34187,7 @@
                 "name": "Zach Mertens ",
                 "rank": {
                     "elimination": null,
-                    "swiss": "472"
+                    "swiss": "481"
                 },
                 "score": "0",
                 "sos": "0.00"
@@ -33368,7 +34258,7 @@
                 "name": "Zach RIghetti",
                 "rank": {
                     "elimination": null,
-                    "swiss": "473"
+                    "swiss": "482"
                 },
                 "score": "0",
                 "sos": "0.00"
@@ -33446,7 +34336,7 @@
                 "name": "Zachery Johnson",
                 "rank": {
                     "elimination": null,
-                    "swiss": "474"
+                    "swiss": "483"
                 },
                 "score": "0",
                 "sos": "0.00"
