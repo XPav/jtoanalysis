@@ -1,0 +1,70 @@
+{
+    "Add": "",
+    "Discord": "SoulRead#6122",
+    "Drop": "",
+    "Final": {
+        "faction": "galacticempire",
+        "name": "SethDunlap",
+        "obstacles": [
+            "gascloud3",
+            "gascloud4",
+            "gascloud5"
+        ],
+        "pilots": [
+            {
+                "id": "puresabacc",
+                "points": 45,
+                "ship": "tieskstriker",
+                "upgrades": {
+                    "talent": [
+                        "marksmanship"
+                    ]
+                }
+            },
+            {
+                "id": "countdown",
+                "points": 50,
+                "ship": "tieskstriker",
+                "upgrades": {
+                    "device": [
+                        "connernets"
+                    ]
+                }
+            },
+            {
+                "id": "majorvynder",
+                "points": 60,
+                "ship": "alphaclassstarwing",
+                "upgrades": {
+                    "configuration": [
+                        "os1arsenalloadout"
+                    ],
+                    "modification": [
+                        "advancedslam"
+                    ],
+                    "sensor": [
+                        "passivesensors"
+                    ],
+                    "torpedo": [
+                        "protontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "idenversio",
+                "points": 41,
+                "ship": "tielnfighter",
+                "upgrades": {}
+            }
+        ],
+        "points": 196,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Name": "Seth Dunlap",
+    "Option1": null,
+    "Option2": null,
+    "TTT": "Seth Dunlap",
+    "VassalForm1": "",
+    "VassalForm2": "Seth Dunlap"
+}

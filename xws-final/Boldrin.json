@@ -1,0 +1,64 @@
+{
+    "Add": "",
+    "Discord": "Mboldrin",
+    "Drop": "",
+    "Final": {
+        "faction": "scumandvillainy",
+        "pilots": [
+            {
+                "id": "captainseevor",
+                "points": 30,
+                "ship": "modifiedtielnfighter",
+                "upgrades": {}
+            },
+            {
+                "id": "jakkugunrunner",
+                "points": 40,
+                "ship": "quadrijettransferspacetug",
+                "upgrades": {
+                    "crew": [
+                        "l337"
+                    ],
+                    "device": [
+                        "proximitymines"
+                    ]
+                }
+            },
+            {
+                "id": "dalanoberos-starviperclassattackplatform",
+                "points": 64,
+                "ship": "starviperclassattackplatform",
+                "upgrades": {
+                    "sensor": [
+                        "advancedsensors"
+                    ]
+                }
+            },
+            {
+                "id": "lattsrazzi",
+                "points": 63,
+                "ship": "yv666lightfreighter",
+                "upgrades": {
+                    "crew": [
+                        "cikatrovizago"
+                    ],
+                    "illicit": [
+                        "contrabandcybernetics"
+                    ],
+                    "modification": [
+                        "hullupgrade"
+                    ]
+                }
+            }
+        ],
+        "points": 197,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Name": "Marcelo Boldrin",
+    "Option1": null,
+    "Option2": null,
+    "TTT": "Boldrin",
+    "VassalForm1": "",
+    "VassalForm2": "Boldrin"
+}
