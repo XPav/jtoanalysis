@@ -10,6 +10,7 @@ pilots = {}
 upgrades = {}
 allpilots = {}
 allupgrades = {}
+players = []
 
 def GetCostValue( cost, pdata, sdata ):
     if 'value' in cost:
@@ -231,16 +232,24 @@ badlist = []
 
 # One line per list
 for l in combined['tournament']['players']:
-    if len(l['list']) > 0:
-        if not 'yasb' in l['list']['vendor']:
-           noyasb.append( l['name'] + ' using ' + list(l['list']['vendor'].keys())[0] )
 
-        vendor = list(l['list']['vendor'].values())[0]
-        link = ''
-        if 'link' in vendor:
-            url = vendor['link']
-        elif 'url' in vendor:
-            url = vendor['url']
+    url = ''
+
+    if len(l['list']) > 0:
+        if len(l['list']['vendor']):
+            vendors = l['list']['vendor'].keys()            
+            vendor = list(l['list']['vendor'].values())[0]
+
+            if not 'yasb' in l['list']['vendor']:
+                noyasb.append( l['name'] + ' using ' + list(vendors)[0] )
+
+            if 'link' in vendor:
+                url = vendor['link']
+            elif 'url' in vendor:
+                url = vendor['url']
+
+        else:
+            noyasb.append( l['name'] + ' just doing their own thing' )
 
         shipcount = 0
         init = 0
@@ -279,6 +288,9 @@ for l in combined['tournament']['players']:
     else:
         badlist.append(l['name'])
 
+    players.append( {'name': l['name'], 'url':url } )
+
+
 print(f'{len(badlist)} with bad lists:')
 for u in badlist:
     print(' ' + u)
@@ -304,6 +316,10 @@ with open('cards-final.csv', 'w', newline='') as csvfile:
     writer.writerows(allpilots.values())
     writer.writerows(allupgrades.values())
 
+with open('players-final.csv', 'w', newline='', encoding='UTF-8') as csvfile:
+    writer = csv.DictWriter(csvfile, fieldnames= [*players][0])
+    writer.writeheader()
+    writer.writerows(players)
  
 
 
