@@ -58,7 +58,7 @@ lieutenantkestal,pilot,10,1,
 onyxsquadronscout,pilot,8,0,
 sienarspecialist,pilot,8,0,
 deathrain,pilot,5,1,
-redline,pilot,7,1,
+redline,pilot,6,1,
 cutlasssquadronpilot,pilot,2,0,
 colonelvessery,pilot,1,1,
 countessryad,pilot,3,1,
@@ -68,7 +68,7 @@ rexlerbrath,pilot,3,1,
 alphasquadronpilot,pilot,9,0,
 sabersquadronace,pilot,6,0,
 soontirfel,pilot,5,1,
-turrphennir,pilot,7,1,
+turrphennir,pilot,6,1,
 howlrunner,pilot,1,1,
 maulermithel,pilot,3,1,
 nightbeast,pilot,3,1,
@@ -86,7 +86,7 @@ echo,pilot,2,1,
 whisper,pilot,4,1,
 imdaartestpilot,pilot,2,0,
 sigmasquadronace,pilot,5,0,
-vizier,pilot,7,1,
+vizier,pilot,6,1,
 captainferoph,pilot,9,1,
 majorvermeil,pilot,7,1,
 scarifbasepilot,pilot,12,0,
@@ -111,7 +111,7 @@ jag,pilot,3,1,
 oddball-arc170starfighter,pilot,6,1,
 wolffe,pilot,9,1,
 104thbattalionpilot,pilot,11,0,
-squadsevenveteran,pilot,4,0,
+squadsevenveteran,pilot,5,0,
 shadowsquadronveteran,pilot,6,0,
 anakinskywalker-btlbywing,pilot,3,1,
 r2d2,pilot,8,1,
@@ -123,17 +123,17 @@ redsquadronbomber,pilot,6,0,
 jediknight,pilot,9,0,
 obiwankenobi,pilot,9,1,
 plokoon,pilot,7,1,
-saeseetiin,pilot,8,1,
+saeseetiin,pilot,9,1,
 macewindu,pilot,7,1,
 anakinskywalker,pilot,9,1,
 ahsokatano,pilot,6,1,
 barrissoffee,pilot,6,1,
 luminaraunduli,pilot,7,1,
-anakinskywalker-nabooroyaln1starfighter,pilot,10,1,
+anakinskywalker-nabooroyaln1starfighter,pilot,11,1,
 ricolie,pilot,9,1,
 padmeamidala,pilot,14,1,
 dineeellberger,pilot,6,1,
-bravoflightofficer,pilot,11,0,
+bravoflightofficer,pilot,12,0,
 naboohandmaiden,pilot,3,2,
 kickback,pilot,5,1,
 oddball,pilot,7,1,
@@ -187,7 +187,7 @@ phoenixsquadronpilot,pilot,3,0,
 zeborrelios-sheathipedeclassshuttle,pilot,3,1,
 ap5,pilot,6,1,
 ezrabridger-sheathipedeclassshuttle,pilot,1,1,
-fennrau-sheathipedeclassshuttle,pilot,7,1,
+fennrau-sheathipedeclassshuttle,pilot,6,1,
 biggsdarklighter,pilot,1,1,
 bluesquadronescort,pilot,2,0,
 cavernangelszealot,pilot,2,0,
@@ -200,7 +200,7 @@ lukeskywalker,pilot,0,1,
 redsquadronveteran,pilot,2,0,
 thanekyrell,pilot,0,1,
 wedgeantilles,pilot,3,1,
-zeborrelios-tielnfighter,pilot,8,1,
+zeborrelios-tielnfighter,pilot,7,1,
 captainrex,pilot,6,1,
 ezrabridger-tielnfighter,pilot,5,1,
 sabinewren-tielnfighter,pilot,5,1,
@@ -217,13 +217,13 @@ chopper,pilot,6,1,
 herasyndulla-vcx100lightfreighter,pilot,5,1,
 kananjarrus,pilot,1,1,
 lothalrebel,pilot,3,0,
-alexsandrkallus,pilot,3,1,
+alexsandrkallus,pilot,2,1,
 leebo,pilot,2,1,
 dashrendar,pilot,2,1,
 wildspacefringer,pilot,3,0,
 airencracken,pilot,4,1,
 banditsquadronpilot,pilot,2,0,
-lieutenantblount,pilot,12,1,
+lieutenantblount,pilot,11,1,
 talasquadronpilot,pilot,4,0,
 colossusstationmechanic,pilot,12,0,
 jarekyeager,pilot,8,1,
@@ -275,7 +275,7 @@ ig88d,pilot,2,1,
 crymorahgoon,pilot,5,0,
 drearenthal,pilot,2,1,
 hiredgun,pilot,5,0,
-kavil,pilot,9,1,
+kavil,pilot,8,1,
 freightercaptain,pilot,4,0,
 hansolo,pilot,2,1,
 l337,pilot,1,1,
@@ -301,7 +301,7 @@ gandfindsman,pilot,6,0,
 zuckuss,pilot,4,1,
 dacebonearm,pilot,6,1,
 palobgodalhi,pilot,5,1,
-spicerunner,pilot,4,0,
+spicerunner,pilot,3,0,
 torkilmux,pilot,3,1,
 contractedscout,pilot,1,0,
 dengar,pilot,2,1,
@@ -311,13 +311,13 @@ nomlumb,pilot,3,1,
 blacksunace,pilot,0,0,
 captainjostero,pilot,7,1,
 cartelmarauder,pilot,3,0,
-graz,pilot,6,1,
+graz,pilot,5,1,
 talonbanecobra,pilot,6,1,
-viktorhel,pilot,2,1,
-asajjventress,pilot,3,1,
+viktorhel,pilot,1,1,
+asajjventress,pilot,4,1,
 ketsuonyo,pilot,3,1,
 sabinewren-lancerclasspursuitcraft,pilot,3,1,
-shadowporthunter,pilot,7,0,
+shadowporthunter,pilot,6,0,
 cartelexecutioner,pilot,5,0,
 dalanoberos,pilot,5,1,
 toranikulda,pilot,5,1,
@@ -385,7 +385,7 @@ haorchallprototype,pilot,5,2,
 dfs081,pilot,5,1,
 separatistdrone,pilot,8,0,
 dfs311,pilot,4,1,
-chopper,upgrade,3,1,Astromech 
+chopper,upgrade,2,1,Astromech 
 genius,upgrade,2,1,Astromech 
 r2astromech,upgrade,30,0,Astromech 
 r2d2,upgrade,4,1,Astromech 
@@ -400,10 +400,10 @@ r2ha,upgrade,3,1,Astromech
 bb8,upgrade,8,1,Astromech 
 bbastromech,upgrade,3,0,Astromech 
 m9g8,upgrade,3,1,Astromech 
-r2c4,upgrade,4,1,Astromech 
+r2c4,upgrade,5,1,Astromech 
 r4pastromech,upgrade,6,0,Astromech 
 r4p17,upgrade,10,1,Astromech 
-r4p44,upgrade,7,1,Astromech 
+r4p44,upgrade,8,1,Astromech 
 r2a6,upgrade,7,1,Astromech 
 c110p,upgrade,7,1,Astromech Astromech 
 r1j5,upgrade,3,1,Astromech 
@@ -435,7 +435,7 @@ servomotorsfoils,upgrade,20,0,Configuration Configuration
 xg1assaultconfiguration,upgrade,8,0,Configuration 
 grapplingstruts,upgrade,14,0,Configuration Configuration 
 delta7b,upgrade,17,0,Configuration 
-calibratedlasertargeting,upgrade,29,0,Configuration Modification 
+calibratedlasertargeting,upgrade,30,0,Configuration Modification 
 landingstruts,upgrade,10,0,Configuration Configuration 
 corsairrefit,upgrade,0,2,Configuration 
 stabilizedsfoils,upgrade,6,0,Configuration Configuration 
@@ -453,7 +453,7 @@ captainphasma,upgrade,15,1,Crew
 cassianandor,upgrade,4,1,Crew 
 chewbacca,upgrade,3,1,Crew 
 chewbacca-crew,upgrade,3,1,Crew 
-cienaree,upgrade,2,1,Crew 
+cienaree,upgrade,1,1,Crew 
 cikatrovizago,upgrade,2,1,Crew 
 darthvader,upgrade,10,1,Crew 
 deathtroopers,upgrade,2,1,Crew Crew 
@@ -462,7 +462,7 @@ emperorpalpatine,upgrade,3,1,Crew Crew
 freelanceslicer,upgrade,17,0,Crew 
 generalhux,upgrade,3,1,Crew 
 gnkgonkdroid,upgrade,10,0,Crew 
-grandinquisitor,upgrade,6,1,Crew 
+grandinquisitor,upgrade,5,1,Crew 
 grandmofftarkin,upgrade,1,1,Crew 
 herasyndulla,upgrade,1,1,Crew 
 ig88d,upgrade,8,1,Crew 
@@ -479,7 +479,7 @@ landocalrissian,upgrade,4,1,Crew
 lattsrazzi,upgrade,2,1,Crew 
 leiaorgana,upgrade,18,1,Crew 
 magvayarro,upgrade,2,1,Crew 
-maul,upgrade,5,1,Crew 
+maul,upgrade,4,1,Crew 
 ministertua,upgrade,5,1,Crew 
 moffjerjerrod,upgrade,3,1,Crew 
 niennunb,upgrade,4,1,Crew 
@@ -490,7 +490,7 @@ qira,upgrade,1,1,Crew
 r2d2-crew,upgrade,2,1,Crew 
 sabinewren,upgrade,1,1,Crew 
 sawgerrera,upgrade,5,1,Crew 
-seasonednavigator,upgrade,9,0,Crew 
+seasonednavigator,upgrade,8,0,Crew 
 seventhsister,upgrade,9,1,Crew 
 supremeleadersnoke,upgrade,2,1,Crew Crew 
 tacticalofficer,upgrade,7,0,Crew 
@@ -519,8 +519,8 @@ plokoon,upgrade,0,1,Crew
 torynfarr,upgrade,0,1,Crew 
 bombletgenerator,upgrade,4,0,Device Device 
 connernets,upgrade,13,0,Device 
-protonbombs,upgrade,19,0,Device 
-proximitymines,upgrade,37,0,Device 
+protonbombs,upgrade,18,0,Device 
+proximitymines,upgrade,36,0,Device 
 seismiccharges,upgrade,25,0,Device 
 drk1probedroids,upgrade,5,1,Device 
 electroprotonbomb,upgrade,9,1,Device Modification 
@@ -541,7 +541,7 @@ bt1,upgrade,6,1,Gunner
 bistan,upgrade,1,1,Gunner 
 bossk,upgrade,0,1,Gunner 
 dengar,upgrade,7,1,Gunner 
-ezrabridger,upgrade,7,1,Gunner 
+ezrabridger,upgrade,6,1,Gunner 
 fifthbrother,upgrade,12,1,Gunner 
 greedo,upgrade,5,1,Gunner 
 hansolo,upgrade,3,1,Gunner 
@@ -565,7 +565,7 @@ targetingbattery,upgrade,0,0,Hardpoint Hardpoint
 turbolaserbattery,upgrade,0,0,Hardpoint Hardpoint 
 cloakingdevice,upgrade,5,1,Illicit 
 contrabandcybernetics,upgrade,16,0,Illicit 
-deadmansswitch,upgrade,24,0,Illicit 
+deadmansswitch,upgrade,23,0,Illicit 
 feedbackarray,upgrade,12,0,Illicit 
 inertialdampeners,upgrade,13,0,Illicit 
 riggedcargochute,upgrade,6,0,Illicit 
@@ -574,11 +574,11 @@ quickreleaselocks,upgrade,0,1,Illicit
 saboteursmap,upgrade,0,1,Illicit 
 scannerbaffler,upgrade,0,1,Illicit 
 barragerockets,upgrade,14,0,Missile Missile 
-clustermissiles,upgrade,38,0,Missile 
+clustermissiles,upgrade,37,0,Missile 
 concussionmissiles,upgrade,61,0,Missile 
 homingmissiles,upgrade,42,0,Missile 
 ionmissiles,upgrade,44,0,Missile 
-protonrockets,upgrade,59,0,Missile 
+protonrockets,upgrade,58,0,Missile 
 energyshellcharges,upgrade,1,0,Missile 
 discordmissiles,upgrade,7,3,Missile 
 diamondboronmissiles,upgrade,3,1,Missile Missile 
@@ -586,7 +586,7 @@ magpulsewarheads,upgrade,34,0,Missile
 multimissilepods,upgrade,0,0,Missile Missile 
 ablativeplating,upgrade,4,0,Modification 
 advancedslam,upgrade,11,0,Modification 
-afterburners,upgrade,32,0,Modification 
+afterburners,upgrade,31,0,Modification 
 electronicbaffle,upgrade,46,0,Modification 
 engineupgrade,upgrade,3,0,Modification 
 hullupgrade,upgrade,56,0,Modification 
@@ -598,20 +598,20 @@ tacticalscrambler,upgrade,18,0,Modification
 imperviumplating,upgrade,3,0,Modification 
 synchronizedconsole,upgrade,3,0,Modification 
 sparepartscanisters,upgrade,2,0,Modification 
-delayedfuses,upgrade,38,0,Modification 
-angleddeflectors,upgrade,10,0,Modification 
-targetingcomputer,upgrade,29,0,Modification 
+delayedfuses,upgrade,37,0,Modification 
+angleddeflectors,upgrade,9,0,Modification 
+targetingcomputer,upgrade,30,0,Modification 
 advancedsensors,upgrade,32,0,Sensor 
 collisiondetector,upgrade,25,0,Sensor 
-firecontrolsystem,upgrade,47,0,Sensor 
+firecontrolsystem,upgrade,46,0,Sensor 
 trajectorysimulator,upgrade,12,0,Sensor 
 passivesensors,upgrade,54,0,Sensor 
 kraken,upgrade,5,1,Tactical Relay 
 tv94,upgrade,7,1,Tactical Relay 
 k2b4,upgrade,2,1,Tactical Relay 
 ta175,upgrade,1,1,Tactical Relay 
-composure,upgrade,22,0,Talent 
-crackshot,upgrade,29,0,Talent 
+composure,upgrade,23,0,Talent 
+crackshot,upgrade,28,0,Talent 
 daredevil,upgrade,12,0,Talent 
 debrisgambit,upgrade,13,0,Talent 
 elusive,upgrade,16,0,Talent 
@@ -619,7 +619,7 @@ experthandling,upgrade,4,0,Talent
 fanatical,upgrade,8,0,Talent 
 fearless,upgrade,8,0,Talent 
 heroic,upgrade,2,0,Talent 
-intimidation,upgrade,32,0,Talent 
+intimidation,upgrade,31,0,Talent 
 juke,upgrade,12,0,Talent 
 lonewolf,upgrade,27,1,Talent 
 marksmanship,upgrade,33,0,Talent 
@@ -630,7 +630,7 @@ saturationsalvo,upgrade,0,0,Talent
 selfless,upgrade,3,0,Talent 
 squadleader,upgrade,12,1,Talent 
 swarmtactics,upgrade,29,0,Talent 
-trickshot,upgrade,27,0,Talent 
+trickshot,upgrade,28,0,Talent 
 treacherous,upgrade,1,0,Talent 
 dedicated,upgrade,0,0,Talent 
 ensnare,upgrade,2,0,Talent 
@@ -655,7 +655,7 @@ deuteriumpowercells,upgrade,15,0,Tech Modification
 andrasta,upgrade,1,1,Title 
 blackone,upgrade,11,1,Title 
 dauntless,upgrade,6,1,Title 
-ghost,upgrade,7,1,Title 
+ghost,upgrade,6,1,Title 
 havoc,upgrade,5,1,Title 
 houndstooth,upgrade,5,1,Title 
 ig2000,upgrade,5,0,Title 
@@ -663,9 +663,9 @@ landosmillenniumfalcon,upgrade,4,1,Title
 marauder,upgrade,3,1,Title 
 millenniumfalcon,upgrade,3,1,Title 
 misthunter,upgrade,4,1,Title 
-moldycrow,upgrade,17,1,Title 
+moldycrow,upgrade,16,1,Title 
 outrider,upgrade,3,1,Title 
-phantom,upgrade,13,1,Title 
+phantom,upgrade,12,1,Title 
 punishingone,upgrade,3,1,Title 
 st321,upgrade,16,1,Title 
 shadowcaster,upgrade,9,1,Title 
@@ -694,9 +694,9 @@ suppressor,upgrade,0,1,Title
 tantiveiv,upgrade,0,1,Title 
 thunderstrike,upgrade,0,1,Title 
 vector,upgrade,0,1,Title 
-advprotontorpedoes,upgrade,50,0,Torpedo 
-iontorpedoes,upgrade,48,0,Torpedo 
-protontorpedoes,upgrade,56,0,Torpedo 
+advprotontorpedoes,upgrade,49,0,Torpedo 
+iontorpedoes,upgrade,49,0,Torpedo 
+protontorpedoes,upgrade,57,0,Torpedo 
 plasmatorpedoes,upgrade,64,0,Torpedo 
-dorsalturret,upgrade,33,0,Turret 
-ioncannonturret,upgrade,57,0,Turret 
+dorsalturret,upgrade,32,0,Turret 
+ioncannonturret,upgrade,56,0,Turret 

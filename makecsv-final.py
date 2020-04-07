@@ -10,7 +10,6 @@ pilots = {}
 upgrades = {}
 allpilots = {}
 allupgrades = {}
-players = []
 
 def GetCostValue( cost, pdata, sdata ):
     if 'value' in cost:
@@ -20,7 +19,7 @@ def GetCostValue( cost, pdata, sdata ):
     else:
         pass
 
-def LoadShip( pilots, upgrades, ship, listid, faction, url ):
+def LoadShip( pilots, upgrades, ship, listid, faction ):
     oship = {}
 
     pilotid = p['id']
@@ -190,7 +189,6 @@ def LoadShip( pilots, upgrades, ship, listid, faction, url ):
                     oship['uselesscost'] = GetCostValue( upgrades[u]['cost'], pdata, sdata )
 
     oship['uselesscount'] = uselesscount
-    oship['url'] = url
 
     return oship
 
@@ -219,45 +217,28 @@ for (dirpath, dirnames, filenames) in walk('../xwing-data2/data/upgrades'):
                 allupgrades[xws] = { 'name': xws, 'type': 'upgrade', 'count': 0, 'limited': u['limited'], 'slots' : slots }
 
 
-with urllib.request.urlopen( 'https://tabletop.to/jank-tank-open/listjuggler' ) as response:
-    combined = json.loads( response.read() )     
-    with open('jto.json', 'w') as f:
-        f.write( json.dumps(combined, sort_keys=True, indent=4, separators=(',', ': ')) )
+#with urllib.request.urlopen( 'https://tabletop.to/jank-tank-open/listjuggler' ) as response:
+#    combined = json.loads( response.read() )     
+#    with open('jto.json', 'w') as f:
+#        f.write( json.dumps(combined, sort_keys=True, indent=4, separators=(',', ': ')) )
+
+with open('combined-final.json', 'r', encoding='UTF-8') as f:
+    combined = json.load( f )     
 
 oships = []
 olists = []
-
-noyasb = []
-badlist = []
+factions = {}
 
 # One line per list
-for l in combined['tournament']['players']:
-
-    url = ''
-
-    if len(l['list']) > 0:
-        if len(l['list']['vendor']):
-            vendors = l['list']['vendor'].keys()            
-            vendor = list(l['list']['vendor'].values())[0]
-
-            if not 'yasb' in l['list']['vendor']:
-                noyasb.append( l['name'] + ' using ' + list(vendors)[0] )
-
-            if 'link' in vendor:
-                url = vendor['link']
-            elif 'url' in vendor:
-                url = vendor['url']
-
-        else:
-            noyasb.append( l['name'] + ' just doing their own thing' )
-
+for l in combined:
+    if  len(l['Final']) > 0:
         shipcount = 0
         init = 0
 
         olist = {}
-        olist['name'] = l['name']
-        olist['faction'] = l['list']['faction']
-        olist['points'] = l['list']['points']
+        olist['name'] = l['Name']
+        olist['faction'] = l['Final']['faction']
+        olist['points'] = l['Final']['points']
         olist['totalhealth'] = 0
         olist['totalmainattack'] = 0
         olist['totalagility'] = 0
@@ -266,8 +247,8 @@ for l in combined['tournament']['players']:
         olist['totaluselesscost'] = 0
         olist['shipcount'] = 0
 
-        for p in l['list']['pilots']:
-            oship = LoadShip( pilots, upgrades, p, olist['name'], olist['faction'], url )
+        for p in l['Final']['pilots']:
+            oship = LoadShip( pilots, upgrades, p, olist['name'], olist['faction'] )
             oships.append(oship)
 
             init = init + oship['initiative']
@@ -282,22 +263,32 @@ for l in combined['tournament']['players']:
 
         olist['handicap'] = 200 - olist['points'] + olist['totaluselesscost']
         olist['avginitiative'] = init / olist['shipcount']
-        olist['url'] = url
-
         olists.append(olist)
-    else:
-        badlist.append(l['name'])
 
-    players.append( {'name': l['name'], 'url':url } )
+        if 'Option1' in l and 'Option2' in l and 'Final' in l and l['Option1'] != None and l['Option2'] != None and l['Final'] != None:
+            # Faction stats
+            faction1 = l['Option1']['faction']
+            faction2 = l['Option2']['faction']
+            factionf = l['Final']['faction']
 
+            if faction1 not in factions:
+                factions[faction1] = { 'name': faction1, 'firstchoice': 0, 'secondchoice': 0, 'totaloptions':0, 'chosen': 0, 'dropped': 0 }
+            if faction2 not in factions:
+                factions[faction2] = { 'name': faction2, 'firstchoice': 0, 'secondchoice': 0, 'totaloptions':0, 'chosen': 0, 'dropped': 0 }
 
-print(f'{len(badlist)} with bad lists:')
-for u in badlist:
-    print(' ' + u)
+            factions[ faction1 ][ 'totaloptions' ] += 1
+            factions[ faction2 ][ 'totaloptions' ] += 1
 
-print(f'{len(noyasb)} not using YASB:')
-for u in noyasb:
-    print(' ' + u)
+            factions[ faction1 ][ 'firstchoice' ] += 1
+            factions[ faction2 ][ 'secondchoice' ] += 1
+
+            if faction1 == factionf:
+                factions[ faction1 ][ 'chosen' ] += 1
+                factions[ faction2 ][ 'dropped' ] += 1
+            else:
+                factions[ faction2 ][ 'chosen' ] += 1
+                factions[ faction1 ][ 'dropped' ] += 1
+        
 
 
 with open('lists-final.csv', 'w', newline='', encoding='UTF-8') as csvfile:
@@ -316,11 +307,12 @@ with open('cards-final.csv', 'w', newline='') as csvfile:
     writer.writerows(allpilots.values())
     writer.writerows(allupgrades.values())
 
-with open('players-final.csv', 'w', newline='', encoding='UTF-8') as csvfile:
-    writer = csv.DictWriter(csvfile, fieldnames= [*players][0])
+with open('factions-final.csv', 'w', newline='') as csvfile:
+    lfactions = list( factions.values() )
+    writer = csv.DictWriter(csvfile, fieldnames= lfactions[0].keys() )
     writer.writeheader()
-    writer.writerows(players)
- 
+    writer.writerows(factions.values())
+
 
 
 
