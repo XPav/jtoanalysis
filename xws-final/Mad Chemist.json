@@ -29,18 +29,22 @@
             {
                 "id": "countdown",
                 "points": 44,
-                "ship": "tieskstriker",
-                "upgrades": {}
+                "ship": "tieskstriker"
             },
             {
                 "id": "wampa",
                 "points": 29,
-                "ship": "tielnfighter",
-                "upgrades": {}
+                "ship": "tielnfighter"
             }
         ],
         "points": 200,
-        "vendor": {},
+        "vendor": {
+            "yasb": {
+                "builder": "(Yet Another) X-Wing Miniatures Squad Builder",
+                "builder_url": "https://raithos.github.io",
+                "link": "https://raithos.github.io/?f=Galactic%20Empire&d=v8ZsZ200Z195X123WWWY205XWWWWW71WWY209XWWWY221X&sn=Chuck%20Crawford%20%5BJTO%5D&obs=core2asteroid5"
+            }
+        },
         "version": "2.0.0"
     },
     "Name": "Chuck Crawford",

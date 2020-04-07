@@ -48,12 +48,17 @@
             {
                 "id": "blacksquadronscout",
                 "points": 34,
-                "ship": "tieskstriker",
-                "upgrades": {}
+                "ship": "tieskstriker"
             }
         ],
         "points": 194,
-        "vendor": {},
+        "vendor": {
+            "yasb": {
+                "builder": "(Yet Another) X-Wing Miniatures Squad Builder",
+                "builder_url": "https://raithos.github.io",
+                "link": "https://raithos.github.io/?f=Galactic%20Empire&d=v8ZsZ200Z207X131WW97WW82WWWY162X116WW136WWWY167XWW28WWWY212XWWW&sn=Thomas%20Correnti%20JTO&obs="
+            }
+        },
         "version": "2.0.0"
     },
     "Name": "Thomas Correnti",

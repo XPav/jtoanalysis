@@ -46,18 +46,22 @@
             {
                 "id": "zuckuss",
                 "points": 45,
-                "ship": "g1astarfighter",
-                "upgrades": {}
+                "ship": "g1astarfighter"
             },
             {
                 "id": "miningguildsurveyor",
                 "points": 23,
-                "ship": "modifiedtielnfighter",
-                "upgrades": {}
+                "ship": "modifiedtielnfighter"
             }
         ],
         "points": 197,
-        "vendor": {},
+        "vendor": {
+            "yasb": {
+                "builder": "(Yet Another) X-Wing Miniatures Squad Builder",
+                "builder_url": "https://raithos.github.io",
+                "link": "https://raithos.github.io/?f=Scum%20and%20Villainy&d=v8ZsZ200Z89XW311W48WWW95WW152Y400X134WW43WWWWY110XWWWWWY248XW&sn=David%20Rowley%20JTO&obs=coreasteroid5,core2asteroid4,core2asteroid5"
+            }
+        },
         "version": "2.0.0"
     },
     "Name": "David Rowley",

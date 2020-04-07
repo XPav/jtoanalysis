@@ -31,8 +31,7 @@
             {
                 "id": "tucker",
                 "points": 29,
-                "ship": "v19torrentstarfighter",
-                "upgrades": {}
+                "ship": "v19torrentstarfighter"
             },
             {
                 "id": "axe",
@@ -66,12 +65,17 @@
             {
                 "id": "bluesquadronprotector",
                 "points": 27,
-                "ship": "v19torrentstarfighter",
-                "upgrades": {}
+                "ship": "v19torrentstarfighter"
             }
         ],
         "points": 200,
-        "vendor": {},
+        "vendor": {
+            "yasb": {
+                "builder": "(Yet Another) X-Wing Miniatures Squad Builder",
+                "builder_url": "https://raithos.github.io",
+                "link": "https://raithos.github.io/?f=Galactic%20Republic&d=v8ZsZ200Z364X127W138W234WW6WW211Y319XWY318XW98WY360XW137W234WW4W71WY320XWW&sn=Charles%20Fletcher%20JTO&obs="
+            }
+        },
         "version": "2.0.0"
     },
     "Name": "Charles Fletcher III",

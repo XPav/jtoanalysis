@@ -3,6 +3,7 @@
     "Discord": "McLovin#8174",
     "Drop": "Static Discharge Vanes from Rhymer",
     "Final": {
+        "description": "",
         "faction": "galacticempire",
         "name": "Quentin Keller JTO",
         "obstacles": [
@@ -13,6 +14,7 @@
         "pilots": [
             {
                 "id": "coloneljendon",
+                "name": "coloneljendon",
                 "points": 57,
                 "ship": "lambdaclasst4ashuttle",
                 "upgrades": {
@@ -23,12 +25,13 @@
             },
             {
                 "id": "baronoftheempire",
+                "name": "baronoftheempire",
                 "points": 30,
-                "ship": "tieadvancedv1",
-                "upgrades": {}
+                "ship": "tieadvancedv1"
             },
             {
                 "id": "blacksquadronace",
+                "name": "blacksquadronace",
                 "points": 31,
                 "ship": "tielnfighter",
                 "upgrades": {
@@ -42,6 +45,7 @@
             },
             {
                 "id": "scimitarsquadronpilot",
+                "name": "scimitarsquadronpilot",
                 "points": 44,
                 "ship": "tiesabomber",
                 "upgrades": {
@@ -56,6 +60,7 @@
             },
             {
                 "id": "majorrhymer",
+                "name": "majorrhymer",
                 "points": 38,
                 "ship": "tiesabomber",
                 "upgrades": {
@@ -66,7 +71,13 @@
             }
         ],
         "points": 200,
-        "vendor": {},
+        "vendor": {
+            "yasb": {
+                "builder": "Yet Another Squad Builder 2.0",
+                "builder_url": "https://raithos.github.io/",
+                "link": "https://raithos.github.io/?f=Galactic%20Empire&d=v8ZsZ200Z167XWW14WWWY172XWWY227X122W249Y208XW311WWW69W68WY204X128WWWWWWW&sn=Quentin%20Keller%20JTO&obs=coreasteroid0,core2asteroid0,core2asteroid2"
+            }
+        },
         "version": "2.0.0"
     },
     "Name": "Quentin Keller",

@@ -3,6 +3,7 @@
     "Discord": "Rhys James (#9551)",
     "Drop": "Removing Chewbacca from Lando ",
     "Final": {
+        "description": "",
         "faction": "scumandvillainy",
         "name": "Rhys James JTO",
         "obstacles": [
@@ -13,6 +14,7 @@
         "pilots": [
             {
                 "id": "landocalrissian",
+                "name": "landocalrissian",
                 "points": 78,
                 "ship": "customizedyt1300lightfreighter",
                 "upgrades": {
@@ -39,6 +41,7 @@
             },
             {
                 "id": "4lom",
+                "name": "4lom",
                 "points": 59,
                 "ship": "g1astarfighter",
                 "upgrades": {
@@ -55,6 +58,7 @@
             },
             {
                 "id": "blacksunassassin",
+                "name": "blacksunassassin",
                 "points": 60,
                 "ship": "starviperclassattackplatform",
                 "upgrades": {
@@ -68,7 +72,13 @@
             }
         ],
         "points": 197,
-        "vendor": {},
+        "vendor": {
+            "yasb": {
+                "builder": "Yet Another Squad Builder 2.0",
+                "builder_url": "https://raithos.github.io/",
+                "link": "https://raithos.github.io/?f=Scum%20and%20Villainy&d=v8ZsZ200Z90X122W102W36W63W79W93W107WY109XWWW95W103W155WY150XW112W134WW&sn=Rhys%20James%20JTO&obs=yt2400debris0,yt2400debris2,vt49decimatordebris1"
+            }
+        },
         "version": "2.0.0"
     },
     "Name": "Rhys James",

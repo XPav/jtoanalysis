@@ -5,6 +5,11 @@
     "Final": {
         "faction": "rebelalliance",
         "name": "Trevor Finlay JTO",
+        "obstacles": [
+            "coreasteroid0",
+            "coreasteroid1",
+            "coreasteroid2"
+        ],
         "pilots": [
             {
                 "id": "ezrabridger-tielnfighter",
@@ -52,11 +57,11 @@
                 "id": "garvendreis",
                 "points": 49,
                 "ship": "arc170starfighter",
-                "upgrades": {}
+                "upgrades": []
             }
         ],
         "points": 200,
-        "vendor": {},
+        "vendor": [],
         "version": "2.0.0"
     },
     "Name": "Trevor Finlay",

@@ -50,12 +50,17 @@
             {
                 "id": "swoop",
                 "points": 31,
-                "ship": "v19torrentstarfighter",
-                "upgrades": {}
+                "ship": "v19torrentstarfighter"
             }
         ],
         "points": 200,
-        "vendor": {},
+        "vendor": {
+            "yasb": {
+                "builder": "(Yet Another) X-Wing Miniatures Squad Builder",
+                "builder_url": "https://raithos.github.io",
+                "link": "https://raithos.github.io/?f=Galactic%20Republic&d=v8ZsZ200Z338XWWW89W241W165Y278XWW201WY363X138WWWWWY317XWW&sn=Tommy%20JTO&obs=core2asteroid5,gascloud4,gascloud5"
+            }
+        },
         "version": "2.0.0"
     },
     "Name": "Tommy Patrick Ryan",

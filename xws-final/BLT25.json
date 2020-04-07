@@ -3,7 +3,9 @@
     "Discord": "BLT25#9879",
     "Drop": "",
     "Final": {
+        "description": "",
         "faction": "firstorder",
+        "name": "Unnamed Squadron",
         "obstacles": [
             "gascloud1",
             "gascloud2",
@@ -12,6 +14,7 @@
         "pilots": [
             {
                 "id": "ember",
+                "name": "ember",
                 "points": 66,
                 "ship": "tiebainterceptor",
                 "upgrades": {
@@ -25,6 +28,7 @@
             },
             {
                 "id": "pettyofficerthanisson",
+                "name": "pettyofficerthanisson",
                 "points": 70,
                 "ship": "upsilonclasscommandshuttle",
                 "upgrades": {
@@ -39,6 +43,7 @@
             },
             {
                 "id": "firstordertestpilot",
+                "name": "firstordertestpilot",
                 "points": 63,
                 "ship": "tievnsilencer",
                 "upgrades": {
@@ -49,7 +54,13 @@
             }
         ],
         "points": 199,
-        "vendor": {},
+        "vendor": {
+            "yasb": {
+                "builder": "Yet Another Squad Builder 2.0",
+                "builder_url": "https://raithos.github.io/",
+                "link": "https://raithos.github.io/?f=First%20Order&d=v8ZsZ200Z383XW178W311WY281XWW183W37WWWW236Y287XWWW102&sn=Unnamed%20Squadron&obs=gascloud1,gascloud2,gascloud3"
+            }
+        },
         "version": "2.0.0"
     },
     "Name": "Alex Whitehead ",

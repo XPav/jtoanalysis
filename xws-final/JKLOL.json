@@ -58,18 +58,22 @@
             {
                 "id": "lieutenantblount",
                 "points": 30,
-                "ship": "z95af4headhunter",
-                "upgrades": {}
+                "ship": "z95af4headhunter"
             },
             {
                 "id": "ezrabridger-tielnfighter",
                 "points": 31,
-                "ship": "tielnfighter",
-                "upgrades": {}
+                "ship": "tielnfighter"
             }
         ],
         "points": 199,
-        "vendor": {},
+        "vendor": {
+            "yasb": {
+                "builder": "(Yet Another) X-Wing Miniatures Squad Builder",
+                "builder_url": "https://raithos.github.io",
+                "link": "https://raithos.github.io/?f=Rebel%20Alliance&d=v8ZsZ200Z27XW138W136W6W166W70WY2X133W136W7W106W142Y55XWWY14XW&sn=JKLOL%20JTO&obs=coreasteroid5,core2asteroid4,core2asteroid5"
+            }
+        },
         "version": "2.0.0"
     },
     "Name": "Jordan Klein",

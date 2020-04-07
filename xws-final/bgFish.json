@@ -28,14 +28,12 @@
             {
                 "id": "cartelexecutioner",
                 "points": 41,
-                "ship": "m12lkimogilafighter",
-                "upgrades": {}
+                "ship": "m12lkimogilafighter"
             },
             {
-                "id": "bossk-z95af4headhunter",
+                "id": "bossk-z-95headhunter",
                 "points": 29,
-                "ship": "z95af4headhunter",
-                "upgrades": {}
+                "ship": "z95af4headhunter"
             },
             {
                 "id": "constablezuvio",
@@ -49,7 +47,13 @@
             }
         ],
         "points": 195,
-        "vendor": {},
+        "vendor": {
+            "yasb": {
+                "builder": "(Yet Another) X-Wing Miniatures Squad Builder",
+                "builder_url": "https://raithos.github.io",
+                "link": "https://raithos.github.io/?f=Scum%20and%20Villainy&d=v8ZsZ200Z149XW111W134W165W163WY131XWWWWWY398XWWWY140XWWW70WW&sn=Jonas%20Malapas%20JTO&obs="
+            }
+        },
         "version": "2.0.0"
     },
     "Name": "Jonas Malapas",

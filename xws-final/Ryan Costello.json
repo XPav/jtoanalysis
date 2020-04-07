@@ -9,14 +9,12 @@
             {
                 "id": "commandermalarus",
                 "points": 38,
-                "ship": "tiefofighter",
-                "upgrades": {}
+                "ship": "tiefofighter"
             },
             {
                 "id": "avenger",
                 "points": 56,
-                "ship": "tievnsilencer",
-                "upgrades": {}
+                "ship": "tievnsilencer"
             },
             {
                 "id": "rush",
@@ -31,12 +29,17 @@
             {
                 "id": "firstorderprovocateur",
                 "points": 45,
-                "ship": "tiebainterceptor",
-                "upgrades": {}
+                "ship": "tiebainterceptor"
             }
         ],
         "points": 200,
-        "vendor": {},
+        "vendor": {
+            "yasb": {
+                "builder": "(Yet Another) X-Wing Miniatures Squad Builder",
+                "builder_url": "https://raithos.github.io",
+                "link": "https://raithos.github.io/?f=First%20Order&d=v8ZsZ200Z266XWWY283XWWWY386X186WWY384XWWW&sn=Ryan%20Costello%20JTO&obs="
+            }
+        },
         "version": "2.0.0"
     },
     "Name": "Ryan Costello",

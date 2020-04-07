@@ -19,8 +19,7 @@
             {
                 "id": "bountyhunter",
                 "points": 62,
-                "ship": "firesprayclasspatrolcraft",
-                "upgrades": {}
+                "ship": "firesprayclasspatrolcraft"
             },
             {
                 "id": "ketsuonyo",
@@ -37,7 +36,13 @@
             }
         ],
         "points": 192,
-        "vendor": {},
+        "vendor": {
+            "yasb": {
+                "builder": "(Yet Another) X-Wing Miniatures Squad Builder",
+                "builder_url": "https://raithos.github.io",
+                "link": "https://raithos.github.io/?f=Scum%20and%20Villainy&d=v8ZsZ200Z90XW102WWWWWWY108XWWWWWWY126X132WWWWW160&sn=Jacqueline%20Mitchell%20JTO&obs="
+            }
+        },
         "version": "2.0.0"
     },
     "Name": "Jacqueline Mitchell",

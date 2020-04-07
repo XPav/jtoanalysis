@@ -53,7 +53,13 @@
             }
         ],
         "points": 199,
-        "vendor": {},
+        "vendor": {
+            "yasb": {
+                "builder": "(Yet Another) X-Wing Miniatures Squad Builder",
+                "builder_url": "https://raithos.github.io",
+                "link": "https://raithos.github.io/?f=Galactic%20Empire&d=v8ZsZ200Z195X256W240W232WY169X199W240WY162X133WWW100WW144W&sn=Scott%20Collins%20JTO&obs="
+            }
+        },
         "version": "2.0.0"
     },
     "Name": "Scott Collins",

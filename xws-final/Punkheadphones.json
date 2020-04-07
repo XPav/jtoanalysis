@@ -3,12 +3,14 @@
     "Discord": "Punkheadphones#2961",
     "Drop": "Proton Rockets from Esege",
     "Final": {
+        "description": "",
         "faction": "rebelalliance",
         "name": "Nathaniel Moore JTO",
         "pilots": [
             {
                 "id": "esegetuketu",
-                "points": 69,
+                "name": "esegetuketu",
+                "points": 70,
                 "ship": "btls8kwing",
                 "upgrades": {
                     "device": [
@@ -16,7 +18,7 @@
                         "seismiccharges"
                     ],
                     "missile": [
-                        "protonrockets"
+                        "barragerockets"
                     ],
                     "torpedo": [
                         "plasmatorpedoes"
@@ -25,6 +27,7 @@
             },
             {
                 "id": "janors",
+                "name": "janors",
                 "points": 64,
                 "ship": "hwk290lightfreighter",
                 "upgrades": {
@@ -38,19 +41,25 @@
             },
             {
                 "id": "jakefarrell",
+                "name": "jakefarrell",
                 "points": 36,
-                "ship": "rz1awing",
-                "upgrades": {}
+                "ship": "rz1awing"
             },
             {
                 "id": "rebelscout",
+                "name": "rebelscout",
                 "points": 30,
-                "ship": "hwk290lightfreighter",
-                "upgrades": {}
+                "ship": "hwk290lightfreighter"
             }
         ],
-        "points": 199,
-        "vendor": {},
+        "points": 200,
+        "vendor": {
+            "yasb": {
+                "builder": "Yet Another Squad Builder 2.0",
+                "builder_url": "https://raithos.github.io/",
+                "link": "https://raithos.github.io/?f=Rebel%20Alliance&d=v8ZsZ200Z18X234W97WWWW317W71WY46XWWW164WW156Y50XWWY49XWWWW&sn=Nathaniel%20Moore%20JTO&obs="
+            }
+        },
         "version": "2.0.0"
     },
     "Name": "Nathaniel Moore",

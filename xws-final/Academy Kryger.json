@@ -14,8 +14,7 @@
             {
                 "id": "null",
                 "points": 30,
-                "ship": "tiefofighter",
-                "upgrades": {}
+                "ship": "tiefofighter"
             },
             {
                 "id": "holo",
@@ -30,24 +29,27 @@
             {
                 "id": "majorvonreg",
                 "points": 57,
-                "ship": "tiebainterceptor",
-                "upgrades": {}
+                "ship": "tiebainterceptor"
             },
             {
                 "id": "zetasquadronsurvivor",
                 "points": 32,
-                "ship": "tiesffighter",
-                "upgrades": {}
+                "ship": "tiesffighter"
             },
             {
                 "id": "epsilonsquadroncadet",
                 "points": 25,
-                "ship": "tiefofighter",
-                "upgrades": {}
+                "ship": "tiefofighter"
             }
         ],
         "points": 200,
-        "vendor": {},
+        "vendor": {
+            "yasb": {
+                "builder": "(Yet Another) X-Wing Miniatures Squad Builder",
+                "builder_url": "https://raithos.github.io",
+                "link": "https://raithos.github.io/?f=First%20Order&d=v8ZsZ200Z290XWY382X319WWWY381XWWWY259XWWWWY269XW&sn=CK_Jespersen_JTO&obs=coreasteroid0,coreasteroid1,coreasteroid2"
+            }
+        },
         "version": "2.0.0"
     },
     "Name": "Christian Krogager Jespersen",

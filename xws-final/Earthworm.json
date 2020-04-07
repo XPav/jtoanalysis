@@ -3,53 +3,51 @@
     "Discord": "Earthworm #3395",
     "Drop": "Perceptive Copilot from Outer Rim Smuggler #1",
     "Final": {
-        "faction": "rebelalliance",
-        "name": "You came in that?  You're braver than I thought!",
-        "obstacles": [
-            "yt2400debris0",
-            "yt2400debris2",
-            "vt49decimatordebris0"
-        ],
+        "faction": "galacticempire",
+        "name": "I got Soontir Fel!",
         "pilots": [
             {
-                "id": "captainrex",
+                "id": "gideonhask",
                 "points": 30,
-                "ship": "tielnfighter",
-                "upgrades": {}
+                "ship": "tielnfighter"
             },
             {
-                "id": "outerrimsmuggler",
-                "points": 95,
-                "ship": "modifiedyt1300lightfreighter",
+                "id": "captainferoph",
+                "points": 60,
+                "ship": "tiereaper",
                 "upgrades": {
                     "crew": [
-                        "magvayarro",
-                        "sawgerrera"
-                    ],
-                    "missile": [
-                        "clustermissiles"
-                    ],
-                    "modification": [
-                        "hullupgrade"
-                    ],
-                    "title": [
-                        "millenniumfalcon"
+                        "grandinquisitor"
                     ]
                 }
             },
             {
-                "id": "outerrimsmuggler",
-                "points": 73,
-                "ship": "modifiedyt1300lightfreighter",
+                "id": "deathrain",
+                "points": 55,
+                "ship": "tiecapunisher",
                 "upgrades": {
-                    "missile": [
-                        "concussionmissiles"
+                    "device": [
+                        "protonbombs"
+                    ],
+                    "torpedo": [
+                        "iontorpedoes"
                     ]
                 }
+            },
+            {
+                "id": "soontirfel",
+                "points": 53,
+                "ship": "tieininterceptor"
             }
         ],
         "points": 198,
-        "vendor": {},
+        "vendor": {
+            "yasb": {
+                "builder": "(Yet Another) X-Wing Miniatures Squad Builder",
+                "builder_url": "https://raithos.github.io",
+                "link": "https://raithos.github.io/?f=Galactic%20Empire&d=v8ZsZ200Z223XWY184XW33WWY192XW135WWWWW69WY179XWW&sn=I%20got%20Soontir%20Fel!&obs="
+            }
+        },
         "version": "2.0.0"
     },
     "Name": "Kyle Meidell",

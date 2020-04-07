@@ -51,12 +51,17 @@
             {
                 "id": "ndrusuhlak",
                 "points": 30,
-                "ship": "z95af4headhunter",
-                "upgrades": {}
+                "ship": "z95af4headhunter"
             }
         ],
         "points": 197,
-        "vendor": {},
+        "vendor": {
+            "yasb": {
+                "builder": "(Yet Another) X-Wing Miniatures Squad Builder",
+                "builder_url": "https://raithos.github.io",
+                "link": "https://raithos.github.io/?f=Scum%20and%20Villainy&d=v8ZsZ200Z158XWW91WY131XW136W101W4W94W166Y97X121WY156XWWW&sn=David%20Secretain%20JTO&obs="
+            }
+        },
         "version": "2.0.0"
     },
     "Name": "David Secretain",

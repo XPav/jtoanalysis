@@ -41,18 +41,22 @@
             {
                 "id": "phoenixsquadronpilot",
                 "points": 29,
-                "ship": "rz1awing",
-                "upgrades": {}
+                "ship": "rz1awing"
             },
             {
                 "id": "airencracken",
                 "points": 36,
-                "ship": "z95af4headhunter",
-                "upgrades": {}
+                "ship": "z95af4headhunter"
             }
         ],
         "points": 200,
-        "vendor": {},
+        "vendor": {
+            "yasb": {
+                "builder": "(Yet Another) X-Wing Miniatures Squad Builder",
+                "builder_url": "https://raithos.github.io",
+                "link": "https://raithos.github.io/?f=Rebel%20Alliance&d=v8ZsZ200Z20X135W97WWWW71W69WY45XWW51WWWWY53XWY54XWW&sn=Brian%20Walling%20JTO&obs=coreasteroid5,core2asteroid4,core2asteroid5"
+            }
+        },
         "version": "2.0.0"
     },
     "Name": "Brian Walling",

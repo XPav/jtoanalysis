@@ -59,7 +59,13 @@
             }
         ],
         "points": 200,
-        "vendor": {},
+        "vendor": {
+            "yasb": {
+                "builder": "(Yet Another) X-Wing Miniatures Squad Builder",
+                "builder_url": "https://raithos.github.io",
+                "link": "https://raithos.github.io/?f=First%20Order&d=v8ZsZ200Z382X319WWW247Y384XWWW236Y243XWWW182W240WY259X206WWWW&sn=Jason%20Seagram%20JTO&obs=coreasteroid0,vt49decimatordebris0,gascloud1"
+            }
+        },
         "version": "2.0.0"
     },
     "Name": "Jason Seagram",

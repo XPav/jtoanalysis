@@ -28,8 +28,7 @@
             {
                 "id": "goldsquadrontrooper",
                 "points": 25,
-                "ship": "v19torrentstarfighter",
-                "upgrades": {}
+                "ship": "v19torrentstarfighter"
             },
             {
                 "id": "shadowsquadronveteran",
@@ -62,7 +61,13 @@
             }
         ],
         "points": 192,
-        "vendor": {},
+        "vendor": {
+            "yasb": {
+                "builder": "(Yet Another) X-Wing Miniatures Squad Builder",
+                "builder_url": "https://raithos.github.io",
+                "link": "https://raithos.github.io/?f=Galactic%20Republic&d=v8ZsZ200Z278X203W5W201W106Y321XWY360XW138WWWW70WY276X73W226W200W&sn=Random%20Squad&obs="
+            }
+        },
         "version": "2.0.0"
     },
     "Name": "Erik Sorensen",

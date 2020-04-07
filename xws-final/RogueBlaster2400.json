@@ -5,6 +5,11 @@
     "Final": {
         "faction": "firstorder",
         "name": "RogueBlaster2400 JTO",
+        "obstacles": [
+            "coreasteroid1",
+            "coreasteroid3",
+            "gascloud1"
+        ],
         "pilots": [
             {
                 "id": "lieutenantlehuse",
@@ -41,8 +46,7 @@
             {
                 "id": "null",
                 "points": 30,
-                "ship": "tiefofighter",
-                "upgrades": {}
+                "ship": "tiefofighter"
             },
             {
                 "id": "majorvonreg",
@@ -56,7 +60,13 @@
             }
         ],
         "points": 196,
-        "vendor": {},
+        "vendor": {
+            "yasb": {
+                "builder": "(Yet Another) X-Wing Miniatures Squad Builder",
+                "builder_url": "https://raithos.github.io",
+                "link": "https://raithos.github.io/?f=First%20Order&d=v8ZsZ200Z397XWWW88WW247Y384X319W202W102W166Y290XWY381X181WWW&sn=RogueBlaster2400%20JTO&obs=coreasteroid1,coreasteroid3,gascloud1"
+            }
+        },
         "version": "2.0.0"
     },
     "Name": "AJ Scarson",

@@ -21,8 +21,8 @@
                         "protonrockets"
                     ],
                     "modification": [
-                        "munitionsfailsafe",
-                        "tacticalscrambler"
+                        "tacticalscrambler",
+                        "munitionsfailsafe"
                     ]
                 }
             },
@@ -60,7 +60,13 @@
             }
         ],
         "points": 199,
-        "vendor": {},
+        "vendor": {
+            "yasb": {
+                "builder": "(Yet Another) X-Wing Miniatures Squad Builder",
+                "builder_url": "https://raithos.github.io",
+                "link": "https://raithos.github.io/?f=Rebel%20Alliance&d=v8ZsZ200Z44XW102W84W54WW110W108WY12X93W131WWW165W142Y13X125W106&sn=Dale%20Capron%20JTO&obs="
+            }
+        },
         "version": "2.0.0"
     },
     "Name": "Dale Capron",

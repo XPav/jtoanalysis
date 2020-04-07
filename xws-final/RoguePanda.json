@@ -39,12 +39,17 @@
             {
                 "id": "arvelcrynyd",
                 "points": 34,
-                "ship": "rz1awing",
-                "upgrades": {}
+                "ship": "rz1awing"
             }
         ],
         "points": 200,
-        "vendor": {},
+        "vendor": {
+            "yasb": {
+                "builder": "(Yet Another) X-Wing Miniatures Squad Builder",
+                "builder_url": "https://raithos.github.io",
+                "link": "https://raithos.github.io/?f=Rebel%20Alliance&d=v8ZsZ200Z61XWWW137W41W53WW84W148Y77XW134WWWWY51XWW&sn=Steven%20Sior%20JTO&obs="
+            }
+        },
         "version": "2.0.0"
     },
     "Name": "Steven Sior",

@@ -57,7 +57,13 @@
             }
         ],
         "points": 198,
-        "vendor": {},
+        "vendor": {
+            "yasb": {
+                "builder": "(Yet Another) X-Wing Miniatures Squad Builder",
+                "builder_url": "https://raithos.github.io",
+                "link": "https://raithos.github.io/?f=Galactic%20Republic&d=v8ZsZ200Z319X102WY333XW113W2W234Y280X136W54WWWY321XW106&sn=Robin%20Farndon%20JTO&obs="
+            }
+        },
         "version": "2.0.0"
     },
     "Name": "Robin Farndon",

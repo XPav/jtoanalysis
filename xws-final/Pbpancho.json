@@ -47,7 +47,13 @@
             }
         ],
         "points": 196,
-        "vendor": {},
+        "vendor": {
+            "yasb": {
+                "builder": "(Yet Another) X-Wing Miniatures Squad Builder",
+                "builder_url": "https://raithos.github.io",
+                "link": "https://raithos.github.io/?f=Rebel%20Alliance&d=v8ZsZ200Z56X122W99W106Y39X133WWWWW157WY60X54WW&sn=Pbpancho%27s%20Jank&obs="
+            }
+        },
         "version": "2.0.0"
     },
     "Name": "Not Matt Holland",

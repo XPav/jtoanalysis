@@ -3,13 +3,15 @@
     "Discord": "Mboldrin",
     "Drop": "",
     "Final": {
+        "description": "",
         "faction": "scumandvillainy",
+        "name": "New Squadron",
         "pilots": [
             {
                 "id": "captainseevor",
                 "points": 30,
                 "ship": "modifiedtielnfighter",
-                "upgrades": {}
+                "upgrades": []
             },
             {
                 "id": "jakkugunrunner",
@@ -52,8 +54,14 @@
             }
         ],
         "points": 197,
-        "vendor": {},
-        "version": "2.0.0"
+        "vendor": {
+            "lbn": {
+                "builder": "Launch Bay Next",
+                "builder_url": "https://launch-bay-next.herokuapp.com",
+                "link": "https://launch-bay-next.herokuapp.com/print?lbx='New%20Squadron'.197.3.0.(56.443).(9.164.(8.383).(12.395)).(3.179.(2.252)).(24.212.(8.356).(13.287).(14.297))"
+            }
+        },
+        "version": "2.4.9"
     },
     "Name": "Marcelo Boldrin",
     "Option1": null,

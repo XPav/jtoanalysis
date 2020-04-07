@@ -3,11 +3,18 @@
     "Discord": "judealan#7893",
     "Drop": "Shield Upgrade from Deathrain",
     "Final": {
+        "description": "",
         "faction": "galacticempire",
         "name": "Judealan JTO",
+        "obstacles": [
+            "core2asteroid0",
+            "core2asteroid1",
+            "core2asteroid2"
+        ],
         "pilots": [
             {
                 "id": "vagabond",
+                "name": "vagabond",
                 "points": 46,
                 "ship": "tieskstriker",
                 "upgrades": {
@@ -21,12 +28,13 @@
             },
             {
                 "id": "onyxsquadronscout",
+                "name": "onyxsquadronscout",
                 "points": 28,
-                "ship": "tieagaggressor",
-                "upgrades": {}
+                "ship": "tieagaggressor"
             },
             {
                 "id": "omicrongrouppilot",
+                "name": "omicrongrouppilot",
                 "points": 47,
                 "ship": "lambdaclasst4ashuttle",
                 "upgrades": {
@@ -40,6 +48,7 @@
             },
             {
                 "id": "deathrain",
+                "name": "deathrain",
                 "points": 47,
                 "ship": "tiecapunisher",
                 "upgrades": {
@@ -50,13 +59,19 @@
             },
             {
                 "id": "lieutenantkestal",
+                "name": "lieutenantkestal",
                 "points": 31,
-                "ship": "tieagaggressor",
-                "upgrades": {}
+                "ship": "tieagaggressor"
             }
         ],
         "points": 199,
-        "vendor": {},
+        "vendor": {
+            "yasb": {
+                "builder": "Yet Another Squad Builder 2.0",
+                "builder_url": "https://raithos.github.io/",
+                "link": "https://raithos.github.io/?f=Galactic%20Empire&d=v8ZsZ200Z395X124WW317WY189XWWWWWY168X113WWWW106WY192XWWWWW71WWY187XWWWWW&sn=Judealan%20JTO&obs=core2asteroid0,core2asteroid1,core2asteroid2"
+            }
+        },
         "version": "2.0.0"
     },
     "Name": "Colton",

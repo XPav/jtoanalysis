@@ -60,7 +60,13 @@
             }
         ],
         "points": 197,
-        "vendor": {},
+        "vendor": {
+            "yasb": {
+                "builder": "(Yet Another) X-Wing Miniatures Squad Builder",
+                "builder_url": "https://raithos.github.io",
+                "link": "https://raithos.github.io/?f=Galactic%20Empire&d=v8ZsZ200Z186X33W49WY178XW102W108Y176X240WW105Y186X37WW&sn=Zach%20Johnson%20JTO&obs=coreasteroid3,core2asteroid3,core2asteroid5"
+            }
+        },
         "version": "2.0.0"
     },
     "Name": "Zach Johnson",

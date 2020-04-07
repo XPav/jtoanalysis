@@ -3,72 +3,58 @@
     "Discord": "Skeletor420#2378",
     "Drop": "Ion Turret from attack shuttle",
     "Final": {
-        "faction": "rebelalliance",
-        "name": "zbbSkeletor JTO",
-        "obstacles": [
-            "core2asteroid1",
-            "core2asteroid3",
-            "core2asteroid5"
-        ],
+        "description": "",
+        "faction": "resistance",
+        "name": "Tourney class",
         "pilots": [
             {
-                "id": "ezrabridger",
-                "points": 47,
-                "ship": "attackshuttle",
+                "id": "logisticsdivisionpilot",
+                "points": 35,
+                "ship": "resistancetransport",
                 "upgrades": {
-                    "crew": [
-                        "herasyndulla"
-                    ],
-                    "force-power": [
-                        "heightenedperception"
+                    "cannon": [
+                        "tractorbeam"
                     ]
                 }
             },
             {
-                "id": "wardensquadronpilot",
-                "points": 62,
-                "ship": "btls8kwing",
+                "id": "nodinchavdri",
+                "points": 65,
+                "ship": "resistancetransport",
                 "upgrades": {
                     "crew": [
-                        "perceptivecopilot"
+                        "hansolo-crew",
+                        "korrsella"
                     ],
-                    "device": [
-                        "ionbombs"
+                    "modification": [
+                        "staticdischargevanes"
+                    ],
+                    "torpedo": [
+                        "protontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "rey",
+                "points": 94,
+                "ship": "scavengedyt1300",
+                "upgrades": {
+                    "crew": [
+                        "leiaorgana-resistance"
                     ],
                     "gunner": [
-                        "skilledbombardier"
-                    ],
-                    "missile": [
-                        "barragerockets"
+                        "hotshotgunner"
                     ]
                 }
-            },
-            {
-                "id": "fennrau-sheathipedeclassshuttle",
-                "points": 61,
-                "ship": "sheathipedeclassshuttle",
-                "upgrades": {
-                    "astromech": [
-                        "chopper"
-                    ],
-                    "crew": [
-                        "jynerso"
-                    ],
-                    "talent": [
-                        "snapshot"
-                    ]
-                }
-            },
-            {
-                "id": "phoenixsquadronpilot",
-                "points": 29,
-                "ship": "rz1awing",
-                "upgrades": {}
             }
         ],
-        "points": 199,
-        "vendor": {},
-        "version": "2.0.0"
+        "points": 194,
+        "vendor": {
+            "sb2xws": {
+                "builder": "SB2XWS",
+                "url": "http://sb2xws.herokuapp.com/translate/87e3ebfc-13b5-492c-9fbc-1ef95b2b4065"
+            }
+        }
     },
     "Name": "Chris",
     "Option1": {

@@ -59,7 +59,13 @@
             }
         ],
         "points": 200,
-        "vendor": {},
+        "vendor": {
+            "yasb": {
+                "builder": "(Yet Another) X-Wing Miniatures Squad Builder",
+                "builder_url": "https://raithos.github.io",
+                "link": "https://raithos.github.io/?f=Galactic%20Republic&d=v8ZsZ200Z340X120W136W54W89W6W165Y273X72W214W200WY333X119WWW&sn=Luc%20Girod%20JTO&obs="
+            }
+        },
         "version": "2.0.0"
     },
     "Name": "Luc Girod",

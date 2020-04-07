@@ -4,7 +4,12 @@
     "Drop": "Trajectory Simulator - Nu",
     "Final": {
         "faction": "galacticempire",
-        "name": "gregkash - JTO",
+        "name": "gregkash JTO",
+        "obstacles": [
+            "coreasteroid0",
+            "coreasteroid1",
+            "coreasteroid2"
+        ],
         "pilots": [
             {
                 "id": "captainferoph",
@@ -60,12 +65,17 @@
             {
                 "id": "idenversio",
                 "points": 41,
-                "ship": "tielnfighter",
-                "upgrades": {}
+                "ship": "tielnfighter"
             }
         ],
         "points": 195,
-        "vendor": {},
+        "vendor": {
+            "yasb": {
+                "builder": "(Yet Another) X-Wing Miniatures Squad Builder",
+                "builder_url": "https://raithos.github.io",
+                "link": "https://raithos.github.io/?f=Galactic%20Empire&d=v8ZsZ200Z184X125W37WW164Y164XW134W102W104W139WWY207XW234W97WWWWW249Y218XW&sn=gregkash%20JTO&obs=coreasteroid0,coreasteroid1,coreasteroid2"
+            }
+        },
         "version": "2.0.0"
     },
     "Name": "Greg",

@@ -38,18 +38,22 @@
             {
                 "id": "fennrau-sheathipedeclassshuttle",
                 "points": 50,
-                "ship": "sheathipedeclassshuttle",
-                "upgrades": {}
+                "ship": "sheathipedeclassshuttle"
             },
             {
                 "id": "rebelscout",
                 "points": 30,
-                "ship": "hwk290lightfreighter",
-                "upgrades": {}
+                "ship": "hwk290lightfreighter"
             }
         ],
         "points": 197,
-        "vendor": {},
+        "vendor": {
+            "yasb": {
+                "builder": "(Yet Another) X-Wing Miniatures Squad Builder",
+                "builder_url": "https://raithos.github.io",
+                "link": "https://raithos.github.io/?f=Rebel%20Alliance&d=v8ZsZ200Z63XWW137W58WWWW148Y71XWWW4W167Y69XWWWWY49XWWWW&sn=Paul%20Johnson%20JTO&obs="
+            }
+        },
         "version": "2.0.0"
     },
     "Name": "Paul Johnson",

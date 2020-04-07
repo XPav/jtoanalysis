@@ -40,8 +40,7 @@
             {
                 "id": "talasquadronpilot",
                 "points": 24,
-                "ship": "z95af4headhunter",
-                "upgrades": {}
+                "ship": "z95af4headhunter"
             },
             {
                 "id": "lieutenantblount",
@@ -55,7 +54,13 @@
             }
         ],
         "points": 197,
-        "vendor": {},
+        "vendor": {
+            "yasb": {
+                "builder": "(Yet Another) X-Wing Miniatures Squad Builder",
+                "builder_url": "https://raithos.github.io",
+                "link": "https://raithos.github.io/?f=Rebel%20Alliance&d=v8ZsZ200Z76XW11WWWWY72XW46WWWY17XWWWWW70W71WY56XWWY55XW311W&sn=Eddie%20Preisser%20JTO&obs="
+            }
+        },
         "version": "2.0.0"
     },
     "Name": "Eddie",

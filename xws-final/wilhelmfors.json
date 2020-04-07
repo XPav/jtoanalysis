@@ -29,18 +29,22 @@
             {
                 "id": "ember",
                 "points": 52,
-                "ship": "tiebainterceptor",
-                "upgrades": {}
+                "ship": "tiebainterceptor"
             },
             {
                 "id": "commandermalarus",
                 "points": 38,
-                "ship": "tiefofighter",
-                "upgrades": {}
+                "ship": "tiefofighter"
             }
         ],
         "points": 200,
-        "vendor": {},
+        "vendor": {
+            "yasb": {
+                "builder": "(Yet Another) X-Wing Miniatures Squad Builder",
+                "builder_url": "https://raithos.github.io",
+                "link": "https://raithos.github.io/?f=First%20Order&d=v8ZsZ200Z384X119WWWY287X126WWWY383XWWWY266XWW&sn=JTO%20Wilhelm%20Fors&obs="
+            }
+        },
         "version": "2.0.0"
     },
     "Name": "Wilhelm Fors",

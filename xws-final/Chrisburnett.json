@@ -32,8 +32,7 @@
             {
                 "id": "arvelcrynyd",
                 "points": 34,
-                "ship": "rz1awing",
-                "upgrades": {}
+                "ship": "rz1awing"
             },
             {
                 "id": "rebelscout",
@@ -56,7 +55,13 @@
             }
         ],
         "points": 200,
-        "vendor": {},
+        "vendor": {
+            "yasb": {
+                "builder": "(Yet Another) X-Wing Miniatures Squad Builder",
+                "builder_url": "https://raithos.github.io",
+                "link": "https://raithos.github.io/?f=Rebel%20Alliance&d=v8ZsZ200Z77XWW314WWWY55X116W99WY51XWWY49X69W46W109WW156&sn=Chris%20Burnett%20JTO&obs="
+            }
+        },
         "version": "2.0.0"
     },
     "Name": "Chris Burnett",

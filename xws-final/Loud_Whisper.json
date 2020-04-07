@@ -3,6 +3,7 @@
     "Discord": "Whisper",
     "Drop": "Cluster Missles (L'ulo)",
     "Final": {
+        "description": "",
         "faction": "resistance",
         "name": "Nobbie JTO",
         "obstacles": [
@@ -13,12 +14,13 @@
         "pilots": [
             {
                 "id": "greensquadronexpert",
+                "name": "greensquadronexpert",
                 "points": 34,
-                "ship": "rz2awing",
-                "upgrades": {}
+                "ship": "rz2awing"
             },
             {
                 "id": "lulolampar",
+                "name": "lulolampar",
                 "points": 48,
                 "ship": "rz2awing",
                 "upgrades": {
@@ -29,6 +31,7 @@
             },
             {
                 "id": "temminwexley",
+                "name": "temminwexley",
                 "points": 59,
                 "ship": "t70xwing",
                 "upgrades": {
@@ -45,6 +48,7 @@
             },
             {
                 "id": "karekun",
+                "name": "karekun",
                 "points": 58,
                 "ship": "t70xwing",
                 "upgrades": {
@@ -58,7 +62,13 @@
             }
         ],
         "points": 199,
-        "vendor": {},
+        "vendor": {
+            "yasb": {
+                "builder": "Yet Another Squad Builder 2.0",
+                "builder_url": "https://raithos.github.io/",
+                "link": "https://raithos.github.io/?f=Resistance&d=v8ZsZ200Z300XWWWY239X124WWWY297XW190WW175WW171WY252XW197WW175WWW&sn=Nobbie%20JTO&obs=gascloud1,gascloud2,gascloud3"
+            }
+        },
         "version": "2.0.0"
     },
     "Name": "Nobbie",

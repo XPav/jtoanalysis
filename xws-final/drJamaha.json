@@ -72,7 +72,13 @@
             }
         ],
         "points": 195,
-        "vendor": {},
+        "vendor": {
+            "yasb": {
+                "builder": "(Yet Another) X-Wing Miniatures Squad Builder",
+                "builder_url": "https://raithos.github.io",
+                "link": "https://raithos.github.io/?f=Separatist%20Alliance&d=v8ZsZ200Z307X239WWY279X224WWY305XWW166W229Y325X240W235WWW237Y311XW208W&sn=Jari-Matti%20Hannula%20JTO&obs=coreasteroid2,coreasteroid3,coreasteroid5"
+            }
+        },
         "version": "2.0.0"
     },
     "Name": "Jari-Matti Hannula",

@@ -3,11 +3,13 @@
     "Discord": "#8692",
     "Drop": "Seasoned Navigator off Lambda shuttle",
     "Final": {
+        "description": "",
         "faction": "galacticempire",
         "name": "Mike Domino JTO",
         "pilots": [
             {
                 "id": "inquisitor",
+                "name": "inquisitor",
                 "points": 43,
                 "ship": "tieadvancedv1",
                 "upgrades": {
@@ -21,6 +23,7 @@
             },
             {
                 "id": "inquisitor",
+                "name": "inquisitor",
                 "points": 48,
                 "ship": "tieadvancedv1",
                 "upgrades": {
@@ -37,6 +40,7 @@
             },
             {
                 "id": "coloneljendon",
+                "name": "coloneljendon",
                 "points": 59,
                 "ship": "lambdaclasst4ashuttle",
                 "upgrades": {
@@ -53,6 +57,7 @@
             },
             {
                 "id": "gammasquadronace",
+                "name": "gammasquadronace",
                 "points": 48,
                 "ship": "tiesabomber",
                 "upgrades": {
@@ -69,7 +74,13 @@
             }
         ],
         "points": 198,
-        "vendor": {},
+        "vendor": {
+            "yasb": {
+                "builder": "Yet Another Squad Builder 2.0",
+                "builder_url": "https://raithos.github.io/",
+                "link": "https://raithos.github.io/?f=Galactic%20Empire&d=v8ZsZ200Z171XW240W98Y171X73W112W99Y167X112WWWW236W162Y207XWW99WWW317WW109&sn=Mike%20Domino%20JTO&obs="
+            }
+        },
         "version": "2.0.0"
     },
     "Name": "Mike Domino",

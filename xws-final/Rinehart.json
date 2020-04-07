@@ -25,14 +25,12 @@
             {
                 "id": "captainjostero",
                 "points": 42,
-                "ship": "kihraxzfighter",
-                "upgrades": {}
+                "ship": "kihraxzfighter"
             },
             {
                 "id": "overseeryushyn",
                 "points": 26,
-                "ship": "modifiedtielnfighter",
-                "upgrades": {}
+                "ship": "modifiedtielnfighter"
             },
             {
                 "id": "skullsquadronpilot",
@@ -46,7 +44,13 @@
             }
         ],
         "points": 198,
-        "vendor": {},
+        "vendor": {
+            "yasb": {
+                "builder": "(Yet Another) X-Wing Miniatures Squad Builder",
+                "builder_url": "https://raithos.github.io",
+                "link": "https://raithos.github.io/?f=Scum%20and%20Villainy&d=v8ZsZ200Z83X122WWWW70WW236WY122XWWWWY303XY101XW234&sn=Rinehart%20Jank%20Tank&obs="
+            }
+        },
         "version": "2.0.0"
     },
     "Name": "Ryan Fleming",

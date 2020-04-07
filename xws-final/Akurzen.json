@@ -65,7 +65,13 @@
             }
         ],
         "points": 199,
-        "vendor": {},
+        "vendor": {
+            "yasb": {
+                "builder": "(Yet Another) X-Wing Miniatures Squad Builder",
+                "builder_url": "https://raithos.github.io",
+                "link": "https://raithos.github.io/?f=Galactic%20Empire&d=v8ZsZ200Z199X128W112WW164Y174X125W113W98WY224X132WY218XW249&sn=Sean%20Pohl%20JTO&obs=gascloud4,gascloud5,gascloud6"
+            }
+        },
         "version": "2.0.0"
     },
     "Name": "Sean Pohl",

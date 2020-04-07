@@ -34,8 +34,7 @@
             {
                 "id": "colossusstationmechanic",
                 "points": 26,
-                "ship": "fireball",
-                "upgrades": {}
+                "ship": "fireball"
             },
             {
                 "id": "nodinchavdri",
@@ -60,7 +59,13 @@
             }
         ],
         "points": 198,
-        "vendor": {},
+        "vendor": {
+            "yasb": {
+                "builder": "(Yet Another) X-Wing Miniatures Squad Builder",
+                "builder_url": "https://raithos.github.io",
+                "link": "https://raithos.github.io/?f=Resistance&d=v8ZsZ200Z351X122WW11W234W244WW196W106Y380XWWWWWY352XWWW192W191WWY254XWW175WWW&sn=Christopher%20Peters%20JTO&obs="
+            }
+        },
         "version": "2.0.0"
     },
     "Name": "Christopher Peters",

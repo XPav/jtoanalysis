@@ -9,8 +9,7 @@
             {
                 "id": "chertek",
                 "points": 39,
-                "ship": "nantexclassstarfighter",
-                "upgrades": {}
+                "ship": "nantexclassstarfighter"
             },
             {
                 "id": "captainsear",
@@ -60,12 +59,17 @@
             {
                 "id": "dfs311",
                 "points": 23,
-                "ship": "vultureclassdroidfighter",
-                "upgrades": {}
+                "ship": "vultureclassdroidfighter"
             }
         ],
         "points": 197,
-        "vendor": {},
+        "vendor": {
+            "yasb": {
+                "builder": "(Yet Another) X-Wing Miniatures Squad Builder",
+                "builder_url": "https://raithos.github.io",
+                "link": "https://raithos.github.io/?f=Separatist%20Alliance&d=v8ZsZ200Z356XWY308XW207W229Y325XW71WW165W237Y326X135W224WWW237Y337XWW&sn=cubsfan4life%20jank%20tank%20squad&obs="
+            }
+        },
         "version": "2.0.0"
     },
     "Name": "Andy Priest",

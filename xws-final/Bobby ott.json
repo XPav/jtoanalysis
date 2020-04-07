@@ -54,7 +54,13 @@
             }
         ],
         "points": 200,
-        "vendor": {},
+        "vendor": {
+            "yasb": {
+                "builder": "(Yet Another) X-Wing Miniatures Squad Builder",
+                "builder_url": "https://raithos.github.io",
+                "link": "https://raithos.github.io/?f=Scum%20and%20Villainy&d=v8ZsZ200Z112XW43WWWWW156Y98X121W134Y142XW30WWWY141XWW316WW&sn=Fun%20Bobby%20JTO&obs="
+            }
+        },
         "version": "2.0.0"
     },
     "Name": "Bobby Ott",

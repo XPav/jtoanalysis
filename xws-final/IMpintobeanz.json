@@ -43,18 +43,22 @@
             {
                 "id": "ndrusuhlak",
                 "points": 30,
-                "ship": "z95af4headhunter",
-                "upgrades": {}
+                "ship": "z95af4headhunter"
             },
             {
                 "id": "gandfindsman",
                 "points": 41,
-                "ship": "g1astarfighter",
-                "upgrades": {}
+                "ship": "g1astarfighter"
             }
         ],
         "points": 200,
-        "vendor": {},
+        "vendor": {
+            "yasb": {
+                "builder": "(Yet Another) X-Wing Miniatures Squad Builder",
+                "builder_url": "https://raithos.github.io",
+                "link": "https://raithos.github.io/?f=Scum%20and%20Villainy&d=v8ZsZ200Z114X36WWW165WW156Y148X256W240WWWY156XWWWY111XWWWW&sn=Jason%20Pint%20JTO&obs=yt2400debris1,core2asteroid3,core2asteroid5"
+            }
+        },
         "version": "2.0.0"
     },
     "Name": "Jason Pint",

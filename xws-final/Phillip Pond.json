@@ -60,7 +60,13 @@
             }
         ],
         "points": 197,
-        "vendor": {},
+        "vendor": {
+            "yasb": {
+                "builder": "(Yet Another) X-Wing Miniatures Squad Builder",
+                "builder_url": "https://raithos.github.io",
+                "link": "https://raithos.github.io/?f=First%20Order&d=v8ZsZ200Z242XW178W102WW113W164Y264X133W186WY283XW186WWY267XW178W&sn=Phillip%20Pond%20JTO&obs="
+            }
+        },
         "version": "2.0.0"
     },
     "Name": "Phillip Pond",

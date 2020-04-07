@@ -3,11 +3,13 @@
     "Discord": "cmveas",
     "Drop": "Ion Torpedo from the Skull Squadron Pilot",
     "Final": {
+        "description": "",
         "faction": "scumandvillainy",
         "name": "Claudio Veas JTO",
         "pilots": [
             {
                 "id": "ig88b",
+                "name": "ig88b",
                 "points": 63,
                 "ship": "aggressorassaultfighter",
                 "upgrades": {
@@ -18,6 +20,7 @@
             },
             {
                 "id": "jakkugunrunner",
+                "name": "jakkugunrunner",
                 "points": 32,
                 "ship": "quadrijettransferspacetug",
                 "upgrades": {
@@ -28,6 +31,7 @@
             },
             {
                 "id": "serissu",
+                "name": "serissu",
                 "points": 47,
                 "ship": "m3ainterceptor",
                 "upgrades": {
@@ -38,6 +42,7 @@
             },
             {
                 "id": "skullsquadronpilot",
+                "name": "skullsquadronpilot",
                 "points": 50,
                 "ship": "fangfighter",
                 "upgrades": {
@@ -48,7 +53,13 @@
             }
         ],
         "points": 192,
-        "vendor": {},
+        "vendor": {
+            "yasb": {
+                "builder": "Yet Another Squad Builder 2.0",
+                "builder_url": "https://raithos.github.io/",
+                "link": "https://raithos.github.io/?f=Scum%20and%20Villainy&d=v8ZsZ200Z82XWW12WWWWWY143XWWWW106Y132XWW135Y101X121W&sn=Claudio%20Veas%20JTO&obs="
+            }
+        },
         "version": "2.0.0"
     },
     "Name": "Claudio Veas",

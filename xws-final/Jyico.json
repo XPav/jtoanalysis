@@ -68,7 +68,13 @@
             }
         ],
         "points": 200,
-        "vendor": {},
+        "vendor": {
+            "yasb": {
+                "builder": "(Yet Another) X-Wing Miniatures Squad Builder",
+                "builder_url": "https://raithos.github.io",
+                "link": "https://raithos.github.io/?f=First%20Order&d=v8ZsZ200Z242X256W178W99W182W112W106Y268X177WY289XWW184WW30W13W112W108&sn=Jyico%20JTO&obs=coreasteroid5,core2asteroid4,core2asteroid5"
+            }
+        },
         "version": "2.0.0"
     },
     "Name": "Jon Conley",

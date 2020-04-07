@@ -35,8 +35,7 @@
             {
                 "id": "104thbattalionpilot",
                 "points": 42,
-                "ship": "arc170starfighter",
-                "upgrades": {}
+                "ship": "arc170starfighter"
             },
             {
                 "id": "barrissoffee",
@@ -50,7 +49,13 @@
             }
         ],
         "points": 198,
-        "vendor": {},
+        "vendor": {
+            "yasb": {
+                "builder": "(Yet Another) X-Wing Miniatures Squad Builder",
+                "builder_url": "https://raithos.github.io",
+                "link": "https://raithos.github.io/?f=Galactic%20Republic&d=v8ZsZ200Z322X116WW2WY332XW111W2WY341XWWWWY275XW252WW&sn=Nick%20Yurko%20JTO&obs="
+            }
+        },
         "version": "2.0.0"
     },
     "Name": "Nick Yurko",

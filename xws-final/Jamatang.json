@@ -52,7 +52,13 @@
             }
         ],
         "points": 200,
-        "vendor": {},
+        "vendor": {
+            "yasb": {
+                "builder": "(Yet Another) X-Wing Miniatures Squad Builder",
+                "builder_url": "https://raithos.github.io",
+                "link": "https://raithos.github.io/?f=Rebel%20Alliance&d=v8ZsZ200Z46XWW18WWW156Y61XW111WWWWWWW148Y67XW19WW138W&sn=James%20O%27Donoghue%20JTO&obs=gascloud1,gascloud2,gascloud3"
+            }
+        },
         "version": "2.0.0"
     },
     "Name": "James O'Donoghue",

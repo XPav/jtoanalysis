@@ -50,7 +50,13 @@
             }
         ],
         "points": 198,
-        "vendor": {},
+        "vendor": {
+            "yasb": {
+                "builder": "(Yet Another) X-Wing Miniatures Squad Builder",
+                "builder_url": "https://raithos.github.io",
+                "link": "https://raithos.github.io/?f=First%20Order&d=v8ZsZ200Z384XW206W99WY381X116W206W99WY237X124WWW100&sn=Andy%20van%20Zanten%20-%20JTO&obs="
+            }
+        },
         "version": "2.0.0"
     },
     "Name": "Andy van Zanten",

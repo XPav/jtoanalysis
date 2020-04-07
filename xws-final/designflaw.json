@@ -38,12 +38,17 @@
             {
                 "id": "wildspacefringer",
                 "points": 77,
-                "ship": "yt2400lightfreighter",
-                "upgrades": {}
+                "ship": "yt2400lightfreighter"
             }
         ],
         "points": 199,
-        "vendor": {},
+        "vendor": {
+            "yasb": {
+                "builder": "(Yet Another) X-Wing Miniatures Squad Builder",
+                "builder_url": "https://raithos.github.io",
+                "link": "https://raithos.github.io/?f=Rebel%20Alliance&d=v8ZsZ200Z72XW46WW2WY64X134WWWWW236W88WY41XWWWWW&sn=designflaw%20JTO&obs="
+            }
+        },
         "version": "2.0.0"
     },
     "Name": "Scott Canham",

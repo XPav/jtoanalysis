@@ -39,11 +39,11 @@
                 "id": "ember",
                 "points": 52,
                 "ship": "tiebainterceptor",
-                "upgrades": {}
+                "upgrades": []
             }
         ],
         "points": 193,
-        "vendor": {},
+        "vendor": [],
         "version": "2.0.0"
     },
     "Name": "Samuel Carmel",

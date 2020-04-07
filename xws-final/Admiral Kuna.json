@@ -5,11 +5,6 @@
     "Final": {
         "faction": "separatistalliance",
         "name": "Arkadiusz Kuna JTO",
-        "obstacles": [
-            "yt2400debris1",
-            "core2asteroid1",
-            "core2asteroid2"
-        ],
         "pilots": [
             {
                 "id": "darthmaul",
@@ -27,8 +22,7 @@
             {
                 "id": "berwerkret",
                 "points": 40,
-                "ship": "nantexclassstarfighter",
-                "upgrades": {}
+                "ship": "nantexclassstarfighter"
             },
             {
                 "id": "separatistbomber",
@@ -58,7 +52,13 @@
             }
         ],
         "points": 193,
-        "vendor": {},
+        "vendor": {
+            "yasb": {
+                "builder": "(Yet Another) X-Wing Miniatures Squad Builder",
+                "builder_url": "https://raithos.github.io",
+                "link": "https://raithos.github.io/?f=Separatist%20Alliance&d=v8ZsZ200Z272X203WWW32WWWWWY358XWY327XW311WWWY326X134WW70WW237&sn=Arkadiusz%20Kuna%20JTO&obs="
+            }
+        },
         "version": "2.0.0"
     },
     "Name": "Arkadiusz Kuna",

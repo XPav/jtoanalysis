@@ -5,24 +5,26 @@
     "Final": {
         "faction": "firstorder",
         "name": "Patrick Hanson JTO",
+        "obstacles": [
+            "coreasteroid0",
+            "coreasteroid3",
+            "coreasteroid4"
+        ],
         "pilots": [
             {
                 "id": "scorch",
                 "points": 33,
-                "ship": "tiefofighter",
-                "upgrades": {}
+                "ship": "tiefofighter"
             },
             {
                 "id": "midnight",
                 "points": 42,
-                "ship": "tiefofighter",
-                "upgrades": {}
+                "ship": "tiefofighter"
             },
             {
                 "id": "firstorderprovocateur",
                 "points": 45,
-                "ship": "tiebainterceptor",
-                "upgrades": {}
+                "ship": "tiebainterceptor"
             },
             {
                 "id": "tn3465",
@@ -46,7 +48,13 @@
             }
         ],
         "points": 199,
-        "vendor": {},
+        "vendor": {
+            "yasb": {
+                "builder": "(Yet Another) X-Wing Miniatures Squad Builder",
+                "builder_url": "https://raithos.github.io",
+                "link": "https://raithos.github.io/?f=First%20Order&d=v8ZsZ200Z262XWWY233XWWY384XWWWY261X177WY397XWW99WWW&sn=Patrick%20Hanson%20JTO&obs=coreasteroid0,coreasteroid3,coreasteroid4"
+            }
+        },
         "version": "2.0.0"
     },
     "Name": "Patrick Hanson",

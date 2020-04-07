@@ -51,12 +51,17 @@
             {
                 "id": "goldsquadrontrooper",
                 "points": 25,
-                "ship": "v19torrentstarfighter",
-                "upgrades": {}
+                "ship": "v19torrentstarfighter"
             }
         ],
         "points": 194,
-        "vendor": {},
+        "vendor": {
+            "yasb": {
+                "builder": "(Yet Another) X-Wing Miniatures Squad Builder",
+                "builder_url": "https://raithos.github.io",
+                "link": "https://raithos.github.io/?f=Galactic%20Republic&d=v8ZsZ200Z317X122W100WY342X124W135WWWWY359X203WW135WW5WWY321XW&sn=Alex%20Pavloff%20(XPav)%20JTO&obs="
+            }
+        },
         "version": "2.0.0"
     },
     "Name": "Alex Pavloff",

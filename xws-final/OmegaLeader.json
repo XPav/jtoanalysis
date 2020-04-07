@@ -52,12 +52,17 @@
             {
                 "id": "longshot",
                 "points": 31,
-                "ship": "tiefofighter",
-                "upgrades": {}
+                "ship": "tiefofighter"
             }
         ],
         "points": 199,
-        "vendor": {},
+        "vendor": {
+            "yasb": {
+                "builder": "(Yet Another) X-Wing Miniatures Squad Builder",
+                "builder_url": "https://raithos.github.io",
+                "link": "https://raithos.github.io/?f=First%20Order&d=v8ZsZ200Z261XW164Y382X132WWW236Y235X131WWY259X177WWWWY263XWW&sn=Christopher%20Spenner%20JTO&obs="
+            }
+        },
         "version": "2.0.0"
     },
     "Name": "Christopher Spenner",

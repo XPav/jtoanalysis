@@ -34,20 +34,17 @@
             {
                 "id": "bluesquadronprotector",
                 "points": 27,
-                "ship": "v19torrentstarfighter",
-                "upgrades": {}
+                "ship": "v19torrentstarfighter"
             },
             {
                 "id": "shadowsquadronveteran",
                 "points": 32,
-                "ship": "btlbywing",
-                "upgrades": {}
+                "ship": "btlbywing"
             },
             {
                 "id": "redsquadronbomber",
                 "points": 30,
-                "ship": "btlbywing",
-                "upgrades": {}
+                "ship": "btlbywing"
             },
             {
                 "id": "ahsokatano",
@@ -61,7 +58,13 @@
             }
         ],
         "points": 200,
-        "vendor": {},
+        "vendor": {
+            "yasb": {
+                "builder": "(Yet Another) X-Wing Miniatures Squad Builder",
+                "builder_url": "https://raithos.github.io",
+                "link": "https://raithos.github.io/?f=Galactic%20Republic&d=v8ZsZ200Z316X119WWY320X116WWY320XWWY360XWWWWWWY361XWWWWWY276XWW200W&sn=John%20Gardner%20JTO&obs=coreasteroid5,core2asteroid4,core2asteroid5"
+            }
+        },
         "version": "2.0.0"
     },
     "Name": "John Gardner",

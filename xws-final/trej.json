@@ -27,8 +27,7 @@
             {
                 "id": "omegasquadronace",
                 "points": 28,
-                "ship": "tiefofighter",
-                "upgrades": {}
+                "ship": "tiefofighter"
             },
             {
                 "id": "captainphasma",
@@ -43,12 +42,17 @@
             {
                 "id": "starkillerbasepilot",
                 "points": 58,
-                "ship": "upsilonclasscommandshuttle",
-                "upgrades": {}
+                "ship": "upsilonclasscommandshuttle"
             }
         ],
         "points": 200,
-        "vendor": {},
+        "vendor": {
+            "yasb": {
+                "builder": "(Yet Another) X-Wing Miniatures Squad Builder",
+                "builder_url": "https://raithos.github.io",
+                "link": "https://raithos.github.io/?f=First%20Order&d=v8ZsZ200Z286X178W234WY267XWWY385XWWW182WWY288XWWWWWWW&sn=Pawel%20Morawski%20JTO&obs=coreasteroid5,core2asteroid4,core2asteroid5"
+            }
+        },
         "version": "2.0.0"
     },
     "Name": "Pawel Morawski",

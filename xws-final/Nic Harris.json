@@ -3,6 +3,7 @@
     "Discord": "Nic Firecast#5648",
     "Drop": "primed thrusters from first order porvocateur",
     "Final": {
+        "description": "",
         "faction": "firstorder",
         "name": "Nic Harris JTO",
         "obstacles": [
@@ -13,6 +14,7 @@
         "pilots": [
             {
                 "id": "firstorderprovocateur",
+                "name": "firstorderprovocateur",
                 "points": 52,
                 "ship": "tiebainterceptor",
                 "upgrades": {
@@ -23,6 +25,7 @@
             },
             {
                 "id": "captainphasma",
+                "name": "captainphasma",
                 "points": 48,
                 "ship": "tiesffighter",
                 "upgrades": {
@@ -39,12 +42,13 @@
             },
             {
                 "id": "sienarjaemusengineer",
+                "name": "sienarjaemusengineer",
                 "points": 51,
-                "ship": "tievnsilencer",
-                "upgrades": {}
+                "ship": "tievnsilencer"
             },
             {
                 "id": "backdraft",
+                "name": "backdraft",
                 "points": 49,
                 "ship": "tiesffighter",
                 "upgrades": {
@@ -55,7 +59,13 @@
             }
         ],
         "points": 200,
-        "vendor": {},
+        "vendor": {
+            "yasb": {
+                "builder": "Yet Another Squad Builder 2.0",
+                "builder_url": "https://raithos.github.io/",
+                "link": "https://raithos.github.io/?f=First%20Order&d=v8ZsZ200Z384X256WWWY385XW202W99WW113WY286XWWY242XWWW182WW&sn=Nic%20Harris%20JTO&obs=gascloud1,gascloud2,gascloud3"
+            }
+        },
         "version": "2.0.0"
     },
     "Name": "Nic Harris",

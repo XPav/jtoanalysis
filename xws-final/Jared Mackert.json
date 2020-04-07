@@ -50,7 +50,13 @@
             }
         ],
         "points": 198,
-        "vendor": {},
+        "vendor": {
+            "yasb": {
+                "builder": "(Yet Another) X-Wing Miniatures Squad Builder",
+                "builder_url": "https://raithos.github.io",
+                "link": "https://raithos.github.io/?f=Resistance&d=v8ZsZ200Z389XWW206WW90WWWW106Y291XWW188WWW67WWY252XW195WW175WWW&sn=Random%20Squad&obs="
+            }
+        },
         "version": "2.0.0"
     },
     "Name": "Jared Mackert",

@@ -9,8 +9,7 @@
             {
                 "id": "lieutenantblount",
                 "points": 30,
-                "ship": "z95af4headhunter",
-                "upgrades": {}
+                "ship": "z95af4headhunter"
             },
             {
                 "id": "mirandadoni",
@@ -50,7 +49,13 @@
             }
         ],
         "points": 200,
-        "vendor": {},
+        "vendor": {
+            "yasb": {
+                "builder": "(Yet Another) X-Wing Miniatures Squad Builder",
+                "builder_url": "https://raithos.github.io",
+                "link": "https://raithos.github.io/?f=Rebel%20Alliance&d=v8ZsZ200Z55XWWY17XWWWWW235WWY26XWW136WW105WW88Y59XW19WW&sn=Ben%20Worth%20JTO&obs="
+            }
+        },
         "version": "2.0.0"
     },
     "Name": "Ben Worth",

@@ -1,16 +1,22 @@
 {
-    "Add": "Cluster Missiles added to \u00c3\u00a2\u00e2\u201a\u00ac\u00c2\u00a2Esege Tuketu",
+    "Add": "Cluster Missiles added to \u00e2\u20ac\u00a2Esege Tuketu",
     "Discord": "Alejandro Sparano (Enano)#3406",
     "Drop": "Trayectory Simulator from Blade Squadron veteran",
     "Final": {
+        "description": "",
         "faction": "rebelalliance",
-        "name": "Alejandro Sparano JTO",
-        "obstacles": [
-            "coreasteroid5",
-            "core2asteroid4",
-            "core2asteroid5"
-        ],
+        "name": "Jank Tank Open",
         "pilots": [
+            {
+                "id": "bladesquadronveteran",
+                "points": 48,
+                "ship": "asf01bwing",
+                "upgrades": {
+                    "torpedo": [
+                        "iontorpedoes"
+                    ]
+                }
+            },
             {
                 "id": "ibtisam",
                 "points": 58,
@@ -51,20 +57,16 @@
                         "iontorpedoes"
                     ]
                 }
-            },
-            {
-                "id": "bladesquadronveteran",
-                "points": 48,
-                "ship": "asf01bwing",
-                "upgrades": {
-                    "torpedo": [
-                        "iontorpedoes"
-                    ]
-                }
             }
         ],
         "points": 199,
-        "vendor": {},
+        "vendor": {
+            "lbn": {
+                "builder": "Launch Bay Next",
+                "builder_url": "https://launch-bay-next.herokuapp.com",
+                "link": "https://launch-bay-next.herokuapp.com/print?lbx='Jank%20Tank%20Open'.199.1.0.(17.25.(5.263)).(31.68.(8.311).(16.278).(14.302).(1.381)).(30.63.(8.310).(12.591).(16.320).(6.266).(5.263))"
+            }
+        },
         "version": "2.0.0"
     },
     "Name": "Alejandro Sparano",

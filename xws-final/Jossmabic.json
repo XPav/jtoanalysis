@@ -3,11 +3,16 @@
     "Discord": "jossmabic",
     "Drop": "Inertials Dampeners (4*) from Moralo Eval",
     "Final": {
+        "description": "",
         "faction": "scumandvillainy",
         "name": "Jossmabic",
+        "obstacles": [
+            "coreasteroid5"
+        ],
         "pilots": [
             {
                 "id": "zealousrecruit",
+                "name": "zealousrecruit",
                 "points": 54,
                 "ship": "fangfighter",
                 "upgrades": {
@@ -18,6 +23,7 @@
             },
             {
                 "id": "moraloeval",
+                "name": "moraloeval",
                 "points": 79,
                 "ship": "yv666lightfreighter",
                 "upgrades": {
@@ -37,6 +43,7 @@
             },
             {
                 "id": "landocalrissian-escapecraft",
+                "name": "landocalrissian-escapecraft",
                 "points": 34,
                 "ship": "escapecraft",
                 "upgrades": {
@@ -47,13 +54,19 @@
             },
             {
                 "id": "constablezuvio",
+                "name": "constablezuvio",
                 "points": 33,
-                "ship": "quadrijettransferspacetug",
-                "upgrades": {}
+                "ship": "quadrijettransferspacetug"
             }
         ],
         "points": 200,
-        "vendor": {},
+        "vendor": {
+            "yasb": {
+                "builder": "Yet Another Squad Builder 2.0",
+                "builder_url": "https://raithos.github.io/",
+                "link": "https://raithos.github.io/?f=Scum%20and%20Villainy&d=v8ZsZ200Z102X136Y152XWW101WW43WWW165W150Y93XWW164Y140XWWWWW&sn=Jossmabic&obs=coreasteroid5"
+            }
+        },
         "version": "2.0.0"
     },
     "Name": "Lionel JOURDAN",

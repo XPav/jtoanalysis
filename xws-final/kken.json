@@ -4,13 +4,12 @@
     "Drop": "Targeting Synchronizer from Avenger",
     "Final": {
         "faction": "firstorder",
-        "name": "Ken Cho JTO",
+        "name": "Random Squad",
         "pilots": [
             {
                 "id": "muse",
                 "points": 30,
-                "ship": "tiefofighter",
-                "upgrades": {}
+                "ship": "tiefofighter"
             },
             {
                 "id": "recoil",
@@ -28,8 +27,7 @@
             {
                 "id": "avenger",
                 "points": 56,
-                "ship": "tievnsilencer",
-                "upgrades": {}
+                "ship": "tievnsilencer"
             },
             {
                 "id": "scorch",
@@ -43,7 +41,13 @@
             }
         ],
         "points": 194,
-        "vendor": {},
+        "vendor": {
+            "yasb": {
+                "builder": "(Yet Another) X-Wing Miniatures Squad Builder",
+                "builder_url": "https://raithos.github.io",
+                "link": "https://raithos.github.io/?f=First%20Order&d=v8ZsZ200Z235XWWY284XW178W135WY283XWWWY262XW186W&sn=Random%20Squad&obs="
+            }
+        },
         "version": "2.0.0"
     },
     "Name": "Ken District Foundry Cho",

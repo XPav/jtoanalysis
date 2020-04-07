@@ -35,8 +35,7 @@
             {
                 "id": "lulolampar",
                 "points": 43,
-                "ship": "rz2awing",
-                "upgrades": {}
+                "ship": "rz2awing"
             },
             {
                 "id": "finn",
@@ -50,7 +49,13 @@
             }
         ],
         "points": 200,
-        "vendor": {},
+        "vendor": {
+            "yasb": {
+                "builder": "(Yet Another) X-Wing Miniatures Squad Builder",
+                "builder_url": "https://raithos.github.io",
+                "link": "https://raithos.github.io/?f=Resistance&d=v8ZsZ200Z293XWWW88WW67WWY253XWWW175WW171WY239XWWWY350XWW54W&sn=i%20ncant%20thngink&obs="
+            }
+        },
         "version": "2.0.0"
     },
     "Name": "Jason Lao",

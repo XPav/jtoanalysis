@@ -1,8 +1,9 @@
 {
     "Add": "Adding Proton Torpedoes to Anakin Skywalker",
     "Discord": "Eruletho #9471",
-    "Drop": "Removing Advanced Sensors from Dine\u00c3\u0192\u00c2\u00a9 Ellberger",
+    "Drop": "Removing Advanced Sensors from Dine\u00c3\u00a9 Ellberger",
     "Final": {
+        "description": "",
         "faction": "galacticrepublic",
         "name": "Eruletho JTO",
         "obstacles": [
@@ -13,6 +14,7 @@
         "pilots": [
             {
                 "id": "dineeellberger",
+                "name": "dineeellberger",
                 "points": 54,
                 "ship": "nabooroyaln1starfighter",
                 "upgrades": {
@@ -29,6 +31,7 @@
             },
             {
                 "id": "jag",
+                "name": "jag",
                 "points": 56,
                 "ship": "arc170starfighter",
                 "upgrades": {
@@ -42,6 +45,7 @@
             },
             {
                 "id": "anakinskywalker-nabooroyaln1starfighter",
+                "name": "anakinskywalker-nabooroyaln1starfighter",
                 "points": 54,
                 "ship": "nabooroyaln1starfighter",
                 "upgrades": {
@@ -52,13 +56,19 @@
             },
             {
                 "id": "oddball",
+                "name": "oddball",
                 "points": 34,
-                "ship": "v19torrentstarfighter",
-                "upgrades": {}
+                "ship": "v19torrentstarfighter"
             }
         ],
         "points": 198,
-        "vendor": {},
+        "vendor": {
+            "yasb": {
+                "builder": "Yet Another Squad Builder 2.0",
+                "builder_url": "https://raithos.github.io/",
+                "link": "https://raithos.github.io/?f=Galactic%20Republic&d=v8ZsZ200Z331X116WW241W234Y339XWW88WW247Y322XWWW136Y316XWW&sn=Eruletho%20JTO&obs=coreasteroid5,yt2400debris2,core2asteroid5"
+            }
+        },
         "version": "2.0.0"
     },
     "Name": "Jeremy Betsch",

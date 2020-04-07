@@ -82,7 +82,13 @@
             }
         ],
         "points": 200,
-        "vendor": {},
+        "vendor": {
+            "yasb": {
+                "builder": "(Yet Another) X-Wing Miniatures Squad Builder",
+                "builder_url": "https://raithos.github.io",
+                "link": "https://raithos.github.io/?f=Resistance&d=v8ZsZ200Z271X122WW98W206Y380X102W4W310W108W106W315Y252X127W197W215W175WW171WY350XW178W54W&sn=Jared%20Becker%20JTO&obs="
+            }
+        },
         "version": "2.0.0"
     },
     "Name": "Jared Becker",

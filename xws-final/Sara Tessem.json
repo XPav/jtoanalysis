@@ -54,7 +54,13 @@
             }
         ],
         "points": 199,
-        "vendor": {},
+        "vendor": {
+            "yasb": {
+                "builder": "(Yet Another) X-Wing Miniatures Squad Builder",
+                "builder_url": "https://raithos.github.io",
+                "link": "https://raithos.github.io/?f=Separatist%20Alliance&d=v8ZsZ200Z306X125W223WW229Y272XWWWWWWW216WY309XW208WY354X248W&sn=This%20is%20garbage%20and%20I%20am%20garbage&obs="
+            }
+        },
         "version": "2.0.0"
     },
     "Name": "Sara Tessem",

@@ -39,8 +39,7 @@
             {
                 "id": "captainseevor",
                 "points": 30,
-                "ship": "modifiedtielnfighter",
-                "upgrades": {}
+                "ship": "modifiedtielnfighter"
             },
             {
                 "id": "lokrevenant",
@@ -54,7 +53,13 @@
             }
         ],
         "points": 199,
-        "vendor": {},
+        "vendor": {
+            "yasb": {
+                "builder": "(Yet Another) X-Wing Miniatures Squad Builder",
+                "builder_url": "https://raithos.github.io",
+                "link": "https://raithos.github.io/?f=Scum%20and%20Villainy&d=v8ZsZ200Z142XW16WWWY100XW134Y159X100WWY247XWY146X138WWWWWW&sn=Josh%20Addington%20JTO&obs="
+            }
+        },
         "version": "2.0.0"
     },
     "Name": "Josh Addington",

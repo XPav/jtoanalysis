@@ -43,18 +43,22 @@
             {
                 "id": "padmeamidala",
                 "points": 45,
-                "ship": "nabooroyaln1starfighter",
-                "upgrades": {}
+                "ship": "nabooroyaln1starfighter"
             },
             {
                 "id": "redsquadronbomber",
                 "points": 30,
-                "ship": "btlbywing",
-                "upgrades": {}
+                "ship": "btlbywing"
             }
         ],
         "points": 198,
-        "vendor": {},
+        "vendor": {
+            "yasb": {
+                "builder": "(Yet Another) X-Wing Miniatures Squad Builder",
+                "builder_url": "https://raithos.github.io",
+                "link": "https://raithos.github.io/?f=Galactic%20Republic&d=v8ZsZ200Z273X72WW200WY363X137WW253WW317WY332XWWWY361XWWWWW&sn=Don%20Walker%20JTO&obs=gascloud4,gascloud5,gascloud6"
+            }
+        },
         "version": "2.0.0"
     },
     "Name": "Don Walker",

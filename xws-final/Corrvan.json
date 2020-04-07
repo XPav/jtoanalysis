@@ -38,18 +38,22 @@
             {
                 "id": "kickback",
                 "points": 33,
-                "ship": "v19torrentstarfighter",
-                "upgrades": {}
+                "ship": "v19torrentstarfighter"
             },
             {
                 "id": "wolffe",
                 "points": 50,
-                "ship": "arc170starfighter",
-                "upgrades": {}
+                "ship": "arc170starfighter"
             }
         ],
         "points": 200,
-        "vendor": {},
+        "vendor": {
+            "yasb": {
+                "builder": "(Yet Another) X-Wing Miniatures Squad Builder",
+                "builder_url": "https://raithos.github.io",
+                "link": "https://raithos.github.io/?f=Galactic%20Republic&d=v8ZsZ200Z274X75WW201WY364X120W138WWWW316WY315XWWY342XWWWWW&sn=Brad%20Smith%20JTO&obs="
+            }
+        },
         "version": "2.0.0"
     },
     "Name": "Brad Smith",

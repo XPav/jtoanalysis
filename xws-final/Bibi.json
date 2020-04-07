@@ -19,14 +19,12 @@
             {
                 "id": "ember",
                 "points": 52,
-                "ship": "tiebainterceptor",
-                "upgrades": {}
+                "ship": "tiebainterceptor"
             },
             {
                 "id": "holo",
                 "points": 54,
-                "ship": "tiebainterceptor",
-                "upgrades": {}
+                "ship": "tiebainterceptor"
             },
             {
                 "id": "quickdraw",
@@ -40,7 +38,13 @@
             }
         ],
         "points": 198,
-        "vendor": {},
+        "vendor": {
+            "yasb": {
+                "builder": "(Yet Another) X-Wing Miniatures Squad Builder",
+                "builder_url": "https://raithos.github.io",
+                "link": "https://raithos.github.io/?f=First%20Order&d=v8ZsZ200Z285X119WWWWWY383XWWWY382XWWWY243XWWW182WW&sn=Bibi%20JTO&obs="
+            }
+        },
         "version": "2.0.0"
     },
     "Name": "Sebastien ",

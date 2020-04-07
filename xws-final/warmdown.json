@@ -22,20 +22,17 @@
             {
                 "id": "stormsquadronace",
                 "points": 39,
-                "ship": "tieadvancedx1",
-                "upgrades": {}
+                "ship": "tieadvancedx1"
             },
             {
                 "id": "majorvermeil",
                 "points": 49,
-                "ship": "tiereaper",
-                "upgrades": {}
+                "ship": "tiereaper"
             },
             {
                 "id": "lieutenantkestal",
                 "points": 31,
-                "ship": "tieagaggressor",
-                "upgrades": {}
+                "ship": "tieagaggressor"
             },
             {
                 "id": "seventhsister",
@@ -49,7 +46,13 @@
             }
         ],
         "points": 199,
-        "vendor": {},
+        "vendor": {
+            "yasb": {
+                "builder": "(Yet Another) X-Wing Miniatures Squad Builder",
+                "builder_url": "https://raithos.github.io",
+                "link": "https://raithos.github.io/?f=Galactic%20Empire&d=v8ZsZ200Z224X125W108Y177XWWWY183XWWWY187XWWWWWY170XWW98&sn=Patrick%20Steiche%20JTO&obs="
+            }
+        },
         "version": "2.0.0"
     },
     "Name": "Patrick Steiche",

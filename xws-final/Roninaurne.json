@@ -79,7 +79,13 @@
             }
         ],
         "points": 199,
-        "vendor": {},
+        "vendor": {
+            "yasb": {
+                "builder": "(Yet Another) X-Wing Miniatures Squad Builder",
+                "builder_url": "https://raithos.github.io",
+                "link": "https://raithos.github.io/?f=Scum%20and%20Villainy&d=v8ZsZ200Z141XW45WW92W236Y144XW137WW83W69WW110W149WW8Y158X125WWWY249X115WY87XW137WWWWWW&sn=Matt%20Petit%20JTO&obs="
+            }
+        },
         "version": "2.0.0"
     },
     "Name": "Matt Petit",

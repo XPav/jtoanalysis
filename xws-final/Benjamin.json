@@ -3,11 +3,13 @@
     "Discord": "Scrub_Lord_27#4628",
     "Drop": "Bistan (Gunner) from Chopper",
     "Final": {
+        "description": "",
         "faction": "rebelalliance",
         "name": "Benjamin Capovilla JTO",
         "pilots": [
             {
                 "id": "knavesquadronescort",
+                "name": "knavesquadronescort",
                 "points": 62,
                 "ship": "ewing",
                 "upgrades": {
@@ -24,6 +26,7 @@
             },
             {
                 "id": "chopper",
+                "name": "chopper",
                 "points": 95,
                 "ship": "vcx100lightfreighter",
                 "upgrades": {
@@ -41,6 +44,7 @@
             },
             {
                 "id": "bluesquadronescort",
+                "name": "bluesquadronescort",
                 "points": 40,
                 "ship": "t65xwing",
                 "upgrades": {
@@ -51,7 +55,13 @@
             }
         ],
         "points": 197,
-        "vendor": {},
+        "vendor": {
+            "yasb": {
+                "builder": "Yet Another Squad Builder 2.0",
+                "builder_url": "https://raithos.github.io/",
+                "link": "https://raithos.github.io/?f=Rebel%20Alliance&d=v8ZsZ200Z24X113W135W6WY63XWW138W44W19WW84WY1XWWW142&sn=Benjamin%20Capovilla%20JTO&obs="
+            }
+        },
         "version": "2.0.0"
     },
     "Name": "Benjamin Capovilla",

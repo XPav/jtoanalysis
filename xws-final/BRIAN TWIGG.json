@@ -53,12 +53,17 @@
             {
                 "id": "zeborrelios",
                 "points": 32,
-                "ship": "attackshuttle",
-                "upgrades": {}
+                "ship": "attackshuttle"
             }
         ],
         "points": 199,
-        "vendor": {},
+        "vendor": {
+            "yasb": {
+                "builder": "(Yet Another) X-Wing Miniatures Squad Builder",
+                "builder_url": "https://raithos.github.io",
+                "link": "https://raithos.github.io/?f=Rebel%20Alliance&d=v8ZsZ200Z52XW127W101Y18XW311WWWWW71W166Y21XW112WWWY68XWWW&sn=Brian%20Terwilliger%20JTO&obs=coreasteroid5,core2asteroid4,core2asteroid5"
+            }
+        },
         "version": "2.0.0"
     },
     "Name": "Brian Terwilliger",

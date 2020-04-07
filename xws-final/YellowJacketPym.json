@@ -30,18 +30,22 @@
             {
                 "id": "ezrabridger-tielnfighter",
                 "points": 31,
-                "ship": "tielnfighter",
-                "upgrades": {}
+                "ship": "tielnfighter"
             },
             {
                 "id": "corranhorn",
                 "points": 66,
-                "ship": "ewing",
-                "upgrades": {}
+                "ship": "ewing"
             }
         ],
         "points": 198,
-        "vendor": {},
+        "vendor": {
+            "yasb": {
+                "builder": "(Yet Another) X-Wing Miniatures Squad Builder",
+                "builder_url": "https://raithos.github.io",
+                "link": "https://raithos.github.io/?f=Rebel%20Alliance&d=v8ZsZ200Z43XW102WW23W52W110W166W154Y14XWY21XWWWW&sn=Lando%20and%20the%20Boys&obs="
+            }
+        },
         "version": "2.0.0"
     },
     "Name": "Andrew Lippens",

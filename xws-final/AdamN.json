@@ -50,7 +50,13 @@
             }
         ],
         "points": 195,
-        "vendor": {},
+        "vendor": {
+            "yasb": {
+                "builder": "(Yet Another) X-Wing Miniatures Squad Builder",
+                "builder_url": "https://raithos.github.io",
+                "link": "https://raithos.github.io/?f=Galactic%20Republic&d=v8ZsZ200Z280X136WW225WW165Y340XW136WWWW110Y278XW2W200W&sn=Adam%20Nordquist%20JTO&obs="
+            }
+        },
         "version": "2.0.0"
     },
     "Name": "Adam Nordquist",

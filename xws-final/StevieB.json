@@ -19,8 +19,7 @@
             {
                 "id": "bladesquadronveteran",
                 "points": 42,
-                "ship": "asf01bwing",
-                "upgrades": {}
+                "ship": "asf01bwing"
             },
             {
                 "id": "zeborrelios-tielnfighter",
@@ -35,8 +34,7 @@
             {
                 "id": "ap5",
                 "points": 32,
-                "ship": "sheathipedeclassshuttle",
-                "upgrades": {}
+                "ship": "sheathipedeclassshuttle"
             },
             {
                 "id": "roarkgarnet",
@@ -50,7 +48,13 @@
             }
         ],
         "points": 198,
-        "vendor": {},
+        "vendor": {
+            "yasb": {
+                "builder": "(Yet Another) X-Wing Miniatures Squad Builder",
+                "builder_url": "https://raithos.github.io",
+                "link": "https://raithos.github.io/?f=Rebel%20Alliance&d=v8ZsZ200Z76XW11WWWWY75XWWWWWWY15X166Y72XWWWWY47XWW46WWW&sn=StevieB-Wings&obs="
+            }
+        },
         "version": "2.0.0"
     },
     "Name": "Steve Boulton",

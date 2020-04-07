@@ -52,7 +52,13 @@
             }
         ],
         "points": 197,
-        "vendor": {},
+        "vendor": {
+            "yasb": {
+                "builder": "(Yet Another) X-Wing Miniatures Squad Builder",
+                "builder_url": "https://raithos.github.io",
+                "link": "https://raithos.github.io/?f=Rebel%20Alliance&d=v8ZsZ200Z37XW46WWW140Y40XWW249W157W94Y36XWWWWW140&sn=Darin%20Schwarze%20JTO&obs=vt49decimatordebris1,vt49decimatordebris2,gascloud6"
+            }
+        },
         "version": "2.0.0"
     },
     "Name": "Darin Schwarze",

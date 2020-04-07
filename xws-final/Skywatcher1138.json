@@ -4,9 +4,9 @@
     "Drop": "Latts Razzi removed from Sabine Wren",
     "Final": {
         "faction": "scumandvillainy",
-        "name": "Alfred Schnabel JTO",
+        "name": "Jank Tank Tournament Scum List",
         "obstacles": [
-            "vt49decimatordebris1",
+            "yt2400debris0",
             "vt49decimatordebris2",
             "core2asteroid2"
         ],
@@ -17,8 +17,8 @@
                 "ship": "customizedyt1300lightfreighter",
                 "upgrades": {
                     "crew": [
-                        "l337",
-                        "bobafett"
+                        "bobafett",
+                        "l337"
                     ],
                     "missile": [
                         "concussionmissiles"
@@ -62,7 +62,13 @@
             }
         ],
         "points": 200,
-        "vendor": {},
+        "vendor": {
+            "yasb": {
+                "builder": "(Yet Another) X-Wing Miniatures Squad Builder",
+                "builder_url": "https://raithos.github.io",
+                "link": "https://raithos.github.io/?f=Scum%20and%20Villainy&d=v8ZsZ200Z92X99W16W43WWW110W152Y127X127W48WWW108WY116X131WWWWWWW159W&sn=Jank%20Tank%20Tournament%20Scum%20List&obs=yt2400debris0,vt49decimatordebris2,core2asteroid2"
+            }
+        },
         "version": "2.0.0"
     },
     "Name": "Alfred Schnabel",

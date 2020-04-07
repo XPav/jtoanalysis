@@ -19,8 +19,7 @@
             {
                 "id": "lulolampar",
                 "points": 43,
-                "ship": "rz2awing",
-                "upgrades": {}
+                "ship": "rz2awing"
             },
             {
                 "id": "pammichnerrogoode",
@@ -47,7 +46,13 @@
             }
         ],
         "points": 200,
-        "vendor": {},
+        "vendor": {
+            "yasb": {
+                "builder": "(Yet Another) X-Wing Miniatures Squad Builder",
+                "builder_url": "https://raithos.github.io",
+                "link": "https://raithos.github.io/?f=Resistance&d=v8ZsZ200Z271XWW101WY239XWWWY347X177WWWWWWY245XWW173WWWWW193&sn=Trevor%20Betts%20JTO&obs="
+            }
+        },
         "version": "2.0.0"
     },
     "Name": "Trevor Betts",

@@ -44,12 +44,17 @@
             {
                 "id": "goldsquadronveteran",
                 "points": 32,
-                "ship": "btla4ywing",
-                "upgrades": {}
+                "ship": "btla4ywing"
             }
         ],
         "points": 196,
-        "vendor": {},
+        "vendor": {
+            "yasb": {
+                "builder": "(Yet Another) X-Wing Miniatures Squad Builder",
+                "builder_url": "https://raithos.github.io",
+                "link": "https://raithos.github.io/?f=Rebel%20Alliance&d=v8ZsZ200Z21XWWW2WY79X118WWWWWY52XWW101Y29XWWWWWW&sn=Alex%20Jean%20JTO&obs=yt2400debris0,yt2400debris1,yt2400debris2"
+            }
+        },
         "version": "2.0.0"
     },
     "Name": "Alex Jean",

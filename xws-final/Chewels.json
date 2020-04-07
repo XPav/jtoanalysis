@@ -15,8 +15,8 @@
                         "jammingbeam"
                     ],
                     "crew": [
-                        "bobafett",
-                        "000"
+                        "000",
+                        "bobafett"
                     ],
                     "gunner": [
                         "bt1"
@@ -67,12 +67,17 @@
             {
                 "id": "sunnybounder",
                 "points": 27,
-                "ship": "m3ainterceptor",
-                "upgrades": {}
+                "ship": "m3ainterceptor"
             }
         ],
         "points": 197,
-        "vendor": {},
+        "vendor": {
+            "yasb": {
+                "builder": "(Yet Another) X-Wing Miniatures Squad Builder",
+                "builder_url": "https://raithos.github.io",
+                "link": "https://raithos.github.io/?f=Scum%20and%20Villainy&d=v8ZsZ200Z154X125W12W99W63W16W79W94W164W150Y139XW135Y120X125WW95WW109WY138XW&sn=Matthew%20LeClair%20JTO&obs="
+            }
+        },
         "version": "2.0.0"
     },
     "Name": "Matthew LeClair",

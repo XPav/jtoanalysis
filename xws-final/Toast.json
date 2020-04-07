@@ -3,11 +3,13 @@
     "Discord": "ButteredToast#8878",
     "Drop": "Delayed Fuses from First Order Provocateur",
     "Final": {
+        "description": "",
         "faction": "firstorder",
         "name": "Toast JTO",
         "pilots": [
             {
                 "id": "firstorderprovocateur",
+                "name": "firstorderprovocateur",
                 "points": 56,
                 "ship": "tiebainterceptor",
                 "upgrades": {
@@ -24,12 +26,13 @@
             },
             {
                 "id": "commandermalarus",
+                "name": "commandermalarus",
                 "points": 38,
-                "ship": "tiefofighter",
-                "upgrades": {}
+                "ship": "tiefofighter"
             },
             {
                 "id": "zetasquadronsurvivor",
+                "name": "zetasquadronsurvivor",
                 "points": 40,
                 "ship": "tiesffighter",
                 "upgrades": {
@@ -40,6 +43,7 @@
             },
             {
                 "id": "firstordertestpilot",
+                "name": "firstordertestpilot",
                 "points": 66,
                 "ship": "tievnsilencer",
                 "upgrades": {
@@ -53,7 +57,13 @@
             }
         ],
         "points": 200,
-        "vendor": {},
+        "vendor": {
+            "yasb": {
+                "builder": "Yet Another Squad Builder 2.0",
+                "builder_url": "https://raithos.github.io/",
+                "link": "https://raithos.github.io/?f=First%20Order&d=v8ZsZ200Z384X125W177W101WY266XWWY259XWW76WWY287XW186WW311&sn=Toast%20JTO&obs="
+            }
+        },
         "version": "2.0.0"
     },
     "Name": "Josh",

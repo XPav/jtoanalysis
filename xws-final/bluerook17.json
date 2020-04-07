@@ -5,6 +5,11 @@
     "Final": {
         "faction": "rebelalliance",
         "name": "Joining the Bodhi Boys",
+        "obstacles": [
+            "coreasteroid5",
+            "core2asteroid4",
+            "core2asteroid5"
+        ],
         "pilots": [
             {
                 "id": "roguesquadronescort",
@@ -19,14 +24,12 @@
             {
                 "id": "captainrex",
                 "points": 30,
-                "ship": "tielnfighter",
-                "upgrades": {}
+                "ship": "tielnfighter"
             },
             {
                 "id": "arvelcrynyd",
                 "points": 34,
-                "ship": "rz1awing",
-                "upgrades": {}
+                "ship": "rz1awing"
             },
             {
                 "id": "bodhirook",
@@ -44,12 +47,17 @@
             {
                 "id": "zeborrelios-tielnfighter",
                 "points": 24,
-                "ship": "tielnfighter",
-                "upgrades": {}
+                "ship": "tielnfighter"
             }
         ],
         "points": 199,
-        "vendor": {},
+        "vendor": {
+            "yasb": {
+                "builder": "(Yet Another) X-Wing Miniatures Squad Builder",
+                "builder_url": "https://raithos.github.io",
+                "link": "https://raithos.github.io/?f=Rebel%20Alliance&d=v8ZsZ200Z23XWWW4WY16XY51XWWY31XWWW46WW140Y15X&sn=Joining%20the%20Bodhi%20Boys&obs=coreasteroid5,core2asteroid4,core2asteroid5"
+            }
+        },
         "version": "2.0.0"
     },
     "Name": "Bohan Li",

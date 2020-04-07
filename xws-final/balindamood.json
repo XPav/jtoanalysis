@@ -4,7 +4,7 @@
     "Drop": "Plasma torpedoes from the black sun assassin",
     "Final": {
         "faction": "scumandvillainy",
-        "name": "Brian Lindamood JTO",
+        "name": "final jank",
         "pilots": [
             {
                 "id": "blacksunassassin",
@@ -60,7 +60,13 @@
             }
         ],
         "points": 195,
-        "vendor": {},
+        "vendor": {
+            "yasb": {
+                "builder": "(Yet Another) X-Wing Miniatures Squad Builder",
+                "builder_url": "https://raithos.github.io",
+                "link": "https://raithos.github.io/?f=Scum%20and%20Villainy&d=v8ZsZ200Z150X132W111WW165WY248XW249Y116XW134WWWWWW159WY247X256W166&sn=final%20jank&obs="
+            }
+        },
         "version": "2.0.0"
     },
     "Name": "Brian Lindamood",

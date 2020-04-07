@@ -60,7 +60,13 @@
             }
         ],
         "points": 198,
-        "vendor": {},
+        "vendor": {
+            "yasb": {
+                "builder": "(Yet Another) X-Wing Miniatures Squad Builder",
+                "builder_url": "https://raithos.github.io",
+                "link": "https://raithos.github.io/?f=Rebel%20Alliance&d=v8ZsZ200Z61X125W111W136W137W59W58W165W86W148Y49X70W41W164W107W156&sn=Sondre%20Auestad%20JTO&obs="
+            }
+        },
         "version": "2.0.0"
     },
     "Name": "Sondre Auestad",

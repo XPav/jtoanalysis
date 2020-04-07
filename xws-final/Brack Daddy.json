@@ -5,6 +5,11 @@
     "Final": {
         "faction": "galacticempire",
         "name": "Brack Lee JTO",
+        "obstacles": [
+            "coreasteroid5",
+            "core2asteroid4",
+            "core2asteroid5"
+        ],
         "pilots": [
             {
                 "id": "countdown",
@@ -59,7 +64,13 @@
             }
         ],
         "points": 195,
-        "vendor": {},
+        "vendor": {
+            "yasb": {
+                "builder": "(Yet Another) X-Wing Miniatures Squad Builder",
+                "builder_url": "https://raithos.github.io",
+                "link": "https://raithos.github.io/?f=Galactic%20Empire&d=v8ZsZ200Z209X132WW70WY191XW134W101WWW68WW110Y201X124W113W82W166&sn=Brack%20Lee%20JTO&obs=coreasteroid5,core2asteroid4,core2asteroid5"
+            }
+        },
         "version": "2.0.0"
     },
     "Name": "Brack Lee",

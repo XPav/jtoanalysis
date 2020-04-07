@@ -3,6 +3,7 @@
     "Discord": "Knuckles53 (User#2699)",
     "Drop": "Hull Upgrade from G4R-GOR V/M",
     "Final": {
+        "description": "",
         "faction": "scumandvillainy",
         "name": "Mark Johnson JTO",
         "obstacles": [
@@ -13,12 +14,13 @@
         "pilots": [
             {
                 "id": "g4rgorvm",
+                "name": "g4rgorvm",
                 "points": 28,
-                "ship": "m3ainterceptor",
-                "upgrades": {}
+                "ship": "m3ainterceptor"
             },
             {
                 "id": "ig88a",
+                "name": "ig88a",
                 "points": 72,
                 "ship": "aggressorassaultfighter",
                 "upgrades": {
@@ -35,6 +37,7 @@
             },
             {
                 "id": "kaatoleeachos",
+                "name": "kaatoleeachos",
                 "points": 30,
                 "ship": "z95af4headhunter",
                 "upgrades": {
@@ -45,12 +48,13 @@
             },
             {
                 "id": "ahhav",
+                "name": "ahhav",
                 "points": 30,
-                "ship": "modifiedtielnfighter",
-                "upgrades": {}
+                "ship": "modifiedtielnfighter"
             },
             {
                 "id": "dacebonearm",
+                "name": "dacebonearm",
                 "points": 36,
                 "ship": "hwk290lightfreighter",
                 "upgrades": {
@@ -61,7 +65,13 @@
             }
         ],
         "points": 196,
-        "vendor": {},
+        "vendor": {
+            "yasb": {
+                "builder": "Yet Another Squad Builder 2.0",
+                "builder_url": "https://raithos.github.io/",
+                "link": "https://raithos.github.io/?f=Scum%20and%20Villainy&d=v8ZsZ200Z399XWY81XWW12WWW96WW151Y157X119WWWY249XWY113XW36WWWWW&sn=Mark%20Johnson%20JTO&obs=coreasteroid5,core2asteroid4,core2asteroid5"
+            }
+        },
         "version": "2.0.0"
     },
     "Name": "Mark Johnson",

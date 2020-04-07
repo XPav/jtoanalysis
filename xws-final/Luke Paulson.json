@@ -3,17 +3,13 @@
     "Discord": "5728",
     "Drop": "Static Discard Vanes",
     "Final": {
+        "description": "",
         "faction": "galacticempire",
-        "name": "Random Squad",
+        "name": "Unnamed Squadron",
         "pilots": [
             {
-                "id": "coloneljendon",
-                "points": 48,
-                "ship": "lambdaclasst4ashuttle",
-                "upgrades": {}
-            },
-            {
                 "id": "lieutenantkarsabi",
+                "name": "lieutenantkarsabi",
                 "points": 46,
                 "ship": "alphaclassstarwing",
                 "upgrades": {
@@ -26,7 +22,14 @@
                 }
             },
             {
+                "id": "coloneljendon",
+                "name": "coloneljendon",
+                "points": 48,
+                "ship": "lambdaclasst4ashuttle"
+            },
+            {
                 "id": "darthvader",
+                "name": "darthvader",
                 "points": 73,
                 "ship": "tieadvancedx1",
                 "upgrades": {
@@ -37,13 +40,19 @@
             },
             {
                 "id": "deathfire",
+                "name": "deathfire",
                 "points": 32,
-                "ship": "tiesabomber",
-                "upgrades": {}
+                "ship": "tiesabomber"
             }
         ],
         "points": 199,
-        "vendor": {},
+        "vendor": {
+            "yasb": {
+                "builder": "Yet Another Squad Builder 2.0",
+                "builder_url": "https://raithos.github.io/",
+                "link": "https://raithos.github.io/?f=Galactic%20Empire&d=v8ZsZ200Z162XW240WW99WWY167XWWWWWY173XW112WWY206XWWWWWW&sn=Unnamed%20Squadron&obs="
+            }
+        },
         "version": "2.0.0"
     },
     "Name": "Luke Paulson",

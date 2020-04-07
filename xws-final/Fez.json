@@ -3,11 +3,18 @@
     "Discord": "Jawa Leader (Andrew Symons)",
     "Drop": "Debris Gambit off Yeager",
     "Final": {
+        "description": "",
         "faction": "resistance",
         "name": "Andrew Symons JTO",
+        "obstacles": [
+            "gascloud3",
+            "gascloud4",
+            "gascloud5"
+        ],
         "pilots": [
             {
                 "id": "lulolampar",
+                "name": "lulolampar",
                 "points": 53,
                 "ship": "rz2awing",
                 "upgrades": {
@@ -21,18 +28,19 @@
             },
             {
                 "id": "jarekyeager",
+                "name": "jarekyeager",
                 "points": 33,
-                "ship": "fireball",
-                "upgrades": {}
+                "ship": "fireball"
             },
             {
                 "id": "colossusstationmechanic",
+                "name": "colossusstationmechanic",
                 "points": 26,
-                "ship": "fireball",
-                "upgrades": {}
+                "ship": "fireball"
             },
             {
                 "id": "elloasty",
+                "name": "elloasty",
                 "points": 55,
                 "ship": "t70xwing",
                 "upgrades": {
@@ -43,6 +51,7 @@
             },
             {
                 "id": "finn",
+                "name": "finn",
                 "points": 33,
                 "ship": "resistancetransportpod",
                 "upgrades": {
@@ -53,7 +62,13 @@
             }
         ],
         "points": 200,
-        "vendor": {},
+        "vendor": {
+            "yasb": {
+                "builder": "Yet Another Squad Builder 2.0",
+                "builder_url": "https://raithos.github.io/",
+                "link": "https://raithos.github.io/?f=Resistance&d=v8ZsZ200Z239XWW100W206Y377XWWWWWWY380XWWWWWY299XWWW175WWWY350XW186WW&sn=Andrew%20Symons%20JTO&obs=gascloud3,gascloud4,gascloud5"
+            }
+        },
         "version": "2.0.0"
     },
     "Name": "Andrew Symons",

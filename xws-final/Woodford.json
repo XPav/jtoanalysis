@@ -53,12 +53,17 @@
             {
                 "id": "null",
                 "points": 30,
-                "ship": "tiefofighter",
-                "upgrades": {}
+                "ship": "tiefofighter"
             }
         ],
         "points": 199,
-        "vendor": {},
+        "vendor": {
+            "yasb": {
+                "builder": "(Yet Another) X-Wing Miniatures Squad Builder",
+                "builder_url": "https://raithos.github.io",
+                "link": "https://raithos.github.io/?f=First%20Order&d=v8ZsZ200Z259XW99WW240WY284XW202WW101Y382X126WW99WY290XW&sn=Kevin%20JTO&obs=coreasteroid5,yt2400debris2,gascloud5"
+            }
+        },
         "version": "2.0.0"
     },
     "Name": "Kevin",

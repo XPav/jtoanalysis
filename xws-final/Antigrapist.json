@@ -62,18 +62,22 @@
             {
                 "id": "skakoanace",
                 "points": 38,
-                "ship": "belbullab22starfighter",
-                "upgrades": {}
+                "ship": "belbullab22starfighter"
             },
             {
                 "id": "tradefederationdrone",
                 "points": 19,
-                "ship": "vultureclassdroidfighter",
-                "upgrades": {}
+                "ship": "vultureclassdroidfighter"
             }
         ],
         "points": 199,
-        "vendor": {},
+        "vendor": {
+            "yasb": {
+                "builder": "(Yet Another) X-Wing Miniatures Squad Builder",
+                "builder_url": "https://raithos.github.io",
+                "link": "https://raithos.github.io/?f=Separatist%20Alliance&d=v8ZsZ200Z324XW99W70W165W237Y306X117W222WW229Y327X234WWWW237Y344XWWWY279XWW&sn=%5BAntigrapist%20JTO%5D&obs=coreasteroid0,coreasteroid4,core2asteroid4"
+            }
+        },
         "version": "2.0.0"
     },
     "Name": "Alex Raubach",

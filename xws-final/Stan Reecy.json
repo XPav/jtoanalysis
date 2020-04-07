@@ -2,58 +2,7 @@
     "Add": "Hull Upgrade to Wulffwarro",
     "Discord": "atlh1989#7841",
     "Drop": "Proton Rockets from Leebo",
-    "Final": {
-        "faction": "rebelalliance",
-        "name": "Wullff of Wall Street",
-        "pilots": [
-            {
-                "id": "ap5",
-                "points": 35,
-                "ship": "sheathipedeclassshuttle",
-                "upgrades": {
-                    "crew": [
-                        "jynerso"
-                    ],
-                    "talent": [
-                        "crackshot"
-                    ],
-                    "title": [
-                        "phantom"
-                    ]
-                }
-            },
-            {
-                "id": "wullffwarro",
-                "points": 71,
-                "ship": "auzituckgunship",
-                "upgrades": {
-                    "crew": [
-                        "informant",
-                        "niennunb"
-                    ],
-                    "modification": [
-                        "hullupgrade"
-                    ],
-                    "talent": [
-                        "experthandling"
-                    ]
-                }
-            },
-            {
-                "id": "leebo",
-                "points": 89,
-                "ship": "yt2400lightfreighter",
-                "upgrades": {
-                    "gunner": [
-                        "agilegunner"
-                    ]
-                }
-            }
-        ],
-        "points": 195,
-        "vendor": {},
-        "version": "2.0.0"
-    },
+    "Final": "",
     "Name": "Stan Reecy",
     "Option1": {
         "faction": "resistance",

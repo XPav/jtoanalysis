@@ -56,7 +56,13 @@
             }
         ],
         "points": 199,
-        "vendor": {},
+        "vendor": {
+            "yasb": {
+                "builder": "(Yet Another) X-Wing Miniatures Squad Builder",
+                "builder_url": "https://raithos.github.io",
+                "link": "https://raithos.github.io/?f=Galactic%20Empire&d=v8ZsZ200Z191X113W135WWWW317WW165Y162XW240W234WWW144WY197XW112W12W&sn=Marc%20de%20Bruyn%20JTO&obs="
+            }
+        },
         "version": "2.0.0"
     },
     "Name": "Marc de Bruyn",

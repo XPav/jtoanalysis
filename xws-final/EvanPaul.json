@@ -47,7 +47,13 @@
             }
         ],
         "points": 199,
-        "vendor": {},
+        "vendor": {
+            "yasb": {
+                "builder": "(Yet Another) X-Wing Miniatures Squad Builder",
+                "builder_url": "https://raithos.github.io",
+                "link": "https://raithos.github.io/?f=First%20Order&d=v8ZsZ200Z383XW202W311WY283XW202WW102Y289XWW179WWWWW108&sn=Evan%27s%20Jank%20Tank%20Squad&obs="
+            }
+        },
         "version": "2.0.0"
     },
     "Name": "Evan Paul",

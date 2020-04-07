@@ -24,14 +24,12 @@
             {
                 "id": "tempestsquadronpilot",
                 "points": 36,
-                "ship": "tieadvancedx1",
-                "upgrades": {}
+                "ship": "tieadvancedx1"
             },
             {
                 "id": "scimitarsquadronpilot",
                 "points": 27,
-                "ship": "tiesabomber",
-                "upgrades": {}
+                "ship": "tiesabomber"
             },
             {
                 "id": "captainkagi",
@@ -47,12 +45,17 @@
             {
                 "id": "nusquadronpilot",
                 "points": 32,
-                "ship": "alphaclassstarwing",
-                "upgrades": {}
+                "ship": "alphaclassstarwing"
             }
         ],
         "points": 194,
-        "vendor": {},
+        "vendor": {
+            "yasb": {
+                "builder": "(Yet Another) X-Wing Miniatures Squad Builder",
+                "builder_url": "https://raithos.github.io",
+                "link": "https://raithos.github.io/?f=Galactic%20Empire&d=v8ZsZ200Z206XW102WWWWWY178XWWY208XWWWWWWY165XWW38W14WWY164XWWWW&sn=Evan%20Caldwell&obs=yt2400debris2,core2asteroid4,core2asteroid5"
+            }
+        },
         "version": "2.0.0"
     },
     "Name": "Evan Caldwell",

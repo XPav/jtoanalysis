@@ -50,12 +50,17 @@
             {
                 "id": "scarifbasepilot",
                 "points": 39,
-                "ship": "tiereaper",
-                "upgrades": {}
+                "ship": "tiereaper"
             }
         ],
         "points": 199,
-        "vendor": {},
+        "vendor": {
+            "yasb": {
+                "builder": "(Yet Another) X-Wing Miniatures Squad Builder",
+                "builder_url": "https://raithos.github.io",
+                "link": "https://raithos.github.io/?f=Galactic%20Empire&d=v8ZsZ200Z216XW53W49WW88W316W164W147Y199X123W113WWY186XWW&sn=Derek%20Foglein%20JTO&obs=coreasteroid0,coreasteroid1,core2asteroid2"
+            }
+        },
         "version": "2.0.0"
     },
     "Name": "Derek Foglein",

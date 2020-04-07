@@ -5,11 +5,6 @@
     "Final": {
         "faction": "rebelalliance",
         "name": "William Krick JTO",
-        "obstacles": [
-            "coreasteroid5",
-            "core2asteroid4",
-            "core2asteroid5"
-        ],
         "pilots": [
             {
                 "id": "hortonsalm",
@@ -64,7 +59,13 @@
             }
         ],
         "points": 200,
-        "vendor": {},
+        "vendor": {
+            "yasb": {
+                "builder": "(Yet Another) X-Wing Miniatures Squad Builder",
+                "builder_url": "https://raithos.github.io",
+                "link": "https://raithos.github.io/?f=Rebel%20Alliance&d=v8ZsZ200Z26X116W138W136W0W105WWY42X132W311WWWW249WWY49X68WW166WW&sn=William%20Krick%20JTO&obs="
+            }
+        },
         "version": "2.0.0"
     },
     "Name": "William Krick",

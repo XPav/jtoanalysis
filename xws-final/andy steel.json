@@ -3,11 +3,16 @@
     "Discord": "steelwraith#5209",
     "Drop": "FINN from chewie falcon",
     "Final": {
+        "description": "",
         "faction": "resistance",
         "name": "andy steel JTO",
+        "obstacles": [
+            "core2asteroid0"
+        ],
         "pilots": [
             {
                 "id": "bb8",
+                "name": "bb8",
                 "points": 33,
                 "ship": "resistancetransportpod",
                 "upgrades": {
@@ -18,6 +23,7 @@
             },
             {
                 "id": "nodinchavdri",
+                "name": "nodinchavdri",
                 "points": 45,
                 "ship": "resistancetransport",
                 "upgrades": {
@@ -28,6 +34,7 @@
             },
             {
                 "id": "jarekyeager",
+                "name": "jarekyeager",
                 "points": 37,
                 "ship": "fireball",
                 "upgrades": {
@@ -38,6 +45,7 @@
             },
             {
                 "id": "chewbacca-scavengedyt1300",
+                "name": "chewbacca-scavengedyt1300",
                 "points": 84,
                 "ship": "scavengedyt1300",
                 "upgrades": {
@@ -51,7 +59,13 @@
             }
         ],
         "points": 199,
-        "vendor": {},
+        "vendor": {
+            "yasb": {
+                "builder": "Yet Another Squad Builder 2.0",
+                "builder_url": "https://raithos.github.io/",
+                "link": "https://raithos.github.io/?f=Resistance&d=v8ZsZ200Z349XW178WWY352XWW234WWWWY377X132WWWWWWY246XW102WWW187WWW&sn=andy%20steel%20JTO&obs=core2asteroid0"
+            }
+        },
         "version": "2.0.0"
     },
     "Name": "andrew steel",

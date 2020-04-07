@@ -39,12 +39,17 @@
             {
                 "id": "scorch",
                 "points": 33,
-                "ship": "tiefofighter",
-                "upgrades": {}
+                "ship": "tiefofighter"
             }
         ],
         "points": 198,
-        "vendor": {},
+        "vendor": {
+            "yasb": {
+                "builder": "(Yet Another) X-Wing Miniatures Squad Builder",
+                "builder_url": "https://raithos.github.io",
+                "link": "https://raithos.github.io/?f=First%20Order&d=v8ZsZ200Z386X178WWY384XWW98WY384XWWW164Y262XWW&sn=Sam%20Page%20JTO&obs="
+            }
+        },
         "version": "2.0.0"
     },
     "Name": "Sam Page",

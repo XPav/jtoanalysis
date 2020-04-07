@@ -54,7 +54,13 @@
             }
         ],
         "points": 198,
-        "vendor": {},
+        "vendor": {
+            "yasb": {
+                "builder": "(Yet Another) X-Wing Miniatures Squad Builder",
+                "builder_url": "https://raithos.github.io",
+                "link": "https://raithos.github.io/?f=First%20Order&d=v8ZsZ200Z385XWWW182WW108Y285XW206WWWWY233X124W177WY286X178WW&sn=Sam%20Dameron%20JTO&obs="
+            }
+        },
         "version": "2.0.0"
     },
     "Name": "Sam Dameron",

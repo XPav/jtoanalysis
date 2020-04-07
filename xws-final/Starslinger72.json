@@ -38,8 +38,8 @@
                 "ship": "tiereaper",
                 "upgrades": {
                     "crew": [
-                        "admiralsloane",
-                        "darthvader"
+                        "darthvader",
+                        "admiralsloane"
                     ]
                 }
             },
@@ -58,7 +58,13 @@
             }
         ],
         "points": 200,
-        "vendor": {},
+        "vendor": {
+            "yasb": {
+                "builder": "(Yet Another) X-Wing Miniatures Squad Builder",
+                "builder_url": "https://raithos.github.io",
+                "link": "https://raithos.github.io/?f=Galactic%20Empire&d=v8ZsZ200Z205X116WW238WWWWWY212XW79W71WY184XW26W14WY174X125W240WW&sn=Tyler%20Tippett%20JTO&obs="
+            }
+        },
         "version": "2.0.0"
     },
     "Name": "Tyler Tippett",

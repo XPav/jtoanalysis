@@ -3,11 +3,13 @@
     "Discord": "Daith#8485",
     "Drop": "Static Discharge Vanes from the Tala Squadron Pilot",
     "Final": {
+        "description": "",
         "faction": "rebelalliance",
         "name": "Ian Becker JTO",
         "pilots": [
             {
                 "id": "landocalrissian-modifiedyt1300lightfreighter",
+                "name": "landocalrissian-modifiedyt1300lightfreighter",
                 "points": 95,
                 "ship": "modifiedyt1300lightfreighter",
                 "upgrades": {
@@ -24,6 +26,7 @@
             },
             {
                 "id": "corranhorn",
+                "name": "corranhorn",
                 "points": 76,
                 "ship": "ewing",
                 "upgrades": {
@@ -34,13 +37,19 @@
             },
             {
                 "id": "talasquadronpilot",
+                "name": "talasquadronpilot",
                 "points": 24,
-                "ship": "z95af4headhunter",
-                "upgrades": {}
+                "ship": "z95af4headhunter"
             }
         ],
         "points": 195,
-        "vendor": {},
+        "vendor": {
+            "yasb": {
+                "builder": "Yet Another Squad Builder 2.0",
+                "builder_url": "https://raithos.github.io/",
+                "link": "https://raithos.github.io/?f=Rebel%20Alliance&d=v8ZsZ200Z43XWW90W52WW236WWY21XW111WWWY56XWW&sn=Ian%20Becker%20JTO&obs="
+            }
+        },
         "version": "2.0.0"
     },
     "Name": "Ian Becker",

@@ -24,8 +24,7 @@
             {
                 "id": "plokoon",
                 "points": 44,
-                "ship": "delta7aethersprite",
-                "upgrades": {}
+                "ship": "delta7aethersprite"
             },
             {
                 "id": "axe",
@@ -49,7 +48,13 @@
             }
         ],
         "points": 200,
-        "vendor": {},
+        "vendor": {
+            "yasb": {
+                "builder": "(Yet Another) X-Wing Miniatures Squad Builder",
+                "builder_url": "https://raithos.github.io",
+                "link": "https://raithos.github.io/?f=Galactic%20Republic&d=v8ZsZ200Z278XWW200WY312XWWWY318X132WWY359XWW234WWWW&sn=Kyle%20Fuller%20JTO&obs=gascloud4,gascloud5,gascloud6"
+            }
+        },
         "version": "2.0.0"
     },
     "Name": "Kyle Fuller ",

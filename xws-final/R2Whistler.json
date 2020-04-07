@@ -54,7 +54,13 @@
             }
         ],
         "points": 195,
-        "vendor": {},
+        "vendor": {
+            "yasb": {
+                "builder": "(Yet Another) X-Wing Miniatures Squad Builder",
+                "builder_url": "https://raithos.github.io",
+                "link": "https://raithos.github.io/?f=Galactic%20Empire&d=v8ZsZ200Z212X126WWW164Y174X131W111WWY219XW105Y394XWW101&sn=Stephen%20Sesnick%20JTO&obs="
+            }
+        },
         "version": "2.0.0"
     },
     "Name": "Stephen Sesnick",

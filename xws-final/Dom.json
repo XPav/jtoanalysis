@@ -5,6 +5,11 @@
     "Final": {
         "faction": "firstorder",
         "name": "Angry Kylo",
+        "obstacles": [
+            "yt2400debris0",
+            "yt2400debris1",
+            "yt2400debris2"
+        ],
         "pilots": [
             {
                 "id": "pettyofficerthanisson",
@@ -47,7 +52,13 @@
             }
         ],
         "points": 200,
-        "vendor": {},
+        "vendor": {
+            "yasb": {
+                "builder": "(Yet Another) X-Wing Miniatures Squad Builder",
+                "builder_url": "https://raithos.github.io",
+                "link": "https://raithos.github.io/?f=First%20Order&d=v8ZsZ200Z281XWW180WWW11W113WY288XWW179WWWWW166Y383X181WWW&sn=Angry%20Kylo&obs=yt2400debris0,yt2400debris1,yt2400debris2"
+            }
+        },
         "version": "2.0.0"
     },
     "Name": "Dominic Flannigan",

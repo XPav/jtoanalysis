@@ -58,7 +58,13 @@
             }
         ],
         "points": 199,
-        "vendor": {},
+        "vendor": {
+            "yasb": {
+                "builder": "(Yet Another) X-Wing Miniatures Squad Builder",
+                "builder_url": "https://raithos.github.io",
+                "link": "https://raithos.github.io/?f=First%20Order&d=v8ZsZ200Z263X181WWY288X186WW183W30WW13WWY261X206WY384XWW102W165&sn=Eric%20Maynard%20JTO&obs="
+            }
+        },
         "version": "2.0.0"
     },
     "Name": "Eric Maynard",

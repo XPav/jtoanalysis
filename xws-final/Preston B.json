@@ -32,8 +32,7 @@
             {
                 "id": "kickback",
                 "points": 33,
-                "ship": "v19torrentstarfighter",
-                "upgrades": {}
+                "ship": "v19torrentstarfighter"
             },
             {
                 "id": "sinker",
@@ -47,7 +46,13 @@
             }
         ],
         "points": 195,
-        "vendor": {},
+        "vendor": {
+            "yasb": {
+                "builder": "(Yet Another) X-Wing Miniatures Squad Builder",
+                "builder_url": "https://raithos.github.io",
+                "link": "https://raithos.github.io/?f=Galactic%20Republic&d=v8ZsZ200Z333X117W111WWY340XWWWW226WY315XWWY280XWWW2W&sn=Random%20Squad&obs="
+            }
+        },
         "version": "2.0.0"
     },
     "Name": "Preston Bitzer",

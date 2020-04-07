@@ -4,12 +4,7 @@
     "Drop": "Angled Deflectors off of IG-88D",
     "Final": {
         "faction": "scumandvillainy",
-        "name": "Space Rats",
-        "obstacles": [
-            "gascloud1",
-            "gascloud2",
-            "gascloud3"
-        ],
+        "name": "Random Squad",
         "pilots": [
             {
                 "id": "captainjostero",
@@ -37,8 +32,7 @@
             {
                 "id": "crymorahgoon",
                 "points": 30,
-                "ship": "btla4ywing",
-                "upgrades": {}
+                "ship": "btla4ywing"
             },
             {
                 "id": "talonbanecobra",
@@ -52,7 +46,13 @@
             }
         ],
         "points": 200,
-        "vendor": {},
+        "vendor": {
+            "yasb": {
+                "builder": "(Yet Another) X-Wing Miniatures Squad Builder",
+                "builder_url": "https://raithos.github.io",
+                "link": "https://raithos.github.io/?f=Scum%20and%20Villainy&d=v8ZsZ200Z122X102WWWWY84XWW12WW71WWWY88XWWWWWWY119XW98WWWW&sn=Random%20Squad&obs="
+            }
+        },
         "version": "2.0.0"
     },
     "Name": "Robby",

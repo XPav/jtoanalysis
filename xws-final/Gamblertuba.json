@@ -66,7 +66,13 @@
             }
         ],
         "points": 199,
-        "vendor": {},
+        "vendor": {
+            "yasb": {
+                "builder": "(Yet Another) X-Wing Miniatures Squad Builder",
+                "builder_url": "https://raithos.github.io",
+                "link": "https://raithos.github.io/?f=Rebel%20Alliance&d=v8ZsZ200Z75XW113W13W12WW106W313Y62XW111WW137W21W314WW90W148Y55X132WW&sn=PeterRoseJTO&obs=coreasteroid3,core2asteroid3,core2asteroid4"
+            }
+        },
         "version": "2.0.0"
     },
     "Name": "Peter Rose",

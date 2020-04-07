@@ -65,7 +65,13 @@
             }
         ],
         "points": 199,
-        "vendor": {},
+        "vendor": {
+            "yasb": {
+                "builder": "(Yet Another) X-Wing Miniatures Squad Builder",
+                "builder_url": "https://raithos.github.io",
+                "link": "https://raithos.github.io/?f=Galactic%20Republic&d=v8ZsZ200Z321X100WY277X72W6W200WY342XW134WW89W214WY338XWWWW252W&sn=Mark%20Sandey%20JTO&obs=gascloud4,gascloud5,gascloud6"
+            }
+        },
         "version": "2.0.0"
     },
     "Name": "Mark Sandey",

@@ -9,8 +9,7 @@
             {
                 "id": "dfs081",
                 "points": 26,
-                "ship": "vultureclassdroidfighter",
-                "upgrades": {}
+                "ship": "vultureclassdroidfighter"
             },
             {
                 "id": "generalgrievous",
@@ -56,7 +55,13 @@
             }
         ],
         "points": 200,
-        "vendor": {},
+        "vendor": {
+            "yasb": {
+                "builder": "(Yet Another) X-Wing Miniatures Squad Builder",
+                "builder_url": "https://raithos.github.io",
+                "link": "https://raithos.github.io/?f=Separatist%20Alliance&d=v8ZsZ200Z311XWWY305X132W220W105W229Y335XWWWWWW249W216WY354X248W&sn=Luke%20Carrington%20JTO&obs="
+            }
+        },
         "version": "2.0.0"
     },
     "Name": "Luke Carrington ",

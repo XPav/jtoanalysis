@@ -1,7 +1,7 @@
 {
-    "Add": "Dro\u00c3\u0192\u00c2\u00afd 'Gonk' GNK on Resistance transport",
+    "Add": "Dro\u00c3\u00afd 'Gonk' GNK on Resistance transport",
     "Discord": "harald85",
-    "Drop": "Torpilles \u00c3\u0192\u00c2\u00a0 protons removed from Resistance transport",
+    "Drop": "Torpilles \u00c3\u00a0 protons removed from Resistance transport",
     "Final": {
         "faction": "resistance",
         "name": "Kimberly Colas JTO",
@@ -59,7 +59,13 @@
             }
         ],
         "points": 195,
-        "vendor": {},
+        "vendor": {
+            "yasb": {
+                "builder": "(Yet Another) X-Wing Miniatures Squad Builder",
+                "builder_url": "https://raithos.github.io",
+                "link": "https://raithos.github.io/?f=Resistance&d=v8ZsZ200Z347X186WWWW32WWY270XWWW206Y256XW196WW175WWWY297XWWW175WWW&sn=Kimberly%20Colas%20JTO&obs=coreasteroid0,coreasteroid2,coreasteroid4"
+            }
+        },
         "version": "2.0.0"
     },
     "Name": "Kimberly Colas",

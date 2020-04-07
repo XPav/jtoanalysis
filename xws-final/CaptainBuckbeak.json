@@ -50,12 +50,17 @@
             {
                 "id": "bluesquadronrecruit",
                 "points": 32,
-                "ship": "rz2awing",
-                "upgrades": {}
+                "ship": "rz2awing"
             }
         ],
         "points": 199,
-        "vendor": {},
+        "vendor": {
+            "yasb": {
+                "builder": "(Yet Another) X-Wing Miniatures Squad Builder",
+                "builder_url": "https://raithos.github.io",
+                "link": "https://raithos.github.io/?f=Resistance&d=v8ZsZ200Z245XW102W188WW187WW110WY298XW5W166W175W206WW134Y301XWW&sn=Captain%20Buckbeak%20JTO&obs="
+            }
+        },
         "version": "2.0.0"
     },
     "Name": "Jeremy Buck",

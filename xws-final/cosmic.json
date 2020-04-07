@@ -1,6 +1,6 @@
 {
     "Add": "Rigged Cargo Chute added to Koshka Frost (Firespray)",
-    "Discord": "C\u00c3\u0192\u00cb\u0153SMIC#1746",
+    "Discord": "C\u00c3\u02dcSMIC#1746",
     "Drop": "N/A",
     "Final": {
         "faction": "scumandvillainy",
@@ -56,7 +56,13 @@
             }
         ],
         "points": 199,
-        "vendor": {},
+        "vendor": {
+            "yasb": {
+                "builder": "(Yet Another) X-Wing Miniatures Squad Builder",
+                "builder_url": "https://raithos.github.io",
+                "link": "https://raithos.github.io/?f=Scum%20and%20Villainy&d=v8ZsZ200Z119XWW91WW165WY230X53WWW109WWY106X256W10W311WWW96WW153W&sn=David%20Welman%20JTO&obs="
+            }
+        },
         "version": "2.0.0"
     },
     "Name": "David Welman",

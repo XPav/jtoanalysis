@@ -55,12 +55,17 @@
             {
                 "id": "tucker",
                 "points": 29,
-                "ship": "v19torrentstarfighter",
-                "upgrades": {}
+                "ship": "v19torrentstarfighter"
             }
         ],
         "points": 200,
-        "vendor": {},
+        "vendor": {
+            "yasb": {
+                "builder": "(Yet Another) X-Wing Miniatures Squad Builder",
+                "builder_url": "https://raithos.github.io",
+                "link": "https://raithos.github.io/?f=Galactic%20Republic&d=v8ZsZ200Z317XWW106Y362XW137W136WWWWY364XW138WW225WWWY323XWW234Y319XW&sn=Cormac%20Higgins%20JTO&obs="
+            }
+        },
         "version": "2.0.0"
     },
     "Name": "cormac higgins",

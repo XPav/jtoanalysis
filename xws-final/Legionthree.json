@@ -3,23 +3,25 @@
     "Discord": "Legionthree #1073",
     "Drop": "None",
     "Final": {
+        "description": "",
         "faction": "scumandvillainy",
         "name": "Evan Claassen jto",
         "pilots": [
             {
                 "id": "captainjostero",
+                "name": "captainjostero",
                 "points": 42,
-                "ship": "kihraxzfighter",
-                "upgrades": {}
+                "ship": "kihraxzfighter"
             },
             {
                 "id": "zuckuss",
+                "name": "zuckuss",
                 "points": 45,
-                "ship": "g1astarfighter",
-                "upgrades": {}
+                "ship": "g1astarfighter"
             },
             {
                 "id": "gandfindsman",
+                "name": "gandfindsman",
                 "points": 45,
                 "ship": "g1astarfighter",
                 "upgrades": {
@@ -30,6 +32,7 @@
             },
             {
                 "id": "ig88d",
+                "name": "ig88d",
                 "points": 68,
                 "ship": "aggressorassaultfighter",
                 "upgrades": {
@@ -40,7 +43,13 @@
             }
         ],
         "points": 200,
-        "vendor": {},
+        "vendor": {
+            "yasb": {
+                "builder": "Yet Another Squad Builder 2.0",
+                "builder_url": "https://raithos.github.io/",
+                "link": "https://raithos.github.io/?f=Scum%20and%20Villainy&d=v8ZsZ200Z122XWWWWY110XWWWWWY111XWW96WWY84XWWWW69WWW&sn=Evan%20Claassen%20jto&obs="
+            }
+        },
         "version": "2.0.0"
     },
     "Name": "Evan Claassen",

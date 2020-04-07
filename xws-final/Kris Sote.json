@@ -3,8 +3,9 @@
     "Discord": "KTOFF#4119",
     "Drop": "Pattern analyzer from Greer Sonnel",
     "Final": {
+        "description": "",
         "faction": "resistance",
-        "name": "Kristoff Sotelo JTO",
+        "name": "    *** JTO",
         "pilots": [
             {
                 "id": "rosetico",
@@ -23,17 +24,10 @@
                 }
             },
             {
-                "id": "greersonnel",
-                "points": 43,
-                "ship": "rz2awing",
-                "upgrades": {
-                    "talent": [
-                        "intimidation"
-                    ],
-                    "tech": [
-                        "advancedoptics"
-                    ]
-                }
+                "id": "finn",
+                "points": 29,
+                "ship": "resistancetransportpod",
+                "upgrades": []
             },
             {
                 "id": "bluesquadronrookie",
@@ -52,21 +46,34 @@
                 }
             },
             {
-                "id": "finn",
-                "points": 29,
-                "ship": "resistancetransportpod",
-                "upgrades": {}
+                "id": "greersonnel",
+                "points": 43,
+                "ship": "rz2awing",
+                "upgrades": {
+                    "talent": [
+                        "intimidation"
+                    ],
+                    "tech": [
+                        "advancedoptics"
+                    ]
+                }
             },
             {
                 "id": "greensquadronexpert",
                 "points": 34,
                 "ship": "rz2awing",
-                "upgrades": {}
+                "upgrades": []
             }
         ],
         "points": 194,
-        "vendor": {},
-        "version": "2.0.0"
+        "vendor": {
+            "lbn": {
+                "builder": "Launch Bay Next",
+                "builder_url": "https://launch-bay-next.herokuapp.com",
+                "link": "https://launch-bay-next.herokuapp.com/print?lbx='%20%20%20%20***%20JTO'.194.4.0.(65.574.(14.301).(1.234).(19.464)).(65.575).(53.426.(18.486).(19.460).(15.484)).(54.437.(1.236).(19.460)).(54.439)"
+            }
+        },
+        "version": "2.5.13"
     },
     "Name": "Kristoff Sotelo",
     "Option1": {

@@ -5,6 +5,11 @@
     "Final": {
         "faction": "rebelalliance",
         "name": "Brian Webb JTO",
+        "obstacles": [
+            "yt2400debris2",
+            "core2asteroid3",
+            "gascloud6"
+        ],
         "pilots": [
             {
                 "id": "janors",
@@ -22,8 +27,7 @@
             {
                 "id": "sabinewren",
                 "points": 41,
-                "ship": "attackshuttle",
-                "upgrades": {}
+                "ship": "attackshuttle"
             },
             {
                 "id": "corranhorn",
@@ -38,12 +42,17 @@
             {
                 "id": "zeborrelios-tielnfighter",
                 "points": 24,
-                "ship": "tielnfighter",
-                "upgrades": {}
+                "ship": "tielnfighter"
             }
         ],
         "points": 198,
-        "vendor": {},
+        "vendor": {
+            "yasb": {
+                "builder": "(Yet Another) X-Wing Miniatures Squad Builder",
+                "builder_url": "https://raithos.github.io",
+                "link": "https://raithos.github.io/?f=Rebel%20Alliance&d=v8ZsZ200Z46XW69WWWW156Y66XWWWWY21XWWW4WY15X&sn=Brian%20Webb%20JTO&obs=yt2400debris2,core2asteroid3,gascloud6"
+            }
+        },
         "version": "2.0.0"
     },
     "Name": "Brian Webb",

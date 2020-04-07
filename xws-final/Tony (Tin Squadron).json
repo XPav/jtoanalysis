@@ -45,8 +45,7 @@
             {
                 "id": "nightbeast",
                 "points": 25,
-                "ship": "tielnfighter",
-                "upgrades": {}
+                "ship": "tielnfighter"
             },
             {
                 "id": "scarifbasepilot",
@@ -63,7 +62,13 @@
             }
         ],
         "points": 199,
-        "vendor": {},
+        "vendor": {
+            "yasb": {
+                "builder": "(Yet Another) X-Wing Miniatures Squad Builder",
+                "builder_url": "https://raithos.github.io",
+                "link": "https://raithos.github.io/?f=Galactic%20Empire&d=v8ZsZ200Z203X115W134W98W99WW316WWY171X73W114W99Y226XY186X26WW106&sn=Tony%20Cameron%20JTO&obs="
+            }
+        },
         "version": "2.0.0"
     },
     "Name": "Tony Cameron",

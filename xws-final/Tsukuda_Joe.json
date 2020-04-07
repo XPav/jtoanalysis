@@ -22,14 +22,12 @@
             {
                 "id": "gandfindsman",
                 "points": 41,
-                "ship": "g1astarfighter",
-                "upgrades": {}
+                "ship": "g1astarfighter"
             },
             {
                 "id": "torkilmux",
                 "points": 38,
-                "ship": "hwk290lightfreighter",
-                "upgrades": {}
+                "ship": "hwk290lightfreighter"
             },
             {
                 "id": "gandfindsman",
@@ -44,12 +42,17 @@
             {
                 "id": "autopilotdrone",
                 "points": 12,
-                "ship": "escapecraft",
-                "upgrades": {}
+                "ship": "escapecraft"
             }
         ],
         "points": 199,
-        "vendor": {},
+        "vendor": {
+            "yasb": {
+                "builder": "(Yet Another) X-Wing Miniatures Squad Builder",
+                "builder_url": "https://raithos.github.io",
+                "link": "https://raithos.github.io/?f=Scum%20and%20Villainy&d=v8ZsZ200Z127XW66WWWW160Y111XWWWWY114XWWWWWY111X240WWWWY96X&sn=Joe%20Congdon%20JTO&obs="
+            }
+        },
         "version": "2.0.0"
     },
     "Name": "Joe Congdon",

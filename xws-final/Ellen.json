@@ -3,17 +3,19 @@
     "Discord": "ellenczes#4218",
     "Drop": "Greedo from the Y wing",
     "Final": {
+        "description": "",
         "faction": "scumandvillainy",
-        "name": "Ellen Ce JTO",
+        "name": "Random Squad",
         "pilots": [
             {
                 "id": "zealousrecruit",
+                "name": "zealousrecruit",
                 "points": 41,
-                "ship": "fangfighter",
-                "upgrades": {}
+                "ship": "fangfighter"
             },
             {
                 "id": "kavil",
+                "name": "kavil",
                 "points": 56,
                 "ship": "btla4ywing",
                 "upgrades": {
@@ -30,12 +32,13 @@
             },
             {
                 "id": "ndrusuhlak",
+                "name": "ndrusuhlak",
                 "points": 30,
-                "ship": "z95af4headhunter",
-                "upgrades": {}
+                "ship": "z95af4headhunter"
             },
             {
                 "id": "unkarplutt",
+                "name": "unkarplutt",
                 "points": 47,
                 "ship": "quadrijettransferspacetug",
                 "upgrades": {
@@ -52,13 +55,19 @@
             },
             {
                 "id": "blacksunsoldier",
+                "name": "blacksunsoldier",
                 "points": 24,
-                "ship": "z95af4headhunter",
-                "upgrades": {}
+                "ship": "z95af4headhunter"
             }
         ],
         "points": 198,
-        "vendor": {},
+        "vendor": {
+            "yasb": {
+                "builder": "Yet Another Squad Builder 2.0",
+                "builder_url": "https://raithos.github.io/",
+                "link": "https://raithos.github.io/?f=Scum%20and%20Villainy&d=v8ZsZ200Z102XY85XW138WWW5WWW105Y156XWWWY142X206WW317WW105Y158XWWW&sn=Random%20Squad&obs="
+            }
+        },
         "version": "2.0.0"
     },
     "Name": "Ellen Ce",

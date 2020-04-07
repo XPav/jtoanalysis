@@ -48,12 +48,17 @@
             {
                 "id": "kickback",
                 "points": 33,
-                "ship": "v19torrentstarfighter",
-                "upgrades": {}
+                "ship": "v19torrentstarfighter"
             }
         ],
         "points": 197,
-        "vendor": {},
+        "vendor": {
+            "yasb": {
+                "builder": "(Yet Another) X-Wing Miniatures Squad Builder",
+                "builder_url": "https://raithos.github.io",
+                "link": "https://raithos.github.io/?f=Galactic%20Republic&d=v8ZsZ200Z341XW30WWWY277X72W252W201WY332XWW213W134Y315XWW&sn=Brett%20Freeman%20JTO&obs="
+            }
+        },
         "version": "2.0.0"
     },
     "Name": "Brett Freeman",

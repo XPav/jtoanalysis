@@ -64,7 +64,13 @@
             }
         ],
         "points": 200,
-        "vendor": {},
+        "vendor": {
+            "yasb": {
+                "builder": "(Yet Another) X-Wing Miniatures Squad Builder",
+                "builder_url": "https://raithos.github.io",
+                "link": "https://raithos.github.io/?f=Galactic%20Empire&d=v8ZsZ200Z161X132W112W136W102W106W144WY185X54WW166Y199X119WW82W&sn=Steffen%20Lydvo%20JTO&obs=vt49decimatordebris0,vt49decimatordebris1,vt49decimatordebris2"
+            }
+        },
         "version": "2.0.0"
     },
     "Name": "Steffen Lydvo",

@@ -39,12 +39,17 @@
             {
                 "id": "tucker",
                 "points": 29,
-                "ship": "v19torrentstarfighter",
-                "upgrades": {}
+                "ship": "v19torrentstarfighter"
             }
         ],
         "points": 198,
-        "vendor": {},
+        "vendor": {
+            "yasb": {
+                "builder": "(Yet Another) X-Wing Miniatures Squad Builder",
+                "builder_url": "https://raithos.github.io",
+                "link": "https://raithos.github.io/?f=Galactic%20Republic&d=v8ZsZ200Z363XW134WWWWY338XW136WWWWY273XWW200WY319XW&sn=Andreas%20Tolman%20JTO&obs="
+            }
+        },
         "version": "2.0.0"
     },
     "Name": "Andreas Tolman",

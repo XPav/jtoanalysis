@@ -4,7 +4,7 @@
     "Drop": "Cloaking device - Jostero",
     "Final": {
         "faction": "scumandvillainy",
-        "name": "Smikies - Soontir Fel - JTO",
+        "name": "Cody Wood - Soontir Fel - JTO",
         "pilots": [
             {
                 "id": "kavil",
@@ -54,12 +54,17 @@
             {
                 "id": "l337-escapecraft",
                 "points": 26,
-                "ship": "escapecraft",
-                "upgrades": {}
+                "ship": "escapecraft"
             }
         ],
         "points": 199,
-        "vendor": {},
+        "vendor": {
+            "yasb": {
+                "builder": "(Yet Another) X-Wing Miniatures Squad Builder",
+                "builder_url": "https://raithos.github.io",
+                "link": "https://raithos.github.io/?f=Scum%20and%20Villainy&d=v8ZsZ200Z85XW137WW80W5WWW108Y122XWWW105WY83XWW13WWW93WW151Y95XWW&sn=Cody%20Wood%20-%20Soontir%20Fel%20-%20JTO&obs="
+            }
+        },
         "version": "2.0.0"
     },
     "Name": "cody wood",

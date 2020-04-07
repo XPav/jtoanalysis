@@ -3,11 +3,13 @@
     "Discord": "Totem#6562",
     "Drop": "Scimitar from Maul",
     "Final": {
+        "description": "",
         "faction": "separatistalliance",
         "name": "The Maul, the Tyrant, and the UPS guy",
         "pilots": [
             {
                 "id": "darthmaul",
+                "name": "darthmaul",
                 "points": 72,
                 "ship": "sithinfiltrator",
                 "upgrades": {
@@ -24,6 +26,7 @@
             },
             {
                 "id": "countdooku",
+                "name": "countdooku",
                 "points": 76,
                 "ship": "sithinfiltrator",
                 "upgrades": {
@@ -37,13 +40,19 @@
             },
             {
                 "id": "darkcourier",
+                "name": "darkcourier",
                 "points": 51,
-                "ship": "sithinfiltrator",
-                "upgrades": {}
+                "ship": "sithinfiltrator"
             }
         ],
         "points": 199,
-        "vendor": {},
+        "vendor": {
+            "yasb": {
+                "builder": "Yet Another Squad Builder 2.0",
+                "builder_url": "https://raithos.github.io/",
+                "link": "https://raithos.github.io/?f=Separatist%20Alliance&d=v8ZsZ200Z272X203W12WWWWW109WWY334XWW234WWWWW216WY336XWWWWWWW&sn=The%20Maul%2C%20the%20Tyrant%2C%20and%20the%20UPS%20guy&obs="
+            }
+        },
         "version": "2.0.0"
     },
     "Name": "Attila Bodnar-Sobczak",

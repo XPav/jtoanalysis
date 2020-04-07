@@ -3,20 +3,10 @@
     "Discord": "BrodyRules#9748",
     "Drop": "Static Discharge Vanes from Alpha Squadron Pilot",
     "Final": {
+        "description": "",
         "faction": "galacticempire",
         "name": "Drew Brody JTO",
         "pilots": [
-            {
-                "id": "alphasquadronpilot",
-                "points": 42,
-                "ship": "tieininterceptor",
-                "upgrades": {
-                    "modification": [
-                        "shieldupgrade",
-                        "targetingcomputer"
-                    ]
-                }
-            },
             {
                 "id": "coloneljendon",
                 "points": 58,
@@ -38,7 +28,7 @@
                 "points": 56,
                 "ship": "tieadvancedv1",
                 "upgrades": {
-                    "force-power": [
+                    "forcepower": [
                         "hate"
                     ],
                     "sensor": [
@@ -55,11 +45,28 @@
                         "hullupgrade"
                     ]
                 }
+            },
+            {
+                "id": "alphasquadronpilot",
+                "points": 42,
+                "ship": "tieininterceptor",
+                "upgrades": {
+                    "modification": [
+                        "shieldupgrade",
+                        "targetingcomputer"
+                    ]
+                }
             }
         ],
         "points": 195,
-        "vendor": {},
-        "version": "2.0.0"
+        "vendor": {
+            "lbn": {
+                "builder": "Launch Bay Next",
+                "builder_url": "https://launch-bay-next.herokuapp.com",
+                "link": "https://launch-bay-next.herokuapp.com/print?lbx='Drew%20Brody%20JTO'.195.2.0.(26.143.(3.259).(14.297).(15.391)).(25.100.(17.489).(2.252)).(16.120.(14.297)).(41.106.(14.299.619))"
+            }
+        },
+        "version": "2.4.11"
     },
     "Name": "Drew Brody",
     "Option1": {

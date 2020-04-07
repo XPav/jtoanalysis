@@ -9,8 +9,7 @@
             {
                 "id": "scorch",
                 "points": 33,
-                "ship": "tiefofighter",
-                "upgrades": {}
+                "ship": "tiefofighter"
             },
             {
                 "id": "lieutenanttavson",
@@ -47,7 +46,13 @@
             }
         ],
         "points": 200,
-        "vendor": {},
+        "vendor": {
+            "yasb": {
+                "builder": "(Yet Another) X-Wing Miniatures Squad Builder",
+                "builder_url": "https://raithos.github.io",
+                "link": "https://raithos.github.io/?f=First%20Order&d=v8ZsZ200Z262XWWY289XWW180WWWWWY285X133WWW182WWY397XWWW182WW&sn=Crispus%20Knight%20JTO&obs="
+            }
+        },
         "version": "2.0.0"
     },
     "Name": "Crispus Knight",

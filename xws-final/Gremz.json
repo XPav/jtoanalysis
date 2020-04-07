@@ -52,7 +52,13 @@
             }
         ],
         "points": 199,
-        "vendor": {},
+        "vendor": {
+            "yasb": {
+                "builder": "(Yet Another) X-Wing Miniatures Squad Builder",
+                "builder_url": "https://raithos.github.io",
+                "link": "https://raithos.github.io/?f=Rebel%20Alliance&d=v8ZsZ200Z46XWW56WWW156Y392XWWW137W65WWW81WY8XWWWW142&sn=Neil%20Photay%20JTO&obs=yt2400debris1,vt49decimatordebris1,vt49decimatordebris2"
+            }
+        },
         "version": "2.0.0"
     },
     "Name": "Neil Photay",

@@ -63,7 +63,13 @@
             }
         ],
         "points": 197,
-        "vendor": {},
+        "vendor": {
+            "yasb": {
+                "builder": "(Yet Another) X-Wing Miniatures Squad Builder",
+                "builder_url": "https://raithos.github.io",
+                "link": "https://raithos.github.io/?f=Separatist%20Alliance&d=v8ZsZ200Z336XW136W54WW221WW216WY324X134W100WWWY337XWW106Y305XW223WW229&sn=It%27s%20my%20programming%20%3A(&obs="
+            }
+        },
         "version": "2.0.0"
     },
     "Name": "George Barker",

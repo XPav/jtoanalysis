@@ -69,7 +69,13 @@
             }
         ],
         "points": 200,
-        "vendor": {},
+        "vendor": {
+            "yasb": {
+                "builder": "(Yet Another) X-Wing Miniatures Squad Builder",
+                "builder_url": "https://raithos.github.io",
+                "link": "https://raithos.github.io/?f=Rebel%20Alliance&d=v8ZsZ200Z0X93W136W2W249W142Y18X135W100WW77W54W70W316WY55X130W99W166&sn=Tad%20Wesley%20-%20Jank%20Tank%20Open&obs="
+            }
+        },
         "version": "2.0.0"
     },
     "Name": "Tad Wesley",

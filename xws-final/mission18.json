@@ -56,7 +56,13 @@
             }
         ],
         "points": 197,
-        "vendor": {},
+        "vendor": {
+            "yasb": {
+                "builder": "(Yet Another) X-Wing Miniatures Squad Builder",
+                "builder_url": "https://raithos.github.io",
+                "link": "https://raithos.github.io/?f=First%20Order&d=v8ZsZ200Z397XW177W100W88W240W165Y286X206W134W100Y289XWW183WWWWW&sn=mission18%20JTO&obs="
+            }
+        },
         "version": "2.0.0"
     },
     "Name": "Bryan Javorek",

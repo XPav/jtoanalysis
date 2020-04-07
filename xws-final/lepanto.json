@@ -42,12 +42,17 @@
             {
                 "id": "nightbeast",
                 "points": 25,
-                "ship": "tielnfighter",
-                "upgrades": {}
+                "ship": "tielnfighter"
             }
         ],
         "points": 198,
-        "vendor": {},
+        "vendor": {
+            "yasb": {
+                "builder": "(Yet Another) X-Wing Miniatures Squad Builder",
+                "builder_url": "https://raithos.github.io",
+                "link": "https://raithos.github.io/?f=Galactic%20Empire&d=v8ZsZ200Z175XWW311WY216XWWWW82W317WWY187XWW97WWWY226X&sn=Dominick%20DiCarlo%20JTO&obs="
+            }
+        },
         "version": "2.0.0"
     },
     "Name": "Dominick DiCarlo",

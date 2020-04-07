@@ -3,11 +3,13 @@
     "Discord": "darth natcho #0511",
     "Drop": "Hyperspace Tracking Data from (Starkiller base pilot)",
     "Final": {
+        "description": "",
         "faction": "firstorder",
         "name": "Jerry Hoult JTO",
         "pilots": [
             {
                 "id": "starkillerbasepilot",
+                "name": "starkillerbasepilot",
                 "points": 83,
                 "ship": "upsilonclasscommandshuttle",
                 "upgrades": {
@@ -28,6 +30,7 @@
             },
             {
                 "id": "muse",
+                "name": "muse",
                 "points": 37,
                 "ship": "tiefofighter",
                 "upgrades": {
@@ -41,6 +44,7 @@
             },
             {
                 "id": "lieutenantlehuse",
+                "name": "lieutenantlehuse",
                 "points": 53,
                 "ship": "tiesffighter",
                 "upgrades": {
@@ -54,13 +58,19 @@
             },
             {
                 "id": "zetasquadronpilot",
+                "name": "zetasquadronpilot",
                 "points": 26,
-                "ship": "tiefofighter",
-                "upgrades": {}
+                "ship": "tiefofighter"
             }
         ],
         "points": 199,
-        "vendor": {},
+        "vendor": {
+            "yasb": {
+                "builder": "Yet Another Squad Builder 2.0",
+                "builder_url": "https://raithos.github.io/",
+                "link": "https://raithos.github.io/?f=First%20Order&d=v8ZsZ200Z288X318WW30W194WW11W240WY235X181W206WY397XWW101W182WWY268XW&sn=Jerry%20Hoult%20JTO&obs="
+            }
+        },
         "version": "2.0.0"
     },
     "Name": "Jerry Hoult",

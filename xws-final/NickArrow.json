@@ -56,12 +56,17 @@
             {
                 "id": "captainsear",
                 "points": 45,
-                "ship": "belbullab22starfighter",
-                "upgrades": {}
+                "ship": "belbullab22starfighter"
             }
         ],
         "points": 198,
-        "vendor": {},
+        "vendor": {
+            "yasb": {
+                "builder": "(Yet Another) X-Wing Miniatures Squad Builder",
+                "builder_url": "https://raithos.github.io",
+                "link": "https://raithos.github.io/?f=Separatist%20Alliance&d=v8ZsZ200Z326X134WWW109WY311XW208W236Y334XWW134WWWWW216W222Y308XWW&sn=NickArrowJTO&obs=yt2400debris0,yt2400debris1,yt2400debris2"
+            }
+        },
         "version": "2.0.0"
     },
     "Name": "Nick Aretakis",

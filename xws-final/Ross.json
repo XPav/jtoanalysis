@@ -3,11 +3,13 @@
     "Discord": "vetamur#1162",
     "Drop": "remove Static Discharge Vanes from the HWK-290 ",
     "Final": {
+        "description": "",
         "faction": "scumandvillainy",
-        "name": "ross.jank",
+        "name": "ross",
         "pilots": [
             {
                 "id": "ahhav",
+                "name": "ahhav",
                 "points": 37,
                 "ship": "modifiedtielnfighter",
                 "upgrades": {
@@ -18,6 +20,7 @@
             },
             {
                 "id": "graz",
+                "name": "graz",
                 "points": 54,
                 "ship": "kihraxzfighter",
                 "upgrades": {
@@ -34,6 +37,7 @@
             },
             {
                 "id": "blacksunassassin",
+                "name": "blacksunassassin",
                 "points": 52,
                 "ship": "starviperclassattackplatform",
                 "upgrades": {
@@ -50,6 +54,7 @@
             },
             {
                 "id": "palobgodalhi",
+                "name": "palobgodalhi",
                 "points": 54,
                 "ship": "hwk290lightfreighter",
                 "upgrades": {
@@ -63,7 +68,13 @@
             }
         ],
         "points": 197,
-        "vendor": {},
+        "vendor": {
+            "yasb": {
+                "builder": "Yet Another Squad Builder 2.0",
+                "builder_url": "https://raithos.github.io/",
+                "link": "https://raithos.github.io/?f=Scum%20and%20Villainy&d=v8ZsZ200Z249X256WY120XW98W93WW108WY150X115W113WW236WY112X126W45WWWWW&sn=ross&obs="
+            }
+        },
         "version": "2.0.0"
     },
     "Name": "Ross",

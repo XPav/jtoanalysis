@@ -37,8 +37,7 @@
             {
                 "id": "finn",
                 "points": 29,
-                "ship": "resistancetransportpod",
-                "upgrades": {}
+                "ship": "resistancetransportpod"
             },
             {
                 "id": "poedameron",
@@ -58,7 +57,13 @@
             }
         ],
         "points": 197,
-        "vendor": {},
+        "vendor": {
+            "yasb": {
+                "builder": "(Yet Another) X-Wing Miniatures Squad Builder",
+                "builder_url": "https://raithos.github.io",
+                "link": "https://raithos.github.io/?f=Resistance&d=v8ZsZ200Z246X133W102W246W192WW93W108WY350XWWWY231XW195WW175W206WW&sn=Thomas%20Shaw%20JTO&obs=yt2400debris0,yt2400debris1,yt2400debris2"
+            }
+        },
         "version": "2.0.0"
     },
     "Name": "Thomas Shaw",

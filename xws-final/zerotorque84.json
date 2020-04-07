@@ -48,7 +48,13 @@
             }
         ],
         "points": 197,
-        "vendor": {},
+        "vendor": {
+            "yasb": {
+                "builder": "(Yet Another) X-Wing Miniatures Squad Builder",
+                "builder_url": "https://raithos.github.io",
+                "link": "https://raithos.github.io/?f=Rebel%20Alliance&d=v8ZsZ200Z6XWWWW142Y55X132WWY25XWWW3WWWY63XW113WWWWWW&sn=David%20Burger%20JTO&obs="
+            }
+        },
         "version": "2.0.0"
     },
     "Name": "David Burger",

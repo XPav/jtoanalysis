@@ -3,8 +3,9 @@
     "Discord": "Full On (#3851)",
     "Drop": "Agile gunner from the tie aggressor ",
     "Final": {
+        "description": "",
         "faction": "galacticempire",
-        "name": "Paul Owen JTO",
+        "name": "Jank Tank",
         "pilots": [
             {
                 "id": "sabersquadronace",
@@ -46,7 +47,7 @@
                 "id": "seynmarana",
                 "points": 30,
                 "ship": "tielnfighter",
-                "upgrades": {}
+                "upgrades": []
             },
             {
                 "id": "tempestsquadronpilot",
@@ -60,8 +61,14 @@
             }
         ],
         "points": 199,
-        "vendor": {},
-        "version": "2.0.0"
+        "vendor": {
+            "lbn": {
+                "builder": "Launch Bay Next",
+                "builder_url": "https://launch-bay-next.herokuapp.com",
+                "link": "https://launch-bay-next.herokuapp.com/print?lbx='Jank%20Tank'.199.2.0.(41.105.(1.242)).(29.130.(6.270).(4.260)).(43.116.(8.335).(14.300)).(11.86).(13.98.(6.651))"
+            }
+        },
+        "version": "2.5.22"
     },
     "Name": "Paul Owen",
     "Option1": {

@@ -5,11 +5,6 @@
     "Final": {
         "faction": "rebelalliance",
         "name": "Duff_N_Stuff JTO",
-        "obstacles": [
-            "gascloud3",
-            "gascloud4",
-            "gascloud5"
-        ],
         "pilots": [
             {
                 "id": "evaanverlaine",
@@ -27,8 +22,7 @@
             {
                 "id": "corranhorn",
                 "points": 66,
-                "ship": "ewing",
-                "upgrades": {}
+                "ship": "ewing"
             },
             {
                 "id": "zeborrelios-sheathipedeclassshuttle",
@@ -52,7 +46,13 @@
             }
         ],
         "points": 197,
-        "vendor": {},
+        "vendor": {
+            "yasb": {
+                "builder": "(Yet Another) X-Wing Miniatures Squad Builder",
+                "builder_url": "https://raithos.github.io",
+                "link": "https://raithos.github.io/?f=Rebel%20Alliance&d=v8ZsZ200Z28X131WWWWWW88Y21XWWWWY71XWWWW167Y18XWWWW54WWW&sn=Duff_N_Stuff%20JTO&obs="
+            }
+        },
         "version": "2.0.0"
     },
     "Name": "Neal Duffy",

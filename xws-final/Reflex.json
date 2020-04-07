@@ -3,13 +3,9 @@
     "Discord": "Reflex#5086",
     "Drop": "Hotshot Gunner from Rey",
     "Final": {
+        "description": "",
         "faction": "resistance",
-        "name": "Andrew Cox JTO",
-        "obstacles": [
-            "coreasteroid5",
-            "core2asteroid4",
-            "core2asteroid5"
-        ],
+        "name": "Random Squad",
         "pilots": [
             {
                 "id": "rey",
@@ -45,11 +41,17 @@
                 "id": "jarekyeager",
                 "points": 33,
                 "ship": "fireball",
-                "upgrades": {}
+                "upgrades": []
             }
         ],
         "points": 200,
-        "vendor": {},
+        "vendor": {
+            "lbn": {
+                "builder": "Launch Bay Next",
+                "builder_url": "https://launch-bay-next.herokuapp.com",
+                "link": "https://launch-bay-next.herokuapp.com/print?lbx='Random%20Squad'.200.4.0.(57.428.(8.473.584).(16.476).(14.292).(15.485)).(53.418.(18.486)).(70.620)"
+            }
+        },
         "version": "2.0.0"
     },
     "Name": "Andrew Cox",

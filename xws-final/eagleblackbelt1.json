@@ -54,12 +54,17 @@
             {
                 "id": "sarcoplank",
                 "points": 32,
-                "ship": "quadrijettransferspacetug",
-                "upgrades": {}
+                "ship": "quadrijettransferspacetug"
             }
         ],
         "points": 199,
-        "vendor": {},
+        "vendor": {
+            "yasb": {
+                "builder": "(Yet Another) X-Wing Miniatures Squad Builder",
+                "builder_url": "https://raithos.github.io",
+                "link": "https://raithos.github.io/?f=Scum%20and%20Villainy&d=v8ZsZ200Z152X124W10WW16WW83W95WW150Y147X126WWW249W163WY141XWWWW&sn=Unnamed%20Squadron&obs=yt2400debris0,yt2400debris1,yt2400debris2"
+            }
+        },
         "version": "2.0.0"
     },
     "Name": "Joshua Richardson",

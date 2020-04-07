@@ -39,8 +39,7 @@
             {
                 "id": "landocalrissian-escapecraft",
                 "points": 29,
-                "ship": "escapecraft",
-                "upgrades": {}
+                "ship": "escapecraft"
             },
             {
                 "id": "constablezuvio",
@@ -54,7 +53,13 @@
             }
         ],
         "points": 199,
-        "vendor": {},
+        "vendor": {
+            "yasb": {
+                "builder": "(Yet Another) X-Wing Miniatures Squad Builder",
+                "builder_url": "https://raithos.github.io",
+                "link": "https://raithos.github.io/?f=Scum%20and%20Villainy&d=v8ZsZ200Z122XWWW166WY249X121WY118X234WWWWWWY93XWWY140XWWW70WW&sn=Zach%20Righetti%20JTO&obs="
+            }
+        },
         "version": "2.0.0"
     },
     "Name": "Zach Righetti",

@@ -52,12 +52,17 @@
             {
                 "id": "separatistbomber",
                 "points": 28,
-                "ship": "hyenaclassdroidbomber",
-                "upgrades": {}
+                "ship": "hyenaclassdroidbomber"
             }
         ],
         "points": 199,
-        "vendor": {},
+        "vendor": {
+            "yasb": {
+                "builder": "(Yet Another) X-Wing Miniatures Squad Builder",
+                "builder_url": "https://raithos.github.io",
+                "link": "https://raithos.github.io/?f=Separatist%20Alliance&d=v8ZsZ200Z358X115WY325XW70WW236WY335XWWW217WWWWWY327XWWWW237Y327XWWWW&sn=Aaron%20Furminger%20JTO&obs="
+            }
+        },
         "version": "2.0.0"
     },
     "Name": "Aaron",

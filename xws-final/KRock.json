@@ -56,12 +56,17 @@
             {
                 "id": "jarekyeager",
                 "points": 33,
-                "ship": "fireball",
-                "upgrades": {}
+                "ship": "fireball"
             }
         ],
         "points": 198,
-        "vendor": {},
+        "vendor": {
+            "yasb": {
+                "builder": "(Yet Another) X-Wing Miniatures Squad Builder",
+                "builder_url": "https://raithos.github.io",
+                "link": "https://raithos.github.io/?f=Resistance&d=v8ZsZ200Z245XW99W173WWWWWY380XW205WW104WW315Y351XW206WWWWW312WY377XWWWWWW&sn=Kris%20Erickson%20(JTO)&obs=gascloud3,gascloud4,gascloud5"
+            }
+        },
         "version": "2.0.0"
     },
     "Name": "Kris Erickson",

@@ -3,11 +3,13 @@
     "Discord": "casperionx#2267",
     "Drop": "Admiral sloane off Major Vermiel",
     "Final": {
+        "description": "",
         "faction": "galacticempire",
         "name": "HEATH CARRUTHERS JTO",
         "pilots": [
             {
                 "id": "coloneljendon",
+                "name": "coloneljendon",
                 "points": 72,
                 "ship": "lambdaclasst4ashuttle",
                 "upgrades": {
@@ -27,6 +29,7 @@
             },
             {
                 "id": "majorvermeil",
+                "name": "majorvermeil",
                 "points": 62,
                 "ship": "tiereaper",
                 "upgrades": {
@@ -44,6 +47,7 @@
             },
             {
                 "id": "soontirfel",
+                "name": "soontirfel",
                 "points": 60,
                 "ship": "tieininterceptor",
                 "upgrades": {
@@ -57,7 +61,13 @@
             }
         ],
         "points": 194,
-        "vendor": {},
+        "vendor": {
+            "yasb": {
+                "builder": "Yet Another Squad Builder 2.0",
+                "builder_url": "https://raithos.github.io/",
+                "link": "https://raithos.github.io/?f=Galactic%20Empire&d=v8ZsZ200Z167X111W10W49WW106WY183X127W30W28W166Y179X126W108W&sn=HEATH%20CARRUTHERS%20JTO&obs="
+            }
+        },
         "version": "2.0.0"
     },
     "Name": "Heath Carruthers",

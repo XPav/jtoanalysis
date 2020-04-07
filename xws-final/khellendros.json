@@ -4,13 +4,16 @@
     "Drop": "Proton Rockets from Swoop",
     "Final": {
         "faction": "galacticrepublic",
-        "name": "Random Squad",
+        "name": "Geoff Frost JTO",
         "pilots": [
             {
                 "id": "ahsokatano",
-                "points": 63,
+                "points": 70,
                 "ship": "delta7aethersprite",
                 "upgrades": {
+                    "astromech": [
+                        "c110p"
+                    ],
                     "configuration": [
                         "delta7b"
                     ],
@@ -49,12 +52,9 @@
             },
             {
                 "id": "swoop",
-                "points": 39,
+                "points": 32,
                 "ship": "v19torrentstarfighter",
                 "upgrades": {
-                    "missile": [
-                        "protonrockets"
-                    ],
                     "talent": [
                         "composure"
                     ]
@@ -72,7 +72,13 @@
             }
         ],
         "points": 199,
-        "vendor": {},
+        "vendor": {
+            "yasb": {
+                "builder": "(Yet Another) X-Wing Miniatures Squad Builder",
+                "builder_url": "https://raithos.github.io",
+                "link": "https://raithos.github.io/?f=Galactic%20Republic&d=v8ZsZ200Z276X203W252W201W236Y362XW137W234W88W254W70W108Y317X115WWY318XWW108&sn=Geoff%20Frost%20JTO&obs="
+            }
+        },
         "version": "2.0.0"
     },
     "Name": "Geoff Frost",

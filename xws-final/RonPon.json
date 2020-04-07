@@ -71,7 +71,13 @@
             }
         ],
         "points": 197,
-        "vendor": {},
+        "vendor": {
+            "yasb": {
+                "builder": "(Yet Another) X-Wing Miniatures Squad Builder",
+                "builder_url": "https://raithos.github.io",
+                "link": "https://raithos.github.io/?f=Galactic%20Republic&d=v8ZsZ200Z319X100W106Y314X75W6W201W166Y362XW138WW76WW69WY320X116WW&sn=Ronny%20Gjendemsj%C3%B8%20JTO&obs=gascloud2,gascloud3,gascloud5"
+            }
+        },
         "version": "2.0.0"
     },
     "Name": "Ronny Gjendemsj\u00c3\u00b8",

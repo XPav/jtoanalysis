@@ -1,10 +1,15 @@
 {
     "Add": "Passive Sensors on the Blade Squadron Veteran",
-    "Discord": "Old Sarge \u00c3\u00a2\u00e2\u201a\u00ac\u00cb\u015302 (#2875)",
+    "Discord": "Old Sarge \u00e2\u20ac\u02dc02 (#2875)",
     "Drop": "None",
     "Final": {
         "faction": "rebelalliance",
         "name": "Kulbee\u2019s Covid Cronies",
+        "obstacles": [
+            "coreasteroid5",
+            "core2asteroid4",
+            "core2asteroid5"
+        ],
         "pilots": [
             {
                 "id": "bladesquadronveteran",
@@ -41,18 +46,22 @@
             {
                 "id": "zeborrelios-tielnfighter",
                 "points": 24,
-                "ship": "tielnfighter",
-                "upgrades": {}
+                "ship": "tielnfighter"
             },
             {
                 "id": "braylenstramm",
                 "points": 52,
-                "ship": "asf01bwing",
-                "upgrades": {}
+                "ship": "asf01bwing"
             }
         ],
         "points": 198,
-        "vendor": {},
+        "vendor": {
+            "yasb": {
+                "builder": "(Yet Another) X-Wing Miniatures Squad Builder",
+                "builder_url": "https://raithos.github.io",
+                "link": "https://raithos.github.io/?f=Rebel%20Alliance&d=v8ZsZ200Z75XW240W11WW136W105WY12XWWWW165W142Y15XY73XWWWWWW&sn=Kulbee%E2%80%99s%20Covid%20Cronies&obs=coreasteroid5,core2asteroid4,core2asteroid5"
+            }
+        },
         "version": "2.0.0"
     },
     "Name": "David Fe",

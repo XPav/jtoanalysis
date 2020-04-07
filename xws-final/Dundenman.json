@@ -3,11 +3,18 @@
     "Discord": "Macr_Windu#0321",
     "Drop": "Collision Detector from Dinee",
     "Final": {
+        "description": "",
         "faction": "galacticrepublic",
-        "name": "Random Squad",
+        "name": "Blair Gray JTO",
+        "obstacles": [
+            "coreasteroid0",
+            "coreasteroid3",
+            "core2asteroid0"
+        ],
         "pilots": [
             {
                 "id": "redsquadronbomber",
+                "name": "redsquadronbomber",
                 "points": 53,
                 "ship": "btlbywing",
                 "upgrades": {
@@ -27,14 +34,15 @@
             },
             {
                 "id": "dineeellberger",
-                "points": 62,
+                "name": "dineeellberger",
+                "points": 59,
                 "ship": "nabooroyaln1starfighter",
                 "upgrades": {
                     "astromech": [
                         "r4p44"
                     ],
                     "sensor": [
-                        "collisiondetector"
+                        "passivesensors"
                     ],
                     "torpedo": [
                         "protontorpedoes"
@@ -43,12 +51,13 @@
             },
             {
                 "id": "jediknight",
+                "name": "jediknight",
                 "points": 37,
-                "ship": "delta7aethersprite",
-                "upgrades": {}
+                "ship": "delta7aethersprite"
             },
             {
                 "id": "104thbattalionpilot",
+                "name": "104thbattalionpilot",
                 "points": 46,
                 "ship": "arc170starfighter",
                 "upgrades": {
@@ -58,8 +67,14 @@
                 }
             }
         ],
-        "points": 198,
-        "vendor": {},
+        "points": 195,
+        "vendor": {
+            "yasb": {
+                "builder": "Yet Another Squad Builder 2.0",
+                "builder_url": "https://raithos.github.io/",
+                "link": "https://raithos.github.io/?f=Galactic%20Republic&d=v8ZsZ200Z361X138W234W86WWW106Y331XW240W226W136Y277XWWWY341XW53WWW&sn=Blair%20Gray%20JTO&obs=coreasteroid0,coreasteroid3,core2asteroid0"
+            }
+        },
         "version": "2.0.0"
     },
     "Name": "Blair Gray",

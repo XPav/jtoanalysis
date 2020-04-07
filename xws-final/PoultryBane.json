@@ -77,7 +77,13 @@
             }
         ],
         "points": 195,
-        "vendor": {},
+        "vendor": {
+            "yasb": {
+                "builder": "(Yet Another) X-Wing Miniatures Squad Builder",
+                "builder_url": "https://raithos.github.io",
+                "link": "https://raithos.github.io/?f=Galactic%20Empire&d=v8ZsZ200Z163X132W113W234W99W104W144W232Y226X105Y213X82W316W166Y175XW240WW&sn=Gary%20Ball%20(PoultryBane)%20JTO&obs=coreasteroid0,coreasteroid1,coreasteroid2"
+            }
+        },
         "version": "2.0.0"
     },
     "Name": "Gary Ball",

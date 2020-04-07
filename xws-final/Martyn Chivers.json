@@ -59,7 +59,13 @@
             }
         ],
         "points": 200,
-        "vendor": {},
+        "vendor": {
+            "yasb": {
+                "builder": "(Yet Another) X-Wing Miniatures Squad Builder",
+                "builder_url": "https://raithos.github.io",
+                "link": "https://raithos.github.io/?f=Galactic%20Empire&d=v8ZsZ200Z169XW111W101Y184XW15WWY177XW240W311WY190XW97WWW&sn=Martyn%20Chivers%20JTO&obs=coreasteroid0,vt49decimatordebris2,gascloud4"
+            }
+        },
         "version": "2.0.0"
     },
     "Name": "Martyn Chivers",

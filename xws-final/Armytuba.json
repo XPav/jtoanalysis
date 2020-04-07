@@ -57,12 +57,17 @@
             {
                 "id": "rosetico",
                 "points": 26,
-                "ship": "resistancetransportpod",
-                "upgrades": {}
+                "ship": "resistancetransportpod"
             }
         ],
         "points": 200,
-        "vendor": {},
+        "vendor": {
+            "yasb": {
+                "builder": "(Yet Another) X-Wing Miniatures Squad Builder",
+                "builder_url": "https://raithos.github.io",
+                "link": "https://raithos.github.io/?f=Resistance&d=v8ZsZ200Z351XWWWW54WWW109Y298X118WWW175W206W171W232Y256XW195WW175WWWY345XWWW&sn=Armytuba%20JTO&obs="
+            }
+        },
         "version": "2.0.0"
     },
     "Name": "Ted Traini",

@@ -54,7 +54,13 @@
             }
         ],
         "points": 197,
-        "vendor": {},
+        "vendor": {
+            "yasb": {
+                "builder": "(Yet Another) X-Wing Miniatures Squad Builder",
+                "builder_url": "https://raithos.github.io",
+                "link": "https://raithos.github.io/?f=First%20Order&d=v8ZsZ200Z265XW236Y268X177WY251X202WWWWWW111W249Y283XWWW311&sn=Jeff%20Wilder%20JTO&obs="
+            }
+        },
         "version": "2.0.0"
     },
     "Name": "Jeff Wilder",

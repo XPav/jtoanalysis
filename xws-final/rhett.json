@@ -22,8 +22,7 @@
             {
                 "id": "greensquadronpilot",
                 "points": 32,
-                "ship": "rz1awing",
-                "upgrades": {}
+                "ship": "rz1awing"
             },
             {
                 "id": "outerrimsmuggler",
@@ -41,12 +40,17 @@
             {
                 "id": "captainrex",
                 "points": 30,
-                "ship": "tielnfighter",
-                "upgrades": {}
+                "ship": "tielnfighter"
             }
         ],
         "points": 199,
-        "vendor": {},
+        "vendor": {
+            "yasb": {
+                "builder": "(Yet Another) X-Wing Miniatures Squad Builder",
+                "builder_url": "https://raithos.github.io",
+                "link": "https://raithos.github.io/?f=Rebel%20Alliance&d=v8ZsZ200Z32X130WWWWW140Y52XWWY45XWW58WW107WWY16X&sn=Rhett%20Eldred%20JTO&obs="
+            }
+        },
         "version": "2.0.0"
     },
     "Name": "Rhett",

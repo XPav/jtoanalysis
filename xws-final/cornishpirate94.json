@@ -3,62 +3,74 @@
     "Discord": "cornishpirate94",
     "Drop": "",
     "Final": {
-        "faction": "galacticempire",
-        "name": "Betchya Catch Me",
-        "obstacles": [
-            "gascloud3",
-            "gascloud4",
-            "gascloud5"
-        ],
+        "description": "",
+        "faction": "separatistalliance",
+        "name": "Random Squad",
         "pilots": [
             {
-                "id": "puresabacc",
-                "points": 45,
-                "ship": "tieskstriker",
+                "id": "petranakiarenaace",
+                "points": 40,
+                "ship": "nantexclassstarfighter",
                 "upgrades": {
                     "talent": [
-                        "marksmanship"
+                        "predator"
                     ]
                 }
             },
             {
-                "id": "countdown",
-                "points": 50,
-                "ship": "tieskstriker",
+                "id": "gorgol",
+                "points": 38,
+                "ship": "nantexclassstarfighter",
+                "upgrades": {
+                    "talent": [
+                        "treacherous"
+                    ]
+                }
+            },
+            {
+                "id": "precisehunter",
+                "points": 28,
+                "ship": "vultureclassdroidfighter",
+                "upgrades": {
+                    "modification": [
+                        "hullupgrade"
+                    ]
+                }
+            },
+            {
+                "id": "countdooku",
+                "points": 93,
+                "ship": "sithinfiltrator",
                 "upgrades": {
                     "device": [
-                        "connernets"
-                    ]
-                }
-            },
-            {
-                "id": "majorvynder",
-                "points": 60,
-                "ship": "alphaclassstarwing",
-                "upgrades": {
-                    "configuration": [
-                        "os1arsenalloadout"
+                        "proximitymines"
+                    ],
+                    "forcepower": [
+                        "heightenedperception"
                     ],
                     "modification": [
-                        "advancedslam"
+                        "munitionsfailsafe"
                     ],
-                    "sensor": [
-                        "passivesensors"
+                    "tacticalrelay": [
+                        "kraken"
+                    ],
+                    "title": [
+                        "scimitar"
                     ],
                     "torpedo": [
-                        "protontorpedoes"
+                        "advprotontorpedoes"
                     ]
                 }
-            },
-            {
-                "id": "idenversio",
-                "points": 41,
-                "ship": "tielnfighter",
-                "upgrades": {}
             }
         ],
-        "points": 196,
-        "vendor": {},
+        "points": 199,
+        "vendor": {
+            "lbn": {
+                "builder": "Launch Bay Next",
+                "builder_url": "https://launch-bay-next.herokuapp.com",
+                "link": "https://launch-bay-next.herokuapp.com/print?lbx='Random%20Squad'.199.7.0.(67.608.(1.241)).(67.607.(1.529)).(59.500.(14.297)).(60.504.(12.395).(17.248).(14.298).(1000.531).(15.542).(5.262))"
+            }
+        },
         "version": "2.0.0"
     },
     "Name": "Ryan Burnett",

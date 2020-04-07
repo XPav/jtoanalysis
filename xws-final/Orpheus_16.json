@@ -52,7 +52,13 @@
             }
         ],
         "points": 197,
-        "vendor": {},
+        "vendor": {
+            "yasb": {
+                "builder": "(Yet Another) X-Wing Miniatures Squad Builder",
+                "builder_url": "https://raithos.github.io",
+                "link": "https://raithos.github.io/?f=Rebel%20Alliance&d=v8ZsZ200Z17X136WWWWW235WWY24X113WW4W164Y58XWW41W&sn=Michael%20Wnek%20JTO&obs=core2asteroid0,core2asteroid1,core2asteroid2"
+            }
+        },
         "version": "2.0.0"
     },
     "Name": "Michael Wnek",

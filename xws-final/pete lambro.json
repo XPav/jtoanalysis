@@ -9,8 +9,7 @@
             {
                 "id": "bluesquadronprotector",
                 "points": 27,
-                "ship": "v19torrentstarfighter",
-                "upgrades": {}
+                "ship": "v19torrentstarfighter"
             },
             {
                 "id": "jediknight",
@@ -35,18 +34,22 @@
             {
                 "id": "jag",
                 "points": 48,
-                "ship": "arc170starfighter",
-                "upgrades": {}
+                "ship": "arc170starfighter"
             },
             {
                 "id": "barrissoffee",
                 "points": 38,
-                "ship": "delta7aethersprite",
-                "upgrades": {}
+                "ship": "delta7aethersprite"
             }
         ],
         "points": 200,
-        "vendor": {},
+        "vendor": {
+            "yasb": {
+                "builder": "(Yet Another) X-Wing Miniatures Squad Builder",
+                "builder_url": "https://raithos.github.io",
+                "link": "https://raithos.github.io/?f=Galactic%20Republic&d=v8ZsZ200Z320XWWY277XWW200WY333X126WWWY339XWWWWY275XWWW&sn=Pete%20Lambro%20JTO&obs="
+            }
+        },
         "version": "2.0.0"
     },
     "Name": "Pete Lambro",

@@ -64,12 +64,17 @@
             {
                 "id": "blacksunsoldier",
                 "points": 24,
-                "ship": "z95af4headhunter",
-                "upgrades": {}
+                "ship": "z95af4headhunter"
             }
         ],
         "points": 200,
-        "vendor": {},
+        "vendor": {
+            "yasb": {
+                "builder": "(Yet Another) X-Wing Miniatures Squad Builder",
+                "builder_url": "https://raithos.github.io",
+                "link": "https://raithos.github.io/?f=Scum%20and%20Villainy&d=v8ZsZ200Z133XWW99Y145X127WW20W80W317WWWY144XW137WW86W71W70W110W149WW8Y158XWWW&sn=Mark%20Grawburg%20JTO&obs="
+            }
+        },
         "version": "2.0.0"
     },
     "Name": "Mark Grawburg",

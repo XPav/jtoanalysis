@@ -63,18 +63,22 @@
             {
                 "id": "blacksunsoldier",
                 "points": 24,
-                "ship": "z95af4headhunter",
-                "upgrades": {}
+                "ship": "z95af4headhunter"
             },
             {
                 "id": "captainseevor",
                 "points": 30,
-                "ship": "modifiedtielnfighter",
-                "upgrades": {}
+                "ship": "modifiedtielnfighter"
             }
         ],
         "points": 197,
-        "vendor": {},
+        "vendor": {
+            "yasb": {
+                "builder": "(Yet Another) X-Wing Miniatures Squad Builder",
+                "builder_url": "https://raithos.github.io",
+                "link": "https://raithos.github.io/?f=Scum%20and%20Villainy&d=v8ZsZ200Z156X132W101W93W236Y85X116W138W234WW1WW95WY143X206WW71WWY158XWWWY247XW&sn=Wesley%20van%20Wensen%20JTO&obs="
+            }
+        },
         "version": "2.0.0"
     },
     "Name": "Wesley van Wensen",

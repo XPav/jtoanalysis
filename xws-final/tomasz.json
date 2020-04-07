@@ -38,12 +38,17 @@
             {
                 "id": "valenrudor",
                 "points": 27,
-                "ship": "tielnfighter",
-                "upgrades": {}
+                "ship": "tielnfighter"
             }
         ],
         "points": 196,
-        "vendor": {},
+        "vendor": {
+            "yasb": {
+                "builder": "(Yet Another) X-Wing Miniatures Squad Builder",
+                "builder_url": "https://raithos.github.io",
+                "link": "https://raithos.github.io/?f=Galactic%20Empire&d=v8ZsZ200Z196XW111W232W100Y191XWW99WWW235WWY225XW&sn=tomasz%20szyszka%20JTO&obs="
+            }
+        },
         "version": "2.0.0"
     },
     "Name": "Tomasz szyszka",

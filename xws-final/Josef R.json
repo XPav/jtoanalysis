@@ -54,7 +54,13 @@
             }
         ],
         "points": 198,
-        "vendor": {},
+        "vendor": {
+            "yasb": {
+                "builder": "(Yet Another) X-Wing Miniatures Squad Builder",
+                "builder_url": "https://raithos.github.io",
+                "link": "https://raithos.github.io/?f=Rebel%20Alliance&d=v8ZsZ200Z51X127WWY65X127W46WWW167Y80XWWW81WWY5XWWWW142&sn=Josef%20Riccio%20JTO&obs="
+            }
+        },
         "version": "2.0.0"
     },
     "Name": "Josef Riccio",

@@ -45,12 +45,17 @@
             {
                 "id": "banditsquadronpilot",
                 "points": 22,
-                "ship": "z95af4headhunter",
-                "upgrades": {}
+                "ship": "z95af4headhunter"
             }
         ],
         "points": 198,
-        "vendor": {},
+        "vendor": {
+            "yasb": {
+                "builder": "(Yet Another) X-Wing Miniatures Squad Builder",
+                "builder_url": "https://raithos.github.io",
+                "link": "https://raithos.github.io/?f=Rebel%20Alliance&d=v8ZsZ200Z23XWW234W4WY8XW134WWW142Y59XWW32WY57XW&sn=ESA_JTO&obs="
+            }
+        },
         "version": "2.0.0"
     },
     "Name": "Eyvan Salgado",

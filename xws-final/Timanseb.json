@@ -60,7 +60,13 @@
             }
         ],
         "points": 193,
-        "vendor": {},
+        "vendor": {
+            "yasb": {
+                "builder": "(Yet Another) X-Wing Miniatures Squad Builder",
+                "builder_url": "https://raithos.github.io",
+                "link": "https://raithos.github.io/?f=Resistance&d=v8ZsZ200Z351XW206WW136WWW205W247Y300XWWW186Y252XWWW175WW171WY379XW191WWWW&sn=Timanseb%20JTO&obs="
+            }
+        },
         "version": "2.0.0"
     },
     "Name": "Sebastian Sanchez",

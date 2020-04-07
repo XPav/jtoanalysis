@@ -50,12 +50,17 @@
             {
                 "id": "alphasquadronpilot",
                 "points": 31,
-                "ship": "tieininterceptor",
-                "upgrades": {}
+                "ship": "tieininterceptor"
             }
         ],
         "points": 198,
-        "vendor": {},
+        "vendor": {
+            "yasb": {
+                "builder": "(Yet Another) X-Wing Miniatures Squad Builder",
+                "builder_url": "https://raithos.github.io",
+                "link": "https://raithos.github.io/?f=Galactic%20Empire&d=v8ZsZ200Z198XWW100Y210X128W82W71WY187XWW100WWWY182XW&sn=William%20Scott%20JTO&obs=gascloud4,gascloud5,gascloud6"
+            }
+        },
         "version": "2.0.0"
     },
     "Name": "William Scott",

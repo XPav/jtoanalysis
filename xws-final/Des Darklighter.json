@@ -42,12 +42,17 @@
             {
                 "id": "blacksquadronscout",
                 "points": 34,
-                "ship": "tieskstriker",
-                "upgrades": {}
+                "ship": "tieskstriker"
             }
         ],
         "points": 199,
-        "vendor": {},
+        "vendor": {
+            "yasb": {
+                "builder": "(Yet Another) X-Wing Miniatures Squad Builder",
+                "builder_url": "https://raithos.github.io",
+                "link": "https://raithos.github.io/?f=Galactic%20Empire&d=v8ZsZ200Z165XWW15W26W165WY396X133WW60WWWW71W249WY212XWWW&sn=Des%20Darklighter%20JTO&obs="
+            }
+        },
         "version": "2.0.0"
     },
     "Name": "Jack Benveniste-Plitt",

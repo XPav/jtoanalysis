@@ -62,7 +62,13 @@
             }
         ],
         "points": 192,
-        "vendor": {},
+        "vendor": {
+            "yasb": {
+                "builder": "(Yet Another) X-Wing Miniatures Squad Builder",
+                "builder_url": "https://raithos.github.io",
+                "link": "https://raithos.github.io/?f=Separatist%20Alliance&d=v8ZsZ200Z344XW223WW229Y343XW208WY357X127W133Y353X116Y310X100WW&sn=Chandler%20Ha-%20JTO&obs="
+            }
+        },
         "version": "2.0.0"
     },
     "Name": "Chandler Ha-",

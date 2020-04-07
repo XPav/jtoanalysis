@@ -87,7 +87,13 @@
             }
         ],
         "points": 192,
-        "vendor": {},
+        "vendor": {
+            "yasb": {
+                "builder": "(Yet Another) X-Wing Miniatures Squad Builder",
+                "builder_url": "https://raithos.github.io",
+                "link": "https://raithos.github.io/?f=Separatist%20Alliance&d=v8ZsZ200Z324X135W101W235WW237Y310X101W208W109Y310X209W208W105Y324XW98W221WWY358X133W&sn=Cal%20Neuvost%20JTO&obs=coreasteroid5,core2asteroid4,core2asteroid5"
+            }
+        },
         "version": "2.0.0"
     },
     "Name": "Cal Neuvost",

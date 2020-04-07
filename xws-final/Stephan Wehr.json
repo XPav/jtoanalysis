@@ -32,18 +32,22 @@
             {
                 "id": "shadowporthunter",
                 "points": 56,
-                "ship": "lancerclasspursuitcraft",
-                "upgrades": {}
+                "ship": "lancerclasspursuitcraft"
             },
             {
                 "id": "freightercaptain",
                 "points": 46,
-                "ship": "customizedyt1300lightfreighter",
-                "upgrades": {}
+                "ship": "customizedyt1300lightfreighter"
             }
         ],
         "points": 199,
-        "vendor": {},
+        "vendor": {
+            "yasb": {
+                "builder": "(Yet Another) X-Wing Miniatures Squad Builder",
+                "builder_url": "https://raithos.github.io",
+                "link": "https://raithos.github.io/?f=Scum%20and%20Villainy&d=v8ZsZ200Z92XW36WWW96WWY400XW11WWWWWY128XWWWWY92XWWWWWW&sn=Stephan%20Wehr%20JTO&obs="
+            }
+        },
         "version": "2.0.0"
     },
     "Name": "Stephan Wehr",

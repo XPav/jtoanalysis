@@ -53,12 +53,17 @@
             {
                 "id": "r2d2",
                 "points": 35,
-                "ship": "btlbywing",
-                "upgrades": {}
+                "ship": "btlbywing"
             }
         ],
         "points": 195,
-        "vendor": {},
+        "vendor": {
+            "yasb": {
+                "builder": "(Yet Another) X-Wing Miniatures Squad Builder",
+                "builder_url": "https://raithos.github.io",
+                "link": "https://raithos.github.io/?f=Galactic%20Republic&d=v8ZsZ200Z323X113WW136Y274XW213W200WY342XWW254W89WWY362XWWWWWW&sn=donfonni%20JTO&obs=gascloud1,gascloud2,gascloud3"
+            }
+        },
         "version": "2.0.0"
     },
     "Name": "Stefan Lazaro",

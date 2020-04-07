@@ -54,7 +54,13 @@
             }
         ],
         "points": 198,
-        "vendor": {},
+        "vendor": {
+            "yasb": {
+                "builder": "(Yet Another) X-Wing Miniatures Squad Builder",
+                "builder_url": "https://raithos.github.io",
+                "link": "https://raithos.github.io/?f=First%20Order&d=v8ZsZ200Z259X318WWW113WY397XWWW182WWY382X125W206WWY384X115WWW&sn=Christopher%20Patrick%20JTO&obs="
+            }
+        },
         "version": "2.0.0"
     },
     "Name": "Christopher Patrick",

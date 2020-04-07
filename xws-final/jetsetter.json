@@ -36,8 +36,7 @@
             {
                 "id": "zeborrelios-tielnfighter",
                 "points": 24,
-                "ship": "tielnfighter",
-                "upgrades": {}
+                "ship": "tielnfighter"
             },
             {
                 "id": "esegetuketu",
@@ -73,7 +72,13 @@
             }
         ],
         "points": 199,
-        "vendor": {},
+        "vendor": {
+            "yasb": {
+                "builder": "(Yet Another) X-Wing Miniatures Squad Builder",
+                "builder_url": "https://raithos.github.io",
+                "link": "https://raithos.github.io/?f=Rebel%20Alliance&d=v8ZsZ200Z26X118W137W134WWW68W86Y15XY18XW101WW86W52W71WWY47XWW37W109WW&sn=Ron%20Brannan%20JTO&obs=coreasteroid5,core2asteroid4,core2asteroid5"
+            }
+        },
         "version": "2.0.0"
     },
     "Name": "Ronald Brannan",

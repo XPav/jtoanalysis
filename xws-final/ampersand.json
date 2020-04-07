@@ -4,7 +4,6 @@
     "Drop": "Removing Agile Gunner from \"Odd Ball\"",
     "Final": {
         "faction": "galacticrepublic",
-        "name": "Aaron DePiano JTO",
         "pilots": [
             {
                 "id": "oddball-arc170starfighter",
@@ -20,10 +19,14 @@
                 }
             },
             {
-                "id": "104thbattalionpilot",
-                "points": 42,
-                "ship": "arc170starfighter",
-                "upgrades": {}
+                "id": "saeseetiin",
+                "points": 50,
+                "ship": "delta7aethersprite",
+                "upgrades": {
+                    "astromech": [
+                        "c110p"
+                    ]
+                }
             },
             {
                 "id": "anakinskywalker-nabooroyaln1starfighter",
@@ -36,18 +39,19 @@
                 }
             },
             {
-                "id": "saeseetiin",
-                "points": 50,
-                "ship": "delta7aethersprite",
-                "upgrades": {
-                    "astromech": [
-                        "c110p"
-                    ]
-                }
+                "id": "104thbattalionpilot",
+                "points": 42,
+                "ship": "arc170starfighter"
             }
         ],
         "points": 196,
-        "vendor": {},
+        "vendor": {
+            "yasb": {
+                "builder": "(Yet Another) X-Wing Miniatures Squad Builder",
+                "builder_url": "https://raithos.github.io",
+                "link": "https://raithos.github.io/?f=Galactic%20Republic&d=v8ZsZ200Z338X116WWWWW166Y313XW252WWY322XWW2WY341XWWWW&sn=Unnamed%20Squadron&obs="
+            }
+        },
         "version": "2.0.0"
     },
     "Name": "Aaron DePiano",

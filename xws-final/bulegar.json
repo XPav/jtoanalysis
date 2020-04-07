@@ -55,12 +55,17 @@
             {
                 "id": "colossusstationmechanic",
                 "points": 26,
-                "ship": "fireball",
-                "upgrades": {}
+                "ship": "fireball"
             }
         ],
         "points": 200,
-        "vendor": {},
+        "vendor": {
+            "yasb": {
+                "builder": "(Yet Another) X-Wing Miniatures Squad Builder",
+                "builder_url": "https://raithos.github.io",
+                "link": "https://raithos.github.io/?f=Resistance&d=v8ZsZ200Z244XWW30W245W189WW164W193Y239X122W124WWY380XWWW165WWY380XWWWWW&sn=Carlo%20Veltri%20JTO&obs=coreasteroid0,vt49decimatordebris2,core2asteroid0"
+            }
+        },
         "version": "2.0.0"
     },
     "Name": "Carlo Veltri",

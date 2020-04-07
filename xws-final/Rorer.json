@@ -68,7 +68,13 @@
             }
         ],
         "points": 199,
-        "vendor": {},
+        "vendor": {
+            "yasb": {
+                "builder": "(Yet Another) X-Wing Miniatures Squad Builder",
+                "builder_url": "https://raithos.github.io",
+                "link": "https://raithos.github.io/?f=Resistance&d=v8ZsZ200Z352XW13W135W192WWWY379X100WW310WWW315Y250X113W177WWWWWWY257XWWW175WWW&sn=Rory%20Wilson%20JTO&obs=coreasteroid1,coreasteroid2,coreasteroid3"
+            }
+        },
         "version": "2.0.0"
     },
     "Name": "Rory Wilson",

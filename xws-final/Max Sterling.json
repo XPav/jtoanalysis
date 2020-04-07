@@ -3,18 +3,20 @@
     "Discord": "Max Sterling",
     "Drop": "",
     "Final": {
+        "description": "",
         "faction": "separatistalliance",
         "name": "Max Sterling JTO",
         "pilots": [
             {
                 "id": "wattambor",
+                "name": "wattambor",
                 "points": 56,
                 "ship": "belbullab22starfighter",
                 "upgrades": {
                     "modification": [
                         "targetingcomputer"
                     ],
-                    "tacticalrelay": [
+                    "tactical-relay": [
                         "k2b4"
                     ],
                     "title": [
@@ -24,6 +26,7 @@
             },
             {
                 "id": "dfs311",
+                "name": "dfs311",
                 "points": 35,
                 "ship": "vultureclassdroidfighter",
                 "upgrades": {
@@ -40,6 +43,7 @@
             },
             {
                 "id": "countdooku",
+                "name": "countdooku",
                 "points": 85,
                 "ship": "sithinfiltrator",
                 "upgrades": {
@@ -62,6 +66,7 @@
             },
             {
                 "id": "precisehunter",
+                "name": "precisehunter",
                 "points": 24,
                 "ship": "vultureclassdroidfighter",
                 "upgrades": {
@@ -72,7 +77,13 @@
             }
         ],
         "points": 200,
-        "vendor": {},
+        "vendor": {
+            "yasb": {
+                "builder": "Yet Another Squad Builder 2.0",
+                "builder_url": "https://raithos.github.io/",
+                "link": "https://raithos.github.io/?f=Separatist%20Alliance&d=v8ZsZ200Z306XW220W249W229Y337X99W208W164Y334X204W12WW219WWW109W216WY309XW208W&sn=Max%20Sterling%20JTO&obs="
+            }
+        },
         "version": "2.0.0"
     },
     "Name": "Evan Damiano",

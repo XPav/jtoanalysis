@@ -5,6 +5,11 @@
     "Final": {
         "faction": "galacticrepublic",
         "name": "Tony Costanti JTO",
+        "obstacles": [
+            "gascloud2",
+            "gascloud4",
+            "gascloud5"
+        ],
         "pilots": [
             {
                 "id": "anakinskywalker",
@@ -29,8 +34,7 @@
             {
                 "id": "goldsquadrontrooper",
                 "points": 25,
-                "ship": "v19torrentstarfighter",
-                "upgrades": {}
+                "ship": "v19torrentstarfighter"
             },
             {
                 "id": "matchstick",
@@ -50,7 +54,13 @@
             }
         ],
         "points": 195,
-        "vendor": {},
+        "vendor": {
+            "yasb": {
+                "builder": "(Yet Another) X-Wing Miniatures Squad Builder",
+                "builder_url": "https://raithos.github.io",
+                "link": "https://raithos.github.io/?f=Galactic%20Republic&d=v8ZsZ200Z273XWW200WY332X125WWWY321XWY365X122W138WWWW70W&sn=Tony%20Costanti%20JTO&obs=gascloud2,gascloud4,gascloud5"
+            }
+        },
         "version": "2.0.0"
     },
     "Name": "Tony Costanti",

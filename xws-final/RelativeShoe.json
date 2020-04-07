@@ -3,6 +3,7 @@
     "Discord": "RelativeShoe",
     "Drop": "Advanced Sensors from Storm Squadron Ace",
     "Final": {
+        "description": "",
         "faction": "galacticempire",
         "name": "Dan Xuereb JTO",
         "obstacles": [
@@ -13,6 +14,7 @@
         "pilots": [
             {
                 "id": "imdaartestpilot",
+                "name": "imdaartestpilot",
                 "points": 53,
                 "ship": "tiephphantom",
                 "upgrades": {
@@ -26,6 +28,7 @@
             },
             {
                 "id": "stormsquadronace",
+                "name": "stormsquadronace",
                 "points": 51,
                 "ship": "tieadvancedx1",
                 "upgrades": {
@@ -39,6 +42,7 @@
             },
             {
                 "id": "tempestsquadronpilot",
+                "name": "tempestsquadronpilot",
                 "points": 42,
                 "ship": "tieadvancedx1",
                 "upgrades": {
@@ -49,6 +53,7 @@
             },
             {
                 "id": "duchess",
+                "name": "duchess",
                 "points": 53,
                 "ship": "tieskstriker",
                 "upgrades": {
@@ -59,7 +64,13 @@
             }
         ],
         "points": 199,
-        "vendor": {},
+        "vendor": {
+            "yasb": {
+                "builder": "Yet Another Squad Builder 2.0",
+                "builder_url": "https://raithos.github.io/",
+                "link": "https://raithos.github.io/?f=Galactic%20Empire&d=v8ZsZ200Z202X113W76WY177XWW100W164Y178X114WWY211XW82WW&sn=Dan%20Xuereb%20JTO&obs=coreasteroid0,core2asteroid0,core2asteroid2"
+            }
+        },
         "version": "2.0.0"
     },
     "Name": "Dan Xuereb",

@@ -40,8 +40,7 @@
             {
                 "id": "alphasquadronpilot",
                 "points": 31,
-                "ship": "tieininterceptor",
-                "upgrades": {}
+                "ship": "tieininterceptor"
             },
             {
                 "id": "gammasquadronace",
@@ -56,12 +55,17 @@
             {
                 "id": "captainferoph",
                 "points": 47,
-                "ship": "tiereaper",
-                "upgrades": {}
+                "ship": "tiereaper"
             }
         ],
         "points": 198,
-        "vendor": {},
+        "vendor": {
+            "yasb": {
+                "builder": "(Yet Another) X-Wing Miniatures Squad Builder",
+                "builder_url": "https://raithos.github.io",
+                "link": "https://raithos.github.io/?f=Galactic%20Empire&d=v8ZsZ200Z212X128WWW236Y164XW136WWW139WWY182XWY207XW234WWWWWWY184XWWW&sn=JON%20FEUCHT%20JTO&obs=gascloud1,gascloud2,gascloud6"
+            }
+        },
         "version": "2.0.0"
     },
     "Name": "Jon Feucht",

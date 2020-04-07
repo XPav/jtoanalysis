@@ -71,7 +71,13 @@
             }
         ],
         "points": 198,
-        "vendor": {},
+        "vendor": {
+            "yasb": {
+                "builder": "(Yet Another) X-Wing Miniatures Squad Builder",
+                "builder_url": "https://raithos.github.io",
+                "link": "https://raithos.github.io/?f=Galactic%20Republic&d=v8ZsZ200Z360XW138W136W76W5WW236Y332X117WWW135Y323XW4W136Y316XWW108&sn=Cory%20Noel%20JTO&obs=coreasteroid5,yt2400debris0,core2asteroid5"
+            }
+        },
         "version": "2.0.0"
     },
     "Name": "Cory Noel",

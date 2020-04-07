@@ -9,8 +9,7 @@
             {
                 "id": "vimoradi",
                 "points": 27,
-                "ship": "resistancetransportpod",
-                "upgrades": {}
+                "ship": "resistancetransportpod"
             },
             {
                 "id": "bluesquadronrookie",
@@ -48,7 +47,13 @@
             }
         ],
         "points": 198,
-        "vendor": {},
+        "vendor": {
+            "yasb": {
+                "builder": "(Yet Another) X-Wing Miniatures Squad Builder",
+                "builder_url": "https://raithos.github.io",
+                "link": "https://raithos.github.io/?f=Resistance&d=v8ZsZ200Z348XWWY258XWW175WWWY244XWW191W192W174WWWY300XWWW206&sn=Tim%20Horsburgh%20JTO&obs="
+            }
+        },
         "version": "2.0.0"
     },
     "Name": "Tim Horsburgh",

@@ -28,24 +28,27 @@
             {
                 "id": "midnight",
                 "points": 42,
-                "ship": "tiefofighter",
-                "upgrades": {}
+                "ship": "tiefofighter"
             },
             {
                 "id": "firstordertestpilot",
                 "points": 56,
-                "ship": "tievnsilencer",
-                "upgrades": {}
+                "ship": "tievnsilencer"
             },
             {
                 "id": "ember",
                 "points": 52,
-                "ship": "tiebainterceptor",
-                "upgrades": {}
+                "ship": "tiebainterceptor"
             }
         ],
         "points": 199,
-        "vendor": {},
+        "vendor": {
+            "yasb": {
+                "builder": "(Yet Another) X-Wing Miniatures Squad Builder",
+                "builder_url": "https://raithos.github.io",
+                "link": "https://raithos.github.io/?f=First%20Order&d=v8ZsZ200Z385X115W202W99WW113WY233XWWY287XWWWY383XWWW&sn=Ryan%20Staniszewski%20JTO&obs="
+            }
+        },
         "version": "2.0.0"
     },
     "Name": "Ryan Staniszewski",

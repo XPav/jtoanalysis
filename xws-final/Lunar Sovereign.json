@@ -39,8 +39,7 @@
             {
                 "id": "planetarysentinel",
                 "points": 31,
-                "ship": "tieskstriker",
-                "upgrades": {}
+                "ship": "tieskstriker"
             },
             {
                 "id": "onyxsquadronscout",
@@ -54,7 +53,13 @@
             }
         ],
         "points": 198,
-        "vendor": {},
+        "vendor": {
+            "yasb": {
+                "builder": "(Yet Another) X-Wing Miniatures Squad Builder",
+                "builder_url": "https://raithos.github.io",
+                "link": "https://raithos.github.io/?f=Galactic%20Empire&d=v8ZsZ200Z222XW105Y170XW113WY186X26WWY213XWWY189XW138WWWW&sn=Mike%20Maurer%20JTO&obs="
+            }
+        },
         "version": "2.0.0"
     },
     "Name": "Mike Maurer",

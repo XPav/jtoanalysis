@@ -3,17 +3,24 @@
     "Discord": "Joe B#7837",
     "Drop": "Snapshot from Foreman Proach",
     "Final": {
+        "description": "",
         "faction": "scumandvillainy",
         "name": "JBark - Jank Tourney",
+        "obstacles": [
+            "coreasteroid1",
+            "coreasteroid2",
+            "coreasteroid5"
+        ],
         "pilots": [
             {
                 "id": "foremanproach",
+                "name": "foremanproach",
                 "points": 32,
-                "ship": "modifiedtielnfighter",
-                "upgrades": {}
+                "ship": "modifiedtielnfighter"
             },
             {
                 "id": "zuckuss",
+                "name": "zuckuss",
                 "points": 59,
                 "ship": "g1astarfighter",
                 "upgrades": {
@@ -27,18 +34,19 @@
             },
             {
                 "id": "ahhav",
+                "name": "ahhav",
                 "points": 30,
-                "ship": "modifiedtielnfighter",
-                "upgrades": {}
+                "ship": "modifiedtielnfighter"
             },
             {
                 "id": "blacksunsoldier",
+                "name": "blacksunsoldier",
                 "points": 24,
-                "ship": "z95af4headhunter",
-                "upgrades": {}
+                "ship": "z95af4headhunter"
             },
             {
                 "id": "landocalrissian",
+                "name": "landocalrissian",
                 "points": 55,
                 "ship": "customizedyt1300lightfreighter",
                 "upgrades": {
@@ -49,7 +57,13 @@
             }
         ],
         "points": 200,
-        "vendor": {},
+        "vendor": {
+            "yasb": {
+                "builder": "Yet Another Squad Builder 2.0",
+                "builder_url": "https://raithos.github.io/",
+                "link": "https://raithos.github.io/?f=Scum%20and%20Villainy&d=v8ZsZ200Z302XWY110XWW48WW110WY249XWY158XWWWY90XW311WWWWWW&sn=JBark%20-%20Jank%20Tourney&obs=coreasteroid1,coreasteroid2,coreasteroid5"
+            }
+        },
         "version": "2.0.0"
     },
     "Name": "Joe Barkovich",

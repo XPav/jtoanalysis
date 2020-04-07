@@ -44,18 +44,22 @@
             {
                 "id": "sienarjaemusengineer",
                 "points": 51,
-                "ship": "tievnsilencer",
-                "upgrades": {}
+                "ship": "tievnsilencer"
             },
             {
                 "id": "epsilonsquadroncadet",
                 "points": 25,
-                "ship": "tiefofighter",
-                "upgrades": {}
+                "ship": "tiefofighter"
             }
         ],
         "points": 198,
-        "vendor": {},
+        "vendor": {
+            "yasb": {
+                "builder": "(Yet Another) X-Wing Miniatures Squad Builder",
+                "builder_url": "https://raithos.github.io",
+                "link": "https://raithos.github.io/?f=First%20Order&d=v8ZsZ200Z290XW164Y251X318W206WW183WW232W113WY286XWWY269XW&sn=Johnn%20Crane%20JTO&obs=gascloud1,gascloud4,gascloud5"
+            }
+        },
         "version": "2.0.0"
     },
     "Name": "Johnn Crane",

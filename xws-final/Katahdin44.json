@@ -52,7 +52,7 @@
                 }
             },
             {
-                "id": "bossk-z95af4headhunter",
+                "id": "bossk-z-95headhunter",
                 "points": 34,
                 "ship": "z95af4headhunter",
                 "upgrades": {
@@ -73,7 +73,13 @@
             }
         ],
         "points": 199,
-        "vendor": {},
+        "vendor": {
+            "yasb": {
+                "builder": "(Yet Another) X-Wing Miniatures Squad Builder",
+                "builder_url": "https://raithos.github.io",
+                "link": "https://raithos.github.io/?f=Scum%20and%20Villainy&d=v8ZsZ200Z89X121W102W30WW83WW106W152Y135X116WWY138XW232Y398XWWW164Y94X127WW&sn=Sam%20McLain%20JTO&obs="
+            }
+        },
         "version": "2.0.0"
     },
     "Name": "Sam McLain",

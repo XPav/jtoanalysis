@@ -4,7 +4,7 @@
     "Drop": "",
     "Final": {
         "faction": "galacticempire",
-        "name": "SethDunlap",
+        "name": "Betchya Can\u00e2\u0080\u0099t Catch Me",
         "obstacles": [
             "gascloud3",
             "gascloud4",
@@ -53,12 +53,17 @@
             {
                 "id": "idenversio",
                 "points": 41,
-                "ship": "tielnfighter",
-                "upgrades": {}
+                "ship": "tielnfighter"
             }
         ],
         "points": 196,
-        "vendor": {},
+        "vendor": {
+            "yasb": {
+                "builder": "(Yet Another) X-Wing Miniatures Squad Builder",
+                "builder_url": "https://raithos.github.io",
+                "link": "https://raithos.github.io/?f=Galactic%20Empire&d=v8ZsZ200Z210X125WWWY209XWW68WY161XW240W136WW104W139WWY218XW&sn=Betchya%20Can\u00e2\u0080\u0099t%20Catch%20Me&obs=gascloud3,gascloud4,gascloud5"
+            }
+        },
         "version": "2.0.0"
     },
     "Name": "Seth Dunlap",

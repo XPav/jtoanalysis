@@ -9,8 +9,7 @@
             {
                 "id": "overseeryushyn",
                 "points": 26,
-                "ship": "modifiedtielnfighter",
-                "upgrades": {}
+                "ship": "modifiedtielnfighter"
             },
             {
                 "id": "toranikulda",
@@ -57,7 +56,13 @@
             }
         ],
         "points": 196,
-        "vendor": {},
+        "vendor": {
+            "yasb": {
+                "builder": "(Yet Another) X-Wing Miniatures Squad Builder",
+                "builder_url": "https://raithos.github.io",
+                "link": "https://raithos.github.io/?f=Scum%20and%20Villainy&d=v8ZsZ200Z303XY129X125WWWW95W103Y142X206WWWWY126XWW92W93W110W160&sn=Zach%20Huffines%20JTO&obs="
+            }
+        },
         "version": "2.0.0"
     },
     "Name": "Zach Huffines",

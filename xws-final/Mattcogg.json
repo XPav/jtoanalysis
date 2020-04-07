@@ -62,7 +62,13 @@
             }
         ],
         "points": 193,
-        "vendor": {},
+        "vendor": {
+            "yasb": {
+                "builder": "(Yet Another) X-Wing Miniatures Squad Builder",
+                "builder_url": "https://raithos.github.io",
+                "link": "https://raithos.github.io/?f=Resistance&d=v8ZsZ200Z240X125WW102W206Y389XW111WW54W86W76W69WW165Y378XWWWWWW315&sn=Matt%20Coggins%20JTO&obs=gascloud1,gascloud3,gascloud5"
+            }
+        },
         "version": "2.0.0"
     },
     "Name": "Matt Coggins",

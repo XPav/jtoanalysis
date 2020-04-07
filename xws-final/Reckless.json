@@ -60,7 +60,13 @@
             }
         ],
         "points": 199,
-        "vendor": {},
+        "vendor": {
+            "yasb": {
+                "builder": "(Yet Another) X-Wing Miniatures Squad Builder",
+                "builder_url": "https://raithos.github.io",
+                "link": "https://raithos.github.io/?f=Galactic%20Republic&d=v8ZsZ200Z322XW240W226W234Y280XW37WWWY317X127WW249Y331XW240W214W&sn=David%20Chabot%20JTO&obs="
+            }
+        },
         "version": "2.0.0"
     },
     "Name": "David Chabot",

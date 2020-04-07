@@ -14,8 +14,7 @@
             {
                 "id": "jakkugunrunner",
                 "points": 30,
-                "ship": "quadrijettransferspacetug",
-                "upgrades": {}
+                "ship": "quadrijettransferspacetug"
             },
             {
                 "id": "dengar",
@@ -36,8 +35,7 @@
             {
                 "id": "cartelexecutioner",
                 "points": 41,
-                "ship": "m12lkimogilafighter",
-                "upgrades": {}
+                "ship": "m12lkimogilafighter"
             },
             {
                 "id": "landocalrissian",
@@ -54,7 +52,13 @@
             }
         ],
         "points": 199,
-        "vendor": {},
+        "vendor": {
+            "yasb": {
+                "builder": "(Yet Another) X-Wing Miniatures Squad Builder",
+                "builder_url": "https://raithos.github.io",
+                "link": "https://raithos.github.io/?f=Scum%20and%20Villainy&d=v8ZsZ200Z143XWWWWY115XW135W10WWWW164WY131XWWWWWY90X133WW59WWWWW&sn=Mr.%20Al%20JTO&obs=gascloud3,gascloud4,gascloud5"
+            }
+        },
         "version": "2.0.0"
     },
     "Name": "Jose Algarra",

@@ -4,7 +4,7 @@
     "Drop": "Ion Torpedoes from Bravo ",
     "Final": {
         "faction": "galacticrepublic",
-        "name": "Goldnock Jank James Carman",
+        "name": "Goldnock Jank James Carman 2",
         "obstacles": [
             "gascloud1",
             "gascloud3",
@@ -13,14 +13,14 @@
         "pilots": [
             {
                 "id": "bravoflightofficer",
-                "points": 42,
+                "points": 45,
                 "ship": "nabooroyaln1starfighter",
                 "upgrades": {
-                    "astromech": [
-                        "r3astromech"
-                    ],
                     "sensor": [
                         "collisiondetector"
+                    ],
+                    "torpedo": [
+                        "iontorpedoes"
                     ]
                 }
             },
@@ -53,12 +53,17 @@
             {
                 "id": "padmeamidala",
                 "points": 45,
-                "ship": "nabooroyaln1starfighter",
-                "upgrades": {}
+                "ship": "nabooroyaln1starfighter"
             }
         ],
-        "points": 197,
-        "vendor": {},
+        "points": 200,
+        "vendor": {
+            "yasb": {
+                "builder": "(Yet Another) X-Wing Miniatures Squad Builder",
+                "builder_url": "https://raithos.github.io",
+                "link": "https://raithos.github.io/?f=Galactic%20Republic&d=v8ZsZ200Z323X112WW135Y312X251W241W200WY278XWW200WY332XWWW&sn=Goldnock%20Jank%20James%20Carman%202&obs=gascloud1,gascloud3,gascloud6"
+            }
+        },
         "version": "2.0.0"
     },
     "Name": "James Carman",

@@ -17,12 +17,6 @@
                 }
             },
             {
-                "id": "inquisitor",
-                "points": 35,
-                "ship": "tieadvancedv1",
-                "upgrades": {}
-            },
-            {
                 "id": "seventhsister",
                 "points": 48,
                 "ship": "tieadvancedv1",
@@ -36,10 +30,14 @@
                 }
             },
             {
+                "id": "inquisitor",
+                "points": 35,
+                "ship": "tieadvancedv1"
+            },
+            {
                 "id": "seynmarana",
                 "points": 30,
-                "ship": "tielnfighter",
-                "upgrades": {}
+                "ship": "tielnfighter"
             },
             {
                 "id": "lieutenantkestal",
@@ -53,7 +51,13 @@
             }
         ],
         "points": 197,
-        "vendor": {},
+        "vendor": {
+            "yasb": {
+                "builder": "(Yet Another) X-Wing Miniatures Squad Builder",
+                "builder_url": "https://raithos.github.io",
+                "link": "https://raithos.github.io/?f=Galactic%20Empire&d=v8ZsZ200Z180XW249WY170X73WW101Y171XWWY224XWY187XWW97WWW&sn=Tyler%20Samplonius%20JTO&obs="
+            }
+        },
         "version": "2.0.0"
     },
     "Name": "Tyler Samplonius",

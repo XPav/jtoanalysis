@@ -19,14 +19,12 @@
             {
                 "id": "hansolo-scavengedyt1300",
                 "points": 65,
-                "ship": "scavengedyt1300",
-                "upgrades": {}
+                "ship": "scavengedyt1300"
             },
             {
                 "id": "bluesquadronrecruit",
                 "points": 32,
-                "ship": "rz2awing",
-                "upgrades": {}
+                "ship": "rz2awing"
             },
             {
                 "id": "finn",
@@ -40,7 +38,13 @@
             }
         ],
         "points": 199,
-        "vendor": {},
+        "vendor": {
+            "yasb": {
+                "builder": "(Yet Another) X-Wing Miniatures Squad Builder",
+                "builder_url": "https://raithos.github.io",
+                "link": "https://raithos.github.io/?f=Resistance&d=v8ZsZ200Z250XWW231WWWWWY245XWWWWWWWY301XWWY350XWW54W&sn=JM%20JTO&obs="
+            }
+        },
         "version": "2.0.0"
     },
     "Name": "Jean-Marc Cousineau",

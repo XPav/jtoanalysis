@@ -51,7 +51,13 @@
             }
         ],
         "points": 200,
-        "vendor": {},
+        "vendor": {
+            "yasb": {
+                "builder": "(Yet Another) X-Wing Miniatures Squad Builder",
+                "builder_url": "https://raithos.github.io",
+                "link": "https://raithos.github.io/?f=Rebel%20Alliance&d=v8ZsZ200Z44XW99WWWW164WWY68XW164WWY10XWWWWW142Y0XWWWW142&sn=Jason%20Hall%20JTO&obs="
+            }
+        },
         "version": "2.0.0"
     },
     "Name": "Jason Hall",

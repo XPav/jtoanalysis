@@ -4,7 +4,11 @@
     "Drop": "Plasma Torps from Fenn",
     "Final": {
         "faction": "scumandvillainy",
-        "name": "Brendon Osmann-Deyman JTO",
+        "obstacles": [
+            "coreasteroid5",
+            "core2asteroid4",
+            "core2asteroid5"
+        ],
         "pilots": [
             {
                 "id": "sarcoplank",
@@ -22,24 +26,27 @@
             {
                 "id": "dacebonearm",
                 "points": 33,
-                "ship": "hwk290lightfreighter",
-                "upgrades": {}
+                "ship": "hwk290lightfreighter"
             },
             {
                 "id": "toranikulda",
                 "points": 48,
-                "ship": "m12lkimogilafighter",
-                "upgrades": {}
+                "ship": "m12lkimogilafighter"
             },
             {
                 "id": "fennrau",
                 "points": 68,
-                "ship": "fangfighter",
-                "upgrades": {}
+                "ship": "fangfighter"
             }
         ],
         "points": 194,
-        "vendor": {},
+        "vendor": {
+            "yasb": {
+                "builder": "(Yet Another) X-Wing Miniatures Squad Builder",
+                "builder_url": "https://raithos.github.io",
+                "link": "https://raithos.github.io/?f=Scum%20and%20Villainy&d=v8ZsZ200Z141X206W45WWWY113XWWWWWWY129XWWWWWY97XW&sn=Unnamed%20Squadron&obs=coreasteroid5,core2asteroid4,core2asteroid5"
+            }
+        },
         "version": "2.0.0"
     },
     "Name": "Brendon Osmann-Deyman",

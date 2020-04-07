@@ -65,7 +65,13 @@
             }
         ],
         "points": 199,
-        "vendor": {},
+        "vendor": {
+            "yasb": {
+                "builder": "(Yet Another) X-Wing Miniatures Squad Builder",
+                "builder_url": "https://raithos.github.io",
+                "link": "https://raithos.github.io/?f=Galactic%20Republic&d=v8ZsZ200Z331X125WW2W135Y318X124WWY278XW214W200WY314XW233W200W&sn=Raphael%20Iselin%20JTO&obs=gascloud3,gascloud5,gascloud6"
+            }
+        },
         "version": "2.0.0"
     },
     "Name": "Raphael Iselin",

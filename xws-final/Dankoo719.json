@@ -9,8 +9,7 @@
             {
                 "id": "goldsquadrontrooper",
                 "points": 25,
-                "ship": "v19torrentstarfighter",
-                "upgrades": {}
+                "ship": "v19torrentstarfighter"
             },
             {
                 "id": "anakinskywalker-nabooroyaln1starfighter",
@@ -62,7 +61,13 @@
             }
         ],
         "points": 196,
-        "vendor": {},
+        "vendor": {
+            "yasb": {
+                "builder": "(Yet Another) X-Wing Miniatures Squad Builder",
+                "builder_url": "https://raithos.github.io",
+                "link": "https://raithos.github.io/?f=Galactic%20Republic&d=v8ZsZ200Z321XWY322X132WW214W134Y313X72W241W200WY278X72W6WW105&sn=Bill%20Herbert%20JTO&obs="
+            }
+        },
         "version": "2.0.0"
     },
     "Name": "Bill Herbert",

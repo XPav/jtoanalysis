@@ -3,8 +3,9 @@
     "Discord": "Jamaljohar",
     "Drop": "Squad leader",
     "Final": {
+        "description": "",
         "faction": "scumandvillainy",
-        "name": "Jamal Ahmad JTO",
+        "name": "JTO squad ",
         "pilots": [
             {
                 "id": "crymorahgoon",
@@ -49,17 +50,23 @@
                 "id": "overseeryushyn",
                 "points": 26,
                 "ship": "modifiedtielnfighter",
-                "upgrades": {}
+                "upgrades": []
             },
             {
                 "id": "dalanoberos",
                 "points": 45,
                 "ship": "m12lkimogilafighter",
-                "upgrades": {}
+                "upgrades": []
             }
         ],
         "points": 200,
-        "vendor": {},
+        "vendor": {
+            "lbn": {
+                "builder": "Launch Bay Next",
+                "builder_url": "https://launch-bay-next.herokuapp.com",
+                "link": "https://launch-bay-next.herokuapp.com/print?lbx='JTO%20squad%20'.200.3.0.(12.168.(12.648).(5.263)).(44.189.(6.270).(14.295).(1.235)).(44.186.(5.264)).(56.444).(39.208)"
+            }
+        },
         "version": "2.0.0"
     },
     "Name": "Jamal ahmad",

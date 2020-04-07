@@ -5,6 +5,11 @@
     "Final": {
         "faction": "galacticempire",
         "name": "JesseJTO",
+        "obstacles": [
+            "gascloud3",
+            "gascloud4",
+            "gascloud5"
+        ],
         "pilots": [
             {
                 "id": "maarekstele",
@@ -57,7 +62,13 @@
             }
         ],
         "points": 196,
-        "vendor": {},
+        "vendor": {
+            "yasb": {
+                "builder": "(Yet Another) X-Wing Miniatures Squad Builder",
+                "builder_url": "https://raithos.github.io",
+                "link": "https://raithos.github.io/?f=Galactic%20Empire&d=v8ZsZ200Z174X128W112WWY180X132WWY166X113W12W60WWWY171XWW99&sn=JesseJTO&obs=gascloud3,gascloud4,gascloud5"
+            }
+        },
         "version": "2.0.0"
     },
     "Name": "jesse",

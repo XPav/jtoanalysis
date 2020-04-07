@@ -3,22 +3,19 @@
     "Discord": "Shadow1",
     "Drop": "Boba Fett crew from Zuckus",
     "Final": {
+        "description": "",
         "faction": "scumandvillainy",
-        "name": "Marek Marcinkiewicz JTO",
-        "obstacles": [
-            "coreasteroid5",
-            "core2asteroid1",
-            "core2asteroid5"
-        ],
+        "name": "Random Squad",
         "pilots": [
             {
                 "id": "blacksunsoldier",
+                "name": "blacksunsoldier",
                 "points": 24,
-                "ship": "z95af4headhunter",
-                "upgrades": {}
+                "ship": "z95af4headhunter"
             },
             {
                 "id": "zuckuss",
+                "name": "zuckuss",
                 "points": 52,
                 "ship": "g1astarfighter",
                 "upgrades": {
@@ -35,6 +32,7 @@
             },
             {
                 "id": "viktorhel",
+                "name": "viktorhel",
                 "points": 50,
                 "ship": "kihraxzfighter",
                 "upgrades": {
@@ -48,19 +46,25 @@
             },
             {
                 "id": "captainjostero",
+                "name": "captainjostero",
                 "points": 42,
-                "ship": "kihraxzfighter",
-                "upgrades": {}
+                "ship": "kihraxzfighter"
             },
             {
                 "id": "kaatoleeachos",
+                "name": "kaatoleeachos",
                 "points": 27,
-                "ship": "z95af4headhunter",
-                "upgrades": {}
+                "ship": "z95af4headhunter"
             }
         ],
         "points": 195,
-        "vendor": {},
+        "vendor": {
+            "yasb": {
+                "builder": "Yet Another Squad Builder 2.0",
+                "builder_url": "https://raithos.github.io/",
+                "link": "https://raithos.github.io/?f=Scum%20and%20Villainy&d=v8ZsZ200Z158XWWWY110XWW55W96WW155WY121X118WW93WWWY122XWWWWY157XWWW&sn=Random%20Squad&obs="
+            }
+        },
         "version": "2.0.0"
     },
     "Name": "Marek Marcinkiewicz",

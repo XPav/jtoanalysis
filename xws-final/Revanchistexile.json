@@ -4,7 +4,7 @@
     "Drop": "Mag Pulse Missiles ",
     "Final": {
         "faction": "firstorder",
-        "name": "Fo Jank",
+        "name": "Matthew Courser JTO",
         "pilots": [
             {
                 "id": "recoil",
@@ -45,12 +45,17 @@
             {
                 "id": "backdraft",
                 "points": 39,
-                "ship": "tiesffighter",
-                "upgrades": {}
+                "ship": "tiesffighter"
             }
         ],
         "points": 198,
-        "vendor": {},
+        "vendor": {
+            "yasb": {
+                "builder": "(Yet Another) X-Wing Miniatures Squad Builder",
+                "builder_url": "https://raithos.github.io",
+                "link": "https://raithos.github.io/?f=First%20Order&d=v8ZsZ200Z284X122WWW100Y263X319WWY286X186W135WY242XWWWWW&sn=Matthew%20Courser%20JTO&obs="
+            }
+        },
         "version": "2.0.0"
     },
     "Name": "Matthew Courser",

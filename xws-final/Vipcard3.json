@@ -3,13 +3,9 @@
     "Discord": "Vipcard3#8546",
     "Drop": "Trajectory simulator from braylen",
     "Final": {
+        "description": "",
         "faction": "rebelalliance",
-        "name": "Scott B JTO",
-        "obstacles": [
-            "yt2400debris0",
-            "yt2400debris1",
-            "yt2400debris2"
-        ],
+        "name": "jank tank",
         "pilots": [
             {
                 "id": "braylenstramm",
@@ -60,12 +56,18 @@
                 "id": "banditsquadronpilot",
                 "points": 22,
                 "ship": "z95af4headhunter",
-                "upgrades": {}
+                "upgrades": []
             }
         ],
         "points": 197,
-        "vendor": {},
-        "version": "2.0.0"
+        "vendor": {
+            "lbn": {
+                "builder": "Launch Bay Next",
+                "builder_url": "https://launch-bay-next.herokuapp.com",
+                "link": "https://launch-bay-next.herokuapp.com/print?lbx='jank%20tank'.197.1.0.(17.23.(3.258).(18.645).(14.592).(1.239)).(31.65.(8.275).(14.298).(1.245)).(34.42.(8.309)).(38.30)"
+            }
+        },
+        "version": "2.4.29"
     },
     "Name": "Scott B",
     "Option1": {

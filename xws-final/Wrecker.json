@@ -5,6 +5,11 @@
     "Final": {
         "faction": "galacticempire",
         "name": "Yan Picard JTO",
+        "obstacles": [
+            "gascloud1",
+            "gascloud2",
+            "gascloud3"
+        ],
         "pilots": [
             {
                 "id": "onyxsquadronscout",
@@ -36,7 +41,7 @@
                 "id": "obsidiansquadronpilot",
                 "points": 23,
                 "ship": "tielnfighter",
-                "upgrades": {}
+                "upgrades": []
             },
             {
                 "id": "patrolleader",
@@ -51,7 +56,7 @@
             }
         ],
         "points": 200,
-        "vendor": {},
+        "vendor": [],
         "version": "2.0.0"
     },
     "Name": "Yan Picard",

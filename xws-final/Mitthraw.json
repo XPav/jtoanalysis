@@ -3,6 +3,7 @@
     "Discord": "Mitthraw#7534",
     "Drop": "Agile Gunner from Quickdraw",
     "Final": {
+        "description": "",
         "faction": "firstorder",
         "name": "Joseph Hegeman JTO",
         "obstacles": [
@@ -13,6 +14,7 @@
         "pilots": [
             {
                 "id": "quickdraw",
+                "name": "quickdraw",
                 "points": 71,
                 "ship": "tiesffighter",
                 "upgrades": {
@@ -32,6 +34,7 @@
             },
             {
                 "id": "firstorderprovocateur",
+                "name": "firstorderprovocateur",
                 "points": 62,
                 "ship": "tiebainterceptor",
                 "upgrades": {
@@ -48,6 +51,7 @@
             },
             {
                 "id": "holo",
+                "name": "holo",
                 "points": 67,
                 "ship": "tiebainterceptor",
                 "upgrades": {
@@ -61,7 +65,13 @@
             }
         ],
         "points": 200,
-        "vendor": {},
+        "vendor": {
+            "yasb": {
+                "builder": "Yet Another Squad Builder 2.0",
+                "builder_url": "https://raithos.github.io/",
+                "link": "https://raithos.github.io/?f=First%20Order&d=v8ZsZ200Z243X123W318W101WW112WY384X122WW99W165Y382X124WWW165&sn=Joseph%20Hegeman%20JTO&obs=coreasteroid5,core2asteroid3,core2asteroid5"
+            }
+        },
         "version": "2.0.0"
     },
     "Name": "Joseph Hegeman",

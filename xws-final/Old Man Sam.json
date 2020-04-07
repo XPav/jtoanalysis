@@ -4,7 +4,11 @@
     "Drop": "Novice Tech from Dormitz",
     "Final": {
         "faction": "firstorder",
-        "name": "Samuel Moorhead JTO",
+        "obstacles": [
+            "coreasteroid0",
+            "coreasteroid1",
+            "core2asteroid2"
+        ],
         "pilots": [
             {
                 "id": "omegasquadronexpert",
@@ -47,7 +51,13 @@
             }
         ],
         "points": 200,
-        "vendor": {},
+        "vendor": {
+            "yasb": {
+                "builder": "(Yet Another) X-Wing Miniatures Squad Builder",
+                "builder_url": "https://raithos.github.io",
+                "link": "https://raithos.github.io/?f=First%20Order&d=v8ZsZ200Z285XW318W101WWWY238X177WWWWWW111WY281XWW54WWW12WW&sn=Unnamed%20Squadron&obs=coreasteroid0,coreasteroid1,core2asteroid2"
+            }
+        },
         "version": "2.0.0"
     },
     "Name": "Samuel Moorhead",

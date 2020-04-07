@@ -27,8 +27,7 @@
             {
                 "id": "epsilonsquadroncadet",
                 "points": 25,
-                "ship": "tiefofighter",
-                "upgrades": {}
+                "ship": "tiefofighter"
             },
             {
                 "id": "omegasquadronexpert",
@@ -42,23 +41,23 @@
             },
             {
                 "id": "rush",
-                "points": 62,
-                "ship": "tievnsilencer",
-                "upgrades": {
-                    "tech": [
-                        "patternanalyzer"
-                    ]
-                }
+                "points": 57,
+                "ship": "tievnsilencer"
             },
             {
                 "id": "omegasquadronexpert",
                 "points": 34,
-                "ship": "tiesffighter",
-                "upgrades": {}
+                "ship": "tiesffighter"
             }
         ],
-        "points": 195,
-        "vendor": {},
+        "points": 190,
+        "vendor": {
+            "yasb": {
+                "builder": "(Yet Another) X-Wing Miniatures Squad Builder",
+                "builder_url": "https://raithos.github.io",
+                "link": "https://raithos.github.io/?f=First%20Order&d=v8ZhZ200Z259XW101WWW236Y269XWY285XWWWW240WY386XWWY285XWWWWW&sn=Plush%20Rush&obs=coreasteroid5,yt2400debris0,core2asteroid5"
+            }
+        },
         "version": "2.0.0"
     },
     "Name": "Jonathan \"J.J\" Giron",

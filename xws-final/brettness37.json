@@ -19,8 +19,7 @@
             {
                 "id": "sigmasquadronace",
                 "points": 48,
-                "ship": "tiephphantom",
-                "upgrades": {}
+                "ship": "tiephphantom"
             },
             {
                 "id": "patrolleader",
@@ -48,7 +47,13 @@
             }
         ],
         "points": 198,
-        "vendor": {},
+        "vendor": {
+            "yasb": {
+                "builder": "(Yet Another) X-Wing Miniatures Squad Builder",
+                "builder_url": "https://raithos.github.io",
+                "link": "https://raithos.github.io/?f=Galactic%20Empire&d=v8ZsZ200Z227X119WY201XWWWY216XW30W50WW86WWWY206XWW98WWWW&sn=Brett%20Bird%20JTO&obs="
+            }
+        },
         "version": "2.0.0"
     },
     "Name": "Brett Bird",

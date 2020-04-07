@@ -56,7 +56,13 @@
             }
         ],
         "points": 198,
-        "vendor": {},
+        "vendor": {
+            "yasb": {
+                "builder": "(Yet Another) X-Wing Miniatures Squad Builder",
+                "builder_url": "https://raithos.github.io",
+                "link": "https://raithos.github.io/?f=Rebel%20Alliance&d=v8ZsZ200Z17XW97WWW40W316WW110Y41XW88WW110WW93Y69XWWW4W167&sn=Samuel%20Melhado%20JTO&obs="
+            }
+        },
         "version": "2.0.0"
     },
     "Name": "Samuel Melhado",

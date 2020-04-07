@@ -9,20 +9,17 @@
             {
                 "id": "gandfindsman",
                 "points": 41,
-                "ship": "g1astarfighter",
-                "upgrades": {}
+                "ship": "g1astarfighter"
             },
             {
                 "id": "autopilotdrone",
                 "points": 12,
-                "ship": "escapecraft",
-                "upgrades": {}
+                "ship": "escapecraft"
             },
             {
                 "id": "landocalrissian",
                 "points": 49,
-                "ship": "customizedyt1300lightfreighter",
-                "upgrades": {}
+                "ship": "customizedyt1300lightfreighter"
             },
             {
                 "id": "ketsuonyo",
@@ -37,12 +34,17 @@
             {
                 "id": "outerrimpioneer",
                 "points": 28,
-                "ship": "escapecraft",
-                "upgrades": {}
+                "ship": "escapecraft"
             }
         ],
         "points": 200,
-        "vendor": {},
+        "vendor": {
+            "yasb": {
+                "builder": "(Yet Another) X-Wing Miniatures Squad Builder",
+                "builder_url": "https://raithos.github.io",
+                "link": "https://raithos.github.io/?f=Scum%20and%20Villainy&d=v8ZsZ200Z111XWWWWY96XY90XWWWWWWWY126XWWWWW160Y94XWW&sn=Robert%20Blackstock%20JTO&obs="
+            }
+        },
         "version": "2.0.0"
     },
     "Name": "Robert Blackstock",

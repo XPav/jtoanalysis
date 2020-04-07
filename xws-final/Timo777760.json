@@ -5,12 +5,26 @@
     "Final": {
         "faction": "galacticempire",
         "name": "Timo Hetzel JTO",
+        "obstacles": [
+            "gascloud1",
+            "gascloud2",
+            "gascloud3"
+        ],
         "pilots": [
             {
-                "id": "soontirfel",
-                "points": 53,
-                "ship": "tieininterceptor",
-                "upgrades": {}
+                "id": "planetarysentinel",
+                "points": 31,
+                "ship": "tieskstriker"
+            },
+            {
+                "id": "omicrongrouppilot",
+                "points": 48,
+                "ship": "lambdaclasst4ashuttle",
+                "upgrades": {
+                    "crew": [
+                        "agentkallus"
+                    ]
+                }
             },
             {
                 "id": "captainjonus",
@@ -32,24 +46,19 @@
                 }
             },
             {
-                "id": "omicrongrouppilot",
-                "points": 48,
-                "ship": "lambdaclasst4ashuttle",
-                "upgrades": {
-                    "crew": [
-                        "agentkallus"
-                    ]
-                }
-            },
-            {
-                "id": "planetarysentinel",
-                "points": 31,
-                "ship": "tieskstriker",
-                "upgrades": {}
+                "id": "soontirfel",
+                "points": 53,
+                "ship": "tieininterceptor"
             }
         ],
         "points": 200,
-        "vendor": {},
+        "vendor": {
+            "yasb": {
+                "builder": "(Yet Another) X-Wing Miniatures Squad Builder",
+                "builder_url": "https://raithos.github.io",
+                "link": "https://raithos.github.io/?f=Galactic%20Empire&d=v8ZsZ200Z213XWWY168XWW15WWWY203X122WW97WWW70WW165Y179XWW&sn=Timo%20Hetzel%20JTO&obs=gascloud1,gascloud2,gascloud3"
+            }
+        },
         "version": "2.0.0"
     },
     "Name": "Timo Hetzel",

@@ -3,11 +3,18 @@
     "Discord": "viedit#0883",
     "Drop": "Targeting computer from Dace",
     "Final": {
+        "description": "",
         "faction": "scumandvillainy",
         "name": "Josh's Dace of Legend",
+        "obstacles": [
+            "coreasteroid2",
+            "coreasteroid5",
+            "core2asteroid5"
+        ],
         "pilots": [
             {
                 "id": "dacebonearm",
+                "name": "dacebonearm",
                 "points": 65,
                 "ship": "hwk290lightfreighter",
                 "upgrades": {
@@ -24,6 +31,7 @@
             },
             {
                 "id": "lokrevenant",
+                "name": "lokrevenant",
                 "points": 61,
                 "ship": "scurrgh6bomber",
                 "upgrades": {
@@ -43,6 +51,7 @@
             },
             {
                 "id": "lattsrazzi",
+                "name": "lattsrazzi",
                 "points": 72,
                 "ship": "yv666lightfreighter",
                 "upgrades": {
@@ -59,7 +68,13 @@
             }
         ],
         "points": 198,
-        "vendor": {},
+        "vendor": {
+            "yasb": {
+                "builder": "Yet Another Squad Builder 2.0",
+                "builder_url": "https://raithos.github.io/",
+                "link": "https://raithos.github.io/?f=Scum%20and%20Villainy&d=v8ZsZ200Z113XW45WWWW105W156Y146X138WWW70WWW149W240WY154XWW98W22WW80WWW&sn=Josh's%20Dace%20of%20Legend&obs=coreasteroid2,coreasteroid5,core2asteroid5"
+            }
+        },
         "version": "2.0.0"
     },
     "Name": "Josh Dunne",

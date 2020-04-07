@@ -4,29 +4,30 @@
     "Drop": "Proton Rockets from Deathrain",
     "Final": {
         "faction": "galacticempire",
-        "name": "Aaron Pa_ JTO",
+        "obstacles": [
+            "gascloud4",
+            "gascloud5",
+            "gascloud6"
+        ],
         "pilots": [
             {
                 "id": "deltasquadronpilot",
                 "points": 67,
-                "ship": "tieddefender",
-                "upgrades": {}
+                "ship": "tieddefender"
             },
             {
                 "id": "planetarysentinel",
                 "points": 31,
-                "ship": "tieskstriker",
-                "upgrades": {}
+                "ship": "tieskstriker"
             },
             {
                 "id": "zertikstrom",
                 "points": 41,
-                "ship": "tieadvancedx1",
-                "upgrades": {}
+                "ship": "tieadvancedx1"
             },
             {
-                "id": "cutlasssquadronpilot",
-                "points": 50,
+                "id": "deathrain",
+                "points": 58,
                 "ship": "tiecapunisher",
                 "upgrades": {
                     "device": [
@@ -38,8 +39,14 @@
                 }
             }
         ],
-        "points": 189,
-        "vendor": {},
+        "points": 197,
+        "vendor": {
+            "yasb": {
+                "builder": "(Yet Another) X-Wing Miniatures Squad Builder",
+                "builder_url": "https://raithos.github.io",
+                "link": "https://raithos.github.io/?f=Galactic%20Empire&d=v8ZsZ200Z198XWWY213XWWY176XWWY192XW234WWWWW69W&sn=Unnamed%20Squadron&obs=gascloud4,gascloud5,gascloud6"
+            }
+        },
         "version": "2.0.0"
     },
     "Name": "Aaron Pa_",

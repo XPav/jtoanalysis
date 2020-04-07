@@ -2,7 +2,63 @@
     "Add": "Shadow caster title to Lancer class pursuit craft",
     "Discord": "Arc17-26#2855",
     "Drop": "Juke from the Escape Craft",
-    "Final": null,
+    "Final": {
+        "faction": "scumandvillainy",
+        "pilots": [
+            {
+                "id": "hiredgun",
+                "points": 46,
+                "ship": "btla4ywing",
+                "upgrades": {
+                    "gunner": [
+                        "hansolo-gunner"
+                    ],
+                    "illicit": [
+                        "cloakingdevice"
+                    ]
+                }
+            },
+            {
+                "id": "outerrimpioneer",
+                "points": 34,
+                "ship": "escapecraft",
+                "upgrades": {
+                    "crew": [
+                        "ig88d"
+                    ],
+                    "modification": [
+                        "angleddeflectors"
+                    ]
+                }
+            },
+            {
+                "id": "overseeryushyn",
+                "points": 34,
+                "ship": "modifiedtielnfighter",
+                "upgrades": {
+                    "modification": [
+                        "stealthdevice"
+                    ]
+                }
+            },
+            {
+                "id": "asajjventress",
+                "points": 75,
+                "ship": "lancerclasspursuitcraft",
+                "upgrades": {
+                    "illicit": [
+                        "contrabandcybernetics"
+                    ],
+                    "title": [
+                        "shadowcaster"
+                    ]
+                }
+            }
+        ],
+        "points": 189,
+        "vendor": [],
+        "version": "2.0.0"
+    },
     "Name": "John McDermid",
     "Option1": {
         "faction": "scumandvillainy",

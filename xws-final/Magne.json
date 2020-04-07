@@ -5,6 +5,11 @@
     "Final": {
         "faction": "firstorder",
         "name": "Magne Gudmundsen JTO",
+        "obstacles": [
+            "coreasteroid5",
+            "core2asteroid5",
+            "gascloud5"
+        ],
         "pilots": [
             {
                 "id": "avenger",
@@ -41,7 +46,13 @@
             }
         ],
         "points": 198,
-        "vendor": {},
+        "vendor": {
+            "yasb": {
+                "builder": "(Yet Another) X-Wing Miniatures Squad Builder",
+                "builder_url": "https://raithos.github.io",
+                "link": "https://raithos.github.io/?f=First%20Order&d=v8ZsZ200Z283XWW134WY386XW234WY381XW177W102W&sn=Magne%20Gudmundsen%20JTO&obs=coreasteroid5,core2asteroid5,gascloud5"
+            }
+        },
         "version": "2.0.0"
     },
     "Name": "Magne Gudmundsen",

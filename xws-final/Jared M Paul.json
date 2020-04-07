@@ -50,12 +50,17 @@
             {
                 "id": "scimitarsquadronpilot",
                 "points": 27,
-                "ship": "tiesabomber",
-                "upgrades": {}
+                "ship": "tiesabomber"
             }
         ],
         "points": 200,
-        "vendor": {},
+        "vendor": {
+            "yasb": {
+                "builder": "(Yet Another) X-Wing Miniatures Squad Builder",
+                "builder_url": "https://raithos.github.io",
+                "link": "https://raithos.github.io/?f=Galactic%20Empire&d=v8ZsZ200Z175X126W113W311WY196XWW12WY187XW137WWWWY208XWWWWWW&sn=Jank%20Tank%20Open%20Imperial%20Squad&obs=gascloud4,gascloud5,gascloud6"
+            }
+        },
         "version": "2.0.0"
     },
     "Name": "Jared M. Paul",

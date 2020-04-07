@@ -71,7 +71,13 @@
             }
         ],
         "points": 200,
-        "vendor": {},
+        "vendor": {
+            "yasb": {
+                "builder": "(Yet Another) X-Wing Miniatures Squad Builder",
+                "builder_url": "https://raithos.github.io",
+                "link": "https://raithos.github.io/?f=Galactic%20Republic&d=v8ZsZ200Z321X102WY314X73W6W200WY332X123W112W241W234Y363X138WWW2WW&sn=Jeff%20McClain%20JTO&obs=coreasteroid2,coreasteroid3,coreasteroid5"
+            }
+        },
         "version": "2.0.0"
     },
     "Name": "Jeff McClain",

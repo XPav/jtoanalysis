@@ -39,8 +39,7 @@
             {
                 "id": "miningguildsentry",
                 "points": 22,
-                "ship": "modifiedtielnfighter",
-                "upgrades": {}
+                "ship": "modifiedtielnfighter"
             },
             {
                 "id": "sunnybounder",
@@ -54,7 +53,13 @@
             }
         ],
         "points": 200,
-        "vendor": {},
+        "vendor": {
+            "yasb": {
+                "builder": "(Yet Another) X-Wing Miniatures Squad Builder",
+                "builder_url": "https://raithos.github.io",
+                "link": "https://raithos.github.io/?f=Scum%20and%20Villainy&d=v8ZsZ200Z152XWWW54W32WW94W106WY114XW71WWWW156Y304XY138XW232&sn=Brandon%20Carey%20JTO&obs="
+            }
+        },
         "version": "2.0.0"
     },
     "Name": "Brandon Carey",

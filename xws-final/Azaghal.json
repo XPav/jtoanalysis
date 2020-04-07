@@ -4,7 +4,7 @@
     "Drop": "Swarm Tactics from Backdraft",
     "Final": {
         "faction": "firstorder",
-        "name": "FOaces",
+        "name": "FO aces",
         "pilots": [
             {
                 "id": "holo",
@@ -62,7 +62,13 @@
             }
         ],
         "points": 200,
-        "vendor": {},
+        "vendor": {
+            "yasb": {
+                "builder": "(Yet Another) X-Wing Miniatures Squad Builder",
+                "builder_url": "https://raithos.github.io",
+                "link": "https://raithos.github.io/?f=First%20Order&d=v8ZsZ200Z382X117W318W311WY383X117W177W98W166Y242XW186W100W86WW108&sn=FO%20aces&obs="
+            }
+        },
         "version": "2.0.0"
     },
     "Name": "Ernestas Ramanauskas",

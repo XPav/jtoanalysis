@@ -34,24 +34,27 @@
             {
                 "id": "104thbattalionpilot",
                 "points": 42,
-                "ship": "arc170starfighter",
-                "upgrades": {}
+                "ship": "arc170starfighter"
             },
             {
                 "id": "axe",
                 "points": 32,
-                "ship": "v19torrentstarfighter",
-                "upgrades": {}
+                "ship": "v19torrentstarfighter"
             },
             {
                 "id": "anakinskywalker-nabooroyaln1starfighter",
                 "points": 41,
-                "ship": "nabooroyaln1starfighter",
-                "upgrades": {}
+                "ship": "nabooroyaln1starfighter"
             }
         ],
         "points": 200,
-        "vendor": {},
+        "vendor": {
+            "yasb": {
+                "builder": "(Yet Another) X-Wing Miniatures Squad Builder",
+                "builder_url": "https://raithos.github.io",
+                "link": "https://raithos.github.io/?f=Galactic%20Republic&d=v8ZsZ200Z363X138WWWWWY276XW213WWY341XWWWWY318XWWY322XWWW&sn=Runningtargetnz%20(JTO)&obs=coreasteroid0,core2asteroid0,core2asteroid2"
+            }
+        },
         "version": "2.0.0"
     },
     "Name": "Hamish Gordon",

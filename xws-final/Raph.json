@@ -9,14 +9,12 @@
             {
                 "id": "outerrimsmuggler",
                 "points": 67,
-                "ship": "modifiedyt1300lightfreighter",
-                "upgrades": {}
+                "ship": "modifiedyt1300lightfreighter"
             },
             {
                 "id": "corranhorn",
                 "points": 66,
-                "ship": "ewing",
-                "upgrades": {}
+                "ship": "ewing"
             },
             {
                 "id": "esegetuketu",
@@ -33,7 +31,13 @@
             }
         ],
         "points": 198,
-        "vendor": {},
+        "vendor": {
+            "yasb": {
+                "builder": "(Yet Another) X-Wing Miniatures Squad Builder",
+                "builder_url": "https://raithos.github.io",
+                "link": "https://raithos.github.io/?f=Rebel%20Alliance&d=v8ZsZ200Z45XWWWWWWY21XWWWWY18XWWW81W46WWW&sn=Carson%20Hopper%20JTO&obs="
+            }
+        },
         "version": "2.0.0"
     },
     "Name": "Carson Hopper",

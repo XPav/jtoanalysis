@@ -48,18 +48,22 @@
             {
                 "id": "miningguildsentry",
                 "points": 22,
-                "ship": "modifiedtielnfighter",
-                "upgrades": {}
+                "ship": "modifiedtielnfighter"
             },
             {
                 "id": "kaatoleeachos",
                 "points": 27,
-                "ship": "z95af4headhunter",
-                "upgrades": {}
+                "ship": "z95af4headhunter"
             }
         ],
         "points": 200,
-        "vendor": {},
+        "vendor": {
+            "yasb": {
+                "builder": "(Yet Another) X-Wing Miniatures Squad Builder",
+                "builder_url": "https://raithos.github.io",
+                "link": "https://raithos.github.io/?f=Scum%20and%20Villainy&d=v8ZsZ200Z159X99WWY130XWW98W8WW247Y112XWW69WWWW156Y304XY157XWWW&sn=Cam%20Murray%20JTO&obs="
+            }
+        },
         "version": "2.0.0"
     },
     "Name": "Cameron Murray",

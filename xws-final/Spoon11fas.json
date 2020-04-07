@@ -1,6 +1,6 @@
 {
     "Add": "Leia Organa to Kyle Katarn",
-    "Discord": "Jonas Th\u00c3\u00a2\u00e2\u201a\u00ac\u00e2\u201e\u00a2por#9183",
+    "Discord": "Jonas Th\u00e2\u20ac\u2122por#9183",
     "Drop": "Targeting Computer from Ezra Bridger",
     "Final": {
         "faction": "rebelalliance",
@@ -30,8 +30,7 @@
             {
                 "id": "ezrabridger-tielnfighter",
                 "points": 31,
-                "ship": "tielnfighter",
-                "upgrades": {}
+                "ship": "tielnfighter"
             },
             {
                 "id": "braylenstramm",
@@ -61,7 +60,13 @@
             }
         ],
         "points": 199,
-        "vendor": {},
+        "vendor": {
+            "yasb": {
+                "builder": "(Yet Another) X-Wing Miniatures Squad Builder",
+                "builder_url": "https://raithos.github.io",
+                "link": "https://raithos.github.io/?f=Rebel%20Alliance&d=v8ZsZ200Z24XW134W5W105Y14XWY73XW112W232WWWW313Y48XWW46WWW&sn=John%20Witherspoon%20JTO&obs=coreasteroid4,coreasteroid5,core2asteroid5"
+            }
+        },
         "version": "2.0.0"
     },
     "Name": "John Witherspoon",

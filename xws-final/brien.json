@@ -54,12 +54,17 @@
             {
                 "id": "academypilot",
                 "points": 22,
-                "ship": "tielnfighter",
-                "upgrades": {}
+                "ship": "tielnfighter"
             }
         ],
         "points": 198,
-        "vendor": {},
+        "vendor": {
+            "yasb": {
+                "builder": "(Yet Another) X-Wing Miniatures Squad Builder",
+                "builder_url": "https://raithos.github.io",
+                "link": "https://raithos.github.io/?f=Galactic%20Empire&d=v8ZsZ200Z161X127WW136W98W104WY168XW12WWW164W162Y169X250WWY229X&sn=Brien%20Robles%20JTO&obs="
+            }
+        },
         "version": "2.0.0"
     },
     "Name": "brien robles",

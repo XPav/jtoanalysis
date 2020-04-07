@@ -3,11 +3,13 @@
     "Discord": "SamTinSquadron#8943",
     "Drop": "Fifth Brother from Onyx Squadron Scout",
     "Final": {
+        "description": "",
         "faction": "galacticempire",
         "name": "SamTinSquadron JTO",
         "pilots": [
             {
                 "id": "majorvermeil",
+                "name": "majorvermeil",
                 "points": 70,
                 "ship": "tiereaper",
                 "upgrades": {
@@ -25,6 +27,7 @@
             },
             {
                 "id": "doubleedge",
+                "name": "doubleedge",
                 "points": 33,
                 "ship": "tieagaggressor",
                 "upgrades": {
@@ -38,6 +41,7 @@
             },
             {
                 "id": "onyxsquadronscout",
+                "name": "onyxsquadronscout",
                 "points": 40,
                 "ship": "tieagaggressor",
                 "upgrades": {
@@ -51,6 +55,7 @@
             },
             {
                 "id": "vizier",
+                "name": "vizier",
                 "points": 56,
                 "ship": "tiereaper",
                 "upgrades": {
@@ -61,7 +66,13 @@
             }
         ],
         "points": 199,
-        "vendor": {},
+        "vendor": {
+            "yasb": {
+                "builder": "Yet Another Squad Builder 2.0",
+                "builder_url": "https://raithos.github.io/",
+                "link": "https://raithos.github.io/?f=Galactic%20Empire&d=v8ZsZ200Z183X125W15W33W110Y188XW137WWWW108Y189XW138W102WWWY185X29WW&sn=SamTinSquadron%20JTO&obs="
+            }
+        },
         "version": "2.0.0"
     },
     "Name": "Sam",

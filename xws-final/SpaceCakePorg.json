@@ -30,8 +30,7 @@
             {
                 "id": "majorstridan",
                 "points": 61,
-                "ship": "upsilonclasscommandshuttle",
-                "upgrades": {}
+                "ship": "upsilonclasscommandshuttle"
             },
             {
                 "id": "quickdraw",
@@ -46,12 +45,17 @@
             {
                 "id": "backdraft",
                 "points": 39,
-                "ship": "tiesffighter",
-                "upgrades": {}
+                "ship": "tiesffighter"
             }
         ],
         "points": 200,
-        "vendor": {},
+        "vendor": {
+            "yasb": {
+                "builder": "(Yet Another) X-Wing Miniatures Squad Builder",
+                "builder_url": "https://raithos.github.io",
+                "link": "https://raithos.github.io/?f=First%20Order&d=v8ZsZ200Z267X118W206W166Y251XWWWWWWWY243XWWW182WWY242XWWWWW&sn=Agata%20Pikulska%20JTO&obs=gascloud4,gascloud5,gascloud6"
+            }
+        },
         "version": "2.0.0"
     },
     "Name": "Agata Pikulska",

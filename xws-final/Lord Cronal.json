@@ -9,8 +9,7 @@
             {
                 "id": "commandermalarus",
                 "points": 38,
-                "ship": "tiefofighter",
-                "upgrades": {}
+                "ship": "tiefofighter"
             },
             {
                 "id": "recoil",
@@ -28,18 +27,22 @@
             {
                 "id": "holo",
                 "points": 54,
-                "ship": "tiebainterceptor",
-                "upgrades": {}
+                "ship": "tiebainterceptor"
             },
             {
                 "id": "omegasquadronexpert",
                 "points": 34,
-                "ship": "tiesffighter",
-                "upgrades": {}
+                "ship": "tiesffighter"
             }
         ],
         "points": 198,
-        "vendor": {},
+        "vendor": {
+            "yasb": {
+                "builder": "(Yet Another) X-Wing Miniatures Squad Builder",
+                "builder_url": "https://raithos.github.io",
+                "link": "https://raithos.github.io/?f=First%20Order&d=v8ZsZ200Z266XWWY284XW178WW102Y382XWWWY285XWWWWW&sn=Lord%20Cronal%20JTO&obs="
+            }
+        },
         "version": "2.0.0"
     },
     "Name": "Patrick Wojtowicz",

@@ -5,6 +5,11 @@
     "Final": {
         "faction": "galacticrepublic",
         "name": "Random Squad",
+        "obstacles": [
+            "coreasteroid0",
+            "core2asteroid0",
+            "core2asteroid2"
+        ],
         "pilots": [
             {
                 "id": "r2d2",
@@ -35,30 +40,32 @@
             {
                 "id": "goldsquadrontrooper",
                 "points": 25,
-                "ship": "v19torrentstarfighter",
-                "upgrades": {}
+                "ship": "v19torrentstarfighter"
             },
             {
                 "id": "bluesquadronprotector",
                 "points": 27,
-                "ship": "v19torrentstarfighter",
-                "upgrades": {}
+                "ship": "v19torrentstarfighter"
             },
             {
                 "id": "goldsquadrontrooper",
                 "points": 25,
-                "ship": "v19torrentstarfighter",
-                "upgrades": {}
+                "ship": "v19torrentstarfighter"
             },
             {
                 "id": "bravoflightofficer",
                 "points": 33,
-                "ship": "nabooroyaln1starfighter",
-                "upgrades": {}
+                "ship": "nabooroyaln1starfighter"
             }
         ],
         "points": 200,
-        "vendor": {},
+        "vendor": {
+            "yasb": {
+                "builder": "(Yet Another) X-Wing Miniatures Squad Builder",
+                "builder_url": "https://raithos.github.io",
+                "link": "https://raithos.github.io/?f=Galactic%20Republic&d=v8ZsZ200Z362X122W138WWWW70WY364XW138WWWWWY321XWY320XWWY321XWY323XWW&sn=Random%20Squad&obs=coreasteroid0,core2asteroid0,core2asteroid2"
+            }
+        },
         "version": "2.0.0"
     },
     "Name": "Tommaso Loss",

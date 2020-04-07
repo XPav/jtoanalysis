@@ -3,6 +3,7 @@
     "Discord": "Sky_Paladin#7635",
     "Drop": "Rho Squadron Pilot:  Juke",
     "Final": {
+        "description": "",
         "faction": "galacticempire",
         "name": "The Dark Seas of Infinity",
         "obstacles": [
@@ -13,6 +14,7 @@
         "pilots": [
             {
                 "id": "rhosquadronpilot",
+                "name": "rhosquadronpilot",
                 "points": 54,
                 "ship": "alphaclassstarwing",
                 "upgrades": {
@@ -32,6 +34,7 @@
             },
             {
                 "id": "fifthbrother",
+                "name": "fifthbrother",
                 "points": 58,
                 "ship": "tieadvancedv1",
                 "upgrades": {
@@ -42,6 +45,7 @@
             },
             {
                 "id": "sienarspecialist",
+                "name": "sienarspecialist",
                 "points": 39,
                 "ship": "tieagaggressor",
                 "upgrades": {
@@ -55,6 +59,7 @@
             },
             {
                 "id": "lieutenantkarsabi",
+                "name": "lieutenantkarsabi",
                 "points": 46,
                 "ship": "alphaclassstarwing",
                 "upgrades": {
@@ -65,7 +70,13 @@
             }
         ],
         "points": 197,
-        "vendor": {},
+        "vendor": {
+            "yasb": {
+                "builder": "Yet Another Squad Builder 2.0",
+                "builder_url": "https://raithos.github.io/",
+                "link": "https://raithos.github.io/?f=Galactic%20Empire&d=v8ZsZ200Z163XW113W135W311W164WY394X74WWY190XW100WW76WY162XWW234WWW&sn=The%20Dark%20Seas%20of%20Infinity&obs=gascloud1,gascloud2,gascloud3"
+            }
+        },
         "version": "2.0.0"
     },
     "Name": "Christopher Dunn",

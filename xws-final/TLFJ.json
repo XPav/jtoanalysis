@@ -39,8 +39,7 @@
             {
                 "id": "idenversio",
                 "points": 41,
-                "ship": "tielnfighter",
-                "upgrades": {}
+                "ship": "tielnfighter"
             },
             {
                 "id": "coloneljendon",
@@ -58,12 +57,17 @@
             {
                 "id": "blacksquadronscout",
                 "points": 34,
-                "ship": "tieskstriker",
-                "upgrades": {}
+                "ship": "tieskstriker"
             }
         ],
         "points": 197,
-        "vendor": {},
+        "vendor": {
+            "yasb": {
+                "builder": "(Yet Another) X-Wing Miniatures Squad Builder",
+                "builder_url": "https://raithos.github.io",
+                "link": "https://raithos.github.io/?f=Galactic%20Empire&d=v8ZsZ200Z161X119W240W136W101W104W139WWY218XWY167XWWWW164W162Y212XWWW&sn=Johnson%27s%20Jank%20Tank&obs=coreasteroid5,core2asteroid4,core2asteroid5"
+            }
+        },
         "version": "2.0.0"
     },
     "Name": "Travis Johnson",

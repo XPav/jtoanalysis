@@ -3,11 +3,13 @@
     "Discord": "Red-FISH- (#2788)",
     "Drop": "Remove Gonk from the Squad Seven Veteran",
     "Final": {
+        "description": "",
         "faction": "galacticrepublic",
         "name": "Zach Mertens JTO",
         "pilots": [
             {
                 "id": "saeseetiin",
+                "name": "saeseetiin",
                 "points": 46,
                 "ship": "delta7aethersprite",
                 "upgrades": {
@@ -18,6 +20,7 @@
             },
             {
                 "id": "bravoflightofficer",
+                "name": "bravoflightofficer",
                 "points": 44,
                 "ship": "nabooroyaln1starfighter",
                 "upgrades": {
@@ -31,6 +34,7 @@
             },
             {
                 "id": "anakinskywalker-nabooroyaln1starfighter",
+                "name": "anakinskywalker-nabooroyaln1starfighter",
                 "points": 55,
                 "ship": "nabooroyaln1starfighter",
                 "upgrades": {
@@ -44,6 +48,7 @@
             },
             {
                 "id": "squadsevenveteran",
+                "name": "squadsevenveteran",
                 "points": 53,
                 "ship": "arc170starfighter",
                 "upgrades": {
@@ -57,7 +62,13 @@
             }
         ],
         "points": 198,
-        "vendor": {},
+        "vendor": {
+            "yasb": {
+                "builder": "Yet Another Squad Builder 2.0",
+                "builder_url": "https://raithos.github.io/",
+                "link": "https://raithos.github.io/?f=Galactic%20Republic&d=v8ZsZ200Z313XWW200WY323XW233W135Y322X115WWW136Y340X133WWWW226W&sn=Zach%20Mertens%20JTO&obs="
+            }
+        },
         "version": "2.0.0"
     },
     "Name": "Zach Mertens",

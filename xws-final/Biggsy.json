@@ -5,6 +5,11 @@
     "Final": {
         "faction": "firstorder",
         "name": "Nick Allard JTO",
+        "obstacles": [
+            "yt2400debris0",
+            "yt2400debris1",
+            "core2asteroid0"
+        ],
         "pilots": [
             {
                 "id": "backdraft",
@@ -32,18 +37,22 @@
             {
                 "id": "commandermalarus",
                 "points": 38,
-                "ship": "tiefofighter",
-                "upgrades": {}
+                "ship": "tiefofighter"
             },
             {
                 "id": "starkillerbasepilot",
                 "points": 58,
-                "ship": "upsilonclasscommandshuttle",
-                "upgrades": {}
+                "ship": "upsilonclasscommandshuttle"
             }
         ],
         "points": 198,
-        "vendor": {},
+        "vendor": {
+            "yasb": {
+                "builder": "(Yet Another) X-Wing Miniatures Squad Builder",
+                "builder_url": "https://raithos.github.io",
+                "link": "https://raithos.github.io/?f=First%20Order&d=v8ZsZ200Z242XWWWWW166Y243XWWW182WW106Y266XWWY288XWWWWWWW&sn=Nick%20Allard%20JTO&obs=yt2400debris0,yt2400debris1,core2asteroid0"
+            }
+        },
         "version": "2.0.0"
     },
     "Name": "Nick Allard",

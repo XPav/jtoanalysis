@@ -58,7 +58,13 @@
             }
         ],
         "points": 198,
-        "vendor": {},
+        "vendor": {
+            "yasb": {
+                "builder": "(Yet Another) X-Wing Miniatures Squad Builder",
+                "builder_url": "https://raithos.github.io",
+                "link": "https://raithos.github.io/?f=Galactic%20Empire&d=v8ZsZ200Z179X119W249W165Y168XW13WWW165W162Y206XWWW86WWWY395X119WWW&sn=Mark%20Argente%20%5BJTO%5D&obs="
+            }
+        },
         "version": "2.0.0"
     },
     "Name": "Mark Argente",

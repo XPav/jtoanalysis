@@ -27,8 +27,7 @@
             {
                 "id": "tn3465",
                 "points": 28,
-                "ship": "tiefofighter",
-                "upgrades": {}
+                "ship": "tiefofighter"
             },
             {
                 "id": "firstorderprovocateur",
@@ -58,7 +57,13 @@
             }
         ],
         "points": 200,
-        "vendor": {},
+        "vendor": {
+            "yasb": {
+                "builder": "(Yet Another) X-Wing Miniatures Squad Builder",
+                "builder_url": "https://raithos.github.io",
+                "link": "https://raithos.github.io/?f=First%20Order&d=v8ZsZ200Z233X115WW164Y261XWY384X132W206W101WY283XWW234W&sn=Carl%20Tinsley%20JTO&obs=core2asteroid5,gascloud4,gascloud6"
+            }
+        },
         "version": "2.0.0"
     },
     "Name": "Carl Tinsley",

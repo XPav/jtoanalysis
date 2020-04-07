@@ -3,11 +3,13 @@
     "Discord": "Ximatique#8020",
     "Drop": "Static discharge vanes on Vonreg",
     "Final": {
+        "description": "",
         "faction": "firstorder",
         "name": "Maxime Clergue JTO",
         "pilots": [
             {
                 "id": "avenger",
+                "name": "avenger",
                 "points": 68,
                 "ship": "tievnsilencer",
                 "upgrades": {
@@ -21,6 +23,7 @@
             },
             {
                 "id": "scorch",
+                "name": "scorch",
                 "points": 36,
                 "ship": "tiefofighter",
                 "upgrades": {
@@ -31,12 +34,13 @@
             },
             {
                 "id": "omegasquadronace",
+                "name": "omegasquadronace",
                 "points": 28,
-                "ship": "tiefofighter",
-                "upgrades": {}
+                "ship": "tiefofighter"
             },
             {
                 "id": "majorvonreg",
+                "name": "majorvonreg",
                 "points": 63,
                 "ship": "tiebainterceptor",
                 "upgrades": {
@@ -47,7 +51,13 @@
             }
         ],
         "points": 195,
-        "vendor": {},
+        "vendor": {
+            "yasb": {
+                "builder": "Yet Another Squad Builder 2.0",
+                "builder_url": "https://raithos.github.io/",
+                "link": "https://raithos.github.io/?f=First%20Order&d=v8ZsZ200Z283X131WWW101Y262X119WWY267XWWY381X126WWW&sn=Maxime%20Clergue%20JTO&obs="
+            }
+        },
         "version": "2.0.0"
     },
     "Name": "Maxime Clergue",

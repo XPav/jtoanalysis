@@ -9,8 +9,7 @@
             {
                 "id": "tn3465",
                 "points": 28,
-                "ship": "tiefofighter",
-                "upgrades": {}
+                "ship": "tiefofighter"
             },
             {
                 "id": "captainphasma",
@@ -57,12 +56,17 @@
             {
                 "id": "lieutenantrivas",
                 "points": 27,
-                "ship": "tiefofighter",
-                "upgrades": {}
+                "ship": "tiefofighter"
             }
         ],
         "points": 197,
-        "vendor": {},
+        "vendor": {
+            "yasb": {
+                "builder": "(Yet Another) X-Wing Miniatures Squad Builder",
+                "builder_url": "https://raithos.github.io",
+                "link": "https://raithos.github.io/?f=First%20Order&d=v8ZsZ200Z261XWY385X126WWW88W240W166Y263XW206W165Y259XWW182WWY265XW&sn=Vincent%20Hamelin%20JTO&obs="
+            }
+        },
         "version": "2.0.0"
     },
     "Name": "Vincent Hamelin",

@@ -3,11 +3,13 @@
     "Discord": "CaptainSebastian#1709",
     "Drop": "Primed Thrusters from Pammich Nerro Goode",
     "Final": {
+        "description": "",
         "faction": "resistance",
         "name": "Turret Outmaneuver? Is that...Legal?",
         "pilots": [
             {
                 "id": "zizitlo",
+                "name": "zizitlo",
                 "points": 56,
                 "ship": "rz2awing",
                 "upgrades": {
@@ -22,6 +24,7 @@
             },
             {
                 "id": "rosetico",
+                "name": "rosetico",
                 "points": 37,
                 "ship": "resistancetransportpod",
                 "upgrades": {
@@ -38,6 +41,7 @@
             },
             {
                 "id": "pammichnerrogoode",
+                "name": "pammichnerrogoode",
                 "points": 40,
                 "ship": "resistancetransport",
                 "upgrades": {
@@ -48,6 +52,7 @@
             },
             {
                 "id": "karekun",
+                "name": "karekun",
                 "points": 64,
                 "ship": "t70xwing",
                 "upgrades": {
@@ -67,7 +72,13 @@
             }
         ],
         "points": 197,
-        "vendor": {},
+        "vendor": {
+            "yasb": {
+                "builder": "Yet Another Squad Builder 2.0",
+                "builder_url": "https://raithos.github.io/",
+                "link": "https://raithos.github.io/?f=Resistance&d=v8ZsZ200Z387X126W122W102WY345X125W186W230WY347XWWW243WWWY252XWW109W175WW171W100&sn=Turret%20Outmaneuver%3F%20Is%20that...Legal%3F&obs="
+            }
+        },
         "version": "2.0.0"
     },
     "Name": "Andrew Goldbach",

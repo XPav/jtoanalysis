@@ -4,7 +4,12 @@
     "Drop": "Ion Rockets from Ved Folso",
     "Final": {
         "faction": "galacticempire",
-        "name": "Greg Paul JTO",
+        "name": "Gregory Paul JTO",
+        "obstacles": [
+            "gascloud4",
+            "gascloud5",
+            "gascloud6"
+        ],
         "pilots": [
             {
                 "id": "vedfoslo",
@@ -22,8 +27,7 @@
             {
                 "id": "zertikstrom",
                 "points": 41,
-                "ship": "tieadvancedx1",
-                "upgrades": {}
+                "ship": "tieadvancedx1"
             },
             {
                 "id": "darthvader",
@@ -41,12 +45,17 @@
             {
                 "id": "baronoftheempire",
                 "points": 30,
-                "ship": "tieadvancedv1",
-                "upgrades": {}
+                "ship": "tieadvancedv1"
             }
         ],
         "points": 199,
-        "vendor": {},
+        "vendor": {
+            "yasb": {
+                "builder": "(Yet Another) X-Wing Miniatures Squad Builder",
+                "builder_url": "https://raithos.github.io",
+                "link": "https://raithos.github.io/?f=Galactic%20Empire&d=v8ZsZ200Z175X127WWW106Y176XWWY173XW112W102WY172XWW&sn=Gregory%20Paul%20JTO&obs=gascloud4,gascloud5,gascloud6"
+            }
+        },
         "version": "2.0.0"
     },
     "Name": "Gregory Paul",

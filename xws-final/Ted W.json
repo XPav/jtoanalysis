@@ -68,7 +68,13 @@
             }
         ],
         "points": 198,
-        "vendor": {},
+        "vendor": {
+            "yasb": {
+                "builder": "(Yet Another) X-Wing Miniatures Squad Builder",
+                "builder_url": "https://raithos.github.io",
+                "link": "https://raithos.github.io/?f=Galactic%20Empire&d=v8ZsZ200Z174X125W240W311W105Y394X199WW100Y170XWW100Y190X137WWW90W&sn=Ted%20W%20(JTO)&obs=vt49decimatordebris2,core2asteroid0,core2asteroid1"
+            }
+        },
         "version": "2.0.0"
     },
     "Name": "Ted Wakar",

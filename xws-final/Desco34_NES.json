@@ -60,12 +60,17 @@
             {
                 "id": "axe",
                 "points": 32,
-                "ship": "v19torrentstarfighter",
-                "upgrades": {}
+                "ship": "v19torrentstarfighter"
             }
         ],
         "points": 197,
-        "vendor": {},
+        "vendor": {
+            "yasb": {
+                "builder": "(Yet Another) X-Wing Miniatures Squad Builder",
+                "builder_url": "https://raithos.github.io",
+                "link": "https://raithos.github.io/?f=Galactic%20Republic&d=v8ZsZ200Z320X127W99W164Y313XW6W201W164Y364X118W137W135WW6WWY318XWW&sn=Marco%20de%20Scordilli%20Jank%20Squad&obs="
+            }
+        },
         "version": "2.0.0"
     },
     "Name": "Marco de Scordilli",

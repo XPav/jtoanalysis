@@ -27,8 +27,7 @@
             {
                 "id": "zetasquadronpilot",
                 "points": 26,
-                "ship": "tiefofighter",
-                "upgrades": {}
+                "ship": "tiefofighter"
             },
             {
                 "id": "pettyofficerthanisson",
@@ -58,7 +57,13 @@
             }
         ],
         "points": 196,
-        "vendor": {},
+        "vendor": {
+            "yasb": {
+                "builder": "(Yet Another) X-Wing Miniatures Squad Builder",
+                "builder_url": "https://raithos.github.io",
+                "link": "https://raithos.github.io/?f=First%20Order&d=v8ZsZ200Z397X126WW102WWWY268XWY281XWW183WWWWW166Y266X126W177W&sn=Brendan%20Morrissey%20JTO&obs=coreasteroid2,coreasteroid5,core2asteroid3"
+            }
+        },
         "version": "2.0.0"
     },
     "Name": "Brendan Morrissey",

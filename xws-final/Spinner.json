@@ -4,23 +4,12 @@
     "Drop": "Proton Rockets from Blount",
     "Final": {
         "faction": "rebelalliance",
-        "name": "Mike Spin JTO",
         "obstacles": [
+            "core2asteroid0",
             "gascloud1",
-            "gascloud2",
-            "gascloud3"
+            "gascloud2"
         ],
         "pilots": [
-            {
-                "id": "lieutenantblount",
-                "points": 33,
-                "ship": "z95af4headhunter",
-                "upgrades": {
-                    "talent": [
-                        "intimidation"
-                    ]
-                }
-            },
             {
                 "id": "corranhorn",
                 "points": 75,
@@ -28,6 +17,21 @@
                 "upgrades": {
                     "astromech": [
                         "r2astromech"
+                    ]
+                }
+            },
+            {
+                "id": "airencracken",
+                "points": 36,
+                "ship": "z95af4headhunter"
+            },
+            {
+                "id": "lieutenantblount",
+                "points": 33,
+                "ship": "z95af4headhunter",
+                "upgrades": {
+                    "talent": [
+                        "intimidation"
                     ]
                 }
             },
@@ -43,16 +47,16 @@
                         "leiaorgana"
                     ]
                 }
-            },
-            {
-                "id": "airencracken",
-                "points": 36,
-                "ship": "z95af4headhunter",
-                "upgrades": {}
             }
         ],
         "points": 197,
-        "vendor": {},
+        "vendor": {
+            "yasb": {
+                "builder": "(Yet Another) X-Wing Miniatures Squad Builder",
+                "builder_url": "https://raithos.github.io",
+                "link": "https://raithos.github.io/?f=Rebel%20Alliance&d=v8ZsZ200Z21XWWW2WY54XWWY55X122WWY36XWW46WWW140&sn=Unnamed%20Squadron&obs=core2asteroid0,gascloud1,gascloud2"
+            }
+        },
         "version": "2.0.0"
     },
     "Name": "Michael Spin",

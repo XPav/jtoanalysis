@@ -44,8 +44,7 @@
             {
                 "id": "alphasquadronpilot",
                 "points": 31,
-                "ship": "tieininterceptor",
-                "upgrades": {}
+                "ship": "tieininterceptor"
             },
             {
                 "id": "valenrudor",
@@ -60,12 +59,17 @@
             {
                 "id": "gideonhask",
                 "points": 30,
-                "ship": "tielnfighter",
-                "upgrades": {}
+                "ship": "tielnfighter"
             }
         ],
         "points": 197,
-        "vendor": {},
+        "vendor": {
+            "yasb": {
+                "builder": "(Yet Another) X-Wing Miniatures Squad Builder",
+                "builder_url": "https://raithos.github.io",
+                "link": "https://raithos.github.io/?f=Galactic%20Empire&d=v8ZsZ200Z163X122W113WWW108W144W11Y201XW111WW236Y182XWY225X122WY223XW&sn=BobbySapphire%20JTO&obs="
+            }
+        },
         "version": "2.0.0"
     },
     "Name": "Mike Gemme",

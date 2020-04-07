@@ -5,12 +5,16 @@
     "Final": {
         "faction": "scumandvillainy",
         "name": "Jan Ullerup JTO",
+        "obstacles": [
+            "coreasteroid5",
+            "core2asteroid4",
+            "core2asteroid5"
+        ],
         "pilots": [
             {
                 "id": "autopilotdrone",
                 "points": 12,
-                "ship": "escapecraft",
-                "upgrades": {}
+                "ship": "escapecraft"
             },
             {
                 "id": "landocalrissian-escapecraft",
@@ -72,7 +76,13 @@
             }
         ],
         "points": 198,
-        "vendor": {},
+        "vendor": {
+            "yasb": {
+                "builder": "(Yet Another) X-Wing Miniatures Squad Builder",
+                "builder_url": "https://raithos.github.io",
+                "link": "https://raithos.github.io/?f=Scum%20and%20Villainy&d=v8ZsZ200Z96XY93X125W30WY154XWWW22WW79W93WW150Y142X206WW317W93WY132XWW13&sn=Jan%20Ullerup%20JTO&obs=coreasteroid5,core2asteroid4,core2asteroid5"
+            }
+        },
         "version": "2.0.0"
     },
     "Name": "Jan Ullerup",

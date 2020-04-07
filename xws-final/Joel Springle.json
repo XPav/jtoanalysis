@@ -3,6 +3,7 @@
     "Discord": "Joel Springle",
     "Drop": "Agile gunner from Countdown",
     "Final": {
+        "description": "",
         "faction": "galacticempire",
         "name": "Joel Springle JTO",
         "obstacles": [
@@ -13,6 +14,7 @@
         "pilots": [
             {
                 "id": "countdown",
+                "name": "countdown",
                 "points": 59,
                 "ship": "tieskstriker",
                 "upgrades": {
@@ -29,6 +31,7 @@
             },
             {
                 "id": "alphasquadronpilot",
+                "name": "alphasquadronpilot",
                 "points": 46,
                 "ship": "tieininterceptor",
                 "upgrades": {
@@ -40,6 +43,7 @@
             },
             {
                 "id": "scarifbasepilot",
+                "name": "scarifbasepilot",
                 "points": 63,
                 "ship": "tiereaper",
                 "upgrades": {
@@ -54,13 +58,19 @@
             },
             {
                 "id": "delmeeko",
+                "name": "delmeeko",
                 "points": 30,
-                "ship": "tielnfighter",
-                "upgrades": {}
+                "ship": "tielnfighter"
             }
         ],
         "points": 198,
-        "vendor": {},
+        "vendor": {
+            "yasb": {
+                "builder": "Yet Another Squad Builder 2.0",
+                "builder_url": "https://raithos.github.io/",
+                "link": "https://raithos.github.io/?f=Galactic%20Empire&d=v8ZsZ200Z209X132WW68W165Y182X166W164Y186X60W26W108Y222XW&sn=Joel%20Springle%20JTO&obs=gascloud1,gascloud2,gascloud3"
+            }
+        },
         "version": "2.0.0"
     },
     "Name": "Joel Springle",

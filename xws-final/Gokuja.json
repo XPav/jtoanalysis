@@ -43,20 +43,24 @@
                 }
             },
             {
-                "id": "bossk-z95af4headhunter",
+                "id": "bossk-z-95headhunter",
                 "points": 29,
-                "ship": "z95af4headhunter",
-                "upgrades": {}
+                "ship": "z95af4headhunter"
             },
             {
                 "id": "landocalrissian-escapecraft",
                 "points": 29,
-                "ship": "escapecraft",
-                "upgrades": {}
+                "ship": "escapecraft"
             }
         ],
         "points": 200,
-        "vendor": {},
+        "vendor": {
+            "yasb": {
+                "builder": "(Yet Another) X-Wing Miniatures Squad Builder",
+                "builder_url": "https://raithos.github.io",
+                "link": "https://raithos.github.io/?f=Scum%20and%20Villainy&d=v8ZsZ200Z85XWW136W83WWWWY140XW206WW316WWY302X256WY398XWWWY93XWW&sn=Blackjack&obs="
+            }
+        },
         "version": "2.0.0"
     },
     "Name": "Virgil Hayward",

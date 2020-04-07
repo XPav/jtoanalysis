@@ -9,8 +9,7 @@
             {
                 "id": "barrissoffee",
                 "points": 38,
-                "ship": "delta7aethersprite",
-                "upgrades": {}
+                "ship": "delta7aethersprite"
             },
             {
                 "id": "saeseetiin",
@@ -35,8 +34,7 @@
             {
                 "id": "goji",
                 "points": 32,
-                "ship": "btlbywing",
-                "upgrades": {}
+                "ship": "btlbywing"
             },
             {
                 "id": "wolffe",
@@ -50,7 +48,13 @@
             }
         ],
         "points": 199,
-        "vendor": {},
+        "vendor": {
+            "yasb": {
+                "builder": "(Yet Another) X-Wing Miniatures Squad Builder",
+                "builder_url": "https://raithos.github.io",
+                "link": "https://raithos.github.io/?f=Galactic%20Republic&d=v8ZsZ200Z275XWWWY313XWW200WY321X101WY363XWWWWWY342XWW53WWW&sn=Janky%20Jedi&obs="
+            }
+        },
         "version": "2.0.0"
     },
     "Name": "Jared Plitt",

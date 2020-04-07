@@ -45,7 +45,13 @@
             }
         ],
         "points": 190,
-        "vendor": {},
+        "vendor": {
+            "yasb": {
+                "builder": "(Yet Another) X-Wing Miniatures Squad Builder",
+                "builder_url": "https://raithos.github.io",
+                "link": "https://raithos.github.io/?f=First%20Order&d=v8ZsZ200Z386XWW98Y289XWW32W180WW12W111WY259XWWWW109&sn=Chris%20Allen%20JTO&obs="
+            }
+        },
         "version": "2.0.0"
     },
     "Name": "Chris Allen",

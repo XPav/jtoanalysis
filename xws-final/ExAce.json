@@ -38,7 +38,13 @@
             }
         ],
         "points": 199,
-        "vendor": {},
+        "vendor": {
+            "yasb": {
+                "builder": "(Yet Another) X-Wing Miniatures Squad Builder",
+                "builder_url": "https://raithos.github.io",
+                "link": "https://raithos.github.io/?f=Galactic%20Empire&d=v8ZsZ200Z192XWWW98WWWWY216XWWWWWWW147Y215XWW15WWWWWW&sn=One&obs="
+            }
+        },
         "version": "2.0.0"
     },
     "Name": "Keith Wong",

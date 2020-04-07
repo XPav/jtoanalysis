@@ -1,7 +1,7 @@
 {
-    "Add": "Slave 1 to Kath Scarlet",
+    "Add": "",
     "Discord": "Dneye#6225",
-    "Drop": "Cluster Missiles from Kath Scarlet",
+    "Drop": "",
     "Final": {
         "faction": "scumandvillainy",
         "name": "Joshua Bray JTO",
@@ -25,104 +25,28 @@
             {
                 "id": "guri",
                 "points": 64,
-                "ship": "starviperclassattackplatform",
-                "upgrades": {}
+                "ship": "starviperclassattackplatform"
             },
             {
                 "id": "landocalrissian",
                 "points": 49,
-                "ship": "customizedyt1300lightfreighter",
-                "upgrades": {}
+                "ship": "customizedyt1300lightfreighter"
             }
         ],
         "points": 196,
-        "vendor": {},
+        "vendor": {
+            "yasb": {
+                "builder": "(Yet Another) X-Wing Miniatures Squad Builder",
+                "builder_url": "https://raithos.github.io",
+                "link": "https://raithos.github.io/?f=Scum%20and%20Villainy&d=v8ZsZ200Z105XW10WW63WWWW161WY147XWWWWY90XWWWWWWW&sn=Joshua%20Bray%20JTO&obs="
+            }
+        },
         "version": "2.0.0"
     },
     "Name": "Joshua Bray",
-    "Option1": {
-        "faction": "scumandvillainy",
-        "name": "Random Squad",
-        "pilots": [
-            {
-                "id": "kathscarlet",
-                "points": 87,
-                "ship": "firesprayclasspatrolcraft",
-                "upgrades": {
-                    "cannon": [
-                        "heavylasercannon"
-                    ],
-                    "crew": [
-                        "000"
-                    ],
-                    "missile": [
-                        "clustermissiles"
-                    ]
-                }
-            },
-            {
-                "id": "guri",
-                "points": 64,
-                "ship": "starviperclassattackplatform",
-                "upgrades": {}
-            },
-            {
-                "id": "landocalrissian",
-                "points": 49,
-                "ship": "customizedyt1300lightfreighter",
-                "upgrades": {}
-            }
-        ],
-        "points": 200,
-        "vendor": {},
-        "version": "2.0.0"
-    },
-    "Option2": {
-        "faction": "resistance",
-        "name": "Random Squad",
-        "pilots": [
-            {
-                "id": "covanell",
-                "points": 47,
-                "ship": "resistancetransport",
-                "upgrades": {
-                    "torpedo": [
-                        "plasmatorpedoes"
-                    ]
-                }
-            },
-            {
-                "id": "lieutenantbastian",
-                "points": 47,
-                "ship": "t70xwing",
-                "upgrades": {
-                    "configuration": [
-                        "integratedsfoils"
-                    ]
-                }
-            },
-            {
-                "id": "edonkappehl",
-                "points": 65,
-                "ship": "mg100starfortress",
-                "upgrades": {
-                    "device": [
-                        "protonbombs"
-                    ]
-                }
-            },
-            {
-                "id": "kazudaxiono",
-                "points": 40,
-                "ship": "fireball",
-                "upgrades": {}
-            }
-        ],
-        "points": 199,
-        "vendor": {},
-        "version": "2.0.0"
-    },
-    "TTT": "Justin Brown",
-    "VassalForm1": "Dneye",
+    "Option1": null,
+    "Option2": null,
+    "TTT": "Joshua Bray",
+    "VassalForm1": "",
     "VassalForm2": "Dneye"
 }

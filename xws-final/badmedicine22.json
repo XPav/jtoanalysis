@@ -55,7 +55,7 @@
                 }
             },
             {
-                "id": "bossk-z95af4headhunter",
+                "id": "bossk-z-95headhunter",
                 "points": 35,
                 "ship": "z95af4headhunter",
                 "upgrades": {
@@ -67,12 +67,17 @@
             {
                 "id": "nashtahpup",
                 "points": 6,
-                "ship": "z95af4headhunter",
-                "upgrades": {}
+                "ship": "z95af4headhunter"
             }
         ],
         "points": 198,
-        "vendor": {},
+        "vendor": {
+            "yasb": {
+                "builder": "(Yet Another) X-Wing Miniatures Squad Builder",
+                "builder_url": "https://raithos.github.io",
+                "link": "https://raithos.github.io/?f=Scum%20and%20Villainy&d=v8ZsZ200Z152X124WW99W66W53W80W92W106W150Y86X122W137WW79WW317WWY398X126WWWY160XWW&sn=Random%20Squad&obs="
+            }
+        },
         "version": "2.0.0"
     },
     "Name": "Patrick Huffman",

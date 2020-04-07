@@ -22,24 +22,27 @@
             {
                 "id": "resistancesympathizer",
                 "points": 60,
-                "ship": "scavengedyt1300",
-                "upgrades": {}
+                "ship": "scavengedyt1300"
             },
             {
                 "id": "rey",
                 "points": 70,
-                "ship": "scavengedyt1300",
-                "upgrades": {}
+                "ship": "scavengedyt1300"
             },
             {
                 "id": "rosetico",
                 "points": 26,
-                "ship": "resistancetransportpod",
-                "upgrades": {}
+                "ship": "resistancetransportpod"
             }
         ],
         "points": 200,
-        "vendor": {},
+        "vendor": {
+            "yasb": {
+                "builder": "(Yet Another) X-Wing Miniatures Squad Builder",
+                "builder_url": "https://raithos.github.io",
+                "link": "https://raithos.github.io/?f=Resistance&d=v8ZsZ200Z270X133WWW186Y295XWWWWWWY244XWWWWWWWY345XWWW&sn=Nick%20Worsley%20JTO&obs="
+            }
+        },
         "version": "2.0.0"
     },
     "Name": "Nick Worsley",

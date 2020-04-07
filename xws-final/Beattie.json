@@ -49,12 +49,17 @@
             {
                 "id": "ezrabridger",
                 "points": 40,
-                "ship": "attackshuttle",
-                "upgrades": {}
+                "ship": "attackshuttle"
             }
         ],
         "points": 199,
-        "vendor": {},
+        "vendor": {
+            "yasb": {
+                "builder": "(Yet Another) X-Wing Miniatures Squad Builder",
+                "builder_url": "https://raithos.github.io",
+                "link": "https://raithos.github.io/?f=Rebel%20Alliance&d=v8ZsZ200Z29XWWWW164WWY25XW138WWWWWY68XWW137WY26XWWWWW70WY67XWWWW&sn=Jonathan%20Beattie%20JTO&obs="
+            }
+        },
         "version": "2.0.0"
     },
     "Name": "Jonathan Beattie",

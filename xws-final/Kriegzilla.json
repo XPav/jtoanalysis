@@ -63,7 +63,13 @@
             }
         ],
         "points": 199,
-        "vendor": {},
+        "vendor": {
+            "yasb": {
+                "builder": "(Yet Another) X-Wing Miniatures Squad Builder",
+                "builder_url": "https://raithos.github.io",
+                "link": "https://raithos.github.io/?f=Separatist%20Alliance&d=v8ZsZ200Z344X126W222WW229Y343X224WWY335XW10W136W59WWWW216WY326XWW70WW&sn=Ian%20Campbell%20JTO&obs="
+            }
+        },
         "version": "2.0.0"
     },
     "Name": "Ian Campbell",

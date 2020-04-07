@@ -40,8 +40,7 @@
             {
                 "id": "kaatoleeachos",
                 "points": 27,
-                "ship": "z95af4headhunter",
-                "upgrades": {}
+                "ship": "z95af4headhunter"
             },
             {
                 "id": "ndrusuhlak",
@@ -61,7 +60,13 @@
             }
         ],
         "points": 199,
-        "vendor": {},
+        "vendor": {
+            "yasb": {
+                "builder": "(Yet Another) X-Wing Miniatures Squad Builder",
+                "builder_url": "https://raithos.github.io",
+                "link": "https://raithos.github.io/?f=Scum%20and%20Villainy&d=v8ZsZ200Z127XW63WWWW160Y98X125W134Y157XWWWY156XW98W92W164&sn=Jared%20Schwarze%20JTO&obs=yt2400debris0,yt2400debris1,yt2400debris2"
+            }
+        },
         "version": "2.0.0"
     },
     "Name": "Jared Schwarze",

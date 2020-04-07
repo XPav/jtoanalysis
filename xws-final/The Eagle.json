@@ -4,13 +4,18 @@
     "Drop": "Shield upgrade from Iden",
     "Final": {
         "faction": "galacticempire",
-        "name": "The Eagle (Arnar) JTO",
+        "name": "2.0 JTO list",
+        "obstacles": [
+            "core2asteroid1",
+            "core2asteroid3",
+            "core2asteroid5"
+        ],
         "pilots": [
             {
                 "id": "sabersquadronace",
                 "points": 36,
                 "ship": "tieininterceptor",
-                "upgrades": {}
+                "upgrades": []
             },
             {
                 "id": "tomaxbren",
@@ -59,7 +64,7 @@
             }
         ],
         "points": 199,
-        "vendor": {},
+        "vendor": [],
         "version": "2.0.0"
     },
     "Name": "Arnar Bjornsson",

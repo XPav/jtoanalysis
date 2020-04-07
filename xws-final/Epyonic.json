@@ -63,7 +63,13 @@
             }
         ],
         "points": 199,
-        "vendor": {},
+        "vendor": {
+            "yasb": {
+                "builder": "(Yet Another) X-Wing Miniatures Squad Builder",
+                "builder_url": "https://raithos.github.io",
+                "link": "https://raithos.github.io/?f=Galactic%20Empire&d=v8ZsZ200Z204X133WW98WWWWWY180XW249W108Y395XWW70WY203XW136W311WWWWW106&sn=Janks%20a%20Ton&obs=coreasteroid5,yt2400debris2,core2asteroid5"
+            }
+        },
         "version": "2.0.0"
     },
     "Name": "Daniel Leon",

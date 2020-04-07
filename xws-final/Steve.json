@@ -25,7 +25,7 @@
                 "id": "ronithblario",
                 "points": 34,
                 "ship": "rz2awing",
-                "upgrades": {}
+                "upgrades": []
             },
             {
                 "id": "kazudaxiono",
@@ -41,17 +41,17 @@
                 "id": "paigetico",
                 "points": 60,
                 "ship": "mg100starfortress",
-                "upgrades": {}
+                "upgrades": []
             },
             {
                 "id": "colossusstationmechanic",
                 "points": 26,
                 "ship": "fireball",
-                "upgrades": {}
+                "upgrades": []
             }
         ],
         "points": 197,
-        "vendor": {},
+        "vendor": [],
         "version": "2.0.0"
     },
     "Name": "Colin Miner",

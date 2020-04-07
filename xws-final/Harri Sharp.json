@@ -51,8 +51,7 @@
             {
                 "id": "binayrepirate",
                 "points": 22,
-                "ship": "z95af4headhunter",
-                "upgrades": {}
+                "ship": "z95af4headhunter"
             },
             {
                 "id": "solsixxa",
@@ -67,12 +66,17 @@
             {
                 "id": "binayrepirate",
                 "points": 22,
-                "ship": "z95af4headhunter",
-                "upgrades": {}
+                "ship": "z95af4headhunter"
             }
         ],
         "points": 199,
-        "vendor": {},
+        "vendor": {
+            "yasb": {
+                "builder": "(Yet Another) X-Wing Miniatures Squad Builder",
+                "builder_url": "https://raithos.github.io",
+                "link": "https://raithos.github.io/?f=Scum%20and%20Villainy&d=v8ZsZ200Z158X125W99WWY158XW99W93WY230X43W71W94WWWY159XWWY145XWWWW70WWWY159XWW&sn=Harrison%20Sharp%20JTO&obs="
+            }
+        },
         "version": "2.0.0"
     },
     "Name": "Harrison Sharp ",

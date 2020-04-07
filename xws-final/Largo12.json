@@ -48,12 +48,17 @@
             {
                 "id": "static",
                 "points": 33,
-                "ship": "tiefofighter",
-                "upgrades": {}
+                "ship": "tiefofighter"
             }
         ],
         "points": 198,
-        "vendor": {},
+        "vendor": {
+            "yasb": {
+                "builder": "(Yet Another) X-Wing Miniatures Squad Builder",
+                "builder_url": "https://raithos.github.io",
+                "link": "https://raithos.github.io/?f=First%20Order&d=v8ZsZ200Z265X206W249Y284XW178W134WY242XWWW182W111WY264XWW&sn=Romain%20Bonnet%20JTO&obs="
+            }
+        },
         "version": "2.0.0"
     },
     "Name": "Romain Bonnet",

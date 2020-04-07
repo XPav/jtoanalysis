@@ -35,8 +35,7 @@
             {
                 "id": "plokoon",
                 "points": 44,
-                "ship": "delta7aethersprite",
-                "upgrades": {}
+                "ship": "delta7aethersprite"
             },
             {
                 "id": "jediknight",
@@ -53,7 +52,13 @@
             }
         ],
         "points": 200,
-        "vendor": {},
+        "vendor": {
+            "yasb": {
+                "builder": "(Yet Another) X-Wing Miniatures Squad Builder",
+                "builder_url": "https://raithos.github.io",
+                "link": "https://raithos.github.io/?f=Galactic%20Republic&d=v8ZsZ200Z333XW240W214WY277X250WWW247Y312XWWWY277X74WW201W&sn=Greg%20Farrell%20JTO&obs="
+            }
+        },
         "version": "2.0.0"
     },
     "Name": "Greg Farrell",

@@ -32,8 +32,7 @@
             {
                 "id": "wolffe",
                 "points": 50,
-                "ship": "arc170starfighter",
-                "upgrades": {}
+                "ship": "arc170starfighter"
             },
             {
                 "id": "broadside",
@@ -47,7 +46,13 @@
             }
         ],
         "points": 200,
-        "vendor": {},
+        "vendor": {
+            "yasb": {
+                "builder": "(Yet Another) X-Wing Miniatures Squad Builder",
+                "builder_url": "https://raithos.github.io",
+                "link": "https://raithos.github.io/?f=Galactic%20Republic&d=v8ZsZ200Z323XW2WY276X74WW201WY342XWWWWWY364XW138WWWWW&sn=Charles%20Holcomb%20JTO&obs="
+            }
+        },
         "version": "2.0.0"
     },
     "Name": "Charles Holcomb",

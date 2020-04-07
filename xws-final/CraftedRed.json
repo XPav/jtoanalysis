@@ -2,7 +2,65 @@
     "Add": "OM onto Ember",
     "Discord": "CraftedRed#4028",
     "Drop": "Static Vanes off LeHuse",
-    "Final": null,
+    "Final": {
+        "description": "",
+        "faction": "firstorder",
+        "name": "Dale Cromwell JTO",
+        "pilots": [
+            {
+                "id": "ember",
+                "points": 58,
+                "ship": "tiebainterceptor",
+                "upgrades": {
+                    "talent": [
+                        "outmaneuver"
+                    ]
+                }
+            },
+            {
+                "id": "lieutenantlehuse",
+                "points": 56,
+                "ship": "tiesffighter",
+                "upgrades": {
+                    "gunner": [
+                        "hotshotgunner"
+                    ],
+                    "sensor": [
+                        "passivesensors"
+                    ],
+                    "talent": [
+                        "intimidation"
+                    ],
+                    "tech": [
+                        "advancedoptics"
+                    ]
+                }
+            },
+            {
+                "id": "lieutenanttavson",
+                "points": 83,
+                "ship": "upsilonclassshuttle",
+                "upgrades": {
+                    "crew": [
+                        "captainphasma"
+                    ],
+                    "tech": [
+                        "hyperspacetrackingdata",
+                        "advancedoptics"
+                    ]
+                }
+            }
+        ],
+        "points": 197,
+        "vendor": {
+            "lbn": {
+                "builder": "Launch Bay Next",
+                "builder_url": "https://launch-bay-next.herokuapp.com",
+                "link": "https://launch-bay-next.herokuapp.com/print?lbx='Dale%20Cromwell%20JTO'.197.5.0.(69.626.(1.240)).(50.641.(16.278).(2.577).(1.236).(19.460)).(51.411.(8.465).(19.461.460))"
+            }
+        },
+        "version": "2.0.4"
+    },
     "Name": "Dale Cromwell",
     "Option1": {
         "faction": "firstorder",

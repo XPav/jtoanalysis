@@ -3,11 +3,13 @@
     "Discord": "HeretikalOrca#3832",
     "Drop": "Biohex from Sinear-Jaemus",
     "Final": {
+        "description": "",
         "faction": "firstorder",
         "name": "HeretikalOrca JTO",
         "pilots": [
             {
                 "id": "midnight",
+                "name": "midnight",
                 "points": 51,
                 "ship": "tiefofighter",
                 "upgrades": {
@@ -24,6 +26,7 @@
             },
             {
                 "id": "sienarjaemusengineer",
+                "name": "sienarjaemusengineer",
                 "points": 69,
                 "ship": "tievnsilencer",
                 "upgrades": {
@@ -40,6 +43,7 @@
             },
             {
                 "id": "rush",
+                "name": "rush",
                 "points": 80,
                 "ship": "tievnsilencer",
                 "upgrades": {
@@ -56,7 +60,13 @@
             }
         ],
         "points": 200,
-        "vendor": {},
+        "vendor": {
+            "yasb": {
+                "builder": "Yet Another Squad Builder 2.0",
+                "builder_url": "https://raithos.github.io/",
+                "link": "https://raithos.github.io/?f=First%20Order&d=v8ZsZ200Z233X256W202W108Y286X206W134W102Y386X186W136W99&sn=HeretikalOrca%20JTO&obs="
+            }
+        },
         "version": "2.0.0"
     },
     "Name": "Connor Carpenter",

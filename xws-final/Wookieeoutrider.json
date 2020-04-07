@@ -4,24 +4,7 @@
     "Drop": "Advanced sensors from onyx defender ",
     "Final": {
         "faction": "galacticempire",
-        "name": "Imp hunter squadron",
         "pilots": [
-            {
-                "id": "onyxsquadronace",
-                "points": 82,
-                "ship": "tieddefender",
-                "upgrades": {
-                    "cannon": [
-                        "jammingbeam"
-                    ],
-                    "missile": [
-                        "concussionmissiles"
-                    ],
-                    "talent": [
-                        "daredevil"
-                    ]
-                }
-            },
             {
                 "id": "coloneljendon",
                 "points": 60,
@@ -42,6 +25,22 @@
                 }
             },
             {
+                "id": "onyxsquadronace",
+                "points": 82,
+                "ship": "tieddefender",
+                "upgrades": {
+                    "cannon": [
+                        "jammingbeam"
+                    ],
+                    "missile": [
+                        "concussionmissiles"
+                    ],
+                    "talent": [
+                        "daredevil"
+                    ]
+                }
+            },
+            {
                 "id": "fifthbrother",
                 "points": 52,
                 "ship": "tieadvancedv1",
@@ -56,7 +55,13 @@
             }
         ],
         "points": 194,
-        "vendor": {},
+        "vendor": {
+            "yasb": {
+                "builder": "(Yet Another) X-Wing Miniatures Squad Builder",
+                "builder_url": "https://raithos.github.io",
+                "link": "https://raithos.github.io/?f=Galactic%20Empire&d=v8ZsZ200Z167X113WW38WW249W162Y197X117WW12W99Y394X75WW100&sn=Unnamed%20Squadron&obs="
+            }
+        },
         "version": "2.0.0"
     },
     "Name": "Marc Rider ",

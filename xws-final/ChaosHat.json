@@ -5,6 +5,11 @@
     "Final": {
         "faction": "firstorder",
         "name": "Michael Thiel JTO",
+        "obstacles": [
+            "gascloud3",
+            "gascloud4",
+            "gascloud5"
+        ],
         "pilots": [
             {
                 "id": "majorvonreg",
@@ -31,8 +36,8 @@
                         "autoblasters"
                     ],
                     "crew": [
-                        "captainphasma",
-                        "pettyofficerthanisson"
+                        "pettyofficerthanisson",
+                        "captainphasma"
                     ],
                     "sensor": [
                         "passivesensors"
@@ -57,7 +62,13 @@
             }
         ],
         "points": 187,
-        "vendor": {},
+        "vendor": {
+            "yasb": {
+                "builder": "(Yet Another) X-Wing Miniatures Squad Builder",
+                "builder_url": "https://raithos.github.io",
+                "link": "https://raithos.github.io/?f=First%20Order&d=v8ZsZ200Z381X126WW102W236Y289X206WW194W183WW232W240WY261X202W247&sn=Michael%20Thiel%20JTO&obs=gascloud3,gascloud4,gascloud5"
+            }
+        },
         "version": "2.0.0"
     },
     "Name": "Michael Thiel",

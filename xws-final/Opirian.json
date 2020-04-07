@@ -62,7 +62,13 @@
             }
         ],
         "points": 197,
-        "vendor": {},
+        "vendor": {
+            "yasb": {
+                "builder": "(Yet Another) X-Wing Miniatures Squad Builder",
+                "builder_url": "https://raithos.github.io",
+                "link": "https://raithos.github.io/?f=Scum%20and%20Villainy&d=v8ZsZ200Z87X115WW136WW9W317WWY145X132W138WW86W67WWW149WW1Y105XWWWW71WWW&sn=OPI%20JTO&obs="
+            }
+        },
         "version": "2.0.0"
     },
     "Name": "Matthew Tracy",

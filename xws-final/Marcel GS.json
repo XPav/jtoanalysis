@@ -28,8 +28,7 @@
             {
                 "id": "toranikulda",
                 "points": 48,
-                "ship": "m12lkimogilafighter",
-                "upgrades": {}
+                "ship": "m12lkimogilafighter"
             },
             {
                 "id": "palobgodalhi",
@@ -57,7 +56,13 @@
             }
         ],
         "points": 199,
-        "vendor": {},
+        "vendor": {
+            "yasb": {
+                "builder": "(Yet Another) X-Wing Miniatures Squad Builder",
+                "builder_url": "https://raithos.github.io",
+                "link": "https://raithos.github.io/?f=Scum%20and%20Villainy&d=v8ZsZ200Z113X124WWWW164W106WY129XWWWWWY112XWWWW164W236WY117XW234W11WWWWW&sn=Marcel%20Manzano%20JTO&obs=gascloud4,gascloud5,gascloud6"
+            }
+        },
         "version": "2.0.0"
     },
     "Name": "Marcel Manzano",

@@ -45,12 +45,17 @@
             {
                 "id": "autopilotdrone",
                 "points": 12,
-                "ship": "escapecraft",
-                "upgrades": {}
+                "ship": "escapecraft"
             }
         ],
         "points": 199,
-        "vendor": {},
+        "vendor": {
+            "yasb": {
+                "builder": "(Yet Another) X-Wing Miniatures Squad Builder",
+                "builder_url": "https://raithos.github.io",
+                "link": "https://raithos.github.io/?f=Scum%20and%20Villainy&d=v8ZsZ200Z124X99WWW106WY147XW111WWWY153X116WWW53WWWWWY96X&sn=Britton%20Carr%20JTO&obs="
+            }
+        },
         "version": "2.0.0"
     },
     "Name": "Britton Carr",

@@ -52,8 +52,8 @@
                         "heavylasercannon"
                     ],
                     "crew": [
-                        "countdooku",
-                        "novicetechnician"
+                        "novicetechnician",
+                        "countdooku"
                     ],
                     "device": [
                         "connernets"
@@ -75,14 +75,20 @@
                 "ship": "nantexclassstarfighter",
                 "upgrades": {
                     "talent": [
-                        "graviticdeflection",
-                        "composure"
+                        "composure",
+                        "graviticdeflection"
                     ]
                 }
             }
         ],
         "points": 199,
-        "vendor": {},
+        "vendor": {
+            "yasb": {
+                "builder": "(Yet Another) X-Wing Miniatures Squad Builder",
+                "builder_url": "https://raithos.github.io",
+                "link": "https://raithos.github.io/?f=Separatist%20Alliance&d=v8ZsZ200Z343X224W208W164Y279X224W208W166Y336X10W234W53W218W68WW216W223Y354X115W255&sn=Tommy%20Adams%20JTO&obs=vt49decimatordebris0,vt49decimatordebris1,vt49decimatordebris2"
+            }
+        },
         "version": "2.0.0"
     },
     "Name": "Tommy Adams",

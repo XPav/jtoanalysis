@@ -52,7 +52,13 @@
             }
         ],
         "points": 196,
-        "vendor": {},
+        "vendor": {
+            "yasb": {
+                "builder": "(Yet Another) X-Wing Miniatures Squad Builder",
+                "builder_url": "https://raithos.github.io",
+                "link": "https://raithos.github.io/?f=First%20Order&d=v8ZsZ200Z384XW318W98WY382X132W202WWY237X126W178WW&sn=Noah%20Routhier%20JTO&obs=yt2400debris0,yt2400debris1,gascloud5"
+            }
+        },
         "version": "2.0.0"
     },
     "Name": "Noah Routhier",

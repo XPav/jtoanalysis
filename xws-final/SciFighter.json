@@ -14,20 +14,17 @@
             {
                 "id": "lieutenantkestal",
                 "points": 31,
-                "ship": "tieagaggressor",
-                "upgrades": {}
+                "ship": "tieagaggressor"
             },
             {
                 "id": "countdown",
                 "points": 44,
-                "ship": "tieskstriker",
-                "upgrades": {}
+                "ship": "tieskstriker"
             },
             {
                 "id": "duchess",
                 "points": 42,
-                "ship": "tieskstriker",
-                "upgrades": {}
+                "ship": "tieskstriker"
             },
             {
                 "id": "rearadmiralchiraneau",
@@ -41,7 +38,13 @@
             }
         ],
         "points": 197,
-        "vendor": {},
+        "vendor": {
+            "yasb": {
+                "builder": "(Yet Another) X-Wing Miniatures Squad Builder",
+                "builder_url": "https://raithos.github.io",
+                "link": "https://raithos.github.io/?f=Galactic%20Empire&d=v8ZsZ200Z187XWWWWWY209XWWWY211XWWWY214XWWWWWWWW147&sn=Jankdown&obs=core2asteroid0,core2asteroid1,core2asteroid2"
+            }
+        },
         "version": "2.0.0"
     },
     "Name": "Jeff Wilson",

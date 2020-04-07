@@ -21,8 +21,7 @@
             {
                 "id": "roguesquadronescort",
                 "points": 53,
-                "ship": "ewing",
-                "upgrades": {}
+                "ship": "ewing"
             },
             {
                 "id": "dutchvander",
@@ -52,7 +51,13 @@
             }
         ],
         "points": 199,
-        "vendor": {},
+        "vendor": {
+            "yasb": {
+                "builder": "(Yet Another) X-Wing Miniatures Squad Builder",
+                "builder_url": "https://raithos.github.io",
+                "link": "https://raithos.github.io/?f=Rebel%20Alliance&d=v8ZsZ200Z67X72WWWW167Y23XWWWWY27XW138WW7WWWY3XWW2WW142&sn=Unnamed%20Squadron&obs="
+            }
+        },
         "version": "2.0.0"
     },
     "Name": "Greg Smith",

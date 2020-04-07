@@ -3,49 +3,77 @@
     "Discord": "Snootches#3650",
     "Drop": "Target Sync from Sienar Engineer ",
     "Final": {
-        "faction": "firstorder",
+        "faction": "separatistalliance",
         "name": "Ben Doyle JTO",
+        "obstacles": [
+            "coreasteroid2",
+            "coreasteroid3",
+            "coreasteroid4"
+        ],
         "pilots": [
             {
-                "id": "pettyofficerthanisson",
-                "points": 70,
-                "ship": "upsilonclasscommandshuttle",
+                "id": "feethanottrawautopilot",
+                "points": 35,
+                "ship": "belbullab22starfighter"
+            },
+            {
+                "id": "baktoidprototype",
+                "points": 37,
+                "ship": "hyenaclassdroidbomber",
                 "upgrades": {
-                    "modification": [
-                        "electronicbaffle"
+                    "configuration": [
+                        "landingstruts"
                     ],
-                    "tech": [
-                        "advancedoptics",
-                        "patternanalyzer"
+                    "missile": [
+                        "clustermissiles"
+                    ],
+                    "sensor": [
+                        "passivesensors"
                     ]
                 }
             },
             {
-                "id": "sienarjaemusengineer",
-                "points": 60,
-                "ship": "tievnsilencer",
+                "id": "baktoidprototype",
+                "points": 37,
+                "ship": "hyenaclassdroidbomber",
                 "upgrades": {
-                    "torpedo": [
-                        "plasmatorpedoes"
+                    "missile": [
+                        "concussionmissiles"
+                    ],
+                    "sensor": [
+                        "passivesensors"
                     ]
                 }
             },
             {
-                "id": "starkillerbasepilot",
-                "points": 68,
-                "ship": "upsilonclasscommandshuttle",
+                "id": "chertek",
+                "points": 41,
+                "ship": "nantexclassstarfighter",
                 "upgrades": {
-                    "crew": [
-                        "captainphasma"
-                    ],
-                    "tech": [
-                        "patternanalyzer"
+                    "talent": [
+                        "predator"
                     ]
                 }
+            },
+            {
+                "id": "separatistbomber",
+                "points": 28,
+                "ship": "hyenaclassdroidbomber"
+            },
+            {
+                "id": "separatistdrone",
+                "points": 21,
+                "ship": "vultureclassdroidfighter"
             }
         ],
-        "points": 198,
-        "vendor": {},
+        "points": 199,
+        "vendor": {
+            "yasb": {
+                "builder": "(Yet Another) X-Wing Miniatures Squad Builder",
+                "builder_url": "https://raithos.github.io",
+                "link": "https://raithos.github.io/?f=Separatist%20Alliance&d=v8ZsZ200Z307XWWY329X240W98WWW237Y329X240W99WWWY356X127WY327XWWWWY343XWW&sn=Ben%20Doyle%20JTO&obs=coreasteroid2,coreasteroid3,coreasteroid4"
+            }
+        },
         "version": "2.0.0"
     },
     "Name": "Ben Doyle",

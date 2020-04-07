@@ -3,26 +3,21 @@
     "Discord": "Isophane (daniel lim)#7272",
     "Drop": "Cluster missile from jake",
     "Final": {
+        "description": "",
         "faction": "rebelalliance",
-        "name": "Daniel Lim JTO",
+        "name": "Jank tank goldnock",
         "pilots": [
             {
                 "id": "jakefarrell",
                 "points": 36,
                 "ship": "rz1awing",
-                "upgrades": {}
-            },
-            {
-                "id": "lieutenantblount",
-                "points": 30,
-                "ship": "z95af4headhunter",
-                "upgrades": {}
+                "upgrades": []
             },
             {
                 "id": "fennrau-sheathipedeclassshuttle",
                 "points": 50,
                 "ship": "sheathipedeclassshuttle",
-                "upgrades": {}
+                "upgrades": []
             },
             {
                 "id": "herasyndulla-vcx100lightfreighter",
@@ -36,10 +31,22 @@
                         "tacticalscrambler"
                     ]
                 }
+            },
+            {
+                "id": "lieutenantblount",
+                "points": 30,
+                "ship": "z95af4headhunter",
+                "upgrades": []
             }
         ],
         "points": 199,
-        "vendor": {},
+        "vendor": {
+            "lbn": {
+                "builder": "Launch Bay Next",
+                "builder_url": "https://launch-bay-next.herokuapp.com",
+                "link": "https://launch-bay-next.herokuapp.com/print?lbx='Jank%20tank%20goldnock'.199.1.0.(35.19).(8.38).(23.73.(8.317).(14.302)).(38.28)"
+            }
+        },
         "version": "2.0.0"
     },
     "Name": "Daniel lim",

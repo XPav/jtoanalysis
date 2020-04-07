@@ -27,8 +27,7 @@
             {
                 "id": "vimoradi",
                 "points": 27,
-                "ship": "resistancetransportpod",
-                "upgrades": {}
+                "ship": "resistancetransportpod"
             },
             {
                 "id": "greensquadronexpert",
@@ -71,7 +70,13 @@
             }
         ],
         "points": 196,
-        "vendor": {},
+        "vendor": {
+            "yasb": {
+                "builder": "(Yet Another) X-Wing Miniatures Squad Builder",
+                "builder_url": "https://raithos.github.io",
+                "link": "https://raithos.github.io/?f=Resistance&d=v8ZsZ200Z345X132W178WWY348XWWY300X117WW99W186Y347XW232WW244WWWY379XWW310WWW&sn=Thomas%20Wittenberg%20JTO&obs=gascloud1,gascloud4,gascloud6"
+            }
+        },
         "version": "2.0.0"
     },
     "Name": "Thomas Wittenberg",

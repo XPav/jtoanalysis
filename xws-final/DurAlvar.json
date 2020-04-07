@@ -60,7 +60,13 @@
             }
         ],
         "points": 197,
-        "vendor": {},
+        "vendor": {
+            "yasb": {
+                "builder": "(Yet Another) X-Wing Miniatures Squad Builder",
+                "builder_url": "https://raithos.github.io",
+                "link": "https://raithos.github.io/?f=Galactic%20Empire&d=v8ZsZ200Z167X113W10W26WW164WY190XW97WWWY170XWW99Y207XW135WWWWWW109&sn=Luke%20Thompson%20JTO&obs="
+            }
+        },
         "version": "2.0.0"
     },
     "Name": "Luke Thompson",

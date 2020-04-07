@@ -3,6 +3,7 @@
     "Discord": "Travis#9016",
     "Drop": "Crack shot from Kickback",
     "Final": {
+        "description": "",
         "faction": "galacticrepublic",
         "name": "Travis Johannsen JTO",
         "obstacles": [
@@ -13,24 +14,25 @@
         "pilots": [
             {
                 "id": "kickback",
+                "name": "kickback",
                 "points": 33,
-                "ship": "v19torrentstarfighter",
-                "upgrades": {}
+                "ship": "v19torrentstarfighter"
             },
             {
                 "id": "anakinskywalker",
+                "name": "anakinskywalker",
                 "points": 62,
-                "ship": "delta7aethersprite",
-                "upgrades": {}
+                "ship": "delta7aethersprite"
             },
             {
                 "id": "sinker",
+                "name": "sinker",
                 "points": 54,
-                "ship": "arc170starfighter",
-                "upgrades": {}
+                "ship": "arc170starfighter"
             },
             {
                 "id": "wolffe",
+                "name": "wolffe",
                 "points": 51,
                 "ship": "arc170starfighter",
                 "upgrades": {
@@ -41,7 +43,13 @@
             }
         ],
         "points": 200,
-        "vendor": {},
+        "vendor": {
+            "yasb": {
+                "builder": "Yet Another Squad Builder 2.0",
+                "builder_url": "https://raithos.github.io/",
+                "link": "https://raithos.github.io/?f=Galactic%20Republic&d=v8ZsZ200Z315XWWY273XWWWY280XWWWWY342X116WWWWW&sn=Travis%20Johannsen%20JTO&obs=coreasteroid3,coreasteroid5,core2asteroid5"
+            }
+        },
         "version": "2.0.0"
     },
     "Name": "Travis Johannsen",

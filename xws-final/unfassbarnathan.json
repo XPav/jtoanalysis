@@ -64,7 +64,13 @@
             }
         ],
         "points": 198,
-        "vendor": {},
+        "vendor": {
+            "yasb": {
+                "builder": "(Yet Another) X-Wing Miniatures Squad Builder",
+                "builder_url": "https://raithos.github.io",
+                "link": "https://raithos.github.io/?f=Separatist%20Alliance&d=v8ZsZ200Z324XW98W221WWY305X115W222WWY343X99WWY324XWW235WWY344XWW165W&sn=Nathan%20Willcock%20JTO&obs="
+            }
+        },
         "version": "2.0.0"
     },
     "Name": "Nathan Willcock",

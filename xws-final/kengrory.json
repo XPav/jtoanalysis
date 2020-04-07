@@ -47,7 +47,13 @@
             }
         ],
         "points": 199,
-        "vendor": {},
+        "vendor": {
+            "yasb": {
+                "builder": "(Yet Another) X-Wing Miniatures Squad Builder",
+                "builder_url": "https://raithos.github.io",
+                "link": "https://raithos.github.io/?f=Rebel%20Alliance&d=v8ZsZ200Z63XWWW21WW110WWY80XW136W54WW3WY18XWW97WWWWW&sn=Kenny%20Turner%20JTO&obs="
+            }
+        },
         "version": "2.0.0"
     },
     "Name": "Kenny Turner",

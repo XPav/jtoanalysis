@@ -3,6 +3,7 @@
     "Discord": "Red Squad Bench Warmer#5274",
     "Drop": "Shield Upgrade from Swoop",
     "Final": {
+        "description": "",
         "faction": "galacticrepublic",
         "name": "Jay Davis JTO",
         "obstacles": [
@@ -13,6 +14,7 @@
         "pilots": [
             {
                 "id": "redsquadronbomber",
+                "name": "redsquadronbomber",
                 "points": 40,
                 "ship": "btlbywing",
                 "upgrades": {
@@ -26,12 +28,13 @@
             },
             {
                 "id": "swoop",
+                "name": "swoop",
                 "points": 31,
-                "ship": "v19torrentstarfighter",
-                "upgrades": {}
+                "ship": "v19torrentstarfighter"
             },
             {
                 "id": "anakinskywalker-nabooroyaln1starfighter",
+                "name": "anakinskywalker-nabooroyaln1starfighter",
                 "points": 47,
                 "ship": "nabooroyaln1starfighter",
                 "upgrades": {
@@ -42,19 +45,25 @@
             },
             {
                 "id": "jediknight",
+                "name": "jediknight",
                 "points": 37,
-                "ship": "delta7aethersprite",
-                "upgrades": {}
+                "ship": "delta7aethersprite"
             },
             {
                 "id": "luminaraunduli",
+                "name": "luminaraunduli",
                 "points": 43,
-                "ship": "delta7aethersprite",
-                "upgrades": {}
+                "ship": "delta7aethersprite"
             }
         ],
         "points": 198,
-        "vendor": {},
+        "vendor": {
+            "yasb": {
+                "builder": "Yet Another Squad Builder 2.0",
+                "builder_url": "https://raithos.github.io/",
+                "link": "https://raithos.github.io/?f=Galactic%20Republic&d=v8ZsZ200Z361X138WWWW69WY317XWWY322XWWW134Y277XWWWY274XWWW&sn=Jay%20Davis%20JTO&obs=yt2400debris0,core2asteroid0,gascloud1"
+            }
+        },
         "version": "2.0.0"
     },
     "Name": "Jay Davis",

@@ -3,11 +3,13 @@
     "Discord": "Moof Milker",
     "Drop": "none",
     "Final": {
+        "description": "",
         "faction": "resistance",
         "name": "Jeff Borrowman JTO",
         "pilots": [
             {
                 "id": "rosetico",
+                "name": "rosetico",
                 "points": 31,
                 "ship": "resistancetransportpod",
                 "upgrades": {
@@ -21,19 +23,21 @@
             },
             {
                 "id": "jaycristubbs",
-                "points": 54,
+                "name": "jaycristubbs",
+                "points": 53,
                 "ship": "t70xwing",
                 "upgrades": {
                     "configuration": [
                         "integratedsfoils"
                     ],
                     "tech": [
-                        "targetingsynchronizer"
+                        "primedthrusters"
                     ]
                 }
             },
             {
                 "id": "hansolo-scavengedyt1300",
+                "name": "hansolo-scavengedyt1300",
                 "points": 73,
                 "ship": "scavengedyt1300",
                 "upgrades": {
@@ -50,6 +54,7 @@
             },
             {
                 "id": "ronithblario",
+                "name": "ronithblario",
                 "points": 40,
                 "ship": "rz2awing",
                 "upgrades": {
@@ -59,8 +64,14 @@
                 }
             }
         ],
-        "points": 198,
-        "vendor": {},
+        "points": 197,
+        "vendor": {
+            "yasb": {
+                "builder": "Yet Another Squad Builder 2.0",
+                "builder_url": "https://raithos.github.io/",
+                "link": "https://raithos.github.io/?f=Resistance&d=v8ZsZ200Z345X127WWW249Y255XWW175W178WWY245X133WWWWW92WW193Y388XWW178&sn=Jeff%20Borrowman%20JTO&obs="
+            }
+        },
         "version": "2.0.0"
     },
     "Name": "Jeff Borrowman",

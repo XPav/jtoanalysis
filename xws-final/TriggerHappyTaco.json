@@ -3,8 +3,9 @@
     "Discord": "TriggerHappyTaco#0952",
     "Drop": "n/a",
     "Final": {
+        "description": "",
         "faction": "resistance",
-        "name": "Daniel Wochnick JTO",
+        "name": "Jank Tank",
         "pilots": [
             {
                 "id": "hansolo-scavengedyt1300",
@@ -30,11 +31,17 @@
                 "id": "resistancesympathizer",
                 "points": 60,
                 "ship": "scavengedyt1300",
-                "upgrades": {}
+                "upgrades": []
             }
         ],
         "points": 200,
-        "vendor": {},
+        "vendor": {
+            "lbn": {
+                "builder": "Launch Bay Next",
+                "builder_url": "https://launch-bay-next.herokuapp.com",
+                "link": "https://launch-bay-next.herokuapp.com/print?lbx='Jank%20Tank'.200.4.0.(57.427.(1.238)).(57.429.(16.278)).(57.430)"
+            }
+        },
         "version": "2.0.0"
     },
     "Name": "Daniel Wochnick",

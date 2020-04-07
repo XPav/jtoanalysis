@@ -3,11 +3,13 @@
     "Discord": "potato hombre#5509",
     "Drop": "Kylo Ren Crew from Starkiller base Pirate",
     "Final": {
+        "description": "",
         "faction": "firstorder",
         "name": "Aaron T Jank Tank",
         "pilots": [
             {
                 "id": "omegasquadronace",
+                "name": "omegasquadronace",
                 "points": 30,
                 "ship": "tiefofighter",
                 "upgrades": {
@@ -21,6 +23,7 @@
             },
             {
                 "id": "lieutenantlehuse",
+                "name": "lieutenantlehuse",
                 "points": 54,
                 "ship": "tiesffighter",
                 "upgrades": {
@@ -37,6 +40,7 @@
             },
             {
                 "id": "starkillerbasepilot",
+                "name": "starkillerbasepilot",
                 "points": 59,
                 "ship": "upsilonclasscommandshuttle",
                 "upgrades": {
@@ -47,6 +51,7 @@
             },
             {
                 "id": "ember",
+                "name": "ember",
                 "points": 54,
                 "ship": "tiebainterceptor",
                 "upgrades": {
@@ -57,7 +62,13 @@
             }
         ],
         "points": 197,
-        "vendor": {},
+        "vendor": {
+            "yasb": {
+                "builder": "Yet Another Squad Builder 2.0",
+                "builder_url": "https://raithos.github.io/",
+                "link": "https://raithos.github.io/?f=First%20Order&d=v8ZsZ200Z267X115WW108Y397X181WWW182W240WY288X202WWWWWWWY383X127WWW&sn=Aaron%20T%20Jank%20Tank&obs="
+            }
+        },
         "version": "2.0.0"
     },
     "Name": "Aaron Troeger",

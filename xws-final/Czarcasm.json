@@ -61,7 +61,13 @@
             }
         ],
         "points": 200,
-        "vendor": {},
+        "vendor": {
+            "yasb": {
+                "builder": "(Yet Another) X-Wing Miniatures Squad Builder",
+                "builder_url": "https://raithos.github.io",
+                "link": "https://raithos.github.io/?f=Resistance&d=v8ZsZ200Z349X132W178W173WY245X124W100WWW187W93WWY260XWWW189WWW69W&sn=Anthony%20Hillen%20JTO&obs=coreasteroid3,coreasteroid4,core2asteroid3"
+            }
+        },
         "version": "2.0.0"
     },
     "Name": "Anthony Hillen",

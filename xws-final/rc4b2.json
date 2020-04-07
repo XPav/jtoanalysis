@@ -6,9 +6,9 @@
         "faction": "scumandvillainy",
         "name": "Ryan Becker JTO",
         "obstacles": [
-            "coreasteroid0",
-            "coreasteroid1",
-            "yt2400debris0"
+            "yt2400debris0",
+            "yt2400debris1",
+            "yt2400debris2"
         ],
         "pilots": [
             {
@@ -53,7 +53,13 @@
             }
         ],
         "points": 200,
-        "vendor": {},
+        "vendor": {
+            "yasb": {
+                "builder": "(Yet Another) X-Wing Miniatures Squad Builder",
+                "builder_url": "https://raithos.github.io",
+                "link": "https://raithos.github.io/?f=Scum%20and%20Villainy&d=v8ZsZ200Z249X256WY128X53WWWWY128XW92WWWY131XWWW8WW&sn=Ryan%20Becker%20JTO&obs=yt2400debris0,yt2400debris1,yt2400debris2"
+            }
+        },
         "version": "2.0.0"
     },
     "Name": "Ryan Becker",

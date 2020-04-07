@@ -5,6 +5,11 @@
     "Final": {
         "faction": "resistance",
         "name": "Andrew Ferguson JTO",
+        "obstacles": [
+            "gascloud2",
+            "gascloud3",
+            "gascloud4"
+        ],
         "pilots": [
             {
                 "id": "kazudaxiono",
@@ -38,8 +43,7 @@
             {
                 "id": "greensquadronexpert",
                 "points": 34,
-                "ship": "rz2awing",
-                "upgrades": {}
+                "ship": "rz2awing"
             },
             {
                 "id": "finn",
@@ -54,12 +58,17 @@
             {
                 "id": "vimoradi",
                 "points": 27,
-                "ship": "resistancetransportpod",
-                "upgrades": {}
+                "ship": "resistancetransportpod"
             }
         ],
         "points": 200,
-        "vendor": {},
+        "vendor": {
+            "yasb": {
+                "builder": "(Yet Another) X-Wing Miniatures Squad Builder",
+                "builder_url": "https://raithos.github.io",
+                "link": "https://raithos.github.io/?f=Resistance&d=v8ZsZ200Z378X256WW195WW164WWY347X206W232WWWWWY300XWWWY350XWW54WY348XWW&sn=Andrew%20Ferguson%20JTO&obs=gascloud2,gascloud3,gascloud4"
+            }
+        },
         "version": "2.0.0"
     },
     "Name": "Andrew Ferguson",

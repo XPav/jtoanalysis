@@ -62,7 +62,13 @@
             }
         ],
         "points": 196,
-        "vendor": {},
+        "vendor": {
+            "yasb": {
+                "builder": "(Yet Another) X-Wing Miniatures Squad Builder",
+                "builder_url": "https://raithos.github.io",
+                "link": "https://raithos.github.io/?f=Scum%20and%20Villainy&d=v8ZsZ200Z109XWW66WW166WY91X98W22W53WW92WW152Y152X115W232WW39WWWWW&sn=Be-%20Pr-%20JTO&obs=gascloud3,gascloud4,gascloud6"
+            }
+        },
         "version": "2.0.0"
     },
     "Name": "Be- Pr-",

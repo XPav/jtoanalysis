@@ -4,7 +4,12 @@
     "Drop": "Cluster Missiels from Lt Blount",
     "Final": {
         "faction": "rebelalliance",
-        "name": "Looryl \"Louie\" Qrygg JTO",
+        "name": "Random Squad",
+        "obstacles": [
+            "yt2400debris1",
+            "core2asteroid0",
+            "gascloud3"
+        ],
         "pilots": [
             {
                 "id": "lieutenantblount",
@@ -47,7 +52,13 @@
             }
         ],
         "points": 200,
-        "vendor": {},
+        "vendor": {
+            "yasb": {
+                "builder": "(Yet Another) X-Wing Miniatures Squad Builder",
+                "builder_url": "https://raithos.github.io",
+                "link": "https://raithos.github.io/?f=Rebel%20Alliance&d=v8ZsZ200Z55X127WWY41XW87WW164WW92Y34XWW314WWW140W&sn=Random%20Squad&obs=yt2400debris1,core2asteroid0,gascloud3"
+            }
+        },
         "version": "2.0.0"
     },
     "Name": "Louis Leong",

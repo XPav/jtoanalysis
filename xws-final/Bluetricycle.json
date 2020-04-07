@@ -28,8 +28,7 @@
             {
                 "id": "jakkugunrunner",
                 "points": 30,
-                "ship": "quadrijettransferspacetug",
-                "upgrades": {}
+                "ship": "quadrijettransferspacetug"
             },
             {
                 "id": "drearenthal",
@@ -44,12 +43,17 @@
             {
                 "id": "blacksunenforcer",
                 "points": 45,
-                "ship": "starviperclassattackplatform",
-                "upgrades": {}
+                "ship": "starviperclassattackplatform"
             }
         ],
         "points": 195,
-        "vendor": {},
+        "vendor": {
+            "yasb": {
+                "builder": "(Yet Another) X-Wing Miniatures Squad Builder",
+                "builder_url": "https://raithos.github.io",
+                "link": "https://raithos.github.io/?f=Scum%20and%20Villainy&d=v8ZsZ200Z128X37W93W94WWY143XWWWWY86XW138WWWWWWY151XWWW&sn=Sebastien%20Demers%20JTO&obs=coreasteroid2,coreasteroid3,core2asteroid0"
+            }
+        },
         "version": "2.0.0"
     },
     "Name": "Sebastien Demers",

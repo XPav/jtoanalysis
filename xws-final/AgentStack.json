@@ -8,7 +8,7 @@
         "obstacles": [
             "coreasteroid3",
             "core2asteroid3",
-            "gascloud3loud3oud3"
+            "gascloud3"
         ],
         "pilots": [
             {
@@ -59,7 +59,13 @@
             }
         ],
         "points": 200,
-        "vendor": {},
+        "vendor": {
+            "yasb": {
+                "builder": "(Yet Another) X-Wing Miniatures Squad Builder",
+                "builder_url": "https://raithos.github.io",
+                "link": "https://raithos.github.io/?f=Rebel%20Alliance&d=v8ZsZ200Z22XWW136W4WY1XWWW142Y14X75WY65X118WWW138W&sn=AgentStack%20JTO&obs=coreasteroid3,core2asteroid3,gascloud3"
+            }
+        },
         "version": "2.0.0"
     },
     "Name": "Matt McAllister ",

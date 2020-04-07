@@ -67,7 +67,13 @@
             }
         ],
         "points": 199,
-        "vendor": {},
+        "vendor": {
+            "yasb": {
+                "builder": "(Yet Another) X-Wing Miniatures Squad Builder",
+                "builder_url": "https://raithos.github.io",
+                "link": "https://raithos.github.io/?f=Galactic%20Empire&d=v8ZsZ200Z189XWW102WWWY161X116WW135WWWY189X115WW101WWWY163XW240WW102WWY206XWWWW70WW&sn=Barrie%20Robertson%20JTO&obs="
+            }
+        },
         "version": "2.0.0"
     },
     "Name": "Barrie Robertson",

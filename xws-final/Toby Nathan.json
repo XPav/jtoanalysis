@@ -14,8 +14,7 @@
             {
                 "id": "jakkugunrunner",
                 "points": 30,
-                "ship": "quadrijettransferspacetug",
-                "upgrades": {}
+                "ship": "quadrijettransferspacetug"
             },
             {
                 "id": "guri",
@@ -55,7 +54,13 @@
             }
         ],
         "points": 194,
-        "vendor": {},
+        "vendor": {
+            "yasb": {
+                "builder": "(Yet Another) X-Wing Miniatures Squad Builder",
+                "builder_url": "https://raithos.github.io",
+                "link": "https://raithos.github.io/?f=Scum%20and%20Villainy&d=v8ZsZ200Z143XWWWWY147X131W114WW247WY140XWWW70WWY88XWW85WWWW&sn=Toby%20Nathan%20JTO&obs=coreasteroid3,coreasteroid4,coreasteroid5"
+            }
+        },
         "version": "2.0.0"
     },
     "Name": "Toby Nathan",

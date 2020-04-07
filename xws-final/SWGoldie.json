@@ -51,7 +51,13 @@
             }
         ],
         "points": 196,
-        "vendor": {},
+        "vendor": {
+            "yasb": {
+                "builder": "(Yet Another) X-Wing Miniatures Squad Builder",
+                "builder_url": "https://raithos.github.io",
+                "link": "https://raithos.github.io/?f=Rebel%20Alliance&d=v8ZsZ200Z40X98WWWW93Y50X123W117WY20X136WWWW57W317WW104&sn=Ed%20Gold%20JTO&obs="
+            }
+        },
         "version": "2.0.0"
     },
     "Name": "Ed Gold",

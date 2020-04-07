@@ -60,7 +60,13 @@
             }
         ],
         "points": 197,
-        "vendor": {},
+        "vendor": {
+            "yasb": {
+                "builder": "(Yet Another) X-Wing Miniatures Squad Builder",
+                "builder_url": "https://raithos.github.io",
+                "link": "https://raithos.github.io/?f=Galactic%20Republic&d=v8ZsZ200Z361X138WWW213WWY331XWWW234Y341XWWW241WY366XW138W135W88WW70W&sn=Tim%20Hilton%20JTO&obs="
+            }
+        },
         "version": "2.0.0"
     },
     "Name": "Tim Hilton",

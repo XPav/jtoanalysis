@@ -3,6 +3,7 @@
     "Discord": "geedogjones",
     "Drop": "none",
     "Final": {
+        "description": "",
         "faction": "separatistalliance",
         "name": "geedogjonesjto",
         "obstacles": [
@@ -13,6 +14,7 @@
         "pilots": [
             {
                 "id": "wattambor",
+                "name": "wattambor",
                 "points": 51,
                 "ship": "belbullab22starfighter",
                 "upgrades": {
@@ -26,31 +28,33 @@
             },
             {
                 "id": "dbs32c",
+                "name": "dbs32c",
                 "points": 50,
                 "ship": "hyenaclassdroidbomber",
                 "upgrades": {
                     "modification": [
                         "hullupgrade"
                     ],
-                    "tacticalrelay": [
+                    "tactical-relay": [
                         "tv94"
                     ]
                 }
             },
             {
                 "id": "dfs081",
+                "name": "dfs081",
                 "points": 26,
-                "ship": "vultureclassdroidfighter",
-                "upgrades": {}
+                "ship": "vultureclassdroidfighter"
             },
             {
                 "id": "berwerkret",
+                "name": "berwerkret",
                 "points": 40,
-                "ship": "nantexclassstarfighter",
-                "upgrades": {}
+                "ship": "nantexclassstarfighter"
             },
             {
                 "id": "baktoidprototype",
+                "name": "baktoidprototype",
                 "points": 32,
                 "ship": "hyenaclassdroidbomber",
                 "upgrades": {
@@ -61,7 +65,13 @@
             }
         ],
         "points": 199,
-        "vendor": {},
+        "vendor": {
+            "yasb": {
+                "builder": "Yet Another Squad Builder 2.0",
+                "builder_url": "https://raithos.github.io/",
+                "link": "https://raithos.github.io/?f=Separatist%20Alliance&d=v8ZsZ200Z306X124WW207WY328XW223W164WY311XWWY358XWY329XW224WWW&sn=geedogjonesjto&obs=coreasteroid5,vt49decimatordebris2,gascloud1"
+            }
+        },
         "version": "2.0.0"
     },
     "Name": "greg jones",

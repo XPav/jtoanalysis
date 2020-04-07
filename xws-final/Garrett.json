@@ -90,7 +90,13 @@
             }
         ],
         "points": 198,
-        "vendor": {},
+        "vendor": {
+            "yasb": {
+                "builder": "(Yet Another) X-Wing Miniatures Squad Builder",
+                "builder_url": "https://raithos.github.io",
+                "link": "https://raithos.github.io/?f=Resistance&d=v8ZsZ200Z377X125W100W2W93W236WW315Y378X133WW6W92W215WWY345XWW53W236Y352X206W232W134W53WW196W105&sn=Garrett%20Blair%20JTO&obs="
+            }
+        },
         "version": "2.0.0"
     },
     "Name": "Garrett Blair",

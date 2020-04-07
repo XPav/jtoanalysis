@@ -54,12 +54,17 @@
             {
                 "id": "genesisred",
                 "points": 31,
-                "ship": "m3ainterceptor",
-                "upgrades": {}
+                "ship": "m3ainterceptor"
             }
         ],
         "points": 199,
-        "vendor": {},
+        "vendor": {
+            "yasb": {
+                "builder": "(Yet Another) X-Wing Miniatures Squad Builder",
+                "builder_url": "https://raithos.github.io",
+                "link": "https://raithos.github.io/?f=Scum%20and%20Villainy&d=v8ZsZ200Z120XWW93WWWY150XWWWW163WY94X127WWY141XWWWW106Y133XWW&sn=Joe%20Detchemendy%20JTO&obs=coreasteroid5,gascloud2,gascloud5"
+            }
+        },
         "version": "2.0.0"
     },
     "Name": "Joe Detchemendy",

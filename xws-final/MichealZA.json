@@ -34,18 +34,22 @@
             {
                 "id": "g4rgorvm",
                 "points": 28,
-                "ship": "m3ainterceptor",
-                "upgrades": {}
+                "ship": "m3ainterceptor"
             },
             {
                 "id": "asajjventress",
                 "points": 72,
-                "ship": "lancerclasspursuitcraft",
-                "upgrades": {}
+                "ship": "lancerclasspursuitcraft"
             }
         ],
         "points": 198,
-        "vendor": {},
+        "vendor": {
+            "yasb": {
+                "builder": "(Yet Another) X-Wing Miniatures Squad Builder",
+                "builder_url": "https://raithos.github.io",
+                "link": "https://raithos.github.io/?f=Scum%20and%20Villainy&d=v8ZsZ200Z104X124WW100WW316WWW146W70Y399XWY125XWWWWW&sn=Micheal%20Wells%20JTO&obs=vt49decimatordebris0,gascloud1,gascloud6"
+            }
+        },
         "version": "2.0.0"
     },
     "Name": "Micheal Wells",

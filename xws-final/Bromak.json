@@ -32,8 +32,7 @@
             {
                 "id": "zizitlo",
                 "points": 40,
-                "ship": "rz2awing",
-                "upgrades": {}
+                "ship": "rz2awing"
             },
             {
                 "id": "vimoradi",
@@ -47,7 +46,13 @@
             }
         ],
         "points": 200,
-        "vendor": {},
+        "vendor": {
+            "yasb": {
+                "builder": "(Yet Another) X-Wing Miniatures Squad Builder",
+                "builder_url": "https://raithos.github.io",
+                "link": "https://raithos.github.io/?f=Resistance&d=v8ZsZ200Z297XW312WW175WWWY246X124WWWWWWWY387XWWWY348XW230W&sn=Charlie%20Ligato%20JTO&obs="
+            }
+        },
         "version": "2.0.0"
     },
     "Name": "Charlie Ligato",

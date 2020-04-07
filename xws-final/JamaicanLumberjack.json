@@ -62,7 +62,13 @@
             }
         ],
         "points": 198,
-        "vendor": {},
+        "vendor": {
+            "yasb": {
+                "builder": "(Yet Another) X-Wing Miniatures Squad Builder",
+                "builder_url": "https://raithos.github.io",
+                "link": "https://raithos.github.io/?f=Galactic%20Empire&d=v8ZsZ200Z211X133W82WW108Y169X251W114W98Y166X114W10W15WW109W162&sn=Michael%20Grieb%20JTO&obs="
+            }
+        },
         "version": "2.0.0"
     },
     "Name": "Michael Grieb",

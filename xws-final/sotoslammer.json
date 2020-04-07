@@ -3,11 +3,18 @@
     "Discord": "sotoslammer#5037",
     "Drop": "Debris Gambit from Serissu",
     "Final": {
+        "description": "",
         "faction": "scumandvillainy",
         "name": "Brendan Desjarlais JTO",
+        "obstacles": [
+            "coreasteroid1",
+            "coreasteroid4",
+            "gascloud5"
+        ],
         "pilots": [
             {
                 "id": "kathscarlet",
+                "name": "kathscarlet",
                 "points": 90,
                 "ship": "firesprayclasspatrolcraft",
                 "upgrades": {
@@ -30,6 +37,7 @@
             },
             {
                 "id": "serissu",
+                "name": "serissu",
                 "points": 48,
                 "ship": "m3ainterceptor",
                 "upgrades": {
@@ -40,12 +48,13 @@
             },
             {
                 "id": "autopilotdrone",
+                "name": "autopilotdrone",
                 "points": 12,
-                "ship": "escapecraft",
-                "upgrades": {}
+                "ship": "escapecraft"
             },
             {
                 "id": "skullsquadronpilot",
+                "name": "skullsquadronpilot",
                 "points": 50,
                 "ship": "fangfighter",
                 "upgrades": {
@@ -56,7 +65,13 @@
             }
         ],
         "points": 200,
-        "vendor": {},
+        "vendor": {
+            "yasb": {
+                "builder": "Yet Another Squad Builder 2.0",
+                "builder_url": "https://raithos.github.io/",
+                "link": "https://raithos.github.io/?f=Scum%20and%20Villainy&d=v8ZsZ200Z105XW13W101W36W317W93WWY132XW164WY96XY101X121W&sn=Brendan%20Desjarlais%20JTO&obs=coreasteroid1,coreasteroid4,gascloud5"
+            }
+        },
         "version": "2.0.0"
     },
     "Name": "Brendan Desjarlais",

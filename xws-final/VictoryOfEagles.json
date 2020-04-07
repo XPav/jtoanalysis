@@ -49,12 +49,17 @@
             {
                 "id": "ndrusuhlak",
                 "points": 30,
-                "ship": "z95af4headhunter",
-                "upgrades": {}
+                "ship": "z95af4headhunter"
             }
         ],
         "points": 200,
-        "vendor": {},
+        "vendor": {
+            "yasb": {
+                "builder": "(Yet Another) X-Wing Miniatures Squad Builder",
+                "builder_url": "https://raithos.github.io",
+                "link": "https://raithos.github.io/?f=Scum%20and%20Villainy&d=v8ZsZ200Z119X118W100W94WW236WY103XWW311WWWWW153W85Y156XWWW&sn=%5BCurtis%20B%20JTO%5D&obs=gascloud1,gascloud2,gascloud6"
+            }
+        },
         "version": "2.0.0"
     },
     "Name": "Curtis Beatovich",

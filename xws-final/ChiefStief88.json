@@ -3,6 +3,7 @@
     "Discord": "ChiefStief88",
     "Drop": "None",
     "Final": {
+        "description": "",
         "faction": "rebelalliance",
         "name": "Matt Stief JTO",
         "obstacles": [
@@ -13,6 +14,7 @@
         "pilots": [
             {
                 "id": "lowhhrick",
+                "name": "lowhhrick",
                 "points": 56,
                 "ship": "auzituckgunship",
                 "upgrades": {
@@ -23,12 +25,13 @@
             },
             {
                 "id": "chopper",
+                "name": "chopper",
                 "points": 68,
-                "ship": "vcx100lightfreighter",
-                "upgrades": {}
+                "ship": "vcx100lightfreighter"
             },
             {
                 "id": "knavesquadronescort",
+                "name": "knavesquadronescort",
                 "points": 52,
                 "ship": "ewing",
                 "upgrades": {
@@ -39,13 +42,19 @@
             },
             {
                 "id": "talasquadronpilot",
+                "name": "talasquadronpilot",
                 "points": 24,
-                "ship": "z95af4headhunter",
-                "upgrades": {}
+                "ship": "z95af4headhunter"
             }
         ],
         "points": 200,
-        "vendor": {},
+        "vendor": {
+            "yasb": {
+                "builder": "Yet Another Squad Builder 2.0",
+                "builder_url": "https://raithos.github.io/",
+                "link": "https://raithos.github.io/?f=Rebel%20Alliance&d=v8ZsZ200Z59X133WWWY63XWWWWWWWY24XWW5WY56XWW&sn=Matt%20Stief%20JTO&obs=coreasteroid5,core2asteroid4,core2asteroid5"
+            }
+        },
         "version": "2.0.0"
     },
     "Name": "Matt Stief",

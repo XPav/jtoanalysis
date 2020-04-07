@@ -47,12 +47,17 @@
             {
                 "id": "sabinewren-tielnfighter",
                 "points": 29,
-                "ship": "tielnfighter",
-                "upgrades": {}
+                "ship": "tielnfighter"
             }
         ],
         "points": 196,
-        "vendor": {},
+        "vendor": {
+            "yasb": {
+                "builder": "(Yet Another) X-Wing Miniatures Squad Builder",
+                "builder_url": "https://raithos.github.io",
+                "link": "https://raithos.github.io/?f=Rebel%20Alliance&d=v8ZsZ200Z393XW99W81W21WWWW154Y17XW97WW88WW317WW104Y13XW&sn=Helpme87%20JTO&obs="
+            }
+        },
         "version": "2.0.0"
     },
     "Name": "Adam Elleston",

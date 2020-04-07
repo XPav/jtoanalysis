@@ -3,74 +3,55 @@
     "Discord": "DR4C0#7799",
     "Drop": "Soulless One from Feethan Ottraw Autopilot",
     "Final": {
-        "faction": "separatistalliance",
+        "faction": "firstorder",
         "name": "Ben Doyle JTO",
-        "obstacles": [
-            "coreasteroid2",
-            "coreasteroid3",
-            "coreasteroid4"
-        ],
         "pilots": [
             {
-                "id": "feethanottrawautopilot",
-                "points": 35,
-                "ship": "belbullab22starfighter",
-                "upgrades": {}
-            },
-            {
-                "id": "baktoidprototype",
-                "points": 37,
-                "ship": "hyenaclassdroidbomber",
+                "id": "pettyofficerthanisson",
+                "points": 70,
+                "ship": "upsilonclasscommandshuttle",
                 "upgrades": {
-                    "configuration": [
-                        "landingstruts"
+                    "modification": [
+                        "electronicbaffle"
                     ],
-                    "missile": [
-                        "clustermissiles"
-                    ],
-                    "sensor": [
-                        "passivesensors"
+                    "tech": [
+                        "advancedoptics",
+                        "patternanalyzer"
                     ]
                 }
             },
             {
-                "id": "baktoidprototype",
-                "points": 37,
-                "ship": "hyenaclassdroidbomber",
+                "id": "sienarjaemusengineer",
+                "points": 60,
+                "ship": "tievnsilencer",
                 "upgrades": {
-                    "missile": [
-                        "concussionmissiles"
+                    "torpedo": [
+                        "plasmatorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "starkillerbasepilot",
+                "points": 68,
+                "ship": "upsilonclasscommandshuttle",
+                "upgrades": {
+                    "crew": [
+                        "captainphasma"
                     ],
-                    "sensor": [
-                        "passivesensors"
+                    "tech": [
+                        "patternanalyzer"
                     ]
                 }
-            },
-            {
-                "id": "chertek",
-                "points": 41,
-                "ship": "nantexclassstarfighter",
-                "upgrades": {
-                    "talent": [
-                        "predator"
-                    ]
-                }
-            },
-            {
-                "id": "separatistbomber",
-                "points": 28,
-                "ship": "hyenaclassdroidbomber",
-                "upgrades": {}
-            },
-            {
-                "id": "separatistdrone",
-                "points": 21,
-                "ship": "vultureclassdroidfighter",
-                "upgrades": {}
             }
         ],
-        "points": 199,
-        "vendor": {},
+        "points": 198,
+        "vendor": {
+            "yasb": {
+                "builder": "(Yet Another) X-Wing Miniatures Squad Builder",
+                "builder_url": "https://raithos.github.io",
+                "link": "https://raithos.github.io/?f=First%20Order&d=v8ZsZ200Z281X186W206WWWWWW106Y286XW234WY288X206WW183WWWWW&sn=Ben%20Doyle%20JTO&obs="
+            }
+        },
         "version": "2.0.0"
     },
     "Name": "Ben Doyle",

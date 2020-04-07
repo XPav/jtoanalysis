@@ -4,12 +4,6 @@
     "Drop": "Hotshot gunner from Whisper",
     "Final": {
         "faction": "galacticempire",
-        "name": "Elias Holmgren JTO",
-        "obstacles": [
-            "coreasteroid5",
-            "core2asteroid4",
-            "core2asteroid5"
-        ],
         "pilots": [
             {
                 "id": "scarifbasepilot",
@@ -31,8 +25,8 @@
                 "ship": "tiesabomber",
                 "upgrades": {
                     "device": [
-                        "protonbombs",
-                        "clustermines"
+                        "clustermines",
+                        "protonbombs"
                     ],
                     "missile": [
                         "diamondboronmissiles"
@@ -60,7 +54,13 @@
             }
         ],
         "points": 200,
-        "vendor": {},
+        "vendor": {
+            "yasb": {
+                "builder": "(Yet Another) X-Wing Miniatures Squad Builder",
+                "builder_url": "https://raithos.github.io",
+                "link": "https://raithos.github.io/?f=Galactic%20Empire&d=v8ZsZ200Z186X33W15W165Y207XWW238WWW316W69W109Y199X126W111W82W&sn=Unnamed%20Squadron&obs="
+            }
+        },
         "version": "2.0.0"
     },
     "Name": "Elias Holmgren",

@@ -36,18 +36,22 @@
             {
                 "id": "planetarysentinel",
                 "points": 31,
-                "ship": "tieskstriker",
-                "upgrades": {}
+                "ship": "tieskstriker"
             },
             {
                 "id": "echo",
                 "points": 51,
-                "ship": "tiephphantom",
-                "upgrades": {}
+                "ship": "tiephphantom"
             }
         ],
         "points": 206,
-        "vendor": {},
+        "vendor": {
+            "yasb": {
+                "builder": "(Yet Another) X-Wing Miniatures Squad Builder",
+                "builder_url": "https://raithos.github.io",
+                "link": "https://raithos.github.io/?f=Galactic%20Empire&d=v8ZsZ200Z186X38W32WY191X240W136W101WWWWWY213XWWY200XWWW&sn=Tyler%20Gi-%20JTO&obs="
+            }
+        },
         "version": "2.0.0"
     },
     "Name": "Tyler Giebelhausen",

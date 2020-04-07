@@ -5,12 +5,16 @@
     "Final": {
         "faction": "galacticempire",
         "name": "Rolando Garcia JTO",
+        "obstacles": [
+            "coreasteroid5",
+            "core2asteroid4",
+            "core2asteroid5"
+        ],
         "pilots": [
             {
                 "id": "alphasquadronpilot",
                 "points": 31,
-                "ship": "tieininterceptor",
-                "upgrades": {}
+                "ship": "tieininterceptor"
             },
             {
                 "id": "vagabond",
@@ -34,8 +38,8 @@
                         "ionbombs"
                     ],
                     "missile": [
-                        "clustermissiles",
-                        "protonrockets"
+                        "protonrockets",
+                        "clustermissiles"
                     ],
                     "sensor": [
                         "trajectorysimulator"
@@ -57,7 +61,13 @@
             }
         ],
         "points": 200,
-        "vendor": {},
+        "vendor": {
+            "yasb": {
+                "builder": "(Yet Another) X-Wing Miniatures Squad Builder",
+                "builder_url": "https://raithos.github.io",
+                "link": "https://raithos.github.io/?f=Galactic%20Empire&d=v8ZsZ200Z182XWY395X116WW71WY192X114W135W102W98WW317WWY166XWW14WWW&sn=Rolando%20Garcia%20JTO&obs=coreasteroid5,core2asteroid4,core2asteroid5"
+            }
+        },
         "version": "2.0.0"
     },
     "Name": "Rolando Garcia",

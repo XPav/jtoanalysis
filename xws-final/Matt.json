@@ -19,8 +19,7 @@
             {
                 "id": "fennrau-sheathipedeclassshuttle",
                 "points": 50,
-                "ship": "sheathipedeclassshuttle",
-                "upgrades": {}
+                "ship": "sheathipedeclassshuttle"
             },
             {
                 "id": "benthictwotubes",
@@ -38,12 +37,17 @@
             {
                 "id": "kashyyykdefender",
                 "points": 44,
-                "ship": "auzituckgunship",
-                "upgrades": {}
+                "ship": "auzituckgunship"
             }
         ],
         "points": 200,
-        "vendor": {},
+        "vendor": {
+            "yasb": {
+                "builder": "(Yet Another) X-Wing Miniatures Squad Builder",
+                "builder_url": "https://raithos.github.io",
+                "link": "https://raithos.github.io/?f=Rebel%20Alliance&d=v8ZsZ200Z80XWWWW3WY69XWWWWY36XWW54WWW140Y60XWW&sn=Matt%20Ca-%20JTO&obs="
+            }
+        },
         "version": "2.0.0"
     },
     "Name": "Matt Ca-",

@@ -63,7 +63,13 @@
             }
         ],
         "points": 197,
-        "vendor": {},
+        "vendor": {
+            "yasb": {
+                "builder": "(Yet Another) X-Wing Miniatures Squad Builder",
+                "builder_url": "https://raithos.github.io",
+                "link": "https://raithos.github.io/?f=Rebel%20Alliance&d=v8ZsZ200Z12XW122WWW164W142Y73XWW12WW135WW313Y67X73WW166WWY53X256W&sn=Leif%20Tangstad%20jto&obs="
+            }
+        },
         "version": "2.0.0"
     },
     "Name": "Leif Tangstad ",

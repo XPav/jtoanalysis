@@ -54,7 +54,13 @@
             }
         ],
         "points": 198,
-        "vendor": {},
+        "vendor": {
+            "yasb": {
+                "builder": "(Yet Another) X-Wing Miniatures Squad Builder",
+                "builder_url": "https://raithos.github.io",
+                "link": "https://raithos.github.io/?f=Galactic%20Republic&d=v8ZsZ200Z319X98WY318X126W311WY273X251WW200WY366XWWWW226WW&sn=Five%20point%20Jank&obs="
+            }
+        },
         "version": "2.0.0"
     },
     "Name": "Kyle Kenyon",

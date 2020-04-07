@@ -54,7 +54,13 @@
             }
         ],
         "points": 199,
-        "vendor": {},
+        "vendor": {
+            "yasb": {
+                "builder": "(Yet Another) X-Wing Miniatures Squad Builder",
+                "builder_url": "https://raithos.github.io",
+                "link": "https://raithos.github.io/?f=First%20Order&d=v8ZsZ200Z384XW318W102WY233XW177W108Y285XWWWWW165Y397XWWW182WW&sn=Daniel%20Sullivan%20JTO&obs="
+            }
+        },
         "version": "2.0.0"
     },
     "Name": "Daniel Sullivan",

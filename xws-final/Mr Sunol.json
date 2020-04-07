@@ -3,6 +3,7 @@
     "Discord": "#2156",
     "Drop": "Concussion Missile from Holo",
     "Final": {
+        "description": "",
         "faction": "firstorder",
         "name": "Luke Sunol JTO",
         "obstacles": [
@@ -13,6 +14,7 @@
         "pilots": [
             {
                 "id": "ember",
+                "name": "ember",
                 "points": 73,
                 "ship": "tiebainterceptor",
                 "upgrades": {
@@ -32,6 +34,7 @@
             },
             {
                 "id": "quickdraw",
+                "name": "quickdraw",
                 "points": 55,
                 "ship": "tiesffighter",
                 "upgrades": {
@@ -51,6 +54,7 @@
             },
             {
                 "id": "holo",
+                "name": "holo",
                 "points": 72,
                 "ship": "tiebainterceptor",
                 "upgrades": {
@@ -67,7 +71,13 @@
             }
         ],
         "points": 200,
-        "vendor": {},
+        "vendor": {
+            "yasb": {
+                "builder": "Yet Another Squad Builder 2.0",
+                "builder_url": "https://raithos.github.io/",
+                "link": "https://raithos.github.io/?f=First%20Order&d=v8ZsZ200Z383X181W206W99W166Y243X116WW99WW113W236Y382X181W178WW164&sn=Luke%20Sunol%20JTO&obs=gascloud1,gascloud2,gascloud3"
+            }
+        },
         "version": "2.0.0"
     },
     "Name": "Luke",

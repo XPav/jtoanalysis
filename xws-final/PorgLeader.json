@@ -35,8 +35,7 @@
             {
                 "id": "blacksunenforcer",
                 "points": 45,
-                "ship": "starviperclassattackplatform",
-                "upgrades": {}
+                "ship": "starviperclassattackplatform"
             },
             {
                 "id": "landocalrissian-escapecraft",
@@ -50,7 +49,13 @@
             }
         ],
         "points": 197,
-        "vendor": {},
+        "vendor": {
+            "yasb": {
+                "builder": "(Yet Another) X-Wing Miniatures Squad Builder",
+                "builder_url": "https://raithos.github.io",
+                "link": "https://raithos.github.io/?f=Scum%20and%20Villainy&d=v8ZsZ200Z141X206W37WWWY147XW240WWW163WY151XWWWY93XW61W&sn=Eric%20Small%20JTO&obs="
+            }
+        },
         "version": "2.0.0"
     },
     "Name": "Eric Small",

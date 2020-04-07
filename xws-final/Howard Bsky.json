@@ -38,18 +38,22 @@
             {
                 "id": "sabinewren-tielnfighter",
                 "points": 29,
-                "ship": "tielnfighter",
-                "upgrades": {}
+                "ship": "tielnfighter"
             },
             {
                 "id": "ap5",
                 "points": 32,
-                "ship": "sheathipedeclassshuttle",
-                "upgrades": {}
+                "ship": "sheathipedeclassshuttle"
             }
         ],
         "points": 199,
-        "vendor": {},
+        "vendor": {
+            "yasb": {
+                "builder": "(Yet Another) X-Wing Miniatures Squad Builder",
+                "builder_url": "https://raithos.github.io",
+                "link": "https://raithos.github.io/?f=Rebel%20Alliance&d=v8ZsZ200Z64XW113W138WWWWWY18XW100WW86W54WWWY13XWY72XWWWW&sn=Howard%20Benensky%20JTO&obs="
+            }
+        },
         "version": "2.0.0"
     },
     "Name": "Howard Benensky",

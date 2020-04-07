@@ -3,23 +3,25 @@
     "Discord": "A Coke Product#7685",
     "Drop": "Seasoned Navigator from Lowhhrick",
     "Final": {
+        "description": "",
         "faction": "rebelalliance",
         "name": "Aaron Thatcher JTO",
         "pilots": [
             {
                 "id": "lowhhrick",
+                "name": "lowhhrick",
                 "points": 52,
-                "ship": "auzituckgunship",
-                "upgrades": {}
+                "ship": "auzituckgunship"
             },
             {
                 "id": "greensquadronpilot",
+                "name": "greensquadronpilot",
                 "points": 32,
-                "ship": "rz1awing",
-                "upgrades": {}
+                "ship": "rz1awing"
             },
             {
                 "id": "goldsquadronveteran",
+                "name": "goldsquadronveteran",
                 "points": 49,
                 "ship": "btla4ywing",
                 "upgrades": {
@@ -36,19 +38,25 @@
             },
             {
                 "id": "phoenixsquadronpilot",
+                "name": "phoenixsquadronpilot",
                 "points": 29,
-                "ship": "rz1awing",
-                "upgrades": {}
+                "ship": "rz1awing"
             },
             {
                 "id": "herasyndulla",
+                "name": "herasyndulla",
                 "points": 38,
-                "ship": "attackshuttle",
-                "upgrades": {}
+                "ship": "attackshuttle"
             }
         ],
         "points": 200,
-        "vendor": {},
+        "vendor": {
+            "yasb": {
+                "builder": "Yet Another Squad Builder 2.0",
+                "builder_url": "https://raithos.github.io/",
+                "link": "https://raithos.github.io/?f=Rebel%20Alliance&d=v8ZsZ200Z59XWWWY52XWWY29XW138WW0WWW90Y53XWY65XWWWW&sn=Aaron%20Thatcher%20JTO&obs="
+            }
+        },
         "version": "2.0.0"
     },
     "Name": "Aaron Thatcher",

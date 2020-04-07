@@ -32,18 +32,22 @@
             {
                 "id": "bladesquadronveteran",
                 "points": 42,
-                "ship": "asf01bwing",
-                "upgrades": {}
+                "ship": "asf01bwing"
             },
             {
                 "id": "bladesquadronveteran",
                 "points": 42,
-                "ship": "asf01bwing",
-                "upgrades": {}
+                "ship": "asf01bwing"
             }
         ],
         "points": 193,
-        "vendor": {},
+        "vendor": {
+            "yasb": {
+                "builder": "(Yet Another) X-Wing Miniatures Squad Builder",
+                "builder_url": "https://raithos.github.io",
+                "link": "https://raithos.github.io/?f=Rebel%20Alliance&d=v8ZsZ200Z38XWW46WWW140Y391XWWWW234WWY75XWWWWWWY75XWWWWWW&sn=Darryl%20McMillon%20-%20JTO&obs="
+            }
+        },
         "version": "2.0.0"
     },
     "Name": "Darryl McMillon",
