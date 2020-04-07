@@ -14,7 +14,7 @@ allupgrades = {}
 def CountUpgrades( l ):
     theseupgrades = {}
     for p in l['pilots']:
-        if 'upgrades' in p:
+        if 'upgrades' in p and len(p['upgrades']) > 0:
             for u in p['upgrades'].values():
                 for u2 in u:
                     if u2 in theseupgrades:
@@ -308,12 +308,19 @@ for l in combined:
             else:
                 print("What?? " + l['Name'])
 
-            if chosenlist != None:
+            if chosenlist != None and len(chosenlist) > 0:
                 finallist = l['Final']
                 initialupgrades = CountUpgrades( chosenlist )
                 finalupgrades =  CountUpgrades( finallist )
 
-            
+                removed = { k : initialupgrades[k] for k in set(initialupgrades) - set(finalupgrades) }
+                added  = { k : finalupgrades[k] for k in set(finalupgrades) - set(initialupgrades) }
+
+                if len(removed) > 1 or len(added) > 1:
+                    print(l['Name'] + ' has add/remove anomaly')
+                
+                    
+
 
 with open('lists-final.csv', 'w', newline='', encoding='UTF-8') as csvfile:
     writer = csv.DictWriter(csvfile, fieldnames=[*olist])
