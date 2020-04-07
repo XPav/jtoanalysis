@@ -1,0 +1,170 @@
+{
+    "Add": "Sense to Luminara Unduli",
+    "Discord": "szent#3357",
+    "Drop": "Concussion Missiles from Blue Squadron Protector",
+    "Final": {
+        "faction": "galacticrepublic",
+        "name": "Szentandr\u00e1ssy D\u00e1niel JTO",
+        "pilots": [
+            {
+                "id": "plokoon",
+                "points": 58,
+                "ship": "delta7aethersprite",
+                "upgrades": {
+                    "configuration": [
+                        "calibratedlasertargeting"
+                    ],
+                    "force-power": [
+                        "precognitivereflexes"
+                    ]
+                }
+            },
+            {
+                "id": "luminaraunduli",
+                "points": 52,
+                "ship": "delta7aethersprite",
+                "upgrades": {
+                    "astromech": [
+                        "r3astromech"
+                    ],
+                    "force-power": [
+                        "sense"
+                    ],
+                    "modification": [
+                        "delayedfuses"
+                    ]
+                }
+            },
+            {
+                "id": "saeseetiin",
+                "points": 61,
+                "ship": "delta7aethersprite",
+                "upgrades": {
+                    "configuration": [
+                        "delta7b"
+                    ]
+                }
+            },
+            {
+                "id": "bluesquadronprotector",
+                "points": 27,
+                "ship": "v19torrentstarfighter",
+                "upgrades": []
+            }
+        ],
+        "points": 198,
+        "vendor": [],
+        "version": "2.0.0"
+    },
+    "Name": "Szentandr\u00c3\u00a1ssy D\u00c3\u00a1niel",
+    "Option1": {
+        "faction": "galacticempire",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "baronoftheempire",
+                "points": 30,
+                "ship": "tieadvancedv1",
+                "upgrades": {}
+            },
+            {
+                "id": "majorvynder",
+                "points": 57,
+                "ship": "alphaclassstarwing",
+                "upgrades": {
+                    "configuration": [
+                        "os1arsenalloadout"
+                    ],
+                    "missile": [
+                        "clustermissiles",
+                        "homingmissiles"
+                    ],
+                    "torpedo": [
+                        "advprotontorpedoes"
+                    ]
+                }
+            },
+            {
+                "id": "redline",
+                "points": 66,
+                "ship": "tiecapunisher",
+                "upgrades": {
+                    "device": [
+                        "seismiccharges",
+                        "protonbombs"
+                    ],
+                    "missile": [
+                        "diamondboronmissiles"
+                    ]
+                }
+            },
+            {
+                "id": "vizier",
+                "points": 45,
+                "ship": "tiereaper",
+                "upgrades": {}
+            }
+        ],
+        "points": 198,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Option2": {
+        "faction": "galacticrepublic",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "plokoon",
+                "points": 58,
+                "ship": "delta7aethersprite",
+                "upgrades": {
+                    "configuration": [
+                        "calibratedlasertargeting"
+                    ],
+                    "force-power": [
+                        "precognitivereflexes"
+                    ]
+                }
+            },
+            {
+                "id": "luminaraunduli",
+                "points": 47,
+                "ship": "delta7aethersprite",
+                "upgrades": {
+                    "astromech": [
+                        "r3astromech"
+                    ],
+                    "modification": [
+                        "delayedfuses"
+                    ]
+                }
+            },
+            {
+                "id": "saeseetiin",
+                "points": 61,
+                "ship": "delta7aethersprite",
+                "upgrades": {
+                    "configuration": [
+                        "delta7b"
+                    ]
+                }
+            },
+            {
+                "id": "bluesquadronprotector",
+                "points": 33,
+                "ship": "v19torrentstarfighter",
+                "upgrades": {
+                    "missile": [
+                        "concussionmissiles"
+                    ]
+                }
+            }
+        ],
+        "points": 199,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "TTT": "Szentandr\u00c3\u00a1ssy D\u00c3\u00a1niel",
+    "VassalForm1": "Szentandr\u00c3\u00a1ssy D\u00c3\u00a1niel",
+    "VassalForm2": "Szentandr\u00c3\u00a1ssy D\u00c3\u00a1niel"
+}

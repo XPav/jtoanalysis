@@ -1,0 +1,214 @@
+{
+    "Add": "Han Solo: Snap Shot",
+    "Discord": "ZombiMokus#3097",
+    "Drop": "Han Solo: Proton Rockets",
+    "Final": {
+        "description": "",
+        "faction": "resistance",
+        "name": "Nemes Bal\u00e1zs JTO",
+        "pilots": [
+            {
+                "id": "colossusstationmechanic",
+                "name": "colossusstationmechanic",
+                "points": 54,
+                "ship": "fireball",
+                "upgrades": {
+                    "astromech": [
+                        "m9g8"
+                    ],
+                    "illicit": [
+                        "feedbackarray"
+                    ],
+                    "missile": [
+                        "protonrockets"
+                    ],
+                    "modification": [
+                        "staticdischargevanes",
+                        "advancedslam"
+                    ],
+                    "title": [
+                        "kazsfireball"
+                    ]
+                }
+            },
+            {
+                "id": "greersonnel",
+                "name": "greersonnel",
+                "points": 53,
+                "ship": "rz2awing",
+                "upgrades": {
+                    "missile": [
+                        "clustermissiles"
+                    ],
+                    "talent": [
+                        "juke",
+                        "lonewolf"
+                    ]
+                }
+            },
+            {
+                "id": "hansolo-scavengedyt1300",
+                "name": "hansolo-scavengedyt1300",
+                "points": 91,
+                "ship": "scavengedyt1300",
+                "upgrades": {
+                    "crew": [
+                        "rosetico",
+                        "c3po-crew"
+                    ],
+                    "talent": [
+                        "snapshot"
+                    ],
+                    "title": [
+                        "reysmillenniumfalcon"
+                    ]
+                }
+            }
+        ],
+        "points": 198,
+        "vendor": {
+            "yasb": {
+                "builder": "Yet Another Squad Builder 2.0",
+                "builder_url": "https://raithos.github.io/",
+                "link": "https://raithos.github.io/?f=Resistance&d=v8ZsZ200Z380X102W197W94W109W104W315Y270X123W124W98WY245X256WW173W191WWWW193&sn=Nemes%20Bal%C3%A1zs%20JTO&obs="
+            }
+        },
+        "version": "2.0.0"
+    },
+    "Name": "Nemes Bal\u00c3\u00a1zs",
+    "Option1": {
+        "faction": "resistance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "colossusstationmechanic",
+                "points": 54,
+                "ship": "fireball",
+                "upgrades": {
+                    "astromech": [
+                        "m9g8"
+                    ],
+                    "illicit": [
+                        "feedbackarray"
+                    ],
+                    "missile": [
+                        "protonrockets"
+                    ],
+                    "modification": [
+                        "advancedslam",
+                        "staticdischargevanes"
+                    ],
+                    "title": [
+                        "kazsfireball"
+                    ]
+                }
+            },
+            {
+                "id": "greersonnel",
+                "points": 53,
+                "ship": "rz2awing",
+                "upgrades": {
+                    "missile": [
+                        "clustermissiles"
+                    ],
+                    "talent": [
+                        "lonewolf",
+                        "juke"
+                    ]
+                }
+            },
+            {
+                "id": "hansolo-scavengedyt1300",
+                "points": 89,
+                "ship": "scavengedyt1300",
+                "upgrades": {
+                    "crew": [
+                        "c3po-crew",
+                        "rosetico"
+                    ],
+                    "missile": [
+                        "protonrockets"
+                    ],
+                    "title": [
+                        "reysmillenniumfalcon"
+                    ]
+                }
+            }
+        ],
+        "points": 196,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Option2": {
+        "faction": "firstorder",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "firstorderprovocateur",
+                "points": 64,
+                "ship": "tiebainterceptor",
+                "upgrades": {
+                    "missile": [
+                        "homingmissiles"
+                    ],
+                    "modification": [
+                        "shieldupgrade"
+                    ],
+                    "talent": [
+                        "fanatical"
+                    ],
+                    "tech": [
+                        "advancedoptics"
+                    ]
+                }
+            },
+            {
+                "id": "quickdraw",
+                "points": 74,
+                "ship": "tiesffighter",
+                "upgrades": {
+                    "gunner": [
+                        "skilledbombardier"
+                    ],
+                    "missile": [
+                        "magpulsewarheads"
+                    ],
+                    "sensor": [
+                        "collisiondetector"
+                    ],
+                    "talent": [
+                        "squadleader"
+                    ],
+                    "tech": [
+                        "biohexacryptcodes"
+                    ]
+                }
+            },
+            {
+                "id": "captainphasma",
+                "points": 60,
+                "ship": "tiesffighter",
+                "upgrades": {
+                    "missile": [
+                        "homingmissiles"
+                    ],
+                    "sensor": [
+                        "trajectorysimulator"
+                    ],
+                    "talent": [
+                        "marksmanship"
+                    ],
+                    "tech": [
+                        "deuteriumpowercells"
+                    ]
+                }
+            }
+        ],
+        "points": 198,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "TTT": "Nemes Bal\u00c3\u00a1zs",
+    "VassalForm1": "Nemes Bal\u00c3\u00a1zs",
+    "VassalForm2": "Nemes Bal\u00c3\u00a1zs"
+}

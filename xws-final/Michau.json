@@ -1,0 +1,194 @@
+{
+    "Add": "Korr Sella (crew) to BB-8",
+    "Discord": "Michau1977#4245",
+    "Drop": "Lone Wolf from BB-8",
+    "Final": {
+        "description": "",
+        "faction": "resistance",
+        "name": "Micha\u0142 Lewandowski JTO",
+        "obstacles": [
+            "coreasteroid5",
+            "core2asteroid4",
+            "core2asteroid5"
+        ],
+        "pilots": [
+            {
+                "id": "bb8",
+                "name": "bb8",
+                "points": 42,
+                "ship": "resistancetransportpod",
+                "upgrades": {
+                    "crew": [
+                        "korrsella"
+                    ],
+                    "modification": [
+                        "targetingcomputer"
+                    ],
+                    "tech": [
+                        "primedthrusters"
+                    ]
+                }
+            },
+            {
+                "id": "covanell",
+                "name": "covanell",
+                "points": 43,
+                "ship": "resistancetransport",
+                "upgrades": {
+                    "astromech": [
+                        "r4astromech"
+                    ],
+                    "cannon": [
+                        "autoblasters"
+                    ]
+                }
+            },
+            {
+                "id": "ronithblario",
+                "name": "ronithblario",
+                "points": 34,
+                "ship": "rz2awing"
+            },
+            {
+                "id": "kazudaxiono",
+                "name": "kazudaxiono",
+                "points": 45,
+                "ship": "fireball",
+                "upgrades": {
+                    "missile": [
+                        "clustermissiles"
+                    ]
+                }
+            },
+            {
+                "id": "pammichnerrogoode",
+                "name": "pammichnerrogoode",
+                "points": 36,
+                "ship": "resistancetransport"
+            }
+        ],
+        "points": 200,
+        "vendor": {
+            "yasb": {
+                "builder": "Yet Another Squad Builder 2.0",
+                "builder_url": "https://raithos.github.io/",
+                "link": "https://raithos.github.io/?f=Resistance&d=v8ZsZ200Z349XW178W245W249Y351XWW232WWWW5WY388XWWY378XW98WWWWWY347XWWWWWW&sn=Micha%C5%82%20Lewandowski%20JTO&obs=coreasteroid5,core2asteroid4,core2asteroid5"
+            }
+        },
+        "version": "2.0.0"
+    },
+    "Name": "Micha\u00c5\u201a",
+    "Option1": {
+        "faction": "resistance",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "bb8",
+                "points": 41,
+                "ship": "resistancetransportpod",
+                "upgrades": {
+                    "modification": [
+                        "targetingcomputer"
+                    ],
+                    "talent": [
+                        "lonewolf"
+                    ],
+                    "tech": [
+                        "primedthrusters"
+                    ]
+                }
+            },
+            {
+                "id": "covanell",
+                "points": 43,
+                "ship": "resistancetransport",
+                "upgrades": {
+                    "astromech": [
+                        "r4astromech"
+                    ],
+                    "cannon": [
+                        "autoblasters"
+                    ]
+                }
+            },
+            {
+                "id": "ronithblario",
+                "points": 34,
+                "ship": "rz2awing",
+                "upgrades": {}
+            },
+            {
+                "id": "kazudaxiono",
+                "points": 45,
+                "ship": "fireball",
+                "upgrades": {
+                    "missile": [
+                        "clustermissiles"
+                    ]
+                }
+            },
+            {
+                "id": "pammichnerrogoode",
+                "points": 36,
+                "ship": "resistancetransport",
+                "upgrades": {}
+            }
+        ],
+        "points": 199,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Option2": {
+        "faction": "firstorder",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "captaincardinal",
+                "points": 79,
+                "ship": "upsilonclasscommandshuttle",
+                "upgrades": {
+                    "cannon": [
+                        "tractorbeam"
+                    ],
+                    "crew": [
+                        "informant"
+                    ],
+                    "sensor": [
+                        "passivesensors"
+                    ],
+                    "tech": [
+                        "targetingsynchronizer"
+                    ]
+                }
+            },
+            {
+                "id": "backdraft",
+                "points": 58,
+                "ship": "tiesffighter",
+                "upgrades": {
+                    "gunner": [
+                        "hotshotgunner"
+                    ],
+                    "missile": [
+                        "protonrockets"
+                    ],
+                    "tech": [
+                        "patternanalyzer"
+                    ]
+                }
+            },
+            {
+                "id": "pettyofficerthanisson",
+                "points": 59,
+                "ship": "upsilonclasscommandshuttle",
+                "upgrades": {}
+            }
+        ],
+        "points": 196,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "TTT": "Micha\u00c5\u201a Lewandowski",
+    "VassalForm1": "Michau",
+    "VassalForm2": "Michau"
+}
