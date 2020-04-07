@@ -1,8 +1,8 @@
-name,firstchoice,secondchoice,totaloptions,chosen,dropped
-firstorder,91,57,148,80,66
-separatistalliance,15,64,79,22,56
-rebelalliance,77,77,154,78,73
-galacticrepublic,54,77,131,63,67
-galacticempire,84,57,141,91,49
-resistance,68,63,131,50,81
-scumandvillainy,81,75,156,81,73
+name,firstchoice,secondchoice,totaloptions,chosen,dropped,firstchosen,secondchosen
+firstorder,91,57,148,80,66,55,36
+separatistalliance,15,64,79,22,56,6,9
+rebelalliance,77,77,154,78,73,48,27
+galacticrepublic,54,77,131,63,67,31,23
+galacticempire,84,57,141,91,49,57,26
+resistance,68,63,131,50,81,32,36
+scumandvillainy,81,75,156,81,73,55,24

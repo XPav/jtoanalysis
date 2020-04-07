@@ -11,6 +11,8 @@ upgrades = {}
 allpilots = {}
 allupgrades = {}
 
+addremovedupgrades = {}
+
 def CountUpgrades( l ):
     theseupgrades = {}
     for p in l['pilots']:
@@ -30,7 +32,9 @@ def GetCostValue( cost, pdata, sdata ):
     elif cost['variable'] == 'initiative':
         return cost['values'][str(pdata['initiative'])]
     else:
-        pass
+        for stat in sdata['stats']:
+            if 'type' in stat and stat['type'] == cost['variable']:
+                return cost['values'][str(stat['value'])]
 
 def LoadShip( pilots, upgrades, ship, listid, faction ):
     oship = {}
@@ -199,7 +203,7 @@ def LoadShip( pilots, upgrades, ship, listid, faction ):
                 if useless:
                     oship[f'useless{uselesscount:02d}'] = u
                     uselesscount += 1
-                    oship['uselesscost'] = GetCostValue( upgrades[u]['cost'], pdata, sdata )
+                    oship['uselesscost'] += GetCostValue( upgrades[u]['cost'], pdata, sdata )
 
     oship['uselesscount'] = uselesscount
 
@@ -214,7 +218,7 @@ for (dirpath, dirnames, filenames) in walk('../xwing-data2/data/pilots'):
             for p in j['pilots']:
                 xws = p['xws']
                 pilots[xws] = p
-                allpilots[ p['xws'] ] = { 'name': xws, 'type': 'pilot', 'count': 0, 'limited': p['limited'], 'slots' :'' }
+                allpilots[ p['xws'] ] = { 'name': xws, 'type': 'pilot', 'count': 0, 'limited': p['limited'], 'slots' :'', 'added' : 0, 'removed': 0 }
 
 for (dirpath, dirnames, filenames) in walk('../xwing-data2/data/upgrades'):
     for filename in filenames:
@@ -227,7 +231,7 @@ for (dirpath, dirnames, filenames) in walk('../xwing-data2/data/upgrades'):
                 for side in u['sides']:
                     for slot in side['slots']:
                         slots += (slot + ' ')
-                allupgrades[xws] = { 'name': xws, 'type': 'upgrade', 'count': 0, 'limited': u['limited'], 'slots' : slots }
+                allupgrades[xws] = { 'name': xws, 'type': 'upgrade', 'count': 0, 'limited': u['limited'], 'slots' : slots, 'added' : 0, 'removed': 0 }
 
 
 #with urllib.request.urlopen( 'https://tabletop.to/jank-tank-open/listjuggler' ) as response:
@@ -287,9 +291,9 @@ for l in combined:
             factionf = l['Final']['faction']
 
             if faction1 not in factions:
-                factions[faction1] = { 'name': faction1, 'firstchoice': 0, 'secondchoice': 0, 'totaloptions':0, 'chosen': 0, 'dropped': 0 }
+                factions[faction1] = { 'name': faction1, 'firstchoice': 0, 'secondchoice': 0, 'totaloptions':0, 'chosen': 0, 'dropped': 0, 'firstchosen' : 0, 'secondchosen' : 0 }
             if faction2 not in factions:
-                factions[faction2] = { 'name': faction2, 'firstchoice': 0, 'secondchoice': 0, 'totaloptions':0, 'chosen': 0, 'dropped': 0 }
+                factions[faction2] = { 'name': faction2, 'firstchoice': 0, 'secondchoice': 0, 'totaloptions':0, 'chosen': 0, 'dropped': 0, 'firstchosen' : 0, 'secondchosen' : 0 }
 
             factions[ faction1 ][ 'totaloptions' ] += 1
             factions[ faction2 ][ 'totaloptions' ] += 1
@@ -298,10 +302,12 @@ for l in combined:
             factions[ faction2 ][ 'secondchoice' ] += 1
 
             if faction1 == factionf:
+                factions[ faction1 ][ 'firstchosen' ] += 1
                 factions[ faction1 ][ 'chosen' ] += 1
                 factions[ faction2 ][ 'dropped' ] += 1
                 chosenlist = l['Option1']
             elif faction2 == factionf:
+                factions[ faction1 ][ 'secondchosen' ] += 1
                 factions[ faction2 ][ 'chosen' ] += 1
                 factions[ faction1 ][ 'dropped' ] += 1
                 chosenlist = l['Option2']
@@ -318,9 +324,17 @@ for l in combined:
 
                 if len(removed) > 1 or len(added) > 1:
                     print(l['Name'] + ' has add/remove anomaly')
-                
-                    
-
+                else:
+                    for a in added:
+                        if added[a] != 1:
+                            print(l['Name'] + ' has add/remove anomaly')
+                        else:
+                            allupgrades[a]['added'] += 1
+                    for r in removed:
+                        if removed[r] != 1:
+                            print(l['Name'] + ' has add/remove anomaly')
+                        else:
+                            allupgrades[r]['removed'] += 1
 
 with open('lists-final.csv', 'w', newline='', encoding='UTF-8') as csvfile:
     writer = csv.DictWriter(csvfile, fieldnames=[*olist])
@@ -333,7 +347,7 @@ with open('ships-final.csv', 'w', newline='', encoding='UTF-8') as csvfile:
     writer.writerows(oships)
 
 with open('cards-final.csv', 'w', newline='') as csvfile:
-    writer = csv.DictWriter(csvfile, fieldnames= ['name', 'type', 'count', 'limited', 'slots'])
+    writer = csv.DictWriter(csvfile, fieldnames= ['name', 'type', 'count', 'limited', 'slots', 'added', 'removed'])
     writer.writeheader()
     writer.writerows(allpilots.values())
     writer.writerows(allupgrades.values())

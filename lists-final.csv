@@ -125,7 +125,7 @@ Hasan Khan,galacticempire,198,24,9,9,5,1,2,4,4,4.0
 Rodrigo Denicol,galacticempire,199,26,9,7,8,0,0,4,1,3.25
 Jack Benveniste-Plitt,galacticempire,199,31,9,3,7,1,3,3,4,3.6666666666666665
 Marco de Scordilli,galacticrepublic,197,26,9,7,10,0,0,4,3,3.25
-Scott Canham,rebelalliance,199,29,10,4,5,2,1,3,2,1.3333333333333333
+Scott Canham,rebelalliance,199,29,10,4,5,2,3,3,4,1.3333333333333333
 Derek Foglein,galacticempire,199,30,9,3,8,1,2,3,3,2.6666666666666665
 Tad Wesley,rebelalliance,200,19,7,5,14,1,3,3,3,2.6666666666666665
 Ben Pappas,rebelalliance,198,19,9,6,11,1,3,3,5,3.0
@@ -171,7 +171,7 @@ Daniel Smith,separatistalliance,200,25,10,7,7,0,0,4,0,2.5
 Peter Rose,rebelalliance,199,26,9,3,12,0,0,3,1,3.3333333333333335
 Cameron Murray,scumandvillainy,200,24,11,10,6,0,0,5,0,2.2
 Garrett Jost,scumandvillainy,198,27,12,11,4,1,1,5,3,2.8
-Garrett Blair,resistance,198,24,8,7,18,4,2,4,4,3.5
+Garrett Blair,resistance,198,24,8,7,18,4,14,4,16,3.5
 Jason Lao,resistance,200,27,10,8,5,0,0,4,0,3.25
 greg jones,separatistalliance,199,23,12,11,5,0,0,5,1,3.0
 Eric Maynard,firstorder,199,25,11,10,8,0,0,4,1,2.5
@@ -245,7 +245,7 @@ Geoff Frost,galacticrepublic,199,24,9,7,12,2,2,4,3,2.75
 Kimberly Colas,resistance,195,26,10,8,6,0,0,4,5,3.75
 Ken District Foundry Cho,firstorder,194,20,10,12,3,0,0,4,6,3.25
 Mark Johnson,scumandvillainy,196,24,11,13,5,0,0,5,4,2.8
-Claude Matte,galacticempire,199,21,11,9,5,2,6,4,7,3.75
+Claude Matte,galacticempire,199,21,11,9,5,2,7,4,8,3.75
 Samuel Carmel,firstorder,193,16,8,8,5,0,0,3,7,4.333333333333333
 Ian Campbell,separatistalliance,199,25,10,7,9,0,0,4,1,3.25
 Kristoff Sotelo,resistance,194,23,11,12,8,0,0,5,6,2.6
@@ -297,7 +297,7 @@ Morgan Sanders,galacticempire,200,16,8,8,9,1,6,3,6,3.3333333333333335
 Jose Algarra,scumandvillainy,199,35,9,6,5,0,0,4,1,3.5
 Luke,firstorder,200,15,8,8,11,1,1,3,1,5.0
 Raymond Liong,rebelalliance,198,22,10,6,4,0,0,3,2,3.6666666666666665
-Chris Daykin,galacticrepublic,200,25,9,7,9,2,1,4,1,2.5
+Chris Daykin,galacticrepublic,200,25,9,7,9,2,2,4,2,2.5
 Stephen Downs,firstorder,200,26,10,12,7,1,1,5,1,3.0
 Mathieu Salgado,galacticrepublic,193,24,9,4,5,0,0,3,7,4.333333333333333
 MichaÃ«l Juneau,galacticrepublic,196,18,8,10,7,0,0,4,4,4.5
@@ -357,7 +357,7 @@ Katherine Cr,galacticempire,200,14,8,8,11,0,0,3,0,4.666666666666667
 Jay Davis,galacticrepublic,198,26,10,11,3,0,0,5,2,3.2
 Zach Mertens,galacticrepublic,198,23,9,8,7,0,0,4,2,3.25
 Andrew Cox,resistance,200,24,8,5,6,0,0,3,0,5.333333333333333
-Dan Xuereb,galacticempire,199,20,10,10,6,3,8,4,9,3.25
+Dan Xuereb,galacticempire,199,20,10,10,6,3,16,4,17,3.25
 Matthew Courser,firstorder,198,22,10,11,5,0,0,4,2,3.0
 Rhett,rebelalliance,199,28,10,9,4,0,0,4,1,2.25
 Ryan Fleming,scumandvillainy,198,21,11,11,4,0,0,4,2,3.25
@@ -378,7 +378,7 @@ Don Walker,galacticrepublic,198,25,8,7,5,0,0,4,2,3.5
 Joe VIncent,galacticrepublic,198,24,9,7,5,1,1,4,3,3.0
 Sam,galacticempire,199,26,10,6,9,1,1,4,2,2.75
 Samuel Melhado,rebelalliance,198,24,8,5,9,2,5,3,7,3.6666666666666665
-Dylan Emde,scumandvillainy,200,21,11,12,10,3,4,5,4,2.0
+Dylan Emde,scumandvillainy,200,21,11,12,10,3,5,5,5,2.0
 Sara Tessem,separatistalliance,199,24,11,8,6,0,0,4,1,3.75
 Darin Schwarze,rebelalliance,197,26,10,6,6,1,3,3,6,2.3333333333333335
 Jeff Wilson,galacticempire,197,29,11,6,1,0,0,4,3,4.5
