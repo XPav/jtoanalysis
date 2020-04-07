@@ -11,6 +11,19 @@ upgrades = {}
 allpilots = {}
 allupgrades = {}
 
+def CountUpgrades( l ):
+    theseupgrades = {}
+    for p in l['pilots']:
+        if 'upgrades' in p:
+            for u in p['upgrades'].values():
+                for u2 in u:
+                    if u2 in theseupgrades:
+                        theseupgrades[u2] += 1
+                    else:
+                        theseupgrades[u2] = 1
+    return theseupgrades
+           
+
 def GetCostValue( cost, pdata, sdata ):
     if 'value' in cost:
         return cost['value']
@@ -266,6 +279,8 @@ for l in combined:
         olists.append(olist)
 
         if 'Option1' in l and 'Option2' in l and 'Final' in l and l['Option1'] != None and l['Option2'] != None and l['Final'] != None:
+            chosenlist = {}
+
             # Faction stats
             faction1 = l['Option1']['faction']
             faction2 = l['Option2']['faction']
@@ -285,11 +300,20 @@ for l in combined:
             if faction1 == factionf:
                 factions[ faction1 ][ 'chosen' ] += 1
                 factions[ faction2 ][ 'dropped' ] += 1
-            else:
+                chosenlist = l['Option1']
+            elif faction2 == factionf:
                 factions[ faction2 ][ 'chosen' ] += 1
                 factions[ faction1 ][ 'dropped' ] += 1
-        
+                chosenlist = l['Option2']
+            else:
+                print("What?? " + l['Name'])
 
+            if chosenlist != None:
+                finallist = l['Final']
+                initialupgrades = CountUpgrades( chosenlist )
+                finalupgrades =  CountUpgrades( finallist )
+
+            
 
 with open('lists-final.csv', 'w', newline='', encoding='UTF-8') as csvfile:
     writer = csv.DictWriter(csvfile, fieldnames=[*olist])
