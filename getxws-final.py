@@ -9,17 +9,10 @@ def yasbtoxws( url ):
     if len(url) > 0:
         newurl = url.replace( 'raithos.github.io', 'squad2xws.herokuapp.com/yasb/xws')
 
-#        spliturl = urllib.parse.urlsplit(url)
- #       spliturl = list(spliturl)
-  #      spliturl[1] = 'squad2xws.herokuapp.com'
-   #     spliturl[2] = '/yasb/xws/'
-    #    spliturl[3] = urllib.parse.quote(spliturl[3])
-     #   spliturl[4] = urllib.parse.quote(spliturl[4])
-      #  newurl = urllib.parse.urlunsplit(spliturl)
-
         with urllib.request.urlopen( newurl ) as response:
             return json.loads( response.read(),  encoding='UTF-8' )       
 
+ttt = {}
 
 def savetoxws( path, row ):
     
@@ -28,6 +21,7 @@ def savetoxws( path, row ):
         name = row[1]
     cleanname = "".join([c for c in name if c.isalpha() or c.isdigit() or c==' ' or c=='_' or c=='(' or c ==')']).rstrip()
     filename = path + cleanname + '.json' 
+
     if not os.path.isfile( filename ):
         print('Saving ' + filename)
         j = {}
@@ -41,13 +35,27 @@ def savetoxws( path, row ):
         j['Option2'] = yasbtoxws(row[6])
         j['Drop'] = row[7]
         j['Add'] = row[8]
-        j['Final'] = yasbtoxws(row[9])
 
-        with open(filename, 'w', encoding='UTF-8') as xws:
-            xws.write( json.dumps(j, sort_keys=True, indent=4, separators=(',', ': ')) )
+        if row[4] in ttt:
+            if 'list' in ttt[row[4]]:
+                j['Final'] = ttt[row[4]]['list']
+                with open(filename, 'w', encoding='UTF-8') as xws:
+                    xws.write( json.dumps(j, sort_keys=True, indent=4, separators=(',', ': ')) )
+            else:
+                print('No list for ' + row[4])
+        else:
+            print('Who is ' + row[4])
+
+    if row[4] in ttt:
+        del ttt[ row[4] ]
 
 def saverowtoxws( row ):
     savetoxws( './xws-final/', row )
+
+with open(  'jto.json', 'r', encoding='UTF-8') as tttf:
+    tttj = json.load( tttf )
+    for player in tttj['tournament']['players']:
+        ttt[ player['name'] ] = player
 
 # get all the XWS if we don't have them
 with open('JTO Fully Correlated - Correlated.csv', 'r', encoding='UTF-8') as csvfile:

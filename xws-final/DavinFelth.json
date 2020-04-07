@@ -1,0 +1,209 @@
+{
+    "Add": "Trajectory Simulator to Sol Sixxa",
+    "Discord": "DavinFelth#7446",
+    "Drop": "Angled Deflectors from Black Sun Soldier",
+    "Final": {
+        "faction": "scumandvillainy",
+        "name": "DavinFelth JTO",
+        "obstacles": [
+            "coreasteroid5",
+            "core2asteroid4",
+            "core2asteroid5"
+        ],
+        "pilots": [
+            {
+                "id": "solsixxa",
+                "points": 73,
+                "ship": "scurrgh6bomber",
+                "upgrades": {
+                    "astromech": [
+                        "r5astromech"
+                    ],
+                    "device": [
+                        "protonbombs",
+                        "seismiccharges"
+                    ],
+                    "gunner": [
+                        "skilledbombardier"
+                    ],
+                    "sensor": [
+                        "trajectorysimulator"
+                    ],
+                    "title": [
+                        "havoc"
+                    ],
+                    "turret": [
+                        "ioncannonturret"
+                    ]
+                }
+            },
+            {
+                "id": "miningguildsentry",
+                "points": 22,
+                "ship": "modifiedtielnfighter"
+            },
+            {
+                "id": "blacksunsoldier",
+                "points": 24,
+                "ship": "z95af4headhunter"
+            },
+            {
+                "id": "dalanoberos",
+                "points": 45,
+                "ship": "m12lkimogilafighter"
+            },
+            {
+                "id": "blacksunsoldier",
+                "points": 24,
+                "ship": "z95af4headhunter"
+            },
+            {
+                "id": "autopilotdrone",
+                "points": 12,
+                "ship": "escapecraft"
+            }
+        ],
+        "points": 200,
+        "vendor": {
+            "yasb": {
+                "builder": "(Yet Another) X-Wing Miniatures Squad Builder",
+                "builder_url": "https://raithos.github.io",
+                "link": "https://raithos.github.io/?f=Scum%20and%20Villainy&d=v8ZsZ200Z145XW138WW88W69W71WW149W114W6Y304XY158XWWWY130XWWWWWY158XWWWY96X&sn=DavinFelth%20JTO&obs=coreasteroid5,core2asteroid4,core2asteroid5"
+            }
+        },
+        "version": "2.0.0"
+    },
+    "Name": "Justin Brown",
+    "Option1": {
+        "faction": "galacticempire",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "sabersquadronace",
+                "points": 52,
+                "ship": "tieininterceptor",
+                "upgrades": {
+                    "modification": [
+                        "hullupgrade",
+                        "shieldupgrade"
+                    ],
+                    "talent": [
+                        "composure"
+                    ]
+                }
+            },
+            {
+                "id": "lieutenantkestal",
+                "points": 54,
+                "ship": "tieagaggressor",
+                "upgrades": {
+                    "gunner": [
+                        "hotshotgunner"
+                    ],
+                    "missile": [
+                        "concussionmissiles",
+                        "ionmissiles"
+                    ],
+                    "modification": [
+                        "delayedfuses"
+                    ],
+                    "turret": [
+                        "ioncannonturret"
+                    ]
+                }
+            },
+            {
+                "id": "redline",
+                "points": 57,
+                "ship": "tiecapunisher",
+                "upgrades": {
+                    "device": [
+                        "protonbombs"
+                    ]
+                }
+            },
+            {
+                "id": "gammasquadronace",
+                "points": 33,
+                "ship": "tiesabomber",
+                "upgrades": {
+                    "talent": [
+                        "elusive"
+                    ]
+                }
+            }
+        ],
+        "points": 196,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "Option2": {
+        "faction": "scumandvillainy",
+        "name": "Random Squad",
+        "pilots": [
+            {
+                "id": "solsixxa",
+                "points": 67,
+                "ship": "scurrgh6bomber",
+                "upgrades": {
+                    "astromech": [
+                        "r5astromech"
+                    ],
+                    "device": [
+                        "protonbombs",
+                        "seismiccharges"
+                    ],
+                    "gunner": [
+                        "skilledbombardier"
+                    ],
+                    "title": [
+                        "havoc"
+                    ],
+                    "turret": [
+                        "ioncannonturret"
+                    ]
+                }
+            },
+            {
+                "id": "miningguildsentry",
+                "points": 22,
+                "ship": "modifiedtielnfighter",
+                "upgrades": {}
+            },
+            {
+                "id": "blacksunsoldier",
+                "points": 27,
+                "ship": "z95af4headhunter",
+                "upgrades": {
+                    "modification": [
+                        "angleddeflectors"
+                    ]
+                }
+            },
+            {
+                "id": "dalanoberos",
+                "points": 45,
+                "ship": "m12lkimogilafighter",
+                "upgrades": {}
+            },
+            {
+                "id": "blacksunsoldier",
+                "points": 24,
+                "ship": "z95af4headhunter",
+                "upgrades": {}
+            },
+            {
+                "id": "autopilotdrone",
+                "points": 12,
+                "ship": "escapecraft",
+                "upgrades": {}
+            }
+        ],
+        "points": 197,
+        "vendor": {},
+        "version": "2.0.0"
+    },
+    "TTT": "Justin Brown",
+    "VassalForm1": "DavinFelth",
+    "VassalForm2": "DavinFelth"
+}
